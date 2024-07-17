@@ -1,4 +1,4 @@
-module ddhelper.phillychi3
+module ddhelper.staticapi.sync
 
 go 1.22.2
 
