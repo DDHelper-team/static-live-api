@@ -1,6 +1,11 @@
 name: Go
 
-on: [push]
+on:
+  workflow_dispatch:
+  schedule: [{cron: "0/10 0 * * *"}]
+  push:
+    branches: [main]
+
 
 jobs:
   build:
@@ -14,10 +19,12 @@ jobs:
           go-version: ">=1.22.2"
       - name: Install dependencies
         run: go get .
+      - name: RUN
+        run: go run .
       - name: Build
         run: |
           mkdir build
-          go build -o build/sync .
+          mv live.json build
       - name: push
         uses: s0/git-publish-subdir-action@develop
         env:
