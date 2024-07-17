@@ -21,7 +21,9 @@ jobs:
         run: go get .
       - name: RUN
         run: go run .
-      - name: Build
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+      - name: move file
         run: |
           mkdir build
           mv live.json build
