@@ -11,22 +11,17 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version: '>=1.22.2'
+          go-version: ">=1.22.2"
       - name: Install dependencies
         run: go get .
       - name: Build
-        run: go build -o sync .
-      - name: pull from data
         run: |
-          mkdir -p bsync
-          git clone --branch data
-          cp -r data/* bsync
-          cp sync bsync
-      - name: push to data branch
-        run: |
-          cd bsync
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-          git add .
-          git commit -m "update data"
-          git push origin data
+          mkdir build
+          go build -o build/sync .
+      - name: push
+        uses: s0/git-publish-subdir-action@develop
+        env:
+          REPO: self
+          BRANCH: data
+          FOLDER: build
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
