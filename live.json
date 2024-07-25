@@ -297,17 +297,6 @@
         "title": "【#ホロARK】恐竜の世界へ、遂に参戦‼【 星街すいせい / ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ejFSVGUBK4k",
-        "picture": "https://i.ytimg.com/vi/ejFSVGUBK4k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【祇：Path of the Goddess】これ多分最終回だと思いますよ　#5【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": true,
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jRac7amSLww",
         "picture": "https://i.ytimg.com/vi/jRac7amSLww/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1721912400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#我是兼職工】沒有颱風假的園長，今晚繼續上工打工!!!!【#遊戲個人勢 / Fingla】"
     },
     {
@@ -438,5 +427,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1721930400,
         "title": "【Fit Boxing feat. HATSUNE MIKU】Revealing the FEVER NIGHT 3D (hopefully) ✨　#kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lD3rC6VVo-4",
+        "picture": "https://i.ytimg.com/vi/lD3rC6VVo-4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721941200,
+        "title": "【Elden Ring: Shadow of the Erdtree】 Is This the Right Way, Sir? 【SPOILER WARNING】【#6】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WqtWv3IYx0E",
+        "picture": "https://i.ytimg.com/vi/WqtWv3IYx0E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721998800,
+        "title": "【畫畫】幫觀眾話頭貼 只有5個唷!! | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DkCGsPf6Mb8",
+        "picture": "https://i.ytimg.com/vi/DkCGsPf6Mb8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721998800,
+        "title": "【Minecraft】海賊船を作るの巻。【花咲みやび/ホロスターズ】"
     }
 ]
