@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0af9_q51uNM",
         "picture": "https://i.ytimg.com/vi/0af9_q51uNM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1721919600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR接力｜甜蜜的母愛讓你安心睡睡❤️盡情撒嬌的膝枕｜Ear cleaning Ear massage｜ 耳かき オイルマッサージ 【白/黑3DIO KU100】"
     },
     {
@@ -253,17 +253,6 @@
         "title": "【 #ホロARK 】ホロARK３日目🦕【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tc7TafAtQgo",
-        "picture": "https://i.ytimg.com/vi/tc7TafAtQgo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロARK】はじめてのARK！恐竜をGUESSしたい！【ホロライブ / AZKi】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": true,
@@ -288,11 +277,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=LSe8kpeWYIw",
         "picture": "https://i.ytimg.com/vi/LSe8kpeWYIw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#ホロARK】3日目🦕通電するぞ！マップもようやくお散歩できる！【不知火フレア/ホロライブ】"
     },
@@ -350,17 +339,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ホロARK】🦖ポルカ参戦🦖Day3（参戦から2日目）～今日何も考えてない～【尾丸ポルカ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hakuzen0025",
-        "channellink": "https://www.youtube.com/@Hakuzen0025",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OkFd6mgjH9U",
-        "picture": "https://i.ytimg.com/vi/OkFd6mgjH9U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "『日本行雜談 』颱風天來聊天，大家要注意安全啊！【久田はくぜん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
