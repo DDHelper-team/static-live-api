@@ -266,13 +266,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Bz29USSHd7s",
         "picture": "https://i.ytimg.com/vi/Bz29USSHd7s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1721905200,
-        "title": "【 #ホロARK 】今日からホロARK参戦✨生まれたて行きます❣【ホロライブ / ロボ子さん】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ホロARK 】今日からホロARK参戦✨この世界を知る…！【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -330,17 +330,6 @@
         "title": "【#ホロARK】DYA3　ユタ様ぁあああああ！！！！ユタ様の復活！！！【ホロライブ/白上フブキ】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8YegKpM3Ql0",
-        "picture": "https://i.ytimg.com/vi/8YegKpM3Ql0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロARK 】今日はお手伝いしたりするぞ～！3日目【轟はじめ/ReGLOSS】#hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "islive": true,
@@ -376,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nw3372xVYps",
         "picture": "https://i.ytimg.com/vi/nw3372xVYps/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1721905200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】🦖ポルカ参戦🦖Day3（参戦から2日目）～今日何も考えてない～【尾丸ポルカ/ホロライブ】"
     },
     {
@@ -405,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1721908800,
         "title": "【＃ホロARK】３日目だから少し慣れてきたのでは？【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Cms0YX6V064",
+        "picture": "https://i.ytimg.com/vi/Cms0YX6V064/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721908843,
+        "title": "【#ハルヴァロ | VALORANT】スクリム4日目❗️フレキシブルになる！ #IMNIWIN【緋月ゆい/ネオポルテ】"
     }
 ]
