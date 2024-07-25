@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1JmqPpxZbfQ",
-        "picture": "https://i.ytimg.com/vi/1JmqPpxZbfQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AQJvRCpAvwk",
+        "picture": "https://i.ytimg.com/vi/AQJvRCpAvwk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ハルヴァロ】チーム座学意味ないもん ！スクリム4日目！最終調整！まじで！【ラプラス・ダークネス/百鬼あやめ/緋月ゆい/天鬼ぷるる/SqLA/SurugaMonkey/VALORANT】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721976300,
+        "title": "【#ハルヴァロ 本番】チーム座学意味ないもん ！優勝するぞー！！！【ラプラス・ダークネス/百鬼あやめ/緋月ゆい/天鬼ぷるる/SqLA/SurugaMonkey/VALORANT】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -317,17 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1721959200,
         "title": "【MEMBERS ONLY】Smiling Friends Watch-Along"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=03klm_3TYNw",
-        "picture": "https://i.ytimg.com/vi/03klm_3TYNw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ハルヴァロ】チーム座学意味ないもん ！スクリム最終日  フィジで破壊したい ＃IMNIWIN"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
