@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WYpin_YuO3M",
         "picture": "https://i.ytimg.com/vi/WYpin_YuO3M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722034800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活 / 縦型】しゃべろしゃべろー！！早起きして週末を満喫するんだ！！ #shorts【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -218,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722052800,
         "title": "【13時かも！！】帰ってきたらすぐやりたいぞおおおおおおおおおおお！！！！！【】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RwfkkpfN8rw",
+        "picture": "https://i.ytimg.com/vi/RwfkkpfN8rw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722036628,
+        "title": "【VALORANT】本番後1日目。\u0026quot;ろす\u0026quot;すごい。【緋月ゆい/ネオポルテ】"
     }
 ]
