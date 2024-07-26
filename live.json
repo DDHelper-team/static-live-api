@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aAvyk0p8_ig",
         "picture": "https://i.ytimg.com/vi/aAvyk0p8_ig/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1721966400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【パワフルプロ野球2024-2025】栄冠ナイン試してみますか【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oJ-9-cGy3Hg",
-        "picture": "https://i.ytimg.com/vi/oJ-9-cGy3Hg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4kBMUXNML-8",
+        "picture": "https://i.ytimg.com/vi/4kBMUXNML-8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fit Boxing feat. HATSUNE MIKU】Revealing the FEVER NIGHT 3D (hopefully) ✨　#kfp #キアライブ"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722002400,
+        "title": "【Witch Spring R】i am a grown ass woman now #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -295,5 +295,71 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1721988000,
         "title": "【 #ホロARK 】２日目🦕今日こそテイムして恐竜を乗りこなす！【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qBXC-LVPtXI",
+        "picture": "https://i.ytimg.com/vi/qBXC-LVPtXI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721995200,
+        "title": "【 ELDEN RING 】DLC来た！！！無限探索編【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-LSH5QgN9uM",
+        "picture": "https://i.ytimg.com/vi/-LSH5QgN9uM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721977259,
+        "title": "【#ハルヴァロ | VALORANT】本番❗️全力で頑張るしかねぇ！ #IMNIWIN【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LzVET4F4oyU",
+        "picture": "https://i.ytimg.com/vi/LzVET4F4oyU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721995200,
+        "title": "【單詞聯想歌回】隨機一個單詞會讓你想到甚麼歌呢!?想到就清唱一段!! feat.毬呢【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DV__Nhlm438",
+        "picture": "https://i.ytimg.com/vi/DV__Nhlm438/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721984400,
+        "title": "【＃ホロARK】7/26 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7sGbr6pVVPM",
+        "picture": "https://i.ytimg.com/vi/7sGbr6pVVPM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1721995200,
+        "title": "【 #ホロメン香水調査 】ホロメンの使ってる香水調べてみた！【儒烏風亭らでん/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=bsOpUAe8p0Q",
+        "picture": "https://i.ytimg.com/vi/bsOpUAe8p0Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#73 7/26金曜日！もうすぐ8月な気がする！！【尾丸ポルカ/ホロライブ】"
     }
 ]
