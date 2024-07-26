@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mBFObTHl3-w",
         "picture": "https://i.ytimg.com/vi/mBFObTHl3-w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722031220,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談 】おはよう！一緒に朝ごはん食べよう！【角巻わため/ホロライブ４期生】　#shorts"
     },
     {
