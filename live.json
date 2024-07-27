@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YDsRuVxD4SY",
         "picture": "https://i.ytimg.com/vi/YDsRuVxD4SY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722085200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】夏に負けた。  sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
@@ -190,12 +190,12 @@
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=uSr5jQS0FXU",
-        "picture": "https://i.ytimg.com/vi/uSr5jQS0FXU/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722085200,
-        "title": "【メン限 】リクエストに答えるタイプのASMR【荒咬オウガ /ホロスターズ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Gd1nLKgW6w4",
         "picture": "https://i.ytimg.com/vi/Gd1nLKgW6w4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722085200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings】AUGRAN: new hero testing【hololiveID openVC】"
     },
     {
@@ -328,5 +328,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【マダミス】「ホストクラブ殺人事件 -last proof of love-」【シュウジ視点：影山シエン】#声良ホスクラ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=U2JMPwDwBf0",
+        "picture": "https://i.ytimg.com/vi/U2JMPwDwBf0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722171600,
+        "title": "#2【レイトン教授と不思議な町】IQ8739の僕がすべての謎を解決します!!【花咲みやび/ホロスターズ】"
     }
 ]
