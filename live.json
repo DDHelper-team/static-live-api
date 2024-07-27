@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AtHC0cUtYJE",
         "picture": "https://i.ytimg.com/vi/AtHC0cUtYJE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722038400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SPELLING BEE】ft. HoloEN ! 🐝"
     },
     {
