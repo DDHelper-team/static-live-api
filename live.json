@@ -239,5 +239,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "RARE RETURN TO OSU WYSI | !plush"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6uoGhsGm0eg",
+        "picture": "https://i.ytimg.com/vi/6uoGhsGm0eg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722117600,
+        "title": "【Sucker for Love: Date to Die For】 The Lovecraftian Dating Sim is Back and... More Furry?"
     }
 ]
