@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iRkURNovGek",
-        "picture": "https://i.ytimg.com/vi/iRkURNovGek/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aPUrgEUrIfI",
+        "picture": "https://i.ytimg.com/vi/aPUrgEUrIfI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#iofiGalaxyTicket】 OTSUKARE! And Behind The Scenes Story"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722067200,
+        "title": "Superchat Thank You!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -273,5 +273,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722074400,
         "title": "【#ホロARK】よちよちARKだけど生きねばなるまい【大神ミオ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lH80aa-cXg4",
+        "picture": "https://i.ytimg.com/vi/lH80aa-cXg4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722077100,
+        "title": "【 #ホロARK 】今日はイベントがあるらしい！！5日目【轟はじめ/ReGLOSS】#hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iYav8gblAGM",
+        "picture": "https://i.ytimg.com/vi/iYav8gblAGM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722063600,
+        "title": "【MemberOnly】ゆるゆる過ごす時間【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=giN86ENygEY",
+        "picture": "https://i.ytimg.com/vi/giN86ENygEY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722074400,
+        "title": "【#ホロARK】DYA５　レイドが無い！つまり拠点を固めるのだ！！【ホロライブ/白上フブキ】"
     }
 ]
