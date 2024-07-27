@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y_RQYSubhQk",
-        "picture": "https://i.ytimg.com/vi/y_RQYSubhQk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zYQbfJ2iN_k",
+        "picture": "https://i.ytimg.com/vi/zYQbfJ2iN_k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃5】逆転裁判123 成歩堂セレクションするしゅばああああああああああああああああああああああああ！！！！/ Ace Attorney 1【ネタバレあり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722077400,
+        "title": "【＃ホロARK】ホロARKするしゅばああああああああああああああああああああああああああああああああああ！！！！！！！！　【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -339,5 +339,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【＃ホロARK】7/27 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Lys8QB8sSYY",
+        "picture": "https://i.ytimg.com/vi/Lys8QB8sSYY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722076200,
+        "title": "【＃ホロARK】5日目！！初めてのARKサバイバル生活！！！今日はイベントらしい！たのしみー！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Gd1nLKgW6w4",
+        "picture": "https://i.ytimg.com/vi/Gd1nLKgW6w4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722085200,
+        "title": "【Honor of Kings】AUGRAN: new hero testing【hololiveID openVC】"
     }
 ]
