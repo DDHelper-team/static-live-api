@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lzbhFG8gti4",
         "picture": "https://i.ytimg.com/vi/lzbhFG8gti4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722081600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 罪 】謝　罪　対　談【 領国つかさ / 安心院みさ 】"
     },
     {
@@ -97,17 +97,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722088800,
         "title": "【Earth Defense Force 6】EDF EDF EDF EDF #kfp #キアライブ #EDF6 #PR"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=b_6euIXRHPM",
-        "picture": "https://i.ytimg.com/vi/b_6euIXRHPM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": null,
-        "title": "【ド★初見】はじめての「カエルの為に鐘は鳴る」遊ぶ！！【戌神ころね/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -328,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722083400,
         "title": "【歌回】不知道多久沒見的 Youtube 歌回！7/27【久田はくぜん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ycWvgxmA_pA",
+        "picture": "https://i.ytimg.com/vi/ycWvgxmA_pA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722088800,
+        "title": "【Withering Rooms】Dejavu...FINGER HUNTING!!!! ☝️"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=jS5tIERZ8x8",
+        "picture": "https://i.ytimg.com/vi/jS5tIERZ8x8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【マダミス】「ホストクラブ殺人事件 -last proof of love-」【シュウジ視点：影山シエン】#声良ホスクラ"
     }
 ]
