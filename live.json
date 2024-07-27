@@ -57,35 +57,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9I6j9ZF6GiI",
         "picture": "https://i.ytimg.com/vi/9I6j9ZF6GiI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722077700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK ￤valguero】5日目 地下世界へ【ホロライブ/アキロゼ】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uyl968ruxtU",
         "picture": "https://i.ytimg.com/vi/uyl968ruxtU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722078000,
-        "title": "【#歌枠 /#四季の歌】トップバッター精一杯盛り上げます！！【#新人vtuber 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uwYy6lTN468",
-        "picture": "https://i.ytimg.com/vi/uwYy6lTN468/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【料理配信】夏野菜カレーを作ろう!!【花咲みやび/ホロスターズ】"
+        "title": "【#歌枠 /#四季の歌】トップバッター精一杯盛り上げます！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -209,17 +198,6 @@
         "title": "【#ホロARK】よちよちARKだけど生きねばなるまい【大神ミオ視点】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=lH80aa-cXg4",
-        "picture": "https://i.ytimg.com/vi/lH80aa-cXg4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722077100,
-        "title": "【 #ホロARK 】今日はイベントがあるらしい！！5日目【轟はじめ/ReGLOSS】#hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": true,
@@ -339,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722160800,
         "title": "≪#ホロARK≫ chill farming time #4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=KUydFraG8Pw",
+        "picture": "https://i.ytimg.com/vi/KUydFraG8Pw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ホロARK 】５日目！イベント＆新区域にいきたいにぇええええぇ！【ホロライブ/さくらみこ】"
     }
 ]
