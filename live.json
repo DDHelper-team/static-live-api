@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aPUrgEUrIfI",
         "picture": "https://i.ytimg.com/vi/aPUrgEUrIfI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722067200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Superchat Thank You!"
     },
     {
