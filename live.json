@@ -264,17 +264,6 @@
         "title": "【 #なのらいぶ 】深夜ロードショー『グレムリン - Gremlins』観るのら！！！🎬 Watch Party【姫森ルーナ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@Hakuzen0025",
-        "channellink": "https://www.youtube.com/@Hakuzen0025",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GXUQ8vpLejM",
-        "picture": "https://i.ytimg.com/vi/GXUQ8vpLejM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌回】不知道多久沒見的 Youtube 歌回！7/27【久田はくぜん】"
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
         "islive": true,
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722171600,
         "title": "#2【レイトン教授と不思議な町】IQ8739の僕がすべての謎を解決します!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=smulMCl_Tek",
+        "picture": "https://i.ytimg.com/vi/smulMCl_Tek/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722121200,
+        "title": "【Fallout: New Vegas】A BIG IRON ON MY HIP"
     }
 ]
