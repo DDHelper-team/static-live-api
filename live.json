@@ -22,17 +22,6 @@
         "title": "【 ＃ホロARK 】変態三銃士で今日もお仕事！｜5日目に参加✊ 【 猫又おかゆ/ホロライブ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=6xcAL8f2cKo",
-        "picture": "https://i.ytimg.com/vi/6xcAL8f2cKo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722070800,
-        "title": "【＃ホロARK】7/27 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": false,
@@ -64,17 +53,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722079800,
         "title": "山陰｜今天我們有辦法解謎結束突破這個鬼遮眼嗎？ 【Healing希靈/VTuber】"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GaQbkiiPHN8",
-        "picture": "https://i.ytimg.com/vi/GaQbkiiPHN8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【パワプロ2024】最新作きた～！栄冠ナイン3年縛り✨2年目夏～【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -112,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uwYy6lTN468",
         "picture": "https://i.ytimg.com/vi/uwYy6lTN468/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722070800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【料理配信】夏野菜カレーを作ろう!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -328,5 +306,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722085200,
         "title": "【メン限 】リクエストに答えるタイプのASMR【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=wSTu7ogQEks",
+        "picture": "https://i.ytimg.com/vi/wSTu7ogQEks/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 デュエホロ 】デッキ構築型ローグライクゲームのデュエホロ遊んでみる！【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
+        "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=O0LiqOL-9F0",
+        "picture": "https://i.ytimg.com/vi/O0LiqOL-9F0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【突発】POOLS初見"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZpdvnT13jUc",
+        "picture": "https://i.ytimg.com/vi/ZpdvnT13jUc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722074400,
+        "title": "【#ホロARK】5日目！！！おつかい行ったり楽しむ太郎✨【白銀ノエル/ホロライブ】"
     }
 ]
