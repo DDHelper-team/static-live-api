@@ -88,17 +88,6 @@
         "title": "Actually talking about stuff I\u0026#39;ve been up to🎼"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0S1CdalNdTw",
-        "picture": "https://i.ytimg.com/vi/0S1CdalNdTw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】やるぞ！！ワイバーンチャレンジ！！！！＠5日目【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": true,
@@ -240,5 +229,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722135600,
         "title": "【パワプロ2024】3年目の夏が始まる…！！！栄冠ナイン3年縛り✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "RARE RETURN TO OSU | !plush"
     }
 ]
