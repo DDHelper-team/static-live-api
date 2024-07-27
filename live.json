@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZpdvnT13jUc",
-        "picture": "https://i.ytimg.com/vi/ZpdvnT13jUc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QRjhLOCL80w",
+        "picture": "https://i.ytimg.com/vi/QRjhLOCL80w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロARK】5日目！！！おつかい行ったり楽しむ太郎✨【白銀ノエル/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722128400,
+        "title": "【朝活雑談】 ちょい寝不足！おはまっするさんでぇぇぇぇ💪🌞✨【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -185,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #なのらいぶ 】深夜ロードショー『グレムリン - Gremlins』観るのら！！！🎬 Watch Party【姫森ルーナ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ycWvgxmA_pA",
-        "picture": "https://i.ytimg.com/vi/ycWvgxmA_pA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Withering Rooms】Dejavu...FINGER HUNTING!!!! ☝️"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
