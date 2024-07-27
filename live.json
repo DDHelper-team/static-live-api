@@ -156,11 +156,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=BoTMKVp6pvk",
         "picture": "https://i.ytimg.com/vi/BoTMKVp6pvk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #なのらいぶ 】深夜ロードショー『グレムリン - Gremlins』観るのら！！！🎬 Watch Party【姫森ルーナ/ホロライブ】"
     },
