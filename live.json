@@ -61,8 +61,8 @@
         "link": "https://www.youtube.com/watch?v=9I6j9ZF6GiI",
         "picture": "https://i.ytimg.com/vi/9I6j9ZF6GiI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1722076200,
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722077700,
         "title": "【#ホロARK ￤valguero】5日目 地下世界へ【ホロライブ/アキロゼ】"
     },
     {
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zYQbfJ2iN_k",
         "picture": "https://i.ytimg.com/vi/zYQbfJ2iN_k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722077400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】ホロARKするしゅばああああああああああああああああああああああああああああああああああ！！！！！！！！　【ホロライブ/大空スバル】"
     },
     {
@@ -251,17 +251,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロARK 】ホロARK5日目！！鉄鉄鉄鉄鉄鉄鉄鉄【常闇トワ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-YnVozK9yLQ",
-        "picture": "https://i.ytimg.com/vi/-YnVozK9yLQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ソウルキャリバーⅥ 】１時間以内でカオスなキャラクリ大会⚔おまえらをやっつけるにぇ‼【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
