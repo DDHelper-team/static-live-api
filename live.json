@@ -50,7 +50,7 @@
         "link": "https://www.youtube.com/watch?v=BPs5fDNMFh8",
         "picture": "https://i.ytimg.com/vi/BPs5fDNMFh8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1722079800,
         "title": "山陰｜今天我們有辦法解謎結束突破這個鬼遮眼嗎？ 【Healing希靈/VTuber】"
     },
@@ -64,17 +64,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ホロARK ￤valguero】5日目 地下世界へ【ホロライブ/アキロゼ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uyl968ruxtU",
-        "picture": "https://i.ytimg.com/vi/uyl968ruxtU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#歌枠 /#四季の歌】トップバッター精一杯盛り上げます！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -112,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=b_6euIXRHPM",
         "picture": "https://i.ytimg.com/vi/b_6euIXRHPM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【ド★初見】はじめての「カエルの為に鐘は鳴る」遊ぶ！！【戌神ころね/ホロライブ】"
     },
@@ -328,17 +317,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロARK 】５日目！イベント＆新区域にいきたいにぇええええぇ！【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lH80aa-cXg4",
-        "picture": "https://i.ytimg.com/vi/lH80aa-cXg4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロARK 】今日はイベントがあるらしい！！5日目【轟はじめ/ReGLOSS】#hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
