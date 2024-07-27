@@ -79,23 +79,23 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GaQbkiiPHN8",
         "picture": "https://i.ytimg.com/vi/GaQbkiiPHN8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722049200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【パワプロ2024】最新作きた～！栄冠ナイン3年縛り✨2年目夏～【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=c5UqMYV1HvI",
         "picture": "https://i.ytimg.com/vi/c5UqMYV1HvI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722049200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CoD: BLACK OPS】Being TacticalRyS"
     },
     {
@@ -218,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722056400,
         "title": "【#iofiGalaxyTicket】 OTSUKARE! And Behind The Scenes Story"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y8uzRcXs8yA",
+        "picture": "https://i.ytimg.com/vi/Y8uzRcXs8yA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722076200,
+        "title": "【 #ホロARK 】わため参戦！なんでもします！！！【角巻わため/ホロライブ４期生】"
     }
 ]
