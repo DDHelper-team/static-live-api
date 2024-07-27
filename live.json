@@ -50,8 +50,8 @@
         "link": "https://www.youtube.com/watch?v=BPs5fDNMFh8",
         "picture": "https://i.ytimg.com/vi/BPs5fDNMFh8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1722079800,
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722132000,
         "title": "山陰｜今天我們有辦法解謎結束突破這個鬼遮眼嗎？ 【Healing希靈/VTuber】"
     },
     {
@@ -174,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722085200,
         "title": "【 -`🎙 歌枠/Singing 】夏に負けた。  sing and talk【獅子神レオナ/Re:AcT】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GlcFM0Zatkw",
-        "picture": "https://i.ytimg.com/vi/GlcFM0Zatkw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロARK】よちよちARKだけど生きねばなるまい【大神ミオ視点】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -328,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722092400,
         "title": "【 #なのらいぶ 】深夜ロードショー『グレムリン - Gremlins』観るのら！！！🎬 Watch Party【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hakuzen0025",
+        "channellink": "https://www.youtube.com/@Hakuzen0025",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GXUQ8vpLejM",
+        "picture": "https://i.ytimg.com/vi/GXUQ8vpLejM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722083400,
+        "title": "【歌回】不知道多久沒見的 Youtube 歌回！7/27【久田はくぜん】"
     }
 ]
