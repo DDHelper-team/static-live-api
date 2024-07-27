@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bMYPa3t5flc",
         "picture": "https://i.ytimg.com/vi/bMYPa3t5flc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722108600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ROBLOX DRESS TO IMPRESS】give me 5 stars【Dokibird】"
     },
     {
@@ -238,6 +238,6 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "RARE RETURN TO OSU WYSI | !plush"
     }
 ]
