@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ycWvgxmA_pA",
         "picture": "https://i.ytimg.com/vi/ycWvgxmA_pA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722088800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Withering Rooms】Dejavu...FINGER HUNTING!!!! ☝️"
     },
     {
