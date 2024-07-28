@@ -154,28 +154,6 @@
         "title": "【ストリートファイター6】バトルハブとかいろいろうろうろ戦う【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8QIqpBhTYvw",
-        "picture": "https://i.ytimg.com/vi/8QIqpBhTYvw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ただいま！！！！【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PT2YtObjxZU",
-        "picture": "https://i.ytimg.com/vi/PT2YtObjxZU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ファミコン世界大会 】ホロライブファミコン大会の練習するのら！！！【姫森ルーナ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": true,
@@ -341,17 +319,6 @@
         "title": "【 #ホロARK 】レベリングしてレイド参戦！！6日目【轟はじめ/ReGLOSS】#hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
-        "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qs9kq2iwtX8",
-        "picture": "https://i.ytimg.com/vi/qs9kq2iwtX8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【突発】POOLS初見 その2"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "islive": true,
@@ -409,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tAsAHz8g9FQ",
         "picture": "https://i.ytimg.com/vi/tAsAHz8g9FQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722166200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】フンコロハウスを作るぞ！【大神ミオ視点】"
     },
     {
