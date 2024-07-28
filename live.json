@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iMYv52EC4Pk",
         "picture": "https://i.ytimg.com/vi/iMYv52EC4Pk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722157200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】7/28 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
     },
     {
@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=axu5seWgnAs",
-        "picture": "https://i.ytimg.com/vi/axu5seWgnAs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8XmBSgswmts",
+        "picture": "https://i.ytimg.com/vi/8XmBSgswmts/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【LIVE A LIVE(リメイク版)】完全初見★オムニバス形式の神レトロゲー！どの世界へ飛び込もう？ #1 【博衣こより/ホロライブ】【ネタバレあり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722160800,
+        "title": "【 #ホロARK 】6日目！レイドやばそう・・・！？今日も頑張るぞおおおおおお！！！【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -306,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722160800,
         "title": "【＃ホロARK】ホロライブARK開幕！！！！！みんなで共同生活だ！！！６日目【湊あくあ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bCevSpH8s5I",
+        "picture": "https://i.ytimg.com/vi/bCevSpH8s5I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722159900,
+        "title": "【#ホロARK ￤valguero】6日目 ケツァル空母そして洞窟へ【ホロライブ/アキロゼ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vE2CsGBNyLs",
+        "picture": "https://i.ytimg.com/vi/vE2CsGBNyLs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722168000,
+        "title": "【HOLOARK】reaper\u0026#39;s first RAID! (part 3) #ホロARK"
     }
 ]
