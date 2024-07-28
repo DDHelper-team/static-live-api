@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=zq8l0qzOXxs",
-        "picture": "https://i.ytimg.com/vi/zq8l0qzOXxs/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=dJWoDnprLbY",
+        "picture": "https://i.ytimg.com/vi/dJWoDnprLbY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722128400,
-        "title": "【SUPER MARIO WORLD ENDURANCE】the super duper FWMC sisters 🐾【FUWAMOCO】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【SUPER MARIO WORLD ENDURANCE】the super duper FWMC sisters 🐾 #shorts 【FUWAMOCO 縦型配信 VERTICAL】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -46,23 +46,23 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rQlRAZpgHeM",
         "picture": "https://i.ytimg.com/vi/rQlRAZpgHeM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722124800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Actually talking about stuff I\u0026#39;ve been up to🎼"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QRjhLOCL80w",
         "picture": "https://i.ytimg.com/vi/QRjhLOCL80w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722128400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】 ちょい寝不足！おはまっするさんでぇぇぇぇ💪🌞✨【白銀ノエル/ホロライブ】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tRlADF4SUKU",
         "picture": "https://i.ytimg.com/vi/tRlADF4SUKU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722127800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED】ハテナ役　荒咬オウガと見る　シン・ドゲンジャーズ　第3話【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -141,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722135600,
         "title": "【パワプロ2024】3年目の夏が始まる…！！！栄冠ナイン3年縛り✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6uoGhsGm0eg",
-        "picture": "https://i.ytimg.com/vi/6uoGhsGm0eg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Sucker for Love: Date to Die For】 The Lovecraftian Dating Sim is Back and... More Furry?"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -207,5 +196,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722157200,
         "title": "【＃ホロARK】7/28 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TbyvD5ahb48",
+        "picture": "https://i.ytimg.com/vi/TbyvD5ahb48/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722142800,
+        "title": "【SING】ロスト歌枠：今日は好きな歌をうたっちゃおおおお【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OTBCaqyad4w",
+        "picture": "https://i.ytimg.com/vi/OTBCaqyad4w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722164400,
+        "title": "【 #ホロARK 】デイノ隊わため！レイドでベロ美活躍？！【角巻わため/ホロライブ４期生】"
     }
 ]
