@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CeB1IXghXm4",
         "picture": "https://i.ytimg.com/vi/CeB1IXghXm4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722204000,
-        "title": "【#花岸れいでぃお】第58回花岸れいでぃお！２年もやっててすごい！！【花咲みやび/岸堂天真/ホロスターズ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#花岸れいでぃお】第58回花岸れいでぃお！花岸で議論バトル！！【花咲みやび/岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=20wZkZlk_bU",
         "picture": "https://i.ytimg.com/vi/20wZkZlk_bU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722204000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fitness Boxing feat. HATSUNE MIKU】 omg miku hi!!!!"
     },
     {
