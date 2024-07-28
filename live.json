@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BPs5fDNMFh8",
         "picture": "https://i.ytimg.com/vi/BPs5fDNMFh8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722132000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "山陰｜今天我們有辦法解謎結束突破這個鬼遮眼嗎？ 【Healing希靈/VTuber】"
     },
     {
@@ -42,17 +42,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722139200,
         "title": "【みんなのリズム天国】リズム天国でアイドルの底力見せたるわぃ！！【 雪花ラミィ /ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rQlRAZpgHeM",
-        "picture": "https://i.ytimg.com/vi/rQlRAZpgHeM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Actually talking about stuff I\u0026#39;ve been up to🎼"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -97,17 +86,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Fallout: New Vegas】A BIG IRON ON MY HIP"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tRlADF4SUKU",
-        "picture": "https://i.ytimg.com/vi/tRlADF4SUKU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVED】ハテナ役　荒咬オウガと見る　シン・ドゲンジャーズ　第3話【荒咬オウガ /ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -218,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722164400,
         "title": "【 #ホロARK 】デイノ隊わため！レイドでベロ美活躍？！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=UYXci1L7cNo",
+        "picture": "https://i.ytimg.com/vi/UYXci1L7cNo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Guerilla Girl-rilla Zatsu】Updating My Diary"
     }
 ]
