@@ -207,5 +207,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Hollow Knight】LONG PLAY : First Stream !【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=k-wgzIL9348",
+        "picture": "https://i.ytimg.com/vi/k-wgzIL9348/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722214800,
+        "title": "【Advent 1st Year Anniversary】Poison Testing Batsu!"
     }
 ]
