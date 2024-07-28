@@ -22,17 +22,6 @@
         "title": "【Elden Ring: Shadow of the Erdtree】 Visions of Title 【SPOILER WARNING】【#7】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nn3Webhiw2Y",
-        "picture": "https://i.ytimg.com/vi/nn3Webhiw2Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】ホロライブARK開始！6日目ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": true,
@@ -86,17 +75,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【＃ホロARK】6日目！！初めてのARKサバイバル生活！！！みこ先輩にもらった子育てるぞ！【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Krw9orGDPWI",
-        "picture": "https://i.ytimg.com/vi/Krw9orGDPWI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】いざ！！ワイバーンに乗ってどこまでも！！！！＠6日目【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -240,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722247200,
         "title": "≪#ホロARK≫ SHE CAN FLY I CAN FLY SHE CAN FLYYYY #5"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=U57TCgznqcI",
+        "picture": "https://i.ytimg.com/vi/U57TCgznqcI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722254400,
+        "title": "\u0026quot; amazarashi 縛り\u0026quot; でカラオケ歌枠！【 奏手イヅル / ホロスターズ 】"
     }
 ]
