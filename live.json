@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Sj41kJ94KFg",
         "picture": "https://i.ytimg.com/vi/Sj41kJ94KFg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722173413,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】好きなもの歌っちゃう♬【緋月ゆい/ネオポルテ】"
     },
     {
