@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ndaLs68cf8c",
         "picture": "https://i.ytimg.com/vi/ndaLs68cf8c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722177000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ASMR/MemberOnly】つきいちめんげんASMR🎧️今月もおつかれ🛌💤【尾丸ポルカ/ホロライブ】"
     },
     {
