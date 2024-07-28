@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bCevSpH8s5I",
         "picture": "https://i.ytimg.com/vi/bCevSpH8s5I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722159900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK ￤valguero】6日目 ケツァル空母そして洞窟へ【ホロライブ/アキロゼ】"
     },
     {
@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qs9kq2iwtX8",
         "picture": "https://i.ytimg.com/vi/qs9kq2iwtX8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722159900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【突発】POOLS初見 その2"
     }
 ]
