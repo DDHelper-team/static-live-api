@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jPZwNImfk8M",
         "picture": "https://i.ytimg.com/vi/jPZwNImfk8M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722164400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロARK】初参加！できることをやるだけ【 iofi / hololiveID 】"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p8D6efEKQaQ",
         "picture": "https://i.ytimg.com/vi/p8D6efEKQaQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722164400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】DAY６　本日もファームしつつ、３匹目どうしよぉおおおっ！！！！！！【ホロライブ/白上フブキ】"
     },
     {
@@ -405,5 +405,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ホロARK 】儒烏風亭らでん参戦！！初心者です！！やったね！！【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tAsAHz8g9FQ",
+        "picture": "https://i.ytimg.com/vi/tAsAHz8g9FQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722166200,
+        "title": "【#ホロARK】フンコロハウスを作るぞ！【大神ミオ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Sj41kJ94KFg",
+        "picture": "https://i.ytimg.com/vi/Sj41kJ94KFg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722173413,
+        "title": "【歌枠】好きなもの歌っちゃう♬【緋月ゆい/ネオポルテ】"
     }
 ]
