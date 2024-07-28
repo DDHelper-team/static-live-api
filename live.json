@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=45RJh43m6vI",
         "picture": "https://i.ytimg.com/vi/45RJh43m6vI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722164400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#おかころ】ふたりで「ファミコン世界大会」練習じゃあああああああ！🔥🔥🔥【オフコラボ】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OTBCaqyad4w",
         "picture": "https://i.ytimg.com/vi/OTBCaqyad4w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722164400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロARK 】デイノ隊わため！レイドでベロ美活躍？！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -387,23 +387,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Gn1ekTTxU8Y",
         "picture": "https://i.ytimg.com/vi/Gn1ekTTxU8Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722164400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】今日はイオフィちゃんを案内したい【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sdArEwZ7OLk",
         "picture": "https://i.ytimg.com/vi/sdArEwZ7OLk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722164400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK 】儒烏風亭らでん参戦！！初心者です！！やったね！！【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
