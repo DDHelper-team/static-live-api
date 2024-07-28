@@ -55,17 +55,6 @@
         "title": "【 雑談＆告知 】近況報告や告知をする！【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=45RJh43m6vI",
-        "picture": "https://i.ytimg.com/vi/45RJh43m6vI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#おかころ】ふたりで「ファミコン世界大会」練習じゃあああああああ！🔥🔥🔥【オフコラボ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "islive": false,
@@ -405,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722254400,
         "title": "【雑談】ゆるりんおはなし～【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DnK9TDmXEN0",
+        "picture": "https://i.ytimg.com/vi/DnK9TDmXEN0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722236400,
+        "title": "【ストリートファイター6】祝開校！立川バレエ教室【アルランディス/ホロスターズ】"
     }
 ]
