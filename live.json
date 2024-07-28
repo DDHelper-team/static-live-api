@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-JrWrqCUuDg",
-        "picture": "https://i.ytimg.com/vi/-JrWrqCUuDg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jPZwNImfk8M",
+        "picture": "https://i.ytimg.com/vi/jPZwNImfk8M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Subnautica】Exploring The Deep Sea【 iofi / hololiveID 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722164400,
+        "title": "【 #ホロARK】初参加！できることをやるだけ【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -189,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PT2YtObjxZU",
         "picture": "https://i.ytimg.com/vi/PT2YtObjxZU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722153600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ファミコン世界大会 】ホロライブファミコン大会の練習するのら！！！【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iLzOc3OVq3s",
         "picture": "https://i.ytimg.com/vi/iLzOc3OVq3s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722153600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【加班台】為什麼暖暖包到現在還一堆人在用？ 『因為他有鐵粉』【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
     },
     {
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722160800,
         "title": "【＃ホロARK】いざ！！ワイバーンに乗ってどこまでも！！！！＠6日目【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Bjd9SbsRGlU",
+        "picture": "https://i.ytimg.com/vi/Bjd9SbsRGlU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722160800,
+        "title": "【#ホロARK】6日目🦕１日INしなかったらみんなとレベル差が２００以上離れていたんだが？【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xtfMYL8DfXg",
+        "picture": "https://i.ytimg.com/vi/xtfMYL8DfXg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722160800,
+        "title": "【#ホロARK】はじめてのARK！恐竜をGUESSしたい！#3【ホロライブ / AZKi】"
     }
 ]
