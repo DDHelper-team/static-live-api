@@ -77,17 +77,6 @@
         "title": "【Fallout: New Vegas】A BIG IRON ON MY HIP"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iswLHkhR4x4",
-        "picture": "https://i.ytimg.com/vi/iswLHkhR4x4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOMELO RADIO】Episode 3- Special Guest @IRyS #shorts #radio"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TbyvD5ahb48",
         "picture": "https://i.ytimg.com/vi/TbyvD5ahb48/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722142800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SING】ロスト歌枠：今日は好きな歌をうたっちゃおおおお【ホロライブ / ロボ子さん】"
     },
     {
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722146400,
         "title": "【コラボ歌枠】配信予定地【ホロライブ/ときのそら/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-JrWrqCUuDg",
+        "picture": "https://i.ytimg.com/vi/-JrWrqCUuDg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722146400,
+        "title": "【Subnautica】Exploring The Deep Sea【 iofi / hololiveID 】"
     }
 ]
