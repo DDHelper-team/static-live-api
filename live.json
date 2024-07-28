@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LJzUmKRdS_4",
-        "picture": "https://i.ytimg.com/vi/LJzUmKRdS_4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪#ホロARK≫ what did i miss #4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "islive": true,
@@ -42,17 +31,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【＃ホロARK】ホロライブARK開始！6日目ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=T-HGc8OfdKo",
-        "picture": "https://i.ytimg.com/vi/T-HGc8OfdKo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロARK 】３日目🦕TEKつかまえたぞおおおお！！【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -328,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722204000,
         "title": "【#花岸れいでぃお】第58回花岸れいでぃお！２年もやっててすごい！！【花咲みやび/岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wMxVRXdXenw",
+        "picture": "https://i.ytimg.com/vi/wMxVRXdXenw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722258000,
+        "title": "【聊天】交友40問(戀愛篇) 這題你會怎麼回答？ | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     }
 ]
