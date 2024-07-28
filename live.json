@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GoGs7iR7VC0",
         "picture": "https://i.ytimg.com/vi/GoGs7iR7VC0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722205800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】月曜日だよ～おはみぉーん！！！"
     },
     {
@@ -86,17 +86,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722236400,
         "title": "【ストリートファイター6】祝開校！立川バレエ教室【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CeB1IXghXm4",
-        "picture": "https://i.ytimg.com/vi/CeB1IXghXm4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#花岸れいでぃお】第58回花岸れいでぃお！花岸で議論バトル！！【花咲みやび/岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -152,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Fitness Boxing feat. HATSUNE MIKU】 omg miku hi!!!!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Z-_qrEzhOrg",
-        "picture": "https://i.ytimg.com/vi/Z-_qrEzhOrg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#74 7/29月曜日！あなたはどんな月曜日？！！【尾丸ポルカ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
