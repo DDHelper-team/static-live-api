@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pqbBrBXu3jc",
         "picture": "https://i.ytimg.com/vi/pqbBrBXu3jc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722168000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談＆告知 】近況報告や告知をする！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -143,17 +143,6 @@
         "title": "【 #ホロARK】初参加！できることをやるだけ【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MvdqqOyxHSk",
-        "picture": "https://i.ytimg.com/vi/MvdqqOyxHSk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】バトルハブとかいろいろうろうろ戦う【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": true,
@@ -189,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BG8rqpKfn4w",
         "picture": "https://i.ytimg.com/vi/BG8rqpKfn4w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722168000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】6日目！！初めてのARKサバイバル生活！！！みこ先輩にもらった子育てるぞ！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vE2CsGBNyLs",
         "picture": "https://i.ytimg.com/vi/vE2CsGBNyLs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722168000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOARK】reaper\u0026#39;s first RAID! (part 3) #ホロARK"
     },
     {
@@ -332,23 +321,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j_xUuwQKHb4",
         "picture": "https://i.ytimg.com/vi/j_xUuwQKHb4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722168000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】ホロARKするしゅばああああああああああああああああああああああああああああああああああ！！！！！！！！　【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wRYPR22w3PQ",
         "picture": "https://i.ytimg.com/vi/wRYPR22w3PQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722168000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】心臓を捧げっちゃま～～～！！！！！！！！！【ホロライブ/赤井はあと】"
     },
     {
@@ -405,5 +394,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【緊急！】クラファン200％達成…!?何事!?緊急招集です！！！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JCee6Xf7Z9A",
+        "picture": "https://i.ytimg.com/vi/JCee6Xf7Z9A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722254400,
+        "title": "【雑談】ゆるりんおはなし～【ホロライブ/夏色まつり】"
     }
 ]
