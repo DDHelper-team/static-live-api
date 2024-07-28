@@ -211,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vE2CsGBNyLs",
-        "picture": "https://i.ytimg.com/vi/vE2CsGBNyLs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O8Nd6I0tvfI",
+        "picture": "https://i.ytimg.com/vi/O8Nd6I0tvfI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOARK】reaper\u0026#39;s first RAID! (part 3) #ホロARK"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722218400,
+        "title": "【DARK SOULS: REMASTERED】dlc and late game ikz (part 5) #calliolive"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -295,17 +295,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【歌枠】好きなもの歌っちゃう♬【緋月ゆい/ネオポルテ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=zhk2_Rq2XLM",
-        "picture": "https://i.ytimg.com/vi/zhk2_Rq2XLM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1747234800,
-        "title": "【7/22～の週間スケジュール】Free chat"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
