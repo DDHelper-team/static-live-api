@@ -242,17 +242,6 @@
         "title": "【 #ホロARK 】レベリングしてレイド参戦！！6日目【轟はじめ/ReGLOSS】#hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ndaLs68cf8c",
-        "picture": "https://i.ytimg.com/vi/ndaLs68cf8c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ASMR/MemberOnly】つきいちめんげんASMR🎧️今月もおつかれ🛌💤【尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": true,
@@ -311,12 +300,12 @@
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=oN8H9Dy0SsQ",
-        "picture": "https://i.ytimg.com/vi/oN8H9Dy0SsQ/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=zhk2_Rq2XLM",
+        "picture": "https://i.ytimg.com/vi/zhk2_Rq2XLM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722177000,
-        "title": "【#ドラゴンクエストビルダーズ  】第三章いくぞー！【#新人vtuber 】#livestream"
+        "status": null,
+        "timestamp": 1747234800,
+        "title": "【7/22～の週間スケジュール】Free chat"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722236400,
         "title": "【ストリートファイター6】祝開校！立川バレエ教室【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CeB1IXghXm4",
+        "picture": "https://i.ytimg.com/vi/CeB1IXghXm4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722204000,
+        "title": "【#花岸れいでぃお】第58回花岸れいでぃお！２年もやっててすごい！！【花咲みやび/岸堂天真/ホロスターズ】"
     }
 ]
