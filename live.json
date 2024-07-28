@@ -66,17 +66,6 @@
         "title": "#2【レイトン教授と不思議な町】IQ8739の僕がすべての謎を解決します!!【花咲みやび/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=smulMCl_Tek",
-        "picture": "https://i.ytimg.com/vi/smulMCl_Tek/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fallout: New Vegas】A BIG IRON ON MY HIP"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -200,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6Dc6ig2ioSc",
         "picture": "https://i.ytimg.com/vi/6Dc6ig2ioSc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722146400,
-        "title": "【コラボ歌枠】配信予定地【ホロライブ/ときのそら/夏色まつり】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【コラボ歌枠】そらまつの楽しい歌枠だよ！！【ホロライブ/ときのそら/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-JrWrqCUuDg",
         "picture": "https://i.ytimg.com/vi/-JrWrqCUuDg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722146400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Subnautica】Exploring The Deep Sea【 iofi / hololiveID 】"
     },
     {
@@ -229,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722150000,
         "title": "【ストリートファイター6】バトルハブとかいろいろうろうろ戦う【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8QIqpBhTYvw",
+        "picture": "https://i.ytimg.com/vi/8QIqpBhTYvw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722160800,
+        "title": "ただいま！！！！【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PT2YtObjxZU",
+        "picture": "https://i.ytimg.com/vi/PT2YtObjxZU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722153600,
+        "title": "【 ファミコン世界大会 】ホロライブファミコン大会の練習するのら！！！【姫森ルーナ/ホロライブ】"
     }
 ]
