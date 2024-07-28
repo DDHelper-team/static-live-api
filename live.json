@@ -68,11 +68,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=fAaHjzx1Z9Q",
         "picture": "https://i.ytimg.com/vi/fAaHjzx1Z9Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【APEX】オリンパスでサイコパス / アステル"
     },
