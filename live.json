@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x9bq1KfBMOc",
         "picture": "https://i.ytimg.com/vi/x9bq1KfBMOc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722200400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Elden Ring: Shadow of the Erdtree】 Visions of Title 【SPOILER WARNING】【#7】"
     },
     {
@@ -20,17 +20,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722214800,
         "title": "【Advent 1st Year Anniversary】Poison Testing Batsu!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=p8D6efEKQaQ",
-        "picture": "https://i.ytimg.com/vi/p8D6efEKQaQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロARK】DAY６　本日もファームしつつ、３匹目どうしよぉおおおっ！！！！！！【ホロライブ/白上フブキ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -121,17 +110,6 @@
         "title": "【聊天】交友40問(戀愛篇) 這題你會怎麼回答？ | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Crv7m7dRxkk",
-        "picture": "https://i.ytimg.com/vi/Crv7m7dRxkk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロARK 】ホロARK６日目！！拠点復興【常闇トワ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "islive": false,
@@ -174,5 +152,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722204000,
         "title": "【Fitness Boxing feat. HATSUNE MIKU】 omg miku hi!!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Z-_qrEzhOrg",
+        "picture": "https://i.ytimg.com/vi/Z-_qrEzhOrg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#74 7/29月曜日！あなたはどんな月曜日？！！【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8BX0Z2k4s9U",
+        "picture": "https://i.ytimg.com/vi/8BX0Z2k4s9U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722243600,
+        "title": "【＃ホロARK】7/29 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
     }
 ]
