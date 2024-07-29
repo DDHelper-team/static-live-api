@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9DlvkIARtjQ",
         "picture": "https://i.ytimg.com/vi/9DlvkIARtjQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722241800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【I Am Part-time Worker!!】SELAMAT DATANG SELAMAT BERBELANJA【Kureiji Ollie】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722258000,
         "title": "【歌枠 / Singing】クラファン250％目標歌枠！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p1GqYEhcwBg",
+        "picture": "https://i.ytimg.com/vi/p1GqYEhcwBg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722254400,
+        "title": "【＃ホロARK】7日目！！初めてのARKサバイバル生活！！！ロクエレ育成とレイドと！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
