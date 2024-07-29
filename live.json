@@ -242,17 +242,6 @@
         "title": "【メン限】予定地【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RuaQuvFVa5k",
-        "picture": "https://i.ytimg.com/vi/RuaQuvFVa5k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロARK】ホロARK５日目🦖ふぁーむ！鉄あつめるわよ！【ホロライブ/癒月ちょこ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722337200,
         "title": "【重大発表あり!!!】宝鐘マリン生誕祭 3D LIVE！豪華ゲスト＆新曲お披露目！【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=N8kwdPpHzlI",
+        "picture": "https://i.ytimg.com/vi/N8kwdPpHzlI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722312000,
+        "title": "【Witch Spring R】orange is the new pink 💅✨　#kfp #キアライブ"
     }
 ]
