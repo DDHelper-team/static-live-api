@@ -33,17 +33,6 @@
         "title": "【雑談】ゆるりんおはなし～【ホロライブ/夏色まつり】"
     },
     {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wMxVRXdXenw",
-        "picture": "https://i.ytimg.com/vi/wMxVRXdXenw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【聊天】交友40問(戀愛篇) 這題你會怎麼回答？ | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
-    },
-    {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
         "islive": true,
@@ -64,17 +53,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロARK 】今日はレイドにイベントに盛りだくさん？！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MHkyicN40Rw",
-        "picture": "https://i.ytimg.com/vi/MHkyicN40Rw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【誕生日カウントダウン！】新髪型お披露目＆新MVチラ見せあり！【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -343,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rL8cTOvsaIQ",
         "picture": "https://i.ytimg.com/vi/rL8cTOvsaIQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722267000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Makoto Wakaido’s Case Files TRILOGY DELUXE】PIXEL DETECTIVE?【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
