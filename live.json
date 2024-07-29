@@ -33,17 +33,6 @@
         "title": "【雑談】ゆるりんおはなし～【ホロライブ/夏色まつり】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DnK9TDmXEN0",
-        "picture": "https://i.ytimg.com/vi/DnK9TDmXEN0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】祝開校！立川バレエ教室【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -90,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8BX0Z2k4s9U",
         "picture": "https://i.ytimg.com/vi/8BX0Z2k4s9U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722243600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】7/29 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
     },
     {
@@ -233,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pRSxlBNXulA",
         "picture": "https://i.ytimg.com/vi/pRSxlBNXulA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722243600,
-        "title": "【雑談】配信予定地【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】夕方のまったり雑談【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722254400,
         "title": "【＃ホロARK】7日目！！初めてのARKサバイバル生活！！！ロクエレ育成とレイドと！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dBHkdNUXnq0",
+        "picture": "https://i.ytimg.com/vi/dBHkdNUXnq0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722258000,
+        "title": "【MEMBER\u0026#39;S ONLY】casual sing song! #hololiveenglish"
     }
 ]
