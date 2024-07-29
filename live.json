@@ -220,17 +220,6 @@
         "title": "【#ホロARK】レイドにイベントにたのしむぞおおお～！🔥7日目【ホロライブ/赤井はあと】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IsLxee_7JCU",
-        "picture": "https://i.ytimg.com/vi/IsLxee_7JCU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】殺伐とした世界でわたしはゴロゴロと生きていく【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
         "islive": true,
@@ -350,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722333600,
         "title": "【スーパーマリオブラザーズ】中に誰もいませんよ！！！【火威青×狂蘭メロコ】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rL8cTOvsaIQ",
+        "picture": "https://i.ytimg.com/vi/rL8cTOvsaIQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722267000,
+        "title": "【Makoto Wakaido’s Case Files TRILOGY DELUXE】PIXEL DETECTIVE?【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
