@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8BX0Z2k4s9U",
-        "picture": "https://i.ytimg.com/vi/8BX0Z2k4s9U/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cIP-c7g9FOU",
+        "picture": "https://i.ytimg.com/vi/cIP-c7g9FOU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】7/29 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722256200,
+        "title": "【＃ホロARK】ホロライブARK開始！7日目ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -284,5 +284,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722258000,
         "title": "【Minecraft】back to building【holoID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MCrrcPlo6Ss",
+        "picture": "https://i.ytimg.com/vi/MCrrcPlo6Ss/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722254400,
+        "title": "【＃ホロARK】かわいいペットを手に入れて気持ち良くなったのでみんなを助けたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
+        "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=kRUOnzhT70Q",
+        "picture": "https://i.ytimg.com/vi/kRUOnzhT70Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#3】POOLS初見"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=egZSIKnXedo",
+        "picture": "https://i.ytimg.com/vi/egZSIKnXedo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722247200,
+        "title": "【#ホロARK】🦖ポルカ参戦🦖Day7（参戦から4日目）～ホロメン・・・これは一体どういう状況だ・・・？～【尾丸ポルカ/ホロライブ】"
     }
 ]
