@@ -154,17 +154,6 @@
         "title": "【スーパーマリオブラザーズ】中に誰もいませんよ！！！【火威青×狂蘭メロコ】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bIcD5CZqtV4",
-        "picture": "https://i.ytimg.com/vi/bIcD5CZqtV4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【朝枠】みんなおはよ～して～～～！！！【湊あくあ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Volcano Princess】 The Parenting Simulator RPG Where Things Can Go Terribly Wrong"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9SG0TNIIcPo",
+        "picture": "https://i.ytimg.com/vi/9SG0TNIIcPo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722301200,
+        "title": "【Ring Fit Adventure】Leg Day But In 3D"
     }
 ]
