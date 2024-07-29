@@ -253,7 +253,7 @@
         "title": "〖 ASMR / Talk 〗 むちっコとお話しながらなかよしこよし♡ 〖 雑談 /耳かき/Vtuber/Japanese 〗"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -261,5 +261,27 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "action packed EVIL dev stream | !plush"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oqn1XhVEYzs",
+        "picture": "https://i.ytimg.com/vi/oqn1XhVEYzs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722309300,
+        "title": "【Minit Fun Racer】game is very short, but very kind. i play.【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=N195rqVn9Us",
+        "picture": "https://i.ytimg.com/vi/N195rqVn9Us/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722290400,
+        "title": "【Volcano Princess】 The Parenting Simulator RPG Where Things Can Go Terribly Wrong"
     }
 ]
