@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Zr3T64cfF_I",
         "picture": "https://i.ytimg.com/vi/Zr3T64cfF_I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722246300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK ￤valguero】7日目 いけるのかTEK文明【ホロライブ/アキロゼ】"
     },
     {
@@ -130,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722247200,
         "title": "【#ホロARK】7日目！！カルカロ隊！出陣じゃ～～～～ッ✨【白銀ノエル/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eRM9-W7_w3A",
-        "picture": "https://i.ytimg.com/vi/eRM9-W7_w3A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】ジュリでマスターを目指す！2日目！ランク認定戦【岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
