@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ajFNCsa2BEU",
         "picture": "https://i.ytimg.com/vi/ajFNCsa2BEU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722220200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M.】Monday Morning Malas : MMM is back frfr【Ayunda Risu】"
     },
     {
@@ -163,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722261600,
         "title": "【誕生日カウントダウン！】【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QXcLE_zG220",
+        "picture": "https://i.ytimg.com/vi/QXcLE_zG220/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722232800,
+        "title": "【Coral Island】Bang, Nikah Yuk【 iofi / hololiveID 】"
     }
 ]
