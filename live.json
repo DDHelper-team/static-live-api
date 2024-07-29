@@ -121,17 +121,6 @@
         "title": "【Illusion Carnival】another day to decrease sanity【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ajFNCsa2BEU",
-        "picture": "https://i.ytimg.com/vi/ajFNCsa2BEU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【M.M.M.】Monday Morning Malas : MMM is back frfr【Ayunda Risu】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -185,5 +174,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【スト６】ジュリでマスターを目指す！2日目！ランク認定戦【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sF9vYESpIB4",
+        "picture": "https://i.ytimg.com/vi/sF9vYESpIB4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722254400,
+        "title": "【スト6】RAGEに向けて！練習Day1【獅白ぼたん/ホロライブ】"
     }
 ]
