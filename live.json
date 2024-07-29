@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tstC1pnY44o",
         "picture": "https://i.ytimg.com/vi/tstC1pnY44o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722265200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 111 🐾 #FWMCMORNING"
     },
     {
@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=g7LaEhX_aC8",
-        "picture": "https://i.ytimg.com/vi/g7LaEhX_aC8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=b-T49aomFgk",
+        "picture": "https://i.ytimg.com/vi/b-T49aomFgk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠 / Singing】クラファン250％目標歌枠！【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722337200,
+        "title": "【歌枠 / Singing】50曲歌います！！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -196,28 +196,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【＃ホロARK】かわいいペットを手に入れて気持ち良くなったのでみんなを助けたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=egZSIKnXedo",
-        "picture": "https://i.ytimg.com/vi/egZSIKnXedo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロARK】🦖ポルカ参戦🦖Day7（参戦から4日目）～ホロメン・・・これは一体どういう状況だ・・・？～【尾丸ポルカ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DyMJt8fePjU",
-        "picture": "https://i.ytimg.com/vi/DyMJt8fePjU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】たまにはまったりしよう。  sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
