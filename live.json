@@ -110,17 +110,6 @@
         "title": "【＃ホロARK】7/29 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ur1KowYKvSM",
-        "picture": "https://i.ytimg.com/vi/Ur1KowYKvSM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Illusion Carnival】another day to decrease sanity【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -196,5 +185,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722290400,
         "title": "【 #朝こよ 】7月ラスト～！火曜日の朝は朝こよ～っ☀ #191 【博衣こより/hololive】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CQ7-bfAZ23Q",
+        "picture": "https://i.ytimg.com/vi/CQ7-bfAZ23Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722304800,
+        "title": "【1 Year Later】A Year in Review - Behind-the-Scenes Debut Talk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yZh3m1_9Aus",
+        "picture": "https://i.ytimg.com/vi/yZh3m1_9Aus/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722247200,
+        "title": "【#ホロARK】7日目🦕レイドで役に立ちたいだぁ…！！【不知火フレア/ホロライブ】"
     }
 ]
