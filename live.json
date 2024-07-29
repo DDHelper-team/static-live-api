@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MHkyicN40Rw",
         "picture": "https://i.ytimg.com/vi/MHkyicN40Rw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722261600,
-        "title": "【誕生日カウントダウン！】【ホロライブ/宝鐘マリン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【誕生日カウントダウン！】新髪型お披露目＆新MVチラ見せあり！【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z8eeYo9h0tw",
         "picture": "https://i.ytimg.com/vi/Z8eeYo9h0tw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722261600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings】Hi, I\u0026#39;m a complete beginner ! ૮ ˶ᵔ ᵕ ᵔ˶ ა"
     },
     {
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722304800,
         "title": "【ELDEN RING: SHADOW OF THE ERDTREE DLC】The Demigod Slayer MohgRyS and Milady"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rdrnr7HkKmY",
+        "picture": "https://i.ytimg.com/vi/rdrnr7HkKmY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722337200,
+        "title": "【メン限】予定地【夕刻ロベル/ホロスターズ】"
     }
 ]
