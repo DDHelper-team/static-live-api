@@ -132,17 +132,6 @@
         "title": "【Minecraft】back to building【holoID】"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MCrrcPlo6Ss",
-        "picture": "https://i.ytimg.com/vi/MCrrcPlo6Ss/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】かわいいペットを手に入れて気持ち良くなったのでみんなを助けたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Makoto Wakaido’s Case Files TRILOGY DELUXE】PIXEL DETECTIVE?【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bIcD5CZqtV4",
+        "picture": "https://i.ytimg.com/vi/bIcD5CZqtV4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722290400,
+        "title": "【朝枠】みんなおはよ～して～～～！！！【湊あくあ/ホロライブ】"
     }
 ]
