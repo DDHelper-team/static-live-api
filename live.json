@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QXcLE_zG220",
-        "picture": "https://i.ytimg.com/vi/QXcLE_zG220/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IS-oyuqES7c",
+        "picture": "https://i.ytimg.com/vi/IS-oyuqES7c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Coral Island】Bang, Nikah Yuk【 iofi / hololiveID 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722247200,
+        "title": "【 #ホロARK】DAY 2 ! Learning The Basic and Leveling【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722258000,
         "title": "【MEMBER\u0026#39;S ONLY】casual sing song! #hololiveenglish"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZPpUuuGNYuY",
+        "picture": "https://i.ytimg.com/vi/ZPpUuuGNYuY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722258000,
+        "title": "【#絕區零 】來跑跑跑跑跑跑劇情【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6NhwAlNe9u0",
+        "picture": "https://i.ytimg.com/vi/6NhwAlNe9u0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722258000,
+        "title": "【Minecraft】back to building【holoID】"
     }
 ]
