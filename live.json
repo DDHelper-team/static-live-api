@@ -99,17 +99,6 @@
         "title": "【＃ホロARK】ホロライブARK開始！8日目ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=YgfoabISdp4",
-        "picture": "https://i.ytimg.com/vi/YgfoabISdp4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722342600,
-        "title": "【メンバーシップ限定】宝鐘マリン生誕祭3D LIVEアンコール！！【ホロライブ/宝鐘マリン】"
-    },
-    {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
         "islive": true,
@@ -185,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722391200,
         "title": "【ONE YEAR ANNIVERSARY】OFF COLLAB KARAOKE PARTY WITH ??? GUESTS!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=SpofC0Yz-RQ",
-        "picture": "https://i.ytimg.com/vi/SpofC0Yz-RQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722342600,
-        "title": "【 #ホロARK 】ホロARK８日目！！最終日まであと1日！【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -304,7 +282,7 @@
         "picture": "https://i.ytimg.com/vi/Yrt3H4VqIgI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1722342600,
+        "timestamp": null,
         "title": "【#ホロARK】RIP『ちゃまのこさうるす』、しかし戦いは続く・・・！【ホロライブ/赤井はあと】"
     },
     {
@@ -372,5 +350,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ホロARK 】儒烏風亭らでん参戦その③！森くんの成長を見守る【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xKHrCmrkenA",
+        "picture": "https://i.ytimg.com/vi/xKHrCmrkenA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722351600,
+        "title": "【歌枠】リハビリ歌枠！！-Midnight station -70 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Oe2AO-5TI_w",
+        "picture": "https://i.ytimg.com/vi/Oe2AO-5TI_w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ホロARK】ホロARK６日目🦖まぐたん復活？！【ホロライブ/癒月ちょこ】"
     }
 ]
