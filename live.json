@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QR9blo_F8bc",
-        "picture": "https://i.ytimg.com/vi/QR9blo_F8bc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_hKI8TocfO0",
+        "picture": "https://i.ytimg.com/vi/_hKI8TocfO0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OVERWATCH 2】COOLING DOWN SUMMER WITH SOME MEI ACTION【Kureiji Ollie】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722394800,
+        "title": "【WHO IS ZOMBIE】ARE YOU ZOMBIE????【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -73,7 +73,7 @@
         "picture": "https://i.ytimg.com/vi/6NhwAlNe9u0/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1722344400,
+        "timestamp": 1722348000,
         "title": "【Minecraft】back to building【holoID】"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BqPawQJxyZ4",
         "picture": "https://i.ytimg.com/vi/BqPawQJxyZ4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722343800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】DAY８　エレメンタルが足りません【ホロライブ/白上フブキ】"
     },
     {
@@ -372,5 +372,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ホロARK】ホロARK６日目🦖まぐたん復活？！【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=SpofC0Yz-RQ",
+        "picture": "https://i.ytimg.com/vi/SpofC0Yz-RQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ホロARK 】ホロARK８日目！！最終日まであと1日！【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=G1Xs_IaIucc",
+        "picture": "https://i.ytimg.com/vi/G1Xs_IaIucc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722430800,
+        "title": "【聊天】7月最後一天 能跟大家一起留下點什麼就太好了  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     }
 ]
