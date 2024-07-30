@@ -24,24 +24,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TVxZ-V3kFnM",
         "picture": "https://i.ytimg.com/vi/TVxZ-V3kFnM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722333600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "重大告知です【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=I4IOpnIDOus",
         "picture": "https://i.ytimg.com/vi/I4IOpnIDOus/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722333600,
-        "title": "【はいしんよていち】コラボかも？？？？？？？？【博衣こより/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ファミコン世界大会コラボ】周防パトラ VS 博衣こより🔥オフコラボで対決！！【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -101,23 +101,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9YKgWyprqmI",
-        "picture": "https://i.ytimg.com/vi/9YKgWyprqmI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1NyUprbZzfQ",
+        "picture": "https://i.ytimg.com/vi/1NyUprbZzfQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】7/30 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【＃ホロARK】ホロライブARK開始！8日目ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Jg7QXfAXCi8",
         "picture": "https://i.ytimg.com/vi/Jg7QXfAXCi8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722333600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スーパーマリオブラザーズ】中に誰もいませんよ！！！【火威青×狂蘭メロコ】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -150,7 +150,7 @@
         "picture": "https://i.ytimg.com/vi/gXwXWbi_mnI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1722333600,
+        "timestamp": 1722340800,
         "title": "【#ホロARK】いきなりマミー！恐竜のママになりましたけど大丈夫ですか？ 🐾【HOLOARK FUWAMOCO】"
     },
     {
@@ -328,5 +328,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722340800,
         "title": "【#ホロARK】8日目！！あくたん不在のカルカロ隊！不安だけど出陣じゃ～～～～ッTT✨【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rGJBuFRwJyI",
+        "picture": "https://i.ytimg.com/vi/rGJBuFRwJyI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【#ホロARK】8日目🦕拠点がやばい！防衛強化すんぞ！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Aw0F7liyFlQ",
+        "picture": "https://i.ytimg.com/vi/Aw0F7liyFlQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ホロぽん飯テロ部】味ぽんを一番上手く使いこなした最強投稿は誰だ？！【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vKhwThmSH_s",
+        "picture": "https://i.ytimg.com/vi/vKhwThmSH_s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【#ホロARK】I AM BACK AND LATE 配信復活でただいま超超超超遅れました許してくださいがんばります。。。【hololive ID 2nd Gen | Anya Melfissa】"
     }
 ]
