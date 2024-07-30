@@ -110,17 +110,6 @@
         "title": "【＃ホロARK】7/30 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=J2eYVGfeM20",
-        "picture": "https://i.ytimg.com/vi/J2eYVGfeM20/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ELDEN RING: SHADOW OF THE ERDTREE DLC】The Demigod Slayer MohgRyS and Milady"
-    },
-    {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": false,
@@ -277,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9SKjpI77g8E",
         "picture": "https://i.ytimg.com/vi/9SKjpI77g8E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722322800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】Probably Long stream : Let\u0026#39;s continue building !!【Ayunda Risu】"
     },
     {
@@ -295,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722340800,
         "title": "≪#ホロARK≫ WE APPROACHING THE END... #6"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lVGZ75H71Sc",
+        "picture": "https://i.ytimg.com/vi/lVGZ75H71Sc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【 ＃ホロARK 】野菜ケーキをたくさん作ろう🎂✦｜8日目に参加✊ 【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=a1Ghdhfxuog",
+        "picture": "https://i.ytimg.com/vi/a1Ghdhfxuog/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722339900,
+        "title": "【WATCH PARTY】EWC SEA Showdown【 RRQ vs BOOM Esports】"
     }
 ]
