@@ -22,17 +22,6 @@
         "title": "【雑談】ゆるりんおはなし～【ホロライブ/夏色まつり】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TVxZ-V3kFnM",
-        "picture": "https://i.ytimg.com/vi/TVxZ-V3kFnM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "重大告知です【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": true,
@@ -57,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=b-T49aomFgk",
         "picture": "https://i.ytimg.com/vi/b-T49aomFgk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722337200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】50曲歌います！！！【#新人vtuber 】"
     },
     {
@@ -90,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Qh9jNg1IUVc",
         "picture": "https://i.ytimg.com/vi/Qh9jNg1IUVc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722337200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】RAGE前に若きガイル使いにいろいろ教わる男【アルランディス/ホロスターズ】"
     },
     {
@@ -110,25 +99,14 @@
         "title": "【＃ホロARK】ホロライブARK開始！8日目ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Jg7QXfAXCi8",
-        "picture": "https://i.ytimg.com/vi/Jg7QXfAXCi8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スーパーマリオブラザーズ】中に誰もいませんよ！！！【火威青×狂蘭メロコ】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NxtHvRVLzXM",
         "picture": "https://i.ytimg.com/vi/NxtHvRVLzXM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722337200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【重大発表あり!!!】宝鐘マリン生誕祭 3D LIVE！豪華ゲスト＆新曲お披露目！【ホロライブ/宝鐘マリン】"
     },
     {
@@ -361,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722340800,
         "title": "【#ホロARK】RIP『ちゃまのこさうるす』、しかし戦いは続く・・・！【ホロライブ/赤井はあと】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rdrnr7HkKmY",
+        "picture": "https://i.ytimg.com/vi/rdrnr7HkKmY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722423600,
+        "title": "【メン限】予定地【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j_RV7iYijxo",
+        "picture": "https://i.ytimg.com/vi/j_RV7iYijxo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
     }
 ]
