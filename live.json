@@ -229,5 +229,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Ring Fit Adventure】Leg Day But In 3D"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VaoeD3MhjJI",
+        "picture": "https://i.ytimg.com/vi/VaoeD3MhjJI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722339000,
+        "title": "【 #ホロARK】DAY 3 ! RAID! YEAH!【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=QRO74w3Qvzg",
+        "picture": "https://i.ytimg.com/vi/QRO74w3Qvzg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Dead by Daylight】２VS８⚡悪魔の追いかけっこ✨【ホロライブ/癒月ちょこ】"
     }
 ]
