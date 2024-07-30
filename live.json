@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CQ7-bfAZ23Q",
-        "picture": "https://i.ytimg.com/vi/CQ7-bfAZ23Q/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Cm22kvoMr4M",
+        "picture": "https://i.ytimg.com/vi/Cm22kvoMr4M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【1 Year Later】A Year in Review - Behind-the-Scenes Debut Talk"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722385800,
+        "title": "【The Exit 8】The Fear of Japanese Business Men in Suits"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=N8kwdPpHzlI",
         "picture": "https://i.ytimg.com/vi/N8kwdPpHzlI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722312000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Witch Spring R】orange is the new pink 💅✨　#kfp #キアライブ"
     },
     {
