@@ -88,17 +88,6 @@
         "title": "【#ホロARK】いきなりマミー！恐竜のママになりましたけど大丈夫ですか？ 🐾【HOLOARK FUWAMOCO】"
     },
     {
-        "channel": "https://www.youtube.com/@Mare_ASMR",
-        "channellink": "https://www.youtube.com/@Mare_ASMR",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=04XGxmYdKL8",
-        "picture": "https://i.ytimg.com/vi/04XGxmYdKL8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "〖 ASMR / Talk 〗 むちっコとお話しながらなかよしこよし♡ 〖 雑談 /耳かき/Vtuber/Japanese 〗"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": true,
@@ -233,11 +222,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=BqPawQJxyZ4",
         "picture": "https://i.ytimg.com/vi/BqPawQJxyZ4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#ホロARK】DAY８　エレメンタルが足りません【ホロライブ/白上フブキ】"
     },
@@ -255,12 +244,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xKHrCmrkenA",
         "picture": "https://i.ytimg.com/vi/xKHrCmrkenA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722351600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】リハビリ歌枠！！-Midnight station -70 【HACHI】"
     },
     {
@@ -328,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722384000,
         "title": "it\u0026#39;s been a year - let\u0026#39;s reflect on it together"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=TxFY2wzq7e0",
+        "picture": "https://i.ytimg.com/vi/TxFY2wzq7e0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【MINECRAFT】MENGULI【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ldu3Jw5k9QY",
+        "picture": "https://i.ytimg.com/vi/ldu3Jw5k9QY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA【 iofi / hololiveID 】"
     }
 ]
