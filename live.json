@@ -209,28 +209,6 @@
         "title": "【Minit Fun Racer】game is very short, but very kind. i play.【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=N195rqVn9Us",
-        "picture": "https://i.ytimg.com/vi/N195rqVn9Us/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Volcano Princess】 The Parenting Simulator RPG Where Things Can Go Terribly Wrong"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9SG0TNIIcPo",
-        "picture": "https://i.ytimg.com/vi/9SG0TNIIcPo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Ring Fit Adventure】Leg Day But In 3D"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": false,
@@ -251,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Dead by Daylight】２VS８⚡悪魔の追いかけっこ✨【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mXMiFLhTWvo",
+        "picture": "https://i.ytimg.com/vi/mXMiFLhTWvo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【あつまれ どうぶつの森】#07人生初のどう森！まったりスローライフを送る【 雪花ラミィ /ホロライブ】"
     }
 ]
