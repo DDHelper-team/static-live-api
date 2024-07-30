@@ -132,17 +132,6 @@
         "title": "【重大発表あり!!!】宝鐘マリン生誕祭 3D LIVE！豪華ゲスト＆新曲お披露目！【ホロライブ/宝鐘マリン】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=N8kwdPpHzlI",
-        "picture": "https://i.ytimg.com/vi/N8kwdPpHzlI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Witch Spring R】orange is the new pink 💅✨　#kfp #キアライブ"
-    },
-    {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
         "islive": false,
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722340800,
         "title": "【#ホロARK】I AM BACK AND LATE 配信復活でただいま超超超超遅れました許してくださいがんばります。。。【hololive ID 2nd Gen | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Yrt3H4VqIgI",
+        "picture": "https://i.ytimg.com/vi/Yrt3H4VqIgI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【#ホロARK】RIP『ちゃまのこさうるす』、しかし戦いは続く・・・！【ホロライブ/赤井はあと】"
     }
 ]
