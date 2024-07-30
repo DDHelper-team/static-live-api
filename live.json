@@ -176,17 +176,6 @@
         "title": "【 #ホロARK】DAY 3 ! RAID! YEAH!【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QRO74w3Qvzg",
-        "picture": "https://i.ytimg.com/vi/QRO74w3Qvzg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Dead by Daylight】２VS８⚡悪魔の追いかけっこ✨【ホロライブ/癒月ちょこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722339900,
         "title": "【WATCH PARTY】EWC SEA Showdown【 RRQ vs BOOM Esports】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=h9ZStIXLSpA",
+        "picture": "https://i.ytimg.com/vi/h9ZStIXLSpA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722340800,
+        "title": "【 #ホロARK 】８日目！終盤だ！やるぞおおおおおおおおおおおおお🔥【ホロライブ/さくらみこ】"
     }
 ]
