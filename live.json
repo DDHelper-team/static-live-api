@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yqGxfIsM-O0",
-        "picture": "https://i.ytimg.com/vi/yqGxfIsM-O0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hjXUbssyAIc",
+        "picture": "https://i.ytimg.com/vi/hjXUbssyAIc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DARK SOULS: REMASTERED】the final dark soul (final) #calliolive"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722337200,
+        "title": "【DEAD BY DAYLIGHT】oh the horror... #calliolive"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
