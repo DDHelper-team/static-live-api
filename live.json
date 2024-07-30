@@ -55,17 +55,6 @@
         "title": "【FUWAMOCO 1st ANNIVERSARY】COUNTDOWN to the BIG DAY and TOTSUMACHI party 🐾✨️"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ueg4HaLNkrs",
-        "picture": "https://i.ytimg.com/vi/Ueg4HaLNkrs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロARK 】ムチ片手に今日もがんばります！【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -240,5 +229,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722420000,
         "title": "【#ホロARK】最終日！！皆勤賞★太郎花子光子と一緒に悔いの残らない戦いをするぞ～ッ✨【白銀ノエル/ホロライブ】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "neuro entertains you all by herself"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5kCM79qvDsw",
+        "picture": "https://i.ytimg.com/vi/5kCM79qvDsw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722434400,
+        "title": "【 #歌枠  / Singing！】クラファン最終日！250％いきたい！！見守り歌枠！！【#新人vtuber 】"
     }
 ]
