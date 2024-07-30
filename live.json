@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=a1Ghdhfxuog",
         "picture": "https://i.ytimg.com/vi/a1Ghdhfxuog/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722339900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【WATCH PARTY】EWC SEA Showdown【 RRQ vs BOOM Esports】"
     },
     {
