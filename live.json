@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CQ7-bfAZ23Q",
         "picture": "https://i.ytimg.com/vi/CQ7-bfAZ23Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722304800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【1 Year Later】A Year in Review - Behind-the-Scenes Debut Talk"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=J2eYVGfeM20",
         "picture": "https://i.ytimg.com/vi/J2eYVGfeM20/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722304800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ELDEN RING: SHADOW OF THE ERDTREE DLC】The Demigod Slayer MohgRyS and Milady"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9SG0TNIIcPo",
         "picture": "https://i.ytimg.com/vi/9SG0TNIIcPo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722301200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Ring Fit Adventure】Leg Day But In 3D"
     }
 ]
