@@ -297,17 +297,6 @@
         "title": "【#ホロARK ￤valguero】9日目 最終日どちらが勝つか【ホロライブ/アキロゼ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NHeNjKAzcg4",
-        "picture": "https://i.ytimg.com/vi/NHeNjKAzcg4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "最終回【レイトン教授と不思議な町】IQ8739の僕がすべての謎を解決します!!【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "islive": true,
@@ -376,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=B0XqKItBeLw",
         "picture": "https://i.ytimg.com/vi/B0XqKItBeLw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722429000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【BYE FOR NOW】talking and peacing out! (also ark finale) #calliolive"
     },
     {
@@ -394,5 +383,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722430800,
         "title": "【DUEHOLO デュエホロ】Roguelike Card Game But HOLOLIVE!!!【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=U15nWSvuMv4",
+        "picture": "https://i.ytimg.com/vi/U15nWSvuMv4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722432600,
+        "title": "【Minecraft】i just gonna do the easiest part: floor【hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Hn-HpPtgEEI",
+        "picture": "https://i.ytimg.com/vi/Hn-HpPtgEEI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722515400,
+        "title": "【シールMノスタルジア】衣装コラボ！？ここはいったいどんな世界～！？【ロボ子さん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sLXC6oQfB4A",
+        "picture": "https://i.ytimg.com/vi/sLXC6oQfB4A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722430800,
+        "title": "【＃ホロARK】最終日まで楽しむぞ～！～！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
