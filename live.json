@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_hKI8TocfO0",
         "picture": "https://i.ytimg.com/vi/_hKI8TocfO0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1722394800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【WHO IS ZOMBIE】ARE YOU ZOMBIE????【Kureiji Ollie】"
     },
     {
@@ -75,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722438000,
         "title": "ASMR｜愛意濃密深入按摩❤️｜Gentle massage to relax the brain｜ 睡眠をリラックスさせる優しいマッサージとトリガー音【KU100／黑3DIO】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kaYqXgc_9Yk",
-        "picture": "https://i.ytimg.com/vi/kaYqXgc_9Yk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "it\u0026#39;s been a year - let\u0026#39;s reflect on it together"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
