@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PMvxd-Qhn1I",
         "picture": "https://i.ytimg.com/vi/PMvxd-Qhn1I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722427200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6】チーム顔合わせ＆スクリム1日目！ーRAGE STREET FIGHTER (8/3)【獅白ぼたん/ホロライブ】"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=egPH7PLVPCY",
         "picture": "https://i.ytimg.com/vi/egPH7PLVPCY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722427200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】最終日!!!!みんなで生き残る【 星街すいせい / ホロライブ】"
     },
     {
@@ -240,17 +240,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【＃ホロARK】最終日！楽しも～う！！【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=o2mMWQP8EDk",
-        "picture": "https://i.ytimg.com/vi/o2mMWQP8EDk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロARK 】最終日🦕いくぞおおおおおおおおおおおおおおおおおおお【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -354,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EUzCLIfA0y8",
         "picture": "https://i.ytimg.com/vi/EUzCLIfA0y8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722427200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】最終回！行くぞ！ケツアリ！見ててねイケメンザウルス！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -376,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q1RtKopINow",
         "picture": "https://i.ytimg.com/vi/q1RtKopINow/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722427200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】最終日！ヒーラー隊🚑みんなを回復してまもる！！【風真いろは/ホロライブ】"
     },
     {
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722429000,
         "title": "【BYE FOR NOW】talking and peacing out! (also ark finale) #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zFEu5AlyEzQ",
+        "picture": "https://i.ytimg.com/vi/zFEu5AlyEzQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722430800,
+        "title": "【DUEHOLO デュエホロ】Roguelike Card Game But HOLOLIVE!!!【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
