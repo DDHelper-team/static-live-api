@@ -442,12 +442,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WUr-Tj_JFHg",
         "picture": "https://i.ytimg.com/vi/WUr-Tj_JFHg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722435000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】hehehe"
     },
     {
@@ -460,5 +460,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722513600,
         "title": "【ストリートファイター6】RAGE顔合わせ＆スクリムDAY1【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=dikWX4wrrUs",
+        "picture": "https://i.ytimg.com/vi/dikWX4wrrUs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】Another holoID Cup Build!【holoID】"
     }
 ]
