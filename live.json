@@ -372,5 +372,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロARK】LAST DAY!【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q1RtKopINow",
+        "picture": "https://i.ytimg.com/vi/q1RtKopINow/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722427200,
+        "title": "【#ホロARK】最終日！ヒーラー隊🚑みんなを回復してまもる！！【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B0XqKItBeLw",
+        "picture": "https://i.ytimg.com/vi/B0XqKItBeLw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722429000,
+        "title": "【BYE FOR NOW】talking and peacing out! (also ark finale) #calliolive"
     }
 ]
