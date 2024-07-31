@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Cm22kvoMr4M",
         "picture": "https://i.ytimg.com/vi/Cm22kvoMr4M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722385800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Exit 8】The Fear of Japanese Business Men in Suits"
     },
     {
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kaYqXgc_9Yk",
         "picture": "https://i.ytimg.com/vi/kaYqXgc_9Yk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722384000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "it\u0026#39;s been a year - let\u0026#39;s reflect on it together"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_Zd-5akjTRw",
         "picture": "https://i.ytimg.com/vi/_Zd-5akjTRw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722384024,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【NieR：Automata】#8 | 完全初見！3周目の世界とは…!?【緋月ゆい/ネオポルテ】※ネタバレあり"
     }
 ]
