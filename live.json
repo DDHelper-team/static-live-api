@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bqvPvwb6NXA",
-        "picture": "https://i.ytimg.com/vi/bqvPvwb6NXA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_6I12D0d0q0",
+        "picture": "https://i.ytimg.com/vi/_6I12D0d0q0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロARK】7/31 ホロ鯖ニュース【ホロライブ/兎田ぺこら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722420000,
+        "title": "【＃ホロARK】ホロライブARK開始！最終日！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
