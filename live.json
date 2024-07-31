@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=A0d72imhjT4",
         "picture": "https://i.ytimg.com/vi/A0d72imhjT4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722423600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】配信予定地【ホロライブ/ときのそら】"
     },
     {
@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eEjI2T_usFM",
         "picture": "https://i.ytimg.com/vi/eEjI2T_usFM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722423600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】どうなる最終日？！最後のレイド戦【大神ミオ視点】"
     },
     {
@@ -372,5 +372,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロARK 】いよいよ最終日！！仲間と最後まで...！！【轟はじめ/ReGLOSS】#hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EUzCLIfA0y8",
+        "picture": "https://i.ytimg.com/vi/EUzCLIfA0y8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722427200,
+        "title": "【#ホロARK】最終回！行くぞ！ケツアリ！見ててねイケメンザウルス！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3EOkEDd9B-8",
+        "picture": "https://i.ytimg.com/vi/3EOkEDd9B-8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722425400,
+        "title": "【 #ホロARK】LAST DAY!【 iofi / hololiveID 】"
     }
 ]
