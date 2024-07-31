@@ -6,7 +6,7 @@
         "link": "https://www.youtube.com/watch?v=_hKI8TocfO0",
         "picture": "https://i.ytimg.com/vi/_hKI8TocfO0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1722394800,
         "title": "【WHO IS ZOMBIE】ARE YOU ZOMBIE????【Kureiji Ollie】"
     },
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DMG8IM9X4qY",
         "picture": "https://i.ytimg.com/vi/DMG8IM9X4qY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722394800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FNAF】IDK Man, I Just Work Here - First TimePlaythrough!"
     },
     {
