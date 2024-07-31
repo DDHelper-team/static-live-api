@@ -143,17 +143,6 @@
         "title": "【 ＃ホロARK 】絶対に生き残ろう～～～！｜最終日だ✊ 【 猫又おかゆ/ホロライブ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PMvxd-Qhn1I",
-        "picture": "https://i.ytimg.com/vi/PMvxd-Qhn1I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】チーム顔合わせ＆スクリム1日目！ーRAGE STREET FIGHTER (8/3)【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "islive": true,
@@ -460,5 +449,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722435000,
         "title": "【Minecraft】hehehe"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Oxh2pf4avSA",
+        "picture": "https://i.ytimg.com/vi/Oxh2pf4avSA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722513600,
+        "title": "【ストリートファイター6】RAGE顔合わせ＆スクリムDAY1【アルランディス/ホロスターズ】"
     }
 ]
