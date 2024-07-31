@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=G1Xs_IaIucc",
         "picture": "https://i.ytimg.com/vi/G1Xs_IaIucc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722430800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【聊天】7月最後一天 能跟大家一起留下點什麼就太好了  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=osq42CwXhBg",
         "picture": "https://i.ytimg.com/vi/osq42CwXhBg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722430800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED】KARAOKE TO 1.54 🎤✨ #shorts #kfp #キアライブ"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QFGWKbpzCVw",
         "picture": "https://i.ytimg.com/vi/QFGWKbpzCVw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722430800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロARK】The Last Adventure 最終日楽しむぞーーー！！【hololive ID 2nd Gen | Anya Melfissa】"
     },
     {
@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zFEu5AlyEzQ",
         "picture": "https://i.ytimg.com/vi/zFEu5AlyEzQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722430800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DUEHOLO デュエホロ】Roguelike Card Game But HOLOLIVE!!!【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -409,12 +409,34 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sLXC6oQfB4A",
         "picture": "https://i.ytimg.com/vi/sLXC6oQfB4A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722430800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロARK】最終日まで楽しむぞ～！～！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Xh2MzWvOB44",
+        "picture": "https://i.ytimg.com/vi/Xh2MzWvOB44/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722434400,
+        "title": "【ドラゴンボールZ　ドッカンバトル】ネタバレあり！　亀仙人ガチャ【荒咬オウガ/ホロスターズ】#shorts"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Xsr25TWU77c",
+        "picture": "https://i.ytimg.com/vi/Xsr25TWU77c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ホロARK】ホロARK最終日🦖生き残りたいっ!!!!!!!!!!!!!!!【ホロライブ/癒月ちょこ  】"
     }
 ]
