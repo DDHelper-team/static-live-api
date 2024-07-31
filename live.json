@@ -77,17 +77,6 @@
         "title": "【シールMノスタルジア】衣装コラボ！？ここはいったいどんな世界～！？【ロボ子さん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WUr-Tj_JFHg",
-        "picture": "https://i.ytimg.com/vi/WUr-Tj_JFHg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】hehehe"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -119,5 +108,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722510000,
         "title": "【シールMノスタルジア】衣装コラボだ！わたしも遊んでみたい！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mQr2DVYx_8M",
+        "picture": "https://i.ytimg.com/vi/mQr2DVYx_8M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722506400,
+        "title": "【TORIDAMA 2】Offcollab with IRyS, Kronii and Raora!! Who is the BRAVEST? #kfp #キアライブ"
     }
 ]
