@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hgdJTIuZLTU",
-        "picture": "https://i.ytimg.com/vi/hgdJTIuZLTU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QvyyeYRkgUI",
+        "picture": "https://i.ytimg.com/vi/QvyyeYRkgUI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FUWAMOCO MORNING】episode 113 🐾 #FWMCMORNING"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722646800,
+        "title": "【SUPERCHAT READING】so much to celebrate 🐾✨ #shorts 【FUWAMOCO 縦型配信 VERTICAL】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722650400,
         "title": "【ストリートファイター6】RAGE SUPER MATCH Powered by Rakuten Optimism 本番!!!【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sSUzhRxdq-A",
+        "picture": "https://i.ytimg.com/vi/sSUzhRxdq-A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722690000,
+        "title": "【メン限】久しぶりにまったりお話しよ～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS"
     }
 ]
