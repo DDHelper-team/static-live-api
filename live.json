@@ -55,17 +55,6 @@
         "title": "【PHOGS】it\u0026#39;s been 1 year and we\u0026#39;re stronger demon dogs 🐾 【FUWAMOCO】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tIKQMFtbgOA",
-        "picture": "https://i.ytimg.com/vi/tIKQMFtbgOA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "A New Chapter Begins! #Shiorin3D #holoadvent"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
@@ -207,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722740400,
         "title": "【3D SHOWCASE】Kira Kira...KOSEKI! #Biboo3D"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wayDjc4W7nc",
+        "picture": "https://i.ytimg.com/vi/wayDjc4W7nc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722658500,
+        "title": "【hololive Treasure Mountain】lets break the record! or... maybe not【Kaela Kovalskia / hololiveID】"
     }
 ]
