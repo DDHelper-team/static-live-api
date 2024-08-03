@@ -211,12 +211,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cB51K35TQrU",
         "picture": "https://i.ytimg.com/vi/cB51K35TQrU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722661200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Yet Another Brunch, Everyone】Jetlag Gone, Eepy Days Strike Back【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=gBPCxratYzQ",
+        "picture": "https://i.ytimg.com/vi/gBPCxratYzQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 holoindie 】 新作のお宝マウンテンであそぶぅうううううう！！！【ホロライブ/沙花叉クロヱ】"
     }
 ]
