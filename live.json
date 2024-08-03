@@ -149,20 +149,9 @@
         "link": "https://www.youtube.com/watch?v=gmStLACZFUs",
         "picture": "https://i.ytimg.com/vi/gmStLACZFUs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1722682800,
         "title": "【Minecraft】夏休みだ！０からエンドラ討伐いくぞー！【不知火フレア/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nrVzTICaDGk",
-        "picture": "https://i.ytimg.com/vi/nrVzTICaDGk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】なんか色々あったのでみんなで確認し合う会【戌神ころね】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -171,7 +160,7 @@
         "link": "https://www.youtube.com/watch?v=GOmiCqfqXcE",
         "picture": "https://i.ytimg.com/vi/GOmiCqfqXcE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1722682800,
         "title": "【Minecraft】いくぞ！０から始めるエンドラ討伐！！！【角巻わため/ホロライブ４期生】"
     },
@@ -193,7 +182,7 @@
         "link": "https://www.youtube.com/watch?v=dmQhOIWICYc",
         "picture": "https://i.ytimg.com/vi/dmQhOIWICYc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1722682800,
         "title": "【Minecraft】バカタレサーカス４人でエンドラ討伐を目指すけどクリアできるのか！？【#バカタレサーカス】"
     },
@@ -270,7 +259,7 @@
         "link": "https://www.youtube.com/watch?v=_bkx0tLd1hE",
         "picture": "https://i.ytimg.com/vi/_bkx0tLd1hE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1722682800,
         "title": "【Minecraft】リゼロから始まる異世界エンドラ討伐スローライフなこの素晴らしい世界にダンジョン飯を！#バカタレサーカス 【尾丸ポルカ視点/ホロライブ】"
     },
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722686400,
         "title": "【青鬼／AOONI】怪しい館を探検するゲーム【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qW9hpJ6Tqvk",
+        "picture": "https://i.ytimg.com/vi/qW9hpJ6Tqvk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722769200,
+        "title": "【 #ホロマイクラ人狼RPG 】ふなふな(・o・🍬)【姫森ルーナ/ホロライブ】"
     }
 ]
