@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2P6JR23Qn8k",
         "picture": "https://i.ytimg.com/vi/2P6JR23Qn8k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722718800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OVERWATCH 2】It\u0026#39;s (Almost) My Birthday and I\u0026#39;ll Play If I Want To !!! #MoomsBDay"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DGSMYw5qUsk",
         "picture": "https://i.ytimg.com/vi/DGSMYw5qUsk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722718800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#77 8/4日曜日！ホロのニチアサ早朝部！！【尾丸ポルカ/ホロライブ】"
     },
     {
@@ -218,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722733200,
         "title": "【 RAGE OVERWATCH 2 】🏆SUPER STREAMERS MATCH 第一試合【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vue1gvDMx5Y",
+        "picture": "https://i.ytimg.com/vi/vue1gvDMx5Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722726000,
+        "title": "【朝活】8時に集合！！８月だからね！！ご飯一緒に食べよ～！？え！ビンゴ！？【ホロライブ / ロボ子さん】"
     }
 ]
