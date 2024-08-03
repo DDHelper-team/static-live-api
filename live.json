@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1ujdUue3cBw",
-        "picture": "https://i.ytimg.com/vi/1ujdUue3cBw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=h-BvWOF9ZD0",
+        "picture": "https://i.ytimg.com/vi/h-BvWOF9ZD0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ANIMAL CROSSING: NEW HORIZONS】I HAVEN\u0026#39;T TOUCHED THIS SINCE WE RESETTED WWW【Kureiji Ollie】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722686400,
+        "title": "【Fit Boxing feat. HATSUNE MIKU】I\u0026#39;LL PUNCH ANYTHING FOR YOU YOUR MIKU MAJESTY【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722675600,
         "title": "【】はしいにょてい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=cSil4akyUS8",
+        "picture": "https://i.ytimg.com/vi/cSil4akyUS8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ゲリラ／作業配信】シールぺたぺた作業！※アーカイブメン限【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
