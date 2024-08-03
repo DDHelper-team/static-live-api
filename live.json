@@ -132,17 +132,6 @@
         "title": "【Raisond\u0026#39;etre】First time playing!!!!... mystery 2d adventure..."
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FkL5yJFkLMM",
-        "picture": "https://i.ytimg.com/vi/FkL5yJFkLMM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 作戦会議 】夏だ！サマーだ！はあちゃまだ！！！🍉【ホロライブ/赤井はあと】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "islive": false,
@@ -207,5 +196,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722747600,
         "title": "【】ひるよ～～～～～～～～～～～～～～！【】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4UXo1VfPvHY",
+        "picture": "https://i.ytimg.com/vi/4UXo1VfPvHY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722729600,
+        "title": "【IM BACK】still packing for my move【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=n4bye1Tb8h8",
+        "picture": "https://i.ytimg.com/vi/n4bye1Tb8h8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722769200,
+        "title": "【 #ホロマイクラ人狼RPG 】初めてのマイクラ人狼！わるくない羊です！【角巻わため/ホロライブ４期生】"
     }
 ]
