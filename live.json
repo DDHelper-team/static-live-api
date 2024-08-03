@@ -77,17 +77,6 @@
         "title": "【チラ見せ枠・夜公演】AZKi Major Debut LiVE「声音エントロピー」【#AZKiワンマン #AZKiワンマン横浜夜】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CDDlbrsxbrk",
-        "picture": "https://i.ytimg.com/vi/CDDlbrsxbrk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】RAGE SUPER MATCH Powered by Rakuten Optimism 本番!!!【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -97,17 +86,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722690000,
         "title": "【メン限】久しぶりにまったりお話しよ～！【轟はじめ/ReGLOSS】＃hololiveDEV_IS"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=by7gMuBeTkk",
-        "picture": "https://i.ytimg.com/vi/by7gMuBeTkk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】RAGE本番！楽しんでいきましょ～！ーRAGE STREET FIGHTER (8/3)【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
@@ -161,7 +139,7 @@
         "picture": "https://i.ytimg.com/vi/j-SHC4LEnkY/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1722675600,
+        "timestamp": 1722679200,
         "title": "塔羅占卜#73｜2024下半年交友桃花運如何？🔮✨🦊【Healing希靈/VTuber】"
     },
     {
@@ -187,26 +165,15 @@
         "title": "【hololive Treasure Mountain】lets break the record! or... maybe not【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gl1o5gXNdTA",
-        "picture": "https://i.ytimg.com/vi/gl1o5gXNdTA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【楽器】なんかしようか？～フルートの日～【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vCUKw69nhCU",
         "picture": "https://i.ytimg.com/vi/vCUKw69nhCU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722675600,
-        "title": "【】はしいにょてい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】2個目のエリトラ探し！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
@@ -251,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722677400,
         "title": "【雑談】なんか色々あったのでみんなで確認し合う会【戌神ころね】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GOmiCqfqXcE",
+        "picture": "https://i.ytimg.com/vi/GOmiCqfqXcE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722682800,
+        "title": "【Minecraft】いくぞ！０から始めるエンドラ討伐！！！【角巻わため/ホロライブ４期生】"
     }
 ]
