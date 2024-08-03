@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Sg8ijuHDcx0",
         "picture": "https://i.ytimg.com/vi/Sg8ijuHDcx0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722673800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チラ見せ枠・夜公演】AZKi Major Debut LiVE「声音エントロピー」【#AZKiワンマン #AZKiワンマン横浜夜】"
     },
     {
@@ -185,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【hololive Treasure Mountain】lets break the record! or... maybe not【Kaela Kovalskia / hololiveID】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cB51K35TQrU",
-        "picture": "https://i.ytimg.com/vi/cB51K35TQrU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Yet Another Brunch, Everyone】Jetlag Gone, Eepy Days Strike Back【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
