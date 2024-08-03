@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j4vdjn6Gnvo",
         "picture": "https://i.ytimg.com/vi/j4vdjn6Gnvo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722682800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【長笛復健回】吹💙【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #長笛 #演奏 #相信 #縱向直播"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=18lmuko9VTg",
         "picture": "https://i.ytimg.com/vi/18lmuko9VTg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722682800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#2【 ドラゴンボール Z KAKAROT 】完全初見で挑むドラゴンボール Z KAKAROT だァーーーーッ‼【ホロライブ/さくらみこ】※ネタバレあり"
     },
     {
@@ -244,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sADPa1uAumM",
         "picture": "https://i.ytimg.com/vi/sADPa1uAumM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722682800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】最近格ゲーしかしてなかったからさ、たまには歌わせて【岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MhTpJro78vU",
         "picture": "https://i.ytimg.com/vi/MhTpJro78vU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722682800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 歌枠 / Karaoke 】FIRE  / #燃えろアステル"
     },
     {
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722682800,
         "title": "【Minecraft】リゼロから始まる異世界エンドラ討伐スローライフなこの素晴らしい世界にダンジョン飯を！#バカタレサーカス 【尾丸ポルカ視点/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VQ6xq0pAYl8",
+        "picture": "https://i.ytimg.com/vi/VQ6xq0pAYl8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722686400,
+        "title": "【青鬼／AOONI】怪しい館を探検するゲーム【ホロライブ/ときのそら】"
     }
 ]
