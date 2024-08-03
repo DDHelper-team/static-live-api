@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FkL5yJFkLMM",
         "picture": "https://i.ytimg.com/vi/FkL5yJFkLMM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722693600,
-        "title": "【 会議 】【ホロライブ/赤井はあと】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 作戦会議 】夏だ！サマーだ！はあちゃまだ！！！🍉【ホロライブ/赤井はあと】"
     }
 ]
