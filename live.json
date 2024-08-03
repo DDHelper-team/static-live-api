@@ -46,35 +46,35 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QvyyeYRkgUI",
-        "picture": "https://i.ytimg.com/vi/QvyyeYRkgUI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2biK0LCOMXg",
+        "picture": "https://i.ytimg.com/vi/2biK0LCOMXg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SUPERCHAT READING】so much to celebrate 🐾✨ #shorts 【FUWAMOCO 縦型配信 VERTICAL】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722733200,
+        "title": "【PHOGS】it\u0026#39;s been 1 year and we\u0026#39;re stronger demon dogs 🐾 【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tIKQMFtbgOA",
         "picture": "https://i.ytimg.com/vi/tIKQMFtbgOA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722654000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "A New Chapter Begins! #Shiorin3D #holoadvent"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=h-BvWOF9ZD0",
-        "picture": "https://i.ytimg.com/vi/h-BvWOF9ZD0/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=1ujdUue3cBw",
+        "picture": "https://i.ytimg.com/vi/1ujdUue3cBw/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1722654000,
-        "title": "【Fit Boxing feat. HATSUNE MIKU】I\u0026#39;LL PUNCH ANYTHING FOR YOU YOUR MIKU MAJESTY【Kureiji Ollie】"
+        "timestamp": 1722664800,
+        "title": "【ANIMAL CROSSING: NEW HORIZONS】I HAVEN\u0026#39;T TOUCHED THIS SINCE WE RESETTED WWW【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2ZvJOnftaSI",
         "picture": "https://i.ytimg.com/vi/2ZvJOnftaSI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722654000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チラ見せ枠・昼公演】AZKi Major Debut LiVE「声音エントロピー」【#AZKiワンマン #AZKiワンマン横浜昼】"
     },
     {
@@ -196,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722675600,
         "title": "塔羅占卜#73｜2024下半年交友桃花運如何？🔮✨🦊【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Yw0zL5YshRk",
+        "picture": "https://i.ytimg.com/vi/Yw0zL5YshRk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722740400,
+        "title": "【3D SHOWCASE】Kira Kira...KOSEKI! #Biboo3D"
     }
 ]
