@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sSnp2FMb-y4",
         "picture": "https://i.ytimg.com/vi/sSnp2FMb-y4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722697200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Raisond\u0026#39;etre】First time playing!!!!... mystery 2d adventure..."
     },
     {
