@@ -154,17 +154,6 @@
         "title": "【3D SHOWCASE】Kira Kira...KOSEKI! #Biboo3D"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wayDjc4W7nc",
-        "picture": "https://i.ytimg.com/vi/wayDjc4W7nc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【hololive Treasure Mountain】lets break the record! or... maybe not【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": true,
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nrVzTICaDGk",
         "picture": "https://i.ytimg.com/vi/nrVzTICaDGk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722677400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】なんか色々あったのでみんなで確認し合う会【戌神ころね】"
     },
     {
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722682800,
         "title": "#2【 ドラゴンボール Z KAKAROT 】完全初見で挑むドラゴンボール Z KAKAROT だァーーーーッ‼【ホロライブ/さくらみこ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dmQhOIWICYc",
+        "picture": "https://i.ytimg.com/vi/dmQhOIWICYc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722682800,
+        "title": "【Minecraft】バカタレサーカス４人でエンドラ討伐を目指すけどクリアできるのか！？【#バカタレサーカス】"
     }
 ]
