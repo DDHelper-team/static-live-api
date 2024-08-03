@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1ujdUue3cBw",
         "picture": "https://i.ytimg.com/vi/1ujdUue3cBw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722664800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ANIMAL CROSSING: NEW HORIZONS】I HAVEN\u0026#39;T TOUCHED THIS SINCE WE RESETTED WWW【Kureiji Ollie】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 holoindie 】 新作のお宝マウンテンであそぶぅうううううう！！！【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gl1o5gXNdTA",
+        "picture": "https://i.ytimg.com/vi/gl1o5gXNdTA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722668400,
+        "title": "【】配信予定地【ホロライブ/ときのそら】"
     }
 ]
