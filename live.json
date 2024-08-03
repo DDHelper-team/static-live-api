@@ -77,17 +77,6 @@
         "title": "【OVERWATCH 2】It\u0026#39;s (Almost) My Birthday and I\u0026#39;ll Play If I Want To !!! #MoomsBDay"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KTcsozGaCJs",
-        "picture": "https://i.ytimg.com/vi/KTcsozGaCJs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドラクエⅪ】人生初！！！！！！ドラゴンクエストXI 過ぎ去りし時を求めてS！！！！※ネタバレあり【湊あくあ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -262,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722682800,
         "title": "【歌枠】最近格ゲーしかしてなかったからさ、たまには歌わせて【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MhTpJro78vU",
+        "picture": "https://i.ytimg.com/vi/MhTpJro78vU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722682800,
+        "title": "【 歌枠 / Karaoke 】FIRE  / #燃えろアステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_bkx0tLd1hE",
+        "picture": "https://i.ytimg.com/vi/_bkx0tLd1hE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722682800,
+        "title": "【Minecraft】リゼロから始まる異世界エンドラ討伐スローライフなこの素晴らしい世界にダンジョン飯を！#バカタレサーカス 【尾丸ポルカ視点/ホロライブ】"
     }
 ]
