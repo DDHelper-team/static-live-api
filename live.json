@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DGSMYw5qUsk",
-        "picture": "https://i.ytimg.com/vi/DGSMYw5qUsk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Xvibb-MNSBk",
+        "picture": "https://i.ytimg.com/vi/Xvibb-MNSBk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#77 8/4日曜日！ホロのニチアサ早朝部！！【尾丸ポルカ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722769200,
+        "title": "【#ホロマイクラ人狼RPG】こんな人狼が居る村には居られねえ！俺は部屋に戻るぜ！【尾丸ポルカ視点/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vue1gvDMx5Y",
         "picture": "https://i.ytimg.com/vi/vue1gvDMx5Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722726000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活】8時に集合！！８月だからね！！ご飯一緒に食べよ～！？え！ビンゴ！？【ホロライブ / ロボ子さん】"
     },
     {
