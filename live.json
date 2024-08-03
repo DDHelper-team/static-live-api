@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j-SHC4LEnkY",
         "picture": "https://i.ytimg.com/vi/j-SHC4LEnkY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722679200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "塔羅占卜#73｜2024下半年交友桃花運如何？🔮✨🦊【Healing希靈/VTuber】"
     },
     {
@@ -152,17 +152,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】2個目のエリトラ探し！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cSil4akyUS8",
-        "picture": "https://i.ytimg.com/vi/cSil4akyUS8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゲリラ／作業配信】シールぺたぺた作業！※アーカイブメン限【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
@@ -229,5 +218,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722682800,
         "title": "【Minecraft】バカタレサーカス４人でエンドラ討伐を目指すけどクリアできるのか！？【#バカタレサーカス】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZPw0SiYmojM",
+        "picture": "https://i.ytimg.com/vi/ZPw0SiYmojM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722686400,
+        "title": "【#ホロARK  振り返り感想枠！】この時こう考えてました！的な振り返り雑談【ホロライブ/アキロゼ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3cGr0v_AWPI",
+        "picture": "https://i.ytimg.com/vi/3cGr0v_AWPI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722765600,
+        "title": "【あつまれ どうぶつの森】#09人生初のどう森！花火大会に参加するよ！【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JDa0eKHCnoY",
+        "picture": "https://i.ytimg.com/vi/JDa0eKHCnoY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722686400,
+        "title": "【配信予定】ぺこおおおおおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
