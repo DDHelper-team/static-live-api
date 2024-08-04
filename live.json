@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nVc9oDE4Swk",
         "picture": "https://i.ytimg.com/vi/nVc9oDE4Swk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722751200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GAMEBOY/GC】腕が疲れたら終わるコロコロカービィ"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=N6dv5H1ptyE",
         "picture": "https://i.ytimg.com/vi/N6dv5H1ptyE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722751200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings】MINGGU PUSH RANK!【 iofi / hololiveID 】"
     },
     {
@@ -207,5 +207,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【＃7】逆転裁判123 成歩堂セレクションするしゅばああああああああああああああああああああああああ！！！！/ Ace Attorney 1【ネタバレあり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Bld5OlZeB18",
+        "picture": "https://i.ytimg.com/vi/Bld5OlZeB18/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722758700,
+        "title": "【Minecraft】SUPPORT AND ROAMER IS HERE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u-X0scMXkpA",
+        "picture": "https://i.ytimg.com/vi/u-X0scMXkpA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722758400,
+        "title": "【Minecraft】is this final build?! Let\u0026#39;s finish it!!!!【holoID】"
     }
 ]
