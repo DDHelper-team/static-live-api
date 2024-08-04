@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nVc9oDE4Swk",
-        "picture": "https://i.ytimg.com/vi/nVc9oDE4Swk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WyGhvmKNAis",
+        "picture": "https://i.ytimg.com/vi/WyGhvmKNAis/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【GAMEBOY/GC】腕が疲れたら終わるコロコロカービィ"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722765600,
+        "title": "【】ぽよ！！！！！！！！！！！！【】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722772800,
         "title": "【加班台】念書念到爆肝怎麼辦? 喝茶裏王，因為，喝一口，救回肝。【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nZpgEQ4bMgY",
+        "picture": "https://i.ytimg.com/vi/nZpgEQ4bMgY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722769200,
+        "title": "【APEX】顔を合わせてこんにちは🤝 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     }
 ]
