@@ -44,17 +44,6 @@
         "title": "【Minecraft】is this final build?! Let\u0026#39;s finish it!!!!【holoID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DYERlHvRQ3c",
-        "picture": "https://i.ytimg.com/vi/DYERlHvRQ3c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#AZKiワンマン】AZKi Major Debut LiVE「声音エントロピー」振り返り！【ホロライブ / AZKi】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": true,
@@ -176,7 +165,7 @@
         "title": "おはなしおはなしたのしいナ😸✊"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -206,5 +195,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722855600,
         "title": "【 プリコネR 】夏だ！海だ！水着アメスだあああ！！ガチャの時間なのらあああ！！！【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E8D9Cpc7P5M",
+        "picture": "https://i.ytimg.com/vi/E8D9Cpc7P5M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722826800,
+        "title": "【 昼雑談 】夏休みを謳歌する中学生【 領国つかさ / すぺしゃりて 】"
     }
 ]
