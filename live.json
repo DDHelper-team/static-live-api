@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HtO2Fy24D-8",
         "picture": "https://i.ytimg.com/vi/HtO2Fy24D-8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722772800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ヒトカラ🎤 】恐怖のカラオケ店に閉じ込められました。【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -112,11 +112,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=WyGhvmKNAis",
         "picture": "https://i.ytimg.com/vi/WyGhvmKNAis/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【逆ギレ】ころね、怒りのビンタ配信！！　※ネタバレあり"
     },
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rXV6uzE4Ftk",
         "picture": "https://i.ytimg.com/vi/rXV6uzE4Ftk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722772800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【加班台】念書念到爆肝怎麼辦? 喝茶裏王，因為，喝一口，救回肝。【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
     },
     {
