@@ -211,11 +211,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=u-X0scMXkpA",
         "picture": "https://i.ytimg.com/vi/u-X0scMXkpA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Minecraft】is this final build?! Let\u0026#39;s finish it!!!!【holoID】"
     },
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722769200,
         "title": "【APEX】顔を合わせてこんにちは🤝 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ueBobb9k8DQ",
+        "picture": "https://i.ytimg.com/vi/ueBobb9k8DQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】FINISHING BOROBUDUR TOGETHER FOR HOLOID CUP!【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fUKECNc3aCs",
+        "picture": "https://i.ytimg.com/vi/fUKECNc3aCs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722765600,
+        "title": "【MINECRAFT】HOLOIDCUP FINISHING PENGULIAN【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
