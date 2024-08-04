@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TecyZkhNi3I",
         "picture": "https://i.ytimg.com/vi/TecyZkhNi3I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722759300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA PART 3【 iofi / hololiveID 】"
     },
     {
@@ -200,56 +200,56 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Bld5OlZeB18",
         "picture": "https://i.ytimg.com/vi/Bld5OlZeB18/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722758700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】SUPPORT AND ROAMER IS HERE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=u-X0scMXkpA",
         "picture": "https://i.ytimg.com/vi/u-X0scMXkpA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722759300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】is this final build?! Let\u0026#39;s finish it!!!!【holoID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=T_7tXmJyOqk",
         "picture": "https://i.ytimg.com/vi/T_7tXmJyOqk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722759300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT】LAST YUK LET\u0026#39;S GO LET\u0026#39;S GO LET\u0026#39;S GOOOOO【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zNBsj51f-Gc",
         "picture": "https://i.ytimg.com/vi/zNBsj51f-Gc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1722758400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】ALL MEMBER !!!【Ayunda Risu】"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UBdX1aAArXY",
         "picture": "https://i.ytimg.com/vi/UBdX1aAArXY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722759300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】HARI TERAKHIR MENYELESAIKAN PEMBANGUNAN CANDI !!!!!"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9ASbGo6_SrA",
         "picture": "https://i.ytimg.com/vi/9ASbGo6_SrA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722759300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト６】ブランカでマスター耐久！ダイヤ5~【岸堂天真/ホロスターズ】"
     },
     {
@@ -295,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722769200,
         "title": "【 #ホロマイクラ人狼RPG 】人狼になって人を騙したい！！！！！！！🐺【 星街すいせい / ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fV2aHqlCT40",
+        "picture": "https://i.ytimg.com/vi/fV2aHqlCT40/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722776400,
+        "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
     }
 ]
