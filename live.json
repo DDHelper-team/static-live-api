@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@Mare_ASMR",
         "channellink": "https://www.youtube.com/@Mare_ASMR",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=B62mj1CKv7k",
         "picture": "https://i.ytimg.com/vi/B62mj1CKv7k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722783600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "❰ASMR/KU100❱ おしゃべりしながら…こしたんたんと狙いうち♡ ❰雑談/睡眠導入/安眠/Vtuber/Japanese❱"
     },
     {
@@ -163,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722812400,
         "title": "【POST 3D CHATTING】BEHIND THE SCENES BIBOO"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fCp204vSBUw",
+        "picture": "https://i.ytimg.com/vi/fCp204vSBUw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722870000,
+        "title": "【FUWAMOCO MORNING】episode 114 🐾 #FWMCMORNING"
     }
 ]
