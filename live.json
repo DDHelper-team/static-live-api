@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yOD7Iu3i-UA",
         "picture": "https://i.ytimg.com/vi/yOD7Iu3i-UA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722767400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】NGULI【hololiveID】"
     }
 ]
