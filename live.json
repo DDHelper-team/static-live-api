@@ -55,17 +55,6 @@
         "title": "【#AZKiワンマン】AZKi Major Debut LiVE「声音エントロピー」振り返り！【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fV2aHqlCT40",
-        "picture": "https://i.ytimg.com/vi/fV2aHqlCT40/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ホロライブ お宝マウンテン 】新作ホロゲームきたにぇ‼✨みこをゲットするまで終われまテン‼【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": true,
@@ -152,5 +141,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722872700,
         "title": "【週表】07/29~08/04 #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3Xfxg7E8YsQ",
+        "picture": "https://i.ytimg.com/vi/3Xfxg7E8YsQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722808800,
+        "title": "【#朝活】朝ゲキよわです！朝早くに起きれてエライ！！【#一条莉々華 #ホロライブ #Shorts】"
     }
 ]
