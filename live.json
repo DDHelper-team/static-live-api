@@ -46,23 +46,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3cGr0v_AWPI",
         "picture": "https://i.ytimg.com/vi/3cGr0v_AWPI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722765600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれ どうぶつの森】#09人生初のどう森！花火大会に参加するよ！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sPfHcgyK4Zk",
         "picture": "https://i.ytimg.com/vi/sPfHcgyK4Zk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722765600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FREETALK】RAGE振り返りメイン雑談！スパチャのお礼もさせてください！【アルランディス/ホロスターズ】"
     },
     {
@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WyGhvmKNAis",
         "picture": "https://i.ytimg.com/vi/WyGhvmKNAis/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722765600,
-        "title": "【】ぽよ！！！！！！！！！！！！【】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【逆ギレ】ころね、怒りのビンタ配信！！　※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Hyf138b3SZ0",
         "picture": "https://i.ytimg.com/vi/Hyf138b3SZ0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722765600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Luigi\u0026#39;s Mansion 2 HD】The \u0026quot;Dark Moon\u0026quot; Schnitzeljagd #kfp #キアライブ"
     },
     {
@@ -185,17 +185,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722769200,
         "title": "【 #ホロマイクラ人狼RPG 】マイクラで人狼ゲームができちゃう！！ホロメンさんと過ごす危険な夜…ッ！！【一条莉々華視点 /#hololivedev_is  #ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EtVD3Vd-0t4",
-        "picture": "https://i.ytimg.com/vi/EtVD3Vd-0t4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃7】逆転裁判123 成歩堂セレクションするしゅばああああああああああああああああああああああああ！！！！/ Ace Attorney 1【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -354,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fUKECNc3aCs",
         "picture": "https://i.ytimg.com/vi/fUKECNc3aCs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722765600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT】HOLOIDCUP FINISHING PENGULIAN【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
