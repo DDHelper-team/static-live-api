@@ -110,17 +110,6 @@
         "title": "【ANIMAL CROSSING: NEW HORIZONS】DOING LEISURE ACTIVITIES IN MY ISLAND【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aVBSsGLMAwU",
-        "picture": "https://i.ytimg.com/vi/aVBSsGLMAwU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CHAT】 SUMMER TIME TAKOTIME"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -218,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722952800,
         "title": "【ホロライブお宝マウンテン】新作ホロゲームで遊んでみる！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aHsA-IGZY5M",
+        "picture": "https://i.ytimg.com/vi/aHsA-IGZY5M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722945600,
+        "title": "【】ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sAu0Y-Mq_Gk",
+        "picture": "https://i.ytimg.com/vi/sAu0Y-Mq_Gk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722934800,
+        "title": "【1８時】おたからまうんてんよていち！【ホロライブ / ロボ子さん】"
     }
 ]
