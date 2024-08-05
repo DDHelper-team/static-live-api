@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hvSx4dIhg-A",
         "picture": "https://i.ytimg.com/vi/hvSx4dIhg-A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722898800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fallout: New Vegas】This town ain\u0026#39;t big enough for the both of us"
     },
     {
