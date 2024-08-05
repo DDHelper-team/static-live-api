@@ -55,7 +55,7 @@
         "title": "FREEEEEEEEEEEEEEEEEEEE　Talk『2022～』"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -133,12 +133,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aVBSsGLMAwU",
         "picture": "https://i.ytimg.com/vi/aVBSsGLMAwU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722891600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CHAT】 SUMMER TIME TAKOTIME"
     },
     {
@@ -217,5 +217,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722902400,
         "title": "【ELDEN RING】🎺∘˙○˚.• Time to DO DO DO DOOT~~~ STR / FAI ~ *spoilers*"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VNENRTLyv7c",
+        "picture": "https://i.ytimg.com/vi/VNENRTLyv7c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722895200,
+        "title": "【Pikmin】 The Nintendo game that gave me nightmares as a child"
     }
 ]
