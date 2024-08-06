@@ -110,17 +110,6 @@
         "title": "≪SUMMER!≫ Let\u0026#39;s plan this summer together!"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rHD__31EYa4",
-        "picture": "https://i.ytimg.com/vi/rHD__31EYa4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#雑談】ただいま＆おやすみ この夏の過ごし方【一条莉々華/ ホロライブ hololive DEV_IS　ReGLOSS #Shorts】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -174,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722972600,
         "title": "【APEX LEGENDS】Season 22 Launch NEW MAP【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DvTEudevEqc",
+        "picture": "https://i.ytimg.com/vi/DvTEudevEqc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722996000,
+        "title": "【Sticky Terms】after this stream, i can speak any language in the world【Kaela Kovalskia / hololiveID】"
     }
 ]
