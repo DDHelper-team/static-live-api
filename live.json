@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ktt6jG5YkK0",
         "picture": "https://i.ytimg.com/vi/Ktt6jG5YkK0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722954600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【5周年カウントダウン】もうすぐ５周年かー【不知火フレア/ホロライブ】"
     },
     {
@@ -220,14 +220,14 @@
         "title": "【會限運動】運動還債！再戰10年！脂肪OUT！ | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WlE8bxeW9u0",
-        "picture": "https://i.ytimg.com/vi/WlE8bxeW9u0/maxresdefault_live.jpg",
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qXJJNcLFab4",
+        "picture": "https://i.ytimg.com/vi/qXJJNcLFab4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Dead by Daylight】いちかと２VS８挑戦⚡悪魔の追いかけっこ✨【ホロライブ/癒月ちょこ/宗谷いちか】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722999600,
+        "title": "【 スーパーマリオ64 】神ゲーを初見プレイ！#2【 領国つかさ / すぺしゃりて 】"
     }
 ]
