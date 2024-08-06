@@ -167,12 +167,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yxjcJkqBdn8",
         "picture": "https://i.ytimg.com/vi/yxjcJkqBdn8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722956400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】しっとり歌枠！！-Midnight station -71 【HACHI】"
     },
     {
