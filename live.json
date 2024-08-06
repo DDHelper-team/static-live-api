@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AHg8Rl8lIKI",
         "picture": "https://i.ytimg.com/vi/AHg8Rl8lIKI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722909600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Luigi\u0026#39;s Mansion 2 HD】sukusuku, chakachaka, oidorooooo #kfp #キアライブ"
     },
     {
@@ -187,17 +187,6 @@
         "title": "【ELDEN RING】🎺∘˙○˚.• Time to DO DO DO DOOT~~~ STR / FAI ~ *spoilers*"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VNENRTLyv7c",
-        "picture": "https://i.ytimg.com/vi/VNENRTLyv7c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Pikmin】 The Nintendo game that gave me nightmares as a child"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722934800,
         "title": "【1８時】おたからまうんてんよていち！【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q48YreOeoic",
+        "picture": "https://i.ytimg.com/vi/Q48YreOeoic/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722940200,
+        "title": "買個可樂餅吧｜超展開！總之為了閨密不要死！小滿！！！！！！【Healing希靈/VTuber】"
     }
 ]
