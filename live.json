@@ -68,56 +68,56 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o7gEHEtdfF0",
         "picture": "https://i.ytimg.com/vi/o7gEHEtdfF0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722913200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオ64 】神ゲーを初見プレイ！【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7VF-2gK3HFc",
         "picture": "https://i.ytimg.com/vi/7VF-2gK3HFc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722913200,
-        "title": "≪歌枠・unarchived≫ chu chu~"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "≪歌枠・unarchived≫ chu chu~ #shorts"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ct8mIY0Bapo",
         "picture": "https://i.ytimg.com/vi/Ct8mIY0Bapo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722913200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ELDEN RING: SHADOW OF THE ERDTREE DLC】MohgRyS is getting ready to Seduce"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oX4QskVzpIw",
         "picture": "https://i.ytimg.com/vi/oX4QskVzpIw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722913200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ANIMAL CROSSING: NEW HORIZONS】DOING LEISURE ACTIVITIES IN MY ISLAND【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rM3M048Op6w",
         "picture": "https://i.ytimg.com/vi/rM3M048Op6w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722913200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【お宝マウンテン】え、マリンが主役？同マンの絆見せたるわ～！！！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722934800,
         "title": "【ストリートファイター6】モチベ爆発ﾓﾘﾓﾘ男【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FBuPePay5zE",
+        "picture": "https://i.ytimg.com/vi/FBuPePay5zE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722996000,
+        "title": "Win the Baby Game Show Lottery for Birth Rights【Mother Simulator 】"
     }
 ]
