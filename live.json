@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=swlO8ncNpJo",
         "picture": "https://i.ytimg.com/vi/swlO8ncNpJo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722952800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロライブお宝マウンテン】新作ホロゲームで遊んでみる！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -108,17 +108,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722999600,
         "title": "【BIRTHDAY LIVE WATCH-ALONG】Wanna Watch My 3D LIVE With Me? :D"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bWhvdquymt0",
-        "picture": "https://i.ytimg.com/vi/bWhvdquymt0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Apex Legends】V最顔合わせ【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
