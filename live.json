@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xSzoa6zQFWA",
         "picture": "https://i.ytimg.com/vi/xSzoa6zQFWA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722972600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX LEGENDS】Season 22 Launch NEW MAP【Dokibird】"
     },
     {
