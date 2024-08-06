@@ -154,17 +154,6 @@
         "title": "【BIRTHDAY LIVE WATCH-ALONG】Wanna Watch My 3D LIVE With Me? :D"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wor3Qt90Yls",
-        "picture": "https://i.ytimg.com/vi/wor3Qt90Yls/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "大切なお知らせ（残念なほう）【湊あくあ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "買個可樂餅吧｜超展開！總之為了閨密不要死！小滿！！！！！！【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q0eScGq4Q3Y",
+        "picture": "https://i.ytimg.com/vi/q0eScGq4Q3Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722949200,
+        "title": "【雑談】深夜お雑談【荒咬オウガ /ホロスターズ】"
     }
 ]
