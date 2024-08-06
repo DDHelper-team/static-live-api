@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IZbqvGgMgHk",
         "picture": "https://i.ytimg.com/vi/IZbqvGgMgHk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722947400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#4【 ドラゴンボール KAKAROT 】完全初見で挑むドラゴンボール Z KAKAROT だァーーーーッ‼ 【ホロライブ/さくらみこ】※ネタバレあり"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722956400,
         "title": "【歌枠】しっとり歌枠！！-Midnight station -71 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bU9MEtDvpeQ",
+        "picture": "https://i.ytimg.com/vi/bU9MEtDvpeQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722992400,
+        "title": "≪SUMMER!≫ Let\u0026#39;s plan this summer together!"
     }
 ]
