@@ -44,17 +44,6 @@
         "title": "【弱すぎるRPG】勇者がザコすぎるRPGが神ゲーらしい！？？？？？【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LjytVQ-rTNY",
-        "picture": "https://i.ytimg.com/vi/LjytVQ-rTNY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドラゴンボールZ KAKAROT】完全初見！神作品「ドラゴンボール」の世界へ！！【白銀ノエル/ホロライブ】※ネタバレあり"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": true,
@@ -174,5 +163,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722996000,
         "title": "【Sticky Terms】after this stream, i can speak any language in the world【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9h30DkXSk8Q",
+        "picture": "https://i.ytimg.com/vi/9h30DkXSk8Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723032000,
+        "title": "【5周年】【不知火フレア/ホロライブ】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "NEURO UPGRADES !plush"
     }
 ]
