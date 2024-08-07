@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VgGMBkUKE_U",
         "picture": "https://i.ytimg.com/vi/VgGMBkUKE_U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723021200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings】PUSHHH AAAAA PUSHHHHHHHH【 iofi / hololiveID 】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-_agtCR9zcY",
         "picture": "https://i.ytimg.com/vi/-_agtCR9zcY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723021200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロライブお宝マウンテン】一番大きいのつくるから見てて✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=snHDiiHiv2I",
         "picture": "https://i.ytimg.com/vi/snHDiiHiv2I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723021200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HONOR OF KINGS】P RANKED【Kureiji Ollie】"
     },
     {
