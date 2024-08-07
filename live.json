@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pR_eU4Q1-EI",
         "picture": "https://i.ytimg.com/vi/pR_eU4Q1-EI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723003200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MHXX】超絶初見モンハンダブルクロス【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=it-6YKsqxqE",
         "picture": "https://i.ytimg.com/vi/it-6YKsqxqE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723003200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNBOXING AND CHILL!】NEW ALBUM HYPE!! Let\u0026#39;s Catch Up?! #calliolive"
     },
     {
@@ -196,5 +196,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723014000,
         "title": "鬼遊｜被女飄纏上發生一連串恐怖事件【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TNamIdfk82o",
+        "picture": "https://i.ytimg.com/vi/TNamIdfk82o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723089600,
+        "title": "【Minecraft】INYANYA TRAINING ARC【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MCl-sk4OpFs",
+        "picture": "https://i.ytimg.com/vi/MCl-sk4OpFs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723005000,
+        "title": "【突發Apex/白天加班】跟兩個ㄟ配主播打ㄟ配!!新賽季初見~feat.玖兔、澈日【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
     }
 ]
