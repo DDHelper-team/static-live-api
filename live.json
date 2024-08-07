@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4-F3TecuSF8",
         "picture": "https://i.ytimg.com/vi/4-F3TecuSF8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722992400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SAKURA WARS V】familiarize ourselves with NYC 🐾 【FUWAMOCO】"
     },
     {
@@ -132,17 +132,6 @@
         "title": "【UNBOXING AND CHILL!】NEW ALBUM HYPE!! Let\u0026#39;s Catch Up?! #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xSzoa6zQFWA",
-        "picture": "https://i.ytimg.com/vi/xSzoa6zQFWA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX LEGENDS】Season 22 Launch NEW MAP【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": false,
@@ -163,5 +152,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723032000,
         "title": "【5周年】【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lWOqA1JH8Ok",
+        "picture": "https://i.ytimg.com/vi/lWOqA1JH8Ok/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1722999600,
+        "title": "【What Remains of Edith Finch】My Soul"
     }
 ]
