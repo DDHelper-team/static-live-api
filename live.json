@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4En1oPT-btM",
         "picture": "https://i.ytimg.com/vi/4En1oPT-btM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723019400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "鬼遊｜被女飄纏上發生一連串恐怖事件【Healing希靈/VTuber】"
     },
     {
@@ -141,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723089600,
         "title": "【Minecraft】INYANYA TRAINING ARC【hololive ID 2nd Generation | Anya Melfissa】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lzO1rvAE_ls",
-        "picture": "https://i.ytimg.com/vi/lzO1rvAE_ls/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】ホンダ、マスター耐久配信【岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723021200,
         "title": "【HONOR OF KINGS】P RANKED【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MAGE5omuq90",
+        "picture": "https://i.ytimg.com/vi/MAGE5omuq90/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723035600,
+        "title": "【＃みこスバ】chained together with MIKOCHI 4日目しゅばあああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
     }
 ]
