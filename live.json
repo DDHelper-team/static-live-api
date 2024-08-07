@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AvbCbtCz1_Y",
         "picture": "https://i.ytimg.com/vi/AvbCbtCz1_Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723041000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【5周年カウントダウン】あっちゅうまの5周年！ノエポ缶で乾杯太郎ッ✨【白銀ノエル/ホロライブ】"
     },
     {
@@ -132,37 +132,26 @@
         "title": "【 ELDEN RING 】DLC来た！！！ミドラーの館へ！【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HP_4ioJlqKE",
-        "picture": "https://i.ytimg.com/vi/HP_4ioJlqKE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Raisond\u0026#39;etre】yes, i\u0026#39;m a collector. 💅"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hElC7JDwqZQ",
         "picture": "https://i.ytimg.com/vi/hElC7JDwqZQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723041000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 カウントダウン 】誕生日、一緒に迎えよう！明日は誕生日LIVE🎨✨【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YFHLMYUYGt4",
         "picture": "https://i.ytimg.com/vi/YFHLMYUYGt4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723041000,
-        "title": "【カウントダウン】６周年だあああああ【湊あくあ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【カウントダウン】６周年だあああああ！！！！みんなでお祝い！【湊あくあ/ホロライブ】"
     },
     {
         "channel": "https://youtube.com/@HACHIVSinger",
@@ -253,17 +242,6 @@
         "title": "【お宝マウンテン】はじめてのお宝マウンテン💘【ホロライブ/大神ミオ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ojaCuhJSU7k",
-        "picture": "https://i.ytimg.com/vi/ojaCuhJSU7k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fall Guys: Ultimate Knockout】みんなと勝負するぞぉおおおおおおおお！！！【ホロライブ/白上フブキ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": false,
@@ -284,5 +262,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "スパチャ読み～！！ #Shorts #一条莉々華 #ホロライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Zb7pD1KTCTw",
+        "picture": "https://i.ytimg.com/vi/Zb7pD1KTCTw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【道歉直播】OH NO | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     }
 ]
