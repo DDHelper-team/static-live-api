@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kvJxZ-jFa_U",
         "picture": "https://i.ytimg.com/vi/kvJxZ-jFa_U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723068000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Pikmin】 this bulborb looks at your red pikmin like this, wyd?"
     }
 ]
