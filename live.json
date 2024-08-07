@@ -121,25 +121,14 @@
         "title": "❰ASMR/KU100❱  好き好き♡大好きヨシヨシせっせと尽くす ❰睡眠導入/安眠/Vtuber/Japanese❱"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-_agtCR9zcY",
-        "picture": "https://i.ytimg.com/vi/-_agtCR9zcY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ホロライブお宝マウンテン】一番大きいのつくるから見てて✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LaYdP6ula84",
         "picture": "https://i.ytimg.com/vi/LaYdP6ula84/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723033800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】新シーズン、どんな感じ？【獅子神レオナ/Re:AcT】"
     },
     {
@@ -273,5 +262,60 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723042800,
         "title": "【Honor of Kings】Pusrenk bersama teman teman【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=4ANIqYoDqVo",
+        "picture": "https://i.ytimg.com/vi/4ANIqYoDqVo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "Lethal Company をやるぞ！【 奏手イヅル アステル・レダ 岸堂天真 / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=wOTfaBNHAt4",
+        "picture": "https://i.ytimg.com/vi/wOTfaBNHAt4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Lethal Company】＠１募集してます。 / アステル 奏手イヅル 岸堂天真"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=_GptfZ2fbDY",
+        "picture": "https://i.ytimg.com/vi/_GptfZ2fbDY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【LETHAL COMPANY】突発３人でリーサルカンパニー【岸堂天真/アステル/奏手イヅル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_99hcpKambQ",
+        "picture": "https://i.ytimg.com/vi/_99hcpKambQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723035600,
+        "title": "【お宝マウンテン】はじめてのお宝マウンテン💘【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ojaCuhJSU7k",
+        "picture": "https://i.ytimg.com/vi/ojaCuhJSU7k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723035600,
+        "title": "【Fall Guys: Ultimate Knockout】みんなと勝負するぞぉおおおおおおおお！！！【ホロライブ/白上フブキ】"
     }
 ]
