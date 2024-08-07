@@ -58,12 +58,12 @@
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=ei7wbl5M8PE",
-        "picture": "https://i.ytimg.com/vi/ei7wbl5M8PE/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=oXxS8AwgTUw",
+        "picture": "https://i.ytimg.com/vi/oXxS8AwgTUw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723039200,
-        "title": "【２３時】まったり予定地【ホロライブ / ロボ子さん】"
+        "status": null,
+        "timestamp": 1748005200,
+        "title": "【ろぼさー向け情報】ロボ子さんグッズお知らせ＆交流所💕【#ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -141,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 ELDEN RING 】DLC来た！！！ミドラーの館へ！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iIryePzvTMM",
-        "picture": "https://i.ytimg.com/vi/iIryePzvTMM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "リベンジ【お宝マウンテン】ぺこら作れなかったら即終了でダブルぺこら作る！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723122000,
         "title": "【重大告知】！！！！！！！！！！！！【ホロライブ/赤井はあと】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=5JiOlAaY1Rc",
+        "picture": "https://i.ytimg.com/vi/5JiOlAaY1Rc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "スパチャ読み～！！ #Shorts #一条莉々華 #ホロライブ"
     }
 ]
