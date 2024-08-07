@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FBuPePay5zE",
         "picture": "https://i.ytimg.com/vi/FBuPePay5zE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722996000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Win the Baby Game Show Lottery for Birth Rights【Mother Simulator 】"
     },
     {
@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bU9MEtDvpeQ",
         "picture": "https://i.ytimg.com/vi/bU9MEtDvpeQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722992400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪SUMMER!≫ Let\u0026#39;s plan this summer together!"
     },
     {
@@ -139,7 +139,7 @@
         "picture": "https://i.ytimg.com/vi/DvTEudevEqc/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1722996000,
+        "timestamp": 1722996900,
         "title": "【Sticky Terms】after this stream, i can speak any language in the world【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -163,5 +163,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1722999600,
         "title": "【What Remains of Edith Finch】My Soul"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ei7wbl5M8PE",
+        "picture": "https://i.ytimg.com/vi/ei7wbl5M8PE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723039200,
+        "title": "【２３時】まったり予定地【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dGATh40LXMs",
+        "picture": "https://i.ytimg.com/vi/dGATh40LXMs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723024800,
+        "title": "【迷央十丁目】真夜中の町で怪異捜し…－Mayonaka 10 chome【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4AIcr1dHF2w",
+        "picture": "https://i.ytimg.com/vi/4AIcr1dHF2w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723010400,
+        "title": "【歌枠／KARAOKE】もうすぐ50万人！コロナ明けのリハビリもかねて歌います！【火威青】#hololiveDEV_IS #ReGLOSS"
     }
 ]
