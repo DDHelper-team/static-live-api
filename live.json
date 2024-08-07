@@ -201,12 +201,12 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=K5qu_-qpvRs",
-        "picture": "https://i.ytimg.com/vi/K5qu_-qpvRs/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=iIryePzvTMM",
+        "picture": "https://i.ytimg.com/vi/iIryePzvTMM/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【お宝マウンテン】ぺこら作れなかったら即終了でダブルぺこら作る！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "title": "リベンジ【お宝マウンテン】ぺこら作れなかったら即終了でダブルぺこら作る！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723035600,
         "title": "【配信予定地】ゆめでにっき書く可能性が高い【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GZMaF0K2PdI",
+        "picture": "https://i.ytimg.com/vi/GZMaF0K2PdI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723035600,
+        "title": "【歌枠/KARAOKE】SINGSINGSINGUUUUUUUUUUUUUU【尾丸ポルカ/ホロライブ】"
     }
 ]
