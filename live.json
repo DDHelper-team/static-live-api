@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=feWTmzzRVsA",
         "picture": "https://i.ytimg.com/vi/feWTmzzRVsA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723028400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Escape from Tarkov】何にもわからないけどよ…めっちゃ面白いらしいじゃないか【アルランディス/ホロスターズ】"
     },
     {
@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=K5qu_-qpvRs",
         "picture": "https://i.ytimg.com/vi/K5qu_-qpvRs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723028400,
-        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【お宝マウンテン】ぺこら作れなかったら即終了でダブルぺこら作る！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -273,5 +273,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723041000,
         "title": "【カウントダウン】６周年だあああああ【湊あくあ/ホロライブ】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dv2i-jpxKKc",
+        "picture": "https://i.ytimg.com/vi/dv2i-jpxKKc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723114800,
+        "title": "【全編無料配信】HACHI Summer Live 0808 #はちたやの日"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=F6lRo9dFeqQ",
+        "picture": "https://i.ytimg.com/vi/F6lRo9dFeqQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723032000,
+        "title": "【 メンバーシップ限定 】ルーナイトとこしょこしょ話なのら💓【姫森ルーナ/ホロライブ】"
     }
 ]
