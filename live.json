@@ -52,7 +52,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Escape from Tarkov】何にもわからないけどよ…めっちゃ面白いらしいじゃないか【アルランディス/ホロスターズ】"
+        "title": "【Escape from Tarkov/ストリートファイター6】何にもわからないけどよ…めっちゃ面白いらしいじゃないか【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9h30DkXSk8Q",
         "picture": "https://i.ytimg.com/vi/9h30DkXSk8Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723032000,
-        "title": "【5周年】【不知火フレア/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#不知火フレア5周年】凸待ちしてプチお披露目して重大告知もある！【不知火フレア/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -143,17 +143,6 @@
         "title": "【APEX】新シーズン、どんな感じ？【獅子神レオナ/Re:AcT】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mldPrp2i6zM",
-        "picture": "https://i.ytimg.com/vi/mldPrp2i6zM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】新シーズンやってみよか～～～～ / アステル 八神ツクモ 水無瀬 ゆきお"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
@@ -189,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WrBH5Mm04Co",
         "picture": "https://i.ytimg.com/vi/WrBH5Mm04Co/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723032000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ELDEN RING 】DLC来た！！！ミドラーの館へ！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HP_4ioJlqKE",
         "picture": "https://i.ytimg.com/vi/HP_4ioJlqKE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723032000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Raisond\u0026#39;etre】yes, i\u0026#39;m a collector. 💅"
     },
     {
@@ -253,17 +242,6 @@
         "title": "【全編無料配信】HACHI Summer Live 0808 #はちたやの日"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=F6lRo9dFeqQ",
-        "picture": "https://i.ytimg.com/vi/F6lRo9dFeqQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723032000,
-        "title": "【 メンバーシップ限定 】ルーナイトとこしょこしょ話なのら💓【姫森ルーナ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": false,
@@ -284,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723035600,
         "title": "【歌枠/KARAOKE】SINGSINGSINGUUUUUUUUUUUUUU【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=doYpnCawVeY",
+        "picture": "https://i.ytimg.com/vi/doYpnCawVeY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723042800,
+        "title": "【Honor of Kings】Pusrenk bersama teman teman【 iofi / hololiveID 】"
     }
 ]
