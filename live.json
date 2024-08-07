@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DvTEudevEqc",
         "picture": "https://i.ytimg.com/vi/DvTEudevEqc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1722996900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Sticky Terms】after this stream, i can speak any language in the world【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -196,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723010400,
         "title": "【歌枠／KARAOKE】もうすぐ50万人！コロナ明けのリハビリもかねて歌います！【火威青】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4En1oPT-btM",
+        "picture": "https://i.ytimg.com/vi/4En1oPT-btM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723014000,
+        "title": "鬼遊｜被女飄纏上發生一連串恐怖事件【Healing希靈/VTuber】"
     }
 ]
