@@ -211,12 +211,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lzO1rvAE_ls",
         "picture": "https://i.ytimg.com/vi/lzO1rvAE_ls/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723008600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト６】ホンダ、マスター耐久配信【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VgGMBkUKE_U",
+        "picture": "https://i.ytimg.com/vi/VgGMBkUKE_U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723021200,
+        "title": "【Honor of Kings】PUSHHH AAAAA PUSHHHHHHHH【 iofi / hololiveID 】"
     }
 ]
