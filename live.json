@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TAODrW-XPNk",
         "picture": "https://i.ytimg.com/vi/TAODrW-XPNk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723064400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#79 8/8木曜日！今日はポル伝の日じゃ！！【尾丸ポルカ/ホロライブ】"
     },
     {
