@@ -68,23 +68,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=C-QdqYjdArM",
         "picture": "https://i.ytimg.com/vi/C-QdqYjdArM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723114800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#常闇トワ生誕祭2024】ｰ COLORFUL ｰ【3DLIVE】"
     },
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dv2i-jpxKKc",
         "picture": "https://i.ytimg.com/vi/dv2i-jpxKKc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723114800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【全編無料配信】HACHI Summer Live 0808 #はちたやの日"
     },
     {
