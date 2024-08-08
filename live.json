@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wrxOGwp3uOw",
         "picture": "https://i.ytimg.com/vi/wrxOGwp3uOw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723122000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【重大告知】！！！！！！！！！！！！【ホロライブ/赤井はあと】"
     },
     {
@@ -157,12 +157,12 @@
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=zMcVA6SJy_o",
-        "picture": "https://i.ytimg.com/vi/zMcVA6SJy_o/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723122000,
-        "title": "【メンバー限定配信】開設4年5ヶ月目！「すずめの戸締まり / Suzume」同時視聴！【角巻わため/ホロライブ４期生】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
