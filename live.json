@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cRcbP49Whks",
         "picture": "https://i.ytimg.com/vi/cRcbP49Whks/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1723392000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OUTLAST】BAEBI BEING BABIES #BAEBISleepOver"
     },
     {
@@ -207,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723437000,
         "title": "【SUMMER PARTY】the hottest memory making!? uuuuuuuuuh || Mori Calliope #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GBWhy02mqP0",
+        "picture": "https://i.ytimg.com/vi/GBWhy02mqP0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723431600,
+        "title": "【 スーパーマリオ64 】神ゲーを初見プレイキッズ！#5【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Sv9dbAJNpEY",
+        "picture": "https://i.ytimg.com/vi/Sv9dbAJNpEY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723453200,
+        "title": "【LoL新モードスワーム】4人協力ハクスラモード！スワーム遊ぶぞ!!【アルランディス/ホロスターズ】"
     }
 ]
