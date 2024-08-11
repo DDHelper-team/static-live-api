@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sm03zciCpfo",
         "picture": "https://i.ytimg.com/vi/sm03zciCpfo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723375800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【新衣装お披露目】3期生お披露目リレー！！！！ぬい！！【不知火フレア/ホロライブ】"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723415400,
         "title": "【 #朝ミオ 】お盆だ！月曜日だよ～～～！おはみぉーん！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dOGvC0k-UCM",
+        "picture": "https://i.ytimg.com/vi/dOGvC0k-UCM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723381200,
+        "title": "【雑談】深夜お雑談【荒咬オウガ /ホロスターズ】"
     }
 ]
