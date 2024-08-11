@@ -88,17 +88,6 @@
         "title": "【ホロライブお宝マウンテン】アプデ来た？！ホロメン集めたい！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6pqGVd4xhrY",
-        "picture": "https://i.ytimg.com/vi/6pqGVd4xhrY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ELDEN RING】#14 再び美しい地下へ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=T86t5gBYamo",
         "picture": "https://i.ytimg.com/vi/T86t5gBYamo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723374300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】参加型カスタムで練習GOGO！🔫 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     },
     {
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723460400,
         "title": "ボイス販売中"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tt7GVBeHPSA",
+        "picture": "https://i.ytimg.com/vi/tt7GVBeHPSA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723415400,
+        "title": "【 #朝ミオ 】お盆だ！月曜日だよ～～～！おはみぉーん！"
     }
 ]
