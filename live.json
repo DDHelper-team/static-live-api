@@ -33,17 +33,6 @@
         "title": "【FUWAMOCO 3D DEBUT AFTERPARTY】the fluffiest and fuzziest journey 🐾🩵🩷 #FWMC3D 【3Dお披露目 振り返り】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9TWGD7d_lW4",
-        "picture": "https://i.ytimg.com/vi/9TWGD7d_lW4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SUPER SMASH BROS ULTIMATE】Throwing controllers at 4am #BAEBISleepOver"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -57,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qjfxUmY5X2Q",
         "picture": "https://i.ytimg.com/vi/qjfxUmY5X2Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723410000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪#BAEBISleepover≫ Top of the Mornin\u0026#39; to ya!!"
     },
     {
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723435200,
         "title": "【ホロライブお宝マウンテン】holoXきた！！解放したいいいいい！！✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=y9dE1sbMJLU",
+        "picture": "https://i.ytimg.com/vi/y9dE1sbMJLU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723413600,
+        "title": "【Sucker for Love: Date to Die For】 Smooching eldritch horrors has never been so difficult"
     }
 ]
