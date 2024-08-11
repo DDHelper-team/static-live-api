@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KoLE8PV2Ygs",
         "picture": "https://i.ytimg.com/vi/KoLE8PV2Ygs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723419000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PEJUANG SENIN】#81 barely surviving... but never gonna give you up【Kaela\u0026#39;s Monday Warrior】"
     },
     {
