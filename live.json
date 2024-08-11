@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rkBN8DQv8m8",
         "picture": "https://i.ytimg.com/vi/rkBN8DQv8m8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723366800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 大魔界村 】発狂確定の高難度ゲームに挑戦するのら！！！～レトロゲーム【姫森ルーナ/ホロライブ】"
     },
     {
@@ -209,25 +209,14 @@
         "title": "【 3Dお披露目 】自由なカラダで、愛情をたっぷりお届けするね…♡【 #けもりふ3D 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Gq96Ei6ANwg",
-        "picture": "https://i.ytimg.com/vi/Gq96Ei6ANwg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MINECRAFT】#holoIDCup2024  ̶P̶A̶V̶O̶N̶A̶S̶H̶I̶ ̶H̶I̶G̶H̶S̶C̶H̶O̶O̶L̶ ̶A̶U̶【Pavolia Reine/hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ei7wbl5M8PE",
         "picture": "https://i.ytimg.com/vi/ei7wbl5M8PE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723366800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロライブお宝マウンテン】Re:お宝げっとしにいくぞおおおおおおおおお【ホロライブ / ロボ子さん】"
     },
     {
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hfqgNwQhNyc",
         "picture": "https://i.ytimg.com/vi/hfqgNwQhNyc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723366800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【裏話】感謝を込めて #はあちゃま爆誕祭2024 振り返るぜ・・・！❤️‍🔥【ホロライブ/赤井はあと】"
     },
     {
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723377600,
         "title": "【ストリートファイター6】#アルランディス魂の50先 　VS古からの格ゲー勢 歌広場 淳【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=BIgDNI1ZgNU",
+        "picture": "https://i.ytimg.com/vi/BIgDNI1ZgNU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 holoindie 】 holoX参戦！塩シャチ作りたい♡お宝マウンテン【ホロライブ/沙花叉クロヱ】"
     }
 ]
