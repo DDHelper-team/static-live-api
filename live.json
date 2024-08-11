@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y9dE1sbMJLU",
         "picture": "https://i.ytimg.com/vi/y9dE1sbMJLU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723413600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Sucker for Love: Date to Die For】 Smooching eldritch horrors has never been so difficult"
     },
     {
