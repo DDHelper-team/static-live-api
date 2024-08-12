@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2DC-wWHamcM",
         "picture": "https://i.ytimg.com/vi/2DC-wWHamcM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723431600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅧ 】完全初見。3DS版！もう誰も失いたくないんだ・・・・・・・・・。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GBWhy02mqP0",
         "picture": "https://i.ytimg.com/vi/GBWhy02mqP0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723431600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオ64 】神ゲーを初見プレイキッズ！#5【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -189,11 +189,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=sgfit9r6A1I",
         "picture": "https://i.ytimg.com/vi/sgfit9r6A1I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)"
     },
