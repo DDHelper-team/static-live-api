@@ -57,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vInobcZi6Lo",
         "picture": "https://i.ytimg.com/vi/vInobcZi6Lo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723438800,
-        "title": "【】やるぞおおおおおおおん！【】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ド★初見】鬼滅の刃 ヒノカミ血風譚、遊んでみる！【戌神ころね】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Iuiq0M71HMM",
         "picture": "https://i.ytimg.com/vi/Iuiq0M71HMM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723438800,
-        "title": "【】配信予定【轟はじめ/ReGLOSS】#hololivedev_is"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【バイオ８/DLC】ローズ編！！Resident Evil Village:Shadows of Rose※ネタバレあり【轟はじめ/ReGLOSS】#hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -97,17 +97,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723477500,
         "title": "【週表】08/05~08/11 #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-EBhs_PtPJw",
-        "picture": "https://i.ytimg.com/vi/-EBhs_PtPJw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SUMMER PARTY】the hottest memory making!? uuuuuuuuuh || Mori Calliope #calliolive"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
