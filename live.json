@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4pP2l_XOd0A",
-        "picture": "https://i.ytimg.com/vi/4pP2l_XOd0A/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_AO1pLt3pU4",
+        "picture": "https://i.ytimg.com/vi/_AO1pLt3pU4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FUWAMOCO 3D DEBUT AFTERPARTY】the fluffiest and fuzziest journey 🐾🩵🩷 #FWMC3D 【3Dお披露目 振り返り】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723474800,
+        "title": "【FUWAMOCO MORNING】episode 117 🐾 #FWMCMORNING"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -176,17 +176,6 @@
         "title": "【猫の願いが叶うなら】Odencatさん5周年記念ゲームやってみます！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Kvq0N4olfAw",
-        "picture": "https://i.ytimg.com/vi/Kvq0N4olfAw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【M.M.M.】Monday Morning Malas : Let\u0026#39;s just be malas【Ayunda Risu】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -218,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723443000,
         "title": "【STAGE:0 公認ウォッチパーティー】VALORANT部門日本一の王座に輝くのは誰だ！？【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xpZFEbm5QVQ",
+        "picture": "https://i.ytimg.com/vi/xpZFEbm5QVQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723464000,
+        "title": "Senin Produktif is back! Let\u0026#39;s Draw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XSTlS7g9vcg",
+        "picture": "https://i.ytimg.com/vi/XSTlS7g9vcg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723442400,
+        "title": "【VALORANT】プラチナ！！チャレンジ💎【ホロライブ / ロボ子さん】"
     }
 ]
