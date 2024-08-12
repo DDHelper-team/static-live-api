@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tt7GVBeHPSA",
-        "picture": "https://i.ytimg.com/vi/tt7GVBeHPSA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p4-1EfaGVsM",
+        "picture": "https://i.ytimg.com/vi/p4-1EfaGVsM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #朝ミオ 】お盆だ！月曜日だよ～～～！おはみぉーん！"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723460400,
+        "title": "【重大告知】なんだか久しぶりなような気がする歌枠告知！【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -209,17 +209,6 @@
         "title": "【ホロライブお宝マウンテン】holoXきた！！解放したいいいいい！！✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y9dE1sbMJLU",
-        "picture": "https://i.ytimg.com/vi/y9dE1sbMJLU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Sucker for Love: Date to Die For】 Smooching eldritch horrors has never been so difficult"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723424400,
         "title": "【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OiSh4MR1ooQ",
+        "picture": "https://i.ytimg.com/vi/OiSh4MR1ooQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723467600,
+        "title": "【猫の願いが叶うなら】Odencatさん5周年記念ゲームやってみます！【角巻わため/ホロライブ４期生】"
     }
 ]
