@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XSTlS7g9vcg",
         "picture": "https://i.ytimg.com/vi/XSTlS7g9vcg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723442400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VALORANT】プラチナ！！チャレンジ💎【ホロライブ / ロボ子さん】"
     },
     {
