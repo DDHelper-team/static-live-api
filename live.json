@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BSSevGZ3W_g",
         "picture": "https://i.ytimg.com/vi/BSSevGZ3W_g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723437000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラクエⅪ】！！！！！！ドラゴンクエストXI 過ぎ去りし時を求めてS！！！！※ネタバレあり【湊あくあ/ホロライブ】"
     },
     {
