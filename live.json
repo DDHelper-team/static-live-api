@@ -139,7 +139,7 @@
         "picture": "https://i.ytimg.com/vi/BSSevGZ3W_g/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1723435200,
+        "timestamp": 1723437000,
         "title": "【ドラクエⅪ】！！！！！！ドラゴンクエストXI 過ぎ去りし時を求めてS！！！！※ネタバレあり【湊あくあ/ホロライブ】"
     },
     {
@@ -167,24 +167,13 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dwg4yjYY06I",
         "picture": "https://i.ytimg.com/vi/dwg4yjYY06I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723435200,
-        "title": "【ホロライブお宝マウンテン】holoXきた！！解放したいいいいい！！✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=sgfit9r6A1I",
-        "picture": "https://i.ytimg.com/vi/sgfit9r6A1I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "timestamp": null,
-        "title": "【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)"
+        "title": "【ホロライブお宝マウンテン】holoXきた！！解放したいいいいい！！✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723449629,
         "title": "【マリオパーティ スーパースターズ】第二回！1位になるのは誰だ❗️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WWtpc7kuN88",
+        "picture": "https://i.ytimg.com/vi/WWtpc7kuN88/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723443000,
+        "title": "【STAGE:0 公認ウォッチパーティー】VALORANT部門日本一の王座に輝くのは誰だ！？【百鬼あやめ/ホロライブ】"
     }
 ]
