@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WWtpc7kuN88",
         "picture": "https://i.ytimg.com/vi/WWtpc7kuN88/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723443000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STAGE:0 公認ウォッチパーティー】VALORANT部門日本一の王座に輝くのは誰だ！？【百鬼あやめ/ホロライブ】"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xz2eZ6kGXcY",
         "picture": "https://i.ytimg.com/vi/xz2eZ6kGXcY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723444200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ペーパーマリオRPG】新しい力をフルに使っていこう！！【ホロライブ/ときのそら】"
     }
 ]
