@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4pP2l_XOd0A",
         "picture": "https://i.ytimg.com/vi/4pP2l_XOd0A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723424400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO 3D DEBUT AFTERPARTY】the fluffiest and fuzziest journey 🐾🩵🩷 #FWMC3D 【3Dお披露目 振り返り】"
     },
     {
@@ -31,17 +31,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723428000,
         "title": "Reliving the Life of a Broke Highschool Student【I Am Part-time Worker!! 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rWL7HXdVYvQ",
-        "picture": "https://i.ytimg.com/vi/rWL7HXdVYvQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪#BAEBISleepover≫ How dead will Bae be?"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sgfit9r6A1I",
         "picture": "https://i.ytimg.com/vi/sgfit9r6A1I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723424400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Oblivion】Hero of Kvatch (Bowson) goes to Shivering Isles! (DLC TIME)"
     },
     {
@@ -229,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723467600,
         "title": "【猫の願いが叶うなら】Odencatさん5周年記念ゲームやってみます！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Kvq0N4olfAw",
+        "picture": "https://i.ytimg.com/vi/Kvq0N4olfAw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723429800,
+        "title": "【M.M.M.】Monday Morning Malas : Let\u0026#39;s just be malas【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AaBsm0ICvzM",
+        "picture": "https://i.ytimg.com/vi/AaBsm0ICvzM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723507200,
+        "title": "Look at me! I\u0026#39;m 3D! (´｡• ω •｡`)"
     }
 ]
