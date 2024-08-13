@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=veu3bvETlzA",
         "picture": "https://i.ytimg.com/vi/veu3bvETlzA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723530600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】珍しい時間に歌っちゃう！  sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
@@ -185,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723550400,
         "title": "【Apex Legends】キャラ変えを検討【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=c0c_0SvSHww",
+        "picture": "https://i.ytimg.com/vi/c0c_0SvSHww/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723532400,
+        "title": "【#02  星のカービィ ディスカバリー】完全初見でワドちゃんをすくう～！【ホロライブ / ロボ子さん】"
     }
 ]
