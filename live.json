@@ -77,17 +77,6 @@
         "title": "【歌枠】#あくあずふわもこ 歌枠コラボ！SINGING STREAM【ホロライブ / AZKi / 湊あくあ / FUWAMOCO】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KLq73gB5liw",
-        "picture": "https://i.ytimg.com/vi/KLq73gB5liw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Superchat Catchup】Read Time"
-    },
-    {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723537800,
         "title": "【Hollow Knight】LET\u0026#39;S CONTINUE !!!【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=T9yqTKIWq-c",
+        "picture": "https://i.ytimg.com/vi/T9yqTKIWq-c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723545000,
+        "title": "【 #雀指 】ミリしら麻雀大会 完全に理解った――☝みこ視点【ホロライブ/さくらみこ】"
     }
 ]
