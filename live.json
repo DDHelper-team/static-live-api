@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AaBsm0ICvzM",
         "picture": "https://i.ytimg.com/vi/AaBsm0ICvzM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723507200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Look at me! I\u0026#39;m 3D! (´｡• ω •｡`)"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Zgi8pb0LkLI",
         "picture": "https://i.ytimg.com/vi/Zgi8pb0LkLI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723510800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SUPER CHATting】BIBOO IN 3D!"
     },
     {
@@ -141,5 +141,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【MINECRAFT】 Did you know there are over 60,000 tree species?"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KLq73gB5liw",
+        "picture": "https://i.ytimg.com/vi/KLq73gB5liw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723518000,
+        "title": "【Superchat Catchup】Reading Reading"
     }
 ]
