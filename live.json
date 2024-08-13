@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H5Kp0w2UL5c",
         "picture": "https://i.ytimg.com/vi/H5Kp0w2UL5c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723548600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】本日もちむれんするよ～～！【緋月ゆい/ネオポルテ】"
     },
     {
