@@ -55,17 +55,6 @@
         "title": "【 #獅白ぼたん4周年 】ココイチ最強トッピング議論会場（告知もあるはず！）【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=H5Kp0w2UL5c",
-        "picture": "https://i.ytimg.com/vi/H5Kp0w2UL5c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】本日もちむれんするよ～～！【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -196,5 +185,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723636800,
         "title": "【 Minecraft 】雑談しながら玉座を作る！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "live eliv"
     }
 ]
