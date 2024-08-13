@@ -22,17 +22,6 @@
         "title": "【トルネコの大冒険】完全初見★スーパーファミコンGETしたのでトルネコ1やるよおおお！！ #1 【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ItlUt4EuWjo",
-        "picture": "https://i.ytimg.com/vi/ItlUt4EuWjo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お宝マウンテン】新作ホロゲームやってみるー！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": true,
@@ -317,5 +306,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【青鬼】チェイス大好き悪魔の倍速モードで逃げまくるっ！【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hqsRXRSesPw",
+        "picture": "https://i.ytimg.com/vi/hqsRXRSesPw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723629600,
+        "title": "【#ノエルDMMオンクレ】団長の特別セレクトをGETするぞ～！！！✨【白銀ノエル/ホロライブ】"
     }
 ]
