@@ -288,12 +288,34 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y6UR7qJkjDc",
         "picture": "https://i.ytimg.com/vi/y6UR7qJkjDc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723546800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【台湾旅行！】楽しかった台湾旅行の思い出話！！！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=T1XM5FEXIfI",
+        "picture": "https://i.ytimg.com/vi/T1XM5FEXIfI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【FGO】9thおめでとう！！！！水着エレちゃんも福袋も引くぞ！！！！！【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-Ej80aq77tU",
+        "picture": "https://i.ytimg.com/vi/-Ej80aq77tU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723550400,
+        "title": "【APEX】視聴者参加型カスタムするぞ～！！【ホロライブ/夏色まつり】"
     }
 ]
