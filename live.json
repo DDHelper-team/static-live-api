@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-Ej80aq77tU",
-        "picture": "https://i.ytimg.com/vi/-Ej80aq77tU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gM8SVdzvT3M",
+        "picture": "https://i.ytimg.com/vi/gM8SVdzvT3M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】視聴者参加型カスタムするぞ～！！【ホロライブ/夏色まつり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723636800,
+        "title": "【 Chained Together 】落ちるときは一緒だよ♡【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
