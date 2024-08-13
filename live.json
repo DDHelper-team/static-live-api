@@ -110,17 +110,6 @@
         "title": "【1/8192】4周年のカウントダウンまでに1/2を13回連続で引き当てられるのか【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ybVLBLmcYE0",
-        "picture": "https://i.ytimg.com/vi/ybVLBLmcYE0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【加班工作台】鎖匠跟大學生誰學歷比較高？.......鎖匠，因為他研究鎖。【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
         "islive": true,
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7KB0znOnaQ0",
         "picture": "https://i.ytimg.com/vi/7KB0znOnaQ0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723557600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】いろいろできたので見せます＆海の幸取りたい　その④【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -295,5 +284,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723559400,
         "title": "【APEX】今夜もV最練習！w/dtto.ちゃん、メイカちゃん【ホロライブ/アキロゼ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q7SSwwWtG7w",
+        "picture": "https://i.ytimg.com/vi/q7SSwwWtG7w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723629600,
+        "title": "【バイオ８/DLC】ローズの物語！後編！！Resident Evil Village:Shadows of Rose※ネタバレあり【轟はじめ/ReGLOSS】#hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ng6vwsNj0-I",
+        "picture": "https://i.ytimg.com/vi/ng6vwsNj0-I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723629600,
+        "title": "【】【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=bxtf_Bi73dM",
+        "picture": "https://i.ytimg.com/vi/bxtf_Bi73dM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【青鬼】チェイス大好き悪魔の倍速モードで逃げまくるっ！【ホロライブ/癒月ちょこ】"
     }
 ]
