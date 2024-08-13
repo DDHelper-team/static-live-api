@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OWclEgueelc",
         "picture": "https://i.ytimg.com/vi/OWclEgueelc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723559400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【1/8192】4周年のカウントダウンまでに1/2を13回連続で引き当てられるのか【獅白ぼたん/ホロライブ】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oGdgAf8B3mM",
         "picture": "https://i.ytimg.com/vi/oGdgAf8B3mM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723559400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】今夜もV最練習！w/dtto.ちゃん、メイカちゃん【ホロライブ/アキロゼ】"
     },
     {
