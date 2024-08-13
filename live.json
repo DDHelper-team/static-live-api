@@ -55,17 +55,6 @@
         "title": "【SUMMER PARTY】the hottest memory making!? uuuuuuuuuh || Mori Calliope #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2ow6ag-MJhs",
-        "picture": "https://i.ytimg.com/vi/2ow6ag-MJhs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】V最練習！視聴者カスタムやるぞ！w/なっちさん、dtto.ちゃん【ホロライブ/アキロゼ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -141,5 +130,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723600800,
         "title": "Reliving the Life of a Broke Highschool Student【I Am Part-time Worker!! 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=L2jeLspzKeQ",
+        "picture": "https://i.ytimg.com/vi/L2jeLspzKeQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 昼雑談 】夏、楽しんでますか？【 領国つかさ / すぺしゃりて 】"
     }
 ]
