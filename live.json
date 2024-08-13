@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iTirlToEuwY",
         "picture": "https://i.ytimg.com/vi/iTirlToEuwY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723545000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【神視点】ミリしら麻雀大会【#雀指】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hDCp8bWPd8Y",
         "picture": "https://i.ytimg.com/vi/hDCp8bWPd8Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723545000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#雀指】ミリしら麻雀大会(スタイリッシュ断腸視点)【白銀ノエル/ホロライブ】"
     },
     {
@@ -163,17 +163,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#02  星のカービィ ディスカバリー】完全初見でワドちゃんをすくう～！【ホロライブ / ロボ子さん】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oxc7nyEnP7k",
-        "picture": "https://i.ytimg.com/vi/oxc7nyEnP7k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】新武器「メイス」を作りたい!!【花咲みやび/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -244,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RWOYJd3895w",
         "picture": "https://i.ytimg.com/vi/RWOYJd3895w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723545000,
-        "title": "【 #雀指 】ミリしら麻雀大会　運否天賦　大空スバル視点【大空スバル/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #雀指 】ミリしら麻雀大会　圧倒的運否天賦　大空スバル視点【大空スバル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=d1wMnzraD5U",
         "picture": "https://i.ytimg.com/vi/d1wMnzraD5U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723545000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】今日も参加型カスタムで練習GOGO！🔫 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     },
     {
@@ -284,5 +273,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723554000,
         "title": "【Fate/stay night REMASTERED】Part 2; Saber | SPOILER【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=4x6_3YBYEQA",
+        "picture": "https://i.ytimg.com/vi/4x6_3YBYEQA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】青のエゴイスト - 心燃 -  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OcIHqmZqMcw",
+        "picture": "https://i.ytimg.com/vi/OcIHqmZqMcw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723554000,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
