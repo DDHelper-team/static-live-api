@@ -189,12 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bByJ1l1dX18",
         "picture": "https://i.ytimg.com/vi/bByJ1l1dX18/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723669200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#83  8/15木曜日！ハイ！ゴー！！！【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ttPvdXJDAHw",
+        "picture": "https://i.ytimg.com/vi/ttPvdXJDAHw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723716000,
+        "title": "【 #カゲマス 】浴衣イベントきた～！本日実装のエリザベートをガチャでGETする✨石プレチャレンジもあり♪【鷹嶺ルイ/ホロライブ】"
     }
 ]
