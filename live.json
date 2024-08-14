@@ -281,7 +281,7 @@
         "link": "https://www.youtube.com/watch?v=UB0B5NHNmdo",
         "picture": "https://i.ytimg.com/vi/UB0B5NHNmdo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1723645800,
         "title": "【APEX】V最お互いがんばろうの会✨️w/れんさん、リリさん【緋月ゆい/ネオポルテ】"
     },
@@ -295,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723726800,
         "title": "【#洶湧海豚 】夏だ!!!! 爽快噴射RPG大作，抓住夏天最後的比基尼尾巴 (笑)  (工商)【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=GJV2hpn8hPE",
+        "picture": "https://i.ytimg.com/vi/GJV2hpn8hPE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 歌枠 】 第二回、バーチャル路上ライブ【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=QYq4dXkiJFc",
+        "picture": "https://i.ytimg.com/vi/QYq4dXkiJFc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】ノースパッドの男達  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
     }
 ]
