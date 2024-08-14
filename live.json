@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dtE1JW5ELFU",
         "picture": "https://i.ytimg.com/vi/dtE1JW5ELFU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723672800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS: REMASTERED】 Truly the Dark Souls of Dark Souls"
     }
 ]
