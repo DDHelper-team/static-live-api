@@ -22,17 +22,6 @@
         "title": "【BIJOU OFF-COLLAB KARAOKE】BAU BAUing and ROCK ROCKing all night 🗿🐾【FUWAMOCO🐾】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gM8SVdzvT3M",
-        "picture": "https://i.ytimg.com/vi/gM8SVdzvT3M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Chained Together 】落ちるときは一緒だよ♡【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723680000,
         "title": "【FIVE NIGHTS AT FREDDY\u0026#39;S: INTO THE PIT】is that the bite of 69【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zQdHJsTlDKk",
+        "picture": "https://i.ytimg.com/vi/zQdHJsTlDKk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723723200,
+        "title": "【 スイカゲーム 】質問回答しながら対決！【 領国つかさ / 小鳥谷なの 】"
     }
 ]
