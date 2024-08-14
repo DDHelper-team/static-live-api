@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iItfyykkRdc",
         "picture": "https://i.ytimg.com/vi/iItfyykkRdc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723647600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 118 🐾 #FWMCMORNING"
     },
     {
@@ -55,17 +55,6 @@
         "title": "【あつまれ どうぶつの森】#11 人生初のどう森！雑談しながらのんびり夏の夜を過ごそう【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9o0rfY_5xyA",
-        "picture": "https://i.ytimg.com/vi/9o0rfY_5xyA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雜談】初見安安 你今天過得好嗎？ | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": true,
@@ -75,17 +64,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ホロ7DTD】みんなで生き残れ！！！！！７DAYS TO DIEやるしゅばああああああああああああああああああああああああああ！！！【ホロライブ/大空スバル】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=94ZNhgJKHNY",
-        "picture": "https://i.ytimg.com/vi/94ZNhgJKHNY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】雑談しながら玉座を作る！【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -244,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y3k-9wRaaOU",
         "picture": "https://i.ytimg.com/vi/Y3k-9wRaaOU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723647600,
-        "title": "【Free Talk】wait a minute....?!?!!"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Free Talk】wait a minute....?!?!! did we hit 900k!??!?!?"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -277,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UB0B5NHNmdo",
         "picture": "https://i.ytimg.com/vi/UB0B5NHNmdo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1723645800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】V最お互いがんばろうの会✨️w/れんさん、リリさん【緋月ゆい/ネオポルテ】"
     },
     {
@@ -317,5 +295,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【APEX】ノースパッドの男達  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=b09AaplLJWc",
+        "picture": "https://i.ytimg.com/vi/b09AaplLJWc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723734000,
+        "title": "ASMR接力｜細緻愛護的美容護膚體驗❤️｜Beauty \u0026amp; Skincare｜エステ＆スキンケア 【黑3DIO/*KU100】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=3O8fEARVgDA",
+        "picture": "https://i.ytimg.com/vi/3O8fEARVgDA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #minecraft  】ハードコアってどんな感じなの？意外と簡単なんじゃないの？【#新人vtuber 】"
     }
 ]
