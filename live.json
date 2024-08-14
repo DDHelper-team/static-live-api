@@ -255,11 +255,11 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=s7sM_evU3OE",
         "picture": "https://i.ytimg.com/vi/s7sM_evU3OE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "timestamp": null,
         "title": "【睡眠導入】最初から✨RATOPIAまったりプレイ【#一条莉々華/ #ホロライブ #hololive DEV_IS ReGLOSS】"
     },
@@ -295,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723683600,
         "title": "【DRAWING】 WAH!"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=g6rIZPe5M5A",
+        "picture": "https://i.ytimg.com/vi/g6rIZPe5M5A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723644000,
+        "title": "【雑談】ホロサマビンゴどうなった＆きのこの可能性を探る【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
