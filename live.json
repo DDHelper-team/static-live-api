@@ -22,17 +22,6 @@
         "title": "【FUWAMOCO MORNING】episode 118 🐾 #FWMCMORNING"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=i8wKrwKJQsU",
-        "picture": "https://i.ytimg.com/vi/i8wKrwKJQsU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #獅白ぼたん4周年 】ココイチ最強トッピング議論会場（告知もあるはず！）【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -176,17 +165,6 @@
         "title": "【#ホロ7DTD 】４９日間をみんなで生き抜いていく！！　DAY１～【ホロライブ/白上フブキ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cSstfMR5FJc",
-        "picture": "https://i.ytimg.com/vi/cSstfMR5FJc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Honor of Kings】BAWA AKU KELUAR DARI DIAMOND【 iofi / hololiveID 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "islive": true,
@@ -222,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=E5b40Yf198k",
         "picture": "https://i.ytimg.com/vi/E5b40Yf198k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723638600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Cryptmaster】we continue. again. 👀 【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -284,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723640400,
         "title": "【睡眠導入】最初から✨RATOPIAまったりプレイ【#一条莉々華/ #ホロライブ #hololive DEV_IS ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FNDPTXzIi8M",
+        "picture": "https://i.ytimg.com/vi/FNDPTXzIi8M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723694400,
+        "title": "【MHXX】超絶初見モンハンダブルクロス　4日目【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y3k-9wRaaOU",
+        "picture": "https://i.ytimg.com/vi/Y3k-9wRaaOU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723647600,
+        "title": "【Free Talk】wait a minute....?!?!!"
     }
 ]
