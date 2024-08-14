@@ -163,5 +163,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723687200,
         "title": "【Illusion Carnival】The Carnival Arrived And I\u0026#39;m the Main Show"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=lRCI0B89VHQ",
+        "picture": "https://i.ytimg.com/vi/lRCI0B89VHQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ゲリラ】チャンネル登録50万人を見届けたい！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0VUQjTLYOb0",
+        "picture": "https://i.ytimg.com/vi/0VUQjTLYOb0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723633200,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
