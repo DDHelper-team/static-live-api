@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Kebklliy8Cg",
-        "picture": "https://i.ytimg.com/vi/Kebklliy8Cg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d5riPj_I8t0",
+        "picture": "https://i.ytimg.com/vi/d5riPj_I8t0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【麻雀】参加型！1位×3獲れるまで終われまてん‼夏の麻雀祭じゃあああい！🀄✨【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723690800,
+        "title": "【パワプロ2024】#こよなつ甲子園 3日目！ホロメンで栄冠ナイン⚾2年目新入生ガチャ～！【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723645800,
         "title": "【APEX】V最お互いがんばろうの会✨️w/れんさん、リリさん【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CzctqerJ2fU",
+        "picture": "https://i.ytimg.com/vi/CzctqerJ2fU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723726800,
+        "title": "【#洶湧海豚 】夏だ!!!! 爽快噴射RPG大作，抓住夏天最後的比基尼尾巴 (笑)  (工商)【#遊戲個人勢 / Fingla】"
     }
 ]
