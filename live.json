@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gM8SVdzvT3M",
         "picture": "https://i.ytimg.com/vi/gM8SVdzvT3M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723640400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Chained Together 】落ちるときは一緒だよ♡【ホロライブ/夏色まつり】"
     },
     {
@@ -51,18 +51,18 @@
         "picture": "https://i.ytimg.com/vi/9eT9FgNKTuQ/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1723640400,
+        "timestamp": 1723726800,
         "title": "【あつまれ どうぶつの森】#11 人生初のどう森！雑談しながらのんびり夏の夜を過ごそう【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9o0rfY_5xyA",
         "picture": "https://i.ytimg.com/vi/9o0rfY_5xyA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723640400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雜談】初見安安 你今天過得好嗎？ | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AlX0X-IS85U",
         "picture": "https://i.ytimg.com/vi/AlX0X-IS85U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723640400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【お宝マウンテン】ダブぺこ行ったらチャンネル登録してくれるよね🥺【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2NVcBsCZZmE",
         "picture": "https://i.ytimg.com/vi/2NVcBsCZZmE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723640400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】夜のマイクラ～～【不知火フレア/ホロライブ】"
     },
     {
@@ -260,7 +260,7 @@
         "picture": "https://i.ytimg.com/vi/s7sM_evU3OE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1723640400,
+        "timestamp": null,
         "title": "【睡眠導入】最初から✨RATOPIAまったりプレイ【#一条莉々華/ #ホロライブ #hololive DEV_IS ReGLOSS】"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723647600,
         "title": "【Free Talk】wait a minute....?!?!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-XWflKdVuII",
+        "picture": "https://i.ytimg.com/vi/-XWflKdVuII/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723683600,
+        "title": "【DRAWING】 WAH!"
     }
 ]
