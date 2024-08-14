@@ -66,17 +66,6 @@
         "title": "【Illusion Carnival】The Carnival Arrived And I\u0026#39;m the Main Show"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=E5b40Yf198k",
-        "picture": "https://i.ytimg.com/vi/E5b40Yf198k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Cryptmaster】we continue. again. 👀 【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": true,
@@ -86,17 +75,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】夜のマイクラ～～【不知火フレア/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=s7sM_evU3OE",
-        "picture": "https://i.ytimg.com/vi/s7sM_evU3OE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【睡眠導入】最初から✨RATOPIAまったりプレイ【#一条莉々華/ #ホロライブ #hololive DEV_IS ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -251,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723719600,
         "title": "【4周年？？？】告知あり　荒咬オウガのあれ欲しい【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1gSquZa0jlQ",
+        "picture": "https://i.ytimg.com/vi/1gSquZa0jlQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723680000,
+        "title": "【FIVE NIGHTS AT FREDDY\u0026#39;S: INTO THE PIT】is that the bite of 69【Dokibird】"
     }
 ]
