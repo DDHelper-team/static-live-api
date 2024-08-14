@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EL0ggkhcUeE",
-        "picture": "https://i.ytimg.com/vi/EL0ggkhcUeE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Kebklliy8Cg",
+        "picture": "https://i.ytimg.com/vi/Kebklliy8Cg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【パワプロ2024】#こよなつ甲子園 2日目！ホロメンで栄冠ナイン⚾1年目夏大会格上対戦から！！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723629600,
+        "title": "【はいしんよていち】こよよよよよよよ！！！！！！【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723636800,
         "title": "【#ホロ7DTD 】４９日間をみんなで生き抜いていく！！　DAY１～【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cSstfMR5FJc",
+        "picture": "https://i.ytimg.com/vi/cSstfMR5FJc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723629600,
+        "title": "【Honor of Kings】BAWA AKU KELUAR DARI DIAMOND【 iofi / hololiveID 】"
     }
 ]
