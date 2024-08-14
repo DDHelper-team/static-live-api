@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8MIyM0g1h3I",
         "picture": "https://i.ytimg.com/vi/8MIyM0g1h3I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723600800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Reliving the Life of a Broke Highschool Student【I Am Part-time Worker!! 】"
     },
     {
@@ -163,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723644000,
         "title": "【 #minecraft  】ハードコアってどんな感じなの？意外と簡単なんじゃないの？【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Vz7v3qx6t1I",
+        "picture": "https://i.ytimg.com/vi/Vz7v3qx6t1I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723604400,
+        "title": "【The Legend of Zelda: The Minish Cap】THIS\u0026#39;LL BE MY FIRST ZELDA GAME EVER!!【Kureiji Ollie】"
     }
 ]
