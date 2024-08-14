@@ -66,17 +66,6 @@
         "title": "【Illusion Carnival】The Carnival Arrived And I\u0026#39;m the Main Show"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-l8eztv7N-M",
-        "picture": "https://i.ytimg.com/vi/-l8eztv7N-M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロ7DTD 】49日間を生き抜く・・！７Days To Die！【大神ミオ視点】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -222,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3O8fEARVgDA",
-        "picture": "https://i.ytimg.com/vi/3O8fEARVgDA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WbJwFLAX4Kg",
+        "picture": "https://i.ytimg.com/vi/WbJwFLAX4Kg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #minecraft  】ハードコアってどんな感じなの？意外と簡単なんじゃないの？【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723719600,
+        "title": "【 #歌枠  / karaoke！】灰簾祭セトリ歌枠！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
@@ -240,5 +229,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723680000,
         "title": "【SUPERCHAT READING】thanks for coming to my 3D! 🎼"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=F8q730zRPXY",
+        "picture": "https://i.ytimg.com/vi/F8q730zRPXY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723716000,
+        "title": "【 #ホロ7DTD 】49日間生き残れ…！｜2日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=n9wKWW25k40",
+        "picture": "https://i.ytimg.com/vi/n9wKWW25k40/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】突発突然。 w/パカエル、常闇トワ【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MmfjIYXxSjI",
+        "picture": "https://i.ytimg.com/vi/MmfjIYXxSjI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723719600,
+        "title": "【4周年？？？】告知あり　荒咬オウガのあれ欲しい【荒咬オウガ /ホロスターズ】"
     }
 ]
