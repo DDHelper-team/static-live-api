@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mXFjhSeEFIE",
         "picture": "https://i.ytimg.com/vi/mXFjhSeEFIE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723701600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ペーパーマリオRPG】新たな世界へ！高級な町！？【ホロライブ/ときのそら】"
     }
 ]
