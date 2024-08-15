@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ttPvdXJDAHw",
-        "picture": "https://i.ytimg.com/vi/ttPvdXJDAHw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BNdviA0T3t0",
+        "picture": "https://i.ytimg.com/vi/BNdviA0T3t0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #カゲマス 】浴衣イベントきた～！本日実装のエリザベートをガチャでGETする✨石プレチャレンジもあり♪【鷹嶺ルイ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723723200,
+        "title": "【 RE：地獄銭湯 】ホラゲウィーク第参夜／あの激怖銭湯で再度働くことになったみたいです。【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
