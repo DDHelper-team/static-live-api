@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=m_dIVh7qGA4",
-        "picture": "https://i.ytimg.com/vi/m_dIVh7qGA4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Vpwv0FDWRac",
+        "picture": "https://i.ytimg.com/vi/Vpwv0FDWRac/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Star Named EOS】Reminiscense"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723777200,
+        "title": "【Tunic】We\u0026#39;re Off | #2"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -141,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723780800,
         "title": "【HOLOMELO RADIO】Episode 4- THE BIG DAY! Mori\u0026#39;s Solo Episode! #shorts #radio"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=e0BO5n0yPTM",
-        "picture": "https://i.ytimg.com/vi/e0BO5n0yPTM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【緊急ゲリラ】ダブルダブルダブルぺこら達成中！3万点超えいくぞおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
