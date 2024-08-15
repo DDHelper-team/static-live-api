@@ -77,25 +77,14 @@
         "title": "【HOLOMELO RADIO】Episode 4- THE BIG DAY! Mori\u0026#39;s Solo Episode! #shorts #radio"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fqsgFuDacko",
-        "picture": "https://i.ytimg.com/vi/fqsgFuDacko/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【砂テトリス】Sandtrix+であそんでみる！【#一条莉々華/ #ホロライブ #hololive DEV_IS ReGLOSS #shorts 】"
-    },
-    {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ioO4q3Y2Jzw",
         "picture": "https://i.ytimg.com/vi/ioO4q3Y2Jzw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723732200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 誕生日カウントダウン 】誕生日を一緒に迎えて、たくさん祝ってほしいな♡【獅子神レオナ/Re:AcT】"
     },
     {
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723813200,
         "title": "【配信予定地】あくたんコラボ【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=y6PMvF68aFI",
+        "picture": "https://i.ytimg.com/vi/y6PMvF68aFI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【録画はメン限】悪魔の吐息ASMR【ホロライブ/癒月ちょこ】"
     }
 ]
