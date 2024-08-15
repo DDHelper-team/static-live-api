@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F8q730zRPXY",
         "picture": "https://i.ytimg.com/vi/F8q730zRPXY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723716000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロ7DTD 】49日間生き残れ…！｜2日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ttPvdXJDAHw",
         "picture": "https://i.ytimg.com/vi/ttPvdXJDAHw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723716000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #カゲマス 】浴衣イベントきた～！本日実装のエリザベートをガチャでGETする✨石プレチャレンジもあり♪【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -187,17 +187,6 @@
         "title": "【お宝マウンテン】巷で噂のホロライブお宝マウンテンやってみる！【湊あくあ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GvY-kUYLFsE",
-        "picture": "https://i.ytimg.com/vi/GvY-kUYLFsE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Dicey Dungeons】体調が悪かった時に僕を支えてくれたサイコロゲーム【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "islive": false,
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VhcJR7RiSXs",
         "picture": "https://i.ytimg.com/vi/VhcJR7RiSXs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723716000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロ7DTD 】DAY.2！ゾンビの初襲撃来るか・・？！【大神ミオ視点】"
     },
     {
@@ -233,23 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=phiFhNVt5Ps",
         "picture": "https://i.ytimg.com/vi/phiFhNVt5Ps/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723716000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロ7DTD】ころね支店 ～ アホの２日目 ～【７Days To Die】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6nIk_juxKfo",
         "picture": "https://i.ytimg.com/vi/6nIk_juxKfo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723716000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロ7DTD】みんなで生き残れ！！！！！７DAYS TO DIEやるしゅばああああああああああああああああああああああああああ！！！【ホロライブ/大空スバル】"
     },
     {
@@ -288,12 +277,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rcuJlfxaENY",
         "picture": "https://i.ytimg.com/vi/rcuJlfxaENY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723716000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロ7DTD 】４９日間をみんなで生き抜いていく！！　DAY４～【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=G1AY-qmqTU0",
+        "picture": "https://i.ytimg.com/vi/G1AY-qmqTU0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723726800,
+        "title": "【メン限】頭痛に敗北したのでメン限でまったり雑談(短め予定)🍀【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rXsq8gRtf3g",
+        "picture": "https://i.ytimg.com/vi/rXsq8gRtf3g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723802400,
+        "title": "【#stons】深い呼吸の習慣化サポートデバイスを体験！【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
