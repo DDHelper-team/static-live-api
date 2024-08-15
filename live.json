@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FNDPTXzIi8M",
         "picture": "https://i.ytimg.com/vi/FNDPTXzIi8M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723694400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MHXX】超絶初見モンハンダブルクロス　4日目【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -152,16 +152,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723719600,
         "title": "HOLOLIVE VS BUG"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pAP4c_wipPY",
-        "picture": "https://i.ytimg.com/vi/pAP4c_wipPY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FGO】おいなんだ今回のイベントとりあえずドバイ行くか【影山シエン/ホロスターズ】"
     }
 ]
