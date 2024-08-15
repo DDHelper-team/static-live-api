@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xJAH_3gD_wY",
-        "picture": "https://i.ytimg.com/vi/xJAH_3gD_wY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zQdHJsTlDKk",
+        "picture": "https://i.ytimg.com/vi/zQdHJsTlDKk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 昼雑談 】僕と話そう！【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723723200,
+        "title": "【 スイカゲーム 】質問回答しながら対決！【 領国つかさ / 小鳥谷なの 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -156,23 +156,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e0BO5n0yPTM",
         "picture": "https://i.ytimg.com/vi/e0BO5n0yPTM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723699800,
-        "title": "【緊急ゲリラ】ダブルダブルダブルぺこら達成中！3万点超える！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【緊急ゲリラ】ダブルダブルダブルぺこら達成中！3万点超えいくぞおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F4u2yNzLYfY",
         "picture": "https://i.ytimg.com/vi/F4u2yNzLYfY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723699830,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】ワットソンやーっ！わーっ！【緋月ゆい/ネオポルテ】"
     },
     {
@@ -185,5 +185,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723723200,
         "title": "予定地！莉々華の！！！（このサムネはメン限イラスト💓）"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ioO4q3Y2Jzw",
+        "picture": "https://i.ytimg.com/vi/ioO4q3Y2Jzw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723732200,
+        "title": "【 誕生日カウントダウン 】誕生日を一緒に迎えて、たくさん祝ってほしいな♡【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xVPI2OC9W38",
+        "picture": "https://i.ytimg.com/vi/xVPI2OC9W38/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723766400,
+        "title": "【Phonk Radio】Asset Organization, Stream Overhauls, and Weekly Planning"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mXFjhSeEFIE",
+        "picture": "https://i.ytimg.com/vi/mXFjhSeEFIE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723701600,
+        "title": "【ペーパーマリオRPG】新たな世界へ！高級な町！？【ホロライブ/ときのそら】"
     }
 ]
