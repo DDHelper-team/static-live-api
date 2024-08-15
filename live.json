@@ -187,17 +187,6 @@
         "title": "【Phonk Radio】Asset Organization, Stream Overhauls, and Weekly Planning"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mXFjhSeEFIE",
-        "picture": "https://i.ytimg.com/vi/mXFjhSeEFIE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ペーパーマリオRPG】新たな世界へ！高級な町！？【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "islive": false,
@@ -240,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723716000,
         "title": "【 #ホロ7DTD 】DAY.2！ゾンビの初襲撃来るか・・？！【大神ミオ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=55cff8XJsQs",
+        "picture": "https://i.ytimg.com/vi/55cff8XJsQs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723719600,
+        "title": "【Apex Legends】V最スクリムまであと少し！ランドマークも決まったので、やるぞ！【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=phiFhNVt5Ps",
+        "picture": "https://i.ytimg.com/vi/phiFhNVt5Ps/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723716000,
+        "title": "【#ホロ7DTD】ころね支店 ～ アホの２日目 ～【７Days To Die】"
     }
 ]
