@@ -77,17 +77,6 @@
         "title": "【配信予定地】あくたんコラボ【天音かなた/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=1bARfJafPP0",
-        "picture": "https://i.ytimg.com/vi/1bARfJafPP0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1769860800,
-        "title": "これはフリーチャットだ。"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "islive": true,
@@ -209,17 +198,6 @@
         "title": "【#絕區零 】新版本！新腳色！青衣來了~~~【#遊戲個人勢 / Fingla】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YfmKBhigoBE",
-        "picture": "https://i.ytimg.com/vi/YfmKBhigoBE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【グランブルーファンタジー】グラフェス天井300連【荒咬オウガ　ホロスターズ】#shorts"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": true,
@@ -244,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vQjub8dkobc",
         "picture": "https://i.ytimg.com/vi/vQjub8dkobc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1723809600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロ7DTD】49日間サバイバル⁉3日目！【星街すいせい / ホロライブ】"
     },
     {
@@ -328,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723813200,
         "title": "【エリート陰陽師みこ】人生初の弾幕シューティングだ！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7Mpf0wDfIHY",
+        "picture": "https://i.ytimg.com/vi/7Mpf0wDfIHY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723813200,
+        "title": "#4【Ace Attorney: Dual Destinies】IT\u0026#39;S BEEN TWO MONTHS (SPOILER ALERT)【Pavolia Reine/holoID】"
     }
 ]
