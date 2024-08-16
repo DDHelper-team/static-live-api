@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xVPI2OC9W38",
         "picture": "https://i.ytimg.com/vi/xVPI2OC9W38/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723766400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Phonk Radio】Asset Organization, Stream Overhauls, and Weekly Planning"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5Gpte2MwJKU",
         "picture": "https://i.ytimg.com/vi/5Gpte2MwJKU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723766400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GOD OF WAR 2018】i am a good dad【Dokibird】"
     },
     {
@@ -189,24 +189,13 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2iHtJw4D9tY",
         "picture": "https://i.ytimg.com/vi/2iHtJw4D9tY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723766400,
-        "title": "Anime girl reviews her EP"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Z1kjnYhAQYE",
-        "picture": "https://i.ytimg.com/vi/Z1kjnYhAQYE/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Sucker for Love: Date to Die For】 The final chapter"
+        "title": "Anime girl reviews her EP"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
