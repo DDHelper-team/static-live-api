@@ -88,17 +88,6 @@
         "title": "【メイドカフェ凸待ち｜MAID CAFE CALL-INS】welcome to cafe FUWAMOCO 🐾"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BCjsn3KWCvk",
-        "picture": "https://i.ytimg.com/vi/BCjsn3KWCvk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【エリート陰陽師みこ】みこち主役の弾幕STG！？エリートプレイするぞ！！【ホロライブ/宝鐘マリン】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": false,
@@ -233,12 +222,23 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aXRYIg_IUgE",
         "picture": "https://i.ytimg.com/vi/aXRYIg_IUgE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723792500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゲリラ】ReGLOSS250万人達成記念お茶会【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=re8xzZ4qMe0",
+        "picture": "https://i.ytimg.com/vi/re8xzZ4qMe0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723795200,
+        "title": "【ドッキリ】とあるイカれた夏の日【DON\u0026#39;T LOOK AT ME!!!】"
     }
 ]
