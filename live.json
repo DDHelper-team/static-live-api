@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Zhamx1tcnSA",
         "picture": "https://i.ytimg.com/vi/Zhamx1tcnSA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723815000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】練習カスタム！【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
     },
     {
