@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DJUK3KRV6UQ",
         "picture": "https://i.ytimg.com/vi/DJUK3KRV6UQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【トルネコの大冒険】完全初見★スーパーファミコン実機で「もっと不思議のダンジョン」に挑戦！【博衣こより/ホロライブ】"
     },
     {
@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rXsq8gRtf3g",
         "picture": "https://i.ytimg.com/vi/rXsq8gRtf3g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#stons】深い呼吸の習慣化サポートデバイスを体験！【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LEanuDyfcgM",
         "picture": "https://i.ytimg.com/vi/LEanuDyfcgM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VALORANT】ホロスタフルパランク【花咲みやび/ホロスターズ】"
     },
     {
@@ -222,34 +222,34 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=re8xzZ4qMe0",
-        "picture": "https://i.ytimg.com/vi/re8xzZ4qMe0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tV1qRoBqnlg",
+        "picture": "https://i.ytimg.com/vi/tV1qRoBqnlg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドッキリ】⚠見るな危険⚠【DON\u0026#39;T LOOK!!!】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723885200,
+        "title": "【モノマネ】あてぃし、湊あくあ。【ホロライブ/赤井はあと】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e12hLDUu7kc",
         "picture": "https://i.ytimg.com/vi/e12hLDUu7kc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723802400,
-        "title": "【はいしにょてい】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Sandtrix+】galaxy brain奏で頭脳明晰なプレイをみせつけていく【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ww8GT_0bavg",
         "picture": "https://i.ytimg.com/vi/ww8GT_0bavg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】ホロ夏進捗相談会＆スパチャ読み【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -262,5 +262,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723856400,
         "title": "≪Yakuza Kiwami 2≫ IM NOT LEAVING UNTIL I FINISH THIS. #7 【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7BbeObNyjcI",
+        "picture": "https://i.ytimg.com/vi/7BbeObNyjcI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723806000,
+        "title": "【青鬼】５倍速で追いかけてくる青鬼から逃げる！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=C5_U174UIU8",
+        "picture": "https://i.ytimg.com/vi/C5_U174UIU8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723816800,
+        "title": "【#絕區零 】新版本！新腳色！青衣來了~~~【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=u53eMzvazQY",
+        "picture": "https://i.ytimg.com/vi/u53eMzvazQY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#りっちしょこら】今回のゲストは湊あくあ様⚡今宵もご堪能あれ！【ホロライブ/癒月ちょこ/鷹嶺ルイ/湊あくあ】"
     }
 ]
