@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qtwTlDPu7FM",
         "picture": "https://i.ytimg.com/vi/qtwTlDPu7FM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723816800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 The Classrooms 】ホラゲウィーク第肆夜／声で反応してしまう⁉怖すぎるホラゲ【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -57,35 +57,24 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4K3MRsRV1I8",
-        "picture": "https://i.ytimg.com/vi/4K3MRsRV1I8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VdhRyg_9tiw",
+        "picture": "https://i.ytimg.com/vi/VdhRyg_9tiw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【メイドカフェ凸待ち｜MAID CAFE CALL-INS】welcome to cafe FUWAMOCO 🐾"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yR-mvr53S0M",
-        "picture": "https://i.ytimg.com/vi/yR-mvr53S0M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談コラボ】職権乱用！！湊あくあと喋ろうの会！ちょっとしたサプライズも…？？【天音かなた/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723820400,
+        "title": "【FUWAMOCO MORNING】episode 119 🐾 #FWMCMORNING"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LEanuDyfcgM",
-        "picture": "https://i.ytimg.com/vi/LEanuDyfcgM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B0sQGkL5KAk",
+        "picture": "https://i.ytimg.com/vi/B0sQGkL5KAk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VALORANT】ホロスタフルパランク【花咲みやび/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723899600,
+        "title": "【Dead by Daylight】烏有と2VS8で遊ぶ!!【花咲みやび/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -178,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=C5_U174UIU8",
         "picture": "https://i.ytimg.com/vi/C5_U174UIU8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723816800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#絕區零 】新版本！新腳色！青衣來了~~~【#遊戲個人勢 / Fingla】"
     },
     {
@@ -317,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723867200,
         "title": "【MHXX】超絶初見モンハンダブルクロス　5日目【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j3uRnHcz3jE",
+        "picture": "https://i.ytimg.com/vi/j3uRnHcz3jE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723820400,
+        "title": "【Sandtrix+】we play with sand, but this one is different. 【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=T8uKkr-dhNs",
+        "picture": "https://i.ytimg.com/vi/T8uKkr-dhNs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】ノースパッドの男達  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
     }
 ]
