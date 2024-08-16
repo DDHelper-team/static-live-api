@@ -121,17 +121,6 @@
         "title": "【#尾丸ポルカ4周年】新曲！？お披露目！！みんなありがとう！！5年目のポルカをお届け！【尾丸ポルカ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5Gpte2MwJKU",
-        "picture": "https://i.ytimg.com/vi/5Gpte2MwJKU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【GOD OF WAR 2018】i am a good dad【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -189,12 +178,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8ThUPmfPilM",
         "picture": "https://i.ytimg.com/vi/8ThUPmfPilM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723784400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ペーパーマリオRPG】探偵マリオ！豪華エクスプレスで事件解決！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7_1dSB0hoGo",
+        "picture": "https://i.ytimg.com/vi/7_1dSB0hoGo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723795200,
+        "title": "【】【姫森ルーナ/ホロライブ】"
     }
 ]
