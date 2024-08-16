@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bg-rl4-VpTc",
         "picture": "https://i.ytimg.com/vi/bg-rl4-VpTc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723798800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロライブゲーマーズ】ゲマズオフコラボ！知育菓子で虫を食べる！？！？！？！【ホロライブ/白上フブキ/大神ミオ/猫又おかゆ/戌神ころね】"
     },
     {
@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723802400,
         "title": "【はいしにょてい】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ww8GT_0bavg",
+        "picture": "https://i.ytimg.com/vi/ww8GT_0bavg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723802400,
+        "title": "【雑談】ホロ夏進捗相談会＆スパチャ読み【一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
