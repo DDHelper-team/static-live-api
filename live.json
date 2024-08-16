@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SAl2RJ9eMls",
         "picture": "https://i.ytimg.com/vi/SAl2RJ9eMls/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723780800,
-        "title": "【HOLOMELO RADIO】Episode 4- THE BIG DAY! Mori\u0026#39;s Solo Episode! #shorts #radio"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【HOLOMELO RADIO】Episode 4- THE BIG DAY! Mori\u0026#39;s Solo Episode Totsumachi! #shorts #radio"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BCjsn3KWCvk",
         "picture": "https://i.ytimg.com/vi/BCjsn3KWCvk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723780800,
-        "title": "【エリート陰陽師みこ】やりたすぎるので激レア昼枠予定【ホロライブ/宝鐘マリン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【エリート陰陽師みこ】みこち主役の弾幕STG！？エリートプレイするぞ！！【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723791600,
         "title": "【900k Unarchived Karaoke】yayyyy"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cJUV8WSLMq0",
+        "picture": "https://i.ytimg.com/vi/cJUV8WSLMq0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723788000,
+        "title": "【hololive Treasure Mountain】TREASURESSSSSSS【hololive ID 2nd Gen | Anya Melfissa】"
     }
 ]
