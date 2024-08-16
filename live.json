@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Q-B_dWBvSsM",
         "picture": "https://i.ytimg.com/vi/Q-B_dWBvSsM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723806000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#尾丸ポルカ4周年】新曲！？お披露目！！みんなありがとう！！5年目のポルカをお届け！【尾丸ポルカ/ホロライブ】"
     },
     {
@@ -130,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723809600,
         "title": "【 #ホロ7DTD 】49日間生き残れ…！｜3日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7_1dSB0hoGo",
-        "picture": "https://i.ytimg.com/vi/7_1dSB0hoGo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 歌枠 】んなサマー！夏歌うたうのら～！！！🍉🌻🌴【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7BbeObNyjcI",
         "picture": "https://i.ytimg.com/vi/7BbeObNyjcI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723806000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【青鬼】５倍速で追いかけてくる青鬼から逃げる！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723809600,
         "title": "【#ホロ7DTD 】４９日間をみんなで生き抜いていく！！　DAY８～【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Zhamx1tcnSA",
+        "picture": "https://i.ytimg.com/vi/Zhamx1tcnSA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723815000,
+        "title": "【Apex Legends】練習カスタム！【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
     }
 ]
