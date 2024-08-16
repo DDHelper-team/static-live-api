@@ -44,17 +44,6 @@
         "title": "【 Free chat 】それ、間？【獅子神レオナ/Re:AcT】"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rXsq8gRtf3g",
-        "picture": "https://i.ytimg.com/vi/rXsq8gRtf3g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#stons】深い呼吸の習慣化サポートデバイスを体験！【儒烏風亭らでん #ReGLOSS 】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -209,26 +198,15 @@
         "title": "【モノマネ】あてぃし、湊あくあ。【ホロライブ/赤井はあと】"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=e12hLDUu7kc",
-        "picture": "https://i.ytimg.com/vi/e12hLDUu7kc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Sandtrix+】galaxy brain奏で頭脳明晰なプレイをみせつけていく【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ww8GT_0bavg",
-        "picture": "https://i.ytimg.com/vi/ww8GT_0bavg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kM8vJa2S4MM",
+        "picture": "https://i.ytimg.com/vi/kM8vJa2S4MM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】ホロ夏進捗相談会＆スパチャ読み【一条莉々華/hololive DEV_IS　ReGLOSS】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723809600,
+        "title": "【ホラゲー】The Bathhouse | 地獄銭湯 Restored Edition　…温泉怖いよ…！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -306,5 +284,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723815000,
         "title": "【Apex Legends】練習カスタム！【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vQjub8dkobc",
+        "picture": "https://i.ytimg.com/vi/vQjub8dkobc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723809600,
+        "title": "【#ホロ7DTD】49日間サバイバル⁉3日目！【星街すいせい / ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q8b_p-1sOXs",
+        "picture": "https://i.ytimg.com/vi/Q8b_p-1sOXs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723809600,
+        "title": "【 #ホロ7DTD 】DAY.3！自転車がほしいとみんな言っている。【大神ミオ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6iPJBM1xY44",
+        "picture": "https://i.ytimg.com/vi/6iPJBM1xY44/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723892400,
+        "title": "【#紫咲シオン復帰配信】初めまして！初配信です。【ホロライブ/紫咲シオン】"
     }
 ]
