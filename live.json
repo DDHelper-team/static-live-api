@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RJKMjJxBtSM",
-        "picture": "https://i.ytimg.com/vi/RJKMjJxBtSM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qtwTlDPu7FM",
+        "picture": "https://i.ytimg.com/vi/qtwTlDPu7FM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅧ 】完全初見。3DS版！神鳥レティスを求めて・・・！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723816800,
+        "title": "【 The Classrooms 】ホラゲウィーク第肆夜／声で反応してしまう⁉怖すぎるホラゲ【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -143,17 +143,6 @@
         "title": "【 #ホロ7DTD 】49日間生き残れ…！｜3日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PDi1kYQ5py0",
-        "picture": "https://i.ytimg.com/vi/PDi1kYQ5py0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【900k Unarchived Karaoke】yayyyy"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "islive": true,
@@ -178,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7_1dSB0hoGo",
         "picture": "https://i.ytimg.com/vi/7_1dSB0hoGo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723795200,
-        "title": "【】【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 歌枠 】んなサマー！夏歌うたうのら～！！！🍉🌻🌴【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -231,17 +220,6 @@
         "title": "【ゲリラ】ReGLOSS250万人達成記念お茶会【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=re8xzZ4qMe0",
-        "picture": "https://i.ytimg.com/vi/re8xzZ4qMe0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723795200,
-        "title": "【ドッキリ】とあるイカれた夏の日【DON\u0026#39;T LOOK AT ME!!!】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": false,
@@ -262,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723798800,
         "title": "【#ホロライブゲーマーズ】ゲマズオフコラボ！知育菓子で虫を食べる！？！？！？！【ホロライブ/白上フブキ/大神ミオ/猫又おかゆ/戌神ころね】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=H4TPcx2BCgw",
+        "picture": "https://i.ytimg.com/vi/H4TPcx2BCgw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723809600,
+        "title": "【＃8】鋼の錬金術師 Fullmetal Alchemist. 同時視聴会しゅばあああああああ / Fullmetal Alchemist. watching party【ホロライブ/大空スバル】"
     }
 ]
