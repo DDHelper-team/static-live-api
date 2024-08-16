@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3fFLqIksbYo",
-        "picture": "https://i.ytimg.com/vi/3fFLqIksbYo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CfOepkijxZE",
+        "picture": "https://i.ytimg.com/vi/CfOepkijxZE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 スプラトゥーン3 】初めての参加型！頑張ります！【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723809600,
+        "title": "【 メン限同時視聴 】神アニメ「DEATH NOTE -デスノート-」を見る。１～５話【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cJUV8WSLMq0",
         "picture": "https://i.ytimg.com/vi/cJUV8WSLMq0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723788000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【hololive Treasure Mountain】TREASURESSSSSSS【hololive ID 2nd Gen | Anya Melfissa】"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xqQRjXkfhLo",
         "picture": "https://i.ytimg.com/vi/xqQRjXkfhLo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723788040,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】カスタム練習カスタム練習～！【緋月ゆい/ネオポルテ】"
     },
     {
@@ -218,5 +218,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Dicey Dungeons】久しぶりにやったら面白すぎて中毒になった【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lnjPWKPtMUM",
+        "picture": "https://i.ytimg.com/vi/lnjPWKPtMUM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723836600,
+        "title": "【DUNGEONBORNE】hello fellow travelers【Dokibird】"
     }
 ]
