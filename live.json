@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SAl2RJ9eMls",
-        "picture": "https://i.ytimg.com/vi/SAl2RJ9eMls/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VQxFBBlec38",
+        "picture": "https://i.ytimg.com/vi/VQxFBBlec38/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOMELO RADIO】Episode 4- THE BIG DAY! Mori\u0026#39;s Solo Episode Totsumachi! #shorts #radio"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723867200,
+        "title": "【3D LIVE】PHANTOMIME Release Mini Live Show! || Mori Calliope #calliolive"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PDi1kYQ5py0",
         "picture": "https://i.ytimg.com/vi/PDi1kYQ5py0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723791600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【900k Unarchived Karaoke】yayyyy"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723836600,
         "title": "【DUNGEONBORNE】hello fellow travelers【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aXRYIg_IUgE",
+        "picture": "https://i.ytimg.com/vi/aXRYIg_IUgE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723792500,
+        "title": "【ゲリラ】ReGLOSS250万人達成記念お茶会【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
