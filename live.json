@@ -200,11 +200,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=Qxk7BOxpFyU",
         "picture": "https://i.ytimg.com/vi/Qxk7BOxpFyU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#ホロ7DTD 】４９日間をみんなで生き抜いていく！！　DAY11～【ホロライブ/白上フブキ】"
     },
@@ -273,17 +273,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【マチョリウム】おかーさーん！水槽にマッチョ張り付いてるー！！【影山シエン/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NxmOB-oSwTE",
-        "picture": "https://i.ytimg.com/vi/NxmOB-oSwTE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【青鬼】挑戦するたびに館が変化する？！青鬼 - 藍編 -初プレイ！【ホロライブ/癒月ちょこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
