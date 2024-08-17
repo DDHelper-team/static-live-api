@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Al1l47sF3b8",
         "picture": "https://i.ytimg.com/vi/Al1l47sF3b8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723899600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #爽やかV歌枠リレー 】宝石系の輝き届け！！【#新人vtuber 】"
     },
     {
@@ -121,17 +121,6 @@
         "title": "【Oblivion】Quieres Oblivion? EXPANSION PACK"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ap0RRaRWSns",
-        "picture": "https://i.ytimg.com/vi/Ap0RRaRWSns/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 マイクラ夏祭り 】お祭り騒ぎだああああああああ！！！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "islive": false,
@@ -151,17 +140,17 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Apex Legends】TIE RECON CUP w/cpt, dtto.ちゃん　#TRC 【常闇トワ/ホロライブ】"
+        "title": "【Apex Legends】TIE RECON CUP w/cpt, dtto.ちゃん　#TRC　→V最カスタム 【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zq1-kC2LJv0",
         "picture": "https://i.ytimg.com/vi/zq1-kC2LJv0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723899600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【メン限同時視聴】映画モンスターハンター【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -185,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723903200,
         "title": "【#03  星のカービィ ディスカバリー】完全初見で救う！今日も海に行けますか～！？潜れますか！？【ホロライブ / ロボ子さん】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=I5Cc7Ct2wtA",
-        "picture": "https://i.ytimg.com/vi/I5Cc7Ct2wtA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】TIE RECON CUP あれーるﾁﾑ  / アステル あれる 宙星ぱる"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -266,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TAo8Z2ppFVo",
         "picture": "https://i.ytimg.com/vi/TAo8Z2ppFVo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723898700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】物干しジップはもう出さない。 w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     }
 ]
