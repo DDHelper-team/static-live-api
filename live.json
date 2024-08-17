@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WKUwvtjkFOQ",
         "picture": "https://i.ytimg.com/vi/WKUwvtjkFOQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723903200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#03  星のカービィ ディスカバリー】完全初見で救う！今日も海に行けますか～！？潜れますか！？【ホロライブ / ロボ子さん】"
     },
     {
@@ -240,5 +240,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723971600,
         "title": "【エリート陰陽師みこ】クリア耐久✨難易度鬼ムズ！？シューティングゲーム初心者が挑む！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=aWzxmLG0DDE",
+        "picture": "https://i.ytimg.com/vi/aWzxmLG0DDE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】情報整理を頑張る✍【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E06v3FofmWw",
+        "picture": "https://i.ytimg.com/vi/E06v3FofmWw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723989600,
+        "title": "【 #singing / karaoke 】寝落ち可！バラード限定歌枠♪"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=MAsr3cOY-qA",
+        "picture": "https://i.ytimg.com/vi/MAsr3cOY-qA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【マチョリウム】おかーさーん！水槽にマッチョ張り付いてるー！！【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=NxmOB-oSwTE",
+        "picture": "https://i.ytimg.com/vi/NxmOB-oSwTE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【青鬼】挑戦するたびに館が変化する？！青鬼 - 藍編 -初プレイ！【ホロライブ/癒月ちょこ】"
     }
 ]
