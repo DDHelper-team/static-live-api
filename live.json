@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tV1qRoBqnlg",
         "picture": "https://i.ytimg.com/vi/tV1qRoBqnlg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723885200,
-        "title": "【モノマネ】あてぃし、湊あくあ。【ホロライブ/赤井はあと】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】あてぃし、湊あくあ。【他のホロメンのモノマネをしながら一枠配信を取る】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723903200,
         "title": "【#03  星のカービィ ディスカバリー】完全初見で救う！今日も海に行けますか～！？潜れますか！？【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=I5Cc7Ct2wtA",
+        "picture": "https://i.ytimg.com/vi/I5Cc7Ct2wtA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723886100,
+        "title": "【APEX】TIE RECON CUP あれーるﾁﾑ  / アステル あれる 宙星ぱる"
     }
 ]
