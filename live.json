@@ -88,17 +88,6 @@
         "title": "【 #爽やかV歌枠リレー 】宝石系の輝き届け！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VBp7mbWVv18",
-        "picture": "https://i.ytimg.com/vi/VBp7mbWVv18/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お宝マウンテン】初めてやってみる！！！目指せ1万だーッ！【白銀ノエル/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【APEX】TIE RECON CUP あれーるﾁﾑ  / アステル あれる 宙星ぱる"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=i9sR0G5g8co",
+        "picture": "https://i.ytimg.com/vi/i9sR0G5g8co/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723888800,
+        "title": "【エリート陰陽師みこ】みこさんの弾幕シューティングゲームだってぇ！？【ホロライブ/白上フブキ】"
     }
 ]
