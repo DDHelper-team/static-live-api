@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6iPJBM1xY44",
         "picture": "https://i.ytimg.com/vi/6iPJBM1xY44/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723892400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#紫咲シオン復帰配信】初めまして！初配信です。【ホロライブ/紫咲シオン】"
     },
     {
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ap0RRaRWSns",
         "picture": "https://i.ytimg.com/vi/Ap0RRaRWSns/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723892400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 マイクラ夏祭り 】お祭り騒ぎだああああああああ！！！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -220,17 +220,6 @@
         "title": "【APEX】TIE RECON CUP あれーるﾁﾑ  / アステル あれる 宙星ぱる"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=i9sR0G5g8co",
-        "picture": "https://i.ytimg.com/vi/i9sR0G5g8co/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【エリート陰陽師みこ】みこさんの弾幕シューティングゲームだってぇ！？【ホロライブ/白上フブキ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -244,12 +233,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=a9Ioxe-NV0o",
         "picture": "https://i.ytimg.com/vi/a9Ioxe-NV0o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723892400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】肩にサロンパス、今夜もV最練習！w/なっちさん,dtto.ちゃん【ホロライブ/アキロゼ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=M6WvSlfCTp0",
+        "picture": "https://i.ytimg.com/vi/M6WvSlfCTp0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723978800,
+        "title": "【加班台】李白是怎麼死的呢？？？...他 詩寫過多【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
     }
 ]
