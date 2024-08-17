@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VQxFBBlec38",
         "picture": "https://i.ytimg.com/vi/VQxFBBlec38/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723867200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D LIVE】PHANTOMIME Release Mini Live Show! || Mori Calliope #calliolive"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YWEcSwlL22Y",
         "picture": "https://i.ytimg.com/vi/YWEcSwlL22Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723867200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MHXX】超絶初見モンハンダブルクロス　5日目【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -150,7 +150,7 @@
         "picture": "https://i.ytimg.com/vi/GbUPDU8Qoj8/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1723867200,
+        "timestamp": 1723870800,
         "title": "【ドラクエⅪ】最終回！ドラゴンクエストXI 過ぎ去りし時を求めてS！！！！※ネタバレあり【湊あくあ/ホロライブ】"
     },
     {
@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OGmvRQShRlo",
         "picture": "https://i.ytimg.com/vi/OGmvRQShRlo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723867200,
-        "title": "【】どきどき文芸部！Doki Doki Literature Club!【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【＃生スバル】初見！！！どきどき文芸部！やるしゅばあああああああああああああああああああああ！！！！！Doki Doki Literature Club!【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -229,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 ELDEN RING 】DLC来た！！！ラウフの古遺跡へ！！！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=77zi6Kv9X5s",
+        "picture": "https://i.ytimg.com/vi/77zi6Kv9X5s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723953600,
+        "title": "【Minecraft】花岸で129個、すべての実績を解除するぞ！ Part1【岸堂天真/花咲みやび/ホロスターズ】"
     }
 ]
