@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=erUn1GyAtTA",
-        "picture": "https://i.ytimg.com/vi/erUn1GyAtTA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=n87rHQj_gls",
+        "picture": "https://i.ytimg.com/vi/n87rHQj_gls/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロ7DTD 】49日間生き残れ…！｜4日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723975200,
+        "title": "【 雑談 】ｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -255,12 +255,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QMBfmPEB6bM",
         "picture": "https://i.ytimg.com/vi/QMBfmPEB6bM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723914000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】コラボも楽しいけどみんなとお話もしたい！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NNyo_t1cqws",
+        "picture": "https://i.ytimg.com/vi/NNyo_t1cqws/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723950000,
+        "title": "【朝活】100億年ぶりにお化粧をする【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JvdvHZidkOw",
+        "picture": "https://i.ytimg.com/vi/JvdvHZidkOw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723975200,
+        "title": "【HOLLOW COCOON ウツロマユ WITH HAACHAMA】fluffy fuzzy haachama cocoon 🐾【FUWAMOCO】"
     }
 ]
