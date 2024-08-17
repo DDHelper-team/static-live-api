@@ -88,17 +88,6 @@
         "title": "【 #爽やかV歌枠リレー 】宝石系の輝き届け！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YWEcSwlL22Y",
-        "picture": "https://i.ytimg.com/vi/YWEcSwlL22Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MHXX】超絶初見モンハンダブルクロス　5日目【夕刻ロベル/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": true,
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=I5Cc7Ct2wtA",
         "picture": "https://i.ytimg.com/vi/I5Cc7Ct2wtA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723886100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】TIE RECON CUP あれーるﾁﾑ  / アステル あれる 宙星ぱる"
     }
 ]
