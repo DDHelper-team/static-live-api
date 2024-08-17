@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VBp7mbWVv18",
         "picture": "https://i.ytimg.com/vi/VBp7mbWVv18/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723878000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【お宝マウンテン】初めてやってみる！！！目指せ1万だーッ！【白銀ノエル/ホロライブ】"
     },
     {
