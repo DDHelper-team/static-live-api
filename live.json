@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rEvNnDuL6s4",
-        "picture": "https://i.ytimg.com/vi/rEvNnDuL6s4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=M5H3eALR8Dk",
+        "picture": "https://i.ytimg.com/vi/M5H3eALR8Dk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【after party】grim reaper talking about her lyrics and listening to new songs! #calliolive"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723899600,
+        "title": "【Elite Exorcist Miko】reaper goes EXORCIST!? #calliolive"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
@@ -229,17 +229,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ド★初見】鬼滅の刃 ヒノカミ血風譚、遊んでみる！【戌神ころね】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4YnwdsaDyiM",
-        "picture": "https://i.ytimg.com/vi/4YnwdsaDyiM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Arctic Eggs】お前が求めるたまご焼きは何焼きだ？【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
