@@ -138,7 +138,7 @@
         "link": "https://www.youtube.com/watch?v=OdAPi__KVao",
         "picture": "https://i.ytimg.com/vi/OdAPi__KVao/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1723863600,
         "title": "【 ELDEN RING 】DLC来た！！！ラウフの古遺跡へ！！！【 領国つかさ / すぺしゃりて 】"
     },
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aBBh_coGPIU",
         "picture": "https://i.ytimg.com/vi/aBBh_coGPIU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723863600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅧ 】完全初見。3DS版！レオパルド…今楽にしてやる。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -218,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723888800,
         "title": "【マリフレオフコラボ】【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
+        "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=v7uR1hS4kPw",
+        "picture": "https://i.ytimg.com/vi/v7uR1hS4kPw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723950000,
+        "title": "【Oblivion】Quieres Oblivion? EXPANSION PACK"
     }
 ]
