@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7lKvBjMMbUs",
-        "picture": "https://i.ytimg.com/vi/7lKvBjMMbUs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OGmvRQShRlo",
+        "picture": "https://i.ytimg.com/vi/OGmvRQShRlo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723867200,
+        "title": "【】どきどき文芸部！Doki Doki Literature Club!【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723863600,
         "title": "【 ドラクエⅧ 】完全初見。3DS版！レオパルド…今楽にしてやる。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Hi1SG9aCdpE",
+        "picture": "https://i.ytimg.com/vi/Hi1SG9aCdpE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723888800,
+        "title": "【マリフレオフコラボ】【ホロライブ/宝鐘マリン】"
     }
 ]
