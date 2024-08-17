@@ -132,17 +132,6 @@
         "title": "【ドラクエⅪ】最終回！ドラゴンクエストXI 過ぎ去りし時を求めてS！！！！※ネタバレあり【湊あくあ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4IPF36X2a2w",
-        "picture": "https://i.ytimg.com/vi/4IPF36X2a2w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【弱すぎるRPG 】あまりにも弱すぎる勇者のRPG【轟はじめ/ReGLOSS】#hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": true,
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723899600,
         "title": "【メン限同時視聴】映画モンスターハンター【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nR_hXsGk5TE",
+        "picture": "https://i.ytimg.com/vi/nR_hXsGk5TE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723896000,
+        "title": "【 #ホロ7DTD 】DAY.4！２回目の襲撃来るか！？作戦会議せな！【大神ミオ視点】"
     }
 ]
