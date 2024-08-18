@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n87rHQj_gls",
         "picture": "https://i.ytimg.com/vi/n87rHQj_gls/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723975200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談 】ｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃｶﾏｯﾃ"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JvdvHZidkOw",
         "picture": "https://i.ytimg.com/vi/JvdvHZidkOw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723975200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLLOW COCOON ウツロマユ WITH HAACHAMA】fluffy fuzzy haachama cocoon 🐾【FUWAMOCO】"
     },
     {
@@ -209,25 +209,14 @@
         "title": "【雑談】最近あった事やってた事とかファンミと4周年のお礼とかもういろいろ今日は喋ろう！【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2-MKHPfuzIw",
-        "picture": "https://i.ytimg.com/vi/2-MKHPfuzIw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【１７時】潜水ロボに変身！！！もぐもぐご飯を添えて💕【ホロライブ / ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tPBSn8XCIC4",
         "picture": "https://i.ytimg.com/vi/tPBSn8XCIC4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723975200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【晩酌】ファンミお疲れさまでした！打ち上げじゃい！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -328,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724020200,
         "title": "【 #朝ミオ 】月曜日！夏まっさかり！おはみぉーん☀"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lW8Fw4mSymo",
+        "picture": "https://i.ytimg.com/vi/lW8Fw4mSymo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723978800,
+        "title": "【hololiveID】Hmmm ngapain yach【Ayunda Risu】"
     }
 ]
