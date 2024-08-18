@@ -205,7 +205,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "neuro and @toma read YOUR embarrassing stories"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -228,5 +228,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724054400,
         "title": "【 RE：地獄銭湯 】銭湯で働く流行りのホラゲー！確かに夏の銭湯は湿気で地獄そう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7WpmlDjRg4c",
+        "picture": "https://i.ytimg.com/vi/7WpmlDjRg4c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724018448,
+        "title": "【雑談】今週のぱっ！が始まりました🍉【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=25ERoenFpU4",
+        "picture": "https://i.ytimg.com/vi/25ERoenFpU4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#shorts 】寝れないならここよらない？歌枠♪"
     }
 ]
