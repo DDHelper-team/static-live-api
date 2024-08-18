@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e6FUBsvNFas",
         "picture": "https://i.ytimg.com/vi/e6FUBsvNFas/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723959000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 札幌記念 】サマー2000シリーズ！！今回こそはかつ！！！！！！！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
