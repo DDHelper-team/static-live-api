@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ceNHUKD0N4U",
         "picture": "https://i.ytimg.com/vi/ceNHUKD0N4U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723986000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】最近あった事やってた事とかファンミと4周年のお礼とかもういろいろ今日は喋ろう！【獅白ぼたん/ホロライブ】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RbqXo5Ko6Vs",
         "picture": "https://i.ytimg.com/vi/RbqXo5Ko6Vs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723986000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings】lets play together while doing the LAM challenge!【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -277,23 +277,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GOVUlLlGrFM",
         "picture": "https://i.ytimg.com/vi/GOVUlLlGrFM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723986000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【絶対にふりかえるな】絶対に振り返ってはいけないゲーム「孵道（かえりみち）」やる！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=quuMQboxUqI",
         "picture": "https://i.ytimg.com/vi/quuMQboxUqI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723986000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スプラトゥーン3/サーモンラン】今日はクマフェス🐻鱗乱獲したい【不知火フレア/ホロライブ】"
     },
     {
@@ -310,12 +310,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_4wxpYBn4do",
         "picture": "https://i.ytimg.com/vi/_4wxpYBn4do/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723986000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】お盆最後の雑談【荒咬オウガ/ホロスターズ】#shorts"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=M5H3eALR8Dk",
+        "picture": "https://i.ytimg.com/vi/M5H3eALR8Dk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724072400,
+        "title": "【Elite Exorcist Miko】reaper goes EXORCIST!? #calliolive"
     }
 ]
