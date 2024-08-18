@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZjfH_z1z-EE",
         "picture": "https://i.ytimg.com/vi/ZjfH_z1z-EE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724020200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】月曜日！夏まっさかり！おはみぉーん☀"
     },
     {
