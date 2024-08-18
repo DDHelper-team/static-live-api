@@ -206,5 +206,27 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "neuro and @toma read YOUR embarrassing stories"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wFLDbHdQncA",
+        "picture": "https://i.ytimg.com/vi/wFLDbHdQncA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724036400,
+        "title": "【 昼雑談 】僕の可愛い水着見て！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jHGraygStcU",
+        "picture": "https://i.ytimg.com/vi/jHGraygStcU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724054400,
+        "title": "【 RE：地獄銭湯 】銭湯で働く流行りのホラゲー！確かに夏の銭湯は湿気で地獄そう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
