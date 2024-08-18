@@ -231,17 +231,6 @@
         "title": "【雑談】今週のぱっ！が始まりました🍉【緋月ゆい/ネオポルテ】"
     },
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=25ERoenFpU4",
-        "picture": "https://i.ytimg.com/vi/25ERoenFpU4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#shorts 】寝れないならここよらない？歌枠♪"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724018400,
         "title": "【8月19日】 #花岸れいでぃお 第59回【花咲みやび/岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "channellink": "https://www.youtube.com/@necomakarin",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tbLfkTt4riE",
+        "picture": "https://i.ytimg.com/vi/tbLfkTt4riE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724018400,
+        "title": "【3D／囁き】穏やかな朝になりますように♡雨の音と、落ち着く囁きでおはなし【雑談】Whispering and talking in the gentle rain."
     }
 ]
