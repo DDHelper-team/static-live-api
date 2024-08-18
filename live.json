@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=z85pS5fDfAw",
         "picture": "https://i.ytimg.com/vi/z85pS5fDfAw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723971600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【エリート陰陽師みこ】クリア耐久✨難易度鬼ムズ！？シューティングゲーム初心者が挑む！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fycKMHz-VlU",
         "picture": "https://i.ytimg.com/vi/fycKMHz-VlU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723971600,
-        "title": "【Honor of Kings】STAR PROTECTION KAU HABIS PLIS BANTUIN AAAAAA【 iofi / hololiveID 】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Honor of Kings】STAR PROTECTION AKU HABIS PLIS BANTUIN AAAAAA【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -295,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723978800,
         "title": "【Apex Legends】V最協決定戦S6　スクリムDAY1【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5QDbW4N05js",
+        "picture": "https://i.ytimg.com/vi/5QDbW4N05js/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723978800,
+        "title": "【APEX】クリフサイド行きます！！！/V最協カスタム1日目【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=weXElwsQlh8",
+        "picture": "https://i.ytimg.com/vi/weXElwsQlh8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724022000,
+        "title": "【Volcano Princess】daughter maker! the game!"
     }
 ]
