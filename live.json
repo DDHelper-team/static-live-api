@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5kNFTDwAMf0",
         "picture": "https://i.ytimg.com/vi/5kNFTDwAMf0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723939200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【REBROADCAST】wawacore karaoke!!!!  #kfp #キアライブ"
     },
     {
@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QBzfA8EXQnY",
         "picture": "https://i.ytimg.com/vi/QBzfA8EXQnY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723942200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED】ハテナメイン回!!!!　ハテナ役　荒咬オウガと見る　シン・ドゲンジャーズ　第6話【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -156,23 +156,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8HFFEDmqwRY",
         "picture": "https://i.ytimg.com/vi/8HFFEDmqwRY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723939200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【2XKO ALPHA LAB】I got access!【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_tvTfJjrIPA",
         "picture": "https://i.ytimg.com/vi/_tvTfJjrIPA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1723942800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】三期生LIVEや雀指やドッキリ...色々あった話するッ✨【白銀ノエル/ホロライブ】"
     },
     {
@@ -185,17 +185,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723950000,
         "title": "【 ELDEN RING 】DLC、最終回！？！？！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QMBfmPEB6bM",
-        "picture": "https://i.ytimg.com/vi/QMBfmPEB6bM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談＆お礼】コラボも楽しいけどみんなとお話もしたい！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1723946400,
         "title": "【ELDEN RING】#15 根の底から王都ローデイルに飛ばされて草！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3SPgy1G81js",
+        "picture": "https://i.ytimg.com/vi/3SPgy1G81js/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1723982400,
+        "title": "【 Chained Together 】きっと最終回！うるさい２人が共に鎖で繋がれ頂上を目指す７日目🔥⛓【#みこスバ】"
     }
 ]
