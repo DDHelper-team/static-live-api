@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_Qi3ebA2Jq0",
-        "picture": "https://i.ytimg.com/vi/_Qi3ebA2Jq0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=92M-yAIiBm8",
+        "picture": "https://i.ytimg.com/vi/92M-yAIiBm8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【パワプロ2024】#こよなつ甲子園 5日目！ホロメンで栄冠ナイン⚾遂に3年目スタート‼【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724061600,
+        "title": "【はいしんよていち】こよ・・・・・・・・・・・・・【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jHGraygStcU",
         "picture": "https://i.ytimg.com/vi/jHGraygStcU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724054400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 RE：地獄銭湯 】銭湯で働く流行りのホラゲー！確かに夏の銭湯は湿気で地獄そう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -222,12 +222,23 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8-m10AQkGuU",
         "picture": "https://i.ytimg.com/vi/8-m10AQkGuU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724054400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【AQUARIUM.｜あくありうむ。ENDURANCE 耐久】thank you so much, aqua-senpai ⚓️🐾 【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nFssxqeovto",
+        "picture": "https://i.ytimg.com/vi/nFssxqeovto/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724061600,
+        "title": "【エリート陰陽師みこ  】みこが主役のゲーム！？弾幕STGやるにぇえええ！！【ホロライブ/さくらみこ】"
     }
 ]
