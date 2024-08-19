@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=v7uR1hS4kPw",
         "picture": "https://i.ytimg.com/vi/v7uR1hS4kPw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724029200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Oblivion】Quieres Oblivion? EXPANSION PACK"
     },
     {
@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0ugwiy8flac",
         "picture": "https://i.ytimg.com/vi/0ugwiy8flac/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724029200,
-        "title": "i have something to say"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "this is a prank video"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -176,14 +176,25 @@
         "title": "【FNAF: INTO THE PIT】 New Five Nights at Freddy\u0026#39;s?"
     },
     {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "channellink": "https://www.youtube.com/@necomakarin",
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=tbLfkTt4riE",
-        "picture": "https://i.ytimg.com/vi/tbLfkTt4riE/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=5OLJJ3nsQ7w",
+        "picture": "https://i.ytimg.com/vi/5OLJJ3nsQ7w/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【3D／囁き】穏やかな朝になりますように♡雨の音と、落ち着く囁きでおはなし【雑談】Whispering and talking in the gentle rain."
+        "title": "【Dicey Dungeons DLC】気づいたら50時間やってた超楽しいゲーム【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZxUCFEL1hPk",
+        "picture": "https://i.ytimg.com/vi/ZxUCFEL1hPk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724036400,
+        "title": "【エリート陰陽師みこ】みこちの弾幕STG RDY challenge！【ホロライブ / ロボ子さん】"
     }
 ]
