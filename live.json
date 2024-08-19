@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dCuA-gQDFU8",
         "picture": "https://i.ytimg.com/vi/dCuA-gQDFU8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724065200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 nosh ナッシュ 】忖度なしで1番美味しいメニューを決めるししろッシュトーナメント開幕！【獅白ぼたん/ホロライブ】"
     },
     {
@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YQd4rbkQJl4",
-        "picture": "https://i.ytimg.com/vi/YQd4rbkQJl4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RMDoLJ80FgU",
+        "picture": "https://i.ytimg.com/vi/RMDoLJ80FgU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【案件】Honda Racing eMS 2024アンバサダーとしての初めてのお仕事！視聴者さんとレースもしたい！【グランツーリスモ7】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724068800,
+        "title": "【#ホロ7DTD】ころね支店 ～ アホの何日か目 ～【７Days To Die】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8IIkkwF60WQ",
         "picture": "https://i.ytimg.com/vi/8IIkkwF60WQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724065200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】2日目！カスタム！一歩づつあげていく！【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kcIBBs86IJE",
         "picture": "https://i.ytimg.com/vi/kcIBBs86IJE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724065200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】V最協決定戦S6　スクリムDAY2【常闇トワ/ホロライブ】"
     },
     {
@@ -277,22 +277,22 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x5H4EsVjcs8",
         "picture": "https://i.ytimg.com/vi/x5H4EsVjcs8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724065200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M.】Monday Malam Malas : Malam Malas !【Ayunda Risu】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=iFS1oU_n-AM",
         "picture": "https://i.ytimg.com/vi/iFS1oU_n-AM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【APEX】V最スクリム2日me！w/【ホロライブ/アキロゼ】"
     },
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TXmXLD_GcA4",
         "picture": "https://i.ytimg.com/vi/TXmXLD_GcA4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724065203,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】練習カスタム2日目！#V最S6【緋月ゆい/ネオポルテ】"
     },
     {
@@ -350,5 +350,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724072400,
         "title": "【鳴蟇村】地図にはない立ち入り禁止の村に行っちゃう！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=6HY0_TwjZQs",
+        "picture": "https://i.ytimg.com/vi/6HY0_TwjZQs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】怪物との対話  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=H_ud1ltAVrc",
+        "picture": "https://i.ytimg.com/vi/H_ud1ltAVrc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724076000,
+        "title": "【雑談】みんなとおはなししたい！！！！【湊あくあ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uOEPlaKYLjw",
+        "picture": "https://i.ytimg.com/vi/uOEPlaKYLjw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724076000,
+        "title": "【あつまれどうぶつの森】また１匹脱走した【轟はじめ/ReGLOSS】#hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kTIeIQ_t9hA",
+        "picture": "https://i.ytimg.com/vi/kTIeIQ_t9hA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724069700,
+        "title": "【APEX】V最s6スクリム2日目、突然の夕立に降られて編☔ w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     }
 ]
