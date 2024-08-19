@@ -310,12 +310,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0YvE73TySXg",
         "picture": "https://i.ytimg.com/vi/0YvE73TySXg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724063400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】まつりの手綱握ってください！/V最協カスタム2日目【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TXmXLD_GcA4",
+        "picture": "https://i.ytimg.com/vi/TXmXLD_GcA4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724065203,
+        "title": "【APEX】練習カスタム2日目！#V最S6【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GJNt7MqtW_k",
+        "picture": "https://i.ytimg.com/vi/GJNt7MqtW_k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724119200,
+        "title": "【BLACK MYTH: WUKONG】Launch day !!【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CZ46TBDVv1w",
+        "picture": "https://i.ytimg.com/vi/CZ46TBDVv1w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724072400,
+        "title": "【鳴蟇村】地図にはない立ち入り禁止の村に行っちゃう！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
