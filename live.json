@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XYTqidFiieo",
         "picture": "https://i.ytimg.com/vi/XYTqidFiieo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724078700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【誕生日だ！】８月２０日は大神ミオの誕生日です【カウントダウンだ！】"
     },
     {
@@ -350,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724101200,
         "title": "【朝活】今日も一日頑張ろー！行ってらっしゃい！【一条莉々華/hololive DEV_IS　ReGLOSS #shorts】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gq1SouMr6lo",
+        "picture": "https://i.ytimg.com/vi/gq1SouMr6lo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724142600,
+        "title": "【HOLOLIVE QUIZ CALL-INs】HOW WELL VERSED ARE YOU WITH HOLOLIVE?? + ANNOUNCEMENT【Kureiji Ollie】"
     }
 ]
