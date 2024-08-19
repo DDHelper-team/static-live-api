@@ -198,17 +198,6 @@
         "title": "【あつまれ どうぶつの森】#12 人生初のどう森！お昼に一緒にのんびりしよ～！【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kcIBBs86IJE",
-        "picture": "https://i.ytimg.com/vi/kcIBBs86IJE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Apex Legends】V最協決定戦S6　スクリムDAY2【常闇トワ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": true,
@@ -350,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724080500,
         "title": "【Sticky Terms】lets learn new words!【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WhJC4LBnm_o",
+        "picture": "https://i.ytimg.com/vi/WhJC4LBnm_o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724101200,
+        "title": "【朝活】今日も一日頑張ろー！行ってらっしゃい！【一条莉々華/hololive DEV_IS　ReGLOSS #shorts】"
     }
 ]
