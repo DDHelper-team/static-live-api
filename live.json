@@ -121,17 +121,6 @@
         "title": "【MYTH EARPHONES?!】your oshi in your ear !!!! showcasing the collaboration! #AVIOT #hololiveAVIOT"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VhP4qxxY4Ms",
-        "picture": "https://i.ytimg.com/vi/VhP4qxxY4Ms/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Sticky Terms】lets learn new words!【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
         "islive": false,
@@ -184,5 +173,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724122800,
         "title": "【 スーパーマリオブラザーズ 】キッズ、完全初見プレイ！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-kchjD4u28A",
+        "picture": "https://i.ytimg.com/vi/-kchjD4u28A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724122800,
+        "title": "【Dishonored】I Will Bring THE HONOR"
     }
 ]
