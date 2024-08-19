@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=d1U-b8tkFMY",
         "picture": "https://i.ytimg.com/vi/d1U-b8tkFMY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724067000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "活俠傳｜初見！狐狐闖江湖！不可以劇透喔【Healing希靈/VTuber】"
     },
     {
