@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jIQnQA7ICrk",
-        "picture": "https://i.ytimg.com/vi/jIQnQA7ICrk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=H7k4_r_NeiM",
+        "picture": "https://i.ytimg.com/vi/H7k4_r_NeiM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FUWAMOCO MORNING】episode 120 🐾 #FWMCMORNING"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724115600,
+        "title": "【SUPERCHAT READING】the parade never stops 🐾✨ #shorts 【FUWAMOCO 縦型配信 VERTICAL】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -231,17 +231,6 @@
         "title": "【APEX】怪物との対話  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=H_ud1ltAVrc",
-        "picture": "https://i.ytimg.com/vi/H_ud1ltAVrc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】みんなとおはなししたい！！！！【湊あくあ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": true,
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724142600,
         "title": "【HOLOLIVE QUIZ CALL-INs】HOW WELL VERSED ARE YOU WITH HOLOLIVE?? + ANNOUNCEMENT【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VzecQUmB1sY",
+        "picture": "https://i.ytimg.com/vi/VzecQUmB1sY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724151600,
+        "title": "【３DLive】晴れ時々にわかミオ【 #大神ミオ生誕ライブ2024 】"
     }
 ]
