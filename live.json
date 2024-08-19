@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BzOaMvnr3dg",
-        "picture": "https://i.ytimg.com/vi/BzOaMvnr3dg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eOWnZcf_Ee0",
+        "picture": "https://i.ytimg.com/vi/eOWnZcf_Ee0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【企画】宇　宙　食　を　食　べ　る【 雪花ラミィ /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724122800,
+        "title": "【あつまれ どうぶつの森】#12 人生初のどう森！お昼に一緒にのんびりしよ～！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -240,17 +240,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【APEX】V最スクリム2日me！w/【ホロライブ/アキロゼ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6tUWUw1wsqU",
-        "picture": "https://i.ytimg.com/vi/6tUWUw1wsqU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【同時視聴】残穢【ざんえ】―住んではいけない部屋―【荒咬オウガ /ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -310,23 +299,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H_ud1ltAVrc",
         "picture": "https://i.ytimg.com/vi/H_ud1ltAVrc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724076000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】みんなとおはなししたい！！！！【湊あくあ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uOEPlaKYLjw",
         "picture": "https://i.ytimg.com/vi/uOEPlaKYLjw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724076000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】また１匹脱走した【轟はじめ/ReGLOSS】#hololivedev_is"
     },
     {
