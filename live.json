@@ -99,28 +99,6 @@
         "title": "【APEX】V最スクリム2日me！w/【ホロライブ/アキロゼ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0YvE73TySXg",
-        "picture": "https://i.ytimg.com/vi/0YvE73TySXg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】まつりの手綱握ってください！/V最協カスタム2日目【ホロライブ/夏色まつり】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TXmXLD_GcA4",
-        "picture": "https://i.ytimg.com/vi/TXmXLD_GcA4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】練習カスタム2日目！#V最S6【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -130,28 +108,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724119200,
         "title": "【BLACK MYTH: WUKONG】Launch day !!【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kTIeIQ_t9hA",
-        "picture": "https://i.ytimg.com/vi/kTIeIQ_t9hA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】V最s6スクリム2日目、突然の夕立に降られて編☔ w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NRrlCyw5dSg",
-        "picture": "https://i.ytimg.com/vi/NRrlCyw5dSg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fishing Planet】Man I Love Fishing 🐟"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -207,5 +163,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724151600,
         "title": "【３DLive】晴れ時々にわかミオ【 #大神ミオ生誕ライブ2024 】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "Dev Stream or something idk"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8PgsbdK5XCk",
+        "picture": "https://i.ytimg.com/vi/8PgsbdK5XCk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724122800,
+        "title": "【 スーパーマリオブラザーズ 】キッズ、完全初見プレイ！【 領国つかさ / すぺしゃりて 】"
     }
 ]
