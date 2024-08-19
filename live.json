@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=d1U-b8tkFMY",
-        "picture": "https://i.ytimg.com/vi/d1U-b8tkFMY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mxqMHN5vl3g",
+        "picture": "https://i.ytimg.com/vi/mxqMHN5vl3g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "活俠傳｜初見！狐狐闖江湖！不可以劇透喔【Healing希靈/VTuber】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724166000,
+        "title": "ASMR No Talking｜日常使用鍵盤敲擊聲❤️｜Everyday Use Keyboard Taps｜キーボードを叩く音 【黑3DIO/KU100】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -119,17 +119,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Flightradar24】フライトレーダー24を眺めるだけ【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XYTqidFiieo",
-        "picture": "https://i.ytimg.com/vi/XYTqidFiieo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【誕生日だ！】８月２０日は大神ミオの誕生日です【カウントダウンだ！】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VhP4qxxY4Ms",
         "picture": "https://i.ytimg.com/vi/VhP4qxxY4Ms/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724080500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Sticky Terms】lets learn new words!【Kaela Kovalskia / hololiveID】"
     },
     {
