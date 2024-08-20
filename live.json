@@ -66,17 +66,6 @@
         "title": "【SUPERCHAT READING】the parade never stops 🐾✨ #shorts 【FUWAMOCO 縦型配信 VERTICAL】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eOWnZcf_Ee0",
-        "picture": "https://i.ytimg.com/vi/eOWnZcf_Ee0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【あつまれ どうぶつの森】#12 人生初のどう森！お昼はラミィとのんびりしよ～！【 雪花ラミィ /ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -86,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【APEX】V最スクリム2日me！w/【ホロライブ/アキロゼ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Sg72ncXujdE",
-        "picture": "https://i.ytimg.com/vi/Sg72ncXujdE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MYTH EARPHONES?!】your oshi in your ear !!!! showcasing the collaboration! #AVIOT #hololiveAVIOT"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -167,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z88WA1t0urk",
         "picture": "https://i.ytimg.com/vi/Z88WA1t0urk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724133600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】ある意味でのただいま【アルランディス/ホロスターズ】"
     },
     {
@@ -185,5 +163,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724205600,
         "title": "【Snufkin: Melody of Moomin Valley】Snuf Out Those Kins Ep.02"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6VIte0r0vbU",
+        "picture": "https://i.ytimg.com/vi/6VIte0r0vbU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724155200,
+        "title": "【メン限】収録後のまったりメン限お喋りたいむ🍀【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8Gw2L_GGSUQ",
+        "picture": "https://i.ytimg.com/vi/8Gw2L_GGSUQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724144400,
+        "title": "【 お宝マウンテン 】ホラゲウィーク頑張ったご褒美だああああああああああああ！！！【鷹嶺ルイ/ホロライブ】"
     }
 ]
