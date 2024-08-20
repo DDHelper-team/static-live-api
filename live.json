@@ -168,12 +168,12 @@
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=svUz4NswszA",
-        "picture": "https://i.ytimg.com/vi/svUz4NswszA/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724158800,
-        "title": "【メン限/MemberOnly】メーデー！：航空機事故の真実と真相「ローガンエアー6780便」同時視聴【ホロライブ / AZKi】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8-uQ9en3ecc",
         "picture": "https://i.ytimg.com/vi/8-uQ9en3ecc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724158800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれ どうぶつの森】５億年ぶりに帰ってみた🏠【不知火フレア/ホロライブ】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724160600,
         "title": "【Minecraft】NEW UPDATES! exploreeeeeeee【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0RZeQpOF8XI",
+        "picture": "https://i.ytimg.com/vi/0RZeQpOF8XI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724245200,
+        "title": "【歌雜】你說我的歌聲 像鴨子 (ꐦ°᷄д°᷅) ?  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=my7svbqqykM",
+        "picture": "https://i.ytimg.com/vi/my7svbqqykM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 RE：地獄銭湯 】販売中止になったあのホラゲーが帰ってきたそうで…。【ホロライブ/癒月ちょこ】"
     }
 ]
