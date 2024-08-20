@@ -121,17 +121,6 @@
         "title": "【Valheim】Vtuberグループでこれクリアしている人、0人説【アルランディス/花咲みやび/奏手イヅル/岸堂天真/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MK5QB8D7jTw",
-        "picture": "https://i.ytimg.com/vi/MK5QB8D7jTw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃みこスバ】chained together with MIKOCHI きっときっと真最終回しゅばあああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
@@ -189,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FVcUie_hBVE",
         "picture": "https://i.ytimg.com/vi/FVcUie_hBVE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724162400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#04  星のカービィ ディスカバリー】完全初見で救う！デデデどこいった～！？？？🔥【ホロライブ / ロボ子さん】"
     },
     {
@@ -233,23 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UMiQATGT-74",
         "picture": "https://i.ytimg.com/vi/UMiQATGT-74/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724162400,
-        "title": "【#あくぽる 】暗い話になったら即終了、残機3【湊あくあ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#あくぽる対談 】暗い話になったら即終了、残機3【湊あくあ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TAK4ATKV_Bk",
         "picture": "https://i.ytimg.com/vi/TAK4ATKV_Bk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724162400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】住民ガチャのお時間です【轟はじめ/ReGLOSS】#hololivedev_is"
     },
     {
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724238000,
         "title": "【OFFCOLLAB】i am being haunted, helP (archived karaoke with @mintfantome ) #kfp #ミントLIVE"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xtl_zlxcU-g",
+        "picture": "https://i.ytimg.com/vi/xtl_zlxcU-g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724248800,
+        "title": "【 #minecraft  】第二回！死んだら即終了ハードコアマイクラ！！！【#新人vtuber 】"
     }
 ]
