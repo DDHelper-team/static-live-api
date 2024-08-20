@@ -165,17 +165,6 @@
         "title": "【＃みこスバ】chained together with MIKOCHI きっときっと真最終回しゅばあああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
@@ -361,5 +350,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 RE：地獄銭湯 】販売中止になったあのホラゲーが帰ってきたそうで…。【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=px_dperLh9I",
+        "picture": "https://i.ytimg.com/vi/px_dperLh9I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724238000,
+        "title": "【OFFCOLLAB】i am being haunted, helP (archived karaoke with @mintfantome ) #kfp #ミントLIVE"
     }
 ]
