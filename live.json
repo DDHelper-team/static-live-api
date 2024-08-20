@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y2qbnFr5ENM",
         "picture": "https://i.ytimg.com/vi/Y2qbnFr5ENM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724148000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【料理/カメラ有】一億年ぶりの料理配信！初めてのキャラ弁作るよおおおおおお！！【博衣こより/ホロライブ】"
     },
     {
@@ -119,17 +119,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724155200,
         "title": "【 ドラゴンボール Z KAKAROT 】フリーザ編、ＤＢ大ファンによるオタク実況！※ネタバレあり【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Z88WA1t0urk",
-        "picture": "https://i.ytimg.com/vi/Z88WA1t0urk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】ある意味でのただいま【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -262,5 +251,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724158800,
         "title": "【メン限/MemberOnly】メーデー！：航空機事故の真実と真相「ローガンエアー6780便」同時視聴【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BCIU69yV_WE",
+        "picture": "https://i.ytimg.com/vi/BCIU69yV_WE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724155200,
+        "title": "【黒神話：悟空】本日発売！注目の西遊記アクション初見で遊んでみる！（Black Myth: Wukong）ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p2VAOnuhPCQ",
+        "picture": "https://i.ytimg.com/vi/p2VAOnuhPCQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724194800,
+        "title": "【STREET FIGHTER 6】Rock learns to fight"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HON6MkaIvlk",
+        "picture": "https://i.ytimg.com/vi/HON6MkaIvlk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724151600,
+        "title": "【Apex Legends】#V最 3日目！カスタム！昨日より上へ！【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
     }
 ]
