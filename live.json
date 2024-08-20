@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gq1SouMr6lo",
         "picture": "https://i.ytimg.com/vi/gq1SouMr6lo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724142600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOLIVE QUIZ CALL-INs】HOW WELL VERSED ARE YOU WITH HOLOLIVE?? + ANNOUNCEMENT【Kureiji Ollie】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724151600,
         "title": "【Valheim】Vtuberグループでこれクリアしている人、0人説【アルランディス/花咲みやび/奏手イヅル/岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=n42jWJPj8qc",
+        "picture": "https://i.ytimg.com/vi/n42jWJPj8qc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724155200,
+        "title": "【Apex Legends】V最協決定戦S6　スクリムDAY3【常闇トワ/ホロライブ】"
     }
 ]
