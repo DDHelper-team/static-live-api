@@ -99,17 +99,6 @@
         "title": "【STREET FIGHTER 6】Rock learns to fight"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FVcUie_hBVE",
-        "picture": "https://i.ytimg.com/vi/FVcUie_hBVE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#04  星のカービィ ディスカバリー】完全初見で救う！デデデどこいった～！？？？🔥【ホロライブ / ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724245200,
         "title": "【Minecraft】アプデきたー！トライアルチャンバーに行くぞお！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AUGUcA60OtE",
+        "picture": "https://i.ytimg.com/vi/AUGUcA60OtE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724198400,
+        "title": "【OVERWATCH 2】checking out Juno + new maps! 【Dokibird】"
     }
 ]
