@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=M5H3eALR8Dk",
-        "picture": "https://i.ytimg.com/vi/M5H3eALR8Dk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=du3INjP5cgI",
+        "picture": "https://i.ytimg.com/vi/du3INjP5cgI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Elite Exorcist Miko】reaper goes EXORCIST!? #calliolive"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724198400,
+        "title": "【PERSONA 3: RELOAD】YOU KNOW HOW THIS GOES. (FINALE PART 1) SPOILERS!"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724144400,
         "title": "【 ホラゲー 】失踪 - タケシ、お前の言う通りだった。あの廃村はヤバすぎる。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FpnX-bXek44",
+        "picture": "https://i.ytimg.com/vi/FpnX-bXek44/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724155200,
+        "title": "【告知あり】ししろんの夏休みをころさんと振り返りながら見る配信 【獅白ぼたん・戌神ころね/ホロライブ】"
     }
 ]
