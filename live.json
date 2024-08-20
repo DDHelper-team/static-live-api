@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H7k4_r_NeiM",
         "picture": "https://i.ytimg.com/vi/H7k4_r_NeiM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724115600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SUPERCHAT READING】the parade never stops 🐾✨ #shorts 【FUWAMOCO 縦型配信 VERTICAL】"
     },
     {
@@ -163,5 +163,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724122800,
         "title": "【Dishonored】I Will Bring THE HONOR"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Awy4mpQiYng",
+        "picture": "https://i.ytimg.com/vi/Awy4mpQiYng/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724198400,
+        "title": "THIS is pure BLISS | PowerWash Simulator"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=X49BIwRkoF8",
+        "picture": "https://i.ytimg.com/vi/X49BIwRkoF8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724119200,
+        "title": "【料理配信】魚介シチュー「ムケッカ」を作ってみる!!【花咲みやび/ホロスターズ】"
     }
 ]
