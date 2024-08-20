@@ -121,17 +121,6 @@
         "title": "THIS is pure BLISS | PowerWash Simulator"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GJNt7MqtW_k",
-        "picture": "https://i.ytimg.com/vi/GJNt7MqtW_k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【BLACK MYTH: WUKONG】🐒Launch day !!【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -196,5 +185,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724140800,
         "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "channellink": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=N1PfsAH9ZdA",
+        "picture": "https://i.ytimg.com/vi/N1PfsAH9ZdA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724140800,
+        "title": "すこしだけです歌ったりするかも"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0dwWnfQWg90",
+        "picture": "https://i.ytimg.com/vi/0dwWnfQWg90/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724144400,
+        "title": "【 ホラゲー 】失踪 - タケシ、お前の言う通りだった。あの廃村はヤバすぎる。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
