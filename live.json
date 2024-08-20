@@ -176,17 +176,6 @@
         "title": "【歌雜】你說我的歌聲 像鴨子 (ꐦ°᷄д°᷅) ?  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=my7svbqqykM",
-        "picture": "https://i.ytimg.com/vi/my7svbqqykM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 RE：地獄銭湯 】販売中止になったあのホラゲーが帰ってきたそうで…。【ホロライブ/癒月ちょこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -229,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724245200,
         "title": "【 Stardew Valley 02 】#ポルーナ (・o・🍬)【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aCvZYvrgLEY",
+        "picture": "https://i.ytimg.com/vi/aCvZYvrgLEY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724209200,
+        "title": "【 昼雑談 】好きなアニメ教えてくれ【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ojb5M_S77vY",
+        "picture": "https://i.ytimg.com/vi/ojb5M_S77vY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724238000,
+        "title": "【凸待ち】あの～・・・こんちは～・・・アソビ大全しませんか・・・？【湊あくあ/ホロライブ】"
     }
 ]
