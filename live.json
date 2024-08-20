@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8Gw2L_GGSUQ",
         "picture": "https://i.ytimg.com/vi/8Gw2L_GGSUQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724144400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 お宝マウンテン 】ホラゲウィーク頑張ったご褒美だああああああああああああ！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -176,25 +176,14 @@
         "title": "ホロメンに愛を囁く【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "channellink": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=N1PfsAH9ZdA",
-        "picture": "https://i.ytimg.com/vi/N1PfsAH9ZdA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "すこしだけです歌ったりするかも"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0dwWnfQWg90",
         "picture": "https://i.ytimg.com/vi/0dwWnfQWg90/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724144400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ホラゲー 】失踪 - タケシ、お前の言う通りだった。あの廃村はヤバすぎる。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724155200,
         "title": "【世界のアソビ大全51】4人で！！！！遊ぶよーーーーー！！！！！！！【hololive ID 2nd Gen | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MK5QB8D7jTw",
+        "picture": "https://i.ytimg.com/vi/MK5QB8D7jTw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724155200,
+        "title": "【＃みこスバ】chained together with MIKOCHI ６日目しゅばあああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
     }
 ]
