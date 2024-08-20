@@ -143,17 +143,6 @@
         "title": "【あつまれ どうぶつの森】５億年ぶりに帰ってみた🏠【不知火フレア/ホロライブ】"
     },
     {
-        "channel": "https://youtube.com/@HACHIVSinger",
-        "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Spf3WhK-bhI",
-        "picture": "https://i.ytimg.com/vi/Spf3WhK-bhI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】ゆったり歌枠！！-Midnight station -72 【HACHI】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724238000,
         "title": "【凸待ち】あの～・・・こんちは～・・・アソビ大全しませんか・・・？【湊あくあ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BxU5P0N56qQ",
+        "picture": "https://i.ytimg.com/vi/BxU5P0N56qQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724245200,
+        "title": "【Minecraft】アプデきたー！トライアルチャンバーに行くぞお！！【角巻わため/ホロライブ４期生】"
     }
 ]
