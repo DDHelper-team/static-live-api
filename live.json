@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qpqGXBqi68U",
         "picture": "https://i.ytimg.com/vi/qpqGXBqi68U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1724151600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】V最s6スクリム3日目！ w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     },
     {
