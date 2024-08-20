@@ -99,17 +99,6 @@
         "title": "【STREET FIGHTER 6】Rock learns to fight"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=B3ByV2HYftY",
-        "picture": "https://i.ytimg.com/vi/B3ByV2HYftY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】戦うことから逃げない  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": false,
@@ -123,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=A3OE2biSc4U",
-        "picture": "https://i.ytimg.com/vi/A3OE2biSc4U/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LaNzfdo-KSI",
+        "picture": "https://i.ytimg.com/vi/LaNzfdo-KSI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】NEW UPDATES! exploreeeeeeee【Kaela Kovalskia / hololiveID】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724243400,
+        "title": "【Minecraft】GIVE ME THAT MACE 🔨【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -238,6 +227,6 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Banana sip SNN"
+        "title": "Giraffes are Actually Really Cool"
     }
 ]
