@@ -99,17 +99,6 @@
         "title": "【APEX】V最スクリム2日me！w/【ホロライブ/アキロゼ】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=GJNt7MqtW_k",
-        "picture": "https://i.ytimg.com/vi/GJNt7MqtW_k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1724119200,
-        "title": "【BLACK MYTH: WUKONG】🐒Launch day !!【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -185,5 +174,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【料理配信】魚介シチュー「ムケッカ」を作ってみる!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=GJNt7MqtW_k",
+        "picture": "https://i.ytimg.com/vi/GJNt7MqtW_k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【BLACK MYTH: WUKONG】🐒Launch day !!【Dokibird】"
     }
 ]
