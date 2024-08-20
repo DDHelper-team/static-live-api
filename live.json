@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8PgsbdK5XCk",
-        "picture": "https://i.ytimg.com/vi/8PgsbdK5XCk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tOerhdrdy8M",
+        "picture": "https://i.ytimg.com/vi/tOerhdrdy8M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 スーパーマリオブラザーズ 】キッズ、完全初見プレイ！【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724155200,
+        "title": "【 ドラゴンボール Z KAKAROT 】フリーザ編、ＤＢ大ファンによるオタク実況！※ネタバレあり【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -218,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724155200,
         "title": "【告知あり】ししろんの夏休みをころさんと振り返りながら見る配信 【獅白ぼたん・戌神ころね/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nrhxLcXCATw",
+        "picture": "https://i.ytimg.com/vi/nrhxLcXCATw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724140800,
+        "title": "【エリート陰陽師みこ  】みこが主役のゲーム‼弾幕STGでホロメンを今度こそ救うにぇ゛～～～‼【ホロライブ/さくらみこ】"
     }
 ]
