@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mxqMHN5vl3g",
         "picture": "https://i.ytimg.com/vi/mxqMHN5vl3g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724166000,
-        "title": "ASMR No Talking｜日常使用鍵盤敲擊聲❤️｜Everyday Use Keyboard Taps｜キーボードを叩く音 【黑3DIO/KU100】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "ASMR ｜日常使用鍵盤敲擊聲❤️｜Everyday Use Keyboard Taps｜キーボードを叩く音 【黑3DIO/KU100】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -220,17 +220,6 @@
         "title": "【案件】nosh（ナッシュ）食レポチャレンジ！【戌神ころね】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UMiQATGT-74",
-        "picture": "https://i.ytimg.com/vi/UMiQATGT-74/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#あくぽる対談 】暗い話になったら即終了、残機3【湊あくあ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": true,
@@ -255,12 +244,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Spf3WhK-bhI",
         "picture": "https://i.ytimg.com/vi/Spf3WhK-bhI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724166000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】ゆったり歌枠！！-Midnight station -72 【HACHI】"
     },
     {
@@ -317,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724248800,
         "title": "【 #minecraft  】第二回！死んだら即終了ハードコアマイクラ！！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GDAcmvcHhfM",
+        "picture": "https://i.ytimg.com/vi/GDAcmvcHhfM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724241600,
+        "title": "【 #ホロ7DTD 】49日間生き残れ…！｜6日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZRMhpAbz2ac",
+        "picture": "https://i.ytimg.com/vi/ZRMhpAbz2ac/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724245200,
+        "title": "【 Stardew Valley 02 】#ポルーナ (・o・🍬)【姫森ルーナ/ホロライブ】"
     }
 ]
