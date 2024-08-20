@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y2L-tVdUlyU",
-        "picture": "https://i.ytimg.com/vi/y2L-tVdUlyU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y2qbnFr5ENM",
+        "picture": "https://i.ytimg.com/vi/Y2qbnFr5ENM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【パワプロ2024】#こよなつ甲子園 6日目！ホロメンで栄冠ナイン⚾3年目夏の甲子園いくぞ！！！！！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724148000,
+        "title": "【料理/カメラ有】一億年ぶりの料理配信！初めてのキャラ弁作るよおおおおおお！！【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -99,17 +99,6 @@
         "title": "【３DLive】晴れ時々にわかミオ【 #大神ミオ生誕ライブ2024 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-kchjD4u28A",
-        "picture": "https://i.ytimg.com/vi/-kchjD4u28A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Dishonored】HONOR I Will Bring"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -178,23 +167,23 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pI0j6exF4HA",
         "picture": "https://i.ytimg.com/vi/pI0j6exF4HA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724140800,
-        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "ホロメンに愛を囁く【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "channellink": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=N1PfsAH9ZdA",
         "picture": "https://i.ytimg.com/vi/N1PfsAH9ZdA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724140800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "すこしだけです歌ったりするかも"
     },
     {
@@ -222,12 +211,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nrhxLcXCATw",
         "picture": "https://i.ytimg.com/vi/nrhxLcXCATw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724140800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【エリート陰陽師みこ  】みこが主役のゲーム‼弾幕STGでホロメンを今度こそ救うにぇ゛～～～‼【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Dw8N2uaXFFw",
+        "picture": "https://i.ytimg.com/vi/Dw8N2uaXFFw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724151600,
+        "title": "【Valheim】Vtuberグループでこれクリアしている人、0人説【アルランディス/花咲みやび/奏手イヅル/岸堂天真/ホロスターズ】"
     }
 ]
