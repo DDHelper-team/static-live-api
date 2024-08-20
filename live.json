@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Sg72ncXujdE",
         "picture": "https://i.ytimg.com/vi/Sg72ncXujdE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724130000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MYTH EARPHONES?!】your oshi in your ear !!!! showcasing the collaboration! #AVIOT #hololiveAVIOT"
     },
     {
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724133600,
         "title": "【雑談】ある意味でのただいま【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DZZcMnnwT-o",
+        "picture": "https://i.ytimg.com/vi/DZZcMnnwT-o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724205600,
+        "title": "【Snufkin: Melody of Moomin Valley】Snuf Out Those Kins Ep.02"
     }
 ]
