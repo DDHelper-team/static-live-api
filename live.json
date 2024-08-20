@@ -35,23 +35,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=M5H3eALR8Dk",
         "picture": "https://i.ytimg.com/vi/M5H3eALR8Dk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724119200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Elite Exorcist Miko】reaper goes EXORCIST!? #calliolive"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y_OGb8tPhNM",
         "picture": "https://i.ytimg.com/vi/Y_OGb8tPhNM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724119200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Snufkin: Melody of Moomin Valley】It\u0026#39;s Moomin Time Ep.01"
     },
     {
@@ -105,9 +105,9 @@
         "link": "https://www.youtube.com/watch?v=GJNt7MqtW_k",
         "picture": "https://i.ytimg.com/vi/GJNt7MqtW_k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1724119200,
-        "title": "【BLACK MYTH: WUKONG】Launch day !!【Dokibird】"
+        "title": "【BLACK MYTH: WUKONG】🐒Launch day !!【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=X49BIwRkoF8",
         "picture": "https://i.ytimg.com/vi/X49BIwRkoF8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724119200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【料理配信】魚介シチュー「ムケッカ」を作ってみる!!【花咲みやび/ホロスターズ】"
     }
 ]
