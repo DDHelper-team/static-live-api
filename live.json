@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xtl_zlxcU-g",
-        "picture": "https://i.ytimg.com/vi/xtl_zlxcU-g/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=f-7Z9fOdvU4",
+        "picture": "https://i.ytimg.com/vi/f-7Z9fOdvU4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #minecraft  】第二回！死んだら即終了ハードコアマイクラ！！！【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724335200,
+        "title": "【 #歌枠  / karaoke！】かわいい曲限定歌枠！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -209,17 +209,6 @@
         "title": "【 7days to die  】 #ホロ7DTD  襲撃回🔥DAY19～ I俺達は負けない！！！！！！！！！！！にぇ【ホロライブ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Y_LYgb0oUq8",
-        "picture": "https://i.ytimg.com/vi/Y_LYgb0oUq8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】自己中カスタム→合同カスタム/V最協カスタム4日目【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "islive": true,
@@ -308,17 +297,6 @@
         "title": "【 #ホロ7DTD 】DAY.6！３回目の襲撃くるー－－－？！【大神ミオ視点】"
     },
     {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1yRjaOjmPXQ",
-        "picture": "https://i.ytimg.com/vi/1yRjaOjmPXQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【開箱】沒有女友沒關係，但電腦一定要頂(? 開箱大家的電腦桌!【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #開箱 #電腦桌"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
@@ -328,17 +306,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【APEX】は、かい  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nKYJKC_9JN0",
-        "picture": "https://i.ytimg.com/vi/nKYJKC_9JN0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お宝マウンテン】ホロメンたくさん積みあげちゃう余～～～～～～～～ん【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -416,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724324400,
         "title": "【 ラミィ視点 】マーダーミステリー『蟷螂村』【雪花ラミィ /＃ホロミステリーライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=C9VpjvMbR8A",
+        "picture": "https://i.ytimg.com/vi/C9VpjvMbR8A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724254800,
+        "title": "【雑談】モンハンワイルズ遊ばせてもらった話とか【荒咬オウガ /ホロスターズ】"
     }
 ]
