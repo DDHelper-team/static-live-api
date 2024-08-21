@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gMzLq3lebos",
         "picture": "https://i.ytimg.com/vi/gMzLq3lebos/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724239800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FROG DETECTIVE】ribbit ribbit priceless art is missing from the exhibit 🐾 【FUWAMOCO】"
     },
     {
@@ -460,5 +460,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724281200,
         "title": "【SUPER CHATting】3D Yapping"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Hu_BH_UYyVE",
+        "picture": "https://i.ytimg.com/vi/Hu_BH_UYyVE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724241600,
+        "title": "活俠傳｜江湖出來混是不是都練嘴砲啊？【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=px_dperLh9I",
+        "picture": "https://i.ytimg.com/vi/px_dperLh9I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OFFCOLLAB】i am being haunted, helP (archived karaoke with @mintfantome ) #kfp #ミントLIVE"
     }
 ]
