@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xtl_zlxcU-g",
         "picture": "https://i.ytimg.com/vi/xtl_zlxcU-g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724248800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #minecraft  】第二回！死んだら即終了ハードコアマイクラ！！！【#新人vtuber 】"
     },
     {
@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1espDxP4KS4",
         "picture": "https://i.ytimg.com/vi/1espDxP4KS4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724248800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談(縦型)】7月23日から毎日配信！今日で1ヶ月達成！【白銀ノエル/ホロライブ】"
     },
     {
