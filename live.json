@@ -220,7 +220,7 @@
         "title": "【 スーパーマリオブラザーズ２ 】キッズ、鬼ムズマリオに初挑戦！【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -239,5 +239,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724324400,
         "title": "【 博衣こより視点 】マーダーミステリー『蟷螂村』【＃ホロミステリーライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EaOZSkgJqh4",
+        "picture": "https://i.ytimg.com/vi/EaOZSkgJqh4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724324400,
+        "title": "【獅白ぼたん視点】マーダーミステリー『蟷螂村』【 #ホロミステリーライブ 】"
     }
 ]
