@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mU6kLQ37Hdg",
         "picture": "https://i.ytimg.com/vi/mU6kLQ37Hdg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724277600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#Faunaversary2024】 Playing truck sim with a real steering wheel and 3D tracking for my ANNIVERSARY"
     },
     {
@@ -218,16 +218,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724324400,
         "title": "【獅白ぼたん視点】マーダーミステリー『蟷螂村』【 #ホロミステリーライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6PQh8zm4iDE",
-        "picture": "https://i.ytimg.com/vi/6PQh8zm4iDE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#85  8/22木曜日！なんと今日のポル伝は・・・！！！【尾丸ポルカ/ホロライブ】"
     }
 ]
