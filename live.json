@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7HV6CR4gK70",
         "picture": "https://i.ytimg.com/vi/7HV6CR4gK70/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【案件】nosh（ナッシュ）食レポチャレンジ！【戌神ころね】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ojb5M_S77vY",
         "picture": "https://i.ytimg.com/vi/ojb5M_S77vY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【凸待ち】あの～・・・こんちは～・・・アソビ大全しませんか・・・？【湊あくあ/ホロライブ】"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n4ZfxYvsZcw",
         "picture": "https://i.ytimg.com/vi/n4ZfxYvsZcw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】体調治った！！　V最協決定戦S6　スクリムDAY4【常闇トワ/ホロライブ】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mRT4PELTcJY",
         "picture": "https://i.ytimg.com/vi/mRT4PELTcJY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ジオゲッサー 】あずちゃんとジオゲッサー！夏の心霊スポットにゲス･･･できるのか？！【ホロライブ/さくらみこ】"
     },
     {
@@ -321,23 +321,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=51lv6Bt3Mpw",
         "picture": "https://i.ytimg.com/vi/51lv6Bt3Mpw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Golf It!】Let\u0026#39;s Play with Some Balls【Ayunda Risu】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l6oBNDlInjk",
         "picture": "https://i.ytimg.com/vi/l6oBNDlInjk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Idol Showdown: Hololive Fighting Game】ネタバレ：実は次のイベントでプレイするゲームはこちら【アルランディス/ホロスターズ】"
     },
     {
@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RIqbV9wMRqo",
         "picture": "https://i.ytimg.com/vi/RIqbV9wMRqo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】V最s6スクリム4日目！ w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     },
     {
@@ -420,12 +420,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lLtdMJDqGyU",
         "picture": "https://i.ytimg.com/vi/lLtdMJDqGyU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】#V最 4日目！カスタム！昨日よりももっと高く！【律可/成瀬鳴/春崎エアル/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=hXrKcY-zt3I",
+        "picture": "https://i.ytimg.com/vi/hXrKcY-zt3I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】は、かい  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
     }
 ]
