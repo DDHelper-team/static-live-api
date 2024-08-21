@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=urrqUm6vAHs",
         "picture": "https://i.ytimg.com/vi/urrqUm6vAHs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724252400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 121 🐾 #FWMCMORNING"
     },
     {
@@ -383,17 +383,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724268600,
         "title": "【BLACK MYTH: WUKONG】return to monke【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1espDxP4KS4",
-        "picture": "https://i.ytimg.com/vi/1espDxP4KS4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談(縦型)】7月23日から毎日配信！今日で1ヶ月達成！【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
