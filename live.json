@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SmBmj6xy7pM",
         "picture": "https://i.ytimg.com/vi/SmBmj6xy7pM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724230800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "初コラボ！✨後輩ちゃんに根掘り葉掘り聞くぞ！【火威青／音乃瀬奏／Elizabeth Rose Bloodflame 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fDoKYGqtLWM",
         "picture": "https://i.ytimg.com/vi/fDoKYGqtLWM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724230800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 お宝マウンテン 】ダブルイつくる！！！！！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y_LYgb0oUq8",
         "picture": "https://i.ytimg.com/vi/Y_LYgb0oUq8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724230800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】自己中カスタム→合同カスタム/V最協カスタム4日目【ホロライブ/夏色まつり】"
     },
     {
@@ -317,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724288400,
         "title": "【Into the Pit】chillin\u0026#39; and dyin\u0026#39; #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bd3Hd53wWGc",
+        "picture": "https://i.ytimg.com/vi/bd3Hd53wWGc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724234400,
+        "title": "【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
