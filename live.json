@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DZZcMnnwT-o",
         "picture": "https://i.ytimg.com/vi/DZZcMnnwT-o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724205600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Snufkin: Melody of Moomin Valley】Snuf Out Those Kins Ep.02"
     },
     {
@@ -220,16 +220,6 @@
         "title": "【OVERWATCH 2】checking out Juno + new maps! 【Dokibird】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "Giraffes are Actually Really Cool"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": false,
@@ -239,5 +229,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724245200,
         "title": "【Minecraft】フレわたでトライアルチャンバー行くドドド！【不知火フレア/角巻わため/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nhLGjSD4Olc",
+        "picture": "https://i.ytimg.com/vi/nhLGjSD4Olc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724245200,
+        "title": "【Stardew Valley】村づくりマルチ #ポルーナ で往く！久々すぎてわろける！【尾丸ポルカ/姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SmBmj6xy7pM",
+        "picture": "https://i.ytimg.com/vi/SmBmj6xy7pM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724230800,
+        "title": "初コラボ！✨後輩ちゃんに根掘り葉掘り聞くぞ！【火威青／音乃瀬奏／Elizabeth Rose Bloodflame 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=46sibKtbq0I",
+        "picture": "https://i.ytimg.com/vi/46sibKtbq0I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724234400,
+        "title": "【黒神話：悟空】注目の西遊記アクション初見で遊んでみる！（Black Myth: Wukong）ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
