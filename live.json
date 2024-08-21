@@ -55,17 +55,6 @@
         "title": "【Mario Kart 8 Deluxe】Learning How to Drive in New York"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LaNzfdo-KSI",
-        "picture": "https://i.ytimg.com/vi/LaNzfdo-KSI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】GIVE ME THAT MACE 🔨【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -178,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=opUARhYlVsA",
         "picture": "https://i.ytimg.com/vi/opUARhYlVsA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1724268600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【BLACK MYTH: WUKONG】return to monke【Dokibird】"
     },
     {
