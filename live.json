@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3poEDEicsIA",
-        "picture": "https://i.ytimg.com/vi/3poEDEicsIA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gMzLq3lebos",
+        "picture": "https://i.ytimg.com/vi/gMzLq3lebos/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】we\u0026#39;re here because you\u0026#39;re by our side ♪ #FWMCbeats 【ホロ曲縛り】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724239800,
+        "title": "【FROG DETECTIVE】ribbit ribbit priceless art is missing from the exhibit 🐾 【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aCvZYvrgLEY",
         "picture": "https://i.ytimg.com/vi/aCvZYvrgLEY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724209200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 昼雑談 】好きなアニメ教えてくれ【 領国つかさ / すぺしゃりて 】"
     },
     {
