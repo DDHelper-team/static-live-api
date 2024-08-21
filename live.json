@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DZZcMnnwT-o",
-        "picture": "https://i.ytimg.com/vi/DZZcMnnwT-o/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=62OBJAjKCb4",
+        "picture": "https://i.ytimg.com/vi/62OBJAjKCb4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Snufkin: Melody of Moomin Valley】Snuf Out Those Kins Ep.02"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724284800,
+        "title": "【Mario Kart 8 Deluxe】Learning How to Drive in New York"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
