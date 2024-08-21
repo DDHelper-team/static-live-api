@@ -110,17 +110,6 @@
         "title": "【歌雜】你說我的歌聲 像鴨子 (ꐦ°᷄д°᷅) ?  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=px_dperLh9I",
-        "picture": "https://i.ytimg.com/vi/px_dperLh9I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238000,
-        "title": "【OFFCOLLAB】i am being haunted, helP (archived karaoke with @mintfantome ) #kfp #ミントLIVE"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=POY8HAjrlgU",
         "picture": "https://i.ytimg.com/vi/POY8HAjrlgU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724238002,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#V最S6 | APEX】月花B忍🌸練習カスタム4日目！#GKBWIN【緋月ゆい/ネオポルテ】"
     },
     {
@@ -438,5 +427,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【APEX】は、かい  / アステル 小柳ロウ 青桐エイト ちゃんりよ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nKYJKC_9JN0",
+        "picture": "https://i.ytimg.com/vi/nKYJKC_9JN0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724241600,
+        "title": "【お宝マウンテン】ホロメンたくさん積みあげちゃう余～～～～～～～～ん【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=76cHcbxUWMw",
+        "picture": "https://i.ytimg.com/vi/76cHcbxUWMw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724245200,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XbEZMWyvFog",
+        "picture": "https://i.ytimg.com/vi/XbEZMWyvFog/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724281200,
+        "title": "【SUPER CHATting】3D Yapping"
     }
 ]
