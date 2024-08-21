@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XbEZMWyvFog",
         "picture": "https://i.ytimg.com/vi/XbEZMWyvFog/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724281200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SUPER CHATting】3D Yapping"
     },
     {
