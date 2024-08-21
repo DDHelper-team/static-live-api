@@ -132,17 +132,6 @@
         "title": "【 みこに勝たないと出られない部屋 】勝つさ―――【湊あくあ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RpAACYRxYy8",
-        "picture": "https://i.ytimg.com/vi/RpAACYRxYy8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】お休み中から最近の話まで全部！！きいてよっ！！【ホロライブ/紫咲シオン】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -251,5 +240,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724320800,
         "title": "【 SIREN 】当時の怖さと難しさをレトロゲームで味わうのら！！！【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DSMeAcrSbOA",
+        "picture": "https://i.ytimg.com/vi/DSMeAcrSbOA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724295600,
+        "title": "【 スーパーマリオブラザーズ２ 】キッズ、鬼ムズマリオに初挑戦！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": null
     }
 ]
