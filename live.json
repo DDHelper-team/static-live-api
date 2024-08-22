@@ -135,12 +135,12 @@
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=ym2w-K-IwW8",
-        "picture": "https://i.ytimg.com/vi/ym2w-K-IwW8/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=03w-t06FjaU",
+        "picture": "https://i.ytimg.com/vi/03w-t06FjaU/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1724328000,
-        "title": "一緒に夕食たべる？【Membership Only】"
+        "timestamp": 1724413200,
+        "title": "【金曜ロードショー】ジブリの「となりのトトロ」同時視ちゃま！🌟【ホロライブ/赤井はあと】"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=G8xcJ28eGSo",
         "picture": "https://i.ytimg.com/vi/G8xcJ28eGSo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724328000,
-        "title": "【】SIREN【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【＃生スバル】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3h5HlMg8Vwc",
         "picture": "https://i.ytimg.com/vi/3h5HlMg8Vwc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724328000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラゴンボール Z KAKAROT 】ギニュー特戦隊にご対面。ＤＢ大ファンによるオタク実況！※ネタバレあり【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -275,17 +275,6 @@
         "title": "【#V最S6 | APEX】月花B忍🌸練習カスタム5日目！#GKBWIN【緋月ゆい/ネオポルテ】"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uDH2fJGGoJg",
-        "picture": "https://i.ytimg.com/vi/uDH2fJGGoJg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】ただいまー！＆最近ハマってる漫画を語ろうの会【#一条莉々華/ hololive DEV_IS ReGLOSS #ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
         "islive": false,
@@ -328,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724335200,
         "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ATV4zOUDhAU",
+        "picture": "https://i.ytimg.com/vi/ATV4zOUDhAU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【The Bathhouse | 地獄銭湯 Restored Edition】帰ってきた地獄銭湯【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fR8tH_LvnV8",
+        "picture": "https://i.ytimg.com/vi/fR8tH_LvnV8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724333400,
+        "title": "【Idol Showdown: Hololive Fighting Game】特訓【荒咬オウガ /ホロスターズ】"
     }
 ]
