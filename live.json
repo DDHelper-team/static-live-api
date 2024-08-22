@@ -55,17 +55,6 @@
         "title": "【 みこに勝たないと出られない部屋 】勝つさ―――【湊あくあ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=H-0S4v-szPY",
-        "picture": "https://i.ytimg.com/vi/H-0S4v-szPY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FNAF: Into the Pit】chillin\u0026#39; and dyin\u0026#39; #calliolive"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": true,
@@ -185,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724324400,
         "title": "【 轟はじめ視点 】マーダーミステリー『蟷螂村』【＃ホロミステリーライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=H6TL1pocN5A",
+        "picture": "https://i.ytimg.com/vi/H6TL1pocN5A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724317200,
+        "title": "【ストリートファイター6】ひっさびさに配信で遊べるぜ…【アルランディス/ホロスターズ】"
     }
 ]
