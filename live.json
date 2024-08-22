@@ -44,17 +44,6 @@
         "title": "【 #歌枠  / karaoke！】かわいい曲限定歌枠！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VBaSv8Pw1Hk",
-        "picture": "https://i.ytimg.com/vi/VBaSv8Pw1Hk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 タイマン企画 】みこに勝たないと出られない部屋にぇ！ゲスト：湊あくあ⚓【湊あくあ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -119,17 +108,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【獅白ぼたん視点】マーダーミステリー『蟷螂村』【 #ホロミステリーライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GUq20IvcG7A",
-        "picture": "https://i.ytimg.com/vi/GUq20IvcG7A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お宝マウンテン】あ～～～～～～～！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -238,7 +216,7 @@
         "picture": "https://i.ytimg.com/vi/ZxN7raRF_24/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1724331600,
+        "timestamp": 1724333400,
         "title": "【Minecraft】ホロ鯖！観光したりふりかえるぞ！！！！！！！！！【湊あくあ/ホロライブ】"
     },
     {
@@ -277,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YtaAq9MZLMU",
         "picture": "https://i.ytimg.com/vi/YtaAq9MZLMU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724331600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#重返未来1999 】1.7新版本活動劇情~ 新腳色抽起來!!! (感冒狀態可能要維持矜持的喉嚨，請見諒)【#遊戲個人勢 / Fingla】"
     },
     {
@@ -343,12 +321,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5VJzJInL08g",
         "picture": "https://i.ytimg.com/vi/5VJzJInL08g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724331600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】元気に歌うぞ！！- ハニカムステーション！-152【HACHI 】"
     },
     {
@@ -361,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724410800,
         "title": "【凸待ち】仮サムネ建て【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LDlPzIRch_A",
+        "picture": "https://i.ytimg.com/vi/LDlPzIRch_A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724418000,
+        "title": "【深夜放送】為了找出弟弟的真正🐭因，獨自到廣播電台中尋找線索，但在調查過程中被捲入一連串怪異事件之中 | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B16McjAYXTs",
+        "picture": "https://i.ytimg.com/vi/B16McjAYXTs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724403600,
+        "title": "【MERCH REVIEW】SHOW ME YOUR MERCH!!!!【Kureiji Ollie】"
     }
 ]
