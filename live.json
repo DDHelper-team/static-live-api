@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WtNmU3Px4LA",
         "picture": "https://i.ytimg.com/vi/WtNmU3Px4LA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724338800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR接力🎧｜年上女友讓你舒服❤️｜Whispering in the ear to get you to sleep｜耳をふー耳元で囁いて眠りを誘う 【黑3DIO/KU100】"
     },
     {
@@ -130,17 +130,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【黒神話：悟空】注目の西遊記アクション初見で遊んでみる！（Black Myth: Wukong）ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3h5HlMg8Vwc",
-        "picture": "https://i.ytimg.com/vi/3h5HlMg8Vwc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラゴンボール Z KAKAROT 】ギニュー特戦隊にご対面。ＤＢ大ファンによるオタク実況！※ネタバレあり【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
@@ -295,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724382000,
         "title": "【The Bathhouse | 地獄銭湯 Restored Edition】おかえり地獄銭湯…え？【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q8rdPFJ8Pm8",
+        "picture": "https://i.ytimg.com/vi/q8rdPFJ8Pm8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724382000,
+        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Pf4wieu6SzE",
+        "picture": "https://i.ytimg.com/vi/Pf4wieu6SzE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724407200,
+        "title": "【ドラゴンボールZ KAKAROT】完全初見！神作品「ドラゴンボール」の世界へ！！【白銀ノエル/ホロライブ】※ネタバレあり"
     }
 ]
