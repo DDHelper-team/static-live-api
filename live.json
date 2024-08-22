@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CpcMLJm_hxc",
         "picture": "https://i.ytimg.com/vi/CpcMLJm_hxc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724320800,
-        "title": "【 SIREN 】当時の怖さと難しさをレトロゲームで味わうのら！！！【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 SIREN｜PS2 】完全初見プレイ！当時の怖さと難しさをレトロゲームで味わうのら！！！【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GUq20IvcG7A",
         "picture": "https://i.ytimg.com/vi/GUq20IvcG7A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724320800,
-        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【お宝マウンテン】あ～～～～～～～！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3kCUZxLg2QQ",
         "picture": "https://i.ytimg.com/vi/3kCUZxLg2QQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724320800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【振り返り】一緒に生誕ライブを見ながら振り返ろ～～【 ホロライブ / 大神ミオ 】"
     },
     {
@@ -222,23 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KDnUvr88Jj0",
         "picture": "https://i.ytimg.com/vi/KDnUvr88Jj0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724320800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【黒神話：悟空】注目の西遊記アクション初見で遊んでみる！（Black Myth: Wukong）ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=u5f8f9GJQRA",
         "picture": "https://i.ytimg.com/vi/u5f8f9GJQRA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724320800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】現在13/122 花岸ですべての進捗を達成する！ Part2【岸堂天真/花咲みやび/ホロスターズ】"
     },
     {
@@ -277,12 +277,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SeJPgapvqP4",
         "picture": "https://i.ytimg.com/vi/SeJPgapvqP4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724320800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#2【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EeAMlgg8OTI",
+        "picture": "https://i.ytimg.com/vi/EeAMlgg8OTI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724324400,
+        "title": "【#V最S6 | APEX】月花B忍🌸練習カスタム5日目！#GKBWIN【緋月ゆい/ネオポルテ】"
     }
 ]
