@@ -44,17 +44,6 @@
         "title": "I MAY BE ADDICTED | Old School RuneScape"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=62OBJAjKCb4",
-        "picture": "https://i.ytimg.com/vi/62OBJAjKCb4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Mario Kart 8 Deluxe】Learning How to Drive in New York"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -64,17 +53,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724335200,
         "title": "【 #歌枠  / karaoke！】かわいい曲限定歌枠！！【#新人vtuber 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TendKzF2moE",
-        "picture": "https://i.ytimg.com/vi/TendKzF2moE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "unarchived karaoke! 3D!"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -218,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724320800,
         "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iCZTS3NgrN4",
+        "picture": "https://i.ytimg.com/vi/iCZTS3NgrN4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724295600,
+        "title": "SUMMER!!!【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
