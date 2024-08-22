@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZxN7raRF_24",
         "picture": "https://i.ytimg.com/vi/ZxN7raRF_24/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724333400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】ホロ鯖！観光したりふりかえるぞ！！！！！！！！！【湊あくあ/ホロライブ】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fR8tH_LvnV8",
         "picture": "https://i.ytimg.com/vi/fR8tH_LvnV8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724333400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Idol Showdown: Hololive Fighting Game】特訓【荒咬オウガ /ホロスターズ】"
     },
     {
