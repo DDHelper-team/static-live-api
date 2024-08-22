@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DSMeAcrSbOA",
         "picture": "https://i.ytimg.com/vi/DSMeAcrSbOA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724295600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオブラザーズ２ 】キッズ、鬼ムズマリオに初挑戦！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iCZTS3NgrN4",
         "picture": "https://i.ytimg.com/vi/iCZTS3NgrN4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724295600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "SUMMER!!!【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
