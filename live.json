@@ -55,17 +55,6 @@
         "title": "【 みこに勝たないと出られない部屋 】勝つさ―――【湊あくあ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QpmZsO1FPPc",
-        "picture": "https://i.ytimg.com/vi/QpmZsO1FPPc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MHXX】超絶初見モンハンダブルクロス　7日目【夕刻ロベル/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724324400,
         "title": "【APEX】V最s6スクリム5日目、EVA8は絶対持つな！ w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SeJPgapvqP4",
+        "picture": "https://i.ytimg.com/vi/SeJPgapvqP4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724320800,
+        "title": "#2【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
