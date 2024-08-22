@@ -176,17 +176,6 @@
         "title": "【Minecraft】ソロハードコア 6マップもやりゃプロ【奏手イヅル / ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3kCUZxLg2QQ",
-        "picture": "https://i.ytimg.com/vi/3kCUZxLg2QQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【振り返り】一緒に生誕ライブを見ながら振り返ろ～～【 ホロライブ / 大神ミオ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "islive": true,
@@ -196,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Apex Legends】V最協決定戦S6　スクリムDAY５ | ㈱アメムチ青春支部【常闇トワ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IoDGVAkYsJA",
-        "picture": "https://i.ytimg.com/vi/IoDGVAkYsJA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】自己中カスタム→合同カスタム/V最協カスタム5日目【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -288,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EeAMlgg8OTI",
         "picture": "https://i.ytimg.com/vi/EeAMlgg8OTI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724324400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#V最S6 | APEX】月花B忍🌸練習カスタム5日目！#GKBWIN【緋月ゆい/ネオポルテ】"
     },
     {
@@ -317,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724331600,
         "title": "【#重返未来1999 】1.7新版本活動劇情~ 新腳色抽起來!!! (感冒狀態可能要維持矜持的喉嚨，請見諒)【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=B3loJNP9Zs8",
+        "picture": "https://i.ytimg.com/vi/B3loJNP9Zs8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】”理解”した / アステル 小柳ロウ 青桐エイト ちゃんりよ"
     }
 ]
