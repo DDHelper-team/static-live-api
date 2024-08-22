@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QpmZsO1FPPc",
         "picture": "https://i.ytimg.com/vi/QpmZsO1FPPc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724299200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MHXX】超絶初見モンハンダブルクロス　7日目【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -185,5 +185,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "SUMMER!!!【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ym2w-K-IwW8",
+        "picture": "https://i.ytimg.com/vi/ym2w-K-IwW8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724328000,
+        "title": "一緒に夕食たべる？【Membership Only】"
     }
 ]
