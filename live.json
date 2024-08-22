@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=g2VCZZGKfPo",
         "picture": "https://i.ytimg.com/vi/g2VCZZGKfPo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724360400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#86  8/23金曜日！金のポルカちゃんもらえる！！？【尾丸ポルカ/ホロライブ】"
     }
 ]
