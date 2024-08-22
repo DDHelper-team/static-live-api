@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zYXOTNNdutw",
         "picture": "https://i.ytimg.com/vi/zYXOTNNdutw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724329800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】ソロハードコア 6マップもやりゃプロ【奏手イヅル / ホロスターズ】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724333400,
         "title": "【Idol Showdown: Hololive Fighting Game】特訓【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5VJzJInL08g",
+        "picture": "https://i.ytimg.com/vi/5VJzJInL08g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724331600,
+        "title": "【歌枠】元気に歌うぞ！！- ハニカムステーション！-152【HACHI 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=J5-FNXLdfz0",
+        "picture": "https://i.ytimg.com/vi/J5-FNXLdfz0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724410800,
+        "title": "【凸待ち】仮サムネ建て【一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
