@@ -57,11 +57,11 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=-05n3DBX_oU",
         "picture": "https://i.ytimg.com/vi/-05n3DBX_oU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【同時視聴】完全初見、コマンドー！！！！見るっ！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
@@ -119,17 +119,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【あつまれ どうぶつの森】久々の住民ガチャやんぞ！【不知火フレア/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Wt2ZmBt4vSw",
-        "picture": "https://i.ytimg.com/vi/Wt2ZmBt4vSw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Stardew Valley】Bikin Farm Kecil Kecilan Bareng @PiaMeraleo-JKT48V 【  iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=A_JwLAOEcGY",
         "picture": "https://i.ytimg.com/vi/A_JwLAOEcGY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724425200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Bathhouse | 地獄銭湯 Restored Edition】we\u0026#39;re so back!"
     },
     {
