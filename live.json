@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Wv3gLcIc1oc",
         "picture": "https://i.ytimg.com/vi/Wv3gLcIc1oc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724385600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MHXX】超絶初見モンハンダブルクロス　8日目【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -163,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724410800,
         "title": "あくあマリン親子対談【ホロライブ/宝鐘マリン・湊あくあ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aq-uAtTNCTs",
+        "picture": "https://i.ytimg.com/vi/aq-uAtTNCTs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724472000,
+        "title": "【chat in hotel】before our concert this weekend! #calliolive"
     }
 ]
