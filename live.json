@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@Hakuzen0025",
         "channellink": "https://www.youtube.com/@Hakuzen0025",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2s6yXtS1BJ4",
         "picture": "https://i.ytimg.com/vi/2s6yXtS1BJ4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724396400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "『FF43直播 』社恐們對決吧！跟現場觀眾一對一互動台🦊【久田はくぜん】"
     },
     {
@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724410800,
         "title": "【メンバー限定】みんなで見る映画を決めて一緒に見る配信 8月編今月はホラー【アルランディス/ホロスターズ】【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=_ZdfIDEI4vY",
+        "picture": "https://i.ytimg.com/vi/_ZdfIDEI4vY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【FGO】今日の更新分含めてイベスト読むぞ！！！8節～13節まで【影山シエン/ホロスターズ】"
     }
 ]
