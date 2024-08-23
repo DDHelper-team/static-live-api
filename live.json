@@ -73,8 +73,8 @@
         "picture": "https://i.ytimg.com/vi/J5-FNXLdfz0/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1724410800,
-        "title": "【凸待ち】仮サムネ建て【一条莉々華/hololive DEV_IS　ReGLOSS】"
+        "timestamp": 1724414400,
+        "title": "【#あおりりお嬢様凸待ち】取り巻き嬢青とお嬢様凸待ち【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -209,17 +209,6 @@
         "title": "【Apex Legends】V最協決定戦S6　スクリムDAY最終日\u0026amp;前夜祭✨ | ㈱アメムチ青春支部【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=yaEIJSCPwog",
-        "picture": "https://i.ytimg.com/vi/yaEIJSCPwog/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724410800,
-        "title": "【メンバー限定】みんなで見る映画を決めて一緒に見る配信 8月編今月はホラー【アルランディス/ホロスターズ】【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "islive": false,
@@ -308,17 +297,6 @@
         "title": "【カメラ】みんなへおむらいすつくる！！！！！！！！！！【湊あくあ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=z_qSEOpfERA",
-        "picture": "https://i.ytimg.com/vi/z_qSEOpfERA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724410800,
-        "title": "【MemberOnly】映画同時視聴「仄暗い水の底から」 #かなたんロードショー 【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -343,12 +321,23 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-SVVswlbGHw",
         "picture": "https://i.ytimg.com/vi/-SVVswlbGHw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724410810,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#V最S6 | APEX】月花B忍🌸前夜祭！#GKBWIN【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=UZql-HKj_TQ",
+        "picture": "https://i.ytimg.com/vi/UZql-HKj_TQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】実行 / アステル 小柳ロウ 青桐エイト ちゃんりよ"
     }
 ]
