@@ -187,17 +187,6 @@
         "title": "【メンバー限定】久しぶりにまったりお話し【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@Hakuzen0025",
-        "channellink": "https://www.youtube.com/@Hakuzen0025",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2s6yXtS1BJ4",
-        "picture": "https://i.ytimg.com/vi/2s6yXtS1BJ4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "『FF43直播 』社恐們對決吧！跟現場觀眾一對一互動台🦊【久田はくぜん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724407200,
         "title": "【黒神話：悟空】注目の西遊記アクション初見で遊んでみる！（Black Myth: Wukong）ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xsLos2MP3S4",
+        "picture": "https://i.ytimg.com/vi/xsLos2MP3S4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724403600,
+        "title": "【APEX】くやしさをばねに/V最協カスタム最終日【ホロライブ/夏色まつり】"
     }
 ]
