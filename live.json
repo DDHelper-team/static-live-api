@@ -132,17 +132,6 @@
         "title": "【#V最S6 | APEX】月花B忍🌸前夜祭！#GKBWIN【緋月ゆい/ネオポルテ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UZql-HKj_TQ",
-        "picture": "https://i.ytimg.com/vi/UZql-HKj_TQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】実行 / アステル 小柳ロウ 青桐エイト ちゃんりよ"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -207,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724490000,
         "title": "【VTuber最協決定戦】クリフサイドでも勝気で行きます！【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=s3q9BrUB0Do",
+        "picture": "https://i.ytimg.com/vi/s3q9BrUB0Do/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724457600,
+        "title": "【JUST CROW THINGS】it\u0026#39;s crowki hours【Dokibird】"
     }
 ]
