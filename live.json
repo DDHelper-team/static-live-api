@@ -264,17 +264,6 @@
         "title": "【Arctic Eggs】LETS COOK【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BUBn0v7PZ24",
-        "picture": "https://i.ytimg.com/vi/BUBn0v7PZ24/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【世界一ゆるい雑談】#ちょろでんずし でゆるく喋ってます【儒烏風亭らでん #ReGLOSS 】"
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
         "islive": false,
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724425200,
         "title": "【The Bathhouse | 地獄銭湯 Restored Edition】we\u0026#39;re so back!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=IrQtVFDaFY8",
+        "picture": "https://i.ytimg.com/vi/IrQtVFDaFY8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Dicey Dungeons 裏面】ガチの最終回、壊れ難易度を運と実力でねじ伏せる！！【岸堂天真/ホロスターズ】"
     }
 ]
