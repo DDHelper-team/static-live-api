@@ -95,8 +95,8 @@
         "picture": "https://i.ytimg.com/vi/B16McjAYXTs/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1724403600,
-        "title": "【MERCH REVIEW】SHOW ME YOUR MERCH!!!!【Kureiji Ollie】"
+        "timestamp": 1724410800,
+        "title": "【MERCH REVIEW】SHOW ME YOUR MERCH!!!! #OllieLoveshololive【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -255,12 +255,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xsLos2MP3S4",
         "picture": "https://i.ytimg.com/vi/xsLos2MP3S4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724403600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】くやしさをばねに/V最協カスタム最終日【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-JHJxd96qwo",
+        "picture": "https://i.ytimg.com/vi/-JHJxd96qwo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724414400,
+        "title": "【#重返未来1999 】1.7新版本活動劇情繼續追~ (感冒狀態可能要維持矜持的喉嚨，請見諒)【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fhXIL2mfrSE",
+        "picture": "https://i.ytimg.com/vi/fhXIL2mfrSE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724418000,
+        "title": "【 メンバー限定 】【ホロライブ/さくらみこ】"
     }
 ]
