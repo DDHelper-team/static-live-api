@@ -66,17 +66,6 @@
         "title": "【同時視聴】完全初見、コマンドー！！！！見るっ！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VLec57luuGo",
-        "picture": "https://i.ytimg.com/vi/VLec57luuGo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 黑神話：悟空 】沒看過西遊記的我，完全初見，請各路大神手下留情🙉   | #黑神話悟空   #黑神话悟空  #vtuber"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": false,
@@ -110,17 +99,6 @@
         "title": "【あつまれ どうぶつの森】久々の住民ガチャやんぞ！【不知火フレア/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pi0vpnGugHM",
-        "picture": "https://i.ytimg.com/vi/pi0vpnGugHM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロ7DTD 】DAY.7！バイクで遠出したり、物資を集めたり・・【大神ミオ視点】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
@@ -141,28 +119,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#重返未来1999 】1.7新版本活動劇情繼續追~ (感冒狀態可能要維持矜持的喉嚨，請見諒)【#遊戲個人勢 / Fingla】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BmTaHOe9M-Q",
-        "picture": "https://i.ytimg.com/vi/BmTaHOe9M-Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロ7DTD 】49日間生き残れ…！｜7日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iHq8sB72eKs",
-        "picture": "https://i.ytimg.com/vi/iHq8sB72eKs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】V最s6前夜祭、デスボックスを漁るな！ w/パカエル、夜乃くろむ【獅子神レオナ/Re:AcT】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -229,5 +185,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Dicey Dungeons 裏面】ガチの最終回、壊れ難易度を運と実力でねじ伏せる！！【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DLv6Kssy0os",
+        "picture": "https://i.ytimg.com/vi/DLv6Kssy0os/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724468400,
+        "title": "【 ドラクエⅧ 】完全初見。3DS版！主人公は何者！？真実を求めて裏ダンジョンへ！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7B-4NGBmMzE",
+        "picture": "https://i.ytimg.com/vi/7B-4NGBmMzE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724490000,
+        "title": "【VTuber最協決定戦】クリフサイドでも勝気で行きます！【ホロライブ/夏色まつり】"
     }
 ]
