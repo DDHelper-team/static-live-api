@@ -244,12 +244,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LR0nmAuXYiM",
         "picture": "https://i.ytimg.com/vi/LR0nmAuXYiM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1724512500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 歌枠 / Karaoke 】おつかれさまでした。ギャン泣きは終了  / #燃えろアステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=t0UvaXmBPWg",
+        "picture": "https://i.ytimg.com/vi/t0UvaXmBPWg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724547000,
+        "title": "【UNARCHIVED】ハテナメイン回!!!!　ハテナ役　荒咬オウガと見る　シン・ドゲンジャーズ　第7話【荒咬オウガ /ホロスターズ】"
     }
 ]
