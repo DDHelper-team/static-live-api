@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=X68wKOI7SCk",
         "picture": "https://i.ytimg.com/vi/X68wKOI7SCk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724482800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【地獄銭湯 Restored Edition】銭湯っていいですよね、デカいし。まぁ俺の方がデカいけど【アルランディス/ホロスターズ】"
     },
     {
