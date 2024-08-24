@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7B-4NGBmMzE",
         "picture": "https://i.ytimg.com/vi/7B-4NGBmMzE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724490000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VTuber最協決定戦】クリフサイドでも勝気で行きます！【ホロライブ/夏色まつり】"
     },
     {
@@ -163,17 +163,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】ソロハードコア 厳密に７マップ目【奏手イヅル / ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gwOK3d92DGA",
-        "picture": "https://i.ytimg.com/vi/gwOK3d92DGA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お宝マウンテン】みんなほしいんだよね～【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=crFNRIfEvLk",
         "picture": "https://i.ytimg.com/vi/crFNRIfEvLk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724490000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【黒神話：悟空】最終回！注目の西遊記アクション初見で遊んでみる！（Black Myth: Wukong）ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -288,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OhD_xpMnKVU",
         "picture": "https://i.ytimg.com/vi/OhD_xpMnKVU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724490000,
-        "title": "【APEX】青の唯我論者 / アステル 小柳ロウ 青桐エイト ちゃんりよ"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】青の唯我論者 #V最協S6 #8GOWIN / アステル 小柳ロウ 青桐エイト ちゃんりよ"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
