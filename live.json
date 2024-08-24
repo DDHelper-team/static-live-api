@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hQNf-ErQOwU",
         "picture": "https://i.ytimg.com/vi/hQNf-ErQOwU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724479200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6 day1】 SLEEP FIGHTER 顔合わせ🔥初めまして‼まず寝てもいいですか❓【ホロライブ / ロボ子さん】"
     },
     {
@@ -196,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724482800,
         "title": "【地獄銭湯 Restored Edition】銭湯っていいですよね、デカいし。まぁ俺の方がデカいけど【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-LrxiF3-WhM",
+        "picture": "https://i.ytimg.com/vi/-LrxiF3-WhM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724491800,
+        "title": "【Apex Legends】#v最協s6  最終到達点本戦【律可/成瀬鳴/春崎エアル/ホロスターズ】"
     }
 ]
