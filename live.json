@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qjG2Ku5QdEA",
-        "picture": "https://i.ytimg.com/vi/qjG2Ku5QdEA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xzmj22L9cqk",
+        "picture": "https://i.ytimg.com/vi/xzmj22L9cqk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】スーパーマリオブラザーズ3で遊ぶしゅばあああああああああああああああああ！！！！！！ / SUPER MARIO BROS. 3【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724500800,
+        "title": "【】ギリギリトーク？！？？！？！アイドルの女子会【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GkXGFssQ1zk",
         "picture": "https://i.ytimg.com/vi/GkXGFssQ1zk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724489100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6 day1】 SLEEP FIGHTER 【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -295,17 +295,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724490000,
         "title": "【APEX】青の唯我論者 / アステル 小柳ロウ 青桐エイト ちゃんりよ"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=wf71V-PeH7Q",
-        "picture": "https://i.ytimg.com/vi/wf71V-PeH7Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1724488200,
-        "title": "【#V最S6 | APEX】月花B忍🌸本番！#GKBWIN【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
