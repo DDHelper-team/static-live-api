@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pbV_kafzakY",
         "picture": "https://i.ytimg.com/vi/pbV_kafzakY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1724468400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオブラザーズ２ 】鬼ムズマリオに初挑戦！クリア目指すぞ！【 領国つかさ / すぺしゃりて 】"
     },
     {
