@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gwOK3d92DGA",
         "picture": "https://i.ytimg.com/vi/gwOK3d92DGA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724481000,
-        "title": "【お宝マウンテン】ホロの楽しい立体パズルゲーム！【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【お宝マウンテン】みんなほしいんだよね～【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724491800,
         "title": "【Apex Legends】#v最協s6  最終到達点本戦【律可/成瀬鳴/春崎エアル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ocE8eciCb-g",
+        "picture": "https://i.ytimg.com/vi/ocE8eciCb-g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724500800,
+        "title": "【 #ホロ7DTD 】49日間生き残れ…！｜8日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
     }
 ]
