@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q1aRJ0PZSro",
         "picture": "https://i.ytimg.com/vi/q1aRJ0PZSro/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724488200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】V最本番❕絶対チャンピオン❕#v最協s6 #LOSUWIN🔥 /碧依さくらIGL様 さくらの犬①おだのぶ うるか大コーチ【ラプラスダークネス/ホロライブ】"
     },
     {
@@ -317,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724504400,
         "title": "【Honor of Kings】Worry not, \u0026quot;top jungler\u0026quot; is here!!!  【Taela Charity stream #BersamaHOK】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_WJKm5zed-o",
+        "picture": "https://i.ytimg.com/vi/_WJKm5zed-o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724500800,
+        "title": "★★歌枠★★"
     }
 ]
