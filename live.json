@@ -156,12 +156,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nwPxugoVmCo",
         "picture": "https://i.ytimg.com/vi/nwPxugoVmCo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724477400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】ソロハードコア 厳密に７マップ目【奏手イヅル / ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=pfgHXdoejzc",
+        "picture": "https://i.ytimg.com/vi/pfgHXdoejzc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ホロライブ お宝マウンテン 】緊急ゲリラ！Wイケメン行くぞ！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
