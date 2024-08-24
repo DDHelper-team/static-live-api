@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z5_JUI7dtsU",
         "picture": "https://i.ytimg.com/vi/Z5_JUI7dtsU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724464800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！DISC2からいくよおおおお！ #3 【博衣こより/ホロライブ】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Q3P6i1BMYaQ",
         "picture": "https://i.ytimg.com/vi/Q3P6i1BMYaQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724461200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     },
     {
