@@ -165,17 +165,6 @@
         "title": "【朝活雑談】今日も早起きまっするだ～～～💪🌞【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LR0nmAuXYiM",
-        "picture": "https://i.ytimg.com/vi/LR0nmAuXYiM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 歌枠 / Karaoke 】おつかれさまでした。ギャン泣きは終了  / #燃えろアステル"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "islive": false,
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724558400,
         "title": "【#生スバル】スーパーマリオブラザーズ3で遊ぶしゅばあああああああああああああああああ！！！！！！ / SUPER MARIO BROS. 3【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xaRARKW5MUI",
+        "picture": "https://i.ytimg.com/vi/xaRARKW5MUI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724596200,
+        "title": "【 #神岡家​ 】神岡家の気まぐれにゃじお 第40回 / チームNASSがやってくる！🍆"
     }
 ]
