@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DLv6Kssy0os",
         "picture": "https://i.ytimg.com/vi/DLv6Kssy0os/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724468400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅧ 】完全初見。3DS版！主人公は何者！？真実を求めて裏ダンジョンへ！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -127,7 +127,7 @@
         "link": "https://www.youtube.com/watch?v=pbV_kafzakY",
         "picture": "https://i.ytimg.com/vi/pbV_kafzakY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1724468400,
         "title": "【 スーパーマリオブラザーズ２ 】鬼ムズマリオに初挑戦！クリア目指すぞ！【 領国つかさ / すぺしゃりて 】"
     },
