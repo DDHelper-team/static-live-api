@@ -165,17 +165,6 @@
         "title": "【Minecraft】ソロハードコア 厳密に７マップ目【奏手イヅル / ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pfgHXdoejzc",
-        "picture": "https://i.ytimg.com/vi/pfgHXdoejzc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ホロライブ お宝マウンテン 】緊急ゲリラ！Wイケメン行くぞ！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": true,
@@ -229,5 +218,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724490000,
         "title": "【Apex Legends】V最協決定戦S6 本番 | ㈱アメムチ青春支部　#AMCWIN【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2-xYYWFTXr0",
+        "picture": "https://i.ytimg.com/vi/2-xYYWFTXr0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724504400,
+        "title": "【あくありうむ。 | AQUARIUM.】Reading Chapter 1! あくありうむ。全コンプ〜チャプター1〜【hololive ID 2nd Gen | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7etUPrq79_o",
+        "picture": "https://i.ytimg.com/vi/7etUPrq79_o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724500800,
+        "title": "【 #ホロ7DTD 】DAY.7！４回目の襲撃をどうくぐり抜けるか？【大神ミオ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GkXGFssQ1zk",
+        "picture": "https://i.ytimg.com/vi/GkXGFssQ1zk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724489100,
+        "title": "【スト6 day1】 SLEEP FIGHTER 【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
