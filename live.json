@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aq-uAtTNCTs",
         "picture": "https://i.ytimg.com/vi/aq-uAtTNCTs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724472000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【chat in hotel】before our concert this weekend! #calliolive"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qjG2Ku5QdEA",
         "picture": "https://i.ytimg.com/vi/qjG2Ku5QdEA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724472000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#生スバル】スーパーマリオブラザーズ3で遊ぶしゅばあああああああああああああああああ！！！！！！ / SUPER MARIO BROS. 3【ホロライブ/大空スバル】"
     },
     {
