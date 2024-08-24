@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-LrxiF3-WhM",
         "picture": "https://i.ytimg.com/vi/-LrxiF3-WhM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724491800,
-        "title": "【Apex Legends】#v最協s6  最終到達点本戦【律可/成瀬鳴/春崎エアル/ホロスターズ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Apex Legends】#v最協s6  最終到達点本戦【律可/成瀬鳴/春崎エアル/ホロスターズ】#DDDWIN"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -306,5 +306,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#V最S6 | APEX】月花B忍🌸本番！#GKBWIN【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GjNxqDxFaSA",
+        "picture": "https://i.ytimg.com/vi/GjNxqDxFaSA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724504400,
+        "title": "【 7days to die  】 #ホロ7DTD  襲撃回🔥 I俺達は負けない！！！！！！！！！！！にぇ【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cyL8qe9sIk8",
+        "picture": "https://i.ytimg.com/vi/cyL8qe9sIk8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724554800,
+        "title": "【 ドラクエⅧ 】完全初見。3DS版！竜の試練・・・そしてゼシカENDがみたい勇者。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=n2_fgOYnEys",
+        "picture": "https://i.ytimg.com/vi/n2_fgOYnEys/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724500800,
+        "title": "【 ドラゴンボール Z KAKAROT 】人造人間編突入！ＤＢ大ファンによるオタク実況！※ネタバレあり【 領国つかさ / すぺしゃりて 】"
     }
 ]
