@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zVjR9EV9NQ0",
         "picture": "https://i.ytimg.com/vi/zVjR9EV9NQ0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724623200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#花岸れいでぃお】第60回 ついに還暦を迎えた花岸れいでぃお【花咲みやび/岸堂天真/ホロスターズ】"
     },
     {
