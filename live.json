@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=n-wphT33vrg",
-        "picture": "https://i.ytimg.com/vi/n-wphT33vrg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QqTedTYvy1A",
+        "picture": "https://i.ytimg.com/vi/QqTedTYvy1A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【風来のシレン】完全初見★神ゲー本番‼クリア後ダンジョン遊ぶううううううう！！！！！！！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724666400,
+        "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：椎名唯華様～【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -121,17 +121,6 @@
         "title": "【#花岸れいでぃお】第60回 ついに還暦を迎えた花岸れいでぃお【花咲みやび/岸堂天真/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=2JciZo2afXg",
-        "picture": "https://i.ytimg.com/vi/2JciZo2afXg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1725879600,
-        "title": "freechat🖋️"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -143,17 +132,6 @@
         "title": "【FF43參觀後日談】買了好多寶貝 大家都買了什麼呢？  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=smrMuN26M0Q",
-        "picture": "https://i.ytimg.com/vi/smrMuN26M0Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1735614000,
-        "title": "【Free chat】4周年記念グッズ販売開始🎉－ししろんの射撃訓練場【ホロライブ/獅白ぼたん】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -163,50 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724641200,
         "title": "【 スーパーマリオブラザー3 】マリオ3に初挑戦！今までと雰囲気が違う...！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=pulP400cTpE",
-        "picture": "https://i.ytimg.com/vi/pulP400cTpE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1740214800,
-        "title": "=͟͟͞͞♡　|　僕のメンバーシップ特典まとめです🍙 | Nekomata Okayu\u0026#39;s Membership 🍙✦."
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SJ4axGQTQNc",
-        "picture": "https://i.ytimg.com/vi/SJ4axGQTQNc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談＆お礼】ワールドツアーがはじまった！ビンゴもしたい！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -240,16 +174,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724630400,
         "title": "【PEJUANG SENIN】#82 AUGUST IS ALMOST OVER!!!!!!!【Kaela\u0026#39;s Monday Warrior】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=9adTmjMGifA",
-        "picture": "https://i.ytimg.com/vi/9adTmjMGifA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1724770800,
-        "title": "配信スケジュール"
     }
 ]
