@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cyL8qe9sIk8",
         "picture": "https://i.ytimg.com/vi/cyL8qe9sIk8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724554800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅧ 】完全初見。3DS版！竜の試練・・・そしてゼシカENDがみたい勇者。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VewtEHnovS4",
         "picture": "https://i.ytimg.com/vi/VewtEHnovS4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724569200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 エレクトーン｜カメラ枠 】夏の終わりの楽器練習風景なのら～🎹🎶【姫森ルーナ/ホロライブ】"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Pvsg89sVFxY",
         "picture": "https://i.ytimg.com/vi/Pvsg89sVFxY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724558400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#生スバル】スーパーマリオブラザーズ3で遊ぶしゅばあああああああああああああああああ！！！！！！ / SUPER MARIO BROS. 3【ホロライブ/大空スバル】"
     },
     {
@@ -240,5 +240,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724596200,
         "title": "【 #神岡家​ 】神岡家の気まぐれにゃじお 第40回 / チームNASSがやってくる！🍆"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gJ6mvXQ2z7s",
+        "picture": "https://i.ytimg.com/vi/gJ6mvXQ2z7s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724572800,
+        "title": "【 雑談 】いろいろしゃべります～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=JB__zk-Vrpc",
+        "picture": "https://i.ytimg.com/vi/JB__zk-Vrpc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OW2】このゲーム上手くなりたい【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=suExD1khiOA",
+        "picture": "https://i.ytimg.com/vi/suExD1khiOA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724551200,
+        "title": "【ELDEN RING】#16 やってないとこ生きたすぎだろ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     }
 ]
