@@ -107,7 +107,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#花岸れいでぃお】第60回 ついに還暦を迎えた花岸れいでぃお【花咲みやび/岸堂天真/ホロスターズ】"
+        "title": "【Minecraft】現在28/122 全進捗企画3日目！エンドラ討伐いくぞ！ Part3【岸堂天真/花咲みやび/ホロスターズ】【花岸れいでぃお】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -167,12 +167,23 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9hy4A0wXf5k",
         "picture": "https://i.ytimg.com/vi/9hy4A0wXf5k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724624100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】8月最後のぱっ！【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=O2DYn1qCS0E",
+        "picture": "https://i.ytimg.com/vi/O2DYn1qCS0E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "#3【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
