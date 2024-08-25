@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gzHuR9wZd0Y",
         "picture": "https://i.ytimg.com/vi/gzHuR9wZd0Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724621400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#BreakingDimensions WATCHALONG DAY 2】WE\u0026#39;LL REINVENT THE WORLD THAT WE LIVE IN【Kureiji Ollie】"
     },
     {
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724630400,
         "title": "【PEJUANG SENIN】#82 AUGUST IS ALMOST OVER!!!!!!!【Kaela\u0026#39;s Monday Warrior】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9hy4A0wXf5k",
+        "picture": "https://i.ytimg.com/vi/9hy4A0wXf5k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724624100,
+        "title": "【雑談】8月最後のぱっ！【緋月ゆい/ネオポルテ】"
     }
 ]
