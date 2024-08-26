@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
         "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Fmf0vIp8jNw",
         "picture": "https://i.ytimg.com/vi/Fmf0vIp8jNw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724713200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FNAF: INTO THE PIT】Hor!"
     },
     {
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724794200,
         "title": "【#BreakingDimensions CONCERT】🩵🐾 FUWAMOCO CHEERING FREECHAT 🐾🩷 【#hololiveEnglish】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Vp8dOp2mkGk",
+        "picture": "https://i.ytimg.com/vi/Vp8dOp2mkGk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724799600,
+        "title": "【#BreakingDimensions Chatroom】Biboo\u0026#39;s here to ROCK"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2yktf98L4gI",
+        "picture": "https://i.ytimg.com/vi/2yktf98L4gI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724799600,
+        "title": "HELLO NEW YORK!!!!! MAKE SOME NOISE!!!! #hololiveSTAGE24 #BreakingDimensions"
     }
 ]
