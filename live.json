@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZjbiqCkRb44",
         "picture": "https://i.ytimg.com/vi/ZjbiqCkRb44/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724682600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Super Chat】今日まで頂いていた分のお礼＆雑談【不知火フレア/ホロライブ】"
     },
     {
