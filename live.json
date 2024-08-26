@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QqTedTYvy1A",
         "picture": "https://i.ytimg.com/vi/QqTedTYvy1A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724666400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：椎名唯華様～【博衣こより/ホロライブ】"
     },
     {
@@ -129,7 +129,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Minecraft】last trial chambers arc.... maybe (?) 🔨【Kaela Kovalskia / hololiveID】"
+        "title": "【Minecraft】nothing really matters~ to meeeeeeeeeeeeeee~【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -284,5 +284,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724677200,
         "title": "【コマンドー同時視聴】3日連続同時視聴～ホロメン出入り自由/1日目22時の部～【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PIoVY8xcGyY",
+        "picture": "https://i.ytimg.com/vi/PIoVY8xcGyY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724670000,
+        "title": "【#女子VALOカスタム】みんなでVALORANTやるぞおおおお！！！！【湊あくあ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=c9MiAkCMMj4",
+        "picture": "https://i.ytimg.com/vi/c9MiAkCMMj4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724670000,
+        "title": "【初心者スト6 day3】  学んだことをヨガお披露目！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=l6fa2FXdXf0",
+        "picture": "https://i.ytimg.com/vi/l6fa2FXdXf0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724673600,
+        "title": "【 #ホロ7DTD 】浦島太郎状態！みんなに教えてもらいながら再び開始！【常闇トワ視点/ホロライブ】"
     }
 ]
