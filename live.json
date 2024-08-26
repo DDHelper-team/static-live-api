@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DeI15KClstw",
         "picture": "https://i.ytimg.com/vi/DeI15KClstw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724662800,
-        "title": "【 SIREN｜PS2版 】完全初見プレイ３日目！難しさに発狂しながら進めていくのらよ！！！【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 SIREN｜PS2版 】完全初見プレイ３日目！攻略難易度に発狂しながら進めていくのらよ！！！【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CQ3adqZ5Ocg",
         "picture": "https://i.ytimg.com/vi/CQ3adqZ5Ocg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724662800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#気まぐれ薄明ラジオ】このラジオは夕方に放送することもあります#2【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -251,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724670000,
         "title": "【VALORANT】#女子VALOカスタム ！！ホロチーム勝っちゃお～っ【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6vcHFV1ehFE",
+        "picture": "https://i.ytimg.com/vi/6vcHFV1ehFE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724749200,
+        "title": "【WAITING】BREAKING DIMENSIONS!!!!!!!!!!!!! #kfp #キアライブ"
     }
 ]
