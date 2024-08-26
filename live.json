@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_uR38jxZ1eA",
-        "picture": "https://i.ytimg.com/vi/_uR38jxZ1eA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7nODkMPMESA",
+        "picture": "https://i.ytimg.com/vi/7nODkMPMESA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 スーパーマリオブラザー3 】マリオ3に初挑戦！今までと雰囲気が違う...！【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724673600,
+        "title": "【 孵道 (かえりみち) 】絶対に振り返ってはいけない恐怖のかえりみち【 領国つかさ / 天籠りのん 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724662800,
         "title": "【#気まぐれ薄明ラジオ】このラジオは夕方に放送することもあります#2【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EWf5d5PrQzc",
+        "picture": "https://i.ytimg.com/vi/EWf5d5PrQzc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724673600,
+        "title": "【 #ホロ7DTD 】49日間生き残れ…！｜9日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
     }
 ]
