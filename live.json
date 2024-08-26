@@ -77,17 +77,6 @@
         "title": "【あくありうむ。 | AQUARIUM.】Reading Chapter 3(FINAL)! あくありうむ。全コンプ〜チャプター3〜【hololive ID | Anya Melfissa】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gzHuR9wZd0Y",
-        "picture": "https://i.ytimg.com/vi/gzHuR9wZd0Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#BreakingDimensions WATCHALONG DAY 2】WE\u0026#39;LL REINVENT THE WORLD THAT WE LIVE IN【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -156,24 +145,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Dh42Eg8f1AU",
         "picture": "https://i.ytimg.com/vi/Dh42Eg8f1AU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724630400,
-        "title": "【PEJUANG SENIN】#82 AUGUST IS ALMOST OVER!!!!!!!【Kaela\u0026#39;s Monday Warrior】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9hy4A0wXf5k",
-        "picture": "https://i.ytimg.com/vi/9hy4A0wXf5k/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【雑談】8月最後のぱっ！【緋月ゆい/ネオポルテ】"
+        "title": "【PEJUANG SENIN】#82 AUGUST IS ALMOST OVER!!!!!!!【Kaela\u0026#39;s Monday Warrior】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
@@ -185,5 +163,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "#3【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DeI15KClstw",
+        "picture": "https://i.ytimg.com/vi/DeI15KClstw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724662800,
+        "title": "【 SIREN｜PS2版 】完全初見プレイ３日目！難しさに発狂しながら進めていくのらよ！！！【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZjbiqCkRb44",
+        "picture": "https://i.ytimg.com/vi/ZjbiqCkRb44/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724679000,
+        "title": "【Super Chat】今日まで頂いていた分のお礼＆雑談【不知火フレア/ホロライブ】"
     }
 ]
