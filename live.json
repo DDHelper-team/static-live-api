@@ -223,12 +223,12 @@
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=CQ3adqZ5Ocg",
-        "picture": "https://i.ytimg.com/vi/CQ3adqZ5Ocg/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=sdhRVtBclfM",
+        "picture": "https://i.ytimg.com/vi/sdhRVtBclfM/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#気まぐれ薄明ラジオ】このラジオは夕方に放送することもあります#2【儒烏風亭らでん #ReGLOSS 】"
+        "title": "【#気まぐれ薄明ラジオ】（枠を変えました！）このラジオは夕方に放送することもあります#2【儒烏風亭らでん #ReGLOSS 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724749200,
         "title": "【WAITING】BREAKING DIMENSIONS!!!!!!!!!!!!! #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O2g1QxuY4X8",
+        "picture": "https://i.ytimg.com/vi/O2g1QxuY4X8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724670000,
+        "title": "【M.M.M.】Monday Malam Malas : Malam Malah Malas【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u0H5ctcCL88",
+        "picture": "https://i.ytimg.com/vi/u0H5ctcCL88/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724670000,
+        "title": "【VALORANT】めいっぱいたのしむんだああああああ　#女子VALOカスタム【百鬼あやめ/ホロライブ】"
     }
 ]
