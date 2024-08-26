@@ -220,16 +220,6 @@
         "title": "【MERCH REVIEW】THERE\u0026#39;S STILL SO MANY SUBMISSIONS!! PART 2 #OllieLoveshololive【Kureiji Ollie】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "weekly ved yapping stream"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "islive": false,
@@ -261,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724763600,
         "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1RAoZox0GJM",
+        "picture": "https://i.ytimg.com/vi/1RAoZox0GJM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724794200,
+        "title": "【#BreakingDimensions CONCERT】🩵🐾 FUWAMOCO CHEERING FREECHAT 🐾🩷 【#hololiveEnglish】"
     }
 ]
