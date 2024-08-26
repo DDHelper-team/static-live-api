@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7nODkMPMESA",
         "picture": "https://i.ytimg.com/vi/7nODkMPMESA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724673600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 孵道 (かえりみち) 】絶対に振り返ってはいけない恐怖のかえりみち【 領国つかさ / 天籠りのん 】"
     },
     {
@@ -167,23 +167,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uwPcUCBzf1c",
         "picture": "https://i.ytimg.com/vi/uwPcUCBzf1c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724673600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロ7DTD 】DAY.9！第二拠点を探しに行きたい！【大神ミオ視点】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EWf5d5PrQzc",
         "picture": "https://i.ytimg.com/vi/EWf5d5PrQzc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724673600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロ7DTD 】49日間生き残れ…！｜9日目参戦🔥【 猫又おかゆ視点/ホロライブ 】"
     },
     {
@@ -277,23 +277,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l6fa2FXdXf0",
         "picture": "https://i.ytimg.com/vi/l6fa2FXdXf0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724673600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロ7DTD 】浦島太郎状態！みんなに教えてもらいながら再び開始！【常闇トワ視点/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SLcFmBoP8A4",
         "picture": "https://i.ytimg.com/vi/SLcFmBoP8A4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724673600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 7days to die 】 #ホロ7DTD 強くなる‼第二拠点探ししたりするぜ～～～‼🔥【ホロライブ/さくらみこ】"
     },
     {
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724677200,
         "title": "【Unboxing】 Special Weiß Schwarz English Unboxing !!! what\u0026#39;s inside the box?!【Weiß Schwarz】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fzojx27z2Go",
+        "picture": "https://i.ytimg.com/vi/fzojx27z2Go/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724760000,
+        "title": "【 #ReGLOSS歌枠リレー 】課題曲を歌っていくよ🔥【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts"
     }
 ]
