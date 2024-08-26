@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=07on0LHpWQ0",
         "picture": "https://i.ytimg.com/vi/07on0LHpWQ0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724642100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】last trial chambers arc.... maybe (?) 🔨【Kaela Kovalskia / hololiveID】"
     },
     {
