@@ -99,17 +99,6 @@
         "title": "【WAITING】BREAKING DIMENSIONS!!!!!!!!!!!!! #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ptSvtakDLMo",
-        "picture": "https://i.ytimg.com/vi/ptSvtakDLMo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 歌枠 】デビュー1000日記念！いつも本当にありがとう！ 【ホロライブ/沙花叉クロヱ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724758200,
         "title": "【#ReGLOSS歌枠リレー】課題曲ちゃれんじ！楽しく歌おう！【轟はじめ/ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HQVSoHf_QLQ",
+        "picture": "https://i.ytimg.com/vi/HQVSoHf_QLQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724749200,
+        "title": "【 語り愛 】Startend最後の配信、ましゅまろ食べながらいつもみたいな光景【常闇トワ・星街すいせい・湊あくあ】"
     }
 ]
