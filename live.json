@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rSJiDyCNyl8",
         "picture": "https://i.ytimg.com/vi/rSJiDyCNyl8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724641200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 METAL GEAR SOLID 2: SONS OF LIBERTY 】今回もステルスステルス！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_uR38jxZ1eA",
         "picture": "https://i.ytimg.com/vi/_uR38jxZ1eA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724641200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオブラザー3 】マリオ3に初挑戦！今までと雰囲気が違う...！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Dh42Eg8f1AU",
-        "picture": "https://i.ytimg.com/vi/Dh42Eg8f1AU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=07on0LHpWQ0",
+        "picture": "https://i.ytimg.com/vi/07on0LHpWQ0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PEJUANG SENIN】#82 AUGUST IS ALMOST OVER!!!!!!!【Kaela\u0026#39;s Monday Warrior】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724642100,
+        "title": "【Minecraft】last trial chambers arc.... maybe (?) 🔨【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
