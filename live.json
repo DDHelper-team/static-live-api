@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QqTedTYvy1A",
-        "picture": "https://i.ytimg.com/vi/QqTedTYvy1A/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8THakudOwAs",
+        "picture": "https://i.ytimg.com/vi/8THakudOwAs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：椎名唯華様～【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724709600,
+        "title": "【 #朝こよ 】もう8月最後⁉な火曜日の朝も朝こよ～っ☀ #195 【博衣こより/hololive】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=c_sHtIEooNI",
         "picture": "https://i.ytimg.com/vi/c_sHtIEooNI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724670000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VALORANT】ゆるっ♪女子会カスタムに潜入だ～～【ホロライブ / ロボ子さん】"
     },
     {
@@ -75,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724677200,
         "title": "【あくありうむ。 | AQUARIUM.】Reading Chapter 3(FINAL)! あくありうむ。全コンプ〜チャプター3〜【hololive ID | Anya Melfissa】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rSJiDyCNyl8",
-        "picture": "https://i.ytimg.com/vi/rSJiDyCNyl8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 METAL GEAR SOLID 2: SONS OF LIBERTY 】今回もステルスステルス！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -200,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ggMrmdR4RLk",
         "picture": "https://i.ytimg.com/vi/ggMrmdR4RLk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724670000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VALORANT】#女子VALOカスタム ！！ホロチーム勝っちゃお～っ【ホロライブ/紫咲シオン】"
     },
     {
@@ -222,23 +211,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=O2g1QxuY4X8",
         "picture": "https://i.ytimg.com/vi/O2g1QxuY4X8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724670000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M.】Monday Malam Malas : Malam Malah Malas【Ayunda Risu】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=u0H5ctcCL88",
         "picture": "https://i.ytimg.com/vi/u0H5ctcCL88/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724670000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VALORANT】めいっぱいたのしむんだああああああ　#女子VALOカスタム【百鬼あやめ/ホロライブ】"
     },
     {
@@ -266,23 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PIoVY8xcGyY",
         "picture": "https://i.ytimg.com/vi/PIoVY8xcGyY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724670000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#女子VALOカスタム】みんなでVALORANTやるぞおおおお！！！！【湊あくあ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=c9MiAkCMMj4",
         "picture": "https://i.ytimg.com/vi/c9MiAkCMMj4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724670000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【初心者スト6 day3】  学んだことをヨガお披露目！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724673600,
         "title": "【 7days to die 】 #ホロ7DTD 強くなる‼第二拠点探ししたりするぜ～～～‼🔥【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ptSvtakDLMo",
+        "picture": "https://i.ytimg.com/vi/ptSvtakDLMo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 歌枠 】デビュー1000日記念！いつも本当にありがとう！ 【ホロライブ/沙花叉クロヱ】"
     }
 ]
