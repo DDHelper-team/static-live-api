@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DPrFCikvAfg",
         "picture": "https://i.ytimg.com/vi/DPrFCikvAfg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724670000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【New Single】「おかえりなさい」発売記念ネットサイン会【ホロライブ/ときのそら】"
     },
     {
@@ -306,5 +306,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 歌枠 】デビュー1000日記念！いつも本当にありがとう！ 【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DSoXh76XsII",
+        "picture": "https://i.ytimg.com/vi/DSoXh76XsII/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724754600,
+        "title": "【Minecraft】潜入！#ドズル社ランド2024　！で遊んでくるよ【律可/リモーネ先生/ホロスターズ】"
     }
 ]
