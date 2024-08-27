@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DSoXh76XsII",
         "picture": "https://i.ytimg.com/vi/DSoXh76XsII/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724754600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】潜入！#ドズル社ランド2024　！で遊んでくるよ【律可/リモーネ先生/ホロスターズ】"
     },
     {
@@ -152,17 +152,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724758200,
         "title": "【#ReGLOSS歌枠リレー】課題曲ちゃれんじ！楽しく歌おう！【轟はじめ/ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HQVSoHf_QLQ",
-        "picture": "https://i.ytimg.com/vi/HQVSoHf_QLQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 語り愛 】Startend最後の配信、ましゅまろ食べながらいつもみたいな光景【常闇トワ・星街すいせい・湊あくあ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -319,17 +308,6 @@
         "title": "【hololive English 2nd Concert #BreakingDimensions】 Moom Back On Stage !!!"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lSVu10cfCzU",
-        "picture": "https://i.ytimg.com/vi/lSVu10cfCzU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ReGLOSS歌枠リレー 】トップバッターらでん！テンション上げてこ～！！！【儒烏風亭らでん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": true,
@@ -460,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724787000,
         "title": "【BLACK MYTH: WUKONG】making sure all dragons go extinct【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hsPbslvPFv0",
+        "picture": "https://i.ytimg.com/vi/hsPbslvPFv0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724763600,
+        "title": "【Minecraft】フレポルでトライアルチャンバー行ってみる！【不知火フレア/尾丸ポルカ/ホロライブ】"
     }
 ]
