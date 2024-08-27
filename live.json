@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VFRxfVtSWNw",
-        "picture": "https://i.ytimg.com/vi/VFRxfVtSWNw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_IKbW_C0fc8",
+        "picture": "https://i.ytimg.com/vi/_IKbW_C0fc8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ReGLOSS歌枠リレー】青くんとキミの関係って、多分…メイビー…ハッ！？【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724763600,
+        "title": "イケメンかるた【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
@@ -284,17 +284,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724814000,
         "title": "【hololive English 2nd Concert #BreakingDimensions】 Moom Back On Stage !!!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Hy3DWSCEz_g",
-        "picture": "https://i.ytimg.com/vi/Hy3DWSCEz_g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【47都道府県答えて】おっぱいGET！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
