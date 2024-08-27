@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rxb_DY6BY0o",
         "picture": "https://i.ytimg.com/vi/rxb_DY6BY0o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724766300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】Nintendo Direct  2024.8.27 ニンダイ一緒に観よう！！！【博衣こより/ホロライブ】"
     },
     {
@@ -231,25 +231,14 @@
         "title": "【hololive English 2nd Concert #BreakingDimensions】 Moom Back On Stage !!!"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kvXgRwl5Tck",
-        "picture": "https://i.ytimg.com/vi/kvXgRwl5Tck/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Content Warning】地下世界でホラー動画を撮影してバズってみよう📷【 獅子神レオナ/Re:AcT 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BiZXrwp2eLo",
         "picture": "https://i.ytimg.com/vi/BiZXrwp2eLo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724766300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #はなふが 】Indie World\u0026amp;Nintendo Direct ソフトメーカーラインナップ同時視聴【荒咬オウガ 花咲みやび　夜十神封魔　/ホロスターズ】"
     },
     {
@@ -262,17 +251,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "活俠傳｜我唐門小賤人嘴炮哪有輸的道理【Healing希靈/VTuber】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FbrDMIkQk88",
-        "picture": "https://i.ytimg.com/vi/FbrDMIkQk88/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Chained Together 】真・真・最終回！うるさい２人が共に鎖で繋がれ頂上を目指す９日目🔥⛓【#みこスバ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
