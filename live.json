@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fzojx27z2Go",
         "picture": "https://i.ytimg.com/vi/fzojx27z2Go/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724760000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ReGLOSS歌枠リレー 】課題曲を歌っていくよ🔥【音乃瀬奏】#hololiveDEV_IS #ReGLOSS #shorts"
     },
     {
@@ -121,36 +121,25 @@
         "title": "【ASMR/囁き】納涼！ダジャレASMR【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_8LojsbmAZ8",
-        "picture": "https://i.ytimg.com/vi/_8LojsbmAZ8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ReGLOSS歌枠リレー】課題曲ちゃれんじ！楽しく歌おう！【轟はじめ/ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q-zuKVlfX-A",
         "picture": "https://i.ytimg.com/vi/q-zuKVlfX-A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724760000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MERCH REVIEW】THERE\u0026#39;S STILL SO MANY SUBMISSIONS!! PART 2 #OllieLoveshololive【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JYhxX1GMGQw",
         "picture": "https://i.ytimg.com/vi/JYhxX1GMGQw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724760000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【孵道】振り返らずに帰るだけ【獅白ぼたん/ホロライブ】"
     },
     {
@@ -205,7 +194,7 @@
         "picture": "https://i.ytimg.com/vi/qiUzAJe4BYE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1724760000,
+        "timestamp": 1724763600,
         "title": "【ホロライブお宝マウンテン】ホロメンのモノマネをするゾ！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -284,17 +273,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Content Warning】地下世界でホラー動画を撮影してバズってみよう📷【 獅子神レオナ/Re:AcT 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WZQ110Fz4V8",
-        "picture": "https://i.ytimg.com/vi/WZQ110Fz4V8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Bathhouse | 地獄銭湯 Restored Edition】no more rude customers please!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -385,25 +363,14 @@
         "title": "【#無期迷途 】第十章劇情展開~聽說難爆...園長可以走到第幾關呢...(喉嚨還沒完全好，請見諒【#遊戲個人勢 / Fingla】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Cd6-N6suRd0",
-        "picture": "https://i.ytimg.com/vi/Cd6-N6suRd0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724760000,
-        "title": "【 メン限同時視聴 】神アニメ「DEATH NOTE -デスノート-」を見る。11話~【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wqruoJj2QWE",
         "picture": "https://i.ytimg.com/vi/wqruoJj2QWE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724760000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】久々のあつ森でレジャーを楽しむ！！【ホロライブ/ときのそら】"
     },
     {
@@ -438,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724767200,
         "title": "【雑談】スタンプ作りながらお話ししよ～～【 ホロライブ / 大神ミオ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=BV9JeOjnvmM",
+        "picture": "https://i.ytimg.com/vi/BV9JeOjnvmM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ボドゲ】２次会でボードゲームをやろう！！ 【岸堂天真/花咲みやび/アステル/奏手イヅル/水無世燐央/羽継烏有/ホロスターズ】"
     }
 ]
