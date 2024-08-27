@@ -110,17 +110,6 @@
         "title": "配信スケジュール"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pgSh6JdAKj8",
-        "picture": "https://i.ytimg.com/vi/pgSh6JdAKj8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】ホロスタハードコアマイクラ 【 奏手イヅル アステル 岸堂天真 水無世燐央 羽継烏有 / ホロスターズ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "islive": false,
@@ -363,28 +352,6 @@
         "title": "【スト6 day2】 SLEEP FIGHTER 🔥エレガントだろ!?どりゃああ！　合流は１３時予定　 #エレPON 【ホロライブ / ロボ子さん】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ccLFm9swrxs",
-        "picture": "https://i.ytimg.com/vi/ccLFm9swrxs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】エンドラハードコア、1人でも死んだら即全員終了【岸堂天真/奏手イヅル/アステル/羽継烏有/水無世燐央/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=U84qNDJUJXc",
-        "picture": "https://i.ytimg.com/vi/U84qNDJUJXc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】ホロスターズマインクラフトハードコアチャレンジ１回目 / アステル 奏手イヅル 岸堂天真 羽継烏有 水無世燐央"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -449,5 +416,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724763600,
         "title": "【Minecraft/#フレポルマイクラ】フレポル再結成トライアルチャンバーチャレンジ【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HIklBsKyEAM",
+        "picture": "https://i.ytimg.com/vi/HIklBsKyEAM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724761800,
+        "title": "【歌枠】ちょっと早めの歌枠！！-Midnight station -73 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8Y0hdoUEaqA",
+        "picture": "https://i.ytimg.com/vi/8Y0hdoUEaqA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724767200,
+        "title": "【雑談】スタンプ作りながらお話ししよ～～【 ホロライブ / 大神ミオ 】"
     }
 ]
