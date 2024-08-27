@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=9adTmjMGifA",
-        "picture": "https://i.ytimg.com/vi/9adTmjMGifA/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=izMrbcgKVtY",
+        "picture": "https://i.ytimg.com/vi/izMrbcgKVtY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724770800,
-        "title": "配信スケジュール"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】ホロメンへ最後のお手紙をかく！【湊あくあ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -176,17 +176,6 @@
         "title": "【hololive English 2nd Concert #BreakingDimensions】 Moom Back On Stage !!!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BiZXrwp2eLo",
-        "picture": "https://i.ytimg.com/vi/BiZXrwp2eLo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #はなふが 】Indie World\u0026amp;Nintendo Direct ソフトメーカーラインナップ同時視聴【荒咬オウガ 花咲みやび　夜十神封魔　/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": true,
@@ -281,7 +270,7 @@
         "link": "https://www.youtube.com/watch?v=f3mpZ7FjQpI",
         "picture": "https://i.ytimg.com/vi/f3mpZ7FjQpI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1724770800,
         "title": "【Minecraft】あくたんに見せたいものがある！ぺこ！【ホロライブ/兎田ぺこら】"
     }
