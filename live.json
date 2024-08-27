@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l9EWB6lguKI",
         "picture": "https://i.ytimg.com/vi/l9EWB6lguKI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724739300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】ランクマに潜ったりしながらぺらぺら【アルランディス/ホロスターズ】"
     },
     {
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724752800,
         "title": "【Sacabambaspis Chronicle】Hehe【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kvXgRwl5Tck",
+        "picture": "https://i.ytimg.com/vi/kvXgRwl5Tck/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724756400,
+        "title": "【Content Warning】地下世界でホラー動画を撮影してバズってみよう📷【 獅子神レオナ/Re:AcT 】"
     }
 ]
