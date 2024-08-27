@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pkj5rRF_uBc",
         "picture": "https://i.ytimg.com/vi/pkj5rRF_uBc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724727600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 METAL GEAR SOLID 2: SONS OF LIBERTY 】ポンコツルイ電はステルスできるのか！？【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -171,7 +171,7 @@
         "link": "https://www.youtube.com/watch?v=myHICFmzyjs",
         "picture": "https://i.ytimg.com/vi/myHICFmzyjs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1724727600,
         "title": "【 スーパーマリオブラザー3 】マリオ3に初挑戦！色んな敵がいる...！！！【 領国つかさ / すぺしゃりて 】"
     },
@@ -317,5 +317,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724792400,
         "title": "I MISSED this game | Stardew Valley"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mmGWfEpJQC8",
+        "picture": "https://i.ytimg.com/vi/mmGWfEpJQC8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724814000,
+        "title": "【hololive English 2nd Concert #BreakingDimensions】IdolRyShining in New York!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y6hCUcleJyU",
+        "picture": "https://i.ytimg.com/vi/Y6hCUcleJyU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724814000,
+        "title": "≪hololive English 2nd Concert - #BreakingDimensions - ≫ IDOL RAT IS READY TO BURN UP THE STAGE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hC-diY3EKmo",
+        "picture": "https://i.ytimg.com/vi/hC-diY3EKmo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724814000,
+        "title": "【hololive English 2nd Concert #BreakingDimensions】 Moom Back On Stage !!!"
     }
 ]
