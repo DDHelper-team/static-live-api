@@ -62,7 +62,7 @@
         "picture": "https://i.ytimg.com/vi/6vcHFV1ehFE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1724749200,
+        "timestamp": 1724835600,
         "title": "【WAITING】BREAKING DIMENSIONS!!!!!!!!!!!!! #kfp #キアライブ"
     },
     {
@@ -123,23 +123,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pgSh6JdAKj8",
         "picture": "https://i.ytimg.com/vi/pgSh6JdAKj8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724749200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】ホロスタハードコアマイクラ 【 奏手イヅル アステル 岸堂天真 水無世燐央 羽継烏有 / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AodjEQbIJGA",
         "picture": "https://i.ytimg.com/vi/AodjEQbIJGA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724749200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【コマンドー同時視聴】3日連続同時視聴～ホロメン出入り自由/2日目18時の部～【尾丸ポルカ/ホロライブ】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HQVSoHf_QLQ",
         "picture": "https://i.ytimg.com/vi/HQVSoHf_QLQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724749200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 語り愛 】Startend最後の配信、ましゅまろ食べながらいつもみたいな光景【常闇トワ・星街すいせい・湊あくあ】"
     },
     {
@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WZQ110Fz4V8",
         "picture": "https://i.ytimg.com/vi/WZQ110Fz4V8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724749200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Bathhouse | 地獄銭湯 Restored Edition】no more rude customers please!"
     },
     {
@@ -453,12 +453,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ccLFm9swrxs",
         "picture": "https://i.ytimg.com/vi/ccLFm9swrxs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724749200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】エンドラハードコア、1人でも死んだら即全員終了【岸堂天真/奏手イヅル/アステル/羽継烏有/水無世燐央/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=U84qNDJUJXc",
+        "picture": "https://i.ytimg.com/vi/U84qNDJUJXc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】ホロスターズマインクラフトハードコアチャレンジ１回目 / アステル 奏手イヅル 岸堂天真 羽継烏有 水無世燐央"
     }
 ]
