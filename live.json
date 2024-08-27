@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0v00EUGyzK8",
         "picture": "https://i.ytimg.com/vi/0v00EUGyzK8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724787000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【BLACK MYTH: WUKONG】making sure all dragons go extinct【Dokibird】"
     },
     {
