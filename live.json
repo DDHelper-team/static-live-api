@@ -57,11 +57,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
         "channellink": "https://www.youtube.com/channel/UC1opHUrw8rvnsadT-iGp7Cg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=izMrbcgKVtY",
         "picture": "https://i.ytimg.com/vi/izMrbcgKVtY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Minecraft】ホロメンへ最後のお手紙をかく！【湊あくあ/ホロライブ】"
     },
@@ -251,16 +251,5 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VALORANT】ねおぽるてふるぱ / アステル ToyToy ぺんぺ ｴｲﾃｨ しずく様"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=f3mpZ7FjQpI",
-        "picture": "https://i.ytimg.com/vi/f3mpZ7FjQpI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】あくたんに見せたいものがある！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
