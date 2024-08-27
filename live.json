@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mn5jTA4g7mM",
         "picture": "https://i.ytimg.com/vi/mn5jTA4g7mM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724716800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】who do i main【Dokibird】"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1724799600,
         "title": "HELLO NEW YORK!!!!! MAKE SOME NOISE!!!! #hololiveSTAGE24 #BreakingDimensions"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qiUzAJe4BYE",
+        "picture": "https://i.ytimg.com/vi/qiUzAJe4BYE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1724760000,
+        "title": "【ホロライブお宝マウンテン】ホロメンのモノマネをするゾ！【角巻わため/ホロライブ４期生】"
     }
 ]
