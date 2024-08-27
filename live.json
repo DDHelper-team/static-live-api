@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_8LojsbmAZ8",
         "picture": "https://i.ytimg.com/vi/_8LojsbmAZ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724758200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ReGLOSS歌枠リレー】課題曲ちゃれんじ！楽しく歌おう！【轟はじめ/ReGLOSS】"
     },
     {
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oVGVe5vmidw",
         "picture": "https://i.ytimg.com/vi/oVGVe5vmidw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1724758200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "活俠傳｜我唐門小賤人嘴炮哪有輸的道理【Healing希靈/VTuber】"
     },
     {
