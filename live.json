@@ -130,5 +130,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725447600,
         "title": "【 告知 】嬉しい告知あります！！！！！！にぇ！！！！！🌸【ホロライブ/さくらみこ】"
+    },
+    {
+        "avatar": null,
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "evil euesday"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dRCvSHBTvSk",
+        "picture": "https://i.ytimg.com/vi/dRCvSHBTvSk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725408000,
+        "title": "I SEE FIRE... | ENigmatic Recollection Ch. 1"
     }
 ]
