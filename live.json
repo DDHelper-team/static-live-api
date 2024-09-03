@@ -88,17 +88,6 @@
         "title": "【Honor of Kings】101: learning HoK 321【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Uf4TMDRxkAs",
-        "picture": "https://i.ytimg.com/vi/Uf4TMDRxkAs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Apex】(觀眾場) 就看是你狠還是我菜 總之這個苦茶是喝定了【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "islive": true,
@@ -141,17 +130,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】9月、LIVEが近づく。 sing and talk【獅子神レオナ/Re:AcT】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Jb-MYNCq3SA",
-        "picture": "https://i.ytimg.com/vi/Jb-MYNCq3SA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DESIGNING ANIMAL OC (???)】IOREINE PLATYPUSVERSE EXPANSION【Pavolia Reine/hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -218,5 +196,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725449400,
         "title": "孵道 をやる【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=72SJQRQ7qi0",
+        "picture": "https://i.ytimg.com/vi/72SJQRQ7qi0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725404400,
+        "title": "【ENRECO Minecraft RP】The Punishment"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1eOME6DuJK0",
+        "picture": "https://i.ytimg.com/vi/1eOME6DuJK0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725418800,
+        "title": "【ENigmatic Recollection】death! diner! divorce! #calliolive"
     }
 ]
