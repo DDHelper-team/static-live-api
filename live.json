@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qdv4Ml9IYHQ",
         "picture": "https://i.ytimg.com/vi/qdv4Ml9IYHQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725355800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Black Myth: Wukong -悟空-】完全にりかいした猿 / アステル"
     }
 ]
