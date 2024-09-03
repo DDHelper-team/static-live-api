@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eAdmDEi56yM",
         "picture": "https://i.ytimg.com/vi/eAdmDEi56yM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725400800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "This kirin is reading superchats!"
     },
     {
