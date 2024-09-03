@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
         "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=72SJQRQ7qi0",
         "picture": "https://i.ytimg.com/vi/72SJQRQ7qi0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725404400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENRECO Minecraft RP】The Punishment"
     },
     {
