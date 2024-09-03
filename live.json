@@ -132,17 +132,6 @@
         "title": "【伝説のホラゲー初見プレイ】DeathForest ～森からの脱出～【増殖】恐怖の森に飛び込む…【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YACS2ZsjfBw",
-        "picture": "https://i.ytimg.com/vi/YACS2ZsjfBw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE】LET\u0026#39;S GET SOME CLEARS BEFORE UPDATE COMES 【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": true,
@@ -273,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725368400,
         "title": "【Minecraft】ホロ鯖でまったり～そろそろ自分の家つくる？え遅い？【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=b8A9zEknBGI",
+        "picture": "https://i.ytimg.com/vi/b8A9zEknBGI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725368400,
+        "title": "【お宝マウンテン】あのゲームで遊んでみるわよ！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LTy6seLgcm8",
+        "picture": "https://i.ytimg.com/vi/LTy6seLgcm8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725364800,
+        "title": "【Honor of Kings】udah lama gak main apakah skill issue balik?【holoID】"
     }
 ]
