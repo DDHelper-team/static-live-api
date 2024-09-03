@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ay2Fc1-Mo8A",
-        "picture": "https://i.ytimg.com/vi/ay2Fc1-Mo8A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ウツロマユ - Hollow Cocoon -】リアル過ぎる和風ホラーゲーム【律可/ホロスターズ】#りつすた"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": true,
@@ -46,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AeVJeCYrRBs",
-        "picture": "https://i.ytimg.com/vi/AeVJeCYrRBs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=k8oD9SgYu7Q",
+        "picture": "https://i.ytimg.com/vi/k8oD9SgYu7Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 黑神話：悟空 】救救主播，我陷入啦🙉   | #黑神話悟空   #黑神话悟空  #vtuber"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725454800,
+        "title": "【 黑神話：悟空 】嗚ㄍㄧㄍㄧ 使用金箍棒！🙉   | #黑神話悟空   #黑神话悟空  #vtuber"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
@@ -141,5 +130,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725418800,
         "title": "【ENigmatic Recollection】death! diner! divorce! #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=921IoiFLpcY",
+        "picture": "https://i.ytimg.com/vi/921IoiFLpcY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725447600,
+        "title": "【告知あり】プロゲーマーの立川さんとひぐちさんにお話を聞きたい【荒咬オウガ /ホロスターズ】"
     }
 ]
