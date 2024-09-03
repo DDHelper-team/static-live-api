@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YACS2ZsjfBw",
         "picture": "https://i.ytimg.com/vi/YACS2ZsjfBw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725355800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOCURE】LET\u0026#39;S GET SOME CLEARS BEFORE UPDATE COMES 【Kureiji Ollie】"
     },
     {
