@@ -132,7 +132,7 @@
         "title": "【 告知 】嬉しい告知あります！！！！！！にぇ！！！！！🌸【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -151,5 +151,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725408000,
         "title": "I SEE FIRE... | ENigmatic Recollection Ch. 1"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GKBeOXWiY1c",
+        "picture": "https://i.ytimg.com/vi/GKBeOXWiY1c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725411600,
+        "title": "【#BreakingDimensions CONCERT AFTERPARTY】our dreams came true thanks to you 🐾 【FUWAMOCO】"
     }
 ]
