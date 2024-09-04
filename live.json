@@ -286,17 +286,6 @@
         "title": "【】【ホロライブ/大空スバル】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0yIrVQNmcBU",
-        "picture": "https://i.ytimg.com/vi/0yIrVQNmcBU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #癒月ちょこ６周年 】６周年新衣装✨重大告知ありっ！【ホロライブ/癒月ちょこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": true,
@@ -339,5 +328,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725458400,
         "title": "【 #ホロ7DTD 】２日分だけ追加作業～～～～！！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bhA3yKAYk4Y",
+        "picture": "https://i.ytimg.com/vi/bhA3yKAYk4Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725458400,
+        "title": "【】せぶんいれぶあああああああああああああああん！【】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=duQKt2cQXDs",
+        "picture": "https://i.ytimg.com/vi/duQKt2cQXDs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725458400,
+        "title": "【 #雑談 / taking】台湾のお菓子食べてまったりお茶会♪【#新人vtuber 】"
     }
 ]
