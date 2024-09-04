@@ -13,35 +13,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=k8oD9SgYu7Q",
         "picture": "https://i.ytimg.com/vi/k8oD9SgYu7Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725454800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 黑神話：悟空 】嗚ㄍㄧㄍㄧ 使用金箍棒！🙉   | #黑神話悟空   #黑神话悟空  #vtuber"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y6jcHydbZjk",
-        "picture": "https://i.ytimg.com/vi/y6jcHydbZjk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "孵道 をやる【 奏手イヅル / ホロスターズ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OFurVANnh1w",
-        "picture": "https://i.ytimg.com/vi/OFurVANnh1w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 リンクの冒険 】激ムズアクションアドベンチャー!? #最終回 【 猫又おかゆ/ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -139,7 +117,7 @@
         "picture": "https://i.ytimg.com/vi/GB9B4AzSpbA/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1725454800,
+        "timestamp": 1725456600,
         "title": "【LETHAL COMPANY】who let the dogs out【Pavolia Reine/Anya/Ollie/hololiveID 2nd gen】"
     },
     {
@@ -161,19 +139,8 @@
         "picture": "https://i.ytimg.com/vi/ZsahjHZ4OHU/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1725454800,
+        "timestamp": 1725456600,
         "title": "【LETHAL COMPANY】HOLORO COLLAB!! OBJECTIVE? TITAN (optional)【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=i9fdM4C7yRM",
-        "picture": "https://i.ytimg.com/vi/i9fdM4C7yRM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725454800,
-        "title": "【Manor Lords】i want to be a lord!!! 【hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -205,7 +172,7 @@
         "picture": "https://i.ytimg.com/vi/nIglApnZ_kA/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1725454800,
+        "timestamp": 1725456600,
         "title": "【Lethal Company】HOLORO COMPANY IS BACK!【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
@@ -297,17 +264,6 @@
         "title": "【 #雑談 / taking】台湾のお菓子食べてまったりお茶会♪【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7wxXmiLhgAg",
-        "picture": "https://i.ytimg.com/vi/7wxXmiLhgAg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Getting Over It】予約投稿より先に配信で告知させてくれええええええええええええええ！！【ホロライブ/白上フブキ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "islive": true,
@@ -321,12 +277,34 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xuDRYv_aHEQ",
         "picture": "https://i.ytimg.com/vi/xuDRYv_aHEQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725454800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【飲酒雑談】チャンネル登録者65万人突破感謝！！の雑談【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Zxwot6rZiqY",
+        "picture": "https://i.ytimg.com/vi/Zxwot6rZiqY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725458400,
+        "title": "#2【Coffee Talk】コーヒーは甘口でお願いします!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=HHYXEtYc9p8",
+        "picture": "https://i.ytimg.com/vi/HHYXEtYc9p8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VALORANT】ねおぽるてふるぱ２ / アステル 天帝先生 カザリ君 テンくん あむ様"
     }
 ]
