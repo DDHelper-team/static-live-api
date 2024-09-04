@@ -151,5 +151,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "neuro karaoke time"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gtOGWDKwQfY",
+        "picture": "https://i.ytimg.com/vi/gtOGWDKwQfY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725505200,
+        "title": "【ENigmatic Recollection】Dungeons Galore #ENreco"
     }
 ]
