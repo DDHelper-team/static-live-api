@@ -112,11 +112,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=GB9B4AzSpbA",
         "picture": "https://i.ytimg.com/vi/GB9B4AzSpbA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【LETHAL COMPANY】who let the dogs out【Pavolia Reine/Anya/Ollie/hololiveID 2nd gen】"
     },
@@ -141,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【LETHAL COMPANY】HOLORO COLLAB!! OBJECTIVE? TITAN (optional)【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2H1Xf9Ve8eA",
-        "picture": "https://i.ytimg.com/vi/2H1Xf9Ve8eA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ELDEN RING】#19 火山館再び！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
