@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GB9B4AzSpbA",
         "picture": "https://i.ytimg.com/vi/GB9B4AzSpbA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725456600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【LETHAL COMPANY】who let the dogs out【Pavolia Reine/Anya/Ollie/hololiveID 2nd gen】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZsahjHZ4OHU",
         "picture": "https://i.ytimg.com/vi/ZsahjHZ4OHU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725456600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【LETHAL COMPANY】HOLORO COLLAB!! OBJECTIVE? TITAN (optional)【Kureiji Ollie】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nIglApnZ_kA",
         "picture": "https://i.ytimg.com/vi/nIglApnZ_kA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725456600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Lethal Company】HOLORO COMPANY IS BACK!【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
@@ -220,17 +220,6 @@
         "title": "【 #ホロ7DTD 】２日分だけ、作業に入ります！【大神ミオ視点】"
     },
     {
-        "channel": "https://www.youtube.com/@KoboKanaeru",
-        "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Rreq6EEVZqU",
-        "picture": "https://i.ytimg.com/vi/Rreq6EEVZqU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Honor of Kings】TAUNTING MUSUH PAKE VOICE OVER KUCH JUSTIN 😁 #VENIVIDIKOCI #BersamaHOK"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -264,17 +253,6 @@
         "title": "【 #雑談 / taking】台湾のお菓子食べてまったりお茶会♪【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HRGToaBdoZ4",
-        "picture": "https://i.ytimg.com/vi/HRGToaBdoZ4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター６】スト6、教えたるかぁ【影山シエン/羽継烏有/柚原いづみ/星空きらめ】"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
         "islive": true,
@@ -306,5 +284,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VALORANT】ねおぽるてふるぱ２ / アステル 天帝先生 カザリ君 テンくん あむ様"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=kgPjROhAW0k",
+        "picture": "https://i.ytimg.com/vi/kgPjROhAW0k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Manor Lords】i want to be a lord!!! 【hololiveID】"
     }
 ]
