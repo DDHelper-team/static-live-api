@@ -44,17 +44,6 @@
         "title": "【ストリートファイター6】う～～～～～ん！！首364°ひねりながらランクマッチ【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=T3xNKxtGp-Y",
-        "picture": "https://i.ytimg.com/vi/T3xNKxtGp-Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Bathhouse | 地獄銭湯 Restored Edition】おまるん、見守りは頼んだ【 雪花ラミィ・尾丸ポルカ /ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "islive": false,
@@ -145,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=duQKt2cQXDs",
-        "picture": "https://i.ytimg.com/vi/duQKt2cQXDs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zU94ntM19lQ",
+        "picture": "https://i.ytimg.com/vi/zU94ntM19lQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #雑談 / taking】台湾のお菓子食べてまったりお茶会♪【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725544800,
+        "title": "【歌枠 / Singing】アニソン限定歌枠♪【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
@@ -174,17 +163,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "#2【Coffee Talk】コーヒーは甘口でお願いします!!【花咲みやび/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HHYXEtYc9p8",
-        "picture": "https://i.ytimg.com/vi/HHYXEtYc9p8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VALORANT】ねおぽるてふるぱ２ / アステル 天帝先生 カザリ君 テンくん あむ様"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
@@ -218,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725530400,
         "title": "ホロの謎解きをししらみでやってみる！hololive production ～6周年からの脱出～ 【獅白ぼたん・雪花ラミィ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5o4TerH2bVI",
+        "picture": "https://i.ytimg.com/vi/5o4TerH2bVI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725498000,
+        "title": "【ENigmatic Recollection】PRINCESS FARMER KOSEKI BIJOU BLOODFLAME PANTHERA EVERGREEN #ENreco"
     }
 ]
