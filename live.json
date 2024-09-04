@@ -150,7 +150,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "neuro karaoke time"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -173,5 +173,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725537600,
         "title": "【】#ホロ7DTD さいしゅうかい！【】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BP_EhQKfgqY",
+        "picture": "https://i.ytimg.com/vi/BP_EhQKfgqY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725487200,
+        "title": "【STREET FIGHTER 6 SAJAM SLAM】round 1【Dokibird】"
     }
 ]
