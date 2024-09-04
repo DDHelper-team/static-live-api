@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=N3v-MJXHQ0w",
         "picture": "https://i.ytimg.com/vi/N3v-MJXHQ0w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725415200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENigmatic Recollection】Into the Frying Pan We Go! Day 4"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KE-Qhw2T1CY",
         "picture": "https://i.ytimg.com/vi/KE-Qhw2T1CY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725415200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENigmatic Recollection】 Never Too Late!!! 【#3】"
     },
     {
@@ -185,28 +185,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725418815,
         "title": "【原神】#7 | 完全初見！留雲借風真君って言いたくなるね🦢【緋月ゆい/ネオポルテ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=E2JxBxhda9I",
-        "picture": "https://i.ytimg.com/vi/E2JxBxhda9I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ENReco Day 4】 💰 BONES FOR SALE 🎰 LOTTERY DRAWING HAPPENING"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=PUlE34rNV-g",
-        "picture": "https://i.ytimg.com/vi/PUlE34rNV-g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1725411600,
-        "title": "【ENigmatic Recollection】 Double Dungeon Day !! | Day 4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
@@ -229,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725451200,
         "title": "【 STREET FIGHTER 6】超久しぶりなのでガイル筋思い出し！！【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=PUlE34rNV-g",
+        "picture": "https://i.ytimg.com/vi/PUlE34rNV-g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ENigmatic Recollection】 Double Dungeon Day !! | Day 4"
     }
 ]
