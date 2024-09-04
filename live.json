@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=N3v-MJXHQ0w",
-        "picture": "https://i.ytimg.com/vi/N3v-MJXHQ0w/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BlDRaNhYZxk",
+        "picture": "https://i.ytimg.com/vi/BlDRaNhYZxk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ENigmatic Recollection】Into the Frying Pan We Go! Day 4"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725501600,
+        "title": "【ENigamatic Recollection】I Can\u0026#39;t Recall the Dates in Day 5"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -112,11 +112,11 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=dRCvSHBTvSk",
         "picture": "https://i.ytimg.com/vi/dRCvSHBTvSk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "I SEE FIRE... | ENigmatic Recollection Ch. 1"
     },
@@ -152,17 +152,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725451200,
         "title": "【エリート陰陽師みこ】はじめての弾幕STGだにぇ！【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KE-Qhw2T1CY",
-        "picture": "https://i.ytimg.com/vi/KE-Qhw2T1CY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ENigmatic Recollection】 Never Too Late!!! 【#3】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qKIIZr3SmLs",
         "picture": "https://i.ytimg.com/vi/qKIIZr3SmLs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725426000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 VALORANT】いっぱい撃つ【アルランディス/ホロスターズ】"
     }
 ]
