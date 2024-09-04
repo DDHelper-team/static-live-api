@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2ngaaV-e5Fs",
         "picture": "https://i.ytimg.com/vi/2ngaaV-e5Fs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725436800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【アソビ大全】五目並べ耐久界の王子、参ります！ReGLOSSちゃんには負けない！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -218,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725454800,
         "title": "【LETHAL COMPANY】HOLORO COLLAB!! OBJECTIVE? TITAN (optional)【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ltpxX0F-yHw",
+        "picture": "https://i.ytimg.com/vi/ltpxX0F-yHw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725444000,
+        "title": "【オンライン謎解き】hololive production ～6周年からの脱出～ 解いていきますか！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=i9fdM4C7yRM",
+        "picture": "https://i.ytimg.com/vi/i9fdM4C7yRM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725454800,
+        "title": "【Manor Lords】i want to be a lord!!! 【hololiveID】"
     }
 ]
