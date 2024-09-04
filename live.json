@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y6jcHydbZjk",
         "picture": "https://i.ytimg.com/vi/y6jcHydbZjk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725449400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "孵道 をやる【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -198,17 +198,6 @@
         "title": "【LETHAL COMPANY】HOLORO COLLAB!! OBJECTIVE? TITAN (optional)【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ltpxX0F-yHw",
-        "picture": "https://i.ytimg.com/vi/ltpxX0F-yHw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【オンライン謎解き】hololive production ～6周年からの脱出～ 解いていきますか！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "islive": false,
@@ -229,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ELDEN RING】#19 火山館再び！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CtvAXoHGl1g",
-        "picture": "https://i.ytimg.com/vi/CtvAXoHGl1g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【オリジナル曲】たくさんあるので歌います～7日の告知も♪～【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
