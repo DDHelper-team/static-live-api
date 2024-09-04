@@ -55,17 +55,6 @@
         "title": "【歌枠 / Singing】アニソン限定歌枠♪【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Zxwot6rZiqY",
-        "picture": "https://i.ytimg.com/vi/Zxwot6rZiqY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#2【Coffee Talk】コーヒーは甘口でお願いします!!【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -184,5 +173,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725487200,
         "title": "【STREET FIGHTER 6 SAJAM SLAM】round 1【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iy0fMrzhwOY",
+        "picture": "https://i.ytimg.com/vi/iy0fMrzhwOY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725494400,
+        "title": "THE FINAL DUNGEON... | ENigmatic Recollection Ch. 1"
     }
 ]
