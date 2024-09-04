@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1eOME6DuJK0",
         "picture": "https://i.ytimg.com/vi/1eOME6DuJK0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725418800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENigmatic Recollection】death! diner! divorce! #calliolive"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9M65JU6Ip_Q",
         "picture": "https://i.ytimg.com/vi/9M65JU6Ip_Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725418815,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#7 | 完全初見！留雲借風真君って言いたくなるね🦢【緋月ゆい/ネオポルテ】"
     },
     {
