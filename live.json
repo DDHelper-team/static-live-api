@@ -178,11 +178,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=Ei6dqFkj3hM",
         "picture": "https://i.ytimg.com/vi/Ei6dqFkj3hM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【スト6 】 ワールドツアーで師匠ができるって聞いたんですが本当～！？？ 【ホロライブ / ロボ子さん】"
     },
