@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
         "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3dZAYipjihw",
         "picture": "https://i.ytimg.com/vi/3dZAYipjihw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725528600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Whispering Lane: Horror】日本語吹き替え対応の廃屋で肝試しするホラーゲーム"
     },
     {
@@ -306,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725541200,
         "title": "【Subnautica】Exploring The Sea Again!【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dgMYynGBwXk",
+        "picture": "https://i.ytimg.com/vi/dgMYynGBwXk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725534000,
+        "title": "【SING】今日は鼻ズビですが歌いたいのは止められない！！！【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3I_eDi3eemY",
+        "picture": "https://i.ytimg.com/vi/3I_eDi3eemY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725537600,
+        "title": "【加班練歌台】每天的幾點不能講笑話？一點，因為一點都不好笑【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
     }
 ]
