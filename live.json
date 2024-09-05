@@ -66,17 +66,6 @@
         "title": "ホロの謎解きをししらみでやってみる！hololive production ～6周年からの脱出～ 【獅白ぼたん・雪花ラミィ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5o4TerH2bVI",
-        "picture": "https://i.ytimg.com/vi/5o4TerH2bVI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ENigmatic Recollection】PRINCESS FARMER KOSEKI BIJOU BLOODFLAME PANTHERA EVERGREEN #ENreco"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "islive": false,
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725516000,
         "title": "【 歌枠 / Karaoke 】うたかた ※今日0:00にメン限行  / #燃えろアステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NoN5igO8XgE",
+        "picture": "https://i.ytimg.com/vi/NoN5igO8XgE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725532200,
+        "title": "【おかえりなさい】追加情報伝えちゃうよ！【ホロライブ/ときのそら】"
     }
 ]
