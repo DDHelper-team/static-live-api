@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j4AxXzluEWE",
         "picture": "https://i.ytimg.com/vi/j4AxXzluEWE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725573600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENReco Day 6】 FaunaMart is for the LIBRARY"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725616800,
         "title": "【歌枠】ボイトレ帰り！銀河一のアイドルと遊べたお話もしつつ歌うよ～！🎶【博衣こより/ホロライブ】 #shorts #歌枠"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=WvOf7JK4L_4",
+        "picture": "https://i.ytimg.com/vi/WvOf7JK4L_4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#93 9/6金曜日！可変式おはぽる！！！！【尾丸ポルカ/ホロライブ】"
     }
 ]
