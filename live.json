@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=19EWRzSiFew",
         "picture": "https://i.ytimg.com/vi/19EWRzSiFew/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725541200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 黑神話：悟空 】齁唷！打不贏啦！！！🙉   | #黑神話悟空   #黑神话悟空  #vtuber"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z-4l_UcaA-4",
         "picture": "https://i.ytimg.com/vi/Z-4l_UcaA-4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725541200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Subnautica】Exploring The Sea Again!【 iofi / hololiveID 】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_V0p6sOw88Q",
         "picture": "https://i.ytimg.com/vi/_V0p6sOw88Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725541200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】まったりトライアルチャンバー巡り！【不知火フレア/ホロライブ】"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725620400,
         "title": "活動を再開します【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Yz6GEYQjWhY",
+        "picture": "https://i.ytimg.com/vi/Yz6GEYQjWhY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725627600,
+        "title": "【雑談】まちゅりとおはなし会【ホロライブ/夏色まつり】"
     }
 ]
