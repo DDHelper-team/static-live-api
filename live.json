@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zU94ntM19lQ",
         "picture": "https://i.ytimg.com/vi/zU94ntM19lQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725544800,
-        "title": "【歌枠 / Singing】アニソン限定歌枠♪【#新人vtuber 】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠 / Singing】アニソン限定歌枠♪登録者115000人まで！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -64,17 +64,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロ7DTD 】49日間生き残れ…！｜最終日参戦🔥【 猫又おかゆ視点/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pe4uzGqxaro",
-        "picture": "https://i.ytimg.com/vi/pe4uzGqxaro/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【RE:地獄銭湯】銭湯でバイトするホラーゲームだと....？【轟はじめ/ReGLOSS】　#hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -253,17 +242,6 @@
         "title": "【 #ホロ7DTD 】４９日目！最終回！！！！！！！【大神ミオ視点】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_V0p6sOw88Q",
-        "picture": "https://i.ytimg.com/vi/_V0p6sOw88Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】まったりトライアルチャンバー巡り！【不知火フレア/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": false,
@@ -299,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ai05xG6oIpI",
         "picture": "https://i.ytimg.com/vi/ai05xG6oIpI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725544800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ストリートファイター6】主催者だってスト6したい【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -317,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725584400,
         "title": "【ENigmatic Recollection】It\u0026#39;s not much but it\u0026#39;s honest work #ENreco"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sUfnAUiHhVE",
+        "picture": "https://i.ytimg.com/vi/sUfnAUiHhVE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725546600,
+        "title": "#3【Coffee Talk】コーヒーは甘口でお願いします!!【花咲みやび/ホロスターズ】"
     }
 ]
