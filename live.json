@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hM8cIChWDn8",
-        "picture": "https://i.ytimg.com/vi/hM8cIChWDn8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1WhsM61BUfk",
+        "picture": "https://i.ytimg.com/vi/1WhsM61BUfk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Tavern Manager Simulator】speedrunning the tavern to complete the game【Kaela Kovalskia / hololiveID】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725577740,
+        "title": "【Lounge \u0026amp; Announcement】for any purposes~ 🔨"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -99,17 +99,6 @@
         "title": "【RE:地獄銭湯】銭湯でバイトするホラーゲームだと....？【轟はじめ/ReGLOSS】　#hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wMXNuY5Uy0g",
-        "picture": "https://i.ytimg.com/vi/wMXNuY5Uy0g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE】KAY SAID TO CARE FOR THE WORKERS AT THE HOLOHOUSE SO THAT\u0026#39;S WHAT I\u0026#39;M DOING【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": false,
@@ -134,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uyOxBS0Cx8E",
         "picture": "https://i.ytimg.com/vi/uyOxBS0Cx8E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725516000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft Isekai】Late Night Escapades - A Quest to Bathe the Netizens !"
     },
     {
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IbnoxdFtvTc",
         "picture": "https://i.ytimg.com/vi/IbnoxdFtvTc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725516000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 歌枠 / Karaoke 】うたかた ※今日0:00にメン限行  / #燃えろアステル"
     },
     {
@@ -229,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725532200,
         "title": "【おかえりなさい】追加情報伝えちゃうよ！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Cq3MvJomuUU",
+        "picture": "https://i.ytimg.com/vi/Cq3MvJomuUU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725537600,
+        "title": "【 ELDEN RING 】DLCラスボス強すぎるだろ。【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Nz0WJAbrd6k",
+        "picture": "https://i.ytimg.com/vi/Nz0WJAbrd6k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725537600,
+        "title": "【Minecraft】#かなけん 1ブロック生活、始まる―――。【ホロライブ / AZKi / 天音かなた / 沙花叉クロヱ】"
     }
 ]
