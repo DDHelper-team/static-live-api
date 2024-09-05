@@ -121,17 +121,6 @@
         "title": "【歌枠】角巻わためは歌って告知がしたい！！！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uyOxBS0Cx8E",
-        "picture": "https://i.ytimg.com/vi/uyOxBS0Cx8E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft Isekai】Late Night Escapades - A Quest to Bathe the Netizens !"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -198,17 +187,6 @@
         "title": "【 お宝マウンテン 】ダブなで作る！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IbnoxdFtvTc",
-        "picture": "https://i.ytimg.com/vi/IbnoxdFtvTc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 歌枠 / Karaoke 】うたかた ※今日0:00にメン限行  / #燃えろアステル"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": false,
@@ -244,23 +222,23 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qZeRa5CKKOc",
         "picture": "https://i.ytimg.com/vi/qZeRa5CKKOc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725523200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】再戦！らでんvsつねきち！ らでんのあつ森その⑥【儒烏風亭らでん #ReGLOSS 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bdINJbq9bFI",
         "picture": "https://i.ytimg.com/vi/bdINJbq9bFI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725523200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OW2】サポのランク回していく!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -295,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725530400,
         "title": "【風来のシレン】完全初見★フェイの最終問題DAY3！鬼ムズだ・・・！99階クリアしたあああい！！！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q3qLIVX6Jjw",
+        "picture": "https://i.ytimg.com/vi/Q3qLIVX6Jjw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725525000,
+        "title": "【VALORANT】DUO / アステル  テンくん"
     }
 ]
