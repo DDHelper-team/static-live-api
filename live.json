@@ -299,12 +299,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sUfnAUiHhVE",
         "picture": "https://i.ytimg.com/vi/sUfnAUiHhVE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725546600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#3【Coffee Talk】コーヒーは甘口でお願いします!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=FCo3LMvW9L8",
+        "picture": "https://i.ytimg.com/vi/FCo3LMvW9L8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スト６】なんだか今日1700いけそうな気がする。【岸堂天真/ホロスターズ】※アドバイス求む"
     }
 ]
