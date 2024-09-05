@@ -121,17 +121,6 @@
         "title": "【雑談】まちゅりとおはなし会【ホロライブ/夏色まつり】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ai05xG6oIpI",
-        "picture": "https://i.ytimg.com/vi/ai05xG6oIpI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ストリートファイター6】主催者だってスト6したい【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -141,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725584400,
         "title": "【ENigmatic Recollection】It\u0026#39;s not much but it\u0026#39;s honest work #ENreco"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sUfnAUiHhVE",
-        "picture": "https://i.ytimg.com/vi/sUfnAUiHhVE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#3【Coffee Talk】コーヒーは甘口でお願いします!!【花咲みやび/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
@@ -174,5 +152,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725627600,
         "title": "【Granblue Fantasy: Relink】LYRIAAAAAAAAAA【hololive ID 2nd Gen | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d2KwCb4spQM",
+        "picture": "https://i.ytimg.com/vi/d2KwCb4spQM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725591600,
+        "title": "【DELIVERING HOPE】YEETERUS THE IRYSS!! LETS BEAT MY OLD RECORD?? 【Kureiji Ollie】"
     }
 ]
