@@ -132,17 +132,6 @@
         "title": "【ENigmatic Recollection】It\u0026#39;s not much but it\u0026#39;s honest work #ENreco"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FCo3LMvW9L8",
-        "picture": "https://i.ytimg.com/vi/FCo3LMvW9L8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】なんだか今日1700いけそうな気がする。【岸堂天真/ホロスターズ】※アドバイス求む"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "islive": false,
@@ -207,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725624000,
         "title": "【ストリートファイター6】#師弟電流デスマッチ に向けて！村長が健康になるまであと5日！【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3zaM1QIff9U",
+        "picture": "https://i.ytimg.com/vi/3zaM1QIff9U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725591600,
+        "title": "【ENigmatic Recollection】 *Plays Leaf Flute* 【#4】"
     }
 ]
