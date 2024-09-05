@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Q3qLIVX6Jjw",
         "picture": "https://i.ytimg.com/vi/Q3qLIVX6Jjw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725525000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VALORANT】DUO / アステル  テンくん"
     }
 ]
