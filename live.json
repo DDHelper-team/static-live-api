@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5o4TerH2bVI",
         "picture": "https://i.ytimg.com/vi/5o4TerH2bVI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725498000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENigmatic Recollection】PRINCESS FARMER KOSEKI BIJOU BLOODFLAME PANTHERA EVERGREEN #ENreco"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iy0fMrzhwOY",
         "picture": "https://i.ytimg.com/vi/iy0fMrzhwOY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725494400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "THE FINAL DUNGEON... | ENigmatic Recollection Ch. 1"
     },
     {
