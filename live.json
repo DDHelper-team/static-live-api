@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8em2EXtzsA4",
         "picture": "https://i.ytimg.com/vi/8em2EXtzsA4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725588000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【NEW OUTFIT REVEAL】rock and roll reaper, baby! #rockalliope"
     },
     {
@@ -220,17 +220,6 @@
         "title": "【歌枠】ボイトレ帰り！銀河一のアイドルと遊べたお話もしつつ歌うよ～！🎶【博衣こより/ホロライブ】 #shorts #歌枠"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WvOf7JK4L_4",
-        "picture": "https://i.ytimg.com/vi/WvOf7JK4L_4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#93 9/6金曜日！可変式おはぽる！！！！【尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725591600,
         "title": "【歌枠／KARAOKE】お昼にまったりカラオケ！【火威青 】#hololiveDEV_IS #regloss対holox"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d2IbfCJ6WSA",
+        "picture": "https://i.ytimg.com/vi/d2IbfCJ6WSA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725591657,
+        "title": "【原神】#9 | 完全初見！人の力は偉大なるぞ🔥【緋月ゆい/ネオポルテ】"
     }
 ]
