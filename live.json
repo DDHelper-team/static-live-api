@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=O1H70BbXqvQ",
-        "picture": "https://i.ytimg.com/vi/O1H70BbXqvQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sUy27MRNSNg",
+        "picture": "https://i.ytimg.com/vi/sUy27MRNSNg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロハードコアエンドラ 】死んだら即鯖リセット…ってマジ⁉｜一日目🍙ˊ˗ 【 猫又おかゆ視点】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725706800,
+        "title": "【護縁(Go-En/ごえん)】神岡家姉妹で初めての案件!?【猫又おかゆ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -119,17 +119,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725692400,
         "title": "【ドラゴンボールZ KAKAROT】完全初見！神作品「ドラゴンボール」の世界へ！！【白銀ノエル/ホロライブ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MgM4gOBOGvU",
-        "picture": "https://i.ytimg.com/vi/MgM4gOBOGvU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 VALORANT 】新ACTれっつごーーーーーーーーーー！！【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725670800,
         "title": "【ENigmatic Recollection】A Knight\u0026#39;s Dilemma... Wawa Last Day #kfp #ENreco"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ga8wzA5AvE4",
+        "picture": "https://i.ytimg.com/vi/Ga8wzA5AvE4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725714000,
+        "title": "【スパチャ読み】深夜にまったり～。優しい声で読むよ～🌸【#Shorts 一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
