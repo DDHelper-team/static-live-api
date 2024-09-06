@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e7qFCJ9n6nk",
         "picture": "https://i.ytimg.com/vi/e7qFCJ9n6nk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725580800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Blasphemous】Exploring Your Deepest Darkest Secrets - Ep.02"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8frv4avuyl8",
         "picture": "https://i.ytimg.com/vi/8frv4avuyl8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725584400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENigmatic Recollection】It\u0026#39;s not much but it\u0026#39;s honest work #ENreco"
     },
     {
@@ -198,17 +198,6 @@
         "title": "【ENigmatic Recollection】 *Plays Leaf Flute* 【#4】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=j4AxXzluEWE",
-        "picture": "https://i.ytimg.com/vi/j4AxXzluEWE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ENReco Day 6】 FaunaMart is for the LIBRARY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -240,5 +229,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【OHAPOL】#93 9/6金曜日！可変式おはぽる！！！！【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OXbUEaAZyHY",
+        "picture": "https://i.ytimg.com/vi/OXbUEaAZyHY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725620400,
+        "title": "【 #ホロハードコアエンドラ 】1人でも死んだら即リセット‼究極の連帯責任ゲー始まる。【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=F1hKXKqH--w",
+        "picture": "https://i.ytimg.com/vi/F1hKXKqH--w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725591600,
+        "title": "【歌枠／KARAOKE】お昼にまったりカラオケ！【火威青 】#hololiveDEV_IS #regloss対holox"
     }
 ]
