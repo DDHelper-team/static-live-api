@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JbjuV79-kS0",
         "picture": "https://i.ytimg.com/vi/JbjuV79-kS0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725615000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6】ストリートファイターリーグ2024（Division F 第3節）同時視聴！#SFリーグ【獅白ぼたん/ホロライブ】"
     },
     {
