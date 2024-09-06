@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TRS1G02nXAo",
         "picture": "https://i.ytimg.com/vi/TRS1G02nXAo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725598800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Witcher 3 Part #7】Collecting All Gwent Cards in Novigrad【 iofi / hololiveID 】"
     },
     {
@@ -251,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725609600,
         "title": "【Sandtrix+】this game might trigger OCD\u0026#39;s【holoID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y2Ly0LFCzwY",
+        "picture": "https://i.ytimg.com/vi/Y2Ly0LFCzwY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725613200,
+        "title": "【歌】aza-su【#黒上フブキ生誕祭2024 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_54J1D3Ok4s",
+        "picture": "https://i.ytimg.com/vi/_54J1D3Ok4s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725685200,
+        "title": "【SUICIDE SQUAD: ISEKAI】Episodes 7-10 Watch-a-Long!! #calliolive"
     }
 ]
