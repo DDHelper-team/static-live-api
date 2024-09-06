@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=e7qFCJ9n6nk",
-        "picture": "https://i.ytimg.com/vi/e7qFCJ9n6nk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Blasphemous】Exploring Your Deepest Darkest Secrets - Ep.02"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -35,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o-mNJGaobZ0",
         "picture": "https://i.ytimg.com/vi/o-mNJGaobZ0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725595200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【パワフルプロ野球2024-2025】栄冠ナインをやる【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725598800,
         "title": "【The Witcher 3 Part #7】Collecting All Gwent Cards in Novigrad【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cwe3CPgLSWI",
+        "picture": "https://i.ytimg.com/vi/cwe3CPgLSWI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725609600,
+        "title": "【Sandtrix+】this game might trigger OCD\u0026#39;s【holoID】"
     }
 ]
