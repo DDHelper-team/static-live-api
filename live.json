@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EBfO8y1T_ZE",
         "picture": "https://i.ytimg.com/vi/EBfO8y1T_ZE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725656400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#94 9/7土曜日！世間は本当に休みか？？！！！！【尾丸ポルカ/ホロライブ】"
     }
 ]
