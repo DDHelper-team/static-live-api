@@ -110,17 +110,6 @@
         "title": "【Granblue Fantasy: Relink】LYRIAAAAAAAAAA【hololive ID 2nd Gen | Anya Melfissa】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=d2KwCb4spQM",
-        "picture": "https://i.ytimg.com/vi/d2KwCb4spQM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DELIVERING HOPE】YEETERUS THE IRYSS!! BEATING MY OLD RECORD?? 【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -198,17 +187,6 @@
         "title": "【 #ホロハードコアエンドラ 】1人でも死んだら即リセット‼究極の連帯責任ゲー始まる。【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=F1hKXKqH--w",
-        "picture": "https://i.ytimg.com/vi/F1hKXKqH--w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠／KARAOKE】お昼にまったりカラオケ！【火威青 】#hololiveDEV_IS #regloss対holox"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -218,17 +196,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【原神】#9 | 完全初見！人の力は偉大なるぞ🔥【緋月ゆい/ネオポルテ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=i7g-HJMqZ_E",
-        "picture": "https://i.ytimg.com/vi/i7g-HJMqZ_E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft Isekai】To the Sewers!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -273,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725685200,
         "title": "【SUICIDE SQUAD: ISEKAI】Episodes 7-10 Watch-a-Long!! #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zFfOoBMgJUY",
+        "picture": "https://i.ytimg.com/vi/zFfOoBMgJUY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725602400,
+        "title": "#5【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
