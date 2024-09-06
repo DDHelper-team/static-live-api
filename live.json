@@ -33,17 +33,6 @@
         "title": "【#絕區零】簡登場了呀！PV超美！但園長只能佛系抽角【#遊戲個人勢 / Fingla】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Qh7yVxIOykk",
-        "picture": "https://i.ytimg.com/vi/Qh7yVxIOykk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": null,
-        "title": "【NEW OUTFIT】血ゃ舞ってる奴いる！？＿＿＿＿いるよなぁ！！！？【#新はあちゃま最強伝説/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "islive": true,
@@ -176,17 +165,6 @@
         "title": "【ドラゴンボールZ KAKAROT】完全初見！神作品「ドラゴンボール」の世界へ！！【白銀ノエル/ホロライブ】※ネタバレあり"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JXMWvYGE0aw",
-        "picture": "https://i.ytimg.com/vi/JXMWvYGE0aw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】ザ・スーパーマリオブラザーズ・ムービー同時視聴 / The Mario Bros. Movie watching party【ホロライブ/大空スバル】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "islive": true,
@@ -288,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aKMEuZWGILw",
         "picture": "https://i.ytimg.com/vi/aKMEuZWGILw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725631200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】i need.... THREE WINDBURST BOOKS!!!!!!!!!!!!!!!!!!!!!!!!!【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -317,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725678000,
         "title": "【 スーパーマリオワールド 】マリオ得意です！僕を信じてください！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=olOgIqND5VY",
+        "picture": "https://i.ytimg.com/vi/olOgIqND5VY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725703200,
+        "title": "【ASA￤アベレーション】続・全恐竜捕まえるまで終われまテン！Part 1【アキロゼ/ホロライブ】"
     }
 ]
