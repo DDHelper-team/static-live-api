@@ -240,5 +240,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft Isekai】To the Sewers!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TRS1G02nXAo",
+        "picture": "https://i.ytimg.com/vi/TRS1G02nXAo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725598800,
+        "title": "【The Witcher 3 Part #7】Collecting All Gwent Cards in Novigrad【 iofi / hololiveID 】"
     }
 ]
