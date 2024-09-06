@@ -35,34 +35,34 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=Qh7yVxIOykk",
         "picture": "https://i.ytimg.com/vi/Qh7yVxIOykk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【NEW OUTFIT】血ゃ舞ってる奴いる！？＿＿＿＿いるよなぁ！！！？【#新はあちゃま最強伝説/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Yz6GEYQjWhY",
         "picture": "https://i.ytimg.com/vi/Yz6GEYQjWhY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725627600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】まちゅりとおはなし会【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aT7lvm_YIak",
         "picture": "https://i.ytimg.com/vi/aT7lvm_YIak/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725627600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Granblue Fantasy: Relink】LYRIAAAAAAAAAA【hololive ID 2nd Gen | Anya Melfissa】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JxLr-dHTfzc",
         "picture": "https://i.ytimg.com/vi/JxLr-dHTfzc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725627600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "MONSTER HUNTER LIVE ACTION WATCH ALONG! PLS DONT LEAVE ME ALONE"
     },
     {
@@ -179,12 +179,12 @@
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=MBaX3fO7dwc",
-        "picture": "https://i.ytimg.com/vi/MBaX3fO7dwc/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725627600,
-        "title": "【メン限】月イチみんなとまったり雑談！9月ここだけの話！【ホロライブ / AZKi】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -223,12 +223,12 @@
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=JSc_XVg1Tws",
-        "picture": "https://i.ytimg.com/vi/JSc_XVg1Tws/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725627600,
-        "title": "【MemberOnly】かなたそなにする【天音かなた/ホロライブ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gPAYEIyUfQk",
         "picture": "https://i.ytimg.com/vi/gPAYEIyUfQk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725627600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】マイクラで一番好きなことをやる【律可/ホロスターズ】#りつすた"
     },
     {
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VqJ8ki5CTt0",
         "picture": "https://i.ytimg.com/vi/VqJ8ki5CTt0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725627600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゲーム発展国++】ゲーム会社の社長になって神ゲーを作る！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -338,6 +338,28 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【歌枠】のんびり歌うぞ！！- ハニカムステーション！-153【HACHI 】"
+        "title": "【雑談】のんびり歌うぞ！！- ハニカムステーション！-153【HACHI 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aKMEuZWGILw",
+        "picture": "https://i.ytimg.com/vi/aKMEuZWGILw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725631200,
+        "title": "【Minecraft】i need.... THREE WINDBURST BOOKS!!!!!!!!!!!!!!!!!!!!!!!!!【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cXfh03B0y4Y",
+        "picture": "https://i.ytimg.com/vi/cXfh03B0y4Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725714000,
+        "title": "【✨NEW OUTFIT✨】The Overseer\u0026#39;s Gaze with a Knockout Twist #NewReineWear 【Pavolia Reine/hololiveID】"
     }
 ]
