@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zXmPVHU5Rao",
-        "picture": "https://i.ytimg.com/vi/zXmPVHU5Rao/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=C3iGh_QK8CE",
+        "picture": "https://i.ytimg.com/vi/C3iGh_QK8CE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【7周年】カウントダウン配信！！【ホロライブ/ときのそら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725706800,
+        "title": "【#ときのそら7周年パーティー】プチお披露目とまったりパーティー【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
