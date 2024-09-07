@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zs-STtUrY7E",
         "picture": "https://i.ytimg.com/vi/zs-STtUrY7E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725742800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#95 9/8日曜日！秋の涼しさ感じてる？？！！！【尾丸ポルカ/ホロライブ】"
     }
 ]
