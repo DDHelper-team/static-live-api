@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gcp5VmbfPQw",
         "picture": "https://i.ytimg.com/vi/gcp5VmbfPQw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725688800,
-        "title": "【 黑神話：悟空 】今日結局？🙉   | #黑神話悟空   #黑神话悟空  #vtuber"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 黑神話：悟空 】第二章中，超級耐久直播啟動！！可以提醒隱藏道具，但打王讓我來   | #黑神話悟空   #黑神话悟空  #vtuber"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aKMEuZWGILw",
-        "picture": "https://i.ytimg.com/vi/aKMEuZWGILw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ntLBRbzsKhI",
+        "picture": "https://i.ytimg.com/vi/ntLBRbzsKhI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】i need.... THREE WINDBURST BOOKS!!!!!!!!!!!!!!!!!!!!!!!!!【Kaela Kovalskia / hololiveID】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725699600,
+        "title": "【Minecraft】ITS ALL ABOUT PASSION!!!!【hololive】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -209,17 +209,6 @@
         "title": "I HAVE BECOME A GHOST... | ENigmatic Recollection Ch. 1"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EBfO8y1T_ZE",
-        "picture": "https://i.ytimg.com/vi/EBfO8y1T_ZE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#94 9/7土曜日！世間は本当に休みか？？！！！！【尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "islive": false,
@@ -229,5 +218,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725670800,
         "title": "【ENigmatic Recollection】 Nana-11 Grand Opening !! | Day 7"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-K6tlPWYdWI",
+        "picture": "https://i.ytimg.com/vi/-K6tlPWYdWI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725714000,
+        "title": "【雑談＆お礼】角巻わためは、Newお部屋をご紹介したい！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dTf0g5tqzBU",
+        "picture": "https://i.ytimg.com/vi/dTf0g5tqzBU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725760800,
+        "title": "【ENigmatic Recollection】GRAND FINALE"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=zlPpkWYeSo8",
+        "picture": "https://i.ytimg.com/vi/zlPpkWYeSo8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【原神】#10 | 完全初見！稲妻ってどこですか⚡️【緋月ゆい/ネオポルテ】"
     }
 ]
