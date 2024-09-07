@@ -58,12 +58,12 @@
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=olOgIqND5VY",
-        "picture": "https://i.ytimg.com/vi/olOgIqND5VY/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=lM_0SS23zog",
+        "picture": "https://i.ytimg.com/vi/lM_0SS23zog/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【ASA￤アベレーション】続・全恐竜捕まえるまで終われまテン！Part 1【アキロゼ/ホロライブ】"
+        "title": "【ASA￤アベレーション】続・全恐竜捕まえるまで終われまテン！Part 2【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725793200,
         "title": "【 #ホロハードコアエンドラ 】死んだら即鯖リセット…ってマジ⁉｜二日目🍙ˊ˗ 【 猫又おかゆ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zs-STtUrY7E",
+        "picture": "https://i.ytimg.com/vi/zs-STtUrY7E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725742800,
+        "title": "【OHAPOL】#95 9/8日曜日！秋の涼しさ感じてる？？！！！【尾丸ポルカ/ホロライブ】"
     }
 ]
