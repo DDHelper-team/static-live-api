@@ -11,39 +11,6 @@
         "title": "【 #朝ミオ 】月曜日だよ！まだまだ暑い！おはみぉーん☀"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pZO_V1Cf6m8",
-        "picture": "https://i.ytimg.com/vi/pZO_V1Cf6m8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロハードコアエンドラ 】死んだら即リセット‼ハードコアMinecraftエンドラ討伐だぜ！！！！！【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=n76sbkhvo8g",
-        "picture": "https://i.ytimg.com/vi/n76sbkhvo8g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロハードコアエンドラ 】死んだら即鯖リセット…ってマジ⁉｜二日目🍙ˊ˗ 【 猫又おかゆ視点】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YDEzgooPhCk",
-        "picture": "https://i.ytimg.com/vi/YDEzgooPhCk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロハードコアエンドラ】DAY2死んだら即鯖リセット！ハードコアエンダードラゴン討伐【星街すいせい / ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
@@ -53,17 +20,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【キャプテン翼】完全初見による「キャプテン翼 RISE OF NEW CHAMPIONS」！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Vtjewtd7Bps",
-        "picture": "https://i.ytimg.com/vi/Vtjewtd7Bps/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロハードコアエンドラ 】1人でも死んだら即リセット‼もう死にたくない…要塞みつけてエンドラ討伐へ！【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -134,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PEEgPJ5mj0Y",
         "picture": "https://i.ytimg.com/vi/PEEgPJ5mj0Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725805800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【１周年カウントダウン】記念すべき瞬間をキミと！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -284,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725840000,
         "title": "【2.0 REVEAL】I\u0026#39;m evolving!"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RGVwHAeEbTw",
+        "picture": "https://i.ytimg.com/vi/RGVwHAeEbTw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725892200,
+        "title": "【1周年カウントダウン】デビューから1年...今日という日を一緒に迎えたい！【轟はじめ/ReGLOSS】　#hololivedev_is"
     }
 ]
