@@ -101,24 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AV53qD5d53g",
         "picture": "https://i.ytimg.com/vi/AV53qD5d53g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725800400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スプラトゥーン3/サーモンラン】ビッグラン＋クマフェス！フレアイリスで出勤！【不知火フレア/IRyS/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=alDQXSu5dY0",
-        "picture": "https://i.ytimg.com/vi/alDQXSu5dY0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725800400,
-        "title": "【メンバー限定配信】開設4年6ヶ月目！「すみっコぐらし とびだす絵本とひみつのコ」同時視聴！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -145,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cSE9-iLqLYU",
         "picture": "https://i.ytimg.com/vi/cSE9-iLqLYU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725800400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【House Flipper】Renovasi Rumah【 iofi / hololiveID 】"
     },
     {
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xafiaeoZQro",
         "picture": "https://i.ytimg.com/vi/xafiaeoZQro/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725800400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 声マネキング 】音を声真似！？ボクはロボットですよ、任せなさい！！０期LIVEおつおつお💖【ホロライブ / ロボ子さん】"
     },
     {
@@ -262,5 +251,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【原神】#11 | 完全初見！方言っていいよね🎆【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SUb4h6LrXxI",
+        "picture": "https://i.ytimg.com/vi/SUb4h6LrXxI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725886800,
+        "title": "【 黑神話：悟空 #8】第三章啟動！可以提醒隱藏道具，但劇情不要劇透，打王讓我來   | #黑神話悟空   #黑神话悟空  #vtuber"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SpCnR8amhGc",
+        "picture": "https://i.ytimg.com/vi/SpCnR8amhGc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725843600,
+        "title": "【Minecraft】HAPPY 1ST ANNIVERSARY【Grindstone】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DNDhaDTXta4",
+        "picture": "https://i.ytimg.com/vi/DNDhaDTXta4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725886800,
+        "title": "《BIRDS NIGHT OUT》 Pavolia Reine 3D Birthday Live 2024 #ReineMeptember2024"
     }
 ]
