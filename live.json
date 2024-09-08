@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mCed1tWBNcw",
         "picture": "https://i.ytimg.com/vi/mCed1tWBNcw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725757200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】おはまっするさんでー💪🌞【白銀ノエル/ホロライブ】"
     },
     {
@@ -53,17 +53,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725796800,
         "title": "【 弾き語り 】４万人記念、感謝の気合弾き語り【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lM_0SS23zog",
-        "picture": "https://i.ytimg.com/vi/lM_0SS23zog/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ASA￤アベレーション】続・全恐竜捕まえるまで終われまテン！Part 2【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -112,23 +101,23 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qdYQ5j-0sQI",
         "picture": "https://i.ytimg.com/vi/qdYQ5j-0sQI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725753600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "IT\u0026#39;S THE END. | ENigmatic Recollection Ch. 1"
     },
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oq_4QZacuso",
         "picture": "https://i.ytimg.com/vi/oq_4QZacuso/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725757200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENigmatic Recollection】 The End Is Nigh !! | FINALE"
     },
     {
@@ -145,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=E0YMYi3vHtM",
         "picture": "https://i.ytimg.com/vi/E0YMYi3vHtM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725756600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED】ハテナ役　荒咬オウガと見る　シン・ドゲンジャーズ　第9話【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NdWqpuyH0Zg",
         "picture": "https://i.ytimg.com/vi/NdWqpuyH0Zg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725757200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENigmatic Recollection】 To Save Them All....No Matter What It Costs 【#5】"
     },
     {
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8x-MVX8h9gU",
         "picture": "https://i.ytimg.com/vi/8x-MVX8h9gU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725757200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ENReco FINALE】 FaunaMart is done."
     },
     {
@@ -332,12 +321,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mxOT9QEg5dI",
         "picture": "https://i.ytimg.com/vi/mxOT9QEg5dI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725753900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft Isekai】....And so the Sun sets on Our Journey"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hcX5rTHSPZY",
+        "picture": "https://i.ytimg.com/vi/hcX5rTHSPZY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725793203,
+        "title": "【原神】#11 | 完全初見！方言っていいよね🎆【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ixmAk_SaucY",
+        "picture": "https://i.ytimg.com/vi/ixmAk_SaucY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【朝活マリオの続き】SUPER MARIO BROS. 3　WORLD８【ホロライブ/白上フブキ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RuuhEvK2Xg0",
+        "picture": "https://i.ytimg.com/vi/RuuhEvK2Xg0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725789600,
+        "title": "【歌枠】まだ夏はおわっていないはずです🍉【風真いろは/ホロライブ】"
     }
 ]
