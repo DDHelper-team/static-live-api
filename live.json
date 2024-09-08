@@ -288,12 +288,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VPoyl8ou0yI",
         "picture": "https://i.ytimg.com/vi/VPoyl8ou0yI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725778800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7周年】振り返り配信【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YDEzgooPhCk",
+        "picture": "https://i.ytimg.com/vi/YDEzgooPhCk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725793200,
+        "title": "【#ホロハードコアエンドラ】DAY2死んだら即鯖リセット！ハードコアエンダードラゴン討伐【星街すいせい / ホロライブ】"
     }
 ]
