@@ -99,17 +99,6 @@
         "title": "【１周年カウントダウン】記念すべき瞬間をキミと！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pH9lSCrTVMY",
-        "picture": "https://i.ytimg.com/vi/pH9lSCrTVMY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ENigmatic Recollection】The Hot Pink One\u0026#39;s Hot Ending #ENreco"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iMe4TUeEB0U",
         "picture": "https://i.ytimg.com/vi/iMe4TUeEB0U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725771600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラえもん】ドラえもんのどら焼き屋さん物語やる！！【戌神ころね】"
     },
     {
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725775200,
         "title": "【Coral Island】LET\u0026#39;S FISH !!!【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pxRb2GcwaK4",
+        "picture": "https://i.ytimg.com/vi/pxRb2GcwaK4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725793200,
+        "title": "【#ホロハードコアエンドラ】DAY2 死んだら即鯖リセット！ハードコアエンダードラゴン討伐【白上フブキ視点 】"
     }
 ]
