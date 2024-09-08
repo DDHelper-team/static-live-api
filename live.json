@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ru7Hl0p7nbE",
         "picture": "https://i.ytimg.com/vi/ru7Hl0p7nbE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725832800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6 SAJAM SLAM】finals day【Dokibird】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TxLfyTYSGZw",
         "picture": "https://i.ytimg.com/vi/TxLfyTYSGZw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725832821,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】最近は、どっぷり原神に浸かっています。【緋月ゆい/ネオポルテ】"
     }
 ]
