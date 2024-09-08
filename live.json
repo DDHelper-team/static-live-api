@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wpsqMRVnmro",
-        "picture": "https://i.ytimg.com/vi/wpsqMRVnmro/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FINAL FANTASY VIII / FF8】遂にファイナルファンタジー8へ！最終回だあああああ！！！！！ #8 【博衣こより/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -90,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5iJi_n_UOFY",
         "picture": "https://i.ytimg.com/vi/5iJi_n_UOFY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725785100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #アルランディス5周年 】なんと5年もたってます！久々にあの人たちと喋りたい逆凸【アルランディス/ホロスターズ】"
     },
     {
@@ -264,17 +253,6 @@
         "title": "【STREET FIGHTER 6 SAJAM SLAM】finals day【Dokibird】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VPoyl8ou0yI",
-        "picture": "https://i.ytimg.com/vi/VPoyl8ou0yI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【7周年】振り返り配信【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "islive": false,
@@ -284,5 +262,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725793200,
         "title": "【#ホロハードコアエンドラ】DAY2死んだら即鯖リセット！ハードコアエンダードラゴン討伐【星街すいせい / ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xafiaeoZQro",
+        "picture": "https://i.ytimg.com/vi/xafiaeoZQro/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725800400,
+        "title": "【 声マネキング 】音を声真似！？ボクはロボットですよ、任せなさい！！０期LIVEおつおつお💖【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Jn9pANBNFd8",
+        "picture": "https://i.ytimg.com/vi/Jn9pANBNFd8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725786000,
+        "title": "【#鳴潮】吃晚餐前來小跑一下鳴朝進度【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cSE9-iLqLYU",
+        "picture": "https://i.ytimg.com/vi/cSE9-iLqLYU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725800400,
+        "title": "【House Flipper】Renovasi Rumah【 iofi / hololiveID 】"
     }
 ]
