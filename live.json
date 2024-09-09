@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RflvIgRyook",
         "picture": "https://i.ytimg.com/vi/RflvIgRyook/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725854400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【孵道】絶対に振り返っちゃいけないゲームをする【夕刻ロベル/ホロスターズ】"
     },
     {
