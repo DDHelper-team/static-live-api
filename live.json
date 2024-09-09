@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8Wg2IbNcHxI",
-        "picture": "https://i.ytimg.com/vi/8Wg2IbNcHxI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MINECRAFT】ONE YEAR OF GRINDSTONE!"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -53,17 +42,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725886800,
         "title": "【 黑神話：悟空 #8】第三章啟動！可以提醒隱藏道具，但劇情不要劇透，打王讓我來   | #黑神話悟空   #黑神话悟空  #vtuber"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SpCnR8amhGc",
-        "picture": "https://i.ytimg.com/vi/SpCnR8amhGc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】HAPPY 1ST ANNIVERSARY【Grindstone】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -185,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725879600,
         "title": "【ぺこマリ】モンスト＆白猫がタックを組んだ「フェスティバトル」2人で遊んでみる！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E5S-VtkTfkU",
+        "picture": "https://i.ytimg.com/vi/E5S-VtkTfkU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725890400,
+        "title": "【メン限／咀嚼音A.S.M.R】琥珀糖とマシュマロ食べながらゆるゆるお喋り♡【白銀ノエル/ホロライブ】"
     }
 ]
