@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZCwHRpdVd18",
         "picture": "https://i.ytimg.com/vi/ZCwHRpdVd18/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725850831,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#12 | 完全初見！太郎丸かわいいね、太郎丸🐕️【緋月ゆい/ネオポルテ】"
     },
     {
@@ -185,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725876000,
         "title": "【声マネキング】お題と同じ声を出すゲームで100点を目指すぞおおおお！！！🎤✨【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=VT-VlBRFEWo",
+        "picture": "https://i.ytimg.com/vi/VT-VlBRFEWo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【LOVESAM 】日記に隠された秘密…傑作サイコホラーゲームやってみるっ！【ホロライブ/癒月ちょこ】"
     }
 ]
