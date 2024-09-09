@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Q3r6fZMkbSQ",
         "picture": "https://i.ytimg.com/vi/Q3r6fZMkbSQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725879600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6】チームひぐちで練習するよ～！！【アキロゼ/ホロライブ】"
     },
     {
@@ -88,17 +88,6 @@
         "title": "べりべりおしゃべり。"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9ScaXX6ZTVc",
-        "picture": "https://i.ytimg.com/vi/9ScaXX6ZTVc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【1周年記念】ホロライブ楽曲歌枠✨2周年目も一緒に楽しく過ごせますように！【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -134,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hX3xcJrh5Qw",
         "picture": "https://i.ytimg.com/vi/hX3xcJrh5Qw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725879600,
-        "title": "【ぺこマリ】モンスト＆白猫がタックを組んだ「フェスティバトル」2人で遊んでみる！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ぺこマリ】モンスト＆白猫がタッグを組んだ「フェスティバトル」2人で遊んでみる！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=weTaQ5vn0ew",
         "picture": "https://i.ytimg.com/vi/weTaQ5vn0ew/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725879600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】#師弟電流デスマッチ 本日わんちゃんチーム全員で顔合わせ！？【アルランディス/ホロスターズ】"
     },
     {
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QHP0pj-LGQ8",
         "picture": "https://i.ytimg.com/vi/QHP0pj-LGQ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725879600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【白猫×モンストのタッグ!?】ぺこマリでフェスティバトルやるぞ！！！！【ホロライブ/宝鐘マリン】"
     },
     {
@@ -251,5 +240,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725937200,
         "title": "【午安台】早安呀大家!!跟大家聊天吃午餐~吃完有空就練笛子【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #午安台 #雜談 #初見歡迎"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FWG8S-6TELU",
+        "picture": "https://i.ytimg.com/vi/FWG8S-6TELU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725922800,
+        "title": "【Black Myth: Wukong】Mmm, Monke"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EmLihVarNe4",
+        "picture": "https://i.ytimg.com/vi/EmLihVarNe4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725886800,
+        "title": "【 -`🎙 歌枠/Singing 】今週ワンマンってマジか！！ sing and talk【獅子神レオナ/Re:AcT】"
     }
 ]
