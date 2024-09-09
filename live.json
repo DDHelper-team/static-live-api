@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Pi11SGWO7K4",
         "picture": "https://i.ytimg.com/vi/Pi11SGWO7K4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725868800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】ついにとたけけが…！？ブリューゲルも答え合わせしようぜ らでんのあつ森その⑦【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -196,5 +196,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1725894000,
         "title": "【FUWAMOCO MORNING】episode 124 🐾 #FWMCMORNING"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yCEtGieOKHo",
+        "picture": "https://i.ytimg.com/vi/yCEtGieOKHo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725883200,
+        "title": "【 1周年記念配信 】音乃瀬奏1周年！！おまえらいつもありがとう！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7VMEkwmuq2w",
+        "picture": "https://i.ytimg.com/vi/7VMEkwmuq2w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725883200,
+        "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QHP0pj-LGQ8",
+        "picture": "https://i.ytimg.com/vi/QHP0pj-LGQ8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725879600,
+        "title": "【白猫×モンストのタッグ!?】ぺこマリでフェスティバトルやるぞ！！！！【ホロライブ/宝鐘マリン】"
     }
 ]
