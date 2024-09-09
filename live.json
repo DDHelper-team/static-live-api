@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eke0WrrcOys",
-        "picture": "https://i.ytimg.com/vi/eke0WrrcOys/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q3r6fZMkbSQ",
+        "picture": "https://i.ytimg.com/vi/Q3r6fZMkbSQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ASA￤アベレーション】ロックドレイクの巣にイーリンで突撃！！続・全恐竜捕まえるまで終われまテン！Part 4【アキロゼ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1725879600,
+        "title": "【 STREET FIGHTER 6】チームひぐちで練習するよ～！！【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -110,17 +110,6 @@
         "title": "【孵道】絶対に振り返っちゃいけないゲームをする【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=29UwCwTyOqc",
-        "picture": "https://i.ytimg.com/vi/29UwCwTyOqc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【2.0 REVEAL】I\u0026#39;m evolving!"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -165,17 +154,6 @@
         "title": "【】1周年記念歌枠予定地【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mto3Sg_lQNU",
-        "picture": "https://i.ytimg.com/vi/mto3Sg_lQNU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #朝ミオ 】月曜日だよ！まだまだ暑い！おはみぉーん☀"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "islive": true,
@@ -211,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=S_6TAx_Pojs",
         "picture": "https://i.ytimg.com/vi/S_6TAx_Pojs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1725849000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M.】Monday Morning Malas : still malas【Ayunda Risu】"
     }
 ]
