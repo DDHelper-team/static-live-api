@@ -266,13 +266,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YpMDs4-zn_c",
-        "picture": "https://i.ytimg.com/vi/YpMDs4-zn_c/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wr3m4fumOn8",
+        "picture": "https://i.ytimg.com/vi/wr3m4fumOn8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6 】 ランクマどすこい！【ホロライブ / ロボ子さん】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726056000,
+        "title": "【めん限】ろぼさーとまったりおしゃべりした～い【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -317,5 +317,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ストリートファイター6】#師弟電流デスマッチ 村長健康当日【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ONQAGiv5gH8",
+        "picture": "https://i.ytimg.com/vi/ONQAGiv5gH8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726052400,
+        "title": "【ELDEN RING】#21 ボス・・・の前に忘れそうなイベントたち！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     }
 ]
