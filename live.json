@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7ocasggAY8k",
         "picture": "https://i.ytimg.com/vi/7ocasggAY8k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726095600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Call of Duty: Black Ops】Do I get to find out what the numbers mean?"
     },
     {
