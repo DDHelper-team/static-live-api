@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wtMUJ6NdjQU",
         "picture": "https://i.ytimg.com/vi/wtMUJ6NdjQU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726092000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Adventure of Ninomae Ina\u0026#39;nis】 Tako Doko?! Tako Koko!!!!"
     },
     {
