@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SJwKzbpOQ5U",
         "picture": "https://i.ytimg.com/vi/SJwKzbpOQ5U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726044600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#師弟電流デスマッチ】スト6でいろんな師匠達が健康になっていく様子を見守るミラー配信会場【獅白ぼたん/ホロライブ】"
     },
     {
