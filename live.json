@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EGc-aH5KCvQ",
-        "picture": "https://i.ytimg.com/vi/EGc-aH5KCvQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2ay8utpgwxw",
+        "picture": "https://i.ytimg.com/vi/2ay8utpgwxw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 黑神話：悟空 #9】第?章啟動！可以提醒隱藏道具，但劇情不要劇透，打王讓我來   | #黑神話悟空   #黑神话悟空  #vtuber"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726146000,
+        "title": "【跑Online】跟觀眾一起Happy Happy Happy，還有工商打唷  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hsS21BrKKm8",
         "picture": "https://i.ytimg.com/vi/hsS21BrKKm8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726070400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Persona 3 Reload: Episode Aigis】You guys saw nothing  (SPOILERS!)【Pavolia Reine/hololiveID】"
     },
     {
