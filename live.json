@@ -13,23 +13,23 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=s8SRnmxCdHM",
-        "picture": "https://i.ytimg.com/vi/s8SRnmxCdHM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UCMHfpnrb9o",
+        "picture": "https://i.ytimg.com/vi/UCMHfpnrb9o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Paper Mario: TTYD】A New Story Begins | Ep-01"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726189200,
+        "title": "【Paper Mario: TTYD】Your Koopers are Mine Ep-02"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_N1f8juC59c",
         "picture": "https://i.ytimg.com/vi/_N1f8juC59c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726114500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【THANK YOU!】Reading ALL Your Anniversary Messages! || Mori Calliope #calliolive"
     },
     {
