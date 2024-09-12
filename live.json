@@ -24,23 +24,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2Z9CzFwxNJI",
-        "picture": "https://i.ytimg.com/vi/2Z9CzFwxNJI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_N1f8juC59c",
+        "picture": "https://i.ytimg.com/vi/_N1f8juC59c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【4 YEAR ANNIVERSARY】BIG Karaoke Party!! With Many Guests?! || Mori Calliope #calliolive"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726114500,
+        "title": "【THANK YOU!】Reading ALL Your Anniversary Messages! || Mori Calliope #calliolive"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4bHfjnWNQqM",
         "picture": "https://i.ytimg.com/vi/4bHfjnWNQqM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726113600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【RUNGORE】cards... cards... NEVER ENOUGH OF CARDSSSSSS【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -130,5 +130,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726135200,
         "title": "【はいしんよていち】ずっとやりたかったアレ～～～！！！！！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=boy302x08Gg",
+        "picture": "https://i.ytimg.com/vi/boy302x08Gg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726135200,
+        "title": "【 #なのらいぶ 】喉の弱いおひめさまが復活したのら！！！【姫森ルーナ/ホロライブ】"
     }
 ]
