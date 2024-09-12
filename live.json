@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4bHfjnWNQqM",
-        "picture": "https://i.ytimg.com/vi/4bHfjnWNQqM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YAb5RdPxyiw",
+        "picture": "https://i.ytimg.com/vi/YAb5RdPxyiw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【RUNGORE】cards... cards... NEVER ENOUGH OF CARDSSSSSS【Kaela Kovalskia / hololiveID】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726171200,
+        "title": "【Lethal Company】bless you.【hololive】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -284,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726214400,
         "title": "【 holoindie 】#夏色はあと でお宝マウンテン1時間勝負！！【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YnRN9u7WVbE",
+        "picture": "https://i.ytimg.com/vi/YnRN9u7WVbE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726136100,
+        "title": "【声マネキング】キングはひとり・・・このポルカだ！！【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zgA6N3_ihmg",
+        "picture": "https://i.ytimg.com/vi/zgA6N3_ihmg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726146000,
+        "title": "【GROUNDED】mini adventure with Area15.1【Ayunda Risu】"
     }
 ]
