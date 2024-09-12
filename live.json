@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5YuQqr2jIDo",
         "picture": "https://i.ytimg.com/vi/5YuQqr2jIDo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726131600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】口の中大けが男の雑談【アルランディス/ホロスターズ】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vtlt7JYmSUk",
         "picture": "https://i.ytimg.com/vi/vtlt7JYmSUk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726131600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 FCスーパーマリオブラザーズ 】ステージ6からクリアまで行きたい‼【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -317,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726142400,
         "title": "【 声マネキング 】声マネキング対決👑#フブみこさん どっちが声マネキングになるのか本気勝負だ‼【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Jkg-Lj_BDy4",
+        "picture": "https://i.ytimg.com/vi/Jkg-Lj_BDy4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726133400,
+        "title": "【Apex Legends】化石ペクス【 奏手イヅル / ホロスターズ】"
     }
 ]
