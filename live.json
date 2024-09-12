@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=s8SRnmxCdHM",
         "picture": "https://i.ytimg.com/vi/s8SRnmxCdHM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726102800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Paper Mario: TTYD】A New Story Begins | Ep-01"
     },
     {
@@ -86,17 +86,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726138800,
         "title": "【オフコラボ ReGLOSS1周年】たこ焼きパーティしよーーー！！！！【一条莉々華/hololive DEV_IS ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wtMUJ6NdjQU",
-        "picture": "https://i.ytimg.com/vi/wtMUJ6NdjQU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Adventure of Ninomae Ina\u0026#39;nis】 Tako Doko?! Tako Koko!!!!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
