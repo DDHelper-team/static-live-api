@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=D5OKv15Qjpk",
         "picture": "https://i.ytimg.com/vi/D5OKv15Qjpk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726133400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Cube Escape Collection 】脱出脱出脱出脱出脱出脱出【常闇トワ/ホロライブ】"
     },
     {
@@ -325,8 +325,19 @@
         "link": "https://www.youtube.com/watch?v=Jkg-Lj_BDy4",
         "picture": "https://i.ytimg.com/vi/Jkg-Lj_BDy4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1726133400,
         "title": "【Apex Legends】化石ペクス【 奏手イヅル / ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZU07Y35J9yc",
+        "picture": "https://i.ytimg.com/vi/ZU07Y35J9yc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726164000,
+        "title": "【4YEAR ANNIVERSARY】3D Karaoke !!! New Version?!? #Kiara4Years"
     }
 ]
