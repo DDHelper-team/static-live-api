@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OAmx8R0HuF4",
         "picture": "https://i.ytimg.com/vi/OAmx8R0HuF4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726182000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【4 Years of AME】Happy 4 Years! YIPPIE ! ! Reminiscing and Archived Karaoke~"
     },
     {
@@ -163,16 +163,5 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "chatting and super catchup!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Vh9bB0lwtlw",
-        "picture": "https://i.ytimg.com/vi/Vh9bB0lwtlw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#99 9/13金曜日！13日の金曜日なんですけどおおおお～～～！！【尾丸ポルカ/ホロライブ】"
     }
 ]
