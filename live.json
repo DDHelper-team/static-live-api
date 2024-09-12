@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BEpll6lu5cA",
         "picture": "https://i.ytimg.com/vi/BEpll6lu5cA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726128000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【シャニソン】　千　雪　さ　ん　お　迎　え　チ　ャ　レ　ン　ジ　【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -251,5 +251,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726142400,
         "title": "【 ウラヤマ 】幽霊が出ると噂の裏山へ凸。【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vtlt7JYmSUk",
+        "picture": "https://i.ytimg.com/vi/vtlt7JYmSUk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726131600,
+        "title": "【 FCスーパーマリオブラザーズ 】ステージ6からクリアまで行きたい‼【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ykvMJlvYUV8",
+        "picture": "https://i.ytimg.com/vi/ykvMJlvYUV8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726135200,
+        "title": "【雑談】公開収録イベントに花岸で出演するからトークの練習だ！【岸堂天真/花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_V_-CqlZF1M",
+        "picture": "https://i.ytimg.com/vi/_V_-CqlZF1M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726214400,
+        "title": "【 holoindie 】#夏色はあと でお宝マウンテン1時間勝負！！【ホロライブ/夏色まつり】"
     }
 ]
