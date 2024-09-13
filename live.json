@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=24Q8auMUU3Q",
         "picture": "https://i.ytimg.com/vi/24Q8auMUU3Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726228800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 最弱決定戦 】アソビ大全で雑魚２人で勝負！【 領国つかさ / ゴモリー 】"
     },
     {
@@ -42,17 +42,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726232400,
         "title": "【雑談】旅行に行ったりホロメンとご飯行ったお話【 雪花ラミィ /ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=SxEgJoSVhr0",
-        "picture": "https://i.ytimg.com/vi/SxEgJoSVhr0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": null,
-        "title": "【Volcano Princess】I am such a Proud Dad"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -68,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kn5oekVPd7s",
         "picture": "https://i.ytimg.com/vi/kn5oekVPd7s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726228800,
-        "title": "【”なにか”がくるぞ！！！】【ホロライブ/宝鐘マリン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【”なにか”がくるぞ！！！】キミたち～♡はなすことがいろいろあるよ♡【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
@@ -86,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726279200,
         "title": "【LEFT 4 DEAD 2】HoloEN vs. Zombies"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2p2e-AXMWpU",
-        "picture": "https://i.ytimg.com/vi/2p2e-AXMWpU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 声マネキング 】失い続けろ…そこに“100点”があるなら…【 猫又おかゆ/ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -207,5 +185,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726279200,
         "title": "【LOVE, GHOSTIE】MATCHMAKING FROM THE DEAD, SOUNDS LIKE MY KIND OF GAME!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=2iI4MxQpcNA",
+        "picture": "https://i.ytimg.com/vi/2iI4MxQpcNA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Content Warning】#かげやまとん でバズ・・・なんだコイツ！？【影山シエン/もこ田めめめ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LvByh2_lLKc",
+        "picture": "https://i.ytimg.com/vi/LvByh2_lLKc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726232400,
+        "title": "【 手描き切り抜き 】べすとおぶ手描き切り抜き‼みんなで観るにぇ～～～～‼✂【ホロライブ/さくらみこ】"
     }
 ]
