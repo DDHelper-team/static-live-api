@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Gvh175V2iu4",
         "picture": "https://i.ytimg.com/vi/Gvh175V2iu4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726225200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 アポなし凸待ち】@ホロメン 今からCHAINED TOGETHER 1時間一緒にやってくれる人募集【風真いろは/ホロライブ】"
     },
     {
@@ -123,23 +123,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZKrFxrWoqTY",
         "picture": "https://i.ytimg.com/vi/ZKrFxrWoqTY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726225200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#生スバル】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UVeR6YrWypc",
         "picture": "https://i.ytimg.com/vi/UVeR6YrWypc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726225200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ガンダムブレイカー4】自由にガンプラ作りたい【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "channellink": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HhqszLJlGME",
         "picture": "https://i.ytimg.com/vi/HhqszLJlGME/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726225200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【カラオケ特番】天使うとのらじお～うぇるかむとぅ ゆーとぴあ～"
     },
     {
@@ -185,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726293600,
         "title": "【🔰パワフルプロ野球2024-2025🔰】完全初心者が国立ピザ屋高校で栄冠ナイン優勝したい #3【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ynGtdD72xSo",
+        "picture": "https://i.ytimg.com/vi/ynGtdD72xSo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726230600,
+        "title": "【Sticky Terms】which demons that we\u0026#39;re summoning tonight?【Kaela Kovalskia / hololiveID】"
     }
 ]
