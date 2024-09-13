@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=L175tuBGnq8",
         "picture": "https://i.ytimg.com/vi/L175tuBGnq8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726261200,
-        "title": "【OHAPOL】#100  9/14金曜日！ひゃっかいめだおおお～～～！！【尾丸ポルカ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#100  9/14つち曜日！ひゃっかいめだおおお～～～！！【尾丸ポルカ/ホロライブ】"
     }
 ]
