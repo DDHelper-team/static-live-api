@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2p2e-AXMWpU",
         "picture": "https://i.ytimg.com/vi/2p2e-AXMWpU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726221600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 声マネキング 】失い続けろ…そこに“100点”があるなら…【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xK-lX5UjdbA",
         "picture": "https://i.ytimg.com/vi/xK-lX5UjdbA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726221600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】歌ってみたを投稿したことある曲縛り【ホロライブ/ときのそら】"
     },
     {
@@ -152,5 +152,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726225200,
         "title": "【#生スバル】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UVeR6YrWypc",
+        "picture": "https://i.ytimg.com/vi/UVeR6YrWypc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726225200,
+        "title": "【 ガンダムブレイカー4】自由にガンプラ作りたい【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bZFT-2qkzSM",
+        "picture": "https://i.ytimg.com/vi/bZFT-2qkzSM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726308000,
+        "title": "【スト6 】 おぼさんコーチング🔥本田について教えてどーん！！【ホロライブ / ロボ子さん】"
     }
 ]
