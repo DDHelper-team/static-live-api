@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0WWdRFFdSI8",
         "picture": "https://i.ytimg.com/vi/0WWdRFFdSI8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726230600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#原神 】長草了阿!! 該來除草加入5.0的行列了!! 上次卡在那園長我都不記得了...【#遊戲個人勢 / Fingla】"
     },
     {
@@ -75,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726279200,
         "title": "【LEFT 4 DEAD 2】HoloEN vs. Zombies"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=d_E3G5cdYDs",
-        "picture": "https://i.ytimg.com/vi/d_E3G5cdYDs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Chained Together 】もう一人じゃない😿✨【風真いろは/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -145,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ynGtdD72xSo",
         "picture": "https://i.ytimg.com/vi/ynGtdD72xSo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726230600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Sticky Terms】which demons that we\u0026#39;re summoning tonight?【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -207,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726232400,
         "title": "【 手描き切り抜き 】べすとおぶ手描き切り抜き‼みんなで観るにぇ～～～～‼✂【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ltdmbKXrJPs",
+        "picture": "https://i.ytimg.com/vi/ltdmbKXrJPs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726232400,
+        "title": "【MemberOnly】今日こそゴッドフィールドをする！！！！！！【天音かなた/ホロライブ】"
     }
 ]
