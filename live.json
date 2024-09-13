@@ -110,17 +110,6 @@
         "title": "【 Chained Together 】もう一人じゃない😿✨【風真いろは/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xK-lX5UjdbA",
-        "picture": "https://i.ytimg.com/vi/xK-lX5UjdbA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】歌ってみたを投稿したことある曲縛り【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": true,
@@ -207,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726232400,
         "title": "【キャプテン翼】最終回！完全初見による「キャプテン翼 RISE OF NEW CHAMPIONS」！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lLmfy6Vkd40",
+        "picture": "https://i.ytimg.com/vi/lLmfy6Vkd40/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726279200,
+        "title": "【LOVE, GHOSTIE】MATCHMAKING FROM THE DEAD, SOUNDS LIKE MY KIND OF GAME!!【Kureiji Ollie】"
     }
 ]
