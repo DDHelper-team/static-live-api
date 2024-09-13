@@ -79,24 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZKrFxrWoqTY",
-        "picture": "https://i.ytimg.com/vi/ZKrFxrWoqTY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xtHJxIgPMA8",
+        "picture": "https://i.ytimg.com/vi/xtHJxIgPMA8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UVeR6YrWypc",
-        "picture": "https://i.ytimg.com/vi/UVeR6YrWypc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ガンダムブレイカー4】自由にガンプラ作りたい【荒咬オウガ /ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726286400,
+        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
