@@ -1,27 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5prk6JNTbsI",
-        "picture": "https://i.ytimg.com/vi/5prk6JNTbsI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#BIG3】BIG3 声真似キングの会【ホロライブ/大空スバル】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bZFT-2qkzSM",
-        "picture": "https://i.ytimg.com/vi/bZFT-2qkzSM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6 】 おぼさんコーチング🔥本田について教えてどーん！！【ホロライブ / ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
@@ -66,17 +44,6 @@
         "title": "【SUIKAWA LEAD】声で指示厨する大冒険RPGで遊ぶ予定なんだけど様子がおかしい。【ホロライブ/白上フブキ 】"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jUpVX7nvEcM",
-        "picture": "https://i.ytimg.com/vi/jUpVX7nvEcM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドラゴンクエストI】完全初見プレイ！いざ、ドラクエの世界へ！※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -108,17 +75,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【A列車で行こう】はじまる観光計画！都市開発鉄道シミュレーション！【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AoTDF6JVvS8",
-        "picture": "https://i.ytimg.com/vi/AoTDF6JVvS8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】新曲きいてくれた？歌いたいなァ！後半記念配信のスパチャ読みです！【轟はじめ/ReGLOSS】　#hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
@@ -196,5 +152,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726405200,
         "title": "[BeAT X Kobo Kanaeru] PPP! Kobo Kanaeru Jadi Bintang Film BeAT"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UJXn_kfNfWk",
+        "picture": "https://i.ytimg.com/vi/UJXn_kfNfWk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726398000,
+        "title": "【 企画発表 】企画発表をします！！！！！！！！！！！！🌸☄【#miComet】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pYlQFuHdKso",
+        "picture": "https://i.ytimg.com/vi/pYlQFuHdKso/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726322400,
+        "title": "【メンバーシップ限定】ホロミーグリ前にちょっと雑談！"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jRUzmRkrWE8",
+        "picture": "https://i.ytimg.com/vi/jRUzmRkrWE8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726354800,
+        "title": "【Call of Duty: Black Ops】COVER MY 9!"
     }
 ]
