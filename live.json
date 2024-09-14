@@ -99,17 +99,6 @@
         "title": "【Black Myth Wukong】Reject Humanity Return to Monke【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=55GkU40I5AA",
-        "picture": "https://i.ytimg.com/vi/55GkU40I5AA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Apex Legends】第7回 Rakuten esports cup【 奏手イヅル / ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": true,
@@ -143,25 +132,14 @@
         "title": "【歌枠】新曲きいてくれた？歌いたいなァ！後半記念配信のスパチャ読みです！【轟はじめ/ReGLOSS】　#hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IDxMds8-Bnk",
-        "picture": "https://i.ytimg.com/vi/IDxMds8-Bnk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】楽天カップに出て商品をもらう人  / アステル"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mft_v4dc-Zc",
         "picture": "https://i.ytimg.com/vi/mft_v4dc-Zc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726317000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【EA SPORTS FC™ 24】CHAD【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -196,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726401600,
         "title": "【重大発表 / 3D配信】新3Dモデルお披露目！？マリンの美貌がさらなる高みへ──【⁠⁠#宝鐘マリン超超超重大発表】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3YpQzHkZcXY",
+        "picture": "https://i.ytimg.com/vi/3YpQzHkZcXY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726318800,
+        "title": "【Honor of Kings】Main....dan ...【holoID】"
     }
 ]
