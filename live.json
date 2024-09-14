@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=unR1WSwZ_4g",
         "picture": "https://i.ytimg.com/vi/unR1WSwZ_4g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726306200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#獅子神レオナ5thLive】This is Me! 夜公演冒頭無料配信 【獅子神レオナ/Re:AcT】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726318800,
         "title": "配信予定～～～～！！！今日も1番可愛いよねっ？【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tw-r38I6i5g",
+        "picture": "https://i.ytimg.com/vi/tw-r38I6i5g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726308000,
+        "title": "【ドラゴンボールZ　ドッカンバトル】ネタバレあり！　ブロリーガチャ【荒咬オウガ/ホロスターズ】#shorts"
     }
 ]
