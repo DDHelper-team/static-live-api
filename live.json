@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cwv_adCbldA",
         "picture": "https://i.ytimg.com/vi/cwv_adCbldA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726311600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Eggy Party】VS おみゃえら！！！視聴者対戦するぞ！！！！【天音かなた/ホロライブ】"
     },
     {
@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Nmw7IpqwOpQ",
-        "picture": "https://i.ytimg.com/vi/Nmw7IpqwOpQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YySJEybWQxk",
+        "picture": "https://i.ytimg.com/vi/YySJEybWQxk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【京まふ】ホロライブ1期生と事務所スタッフの京さんぽ🎵【ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726315200,
+        "title": "【SUIKAWA LEAD】声で指示厨する大冒険RPGで遊ぶ予定なんだけど様子がおかしい。【ホロライブ/白上フブキ 】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -86,17 +86,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ドラゴンクエストI】完全初見プレイ！いざ、ドラクエの世界へ！※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8NE_WuJ9bYs",
-        "picture": "https://i.ytimg.com/vi/8NE_WuJ9bYs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【原神】#15 -世界任務編 | 完全初見！探索が止まらん止まらん⛏️【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -134,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=INGDb1MKNqc",
         "picture": "https://i.ytimg.com/vi/INGDb1MKNqc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726311600,
-        "title": "【 企画 】まりみこめっと・・・・・！？！？！？！？！？！？！？！？【ホロライブ/さくらみこ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 企画 】勝手に⁉○○なホロメンランキング作ってみた🤔👑！？？？ #まりみこめっと 🏴‍☠️🌸☄【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
