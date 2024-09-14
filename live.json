@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=55GkU40I5AA",
         "picture": "https://i.ytimg.com/vi/55GkU40I5AA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726304400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】第7回 Rakuten esports cup【 奏手イヅル / ホロスターズ】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zjJgh7ZjEWs",
         "picture": "https://i.ytimg.com/vi/zjJgh7ZjEWs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726304400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 エリート陰陽師みこ 】みこちが主役のSTGに挑戦だあ～～～！【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IDxMds8-Bnk",
         "picture": "https://i.ytimg.com/vi/IDxMds8-Bnk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726304400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】楽天カップに出て商品をもらう人  / アステル"
     },
     {
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726317000,
         "title": "【EA SPORTS FC™ 24】CHAD【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=hn29GG88iRY",
+        "picture": "https://i.ytimg.com/vi/hn29GG88iRY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "いろんな人に会って、いろんな事があったね～【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
