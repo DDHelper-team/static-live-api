@@ -157,12 +157,12 @@
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=pYlQFuHdKso",
-        "picture": "https://i.ytimg.com/vi/pYlQFuHdKso/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726322400,
-        "title": "【メンバーシップ限定】ホロミーグリ前にちょっと雑談！"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726354800,
         "title": "【Call of Duty: Black Ops】COVER MY 9!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xSfe7i36pZU",
+        "picture": "https://i.ytimg.com/vi/xSfe7i36pZU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726394400,
+        "title": "【】んなななな(・o・🍬)【姫森ルーナ/ホロライブ】"
     }
 ]
