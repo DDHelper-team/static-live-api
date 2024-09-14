@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5prk6JNTbsI",
         "picture": "https://i.ytimg.com/vi/5prk6JNTbsI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726315200,
-        "title": "【】BIG3 声真似キングの会【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#BIG3】BIG3 声真似キングの会【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -31,17 +31,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【🔰パワフルプロ野球2024-2025🔰】完全初心者が国立ピザ屋高校で栄冠ナイン優勝したい #3【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cwv_adCbldA",
-        "picture": "https://i.ytimg.com/vi/cwv_adCbldA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Eggy Party】VS おみゃえら！！！視聴者対戦するぞ！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -68,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YySJEybWQxk",
         "picture": "https://i.ytimg.com/vi/YySJEybWQxk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726315200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SUIKAWA LEAD】声で指示厨する大冒険RPGで遊ぶ予定なんだけど様子がおかしい。【ホロライブ/白上フブキ 】"
     },
     {
@@ -90,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gPIrDxX1D4I",
         "picture": "https://i.ytimg.com/vi/gPIrDxX1D4I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726315200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 声マネキング 】声真似で１００点満点を目指せ！！！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -176,17 +165,6 @@
         "title": "【EA SPORTS FC™ 24】CHAD【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hn29GG88iRY",
-        "picture": "https://i.ytimg.com/vi/hn29GG88iRY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "いろんな人に会って、いろんな事があったね～【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "islive": false,
@@ -207,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726318800,
         "title": "【メン限】メンバーバッジ作り【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=H21332G97cw",
+        "picture": "https://i.ytimg.com/vi/H21332G97cw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726401600,
+        "title": "【重大発表 / 3D配信】新3Dモデルお披露目！？マリンの美貌がさらなる高みへ──【⁠⁠#宝鐘マリン超超超重大発表】"
     }
 ]
