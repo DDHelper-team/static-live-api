@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=POqwqH0xEHc",
-        "picture": "https://i.ytimg.com/vi/POqwqH0xEHc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5prk6JNTbsI",
+        "picture": "https://i.ytimg.com/vi/5prk6JNTbsI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#2】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726315200,
+        "title": "【】BIG3 声真似キングの会【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -121,17 +121,6 @@
         "title": "【 声マネキング 】声真似で１００点満点を目指せ！！！【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SxHEx4QzlZo",
-        "picture": "https://i.ytimg.com/vi/SxHEx4QzlZo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】青ウーパールーパーが欲しい！！！のでその準備【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": false,
@@ -207,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726304400,
         "title": "【APEX】楽天カップに出て商品をもらう人  / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mft_v4dc-Zc",
+        "picture": "https://i.ytimg.com/vi/mft_v4dc-Zc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726317000,
+        "title": "【EA SPORTS FC™ 24】CHAD【Kaela Kovalskia / hololiveID】"
     }
 ]
