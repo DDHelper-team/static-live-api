@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jUpVX7nvEcM",
         "picture": "https://i.ytimg.com/vi/jUpVX7nvEcM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726300800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラゴンクエストI】完全初見プレイ！いざ、ドラクエの世界へ！※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】"
     },
     {
@@ -196,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726304400,
         "title": "【 エリート陰陽師みこ 】みこちが主役のSTGに挑戦だあ～～～！【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AoTDF6JVvS8",
+        "picture": "https://i.ytimg.com/vi/AoTDF6JVvS8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726308000,
+        "title": "【歌枠】新曲きいてくれた？歌いたいなァ！後半記念配信のスパチャ読みです！【轟はじめ/ReGLOSS】　#hololivedev_is"
     }
 ]
