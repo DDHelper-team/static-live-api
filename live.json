@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WnKCmQ2iXww",
-        "picture": "https://i.ytimg.com/vi/WnKCmQ2iXww/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V8YyIR4jVvY",
+        "picture": "https://i.ytimg.com/vi/V8YyIR4jVvY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【マリオパーティ】僕と一緒に遊んでくれませんか！＠３【#突発ホロパーティー】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726491600,
+        "title": "もぐもぐめんげん🌼ˊ˗"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -196,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726437600,
         "title": "【9月16日】お月見SP #花岸れいでぃお 第61回【花咲みやび/岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7J-WCoUNUvA",
+        "picture": "https://i.ytimg.com/vi/7J-WCoUNUvA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726473600,
+        "title": "【声マネキング】お題と同じ声を出すゲームで100点を大量に獲れ！！！【博衣こより/ホロライブ】"
     }
 ]
