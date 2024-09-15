@@ -132,17 +132,6 @@
         "title": "【 -`🎙 歌枠/Singing 】6tn Anniversary🎂6周年ありがとう！  #Re_KMKL 【獅子神レオナ/Re:AcT】"
     },
     {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wPk3oOE7fNg",
-        "picture": "https://i.ytimg.com/vi/wPk3oOE7fNg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#原神 】週末的下午非常適合繼續來跑第五章劇情！火神大人該出場了吧【#遊戲個人勢 / Fingla】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -189,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zenB8W-At-Q",
         "picture": "https://i.ytimg.com/vi/zenB8W-At-Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726399800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】ダンジョン!?ボス!?全く知らないマイクラ世界！まぁ俺の方が強いけどね #1【アルランディス/ホロスターズ】 #VCRマイクラ"
     },
     {
@@ -218,17 +207,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726405200,
         "title": "【GeoGuessr】日本の鉄道・駅・鉄道博物館をGUESSする！【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=grQuYClMt2Q",
-        "picture": "https://i.ytimg.com/vi/grQuYClMt2Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】再びランクマッチ仙人に戻ります！！【岸堂天真/ホロスターズ】※アドバイス求む"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -273,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726405200,
         "title": "【スプラトゥーン3】グランドフェス！「過去」陣営！フレアイリスでいく！【不知火フレア/IRyS/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=75kYfJKQ5v4",
+        "picture": "https://i.ytimg.com/vi/75kYfJKQ5v4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726439400,
+        "title": "【 #朝ミオ 】９月だけどまだ夏を感じる・・おはみぉーん！"
     }
 ]
