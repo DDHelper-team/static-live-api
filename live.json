@@ -77,17 +77,6 @@
         "title": "【#VCRマイクラ Minecraft】なんということでしょう。 / 匠・アステル・建築レダ家"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bnJqUSEkiIQ",
-        "picture": "https://i.ytimg.com/vi/bnJqUSEkiIQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VCR Minecraft β】1日目【夕刻ロベル/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "islive": false,
@@ -174,5 +163,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726437600,
         "title": "【Pikmin 2】 The authentic kindergarten teacher on a field trip experience"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "COOKING IRL w/ @laynalazar and evil"
     }
 ]
