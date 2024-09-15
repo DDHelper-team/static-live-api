@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UJXn_kfNfWk",
         "picture": "https://i.ytimg.com/vi/UJXn_kfNfWk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726398000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 企画発表 】企画発表をします！！！！！！！！！！！！🌸☄【#miComet】"
     },
     {
@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QVvs9Cggh_8",
         "picture": "https://i.ytimg.com/vi/QVvs9Cggh_8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726398000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part1 #VCRマイクラ【アキロゼ/ホロライブ】"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Uxd8B4IqUps",
         "picture": "https://i.ytimg.com/vi/Uxd8B4IqUps/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726398000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 nosh ナッシュ 】食レポ下手なんて言わせない・・・！実はユーザーでした。【百鬼あやめ/ホロライブ】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR Minecraft β】1日目【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wARtONP4VoI",
+        "picture": "https://i.ytimg.com/vi/wARtONP4VoI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726405200,
+        "title": "【スプラトゥーン3】グランドフェス！「過去」陣営！フレアイリスでいく！【不知火フレア/IRyS/ホロライブ】"
     }
 ]
