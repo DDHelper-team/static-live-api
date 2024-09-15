@@ -77,17 +77,6 @@
         "title": "【Eggy Party】視聴者参加タイムあり！ロボタールと遊ぼ！！ #ホロeggy 【アキロゼ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8s4rgD0AGdw",
-        "picture": "https://i.ytimg.com/vi/8s4rgD0AGdw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#3】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "islive": true,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726398000,
         "title": "【 nosh ナッシュ 】食レポ下手なんて言わせない・・・！実はユーザーでした。【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZyGXgwWMNe0",
+        "picture": "https://i.ytimg.com/vi/ZyGXgwWMNe0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726401600,
+        "title": "【Escape from Tarkov】生徒はししろんとドンピシャさん、講師はありさかさんでタルコフを遊ぶ！【獅白ぼたん/ホロライブ】"
     }
 ]
