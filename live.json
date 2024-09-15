@@ -46,46 +46,35 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xSfe7i36pZU",
         "picture": "https://i.ytimg.com/vi/xSfe7i36pZU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726394400,
-        "title": "【】んなななな(・o・🍬)【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Rock Simulator 】イチ推しトークを振り返りながら岩を見るのら！【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yM_ZqUlxZ3M",
         "picture": "https://i.ytimg.com/vi/yM_ZqUlxZ3M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726394400,
-        "title": "【やりたい配信があるけど調整中】予定地 メンバー限定壁紙SAMPLEはっておく！【一条莉々華/hololive DEV_IS　ReGLOSS】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【声マネキング】マイク買えた！！莉々華は天才？凡才？それとも…【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1DGBfYr392Y",
-        "picture": "https://i.ytimg.com/vi/1DGBfYr392Y/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QVvs9Cggh_8",
+        "picture": "https://i.ytimg.com/vi/QVvs9Cggh_8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Eggy Party】視聴者参加タイムあり！ロボタールと遊ぼ！！ #ホロeggy 【アキロゼ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mobPvCdRlN0",
-        "picture": "https://i.ytimg.com/vi/mobPvCdRlN0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Eggy Party】視聴者参加型✨#ロボタール  と遊ぼぉ！はろーぼー！ #ホロeggy 【ロボ子さん視点/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726398000,
+        "title": "【VCR Minecraft β】マイクラだけどMMO !??  part1 #VCRマイクラ【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -255,13 +244,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p8h-bkDePVA",
         "picture": "https://i.ytimg.com/vi/p8h-bkDePVA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726394400,
-        "title": "#VCRマイクラ その１【 奏手イヅル / ホロスターズ 】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VCR Minecraft β】その１【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -270,8 +259,8 @@
         "link": "https://www.youtube.com/watch?v=PFoEOpiXNXU",
         "picture": "https://i.ytimg.com/vi/PFoEOpiXNXU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1726393500,
+        "status": "READY_TO_LIVE",
+        "timestamp": null,
         "title": "【#VCRマイクラ Minecraft】なんということでしょう。 / 匠・アステル・建築レダ家"
     },
     {
