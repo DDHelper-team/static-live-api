@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2T-mT-S1Agw",
         "picture": "https://i.ytimg.com/vi/2T-mT-S1Agw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726441200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Call of Duty: Black Ops】THE NUMBERS, PEBBLES!"
     },
     {
@@ -97,16 +97,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Pikmin 2】 The authentic kindergarten teacher on a field trip experience"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "WHO LET THEM COOK? w/ @laynalazar , Evil and Vedal"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
