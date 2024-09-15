@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NeSapD6zicU",
         "picture": "https://i.ytimg.com/vi/NeSapD6zicU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726387200,
-        "title": "【1つ目】ホラゲー3連発スペシャル【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "①【ウラヤマ】絶対に立ち入ってはいけない田舎での事件【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726401600,
         "title": "【Escape from Tarkov】生徒はししろんとドンピシャさん、講師はありさかさんでタルコフを遊ぶ！【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=1wqBLGJZIn4",
+        "picture": "https://i.ytimg.com/vi/1wqBLGJZIn4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】サイン書き終えて自由の扉開けそう【花咲みやび/ホロスターズ】"
     }
 ]
