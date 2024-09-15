@@ -165,17 +165,6 @@
         "title": "【 #朝ミオ 】９月だけどまだ夏を感じる・・おはみぉーん！"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MarFOs4RaXE",
-        "picture": "https://i.ytimg.com/vi/MarFOs4RaXE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【AREA15】Talkin Talking!!! aftertalk!【hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【pre-hololiveGTA yap \u0026amp; prep】I have many things to prepare【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KGhC1BCb9Pg",
+        "picture": "https://i.ytimg.com/vi/KGhC1BCb9Pg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726437600,
+        "title": "【9月16日】お月見SP #花岸れいでぃお 第61回【花咲みやび/岸堂天真/ホロスターズ】"
     }
 ]
