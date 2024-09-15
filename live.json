@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H21332G97cw",
         "picture": "https://i.ytimg.com/vi/H21332G97cw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726401600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【重大発表 / 3D配信】新3Dモデルお披露目！？マリンの美貌がさらなる高みへ──【⁠⁠#宝鐘マリン超超超重大発表】"
     },
     {
@@ -31,17 +31,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726405200,
         "title": "[BeAT X Kobo Kanaeru] PPP! Kobo Kanaeru Jadi Bintang Film BeAT"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UJXn_kfNfWk",
-        "picture": "https://i.ytimg.com/vi/UJXn_kfNfWk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA 】ホロライブGTA サーバー説明会🌸☄【#miComet】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -123,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ryPewk3M_Ho",
         "picture": "https://i.ytimg.com/vi/ryPewk3M_Ho/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726401600,
-        "title": "【 -`🎙 歌枠/Singing 】6tn Anniversary🎂6周年ありがとう！  #Re_KMKL 【獅子神レオナ/Re:AcT】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 -`🎙 歌枠/Singing 】6th Anniversary🎂6周年ありがとう！  #Re_KMKL 【獅子神レオナ/Re:AcT】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -156,23 +145,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZyGXgwWMNe0",
         "picture": "https://i.ytimg.com/vi/ZyGXgwWMNe0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726401600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Escape from Tarkov】生徒はししろんとドンピシャさん、講師はありさかさんでタルコフを遊ぶ！【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wrvD6T50b64",
         "picture": "https://i.ytimg.com/vi/wrvD6T50b64/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726401600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【加班台】當兵時所吃的鹽是細鹽還是粗鹽? 粗鹽。因為軍無細鹽（君無戲言）【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
     },
     {
@@ -262,5 +251,60 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726439400,
         "title": "【 #朝ミオ 】９月だけどまだ夏を感じる・・おはみぉーん！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MarFOs4RaXE",
+        "picture": "https://i.ytimg.com/vi/MarFOs4RaXE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726405200,
+        "title": "【AREA15】Talkin Talking!!! aftertalk!【hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y988SGDhkCM",
+        "picture": "https://i.ytimg.com/vi/Y988SGDhkCM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726488000,
+        "title": "🎖️誕生日記念グッズ販売中!!!🎖️"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Bq9-k5muqq4",
+        "picture": "https://i.ytimg.com/vi/Bq9-k5muqq4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726488000,
+        "title": "【】6周年！【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=jwmEXKqczi4",
+        "picture": "https://i.ytimg.com/vi/jwmEXKqczi4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スプラトゥーン3】努力、未来、未来未来未来【影山シエン/夜十神封魔/柚原いづみ/空星きらめ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ct0AHTeNPzc",
+        "picture": "https://i.ytimg.com/vi/Ct0AHTeNPzc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726405200,
+        "title": "【お宝マウンテン】世界記録を目指す配信です！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
