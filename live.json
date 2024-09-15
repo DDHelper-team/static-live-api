@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=75kYfJKQ5v4",
         "picture": "https://i.ytimg.com/vi/75kYfJKQ5v4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726439400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】９月だけどまだ夏を感じる・・おはみぉーん！"
     },
     {
@@ -128,6 +128,17 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "WHO LET THEM COOK? w/ @laynalazar , Evil and Vedal"
+        "title": null
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KnHfAzgBKXM",
+        "picture": "https://i.ytimg.com/vi/KnHfAzgBKXM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726477200,
+        "title": "PR『Eggy Party』え～～～～～ぐい楽しいゲームが出てるらしいゾ / アステルレダ"
     }
 ]
