@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8s4rgD0AGdw",
         "picture": "https://i.ytimg.com/vi/8s4rgD0AGdw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726372800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#3】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】"
     },
     {
@@ -152,5 +152,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【原神】最推し\u0026quot;万葉\u0026quot;を完凸させるまで終われません🍁【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ER2c2cTIDq8",
+        "picture": "https://i.ytimg.com/vi/ER2c2cTIDq8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726380900,
+        "title": "黑神話：悟空｜火燄山【Healing希靈/VTuber】"
     }
 ]
