@@ -68,23 +68,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1DGBfYr392Y",
         "picture": "https://i.ytimg.com/vi/1DGBfYr392Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726390800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Eggy Party】視聴者参加タイムあり！ロボタールと遊ぼ！！ #ホロeggy 【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mobPvCdRlN0",
         "picture": "https://i.ytimg.com/vi/mobPvCdRlN0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726390800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Eggy Party】視聴者参加型✨#ロボタール  と遊ぼぉ！はろーぼー！ #ホロeggy 【ロボ子さん視点/ホロライブ】"
     },
     {
@@ -168,12 +168,12 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=NeSapD6zicU",
-        "picture": "https://i.ytimg.com/vi/NeSapD6zicU/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=Tz-oP_P68GI",
+        "picture": "https://i.ytimg.com/vi/Tz-oP_P68GI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "①【ウラヤマ】絶対に立ち入ってはいけない田舎での事件【ホロライブ/兎田ぺこら】"
+        "title": "②【不審者情報】不審者がいると情報が入ってきました！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -218,5 +218,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談】サイン書き終えて自由の扉開けそう【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wrvD6T50b64",
+        "picture": "https://i.ytimg.com/vi/wrvD6T50b64/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726401600,
+        "title": "【加班台】當兵時所吃的鹽是細鹽還是粗鹽? 粗鹽。因為軍無細鹽（君無戲言）【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #初見歡迎"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zenB8W-At-Q",
+        "picture": "https://i.ytimg.com/vi/zenB8W-At-Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726399800,
+        "title": "【VCR Minecraft β】ダンジョン!?ボス!?全く知らないマイクラ世界！まぁ俺の方が強いけどね #1【アルランディス/ホロスターズ】 #VCRマイクラ"
     }
 ]
