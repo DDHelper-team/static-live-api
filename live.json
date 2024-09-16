@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yjvGiej1NQs",
         "picture": "https://i.ytimg.com/vi/yjvGiej1NQs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1726486200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part2 #VCRマイクラ【アキロゼ/ホロライブ】"
     },
     {
@@ -152,17 +152,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726488000,
         "title": "Senin Produktif! Making Arts for Holo GTA!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=k9wODsmJkkg",
-        "picture": "https://i.ytimg.com/vi/k9wODsmJkkg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【LOVE, GHOSTIE】SHIPPING AND WATCHING MY OTPs SAIL!!【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -273,5 +262,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726567200,
         "title": "≪#holoGTA≫ WE BOUT TO MAKE THIS TOWN GO BOOM! #1"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=cnrzVY1QdLI",
+        "picture": "https://i.ytimg.com/vi/cnrzVY1QdLI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VCR Minecraft β】その２【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QV2fT7P6Qhk",
+        "picture": "https://i.ytimg.com/vi/QV2fT7P6Qhk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726488000,
+        "title": "【-`🎮 Lethal Company】やっとパクレ丸の二次会だ～～！🔦【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VvfqkS7Gm-A",
+        "picture": "https://i.ytimg.com/vi/VvfqkS7Gm-A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726491600,
+        "title": "【雑談】3連休終わっちゃうね【荒咬オウガ /ホロスターズ】"
     }
 ]
