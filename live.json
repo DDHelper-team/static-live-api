@@ -61,7 +61,7 @@
         "link": "https://www.youtube.com/watch?v=yjvGiej1NQs",
         "picture": "https://i.ytimg.com/vi/yjvGiej1NQs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1726486200,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part2 #VCRマイクラ【アキロゼ/ホロライブ】"
     },
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FQj63qgGZ5o",
         "picture": "https://i.ytimg.com/vi/FQj63qgGZ5o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726486200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】おそらくきっと方針とか決まりそうな予感がしてると思うんだよね。  #2【アルランディス/ホロスターズ】 #VCRマイクラ"
     },
     {
