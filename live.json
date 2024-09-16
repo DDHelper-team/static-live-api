@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JBsWtFoqvBk",
         "picture": "https://i.ytimg.com/vi/JBsWtFoqvBk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726489800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【2.5次元的誘惑】一小時限定劇情奔跑！【#遊戲個人勢 / Fingla】"
     },
     {
@@ -141,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "Senin Produktif! Making Arts for Holo GTA!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ww_mDsLqAlc",
-        "picture": "https://i.ytimg.com/vi/Ww_mDsLqAlc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 雑談 】3連日お疲れ様‼イベントのこととかGTAのこととか色々お話～♪【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -273,17 +262,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726491600,
         "title": "【雑談】3連休終わっちゃうね【荒咬オウガ /ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=odMeoy1v-YQ",
-        "picture": "https://i.ytimg.com/vi/odMeoy1v-YQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726491600,
-        "title": "【MemberOnly】直筆メッセージ書きながらまったり雑談🔥【不知火フレア/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
