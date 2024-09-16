@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZBuwAGUJpbI",
         "picture": "https://i.ytimg.com/vi/ZBuwAGUJpbI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726524000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Chatting Stream】Yappin\u0026#39; \u0026amp; Super Chattin\u0026#39;"
     },
     {
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=K11ymMh5XDU",
         "picture": "https://i.ytimg.com/vi/K11ymMh5XDU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726524044,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】あと4日でライブってまじ。【緋月ゆい/ネオポルテ】"
     },
     {
