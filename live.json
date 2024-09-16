@@ -304,7 +304,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Welcome to the Evil and Neuro stream!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -371,5 +371,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726567200,
         "title": "【#holoGTA】ギリギリわるくない（？）警察官です！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=K11ymMh5XDU",
+        "picture": "https://i.ytimg.com/vi/K11ymMh5XDU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726524044,
+        "title": "【雑談】あと4日でライブってまじ。【緋月ゆい/ネオポルテ】"
     }
 ]
