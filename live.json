@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6Iqxqr63Fr8",
         "picture": "https://i.ytimg.com/vi/6Iqxqr63Fr8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726448400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【THE BATHHOUSE｜RE: 地獄銭湯】scary onsen trip, all on our own... 🐾 【FUWAMOCO】"
     },
     {
@@ -108,5 +108,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726484400,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part2 #VCRマイクラ【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UCMHfpnrb9o",
+        "picture": "https://i.ytimg.com/vi/UCMHfpnrb9o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726534800,
+        "title": "【Paper Mario: TTYD】Your Koopers are Mine Ep-02"
     }
 ]
