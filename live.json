@@ -55,17 +55,6 @@
         "title": "【Membership Only】ないしょの雑談、しよっ？(ᐡ •͈ ·̫ •͈ ᐡ)♡【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mHqHBo-KiA4",
-        "picture": "https://i.ytimg.com/vi/mHqHBo-KiA4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【食べ比べ】ぺこらと一緒に月見でマックデリバリーしよ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -73,7 +62,7 @@
         "picture": "https://i.ytimg.com/vi/yjvGiej1NQs/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1726484400,
+        "timestamp": 1726486200,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part2 #VCRマイクラ【アキロゼ/ホロライブ】"
     },
     {
@@ -139,7 +128,7 @@
         "picture": "https://i.ytimg.com/vi/FQj63qgGZ5o/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1726484400,
+        "timestamp": 1726486200,
         "title": "【VCR Minecraft β】おそらくきっと方針とか決まりそうな予感がしてると思うんだよね。  #2【アルランディス/ホロスターズ】 #VCRマイクラ"
     },
     {
@@ -255,12 +244,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NJOGCpr7-XU",
         "picture": "https://i.ytimg.com/vi/NJOGCpr7-XU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726484400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#VCRマイクラ Minecraft】二日目 私たちは、王族 / 匠・アステル・建築レダ家"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uoFmxt7uIBo",
+        "picture": "https://i.ytimg.com/vi/uoFmxt7uIBo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726493400,
+        "title": "【VCR Minecraft β】2日目【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KLh7LMnS-LQ",
+        "picture": "https://i.ytimg.com/vi/KLh7LMnS-LQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726567200,
+        "title": "≪#holoGTA≫ WE BOUT TO MAKE THIS TOWN GO BOOM! #1"
     }
 ]
