@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6Iqxqr63Fr8",
-        "picture": "https://i.ytimg.com/vi/6Iqxqr63Fr8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7UFZB7FS-TA",
+        "picture": "https://i.ytimg.com/vi/7UFZB7FS-TA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【THE BATHHOUSE｜RE: 地獄銭湯】scary onsen trip, all on our own... 🐾 【FUWAMOCO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726498800,
+        "title": "【FUWAMOCO MORNING】episode 126 🐾 #FWMCMORNING"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -196,5 +196,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726488000,
         "title": "Senin Produktif! Making Arts for Holo GTA!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=k9wODsmJkkg",
+        "picture": "https://i.ytimg.com/vi/k9wODsmJkkg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726477200,
+        "title": "【LOVE, GHOSTIE】SHIPPING AND WATCHING MY OTPs SAIL!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ww_mDsLqAlc",
+        "picture": "https://i.ytimg.com/vi/Ww_mDsLqAlc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726477200,
+        "title": "【 雑談 】3連日お疲れ様‼イベントのこととかGTAのこととか色々お話～♪【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uNzVd8NHtXI",
+        "picture": "https://i.ytimg.com/vi/uNzVd8NHtXI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726491600,
+        "title": "【声マネキング】聞いた音を声でマネる王に俺はなる！！！【角巻わため/ホロライブ４期生】"
     }
 ]
