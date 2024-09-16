@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GHcyRXEePho",
         "picture": "https://i.ytimg.com/vi/GHcyRXEePho/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726515000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【BLACK MYTH: WUKONG】still going west【Dokibird】"
     },
     {
