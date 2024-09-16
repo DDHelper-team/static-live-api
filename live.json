@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yjvGiej1NQs",
-        "picture": "https://i.ytimg.com/vi/yjvGiej1NQs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-E74H_GecA4",
+        "picture": "https://i.ytimg.com/vi/-E74H_GecA4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VCR Minecraft β】マイクラだけどMMO !??  part2 #VCRマイクラ【アキロゼ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726567200,
+        "title": "【 #ホロGTA 】ギャングのアンダーボスとして Day.1【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -97,17 +97,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726567200,
         "title": "【#holoGTA RP】The Law is Sacred, Honey! (part 1) || Mori Calliope #calliolive"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NJOGCpr7-XU",
-        "picture": "https://i.ytimg.com/vi/NJOGCpr7-XU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#VCRマイクラ Minecraft】二日目 私たちは、王族 / 匠・アステル・建築レダ家"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
