@@ -22,26 +22,15 @@
         "title": "もぐもぐめんげん🌼ˊ˗"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Y988SGDhkCM",
-        "picture": "https://i.ytimg.com/vi/Y988SGDhkCM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726488000,
-        "title": "🎖️誕生日記念グッズ販売中!!!🎖️"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Bq9-k5muqq4",
         "picture": "https://i.ytimg.com/vi/Bq9-k5muqq4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726488000,
-        "title": "【】6周年！【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#大空スバル６周年】6周年！しゅばああああああああああああああああああ！！！！ / 6 anniversary \u0026amp; new outfit \u0026amp; original song【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -145,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WOBVKJUnmsA",
         "picture": "https://i.ytimg.com/vi/WOBVKJUnmsA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726488000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Senin Produktif! Making Arts for Holo GTA!"
     },
     {
@@ -220,17 +209,6 @@
         "title": "【#holoGTA RP】The Law is Sacred, Honey! (part 1) || Mori Calliope #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=F8Mx4UYsEBQ",
-        "picture": "https://i.ytimg.com/vi/F8Mx4UYsEBQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【声マネキング】マイクが・・・・・・ある！！！！！！！！【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
@@ -277,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QV2fT7P6Qhk",
         "picture": "https://i.ytimg.com/vi/QV2fT7P6Qhk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726488000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【-`🎮 Lethal Company】やっとパクレ丸の二次会だ～～！🔦【獅子神レオナ/Re:AcT】"
     },
     {
@@ -295,5 +273,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726491600,
         "title": "【雑談】3連休終わっちゃうね【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=odMeoy1v-YQ",
+        "picture": "https://i.ytimg.com/vi/odMeoy1v-YQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726491600,
+        "title": "【MemberOnly】直筆メッセージ書きながらまったり雑談🔥【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6Nmgv5ixTKA",
+        "picture": "https://i.ytimg.com/vi/6Nmgv5ixTKA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726491600,
+        "title": "【 メンバー限定 】あしたから騒がしいのでチルろうの会【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=U1_zMMnvU64",
+        "picture": "https://i.ytimg.com/vi/U1_zMMnvU64/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726567200,
+        "title": "【#holoGTA】 We Are Helping!!!! 【#1】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wYDwzWadEqM",
+        "picture": "https://i.ytimg.com/vi/wYDwzWadEqM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726567200,
+        "title": "【#holoGTA】ぶんぶんぶーん！怪我人は轟車に乗りなァ！【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
