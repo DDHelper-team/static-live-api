@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mHqHBo-KiA4",
         "picture": "https://i.ytimg.com/vi/mHqHBo-KiA4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726480800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【食べ比べ】ぺこらと一緒に月見でマックデリバリーしよ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hBCuxKTdkvk",
         "picture": "https://i.ytimg.com/vi/hBCuxKTdkvk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726480800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Chillquarium 】イチ推しトークを振り返りながらお魚しゃんを眺めるのら！【姫森ルーナ/ホロライブ】"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7qjscR8wJe8",
         "picture": "https://i.ytimg.com/vi/7qjscR8wJe8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726480800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "壺男とイチ推しトーク振り返る！【赤井はあと/ホロライブ】"
     },
     {
@@ -207,5 +207,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726534800,
         "title": "【Frostpunk 2】The Warden\u0026#39;s Return"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-xF5DScUTNg",
+        "picture": "https://i.ytimg.com/vi/-xF5DScUTNg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726484400,
+        "title": "【M.M.M.】Monday Malam Malas : Malas time【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZQqoLAUm69c",
+        "picture": "https://i.ytimg.com/vi/ZQqoLAUm69c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726567200,
+        "title": "【#holoGTA RP】 DAY 1 - PavoNova is JOINING FORCES!🍗🍔【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1jhSBoFszpE",
+        "picture": "https://i.ytimg.com/vi/1jhSBoFszpE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726567200,
+        "title": "【#holoGTA RP】The Law is Sacred, Honey! (part 1) || Mori Calliope #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=F8Mx4UYsEBQ",
+        "picture": "https://i.ytimg.com/vi/F8Mx4UYsEBQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726484400,
+        "title": "【声マネキング】マイクが・・・・・・ある！！！！！！！！【天音かなた/ホロライブ】"
     }
 ]
