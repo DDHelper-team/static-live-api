@@ -143,17 +143,6 @@
         "title": "【VCR Minecraft β】その２【 奏手イヅル / ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QV2fT7P6Qhk",
-        "picture": "https://i.ytimg.com/vi/QV2fT7P6Qhk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【-`🎮 Lethal Company】やっとパクレ丸の二次会だ～～！🔦【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -273,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726567200,
         "title": "【 #holoGTA DAY1 】万屋開業。この世界の治安を終わらせていく。【星街すいせい / ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fImO3rGxTAE",
+        "picture": "https://i.ytimg.com/vi/fImO3rGxTAE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726563600,
+        "title": "【Eggy Party】視聴者と対戦を行うぞ！！！！【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IaPeWjmEidU",
+        "picture": "https://i.ytimg.com/vi/IaPeWjmEidU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726567200,
+        "title": "【#holoGTA DAY1】ホロスサントスの世界へ！白銀聖騎士団の団長なので市民の味方！警察官になりますッ！！【白銀ノエル/ホロライブ】"
     }
 ]
