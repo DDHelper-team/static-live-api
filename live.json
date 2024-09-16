@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-xF5DScUTNg",
         "picture": "https://i.ytimg.com/vi/-xF5DScUTNg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726484400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M.】Monday Malam Malas : Malas time【Ayunda Risu】"
     },
     {
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F8Mx4UYsEBQ",
         "picture": "https://i.ytimg.com/vi/F8Mx4UYsEBQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726484400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【声マネキング】マイクが・・・・・・ある！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
