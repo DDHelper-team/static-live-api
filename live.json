@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qyLeWwmt1Jw",
         "picture": "https://i.ytimg.com/vi/qyLeWwmt1Jw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726462800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】"
     }
 ]
