@@ -211,11 +211,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=1iz9AxcgvPg",
         "picture": "https://i.ytimg.com/vi/1iz9AxcgvPg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #holoGTA DAY1 】れっつごーぎゃんぐ！！ホロサントスの街にいざ上陸【百鬼あやめ/ホロライブ】"
     },
@@ -427,17 +427,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#holoGTA】#1 善良な善良な善良な善良な、かなたそ。街を見て回る【天音かなた/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7QbMzjXL0NU",
-        "picture": "https://i.ytimg.com/vi/7QbMzjXL0NU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA】こう見えて警察ですが＾＾【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
