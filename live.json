@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NedBZMJIJLU",
-        "picture": "https://i.ytimg.com/vi/NedBZMJIJLU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WSr06P7LYK4",
+        "picture": "https://i.ytimg.com/vi/WSr06P7LYK4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VCR Minecraft β】マイクラだけどMMO !??  part3 #VCRマイクラ【アキロゼ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【 #ホロGTA 】ギャングのアンダーボスとして Day.2【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
