@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=afBfHPzkJ4U",
         "picture": "https://i.ytimg.com/vi/afBfHPzkJ4U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726610400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PICO PARK 2】oh no....【Dokibird】"
     },
     {
