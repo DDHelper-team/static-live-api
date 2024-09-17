@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AMMkpBwLOb8",
-        "picture": "https://i.ytimg.com/vi/AMMkpBwLOb8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA 】ギャングの頭脳～！イくよぉ～！面白いコト、したいネ・・・♡【博衣こより/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -57,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IaPeWjmEidU",
-        "picture": "https://i.ytimg.com/vi/IaPeWjmEidU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_yuGKXp8ojs",
+        "picture": "https://i.ytimg.com/vi/_yuGKXp8ojs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA DAY1】ホロスサントスの世界へ！白銀聖騎士団の団長なので市民の味方！警察官になりますッ！！【白銀ノエル/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA DAY2】(サムネ後から修正します！)ホロスサントスの世界をととノエル！警官いきます！！【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
@@ -97,17 +86,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#holoGTA】Adventure in holoSantos! 行くぜホロスサントス！DAY 1【hololive ID 2nd Generation | Anya Melfissa】"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qpJ3vtg1WEo",
-        "picture": "https://i.ytimg.com/vi/qpJ3vtg1WEo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA DAY1 】ギャンブル費用を稼ぐため、いっぱいお注射するね💖【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -207,5 +185,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726614000,
         "title": "【Black Myth: Wukong】From Rock to MONKE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Fw8vqUVV6Ro",
+        "picture": "https://i.ytimg.com/vi/Fw8vqUVV6Ro/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA】 Okane....Hoshii.....More...MORE!!!! 【#2】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EPYScF_mv_0",
+        "picture": "https://i.ytimg.com/vi/EPYScF_mv_0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "≪#holoGTA≫ Money Money Money #2"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-O8FW-MJ9yA",
+        "picture": "https://i.ytimg.com/vi/-O8FW-MJ9yA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【 #holoGTA DAY1】メカニック社長の2日目🔧【ホロライブ/猫又おかゆ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9InJ37rpbmU",
+        "picture": "https://i.ytimg.com/vi/9InJ37rpbmU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【 #holoGTA 】ギャングのブレインボマー🧠怪盗コヨコヨ今日も見参ッッッ！！！✨【博衣こより/ホロライブ】"
     }
 ]
