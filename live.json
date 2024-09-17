@@ -570,5 +570,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR Minecraft β】その３【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9hPTTExk9Es",
+        "picture": "https://i.ytimg.com/vi/9hPTTExk9Es/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726578000,
+        "title": "【 Marvel vs. Capcom Fighting Collection: Arcade Classics】マブカプ遊ぶ【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=EZ0mxBkFQZ0",
+        "picture": "https://i.ytimg.com/vi/EZ0mxBkFQZ0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠 / Singing】まったりとお付き合いくださいな♪【#新人vtuber 】"
     }
 ]
