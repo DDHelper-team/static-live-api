@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AyMJRHBk9nY",
         "picture": "https://i.ytimg.com/vi/AyMJRHBk9nY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726545613,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】ゆるく探索しながら、たそまるともしもし📞【緋月ゆい/ネオポルテ】"
     },
     {
