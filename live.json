@@ -110,17 +110,6 @@
         "title": "【#holoGTA】俺はこの街の記者ポルカ、今日もホロスサントスはニュースが絶えない。【尾丸ポルカ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3ndruCU5XdI",
-        "picture": "https://i.ytimg.com/vi/3ndruCU5XdI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA 】ioMedic at your service ❤【 iofi / hololiveID 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": true,
@@ -484,17 +473,6 @@
         "title": "【#holoGTA】ぶんぶんぶーん！怪我人は轟車に乗りなァ！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4Z1pRlLY2qw",
-        "picture": "https://i.ytimg.com/vi/4Z1pRlLY2qw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA】そらちゃんはこの街でも平和に生きたい【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": true,
@@ -526,5 +504,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【歌枠 / Singing】まったりとお付き合いくださいな♪【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tQK-LwAWXwM",
+        "picture": "https://i.ytimg.com/vi/tQK-LwAWXwM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726614000,
+        "title": "【Black Myth: Wukong】From Rock to MONKE"
     }
 ]
