@@ -250,5 +250,27 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": null
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=NedBZMJIJLU",
+        "picture": "https://i.ytimg.com/vi/NedBZMJIJLU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VCR Minecraft β】マイクラだけどMMO !??  part3 #VCRマイクラ【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nozsaGwFYks",
+        "picture": "https://i.ytimg.com/vi/nozsaGwFYks/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA】真面目に不真面目、角巻警察です！【角巻わため/ホロライブ４期生】"
     }
 ]
