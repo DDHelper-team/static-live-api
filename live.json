@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fImO3rGxTAE",
         "picture": "https://i.ytimg.com/vi/fImO3rGxTAE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726563600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Eggy Party】視聴者と対戦を行うぞ！！！！【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -486,12 +486,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "channellink": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LKyrFEir-yk",
         "picture": "https://i.ytimg.com/vi/LKyrFEir-yk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726563600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "レンジでチンするだけの健康食を紹介しますわよ🍚"
     },
     {
@@ -504,5 +504,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726567200,
         "title": "【 #holoGTA 】権力。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Z61MvQPjfCY",
+        "picture": "https://i.ytimg.com/vi/Z61MvQPjfCY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【中秋節快樂】今天要很隨興的玩遊戲！先把餓殍：明末千里行劇情補完~【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=iAw1_1zYIWQ",
+        "picture": "https://i.ytimg.com/vi/iAw1_1zYIWQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#VCRマイクラ Minecraft】３日目 王が住むにふさわしい家とは。 / 匠・アステル・建築レダ家"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CJLqpdYc264",
+        "picture": "https://i.ytimg.com/vi/CJLqpdYc264/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726650000,
+        "title": "【Eggy Party/ホロスターズ】みんなでパーティーロイヤル！！！【律可】"
     }
 ]
