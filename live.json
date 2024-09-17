@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xOYXb8-45sQ",
         "picture": "https://i.ytimg.com/vi/xOYXb8-45sQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726574400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 家屋探索 】存在しない家に正体不明の女が・・・。【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -552,12 +552,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4Z1pRlLY2qw",
         "picture": "https://i.ytimg.com/vi/4Z1pRlLY2qw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726574400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】そらちゃんはこの街でも平和に生きたい【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Uhzaj0HRmAI",
+        "picture": "https://i.ytimg.com/vi/Uhzaj0HRmAI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VCR Minecraft β】その３【 奏手イヅル / ホロスターズ 】"
     }
 ]
