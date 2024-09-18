@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KBSHBZx1ABE",
-        "picture": "https://i.ytimg.com/vi/KBSHBZx1ABE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZrCsPB4aTN4",
+        "picture": "https://i.ytimg.com/vi/ZrCsPB4aTN4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DONKEY KONG COUNTRY 2】banana banana bananers 🍌【スーパードンキーコング2】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA｜#ホロGTA】疾風迅雷ナース番犬💓 dutiful nurses with a need for speed 🚑🐾 【FUWAMOCO POV】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -229,5 +229,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726653600,
         "title": "【 #holoGTA DAY 2 】Jadi Dokter Cinta ❤【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JDcEfxzfYOs",
+        "picture": "https://i.ytimg.com/vi/JDcEfxzfYOs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA】まじめな警察官🔥できることを増やして取り締まりがんばります！！【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FAPyWHbnwVA",
+        "picture": "https://i.ytimg.com/vi/FAPyWHbnwVA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726657200,
+        "title": "日常雜談－露手｜組裝抽獎機，未來你們的運氣都看這台了！【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V1rd-RhYGZ8",
+        "picture": "https://i.ytimg.com/vi/V1rd-RhYGZ8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726632000,
+        "title": "【Minecraft】現在78/122 花岸で全進捗達成企画、探索必須系の進捗しか残ってねえ・・・【岸堂天真/花咲みやび/ホロスターズ】"
     }
 ]
