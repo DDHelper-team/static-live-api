@@ -260,7 +260,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "eliv karaoke stream"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -272,5 +272,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726743600,
         "title": "【nosh ナッシュ】AI食レポを見破って完璧な食レポしたる！！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=agpS-MSth4g",
+        "picture": "https://i.ytimg.com/vi/agpS-MSth4g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【#holoGTA｜#ホロGTA】安全運転でいくよ💓 soothin\u0026#39; and groovin\u0026#39; in holos santos 🚑🐾 【FUWAMOCO POV】"
     }
 ]
