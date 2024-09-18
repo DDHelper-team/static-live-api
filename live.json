@@ -198,17 +198,6 @@
         "title": "【#holoGTA】真面目に不真面目、角巻警察です！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8YzGBH8q-N0",
-        "picture": "https://i.ytimg.com/vi/8YzGBH8q-N0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Shogun Showdown】overload brain【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": false,
@@ -515,5 +504,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR Minecraft β】4日目　今日は少し短めかも【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TJ_x_pxt898",
+        "picture": "https://i.ytimg.com/vi/TJ_x_pxt898/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA】警察2日目！切符切りまくり！！【ホロライブ/夏色まつり】"
     }
 ]
