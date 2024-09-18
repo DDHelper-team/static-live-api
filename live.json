@@ -288,13 +288,13 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OIJJDHRLh7k",
         "picture": "https://i.ytimg.com/vi/OIJJDHRLh7k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726664400,
-        "title": "【 #holoGTA 】仕事が長引いたりしたら配信開始遅れるかもしれません！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #holoGTA 】金。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
@@ -559,5 +559,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726747200,
         "title": "【 メン限同時視聴 】神アニメ「DEATH NOTE -デスノート-」を見る。21話~【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=nawpL9rx5DI",
+        "picture": "https://i.ytimg.com/vi/nawpL9rx5DI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #holoGTA 】DAY２働きたい！観光したい！！カスタマイズしたあい！！【ホロライブ / ロボ子さん】"
     }
 ]
