@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2FMQm6n0wu8",
-        "picture": "https://i.ytimg.com/vi/2FMQm6n0wu8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_PkbayGWyQo",
+        "picture": "https://i.ytimg.com/vi/_PkbayGWyQo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Paper Mario: TTYD】Me? Suspicious? No way, teehee! BONKS! Ep-03"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726700400,
+        "title": "【Lethal Company】No Way Home From Here, huh? (ft. Bijou, Cecilia, \u0026amp; Gigi)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -260,7 +260,29 @@
         "picture": "https://i.ytimg.com/vi/V1rd-RhYGZ8/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1726632000,
-        "title": "【Minecraft】現在78/122 花岸で全進捗達成企画、探索必須系の進捗しか残ってねえ・・・【岸堂天真/花咲みやび/ホロスターズ】"
+        "timestamp": null,
+        "title": "【Minecraft】現在79/122 花岸で全進捗達成企画、探索必須系の進捗しか残ってねえ・・・【岸堂天真/花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Gnr2px3xpgU",
+        "picture": "https://i.ytimg.com/vi/Gnr2px3xpgU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "#6【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qbSXPCb-47M",
+        "picture": "https://i.ytimg.com/vi/qbSXPCb-47M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726660800,
+        "title": "【#holoGTA】Woke Up This Mornin\u0026#39; n Got Yourself a Gun"
     }
 ]
