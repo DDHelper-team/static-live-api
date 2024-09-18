@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CJLqpdYc264",
         "picture": "https://i.ytimg.com/vi/CJLqpdYc264/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726650000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Eggy Party/ホロスターズ】みんなでパーティーロイヤル！！！【律可】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WFBEV--jKQ8",
         "picture": "https://i.ytimg.com/vi/WFBEV--jKQ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726650000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA NEWS 】9/18  ホロライブGTA NEWS ‼🚨【ホロライブ/さくらみこ】"
     },
     {
@@ -482,5 +482,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726653600,
         "title": "【#holoGTA】ROBBERY AND (NPC) MURDERS 行くぜホロスサントス！DAY 2【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0zlX2tFoTNc",
+        "picture": "https://i.ytimg.com/vi/0zlX2tFoTNc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA RP】 🍔🍗GRAND OPENING NOW!!! PavoNova Restaurant!🍗🍔 #2【Moona Hoshinova | hololive ID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tq402M7UVD0",
+        "picture": "https://i.ytimg.com/vi/tq402M7UVD0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA】COPseki Biboo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=oDaf29L2Cr4",
+        "picture": "https://i.ytimg.com/vi/oDaf29L2Cr4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VCR Minecraft β】4日目　今日は少し短めかも【夕刻ロベル/ホロスターズ】"
     }
 ]
