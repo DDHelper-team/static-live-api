@@ -84,19 +84,8 @@
         "picture": "https://i.ytimg.com/vi/q7_X3BRrCyY/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1726682400,
+        "timestamp": 1726683300,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part4 #VCRマイクラ【アキロゼ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nozsaGwFYks",
-        "picture": "https://i.ytimg.com/vi/nozsaGwFYks/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA】真面目に不真面目、角巻警察です！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
@@ -273,5 +262,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726740000,
         "title": "【 #holoGTA DAY3】メカニック社長の3日目🔧【ホロライブ/猫又おかゆ】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "eliv karaoke stream"
     }
 ]
