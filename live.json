@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q7_X3BRrCyY",
         "picture": "https://i.ytimg.com/vi/q7_X3BRrCyY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726683300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part4 #VCRマイクラ【アキロゼ/ホロライブ】"
     },
     {
@@ -187,17 +187,6 @@
         "title": "【 #holoGTA 】DAY３メカニック遊園地で社員旅行！！！🎡【ホロライブ / ロボ子さん】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uGUffqFXLqA",
-        "picture": "https://i.ytimg.com/vi/uGUffqFXLqA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Planet Coaster 】予算4000ドル→借金地獄！だけど遊園地を成功させたい！ 【ホロライブ/沙花叉クロヱ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": false,
@@ -272,5 +261,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "eliv karaoke stream"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Gla_pCPTFXw",
+        "picture": "https://i.ytimg.com/vi/Gla_pCPTFXw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726743600,
+        "title": "【nosh ナッシュ】AI食レポを見破って完璧な食レポしたる！！【不知火フレア/ホロライブ】"
     }
 ]
