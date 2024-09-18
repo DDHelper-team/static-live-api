@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gVQzLSFVtA0",
         "picture": "https://i.ytimg.com/vi/gVQzLSFVtA0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726671600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Luigi\u0026#39;s Mansion 2 HD】Luigi this will be the last time i speak to you YLS #kfp #キアライブ"
     },
     {
@@ -471,17 +471,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR Minecraft β】#VCRマイクラ  ダンジョンがどんどん強くなっている!? まぁ俺の方が強いけどね  #4【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Zs1Rr6hrNNY",
-        "picture": "https://i.ytimg.com/vi/Zs1Rr6hrNNY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA】Remember to drive safely! 👮🚔🚨  今日は悪者を捕まえて給料をもらいます！"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
