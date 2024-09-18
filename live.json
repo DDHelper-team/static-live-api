@@ -519,12 +519,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fBIIBzAe8lQ",
         "picture": "https://i.ytimg.com/vi/fBIIBzAe8lQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726655400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】#VCRマイクラ  ダンジョンがどんどん強くなっている!? まぁ俺の方が強いけどね  #4【アルランディス/ホロスターズ】"
     },
     {
@@ -548,5 +548,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #holoGTA DAY2】しごできイケメカニック、爆誕【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=4UI7LRkVVBY",
+        "picture": "https://i.ytimg.com/vi/4UI7LRkVVBY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #holoGTA DAY2】ホロライブGTA‼今夜から本格始動だあああああ🔥‼【ホロライブ/さくらみこ】"
     }
 ]
