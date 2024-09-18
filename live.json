@@ -77,17 +77,6 @@
         "title": "【DONKEY KONG COUNTRY 2】banana banana bananers 🍌【スーパードンキーコング2】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=afBfHPzkJ4U",
-        "picture": "https://i.ytimg.com/vi/afBfHPzkJ4U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PICO PARK 2】oh no....【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726653600,
         "title": "【#holoGTA】真面目に不真面目、角巻警察です！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8YzGBH8q-N0",
+        "picture": "https://i.ytimg.com/vi/8YzGBH8q-N0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726628400,
+        "title": "【Shogun Showdown】overload brain【Kaela Kovalskia / hololiveID】"
     }
 ]
