@@ -231,17 +231,6 @@
         "title": "【Minecraft】現在79/122 花岸で全進捗達成企画、探索必須系の進捗しか残ってねえ・・・【岸堂天真/花咲みやび/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=qbSXPCb-47M",
-        "picture": "https://i.ytimg.com/vi/qbSXPCb-47M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726660800,
-        "title": "【#holoGTA】Woke Up This Mornin\u0026#39; n Got Yourself a Gun"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": true,
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6aOajYgBROk",
         "picture": "https://i.ytimg.com/vi/6aOajYgBROk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726660800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA DAY2 】心を入れ替えて、真っ当にギャンブルします！！！💖【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -321,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6nUa2bvNb30",
         "picture": "https://i.ytimg.com/vi/6nUa2bvNb30/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726660800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA 】ホロGTA２日目🛸💜吾輩がこの国の治安を守ります！！！【ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -405,17 +394,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#VCRマイクラ Minecraft】４日目 空からバイオーム探しまくる人 / 匠・アステル・建築レダ家"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=nawpL9rx5DI",
-        "picture": "https://i.ytimg.com/vi/nawpL9rx5DI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726660800,
-        "title": "【 #holoGTA 】DAY２　今日からシフト制👀❣働きたい！観光したい！！カスタマイズしたあい！！【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -563,12 +541,34 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=t1sbNv_OyIk",
         "picture": "https://i.ytimg.com/vi/t1sbNv_OyIk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726660800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【-`🎮 モンハンワールド/MHWI 】久々のモンハン！狩猟をお手伝いします！【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=2RVvThu67rg",
+        "picture": "https://i.ytimg.com/vi/2RVvThu67rg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【SUIKAWA LEAD】俺の声を聞いてくださああああああああああああああああああああああ【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2pFgxbXi2yE",
+        "picture": "https://i.ytimg.com/vi/2pFgxbXi2yE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726747200,
+        "title": "【 メン限同時視聴 】神アニメ「DEATH NOTE -デスノート-」を見る。21話~【 領国つかさ / すぺしゃりて 】"
     }
 ]
