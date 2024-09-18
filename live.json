@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=umFkS2LBcTo",
         "picture": "https://i.ytimg.com/vi/umFkS2LBcTo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726659000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】LET THERE BE PEACE... LET THERE BE JUSTICE!!【Kureiji Ollie】"
     },
     {
