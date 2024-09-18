@@ -420,12 +420,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=J3jXk1FI7i4",
         "picture": "https://i.ytimg.com/vi/J3jXk1FI7i4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726646400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#VCRマイクラ Minecraft】４日目 空からバイオーム探しまくる人 / 匠・アステル・建築レダ家"
     },
     {
@@ -438,5 +438,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726660800,
         "title": "【 #holoGTA 】DAY２　今日からシフト制👀❣働きたい！観光したい！！カスタマイズしたあい！！【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8RHs3F--A58",
+        "picture": "https://i.ytimg.com/vi/8RHs3F--A58/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA】大人のギャング、ちゃま・・・・・・【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_nwPyWyL5kg",
+        "picture": "https://i.ytimg.com/vi/_nwPyWyL5kg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【#holoGTA】猫カフェのそら姫は今日も自由に生きていく【ホロライブ/ときのそら】"
     }
 ]
