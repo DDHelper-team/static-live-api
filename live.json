@@ -101,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=EPYScF_mv_0",
         "picture": "https://i.ytimg.com/vi/EPYScF_mv_0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "≪#holoGTA≫ Money Money Money #2"
     },
@@ -185,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#holoGTA】真面目に不真面目、角巻警察です！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=U_W3zyhViBU",
-        "picture": "https://i.ytimg.com/vi/U_W3zyhViBU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA DAY 2 】Jadi Dokter Cinta ❤【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
