@@ -88,17 +88,6 @@
         "title": "【Eggy Party/ホロスターズ】みんなでパーティーロイヤル！！！【律可】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tQK-LwAWXwM",
-        "picture": "https://i.ytimg.com/vi/tQK-LwAWXwM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Black Myth: Wukong】From Rock to MONKE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "islive": false,
@@ -317,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726660800,
         "title": "【 #holoGTA DAY2 】心を入れ替えて、真っ当にギャンブルします！！！💖【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rOGy-FcDdRs",
+        "picture": "https://i.ytimg.com/vi/rOGy-FcDdRs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【 #holoGTA 】初日のパン屋は大繁盛？！まずはパンの作り方から(初歩)【大神ミオ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ixLvEkdBoxA",
+        "picture": "https://i.ytimg.com/vi/ixLvEkdBoxA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726653600,
+        "title": "【 #holoGTA 】DAY2 ｜ 小さい犯罪多発！？ 【常闇トワ/ホロライブ】"
     }
 ]
