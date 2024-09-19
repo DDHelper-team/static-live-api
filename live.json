@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FpVGuVYbe-0",
         "picture": "https://i.ytimg.com/vi/FpVGuVYbe-0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726714800,
-        "title": "【#clockedin】 Woohoooo 💫"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#KronIII】 Woohoooo 💫"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=D-WTx8Nw4EI",
         "picture": "https://i.ytimg.com/vi/D-WTx8Nw4EI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726714800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Shogun Showdown】SHOGUN, I\u0026#39;M STRONGER NOW!【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=opfiN7Ho9eI",
         "picture": "https://i.ytimg.com/vi/opfiN7Ho9eI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726714853,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#18 | 完全初見！キィニチくんが来てるって🌿【緋月ゆい/ネオポルテ】"
     }
 ]
