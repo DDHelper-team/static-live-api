@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JmAB5MYHKx8",
         "picture": "https://i.ytimg.com/vi/JmAB5MYHKx8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726722000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "moom @ night"
     },
     {
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726747200,
         "title": "【#重返未来1999 】恭喜一週年!!! 限定腳色露西登場了!! 第七章劇情孤獨之歌正式推出!!【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9NY9Fj7cEnE",
+        "picture": "https://i.ytimg.com/vi/9NY9Fj7cEnE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【#holoGTA RP】DAY 3! 🍔🍗I MIGHT BE HOMELESS BUT I HAVE MY ESSKEY🍗🍔【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
