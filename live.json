@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q4JGglWpNVA",
         "picture": "https://i.ytimg.com/vi/q4JGglWpNVA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726768800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】マイクラだけどMMO !??  part5 #VCRマイクラ【アキロゼ/ホロライブ】"
     },
     {
@@ -141,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #holoGTA 】ホロスサントス３日目！パン屋ファミリーついに動く…のか！？🐶【 戌神ころね 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5WdqnMWJKtk",
-        "picture": "https://i.ytimg.com/vi/5WdqnMWJKtk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#AZKiワンマン】AZKi Major Debut LiVE「声音エントロピー」追加公演＠豊洲PIT 振り返り！【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
