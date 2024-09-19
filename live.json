@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JmAB5MYHKx8",
-        "picture": "https://i.ytimg.com/vi/JmAB5MYHKx8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sOvkKZGKxUY",
+        "picture": "https://i.ytimg.com/vi/sOvkKZGKxUY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "moom @ night"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【#holoGTA】Woke Up This Mornin\u0026#39; n Got Yourself a Gun"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -424,8 +424,74 @@
         "link": "https://www.youtube.com/watch?v=cMR83DE2Guc",
         "picture": "https://i.ytimg.com/vi/cMR83DE2Guc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1726732800,
         "title": "【#VCRマイクラ Minecraft】５日目 KINGにふさわしい家を / 匠・アステル・建築レダ家"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lnehpuqHyF4",
+        "picture": "https://i.ytimg.com/vi/lnehpuqHyF4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【#holoGTA】全力で楽しむっちゃま～～～！❤️‍🔥【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mCGzzygy5cY",
+        "picture": "https://i.ytimg.com/vi/mCGzzygy5cY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【#holoGTA DAY3】パン屋の娘、犬カフェで両親を「犬」の方で雇う傍ら――。【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nKxBc5hBkvs",
+        "picture": "https://i.ytimg.com/vi/nKxBc5hBkvs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726747200,
+        "title": "【VCR Minecraft β】その５【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pV-I_CrEO4Q",
+        "picture": "https://i.ytimg.com/vi/pV-I_CrEO4Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726736400,
+        "title": "【VCR Minecraft β】#VCRマイクラ  トーテムが実は1番強いんですよ…。まぁ俺の方が強いんだけどね  #5【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vLbD4ypt4Ac",
+        "picture": "https://i.ytimg.com/vi/vLbD4ypt4Ac/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【 #holoGTA 】DAY3 ｜ そろそろ撃ち合いしたい気持ちになってきました。 【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kfvjj7Nsvwc",
+        "picture": "https://i.ytimg.com/vi/kfvjj7Nsvwc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726743600,
+        "title": "【 #holoGTA DAY3】キャバクラマリン、わたしたちこのままでいいのかな？ラミィちゃん【ホロライブ/宝鐘マリン】"
     }
 ]
