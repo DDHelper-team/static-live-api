@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FAJ-tjusm94",
-        "picture": "https://i.ytimg.com/vi/FAJ-tjusm94/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HhRiOxOtCUQ",
+        "picture": "https://i.ytimg.com/vi/HhRiOxOtCUQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA 】ホロGTA3日目🛸💜吾輩がこの国の治安を守ります！！！【ラプラス・ダークネス/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726833600,
+        "title": "【 #holoGTA 】ホロGTA4日目🛸💜吾輩がこの国の治安を守ります！！！【ラプラス・ダークネス/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -242,17 +242,6 @@
         "title": "【歌枠 / Singing】久しぶりに同接300人耐久します…！歌をきいてくれえええ！♪【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=B_wOjaEEI2c",
-        "picture": "https://i.ytimg.com/vi/B_wOjaEEI2c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA】救急隊＆新人メカニック！...バイト増やすか...？【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": true,
@@ -277,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5WdqnMWJKtk",
         "picture": "https://i.ytimg.com/vi/5WdqnMWJKtk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726750800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#AZKiワンマン】AZKi Major Debut LiVE「声音エントロピー」追加公演＠豊洲PIT 振り返り！【ホロライブ / AZKi】"
     },
     {
@@ -581,5 +570,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726833600,
         "title": "【Lethal Company】she said she likes to grind on this game 😱"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MJ7nnULxLro",
+        "picture": "https://i.ytimg.com/vi/MJ7nnULxLro/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726804800,
+        "title": "【声マネキング】マネします【夕刻ロベル/ホロスターズ】"
     }
 ]
