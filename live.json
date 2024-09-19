@@ -91,12 +91,12 @@
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=2pFgxbXi2yE",
-        "picture": "https://i.ytimg.com/vi/2pFgxbXi2yE/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=G5J2TT1shes",
+        "picture": "https://i.ytimg.com/vi/G5J2TT1shes/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1726747200,
-        "title": "【 メン限同時視聴 】神アニメ「DEATH NOTE -デスノート-」を見る。21話~【 領国つかさ / すぺしゃりて 】"
+        "timestamp": 1726833600,
+        "title": "【 biohazard HD REMASTER 】完全初見の初代バイオ！神ホラゲーの開幕だ！【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -266,24 +266,13 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3eYajOF37NQ",
         "picture": "https://i.ytimg.com/vi/3eYajOF37NQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726747200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【猛獸派對】(觀眾場)中秋節就是要打群架阿 不然要烤肉嗎?【盆栽工作室/玖月蕾希/玖月レイシ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=niDOvvZufyI",
-        "picture": "https://i.ytimg.com/vi/niDOvvZufyI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726747200,
-        "title": "【#重返未来1999 】恭喜一週年!!! 限定腳色露西登場了!! 第七章劇情孤獨之歌正式推出!!【#遊戲個人勢 / Fingla】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -420,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nKxBc5hBkvs",
         "picture": "https://i.ytimg.com/vi/nKxBc5hBkvs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726747200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】その５【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -585,12 +574,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1M4gZQPOJoI",
         "picture": "https://i.ytimg.com/vi/1M4gZQPOJoI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726747500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】 HANK HAWATSON"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HFo-oXU0fO0",
+        "picture": "https://i.ytimg.com/vi/HFo-oXU0fO0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726833600,
+        "title": "【Lethal Company】she said she likes to grind on this game 😱"
     }
 ]
