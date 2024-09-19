@@ -464,12 +464,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pV-I_CrEO4Q",
         "picture": "https://i.ytimg.com/vi/pV-I_CrEO4Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726736400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】#VCRマイクラ  トーテムが実は1番強いんですよ…。まぁ俺の方が強いんだけどね  #5【アルランディス/ホロスターズ】"
     },
     {
@@ -515,5 +515,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726740000,
         "title": "【#holoGTA】MORE CRIMES AND NEW CAR 行くぜホロスサントス！DAY 3【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Fdhbbt_ElHQ",
+        "picture": "https://i.ytimg.com/vi/Fdhbbt_ElHQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726743600,
+        "title": "【#holoGTA】パンパン仮面、参上ッ！！【 雪花ラミィ /ホロライブ】"
     }
 ]
