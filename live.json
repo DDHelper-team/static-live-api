@@ -146,12 +146,12 @@
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=cMR83DE2Guc",
-        "picture": "https://i.ytimg.com/vi/cMR83DE2Guc/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=SAXOUppe19k",
+        "picture": "https://i.ytimg.com/vi/SAXOUppe19k/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#VCRマイクラ Minecraft】５日目 KINGにふさわしい家を / 匠・アステル・建築レダ家"
+        "title": "【#VCRマイクラ Minecraft】５日目 城製作人 / 匠・アステル・建築レダ家"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726826400,
         "title": "【 #holoGTA DAY4】メカニック社長の4日目🔧【ホロライブ/猫又おかゆ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BK4Jho48tb4",
+        "picture": "https://i.ytimg.com/vi/BK4Jho48tb4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726783200,
+        "title": "【Arctic Eggs】 The Physics Based Egg Cooking Simulator With Overwhelmingly Positive Reviews"
     }
 ]
