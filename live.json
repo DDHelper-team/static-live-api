@@ -220,17 +220,6 @@
         "title": "moom @ night"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=V5btME1Ptlc",
-        "picture": "https://i.ytimg.com/vi/V5btME1Ptlc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Oblivion】NO CHEESE!?????????"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -262,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726794000,
         "title": "【Earth Defense Force 6】Destroying the Earth with Advent!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=To-pKpYMkqU",
+        "picture": "https://i.ytimg.com/vi/To-pKpYMkqU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【 #holoGTA 】ホロスサントス３日目！パン屋ファミリーついに動く…のか！？🐶【 戌神ころね 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=opfiN7Ho9eI",
+        "picture": "https://i.ytimg.com/vi/opfiN7Ho9eI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726714853,
+        "title": "【原神】#18 | 完全初見！キィニチくんが来てるって🌿【緋月ゆい/ネオポルテ】"
     }
 ]
