@@ -420,12 +420,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cMR83DE2Guc",
         "picture": "https://i.ytimg.com/vi/cMR83DE2Guc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1726732800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#VCRマイクラ Minecraft】５日目 KINGにふさわしい家を / 匠・アステル・建築レダ家"
     },
     {
@@ -493,5 +493,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726743600,
         "title": "【 #holoGTA DAY3】キャバクラマリン、わたしたちこのままでいいのかな？ラミィちゃん【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Tq6ygHlRox4",
+        "picture": "https://i.ytimg.com/vi/Tq6ygHlRox4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726740000,
+        "title": "【#holoGTA】STOP IN THE NAME OF THE LAW!!【Kureiji Ollie】"
     }
 ]
