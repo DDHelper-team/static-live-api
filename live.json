@@ -563,12 +563,23 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lnBzTv0omho",
         "picture": "https://i.ytimg.com/vi/lnBzTv0omho/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726742700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】Hehehehehe trolling.. Ah.. I mean.. patrolling time! 👮🚔🚨"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IFzk4NUA4wo",
+        "picture": "https://i.ytimg.com/vi/IFzk4NUA4wo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726761600,
+        "title": "【BALATRO】jokerarc continues #kfp #キアライブ"
     }
 ]
