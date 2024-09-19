@@ -209,17 +209,6 @@
         "title": "【声マネキング】マネします【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=F_W0naRGngI",
-        "picture": "https://i.ytimg.com/vi/F_W0naRGngI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】滅びのバーストストリーム【ホロライブ/癒月ちょこ】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726794000,
         "title": "【EARTH DEFENSE FORCE 6】Oh, we are the valiant Advent-ry~! #holoadvent"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=x-i6rdlpYVI",
+        "picture": "https://i.ytimg.com/vi/x-i6rdlpYVI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726833600,
+        "title": "【 #holoGTA 】ギャングさん・・・任せてくれ。 【鷹嶺ルイ/ホロライブ】"
     }
 ]
