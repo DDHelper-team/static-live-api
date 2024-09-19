@@ -132,28 +132,6 @@
         "title": "【 #holoGTA 】ホロスサントス３日目！パン屋ファミリーついに動く…のか！？🐶【 戌神ころね 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SAXOUppe19k",
-        "picture": "https://i.ytimg.com/vi/SAXOUppe19k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#VCRマイクラ Minecraft】５日目 城製作人 / 匠・アステル・建築レダ家"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nKxBc5hBkvs",
-        "picture": "https://i.ytimg.com/vi/nKxBc5hBkvs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VCR Minecraft β】その５【 奏手イヅル / ホロスターズ 】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": false,
@@ -288,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BK4Jho48tb4",
         "picture": "https://i.ytimg.com/vi/BK4Jho48tb4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726783200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Arctic Eggs】 The Physics Based Egg Cooking Simulator With Overwhelmingly Positive Reviews"
     },
     {
@@ -321,12 +299,23 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=R0ghaOQxHRk",
         "picture": "https://i.ytimg.com/vi/R0ghaOQxHRk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726783200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】超久々の朝活に朝歌なのでは？おはよう。 sing and talk【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3tmDP2ZID8E",
+        "picture": "https://i.ytimg.com/vi/3tmDP2ZID8E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726826400,
+        "title": "【 #holoGTA 】ギャングのアンダーボスとして Day.4【アキロゼ/ホロライブ】"
     }
 ]
