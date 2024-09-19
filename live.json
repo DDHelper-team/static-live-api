@@ -187,17 +187,6 @@
         "title": "【VCR Minecraft β】#VCRマイクラ  トーテムが実は1番強いんですよ…。まぁ俺の方が強いんだけどね  #5【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IFzk4NUA4wo",
-        "picture": "https://i.ytimg.com/vi/IFzk4NUA4wo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【BALATRO】jokerarc continues #kfp #キアライブ"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": false,
@@ -295,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726837200,
         "title": "【#holoGTA】幸せなお花の取り締まりもはじまりそうな今日！警察24時がはじまるDAY4【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j6kedn51jnY",
+        "picture": "https://i.ytimg.com/vi/j6kedn51jnY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726840800,
+        "title": "【#holoGTA】今日は水鉄砲がしたい、角巻警察です！DAY4【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0vO2t5w7F-k",
+        "picture": "https://i.ytimg.com/vi/0vO2t5w7F-k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726794000,
+        "title": "【EARTH DEFENSE FORCE 6】Oh, we are the valiant Advent-ry~! #holoadvent"
     }
 ]
