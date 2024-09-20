@@ -352,17 +352,6 @@
         "title": "【 #holoGTA 】DAY4 ｜ 子どもたちが独り立ちをし始めている…！ 【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UX52XaorEfY",
-        "picture": "https://i.ytimg.com/vi/UX52XaorEfY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA 】パン屋ファミリー解散の危機・・？薬屋ルイへの禊【大神ミオ視点】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": true,
@@ -387,11 +376,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=i-X4ujm7pRQ",
         "picture": "https://i.ytimg.com/vi/i-X4ujm7pRQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#holoGTA】今日はたくさん捕まえま～す！！【ホロライブ/夏色まつり】"
     },
