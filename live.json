@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z-VzJibKJqQ",
         "picture": "https://i.ytimg.com/vi/Z-VzJibKJqQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726866000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Black Myth: Wukong】Potions Are Your Best Friend / Their Worst Enemy | Ep-03"
     },
     {
@@ -185,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#VCRマイクラ Minecraft】６日目 城製作人 / 匠・アステル・建築レダ家"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5kgZFR_DAws",
-        "picture": "https://i.ytimg.com/vi/5kgZFR_DAws/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VCR Minecraft β】その６【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
