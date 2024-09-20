@@ -321,13 +321,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oHbyNcBXfck",
-        "picture": "https://i.ytimg.com/vi/oHbyNcBXfck/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FTWID12fA5U",
+        "picture": "https://i.ytimg.com/vi/FTWID12fA5U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【７周年記念ソング】「ラッキーセブンスホイッスル」MVの感想配信【ホロライブ/ときのそら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726831800,
+        "title": "【#holoGTA】大きい車買って、ステッカーでかわいくしたい【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -361,17 +361,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #holoGTA DAY４】We\u0026#39;ll find you!!!　医院長は…今日も一期一会で生きていく【ホロライブ/白上フブキ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -504,5 +493,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726833600,
         "title": "【-`🎮 Spectral Scream】こんなの絶対に怖いじゃんね、絶対に。【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
+        "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oRrebnLHy9U",
+        "picture": "https://i.ytimg.com/vi/oRrebnLHy9U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726869600,
+        "title": "【Chatting Stream】Discussing Stuffs"
     }
 ]
