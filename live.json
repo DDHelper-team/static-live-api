@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oRrebnLHy9U",
         "picture": "https://i.ytimg.com/vi/oRrebnLHy9U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726869600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Chatting Stream】Discussing Stuffs"
     },
     {
