@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vAgQeZ4D3sQ",
         "picture": "https://i.ytimg.com/vi/vAgQeZ4D3sQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726797600,
-        "title": "【OMUSUBI】SO WHAT\u0026#39;LL HAPPEN TO HINAKO AND TSUKIGAMI?!【Kureiji Ollie】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OMUSUBI】SO WHAT\u0026#39;LL HAPPEN TO HINAKO AND TOKIGAMI?!【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -264,17 +264,6 @@
         "title": "【 #holoGTA DAY4】メカニック社長の4日目🔧【ホロライブ/猫又おかゆ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BK4Jho48tb4",
-        "picture": "https://i.ytimg.com/vi/BK4Jho48tb4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Arctic Eggs】 The Physics Based Egg Cooking Simulator With Overwhelmingly Positive Reviews"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "islive": false,
@@ -328,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726826400,
         "title": "【 #holoGTA DAY4】兎田・ギャングスター・ぺこら【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KfNgbEXY7QM",
+        "picture": "https://i.ytimg.com/vi/KfNgbEXY7QM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726835400,
+        "title": "【#holoGTA】No Silly Business !!!!!"
     }
 ]
