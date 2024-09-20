@@ -145,24 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MJ7nnULxLro",
         "picture": "https://i.ytimg.com/vi/MJ7nnULxLro/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726804800,
-        "title": "【声マネキング】マネします【夕刻ロベル/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vAgQeZ4D3sQ",
-        "picture": "https://i.ytimg.com/vi/vAgQeZ4D3sQ/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【OMUSUBI】SO WHAT\u0026#39;LL HAPPEN TO HINAKO AND TOKIGAMI?!【Kureiji Ollie】"
+        "title": "【声マネキング】マネします【夕刻ロベル/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -328,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726826400,
         "title": "【#holoGTA】労働４日目。銃を撃ちたい。【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uq7T_akcUg0",
+        "picture": "https://i.ytimg.com/vi/uq7T_akcUg0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726840800,
+        "title": "Wait, what\u0026#39;s going on??? | hololive GTA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xnKuok5ZrFY",
+        "picture": "https://i.ytimg.com/vi/xnKuok5ZrFY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726826400,
+        "title": "【#holoGTA RP】 🍔🍗Moona\u0026#39;s [chicken] Breast for 80k!!!🍗🍔 #4【Moona Hoshinova | hololive ID】"
     }
 ]
