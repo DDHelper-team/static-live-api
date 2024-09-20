@@ -200,11 +200,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=x-i6rdlpYVI",
         "picture": "https://i.ytimg.com/vi/x-i6rdlpYVI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #holoGTA 】ギャングさん・・・任せてくれ。 【鷹嶺ルイ/ホロライブ】"
     },
@@ -262,17 +262,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #holoGTA DAY4】兎田・ギャングスター・ぺこら【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=KfNgbEXY7QM",
-        "picture": "https://i.ytimg.com/vi/KfNgbEXY7QM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726835400,
-        "title": "【#holoGTA】No Silly Business !!!!!"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -530,12 +519,23 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pOzDbIH8zfw",
         "picture": "https://i.ytimg.com/vi/pOzDbIH8zfw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726835400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】特大ビッグなお知らせたっぷり！！！！- ハニカムステーション！-154【HACHI 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5kgZFR_DAws",
+        "picture": "https://i.ytimg.com/vi/5kgZFR_DAws/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726837200,
+        "title": "【VCR Minecraft β】その６【 奏手イヅル / ホロスターズ 】"
     }
 ]
