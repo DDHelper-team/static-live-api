@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oHbyNcBXfck",
         "picture": "https://i.ytimg.com/vi/oHbyNcBXfck/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726821900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【７周年記念ソング】「ラッキーセブンスホイッスル」MVの感想配信【ホロライブ/ときのそら】"
     },
     {
