@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j6kedn51jnY",
         "picture": "https://i.ytimg.com/vi/j6kedn51jnY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726840800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】今日は水鉄砲がしたい、角巻警察です！DAY4【角巻わため/ホロライブ４期生】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uq7T_akcUg0",
         "picture": "https://i.ytimg.com/vi/uq7T_akcUg0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726840800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Wait, what\u0026#39;s going on??? | hololive GTA"
     },
     {
@@ -350,17 +350,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #holoGTA DAY４】We\u0026#39;ll find you!!!　医院長は…今日も一期一会で生きていく【ホロライブ/白上フブキ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RfUFJp0VpJs",
-        "picture": "https://i.ytimg.com/vi/RfUFJp0VpJs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA】ママ～ッ！？新人さん勧誘で新体制にするって本当～っ！？【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -504,17 +493,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#VCRマイクラ Minecraft】６日目 城製作人 / 匠・アステル・建築レダ家"
-    },
-    {
-        "channel": "https://youtube.com/@HACHIVSinger",
-        "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pOzDbIH8zfw",
-        "picture": "https://i.ytimg.com/vi/pOzDbIH8zfw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】特大ビッグなお知らせたっぷり！！！！- ハニカムステーション！-154【HACHI 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
