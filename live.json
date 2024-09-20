@@ -288,11 +288,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=xnKuok5ZrFY",
         "picture": "https://i.ytimg.com/vi/xnKuok5ZrFY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#holoGTA RP】 🍔 Today is discount day!! 50% off all the burgers! 🍔 #4【Moona Hoshinova | hololive ID】"
     },
@@ -537,5 +537,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #holoGTA DAY4】イケメカニック出勤！！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PL7m0dt7B_Y",
+        "picture": "https://i.ytimg.com/vi/PL7m0dt7B_Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726842600,
+        "title": "【VCR Minecraft β】#VCRマイクラ  明日で最後!?この世界を遊びつくそう！ #6【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WtPW4vc_Rbg",
+        "picture": "https://i.ytimg.com/vi/WtPW4vc_Rbg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726905600,
+        "title": "【ドラゴンクエストI】完全初見プレイ！いざ、ドラクエの世界へ！Part2 クリアするぞー！！ ※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】"
     }
 ]
