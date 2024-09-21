@@ -321,12 +321,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uUpZS3c76OM",
         "picture": "https://i.ytimg.com/vi/uUpZS3c76OM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726898400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【声マネキング】声マネの練習できそうだ！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=G8Wo_h7LDpk",
+        "picture": "https://i.ytimg.com/vi/G8Wo_h7LDpk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726912800,
+        "title": "【#holoGTA】DAY 5 🚨 JUST A NORMAL POLICE OFFICER DOING HER JOB 👮🚔🚨"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=owZUWtGxH9w",
+        "picture": "https://i.ytimg.com/vi/owZUWtGxH9w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ペーパーマリオRPG】ハート10縛りペパマリリメイク#03【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QYecV_hZ7zU",
+        "picture": "https://i.ytimg.com/vi/QYecV_hZ7zU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726920000,
+        "title": "【 #holoGTA DAY5】ホロライブGTA‼警察市民安全課みこち、バディを組む【ホロライブ/さくらみこ】"
     }
 ]
