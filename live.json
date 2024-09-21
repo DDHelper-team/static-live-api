@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WtPW4vc_Rbg",
         "picture": "https://i.ytimg.com/vi/WtPW4vc_Rbg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726905600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラゴンクエストI】完全初見プレイ！いざ、ドラクエの世界へ！Part2 クリアするぞー！！ ※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】"
     },
     {
@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dXdMgMLdg50",
-        "picture": "https://i.ytimg.com/vi/dXdMgMLdg50/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8EPeUxZcq8M",
+        "picture": "https://i.ytimg.com/vi/8EPeUxZcq8M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 スーパーマリオワールド 】最強のマリオを見せてあげます。【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726920000,
+        "title": "【 biohazard HD REMASTER 】完全初見の初代バイオ！神ホラゲーの開幕だ！#2【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -308,17 +308,6 @@
         "title": "【#holoGTA RP】DAY 5! 🍔🍗STRESSED FROM LOSING BLACKJACK? TRY OUR NEW MENU! 🍗🍔【Pavolia Reine/hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uUpZS3c76OM",
-        "picture": "https://i.ytimg.com/vi/uUpZS3c76OM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【声マネキング】声マネの練習できそうだ！！【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
         "islive": false,
@@ -394,5 +383,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726912800,
         "title": "【 #holoGTA 】ギャングのアンダーボスとして Day.5【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hox82V_gzHI",
+        "picture": "https://i.ytimg.com/vi/hox82V_gzHI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726909200,
+        "title": "【VCR Minecraft β】#VCRマイクラ  最終日を仲間たちと #7【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=REWUlbdapd8",
+        "picture": "https://i.ytimg.com/vi/REWUlbdapd8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726912800,
+        "title": "【 #holoGTA DAY5 】改心します。もう悪いことはしません。【星街すいせい / ホロライブ】"
     }
 ]
