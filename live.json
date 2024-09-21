@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hox82V_gzHI",
         "picture": "https://i.ytimg.com/vi/hox82V_gzHI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726909200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】#VCRマイクラ  最終日を仲間たちと #7【アルランディス/ホロスターズ】"
     },
     {
@@ -427,5 +427,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726912800,
         "title": "【#holoGTA】SEATBELTS ON!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RP8a5oO_SKY",
+        "picture": "https://i.ytimg.com/vi/RP8a5oO_SKY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726912800,
+        "title": "【 #holoGTA 】パパの浮気は治らない？！はじめてのお薬作り【大神ミオ視点】"
     }
 ]
