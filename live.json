@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dXdMgMLdg50",
         "picture": "https://i.ytimg.com/vi/dXdMgMLdg50/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1726891200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオワールド 】最強のマリオを見せてあげます。【 領国つかさ / すぺしゃりて 】"
     },
     {
