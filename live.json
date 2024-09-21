@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=laGPYwaTURo",
-        "picture": "https://i.ytimg.com/vi/laGPYwaTURo/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=fGYOEgRSB5k",
+        "picture": "https://i.ytimg.com/vi/fGYOEgRSB5k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726959600,
-        "title": "【SWORD ART ONLINE Fractured Daydream】new SAO game?! let\u0026#39;s explore the world of SAOFD 🐾 【MOCOCO POV】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【SWORD ART ONLINE Fractured Daydream】new SAO game?! let\u0026#39;s explore the world of SAOFD 🐾 【FUWAWA POV】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -317,5 +317,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【OVERWATCH2】早朝カスタム / アステル めちゃくちゃ沢山"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nmd1pmYLeX4",
+        "picture": "https://i.ytimg.com/vi/nmd1pmYLeX4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727035200,
+        "title": "【HOLOTALK】With our 30th guest: Amelia Watson #kfp #キアライブ"
     }
 ]
