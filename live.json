@@ -168,23 +168,12 @@
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=hox82V_gzHI",
-        "picture": "https://i.ytimg.com/vi/hox82V_gzHI/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=bskIogj61WQ",
+        "picture": "https://i.ytimg.com/vi/bskIogj61WQ/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【VCR Minecraft β】#VCRマイクラ  最終日を仲間たちと #7【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6mBU0ODMnzQ",
-        "picture": "https://i.ytimg.com/vi/6mBU0ODMnzQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA DAY5】ボーナスでお洋服買いに行きたいなぁ～！【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "title": "【ストリートファイター6】VCRマイクラ二次会スト6会場【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726999200,
         "title": "【 #holoGTA DAY6】メカニック社長の6日目🔧【ホロライブ/猫又おかゆ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GzHL4_gp20A",
+        "picture": "https://i.ytimg.com/vi/GzHL4_gp20A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726999200,
+        "title": "【#holoGTA RP】DAY 6! 🍔🍗 SUPERCAR ARC STARTS NOW!(we sell burgers n wings)🍗🍔【Pavolia Reine/hololiveID】"
     }
 ]
