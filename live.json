@@ -134,11 +134,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
         "channellink": "https://www.youtube.com/channel/UCyl1z3jo3XHR1riLFKG5UAg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=oRrebnLHy9U",
         "picture": "https://i.ytimg.com/vi/oRrebnLHy9U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Chatting Stream】Discussing Stuffs"
     },
@@ -179,12 +179,12 @@
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=-KROhOPoiGg",
-        "picture": "https://i.ytimg.com/vi/-KROhOPoiGg/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=xdDU5gP9hus",
+        "picture": "https://i.ytimg.com/vi/xdDU5gP9hus/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1726884000,
-        "title": "【MEMBER\u0026#39;S ONLY】Kung Pow! Enter the Fist (Watch-a-long) || Mori Calliope #calliolive"
+        "timestamp": 1726912800,
+        "title": "【#holoGTA RP】Peace For All! Except Criminals. (part 5) || Mori Calliope #calliolive"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1726912800,
         "title": "【 #holoGTA DAY5】兎田・ギャングスター・ぺこら【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=usOk7Kx2MB0",
+        "picture": "https://i.ytimg.com/vi/usOk7Kx2MB0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726912800,
+        "title": "【 #holoGTA 】成長。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
