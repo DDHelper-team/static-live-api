@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JugL6mb05xU",
         "picture": "https://i.ytimg.com/vi/JugL6mb05xU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726945200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【2.0 REVEAL】confessing my feelings about EN \u0026amp; ID with a FRESH FACE #kfp #キアライブ"
     },
     {
