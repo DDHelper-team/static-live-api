@@ -497,12 +497,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=49ctHsY3jh8",
         "picture": "https://i.ytimg.com/vi/49ctHsY3jh8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726919100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR Minecraft β】その７【 奏手イヅル / ホロスターズ 】"
     }
 ]
