@@ -194,18 +194,18 @@
         "picture": "https://i.ytimg.com/vi/zVSwSaao-qo/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1726920000,
+        "timestamp": 1726923600,
         "title": "【#holoGTA】北署は新しい観光名所になりうるのか？今日もドンパチがある予感のDAY5【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8EPeUxZcq8M",
         "picture": "https://i.ytimg.com/vi/8EPeUxZcq8M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726920000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 biohazard HD REMASTER 】完全初見の初代バイオ！神ホラゲーの開幕だ！#2【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SuCEjcItEtw",
         "picture": "https://i.ytimg.com/vi/SuCEjcItEtw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726920000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA DAY5】パン屋の娘。裏の顔は\u0026quot;ヤク\u0026quot;の売人……！？【天音かなた/ホロライブ】"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QYecV_hZ7zU",
         "picture": "https://i.ytimg.com/vi/QYecV_hZ7zU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1726920000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA DAY5】ホロライブGTA‼警察市民安全課みこち、バディを組む【ホロライブ/さくらみこ】"
     },
     {
@@ -504,5 +504,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR Minecraft β】その７【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JugL6mb05xU",
+        "picture": "https://i.ytimg.com/vi/JugL6mb05xU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1726945200,
+        "title": "【2.0 REVEAL】confessing my feelings about EN \u0026amp; ID with a FRESH FACE #kfp #キアライブ"
     }
 ]
