@@ -508,12 +508,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eP1rNJ8cla8",
         "picture": "https://i.ytimg.com/vi/eP1rNJ8cla8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727013000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PICO PARK】BEST GAMING DUO IN TOWN IS BACK! 👯🎮【Kaela Kovalskia / hololiveID】"
     },
     {
