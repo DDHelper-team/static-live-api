@@ -165,17 +165,6 @@
         "title": "【#holoGTA RP】The FINAL SHOWDOWN. (part 7) || Mori Calliope #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nmd1pmYLeX4",
-        "picture": "https://i.ytimg.com/vi/nmd1pmYLeX4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOTALK】With our 31st guest: Amelia Watson #kfp #キアライブ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -255,13 +244,13 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JL1H7NgZQ2I",
         "picture": "https://i.ytimg.com/vi/JL1H7NgZQ2I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727046000,
-        "title": "【V4MIRAI WATCHALONG】checking out the new debuts【Dokibird】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【DEBUT WATCHALONG】who is this hyena girl??【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727085600,
         "title": "【 #holoGTA 】「救急隊」\u0026quot;んなース\u0026quot; 出勤最終日なのら！！！風邪でお休みしてました！💉(・o・🍬)【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5wplKycotqw",
+        "picture": "https://i.ytimg.com/vi/5wplKycotqw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727085600,
+        "title": "【#holoGTA】俺たちがホロポリスだ！最高のDAY7（最終日）【獅白ぼたん/ホロライブ】"
     }
 ]
