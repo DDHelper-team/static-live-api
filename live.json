@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7k7DGy_if48",
         "picture": "https://i.ytimg.com/vi/7k7DGy_if48/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727042400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Pikmin 2】 They\u0026#39;re calling it the hardest pikmin game ever released | #3"
     },
     {
