@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DA-M6QpPfjw",
         "picture": "https://i.ytimg.com/vi/DA-M6QpPfjw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727013600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "My day 3 in the server let\u0026#39;s go! | hololive GTA"
     },
     {
@@ -497,12 +497,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l01LZVMgLxg",
         "picture": "https://i.ytimg.com/vi/l01LZVMgLxg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727013600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆スパチャお礼】なぁ…９月もう半ばすぎてたってよ…【不知火フレア/ホロライブ】"
     },
     {
@@ -526,5 +526,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727096400,
         "title": "【Escape the Backrooms】ここでは何かが起こるしこのメンツではなおさらである【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qD1Zc73sjpc",
+        "picture": "https://i.ytimg.com/vi/qD1Zc73sjpc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727085600,
+        "title": "【#holoGTA】DAY 7 🚨LAST DAY..BIG THINGS HAPPENING...👮🚔🚨"
     }
 ]
