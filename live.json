@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BiPM81HhTCk",
         "picture": "https://i.ytimg.com/vi/BiPM81HhTCk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1726995600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA NEWS 】9/22 ホロライブGTA NEWS ‼🚨【星街すいせい / ホロライブ】"
     },
     {
