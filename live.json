@@ -486,12 +486,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GtOSEdKohQo",
         "picture": "https://i.ytimg.com/vi/GtOSEdKohQo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727010013,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】昨日のライブ最高に楽しかった✨️【緋月ゆい/ネオポルテ】"
     },
     {
