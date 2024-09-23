@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JIkZLpqWQ2Q",
         "picture": "https://i.ytimg.com/vi/JIkZLpqWQ2Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727058600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M.】Monday Morning Malas : Good Malas Morning【Ayunda Risu】"
     },
     {
@@ -372,5 +372,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727098200,
         "title": "LAST DAY ON THE JOB | hololive GTA"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=w_iWPUj8JoE",
+        "picture": "https://i.ytimg.com/vi/w_iWPUj8JoE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727139600,
+        "title": "【Black Myth: Wukong】Just One More Try | Ep-04"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6RMoamNFA8Q",
+        "picture": "https://i.ytimg.com/vi/6RMoamNFA8Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727064000,
+        "title": "【サガ エメラルド ビヨンド】ディーヴァナンバー５の物語、まだ続きが見たい【ホロライブ/ときのそら】"
     }
 ]
