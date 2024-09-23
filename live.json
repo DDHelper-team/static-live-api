@@ -409,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jcs5luj95k0",
         "picture": "https://i.ytimg.com/vi/jcs5luj95k0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727078400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【-`🎮 APEX】#RIGCUP だ！大運動会だーーーー！！！【獅子神レオナ/Re:AcT】"
     },
     {
@@ -482,5 +482,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727085600,
         "title": "【#holoGTA DAY7】パン屋の娘。本当のハッピーは、最初から、ここにあった【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Nla-ytAZfTc",
+        "picture": "https://i.ytimg.com/vi/Nla-ytAZfTc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】RIG CUP 大運動会らしい  / アステル パカエル バーチャルゴリラ"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=YFPvDq90fyI",
+        "picture": "https://i.ytimg.com/vi/YFPvDq90fyI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "SUPERDUPERって何!?ユニット会議！【火威青×一条莉々華×儒烏風亭らでん 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
