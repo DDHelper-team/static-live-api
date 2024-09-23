@@ -453,12 +453,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yM39rWe-Dic",
         "picture": "https://i.ytimg.com/vi/yM39rWe-Dic/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727086500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA DAY 7 】AAAAAAAAAAAAAAAAAA【 iofi / hololiveID 】"
     },
     {
@@ -541,12 +541,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=u0ECkrnYzgU",
         "picture": "https://i.ytimg.com/vi/u0ECkrnYzgU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727087400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラえもんのどら焼き屋さん物語】あんこ好き魔人のどら焼き屋さん3【荒咬オウガ /ホロスターズ】"
     },
     {
