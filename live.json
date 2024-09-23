@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Yv7r_0_y8-A",
         "picture": "https://i.ytimg.com/vi/Yv7r_0_y8-A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727089200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA DAY7 】最終日‼花火大会に向けて頑張るぞ‼【星街すいせい / ホロライブ】"
     },
     {
