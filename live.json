@@ -178,24 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y6ACpGLwg1A",
         "picture": "https://i.ytimg.com/vi/y6ACpGLwg1A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727128800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝こよ 】199回目！火曜日の朝は朝こよ～っ☀ #199 【博衣こより/hololive】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Criw5zhE0bI",
-        "picture": "https://i.ytimg.com/vi/Criw5zhE0bI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1769924700,
-        "title": "【SCHEDULE】plans for the week~ 🎼"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -207,50 +196,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727139600,
         "title": "【Black Myth: Wukong】Just One More Try | Ep-04"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IjOyno7WiPo",
-        "picture": "https://i.ytimg.com/vi/IjOyno7WiPo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA DAY7 最終日】ホロスサントスの世界をととノエル！警官いきます！！【白銀ノエル/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=e6Jpq0wU4Xg",
-        "picture": "https://i.ytimg.com/vi/e6Jpq0wU4Xg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA 】最終日 ｜  目標を達成するために　みりもんいこお～！【常闇トワ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=0GwpE2TLi6o",
-        "picture": "https://i.ytimg.com/vi/0GwpE2TLi6o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1754503200,
-        "title": "【 FreeChat 】今週の開花予定🌺【花咲みやび】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
@@ -266,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yyptkgI4Zmc",
         "picture": "https://i.ytimg.com/vi/yyptkgI4Zmc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727128832,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】3連休終わるのはや。【緋月ゆい/ネオポルテ】"
     },
     {
