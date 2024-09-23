@@ -244,13 +244,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wJoLLc1Rd94",
         "picture": "https://i.ytimg.com/vi/wJoLLc1Rd94/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727082000,
-        "title": "【 #holoGTA NEWS 】9/23  ホロライブGTA NEWS ‼🚨【ホロライブ/さくらみこ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #holoGTA NEWS 】最終日🚨9/23  ホロライブGTA NEWS ‼🚨【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -495,17 +495,6 @@
         "title": "【APEX】RIG CUP 大運動会らしい  / アステル パカエル バーチャルゴリラ"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YFPvDq90fyI",
-        "picture": "https://i.ytimg.com/vi/YFPvDq90fyI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "SUPERDUPERって何!?ユニット会議！【火威青×一条莉々華×儒烏風亭らでん 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -515,5 +504,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727092800,
         "title": "【#holoGTA】最終日。どうなる！？恋の行方とお店の未来…！【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=e6Jpq0wU4Xg",
+        "picture": "https://i.ytimg.com/vi/e6Jpq0wU4Xg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727085600,
+        "title": "【 #holoGTA 】最終日 ｜  目標を達成するために　みりもんいこお～！【常闇トワ/ホロライブ】"
     }
 ]
