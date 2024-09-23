@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7hWx3UdrrYY",
         "picture": "https://i.ytimg.com/vi/7hWx3UdrrYY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727092800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談 】無軌道雑談しましょう。【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -385,17 +385,6 @@
         "title": "【#holoGTA】はじめてのGTA！善良な市民としてホロスサントスの街へ――。最終回【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jcs5luj95k0",
-        "picture": "https://i.ytimg.com/vi/jcs5luj95k0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【-`🎮 APEX】#RIGCUP だ！大運動会だーーーー！！！【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": true,
@@ -462,25 +451,14 @@
         "title": "【#holoGTA DAY7】パン屋の娘。本当のハッピーは、最初から、ここにあった【天音かなた/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Nla-ytAZfTc",
-        "picture": "https://i.ytimg.com/vi/Nla-ytAZfTc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】RIG CUP 大運動会らしい  / アステル パカエル バーチャルゴリラ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gvhpHdkZn0s",
         "picture": "https://i.ytimg.com/vi/gvhpHdkZn0s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727092800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】最終日。どうなる！？恋の行方とお店の未来…！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -519,12 +497,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ER05EjhkCXM",
         "picture": "https://i.ytimg.com/vi/ER05EjhkCXM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727092800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA DAY７】最高のエンディングへ【ホロライブ/白上フブキ 】"
     },
     {
@@ -552,12 +530,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FVf7x-ZtLx0",
         "picture": "https://i.ytimg.com/vi/FVf7x-ZtLx0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727092800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "活俠傳｜今天能夠更接近第一輪結束嗎？？【Healing希靈/VTuber】"
     },
     {
@@ -581,5 +559,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727096400,
         "title": "【OW2】OW上手くなりたい配信【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XNdXVPOlvh4",
+        "picture": "https://i.ytimg.com/vi/XNdXVPOlvh4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727096400,
+        "title": "【MemberOnly】直筆メッセージ書きながらまったり雑談🔥【不知火フレア/ホロライブ】"
     }
 ]
