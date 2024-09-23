@@ -198,25 +198,14 @@
         "title": "【 #holoGTA DAY6 】アレ？もしかしてカジノより救急隊の方が稼げる？？【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EQWZhZyaYu0",
-        "picture": "https://i.ytimg.com/vi/EQWZhZyaYu0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #朝ミオ 】月曜日の朝だよ！おはみぉーん！"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kacOHmXZx2A",
         "picture": "https://i.ytimg.com/vi/kacOHmXZx2A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727049600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PEJUANG SENIN】#84 back to the usual Monday YAP【Kaela\u0026#39;s Monday Warrior】"
     },
     {
@@ -240,17 +229,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727085600,
         "title": "【#holoGTA】DAY 7 🚨LAST DAY..BIG THINGS HAPPENING...👮🚔🚨"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JL1H7NgZQ2I",
-        "picture": "https://i.ytimg.com/vi/JL1H7NgZQ2I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DEBUT WATCHALONG】who is this hyena girl??【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -361,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727085600,
         "title": "【#holoGTA】俺たちがホロポリスだ！最高のDAY7（最終日）【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7hWx3UdrrYY",
+        "picture": "https://i.ytimg.com/vi/7hWx3UdrrYY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727092800,
+        "title": "【 雑談 】無軌道雑談しましょう。【 領国つかさ / すぺしゃりて 】"
     }
 ]
