@@ -420,12 +420,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sRx_UNPPhH4",
         "picture": "https://i.ytimg.com/vi/sRx_UNPPhH4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727096400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA 】パン屋ファミリーの盛大な仲直り？最終回は、笑顔で。【大神ミオ視点】"
     },
     {
@@ -486,12 +486,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_-UKePzQEmw",
         "picture": "https://i.ytimg.com/vi/_-UKePzQEmw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727094600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】Dang It Feels Good to Be a Moomster"
     },
     {
