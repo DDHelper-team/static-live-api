@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=S2IL7Y8GsJQ",
         "picture": "https://i.ytimg.com/vi/S2IL7Y8GsJQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727064000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く 極】初見で挑む『龍が如く 極』　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -196,17 +196,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #holoGTA DAY6 】アレ？もしかしてカジノより救急隊の方が稼げる？？【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kacOHmXZx2A",
-        "picture": "https://i.ytimg.com/vi/kacOHmXZx2A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PEJUANG SENIN】#84 back to the usual Monday YAP【Kaela\u0026#39;s Monday Warrior】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -387,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6RMoamNFA8Q",
         "picture": "https://i.ytimg.com/vi/6RMoamNFA8Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727064000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【サガ エメラルド ビヨンド】ディーヴァナンバー５の物語、まだ続きが見たい【ホロライブ/ときのそら】"
     },
     {
