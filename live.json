@@ -165,17 +165,6 @@
         "title": "【 nosh 】ナッシュガチ勢に遂に案件！オススメベスト8をガチ発表！【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=w_iWPUj8JoE",
-        "picture": "https://i.ytimg.com/vi/w_iWPUj8JoE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Black Myth: Wukong】Just One More Try | Ep-04"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727222400,
         "title": "【BLACK MYTH: WUKONG】beating the game today!!【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tr-nW5t2z1Y",
+        "picture": "https://i.ytimg.com/vi/tr-nW5t2z1Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727172000,
+        "title": "【そらポル歌枠】仲良し２人で歌っちゃうよ～！！【ホロライブ/ときのそら/尾丸ポルカ】"
     }
 ]
