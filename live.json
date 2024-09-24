@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Vm01W4j-OMA",
         "picture": "https://i.ytimg.com/vi/Vm01W4j-OMA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727190900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FALLOUT: NEW VEGAS】is there no waffle house around here #kfp #キアライブ"
     },
     {
@@ -240,17 +240,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談＆お礼】GTA8日ｍ....あれ？【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Bq7D38dzgJY",
-        "picture": "https://i.ytimg.com/vi/Bq7D38dzgJY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA DAY8】各陣営の名場面！！切り抜き動画同時視聴！！【ホロライブ/白上フブキ 】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
