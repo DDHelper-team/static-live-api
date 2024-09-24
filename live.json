@@ -277,12 +277,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KhrwE8BQes0",
         "picture": "https://i.ytimg.com/vi/KhrwE8BQes0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727157600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】俺はテリーなのか？【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GFOoiY2sT4w",
+        "picture": "https://i.ytimg.com/vi/GFOoiY2sT4w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727179200,
+        "title": "【 #holoGTA 】主催で最終日切り抜き鑑賞🎉最高の７日間をありがとう！【ホロライブ/さくらみこ】"
     }
 ]
