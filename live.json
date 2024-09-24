@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GFOoiY2sT4w",
         "picture": "https://i.ytimg.com/vi/GFOoiY2sT4w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727179200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA 】主催で最終日切り抜き鑑賞🎉最高の７日間をありがとう！【ホロライブ/さくらみこ】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7Ib_guHG0iQ",
         "picture": "https://i.ytimg.com/vi/7Ib_guHG0iQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727179200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ストリートファイター6】お試しテリー【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -328,5 +328,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 声マネキング 】声真似得意です。イケボ…ってよく言われます【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6fwK6T-jpQk",
+        "picture": "https://i.ytimg.com/vi/6fwK6T-jpQk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727182800,
+        "title": "【House Flipper】こいついつも他人の部屋リノベーションしてんな🏠【不知火フレア/ホロライブ】"
     }
 ]
