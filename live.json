@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2ZP88qnCAyM",
-        "picture": "https://i.ytimg.com/vi/2ZP88qnCAyM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ObFFhWNbIuY",
+        "picture": "https://i.ytimg.com/vi/ObFFhWNbIuY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 nosh 】ナッシュガチ勢に遂に案件！オススメベスト8をガチ発表！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727262000,
+        "title": "【 #AIこより 】AIこより爆誕1周年記念！システムがちょっと進化？マシュマロ＆凸待ち・・・は地獄すぎて誰も来る気がしません！！！ｗ【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Bq7D38dzgJY",
         "picture": "https://i.ytimg.com/vi/Bq7D38dzgJY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727175600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA DAY8】各陣営の名場面！！切り抜き動画同時視聴！！【ホロライブ/白上フブキ 】"
     },
     {
@@ -306,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727258400,
         "title": "ざざざつだん"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7Ib_guHG0iQ",
+        "picture": "https://i.ytimg.com/vi/7Ib_guHG0iQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727179200,
+        "title": "【 ストリートファイター6】お試しテリー【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=XKMwXiPn1kQ",
+        "picture": "https://i.ytimg.com/vi/XKMwXiPn1kQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 声マネキング 】声真似得意です。イケボ…ってよく言われます【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
