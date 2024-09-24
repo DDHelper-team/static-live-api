@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bm5VI7RU4uE",
         "picture": "https://i.ytimg.com/vi/bm5VI7RU4uE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727177400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "黑神話：悟空｜第六章-花果山【Healing希靈/VTuber】"
     },
     {
