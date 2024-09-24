@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GFOoiY2sT4w",
-        "picture": "https://i.ytimg.com/vi/GFOoiY2sT4w/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ymQyoxB3Nb4",
+        "picture": "https://i.ytimg.com/vi/ymQyoxB3Nb4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #holoGTA 】主催で最終日切り抜き鑑賞🎉最高の７日間をありがとう！【ホロライブ/さくらみこ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727188200,
+        "title": "【 カウントダウン 】雑談 ＆ 1st Album カウントダウン‼💿【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=--hZpT27jGI",
         "picture": "https://i.ytimg.com/vi/--hZpT27jGI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727182800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】GTA8日ｍ....あれ？【角巻わため/ホロライブ４期生】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6fwK6T-jpQk",
         "picture": "https://i.ytimg.com/vi/6fwK6T-jpQk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727182800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【House Flipper】こいついつも他人の部屋リノベーションしてんな🏠【不知火フレア/ホロライブ】"
     }
 ]
