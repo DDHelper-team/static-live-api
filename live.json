@@ -66,17 +66,6 @@
         "title": "【Minecraft】現在79/122 花岸で全進捗達成企画、探索必須系の進捗しか残ってねえ・・・【岸堂天真/花咲みやび/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9LjnAuqWK3s",
-        "picture": "https://i.ytimg.com/vi/9LjnAuqWK3s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ESCAPE SIMULATOR COLLAB with AME】#holoEN blondes can solve any puzzle 🔎🐾【FUWAMOCO】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": false,
@@ -198,17 +187,6 @@
         "title": "【Lethal Company】a very peaceful morning....... what could go wrong? 【GRAONDSTONE】"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=F5eg1fs49sc",
-        "picture": "https://i.ytimg.com/vi/F5eg1fs49sc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727146829,
-        "title": "【原神】#20 | 完全初見！花神誕祭が楽しみです🌸【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -222,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x8yhB0c9GZs",
         "picture": "https://i.ytimg.com/vi/x8yhB0c9GZs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727146800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Superchat Catchup】Reading Anniversary Supas ❣"
     },
     {
@@ -262,5 +240,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【LETHAL COMPANY】GRAONDSTONE COMPANY!"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=F5eg1fs49sc",
+        "picture": "https://i.ytimg.com/vi/F5eg1fs49sc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【原神】#20 | 完全初見！花神誕祭が楽しみです🌸【緋月ゆい/ネオポルテ】"
     }
 ]
