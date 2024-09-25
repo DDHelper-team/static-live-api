@@ -165,17 +165,6 @@
         "title": "【 #AIこより 】AIこより爆誕1周年記念！システムがちょっと進化？マシュマロ＆凸待ち・・・は地獄すぎて誰も来る気がしません！！！ｗ【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=C9GIAD3601I",
-        "picture": "https://i.ytimg.com/vi/C9GIAD3601I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TTRPG: GUN】Character Creation Stream! Western Adventure with Fauna, Gigi and Biboo! #calliolive"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": true,
@@ -189,23 +178,23 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LhQE2cXotms",
-        "picture": "https://i.ytimg.com/vi/LhQE2cXotms/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MosGttRX15Q",
+        "picture": "https://i.ytimg.com/vi/MosGttRX15Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Black Myth: Wukong】More Underlevel Shenanigans, WOOOO! | Ep-05"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727312400,
+        "title": "【Earth Defense Force 6】We Are the Infantry: Brave \u0026amp; Strong! We Got Muscles to Protect You All!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=57tVQm6jlPo",
         "picture": "https://i.ytimg.com/vi/57tVQm6jlPo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727236800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く 極】初見で挑む『龍が如く 極』　2日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
