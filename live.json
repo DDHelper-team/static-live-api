@@ -398,12 +398,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UNCJARaMmwg",
         "picture": "https://i.ytimg.com/vi/UNCJARaMmwg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727267400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】つねきち来た！絵画の答え合わせもいろいろ。らでんのあつ森その⑧【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
