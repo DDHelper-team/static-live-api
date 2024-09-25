@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XMsbHTISG5w",
         "picture": "https://i.ytimg.com/vi/XMsbHTISG5w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1727262000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "活俠傳｜唐門最終的命運是？【Healing希靈/VTuber】"
     },
     {
