@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ObFFhWNbIuY",
-        "picture": "https://i.ytimg.com/vi/ObFFhWNbIuY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HkNMVy4BvV0",
+        "picture": "https://i.ytimg.com/vi/HkNMVy4BvV0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #AIこより 】AIこより爆誕1周年記念！システムがちょっと進化？マシュマロ＆凸待ち・・・は地獄すぎて誰も来る気がしません！！！ｗ【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727344800,
+        "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：笹木咲様～【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VFFKn1X9XHw",
-        "picture": "https://i.ytimg.com/vi/VFFKn1X9XHw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rqRGXcu7XQE",
+        "picture": "https://i.ytimg.com/vi/rqRGXcu7XQE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ロベルないとめあ】『Together in Between』で協力をする我々【夕刻ロベル/神楽めあ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727348400,
+        "title": "【#夕刻ロベル生誕祭2024】32歳になりました【夕刻ロベル/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -297,17 +297,6 @@
         "title": "【ストリートファイター6】テリーは俺なのか？【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DfMQtNz4WDU",
-        "picture": "https://i.ytimg.com/vi/DfMQtNz4WDU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA お疲れ様会】パン屋の娘。楽しい７日間だった！！！！【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -387,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3j1LNJH9wI4",
         "picture": "https://i.ytimg.com/vi/3j1LNJH9wI4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727272800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれどうぶつの森】住民ガチャ...求パッチ【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
