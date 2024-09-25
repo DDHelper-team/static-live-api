@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aYFGvqTT66E",
-        "picture": "https://i.ytimg.com/vi/aYFGvqTT66E/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8s_IL8LmZSI",
+        "picture": "https://i.ytimg.com/vi/8s_IL8LmZSI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FUWAMOCO MORNING】episode 127 🐾 #FWMCMORNING"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727312400,
+        "title": "【EARTH DEFENSE FORCE 6 COLLAB｜地球防衛軍6】fight alongside our senpai 🐾 #holoAdvent 【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -218,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "活俠傳｜唐門最終的命運是？【Healing希靈/VTuber】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fwKanFKJZTg",
-        "picture": "https://i.ytimg.com/vi/fwKanFKJZTg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoGTA】みんなでホロGTA切り抜き鑑賞会！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
