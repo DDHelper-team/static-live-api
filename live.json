@@ -332,12 +332,23 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Wu4wUWHGRoo",
         "picture": "https://i.ytimg.com/vi/Wu4wUWHGRoo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727251200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スパチャ読みタイム】続き！カウントダウン配信＆記念配信スパチャ読み枠その②【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Ukxsz8EC-ac",
+        "picture": "https://i.ytimg.com/vi/Ukxsz8EC-ac/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "#7【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
