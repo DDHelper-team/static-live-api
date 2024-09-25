@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ObFFhWNbIuY",
         "picture": "https://i.ytimg.com/vi/ObFFhWNbIuY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727262000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #AIこより 】AIこより爆誕1周年記念！システムがちょっと進化？マシュマロ＆凸待ち・・・は地獄すぎて誰も来る気がしません！！！ｗ【博衣こより/ホロライブ】"
     },
     {
@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SuE1YjhJRzY",
-        "picture": "https://i.ytimg.com/vi/SuE1YjhJRzY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aWQ1fYyxNgg",
+        "picture": "https://i.ytimg.com/vi/aWQ1fYyxNgg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ざざざつだん"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727269200,
+        "title": "【 #ホロAmongUs 】あ！猫又おかゆの視点配信だ！【 猫又おかゆ視点/ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -226,30 +226,30 @@
         "link": "https://www.youtube.com/watch?v=XMsbHTISG5w",
         "picture": "https://i.ytimg.com/vi/XMsbHTISG5w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1727262000,
         "title": "活俠傳｜唐門最終的命運是？【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=syxaSKTgnt0",
         "picture": "https://i.ytimg.com/vi/syxaSKTgnt0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727262000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】久々に最近のお話まったりする～！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fwKanFKJZTg",
         "picture": "https://i.ytimg.com/vi/fwKanFKJZTg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727262000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA】みんなでホロGTA切り抜き鑑賞会！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aE4H4Ge4opM",
         "picture": "https://i.ytimg.com/vi/aE4H4Ge4opM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727262000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雜談】晚上好大兵!這裡是消失一周的蕾希希，來跟大家分享這周我都幹了啥【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #雜談 #初見歡迎"
     },
     {
@@ -372,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727280000,
         "title": "【ART】drawing a blondie"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PIq8nwtAY8M",
+        "picture": "https://i.ytimg.com/vi/PIq8nwtAY8M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727269200,
+        "title": "【 -`🎙 歌枠/Singing 】涼しくなったけど、歌えばあつい。 sing and talk【獅子神レオナ/Re:AcT】"
     }
 ]
