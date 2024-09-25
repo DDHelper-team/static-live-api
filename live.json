@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=C9GIAD3601I",
         "picture": "https://i.ytimg.com/vi/C9GIAD3601I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727229600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TTRPG: GUN】Character Creation Stream! Western Adventure with Fauna, Gigi and Biboo! #calliolive"
     },
     {
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727233200,
         "title": "【Panicore】Very Quietly Now With @KaelaKovalskia"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XMsbHTISG5w",
+        "picture": "https://i.ytimg.com/vi/XMsbHTISG5w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727262000,
+        "title": "活俠傳｜唐門最終的命運是？【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=syxaSKTgnt0",
+        "picture": "https://i.ytimg.com/vi/syxaSKTgnt0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727262000,
+        "title": "【雑談】久々に最近のお話まったりする～！【 雪花ラミィ /ホロライブ】"
     }
 ]
