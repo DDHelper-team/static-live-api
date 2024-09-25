@@ -187,17 +187,6 @@
         "title": "【#夕刻ロベル生誕祭2024】32歳になりました【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aWQ1fYyxNgg",
-        "picture": "https://i.ytimg.com/vi/aWQ1fYyxNgg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロAmongUs 】あ！猫又おかゆの視点配信だ！【 猫又おかゆ視点/ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -240,17 +229,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#holoGTA】みんなでホロGTA切り抜き鑑賞会！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Tfy8y1w1blY",
-        "picture": "https://i.ytimg.com/vi/Tfy8y1w1blY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロAmongUs 】MAPが一番の強敵、きっとそうなんだ【アキロゼ視点/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -319,17 +297,6 @@
         "title": "【 雑談/Freetalk 】#holoGTA の切り抜きみたり、感想言ったり・・・！【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=f1YFj1m3f2M",
-        "picture": "https://i.ytimg.com/vi/f1YFj1m3f2M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【跑Online】前三名有特別的官方獎品唷！今天來抽 優雅時裝箱子50個看看會爆出什麼好東西  會員可至DC群領取獎品序號！| #蔥鴨嘎嘎LIVE #跑Online #vtuber"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": true,
@@ -361,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727344800,
         "title": "【 ポリスノーツ 】SFハードボイルドアドベンチャーの世界へいくのら！【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FI2VEPlhZws",
+        "picture": "https://i.ytimg.com/vi/FI2VEPlhZws/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727312400,
+        "title": "WE\u0026#39;LL PROTECT YOU! | Earth Defense Force 6"
     }
 ]
