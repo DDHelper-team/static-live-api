@@ -244,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Fb7Mk9thssQ",
         "picture": "https://i.ytimg.com/vi/Fb7Mk9thssQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727233200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PANICORE】KRONII, BEHIND YOU!【Timesmith】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ec2ucvEJQdg",
         "picture": "https://i.ytimg.com/vi/Ec2ucvEJQdg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727233200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Panicore】Very Quietly Now With @KaelaKovalskia"
     },
     {
