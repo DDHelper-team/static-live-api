@@ -354,12 +354,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4MJhVKveI2M",
         "picture": "https://i.ytimg.com/vi/4MJhVKveI2M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1727258400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【QuestRoom】えーこちらデスゲーム主催者。３人はクリアまでやる気らしいです / アステル 鬼ヶ谷 テン 青桐エイト 宙星ぱる"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=o5ocN7_m9KE",
+        "picture": "https://i.ytimg.com/vi/o5ocN7_m9KE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727280000,
+        "title": "【ART】drawing a blondie"
     }
 ]
