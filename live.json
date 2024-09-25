@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lAqqsCCcHIk",
         "picture": "https://i.ytimg.com/vi/lAqqsCCcHIk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727271000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談/Freetalk 】#holoGTA の切り抜きみたり、感想言ったり・・・！【常闇トワ/ホロライブ】"
     },
     {
@@ -385,17 +385,6 @@
         "title": "【 #ホロAmongUs】信じてください！！私はクルーなんです！！！【ホロライブ/白上フブキ 】"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UNCJARaMmwg",
-        "picture": "https://i.ytimg.com/vi/UNCJARaMmwg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【あつまれどうぶつの森】つねきち来た！絵画の答え合わせもいろいろ。らでんのあつ森その⑧【儒烏風亭らでん #ReGLOSS 】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -405,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727272800,
         "title": "【あつまれどうぶつの森】住民ガチャ...求パッチ【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Tos_LZ-W0bw",
+        "picture": "https://i.ytimg.com/vi/Tos_LZ-W0bw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727301600,
+        "title": "【朝活雑談】少しお喋りしよ🌞✨【白銀ノエル/ホロライブ】#shorts"
     }
 ]
