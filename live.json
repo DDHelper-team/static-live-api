@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Tos_LZ-W0bw",
         "picture": "https://i.ytimg.com/vi/Tos_LZ-W0bw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727301600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】少しお喋りしよ🌞✨【白銀ノエル/ホロライブ】#shorts"
     },
     {
