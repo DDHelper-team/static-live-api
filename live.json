@@ -209,17 +209,6 @@
         "title": "【EARTH DEFENSE FORCE 6】ADF! ADF! ADF! #holoadvent"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4MJhVKveI2M",
-        "picture": "https://i.ytimg.com/vi/4MJhVKveI2M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【QuestRoom】えーこちらデスゲーム主催者。３人はクリアまでやる気らしいです / アステル 鬼ヶ谷 テン 青桐エイト 宙星ぱる"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": true,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727352000,
         "title": "【 メン限 】最 強 催 眠【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VKePQrPiWlg",
+        "picture": "https://i.ytimg.com/vi/VKePQrPiWlg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727358300,
+        "title": "【#TGS2024カプコンオンラインプログラム】CAPCOM最新情報を一緒に見ようミラー配信会【アルランディス/ホロスターズ】"
     }
 ]
