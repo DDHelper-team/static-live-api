@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=57tVQm6jlPo",
-        "picture": "https://i.ytimg.com/vi/57tVQm6jlPo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VFFKn1X9XHw",
+        "picture": "https://i.ytimg.com/vi/VFFKn1X9XHw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く 極】初見で挑む『龍が如く 極』　2日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727258400,
+        "title": "【#ロベルないとめあ】『Together in Between』で協力をする我々【夕刻ロベル/神楽めあ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OhrRlhns1Hs",
         "picture": "https://i.ytimg.com/vi/OhrRlhns1Hs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727254800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】GTAの思い出とか、ラジオ出演とか夏にあったこと色々！【ホロライブ/大神ミオ】"
     },
     {
@@ -361,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727265600,
         "title": "【#holoGTA お疲れ様会】パン屋の娘。楽しい７日間だった！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=t16tkTPdAYs",
+        "picture": "https://i.ytimg.com/vi/t16tkTPdAYs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727312400,
+        "title": "【EARTH DEFENSE FORCE 6】ADF! ADF! ADF! #holoadvent"
     }
 ]
