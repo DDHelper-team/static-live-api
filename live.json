@@ -209,17 +209,6 @@
         "title": "【EARTH DEFENSE FORCE 6】ADF! ADF! ADF! #holoadvent"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Tos_LZ-W0bw",
-        "picture": "https://i.ytimg.com/vi/Tos_LZ-W0bw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【朝活雑談】少しお喋りしよ🌞✨【白銀ノエル/ホロライブ】#shorts"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": false,
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=P0wvPeVU2BA",
         "picture": "https://i.ytimg.com/vi/P0wvPeVU2BA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727305200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MARIO PARTY SUPERSTARS】the crossover episode【Dokibird】"
     }
 ]
