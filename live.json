@@ -275,17 +275,6 @@
         "title": "【 #ホロAmongUs 】みこノイズメーーーカーーーーーーー‼📣【ホロライブ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aE4H4Ge4opM",
-        "picture": "https://i.ytimg.com/vi/aE4H4Ge4opM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雜談】晚上好大兵!這裡是消失一周的蕾希希，來跟大家分享這周我都幹了啥【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber  #vtuber #雜談 #初見歡迎"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -319,25 +308,14 @@
         "title": "【ストリートファイター6】テリーは俺なのか？【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Wu4wUWHGRoo",
-        "picture": "https://i.ytimg.com/vi/Wu4wUWHGRoo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スパチャ読みタイム】続き！カウントダウン配信＆記念配信スパチャ読み枠その②【儒烏風亭らでん #ReGLOSS 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DfMQtNz4WDU",
         "picture": "https://i.ytimg.com/vi/DfMQtNz4WDU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727265600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA お疲れ様会】パン屋の娘。楽しい７日間だった！！！！【天音かなた/ホロライブ】"
     },
     {
@@ -394,5 +372,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727271000,
         "title": "【 雑談/Freetalk 】#holoGTA の切り抜きみたり、感想言ったり・・・！【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=f1YFj1m3f2M",
+        "picture": "https://i.ytimg.com/vi/f1YFj1m3f2M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727269200,
+        "title": "【跑Online】跟觀眾一起Happy Happy Happy，有官方爸爸的獎品唷，抽奶酪小可愛刮刮樂衝阿  | #蔥鴨嘎嘎LIVE #跑Online #vtuber"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wX-YNcRT_eE",
+        "picture": "https://i.ytimg.com/vi/wX-YNcRT_eE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727269200,
+        "title": "【 #ホロAmongUs】信じてください！！私はクルーなんです！！！【ホロライブ/白上フブキ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UNCJARaMmwg",
+        "picture": "https://i.ytimg.com/vi/UNCJARaMmwg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727267400,
+        "title": "【あつまれどうぶつの森】つねきち来た！絵画の答え合わせもいろいろ。らでんのあつ森その⑧【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
