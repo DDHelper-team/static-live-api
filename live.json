@@ -178,23 +178,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VFFKn1X9XHw",
         "picture": "https://i.ytimg.com/vi/VFFKn1X9XHw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727258400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ロベルないとめあ】『Together in Between』で協力をする我々【夕刻ロベル/神楽めあ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SuE1YjhJRzY",
         "picture": "https://i.ytimg.com/vi/SuE1YjhJRzY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727258400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ざざざつだん"
     },
     {
@@ -249,19 +249,8 @@
         "picture": "https://i.ytimg.com/vi/fwKanFKJZTg/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1727258400,
+        "timestamp": 1727262000,
         "title": "【#holoGTA】みんなでホロGTA切り抜き鑑賞会！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OhrRlhns1Hs",
-        "picture": "https://i.ytimg.com/vi/OhrRlhns1Hs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】GTAの思い出とか、ラジオ出演とか夏にあったこと色々！【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -341,17 +330,6 @@
         "title": "【スパチャ読みタイム】続き！カウントダウン配信＆記念配信スパチャ読み枠その②【儒烏風亭らでん #ReGLOSS 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ukxsz8EC-ac",
-        "picture": "https://i.ytimg.com/vi/Ukxsz8EC-ac/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#7【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": false,
@@ -380,7 +358,7 @@
         "link": "https://www.youtube.com/watch?v=4MJhVKveI2M",
         "picture": "https://i.ytimg.com/vi/4MJhVKveI2M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1727258400,
         "title": "【QuestRoom】えーこちらデスゲーム主催者。３人はクリアまでやる気らしいです / アステル 鬼ヶ谷 テン 青桐エイト 宙星ぱる"
     }
