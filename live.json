@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HkNMVy4BvV0",
-        "picture": "https://i.ytimg.com/vi/HkNMVy4BvV0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6pR5k_d9O7U",
+        "picture": "https://i.ytimg.com/vi/6pR5k_d9O7U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：笹木咲様～【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727358300,
+        "title": "【 #TGS2024カプコンオンラインプログラム 】公認ミラー配信！モンハンワイルズ！スト6！逆転検事などなど！？最新情報を一緒に観よう！！！【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rqRGXcu7XQE",
         "picture": "https://i.ytimg.com/vi/rqRGXcu7XQE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727348400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#夕刻ロベル生誕祭2024】32歳になりました【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jpG0bfuyWYA",
         "picture": "https://i.ytimg.com/vi/jpG0bfuyWYA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727348400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA】キャバクラ組でホロGTA切り抜き同時視聴会！！！【ホロライブ/宝鐘マリン・雪花ラミィ】"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=T-eJW4C3Rnw",
         "picture": "https://i.ytimg.com/vi/T-eJW4C3Rnw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727348400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Two Point Campus】Menjadi Rektor【Ayunda Risu】"
     },
     {
