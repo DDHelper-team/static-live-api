@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MosGttRX15Q",
         "picture": "https://i.ytimg.com/vi/MosGttRX15Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727312400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Earth Defense Force 6】We Are the Infantry: Brave \u0026amp; Strong! We Got Muscles to Protect You All!"
     },
     {
@@ -189,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8s_IL8LmZSI",
         "picture": "https://i.ytimg.com/vi/8s_IL8LmZSI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727312400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【EARTH DEFENSE FORCE 6 COLLAB｜地球防衛軍6】fight alongside our senpai 🐾 #holoAdvent 【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=t16tkTPdAYs",
         "picture": "https://i.ytimg.com/vi/t16tkTPdAYs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727312400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【EARTH DEFENSE FORCE 6】ADF! ADF! ADF! #holoadvent"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FI2VEPlhZws",
         "picture": "https://i.ytimg.com/vi/FI2VEPlhZws/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727312400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "WE\u0026#39;LL PROTECT YOU! | Earth Defense Force 6"
     },
     {
@@ -273,5 +273,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【MARIO PARTY SUPERSTARS】the crossover episode【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=7itJNrzCa_c",
+        "picture": "https://i.ytimg.com/vi/7itJNrzCa_c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Don\u0026#39;t Starve Together】I\u0026#39;m Hungry With @holoen_raorapanthera"
     }
 ]
