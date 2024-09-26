@@ -176,17 +176,6 @@
         "title": "【Lofi Radio】Japanese Study Session and Productivity Stream"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZROTq6RE3Qk",
-        "picture": "https://i.ytimg.com/vi/ZROTq6RE3Qk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ポリスノーツ｜PS版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃１【姫森ルーナ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rpeZPjLyDCA",
         "picture": "https://i.ytimg.com/vi/rpeZPjLyDCA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727355600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】ホロGTA楽しかった＆今後の予定とかいろいろ【獅白ぼたん/ホロライブ】"
     },
     {
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rc_WDLoYAnA",
         "picture": "https://i.ytimg.com/vi/rc_WDLoYAnA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727355600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA 振り返り】ホロスサントスの街で一体なにがあったの！？【ホロライブ / AZKi】"
     },
     {
@@ -394,5 +383,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727361000,
         "title": "【雑談】GTA振り返りとか！！するぞ！！【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AtnULWrNVEM",
+        "picture": "https://i.ytimg.com/vi/AtnULWrNVEM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727442000,
+        "title": "【Apex躲貓貓大賽】蕾希希一周年國罵黨特別企劃!!feat.DASA、Emily Smart【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RUF6SYI3oko",
+        "picture": "https://i.ytimg.com/vi/RUF6SYI3oko/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727359200,
+        "title": "【振り返り】コラボいっぱいあったから振り返り配信がしたい【ホロライブ/ときのそら】"
     }
 ]
