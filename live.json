@@ -198,17 +198,6 @@
         "title": "【 ポリスノーツ 】SFハードボイルドアドベンチャーの世界へいくのら！【姫森ルーナ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=reMJ1XMzGD4",
-        "picture": "https://i.ytimg.com/vi/reMJ1XMzGD4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KARAOKE / 歌枠】Unarchived IRySinging?! It has been a bit #shorts"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727398800,
         "title": "【URAYAMA｜ウラヤマ】into the haunted japanese mountains 🐾 【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Eic4sjPQ7rQ",
+        "picture": "https://i.ytimg.com/vi/Eic4sjPQ7rQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727344800,
+        "title": "【 #holoGTA 】holoGTA切り抜き鑑賞会🎬救急隊＆市民陣営‼【ホロライブ/さくらみこ】"
     }
 ]
