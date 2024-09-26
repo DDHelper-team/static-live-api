@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HkNMVy4BvV0",
         "picture": "https://i.ytimg.com/vi/HkNMVy4BvV0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727344800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：笹木咲様～【博衣こより/ホロライブ】"
     },
     {
@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZROTq6RE3Qk",
         "picture": "https://i.ytimg.com/vi/ZROTq6RE3Qk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727344800,
-        "title": "【 ポリスノーツ 】SFハードボイルドアドベンチャーの世界へいくのら！【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 ポリスノーツ｜PS版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃１【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Eic4sjPQ7rQ",
         "picture": "https://i.ytimg.com/vi/Eic4sjPQ7rQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727344800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #holoGTA 】holoGTA切り抜き鑑賞会🎬救急隊＆市民陣営‼【ホロライブ/さくらみこ】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727348400,
         "title": "【Two Point Campus】Menjadi Rektor【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Bdy8UgAAjB4",
+        "picture": "https://i.ytimg.com/vi/Bdy8UgAAjB4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727431200,
+        "title": "【STREET FIGHTER 6】ハイタニ先生に教わるはじめてのスト６！⚡【ラプラス・ダークネス/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LbFdSv57ZDY",
+        "picture": "https://i.ytimg.com/vi/LbFdSv57ZDY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727357400,
+        "title": "【-`💬  #TGS2024カプコンオンラインプログラム 】公認ミラー配信！いろんなタイトルの最新情報を一緒にチェックしよう！！【獅子神レオナ/Re:AcT】"
     }
 ]
