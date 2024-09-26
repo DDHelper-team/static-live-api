@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MosGttRX15Q",
-        "picture": "https://i.ytimg.com/vi/MosGttRX15Q/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vgMkbCbwltc",
+        "picture": "https://i.ytimg.com/vi/vgMkbCbwltc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Earth Defense Force 6】We Are the Infantry: Brave \u0026amp; Strong! We Got Muscles to Protect You All!"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727398800,
+        "title": "【Lofi Radio】Japanese Study Session and Productivity Stream"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -198,17 +198,6 @@
         "title": "【EARTH DEFENSE FORCE 6 COLLAB｜地球防衛軍6】fight alongside our senpai 🐾 #holoAdvent 【FUWAMOCO】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=t16tkTPdAYs",
-        "picture": "https://i.ytimg.com/vi/t16tkTPdAYs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【EARTH DEFENSE FORCE 6】ADF! ADF! ADF! #holoadvent"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": false,
@@ -218,17 +207,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727344800,
         "title": "【 ポリスノーツ 】SFハードボイルドアドベンチャーの世界へいくのら！【姫森ルーナ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FI2VEPlhZws",
-        "picture": "https://i.ytimg.com/vi/FI2VEPlhZws/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "WE\u0026#39;LL PROTECT YOU! | Earth Defense Force 6"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -284,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727406000,
         "title": "【TTRPG: GUN】Session Time! Fauna, Gigi and Biboo Go West! #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jpG0bfuyWYA",
+        "picture": "https://i.ytimg.com/vi/jpG0bfuyWYA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727348400,
+        "title": "【 #holoGTA】キャバクラ組でホロGTA切り抜き同時視聴会！！！【ホロライブ/宝鐘マリン・雪花ラミィ】"
     }
 ]
