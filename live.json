@@ -176,17 +176,6 @@
         "title": "【Lofi Radio】Japanese Study Session and Productivity Stream"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rqRGXcu7XQE",
-        "picture": "https://i.ytimg.com/vi/rqRGXcu7XQE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#夕刻ロベル生誕祭2024】32歳になりました【夕刻ロベル/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -196,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 ポリスノーツ｜PS版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃１【姫森ルーナ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=WlVar8pCv1E",
-        "picture": "https://i.ytimg.com/vi/WlVar8pCv1E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727352000,
-        "title": "【 メン限 】最 強 催 眠【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -376,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q9S-nhZZGMk",
         "picture": "https://i.ytimg.com/vi/q9S-nhZZGMk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727352000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 歌枠 / Karaoke 】カラオケフリータイム∞  / #燃えろアステル"
     },
     {
@@ -405,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727359200,
         "title": "【バラード歌枠】お久しぶりのお歌です【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=jB5rllitSI0",
+        "picture": "https://i.ytimg.com/vi/jB5rllitSI0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ペーパーマリオRPG】ハート10縛りペパマリリメイク　4つ目のスターストーン編#04【影山シエン/ホロスターズ】"
     }
 ]
