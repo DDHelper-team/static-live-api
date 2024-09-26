@@ -220,17 +220,6 @@
         "title": "【STREET FIGHTER 6】ハイタニ先生に教わるはじめてのスト６！⚡【ラプラス・ダークネス/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OUxVXHhhNgk",
-        "picture": "https://i.ytimg.com/vi/OUxVXHhhNgk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "囁き、足音、風の音…気持ちいい音に癒される。寝落ち推奨♡まったり眠れるおさんぽデート♡【ゼルダの伝説 ティアーズ オブ ザ キングダム 】Whispering,RelaxSleeping"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727442000,
         "title": "【3.0前夜祭】跟大家科普一下蔥鴨嘎嘎這個人到底是誰 很多秘密都在這！  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=21mrZD7YrBQ",
+        "picture": "https://i.ytimg.com/vi/21mrZD7YrBQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727402400,
+        "title": "【HOLOCURE】FREETALK WHILE TAKING CARE OF FANDOMS!! 【Kureiji Ollie】"
     }
 ]
