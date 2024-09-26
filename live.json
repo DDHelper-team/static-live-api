@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6pR5k_d9O7U",
         "picture": "https://i.ytimg.com/vi/6pR5k_d9O7U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727358300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #TGS2024カプコンオンラインプログラム 】公認ミラー配信！モンハンワイルズ！スト6！逆転検事などなど！？最新情報を一緒に観よう！！！【博衣こより/ホロライブ】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VKePQrPiWlg",
         "picture": "https://i.ytimg.com/vi/VKePQrPiWlg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727358300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#TGS2024カプコンオンラインプログラム】CAPCOM最新情報を一緒に見ようミラー配信会【アルランディス/ホロスターズ】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YpOJ7n9ASR8",
         "picture": "https://i.ytimg.com/vi/YpOJ7n9ASR8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727358300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #TGS2024カプコンオンラインプログラム 】今年もカプコンさんの情報見る公認ミラー配信【荒咬オウガ 花咲みやび】"
     },
     {
@@ -284,17 +284,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#holoGTA 振り返り】ホロスサントスの街で一体なにがあったの！？【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=T-eJW4C3Rnw",
-        "picture": "https://i.ytimg.com/vi/T-eJW4C3Rnw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Two Point Campus】Menjadi Rektor【Ayunda Risu】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
