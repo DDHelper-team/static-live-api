@@ -189,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AtnULWrNVEM",
         "picture": "https://i.ytimg.com/vi/AtnULWrNVEM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727442000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex躲貓貓大賽】蕾希希一周年國罵黨特別企劃!!feat.DASA、Emily Smart【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hjj98cssEUw",
         "picture": "https://i.ytimg.com/vi/hjj98cssEUw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727442000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3.0前夜祭】跟大家科普一下蔥鴨嘎嘎這個人到底是誰 很多秘密都在這！  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YRvMuow0ozw",
         "picture": "https://i.ytimg.com/vi/YRvMuow0ozw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727442000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "黑神話：悟空｜二郎神我來了！【Healing希靈/VTuber】"
     },
     {
@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=psY-ROHAqIs",
         "picture": "https://i.ytimg.com/vi/psY-ROHAqIs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727442000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】ゲームショウ行ってきた話とか【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -383,5 +383,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727460000,
         "title": "【Team Fortress 2】PYROCHOU TRAINING ARC #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LeuU555U9ag",
+        "picture": "https://i.ytimg.com/vi/LeuU555U9ag/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727524800,
+        "title": "【スト6】#獅白杯2nd 『STREET FIGHTER 6』大会に向けてオファー枠紹介\u0026amp;公募枠の選考会！【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lH4TktPoopc",
+        "picture": "https://i.ytimg.com/vi/lH4TktPoopc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727445600,
+        "title": "【 Pummel Party 】パーティ🎉w/ひなの、のせ、ありさん、きゃぷてん、しす、ばに、ぽっぽ【常闇トワ/ホロライブ】"
     }
 ]
