@@ -187,17 +187,6 @@
         "title": "【FUWAMOCO MORNING】episode 128 🐾 #FWMCMORNING"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Bdy8UgAAjB4",
-        "picture": "https://i.ytimg.com/vi/Bdy8UgAAjB4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6】ハイタニ先生に教わるはじめてのスト６！⚡【ラプラス・ダークネス/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": false,
@@ -222,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FQwVrhg-kC8",
         "picture": "https://i.ytimg.com/vi/FQwVrhg-kC8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727438400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 BIOHAZARD RE:2 】完全初見のバイオRE:2、行くぞ！！！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1IUtCDrfvFg",
         "picture": "https://i.ytimg.com/vi/1IUtCDrfvFg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727438400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings】JUMAT BERKAH. WE PUSH RANK TOGETHER【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -321,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qxJeTHIWiFg",
         "picture": "https://i.ytimg.com/vi/qxJeTHIWiFg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727438400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 OMORI 】私が選んだその道が、私の運命を決定づける　＃１【ホロライブ/白上フブキ 】"
     },
     {
@@ -337,7 +326,7 @@
         "picture": "https://i.ytimg.com/vi/YRvMuow0ozw/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1727438400,
+        "timestamp": 1727442000,
         "title": "黑神話：悟空｜二郎神我來了！【Healing希靈/VTuber】"
     },
     {
@@ -365,12 +354,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QWjVdvEjBHw",
         "picture": "https://i.ytimg.com/vi/QWjVdvEjBHw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727438400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】お知らせあるぞ！！ウオー！！- ハニカムステーション！-155【HACHI 】"
     },
     {
@@ -383,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727442000,
         "title": "【雑談】ゲームショウ行ってきた話とか【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DeYNQlMkxGA",
+        "picture": "https://i.ytimg.com/vi/DeYNQlMkxGA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727524800,
+        "title": "【 ゼルダの伝説 知恵のかりもの 】完全新作遊んでいこう～～🔥 #01【 猫又おかゆ/ホロライブ 】"
     }
 ]
