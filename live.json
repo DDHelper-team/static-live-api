@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=niDOvvZufyI",
         "picture": "https://i.ytimg.com/vi/niDOvvZufyI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727440200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#重返未来1999 】恭喜一週年!!! 限定腳色露西登場了!! 第七章劇情孤獨之歌正式推出!!【#遊戲個人勢 / Fingla】"
     },
     {
@@ -244,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=r8fHC8g-PtM",
-        "picture": "https://i.ytimg.com/vi/r8fHC8g-PtM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V-nNo2RwCT8",
+        "picture": "https://i.ytimg.com/vi/V-nNo2RwCT8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 TCG Card Shop Simulator 】WELCOME WELCOMEEE【 iofi / hololiveID 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727445600,
+        "title": "【The Witcher 3 Part #8】Exploring and Main Quest【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Hjz0rHyHvdA",
         "picture": "https://i.ytimg.com/vi/Hjz0rHyHvdA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727441100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Watchalong \u0026amp; Aftertalk】FINALLY SING OUT MV IS RELEASED【Ayunda Risu】"
     },
     {
@@ -341,17 +341,6 @@
         "title": "配信予定～～～～～～！！！会いたかった～？【ホロライブ/紫咲シオン】"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yVP-KzW4Mgw",
-        "picture": "https://i.ytimg.com/vi/yVP-KzW4Mgw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】80万人ありがとう3Dライブ直前オリ曲復習ちょい雑談枠【儒烏風亭らでん #ReGLOSS 】"
-    },
-    {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
         "islive": true,
@@ -383,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727524800,
         "title": "【 ゼルダの伝説 知恵のかりもの 】完全新作遊んでいこう～～🔥 #01【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Af0OVmQxFlA",
+        "picture": "https://i.ytimg.com/vi/Af0OVmQxFlA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727460000,
+        "title": "【Team Fortress 2】PYROCHOU TRAINING ARC #kfp #キアライブ"
     }
 ]
