@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Af0OVmQxFlA",
         "picture": "https://i.ytimg.com/vi/Af0OVmQxFlA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727460000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Team Fortress 2】PYROCHOU TRAINING ARC #kfp #キアライブ"
     },
     {
@@ -330,17 +330,6 @@
         "title": "【STREET FIGHTER 6】高木にブランカのすべてを教わる！！【ラプラス・ダークネス/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pns27SfGKRA",
-        "picture": "https://i.ytimg.com/vi/pns27SfGKRA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ASMR/黒3Dio】今日も1日お疲れ様なのじゃ～！【囁き/タッピング/耳塞ぎ/耳かきブラシ】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -350,5 +339,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727483400,
         "title": "TAKING ON PUZZLES WITH @WatsonAmelia  | Portal 2"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=08tiYBGps3k",
+        "picture": "https://i.ytimg.com/vi/08tiYBGps3k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【UNARCHIUVED】Haachama English KARAOKE♪"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "late pirate stream with the twins (they are not roleplaying they are real pirates today please respect that)"
     }
 ]
