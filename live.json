@@ -165,17 +165,6 @@
         "title": "【TEAM FORTRESS 2】Let\u0026#39;s Send Things Off with a Smile and a Fiery Exit!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_YVjDbdXwyQ",
-        "picture": "https://i.ytimg.com/vi/_YVjDbdXwyQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TTRPG: GUN】Session Time! Fauna, Gigi and Biboo Go West! #calliolive"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
         "islive": false,
@@ -317,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727425800,
         "title": "【ストリートファイター6】ガイル村テリー会からの #せつな祭 の顔合わせに行ってきます！【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4muzjn857bY",
+        "picture": "https://i.ytimg.com/vi/4muzjn857bY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727424000,
+        "title": "【３Dライブ前夜！】明日のお話と、トラウマ克服のお話【火威 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aVywsgBF8Js",
+        "picture": "https://i.ytimg.com/vi/aVywsgBF8Js/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727427600,
+        "title": "【】はいしんよてい【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
