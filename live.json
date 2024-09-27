@@ -156,23 +156,23 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YRq5dG_tD60",
         "picture": "https://i.ytimg.com/vi/YRq5dG_tD60/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727467200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TEAM FORTRESS 2】Let\u0026#39;s Send Things Off with a Smile and a Fiery Exit!"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SOSlMy19ft0",
         "picture": "https://i.ytimg.com/vi/SOSlMy19ft0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727467200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TEAM FORTRESS 2 COLLAB with #holoEN】puppies first TF2  🐾【FUWAMOCO】"
     },
     {
