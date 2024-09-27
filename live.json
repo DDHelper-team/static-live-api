@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lAXexoIFCjE",
-        "picture": "https://i.ytimg.com/vi/lAXexoIFCjE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SOSlMy19ft0",
+        "picture": "https://i.ytimg.com/vi/SOSlMy19ft0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FUWAMOCO MORNING】episode 128 🐾 #FWMCMORNING"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727467200,
+        "title": "【TEAM FORTRESS 2 COLLAB with #holoEN】puppies first TF2  🐾【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
