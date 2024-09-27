@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4muzjn857bY",
         "picture": "https://i.ytimg.com/vi/4muzjn857bY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727424000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【３Dライブ前夜！】明日のお話と、トラウマ克服のお話【火威 】#hololiveDEV_IS #ReGLOSS"
     },
     {
