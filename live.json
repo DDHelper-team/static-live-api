@@ -277,11 +277,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=qxJeTHIWiFg",
         "picture": "https://i.ytimg.com/vi/qxJeTHIWiFg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 OMORI 】私が選んだその道が、私の運命を決定づける　＃１【ホロライブ/白上フブキ 】"
     },
