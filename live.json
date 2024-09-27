@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jZXg0mtMNpw",
         "picture": "https://i.ytimg.com/vi/jZXg0mtMNpw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727478000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【EAT-TALK】Thanks America　I\u0026#39;m back in Japan 【ホロライブ / ロボ子さん】"
     },
     {
