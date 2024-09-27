@@ -297,27 +297,6 @@
         "title": "TAKING ON PUZZLES WITH @WatsonAmelia  | Portal 2"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=08tiYBGps3k",
-        "picture": "https://i.ytimg.com/vi/08tiYBGps3k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIUVED】Haachama English KARAOKE♪"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "late pirate stream with the twins (they are not roleplaying they are real pirates today please respect that)"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -338,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727524800,
         "title": "【 BIOHAZARD RE:2 】完全初見のバイオRE:2、行くぞ！！＃2 【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jZXg0mtMNpw",
+        "picture": "https://i.ytimg.com/vi/jZXg0mtMNpw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727478000,
+        "title": "【EAT-TALK】Thanks America　I\u0026#39;m back in Japan 【ホロライブ / ロボ子さん】"
     }
 ]
