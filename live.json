@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vgMkbCbwltc",
         "picture": "https://i.ytimg.com/vi/vgMkbCbwltc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727398800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Lofi Radio】Japanese Study Session and Productivity Stream"
     },
     {
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EA_Pj_iGRoo",
         "picture": "https://i.ytimg.com/vi/EA_Pj_iGRoo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727398800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【URAYAMA｜ウラヤマ】into the haunted japanese mountains 🐾 【FUWAMOCO】"
     },
     {
