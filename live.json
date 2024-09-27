@@ -231,17 +231,6 @@
         "title": "【FINAL FANTASY Ⅸ / FF9】遂にファイナルファンタジー9へ！ #3 【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=V-nNo2RwCT8",
-        "picture": "https://i.ytimg.com/vi/V-nNo2RwCT8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Witcher 3 Part #8】Exploring and Main Quest【 iofi / hololiveID 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
@@ -383,5 +372,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ASMR/黒3Dio】今日も1日お疲れ様なのじゃ～！【囁き/タッピング/耳塞ぎ/耳かきブラシ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1BjQxvo51Lc",
+        "picture": "https://i.ytimg.com/vi/1BjQxvo51Lc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727483400,
+        "title": "TAKING ON PUZZLES WITH @WatsonAmelia  | Portal 2"
     }
 ]
