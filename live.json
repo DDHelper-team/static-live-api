@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hjj98cssEUw",
-        "picture": "https://i.ytimg.com/vi/hjj98cssEUw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-SnnmAxs6zQ",
+        "picture": "https://i.ytimg.com/vi/-SnnmAxs6zQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【3.0前夜祭】跟大家科普一下蔥鴨嘎嘎這個人到底是誰 很多秘密都在這！  | #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727524800,
+        "title": "【#蔥鴨嘎嘎新衣裝】3.0 從心開始 成為你心裡特別的存在  #新衣裝 #newoutfit"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -319,17 +319,6 @@
         "title": "【僕、アルバイトォォ！！】はじめてのコンビニバイト！！頑張ります！【ホロライブ/紫咲シオン】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=psY-ROHAqIs",
-        "picture": "https://i.ytimg.com/vi/psY-ROHAqIs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】ゲームショウ行ってきた話とか【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -383,5 +372,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727512200,
         "title": "【TCG Card Shop Simulator】BETTER TO REGRET BUYING THAN REGRET NOT BUYING, COME【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p0e55oyN9IE",
+        "picture": "https://i.ytimg.com/vi/p0e55oyN9IE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727528400,
+        "title": "【STREET FIGHTER 6】高木にブランカのすべてを教わる！！【ラプラス・ダークネス/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
+        "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pns27SfGKRA",
+        "picture": "https://i.ytimg.com/vi/pns27SfGKRA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727449200,
+        "title": "【ASMR/黒3Dio】今日も1日お疲れ様なのじゃ～！【囁き/タッピング/耳塞ぎ/耳かきブラシ】"
     }
 ]
