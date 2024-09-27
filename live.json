@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MPrtnihrkHg",
         "picture": "https://i.ytimg.com/vi/MPrtnihrkHg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727427600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#1【ゼルダの伝説 知恵のかりもの】借りたもので世界を救う!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aVywsgBF8Js",
         "picture": "https://i.ytimg.com/vi/aVywsgBF8Js/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727427600,
-        "title": "【】はいしんよてい【轟はじめ/ReGLOSS】 #hololivedev_is"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【一瞬】落ち着かないから話そうよ【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
