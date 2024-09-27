@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jJmSV3lXkp0",
-        "picture": "https://i.ytimg.com/vi/jJmSV3lXkp0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V12rRX3gvMg",
+        "picture": "https://i.ytimg.com/vi/V12rRX3gvMg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FREDDI FISH AND THE CASE OF THE MISSING KELP SEEDS】my childhood【Dokibird】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727503200,
+        "title": "【APEX LEGENDS RANK】back to the basement again【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -229,17 +229,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727524800,
         "title": "【 ゼルダの伝説 知恵のかりもの 】完全新作遊んでいこう～～🔥 #01【 猫又おかゆ/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Af0OVmQxFlA",
-        "picture": "https://i.ytimg.com/vi/Af0OVmQxFlA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Team Fortress 2】PYROCHOU TRAINING ARC #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727478000,
         "title": "【EAT-TALK】Thanks America　I\u0026#39;m back in Japan 【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ona-9_dYIwQ",
+        "picture": "https://i.ytimg.com/vi/Ona-9_dYIwQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727492400,
+        "title": "【AmiAmi】 Official WAHmbassador On Duty!!!"
     }
 ]
