@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jJmSV3lXkp0",
         "picture": "https://i.ytimg.com/vi/jJmSV3lXkp0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727465400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FREDDI FISH AND THE CASE OF THE MISSING KELP SEEDS】my childhood【Dokibird】"
     },
     {
