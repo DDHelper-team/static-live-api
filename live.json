@@ -442,12 +442,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wRTodwFg0v4",
         "picture": "https://i.ytimg.com/vi/wRTodwFg0v4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727531100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OVERCOOKED 2】YANG BENER AJA LU PI【Kureiji Ollie】"
     }
 ]
