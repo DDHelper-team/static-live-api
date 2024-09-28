@@ -277,11 +277,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=8fLr8UeI3yw",
         "picture": "https://i.ytimg.com/vi/8fLr8UeI3yw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 Overcooked! 2 】IOLLIE TEAMWORK【 iofi / hololiveID 】"
     },
@@ -420,12 +420,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=M4GxBu1vHiU",
         "picture": "https://i.ytimg.com/vi/M4GxBu1vHiU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727526600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】寂しかったーーー？僕の歌で癒すよ！！！歌枠！【#新人vtuber 】"
     },
     {
@@ -449,5 +449,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727568000,
         "title": "【LEARNING DEADLOCK】my first moba....【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wRTodwFg0v4",
+        "picture": "https://i.ytimg.com/vi/wRTodwFg0v4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727531100,
+        "title": "【OVERCOOKED 2】YANG BENER AJA LU PI【Kureiji Ollie】"
     }
 ]
