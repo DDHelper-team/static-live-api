@@ -330,17 +330,6 @@
         "title": "【 TCG Card Shop Simulator 】BREWEK【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3KMLvKQuGGk",
-        "picture": "https://i.ytimg.com/vi/3KMLvKQuGGk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【サガ エメラルド ビヨンド】ディーヴァナンバー５の物語、今日こそ勝てるか！？【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -449,5 +438,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727528400,
         "title": "【メン限】同時視聴　ドラえもん のび太の宇宙漂流記【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uqswdky0ogo",
+        "picture": "https://i.ytimg.com/vi/uqswdky0ogo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727528400,
+        "title": "【声マネキング】目指せ100点！！！声マネの王になる！！！！！【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QURnTyMrnbU",
+        "picture": "https://i.ytimg.com/vi/QURnTyMrnbU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727564400,
+        "title": "【Call of Duty: Modern Warfare Remastered】IM AT SOAP!"
     }
 ]
