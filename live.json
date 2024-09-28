@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1BjQxvo51Lc",
         "picture": "https://i.ytimg.com/vi/1BjQxvo51Lc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727483400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "TAKING ON PUZZLES WITH @WatsonAmelia  | Portal 2"
     },
     {
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727496000,
         "title": "【ELDEN RING】#23 禁域――なんだここは？！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=P_hMVt9wSYc",
+        "picture": "https://i.ytimg.com/vi/P_hMVt9wSYc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727532000,
+        "title": "【The Legend of Zelda™: Echoes of Wisdom】thinking with echoes!!! #kfp #キアライブ"
     }
 ]
