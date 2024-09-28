@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=05Y07mokwow",
         "picture": "https://i.ytimg.com/vi/05Y07mokwow/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727512200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】BETTER TO REGRET BUYING THAN REGRET NOT BUYING, COME【Kureiji Ollie】"
     },
     {
@@ -427,5 +427,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727514000,
         "title": "【WHAT THE GOLF？】物理演算ゴルフで、もうめちゃくちゃだよ！【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6knWPkBIuNE",
+        "picture": "https://i.ytimg.com/vi/6knWPkBIuNE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727586000,
+        "title": "【The Forest】ソロサバイバル その１【 奏手イヅル / ホロスターズ 】"
     }
 ]
