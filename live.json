@@ -352,17 +352,6 @@
         "title": "【#breadandfred 】今天又是一個友情測驗日 w/ 露西【#遊戲個人勢 / Fingla】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=abGqZlrk2nE",
-        "picture": "https://i.ytimg.com/vi/abGqZlrk2nE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【NO ARCHIVE】SING：ボクha歌いたい気分なんだ【ホロライブ / ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "islive": false,
@@ -493,5 +482,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727519400,
         "title": "【#ReGLOSS3Dライブ】Reach the top！フリーチャット【#火威青】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LyDQcY9bzDQ",
+        "picture": "https://i.ytimg.com/vi/LyDQcY9bzDQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727528400,
+        "title": "【雑談】あと数日で引っ越します。【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JcnD0tMweOQ",
+        "picture": "https://i.ytimg.com/vi/JcnD0tMweOQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727532000,
+        "title": "【寝る前に】壺男とアメリカ旅行の話！【赤井はあと/ホロライブ】"
     }
 ]
