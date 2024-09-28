@@ -286,17 +286,6 @@
         "title": "【 BIOHAZARD RE:2 】完全初見のバイオRE:2、行くぞ！！＃2 【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jZXg0mtMNpw",
-        "picture": "https://i.ytimg.com/vi/jZXg0mtMNpw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【EAT-TALK】Thanks America　I\u0026#39;m back in Japan 【ホロライブ / ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "islive": true,
@@ -350,5 +339,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Garry\u0026#39;s Mod】AME LOVE    |  gaming with EN+ID"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9wgEU7No7Og",
+        "picture": "https://i.ytimg.com/vi/9wgEU7No7Og/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727578800,
+        "title": "【DARK SOULS III】the third one (part 1) #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EjJwSFvvTXY",
+        "picture": "https://i.ytimg.com/vi/EjJwSFvvTXY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727514000,
+        "title": "【 TCG Card Shop Simulator 】BREWEK【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3KMLvKQuGGk",
+        "picture": "https://i.ytimg.com/vi/3KMLvKQuGGk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727496000,
+        "title": "【サガ エメラルド ビヨンド】ディーヴァナンバー５の物語、今日こそ勝てるか！？【ホロライブ/ときのそら】"
     }
 ]
