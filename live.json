@@ -242,17 +242,6 @@
         "title": "【 Overcooked! 2 】IOLLIE TEAMWORK【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PXL6S8tfhO0",
-        "picture": "https://i.ytimg.com/vi/PXL6S8tfhO0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】 #せつな祭 チーム練習第2回！強くなります！【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "islive": false,
@@ -350,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727571000,
         "title": "【UNARCHIVED】ハテナ役　荒咬オウガと見る　シン・ドゲンジャーズ　第12話【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=M5bLawe6XS4",
+        "picture": "https://i.ytimg.com/vi/M5bLawe6XS4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727578800,
+        "title": "【 ヨッシーアイランド 】どうやら赤ちゃんプレイらしい。【 領国つかさ / すぺしゃりて 】"
     }
 ]
