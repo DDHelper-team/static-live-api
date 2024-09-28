@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YUu3SUoewIc",
-        "picture": "https://i.ytimg.com/vi/YUu3SUoewIc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IbwxOKfZL-c",
+        "picture": "https://i.ytimg.com/vi/IbwxOKfZL-c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【一周年50個Q\u0026amp;A】不知不覺迎來一周年啦~來回大大家的疑問!!  【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #雜談 #初見歡迎 #問答 #Q\u0026amp;A"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727611200,
+        "title": "【Apex知識問答競賽】APEX版百萬小學堂!! 跟三位ㄟ配大佬一起 feat.澈日、妾身、玖兔【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -416,5 +416,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727568000,
         "title": "【LEARNING DEADLOCK】my first moba....【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=04zvn1qo2nA",
+        "picture": "https://i.ytimg.com/vi/04zvn1qo2nA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727535622,
+        "title": "【歌枠】帰宅しました。突発につき、アーカイブメン限🎤【緋月ゆい/ネオポルテ】"
     }
 ]
