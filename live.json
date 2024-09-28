@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ona-9_dYIwQ",
         "picture": "https://i.ytimg.com/vi/Ona-9_dYIwQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727492400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【AmiAmi】 Official WAHmbassador On Duty!!!"
     },
     {
@@ -332,23 +332,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZvFtXL3gYUA",
         "picture": "https://i.ytimg.com/vi/ZvFtXL3gYUA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1727489100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Garry\u0026#39;s Mod】EN+ID GARRY\u0026#39;S MOD!!!!!!!【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BRiQAyEcW8I",
         "picture": "https://i.ytimg.com/vi/BRiQAyEcW8I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727490600,
-        "title": "【Garry\u0026#39;s Mod】AME LOVE"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Garry\u0026#39;s Mod】AME LOVE    |  gaming with EN+ID"
     }
 ]
