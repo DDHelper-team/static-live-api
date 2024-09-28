@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LeuU555U9ag",
-        "picture": "https://i.ytimg.com/vi/LeuU555U9ag/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FE3xEt160j4",
+        "picture": "https://i.ytimg.com/vi/FE3xEt160j4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】#獅白杯2nd 『STREET FIGHTER 6』大会に向けてオファー枠紹介\u0026amp;公募枠の選考会！【獅白ぼたん/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727607600,
+        "title": "【#獅白ぼたん生誕祭2024】ラーメンでギネス世界記録を目指す！麺屋ぼたん世界新記録への道【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
@@ -319,17 +319,6 @@
         "title": "【Granblue Fantasy: Relink】THIS DANCHOU WILL SAVE LYRIA AND EVERYONE【hololive ID | Anya Melfissa】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JZ_FisebO3Q",
-        "picture": "https://i.ytimg.com/vi/JZ_FisebO3Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 雑談/Freetalk 】お休みをするで～～～！の前の話等々…！【常闇トワ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": false,
@@ -376,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JcnD0tMweOQ",
         "picture": "https://i.ytimg.com/vi/JcnD0tMweOQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727532000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【寝る前に】壺男とアメリカ旅行の話！【赤井はあと/ホロライブ】"
     },
     {
