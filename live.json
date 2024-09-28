@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1sMuXpAVILg",
         "picture": "https://i.ytimg.com/vi/1sMuXpAVILg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727566200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ANIMALS with Ame \u0026amp; Moom !!"
     },
     {
