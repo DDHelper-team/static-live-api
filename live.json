@@ -242,17 +242,6 @@
         "title": "【はいしんよていち】こよ！！！！！！！！！！【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tGE8zK25Lho",
-        "picture": "https://i.ytimg.com/vi/tGE8zK25Lho/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KARAOKE】ようこそ、はあちゃまクルーズの旅へ！🚢【赤井はあと/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": false,
@@ -328,5 +317,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727711100,
         "title": "【週表】09/23~09/29  #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "neuro gets therapy with lucy pyre"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TUw2_5cS2_s",
+        "picture": "https://i.ytimg.com/vi/TUw2_5cS2_s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727690400,
+        "title": "【#holoID_EkskulDays】Trivial Debate Club w/ Guests !!! Debat tentang hal gak penting?!?!?"
     }
 ]
