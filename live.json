@@ -244,11 +244,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=ORcAc4dUQ-4",
         "picture": "https://i.ytimg.com/vi/ORcAc4dUQ-4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【League of Legends】フルパでLoLやんけ!!!【アルランディス/ホロスターズ】"
     },
@@ -350,16 +350,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727690400,
         "title": "【はいしんよていち】こよ！！！！！！！！！！【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Cyaz5VVekCY",
-        "picture": "https://i.ytimg.com/vi/Cyaz5VVekCY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【３Dソロお披露目】VRChatで3D！沢山ファンサするよ✨【火威 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
