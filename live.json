@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IbwxOKfZL-c",
         "picture": "https://i.ytimg.com/vi/IbwxOKfZL-c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727611200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex知識問答競賽】APEX版百萬小學堂!! 跟三位ㄟ配大佬一起 feat.澈日、妾身、玖兔【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
     },
     {
@@ -174,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 OMORI 】私が選んだその道が、私の運命を決定づける　＃１【ホロライブ/白上フブキ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FE3xEt160j4",
-        "picture": "https://i.ytimg.com/vi/FE3xEt160j4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#獅白ぼたん生誕祭2024】ラーメンでギネス世界記録を目指す！麺屋ぼたん世界新記録への道【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QGnPVHIcrSM",
         "picture": "https://i.ytimg.com/vi/QGnPVHIcrSM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727611200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 BIOHAZARD RE:2 】バイオRE:2、クレア編突入！！！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -255,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6LrLZhz_uTg",
         "picture": "https://i.ytimg.com/vi/6LrLZhz_uTg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727611200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOEARTH】GET IN THE SIMULATION ROOM ZOMRADES, WE\u0026#39;RE HUNTING DOWN BOSSES!!【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=z5Kj17-FfyE",
         "picture": "https://i.ytimg.com/vi/z5Kj17-FfyE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727611200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】新店オープン‼話題のカードショップ経営で荒稼ぎしたい！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
@@ -295,17 +284,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#恋と深空】ありがとうございます。【緋月ゆい/ネオポルテ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Qk5gJWalNGw",
-        "picture": "https://i.ytimg.com/vi/Qk5gJWalNGw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727611200,
-        "title": "【歌枠 / Singing】1時間限定歌枠！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -350,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727690400,
         "title": "【はいしんよていち】こよ！！！！！！！！！！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tGE8zK25Lho",
+        "picture": "https://i.ytimg.com/vi/tGE8zK25Lho/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727622000,
+        "title": "【KARAOKE】ジャングルクルーズで大熱唱だあああ！！！🦕【赤井はあと/ホロライブ】"
     }
 ]
