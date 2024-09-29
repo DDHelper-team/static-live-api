@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FE3xEt160j4",
         "picture": "https://i.ytimg.com/vi/FE3xEt160j4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727607600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#獅白ぼたん生誕祭2024】ラーメンでギネス世界記録を目指す！麺屋ぼたん世界新記録への道【獅白ぼたん/ホロライブ】"
     },
     {
@@ -196,17 +196,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 Overcooked! 2 】IOLLIE TEAMWORK【 iofi / hololiveID 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6knWPkBIuNE",
-        "picture": "https://i.ytimg.com/vi/6knWPkBIuNE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Forest】ソロサバイバル その１【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ORcAc4dUQ-4",
         "picture": "https://i.ytimg.com/vi/ORcAc4dUQ-4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727607600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【League of Legends】フルパでLoLやんけ!!!【アルランディス/ホロスターズ】"
     },
     {
@@ -288,23 +277,23 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q4hoT8L003c",
         "picture": "https://i.ytimg.com/vi/q4hoT8L003c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727607600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "塔羅占卜#74｜再三個月就過完今年了，時間過真快🔮✨🦊【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NmYh6XAmQdI",
         "picture": "https://i.ytimg.com/vi/NmYh6XAmQdI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727607600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#恋と深空】ありがとうございます。【緋月ゆい/ネオポルテ】"
     },
     {
