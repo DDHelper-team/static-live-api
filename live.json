@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=M5bLawe6XS4",
         "picture": "https://i.ytimg.com/vi/M5bLawe6XS4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727582400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ヨッシーアイランド 】どうやら赤ちゃんプレイらしい。【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -299,34 +299,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5jsmrUxVw9s",
         "picture": "https://i.ytimg.com/vi/5jsmrUxVw9s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727582400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ELDEN RING】#24 日陰城改め陰キャッスル！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YB7eagjqPjs",
         "picture": "https://i.ytimg.com/vi/YB7eagjqPjs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727582400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#23 | 完全初見！ナヒーダさん、多忙すぎますよ🌿【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Nc5eqJ0PKiE",
         "picture": "https://i.ytimg.com/vi/Nc5eqJ0PKiE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727582400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 歌枠 / Karaoke 】歌のモチベが高いので練習 アーカイブは消滅する / #燃えろアステル"
     }
 ]
