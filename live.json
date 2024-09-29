@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=d-YE9mOixkc",
         "picture": "https://i.ytimg.com/vi/d-YE9mOixkc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727589600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Granblue Fantasy: Relink】THIS DANCHOU WILL SAVE LYRIA AND EVERYONE【hololive ID | Anya Melfissa】"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cVW6_KdgDws",
         "picture": "https://i.ytimg.com/vi/cVW6_KdgDws/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727589600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【リングフィット アドベンチャー】mocopiで元気に運動していこうじゃない！！【ホロライブ/ときのそら】"
     },
     {
