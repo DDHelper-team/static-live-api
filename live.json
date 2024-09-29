@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9wgEU7No7Og",
         "picture": "https://i.ytimg.com/vi/9wgEU7No7Og/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1727580600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS III】the third one (part 1) #calliolive"
     },
     {
@@ -317,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727582400,
         "title": "【原神】#23 | 完全初見！ナヒーダさん、多忙すぎますよ🌿【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Nc5eqJ0PKiE",
+        "picture": "https://i.ytimg.com/vi/Nc5eqJ0PKiE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727582400,
+        "title": "【 歌枠 / Karaoke 】歌のモチベが高いので練習 アーカイブは消滅する / #燃えろアステル"
     }
 ]
