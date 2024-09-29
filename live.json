@@ -220,17 +220,6 @@
         "title": "【 Overcooked! 2 】IOLLIE TEAMWORK【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=d-YE9mOixkc",
-        "picture": "https://i.ytimg.com/vi/d-YE9mOixkc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Granblue Fantasy: Relink】THIS DANCHOU WILL SAVE LYRIA AND EVERYONE【hololive ID | Anya Melfissa】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": true,
@@ -321,12 +310,23 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=COf0p2UIo5U",
         "picture": "https://i.ytimg.com/vi/COf0p2UIo5U/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】映像見ながらライブの振り返り＆裏話＆おうち3Dお披露目などをします！！！#ReGLOSS3Dライブ【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=z5Kj17-FfyE",
+        "picture": "https://i.ytimg.com/vi/z5Kj17-FfyE/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1727596800,
-        "title": "【雑談】映像見ながらライブの振り返り＆裏話などをします！！！#ReGLOSS3Dライブ【儒烏風亭らでん #ReGLOSS 】"
+        "timestamp": 1727611200,
+        "title": "【 TCG Card Shop Simulator 】新店オープン‼話題のカードショップ経営で荒稼ぎしたい！！！！！！！【ホロライブ/さくらみこ】"
     }
 ]
