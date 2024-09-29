@@ -255,13 +255,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=M5bLawe6XS4",
-        "picture": "https://i.ytimg.com/vi/M5bLawe6XS4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QGnPVHIcrSM",
+        "picture": "https://i.ytimg.com/vi/QGnPVHIcrSM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ヨッシーアイランド 】どうやら赤ちゃんプレイらしい。【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727611200,
+        "title": "【 BIOHAZARD RE:2 】バイオRE:2、クレア編突入！！！【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
@@ -319,17 +319,6 @@
         "title": "【League of Legends】フルパでLoLやんけ!!!【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cVW6_KdgDws",
-        "picture": "https://i.ytimg.com/vi/cVW6_KdgDws/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【リングフィット アドベンチャー】mocopiで元気に運動していこうじゃない！！【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727611200,
         "title": "【HOLOEARTH】GET IN THE SIMULATION ROOM ZOMRADES, WE\u0026#39;RE HUNTING DOWN BOSSES!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=COf0p2UIo5U",
+        "picture": "https://i.ytimg.com/vi/COf0p2UIo5U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727596800,
+        "title": "【雑談】映像見ながらライブの振り返り＆裏話などをします！！！#ReGLOSS3Dライブ【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
