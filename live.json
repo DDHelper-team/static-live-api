@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IbwxOKfZL-c",
-        "picture": "https://i.ytimg.com/vi/IbwxOKfZL-c/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UTSN3BIcMjg",
+        "picture": "https://i.ytimg.com/vi/UTSN3BIcMjg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Apex知識問答競賽】APEX版百萬小學堂!! 跟三位ㄟ配大佬一起 feat.澈日、妾身、玖兔【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727697600,
+        "title": "【2.0 新衣裝配信】💙蕾希一周年的新衣裝配信!✨一起來看超級美少女的新衣服!!【盆栽工作室/玖月蕾希/玖月レイシ】#2.0配信 #新衣裝 #一周年 #台灣vtuber #vtuber"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -251,17 +251,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】新店オープン‼話題のカードショップ経営で荒稼ぎしたい！！！！！！！【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=q4hoT8L003c",
-        "picture": "https://i.ytimg.com/vi/q4hoT8L003c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "塔羅占卜#74｜再三個月就過完今年了，時間過真快🔮✨🦊【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -372,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727661600,
         "title": "【DARK SOULS III】Gutslliope, the Struggler, Continues to Struggle. (part 2) #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Qk5gJWalNGw",
+        "picture": "https://i.ytimg.com/vi/Qk5gJWalNGw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠 / Singing】1時間限定歌枠！【#新人vtuber 】"
     }
 ]
