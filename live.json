@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ws9jTBaT6aw",
         "picture": "https://i.ytimg.com/vi/ws9jTBaT6aw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727694000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #雑談 / talking】未公開情報あり！大分民泊コラボについて♪【#新人vtuber 】"
     },
     {
@@ -273,17 +273,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727711100,
         "title": "【週表】09/23~09/29  #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TUw2_5cS2_s",
-        "picture": "https://i.ytimg.com/vi/TUw2_5cS2_s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#holoID_EkskulDays】Trivial Debate Club w/ Guests !!! Debat tentang hal gak penting?!?!?"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qqOM3y1UdIE",
         "picture": "https://i.ytimg.com/vi/qqOM3y1UdIE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727694000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれ どうぶつの森】わたしの島へらでんちゃんをご招待！！#そらでん　【ホロライブ/ときのそら/儒烏風亭らでん】"
     },
     {
@@ -332,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zlqAntsibnA",
         "picture": "https://i.ytimg.com/vi/zlqAntsibnA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727694000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Ekskul Days】HOW TO SURVIVE IN THE WILD 101"
     },
     {
@@ -354,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7HO6bazzg8U",
         "picture": "https://i.ytimg.com/vi/7HO6bazzg8U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727694000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "無職ぺこーら、カードショップを開く！！！ぺこ！【TCG Card Shop Simulator】【ホロライブ/兎田ぺこら】"
     },
     {
@@ -372,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727697600,
         "title": "【 TCG Card Shop Simulator 】レアカード入荷‼話題のカードショップ経営で荒稼ぎしたい！！！！！！！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=t3UqHEonivw",
+        "picture": "https://i.ytimg.com/vi/t3UqHEonivw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ReGLOSS3Dライブ 振り返り】VRChatのお部屋で同時視聴！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
