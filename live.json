@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JvcTU09lQLs",
-        "picture": "https://i.ytimg.com/vi/JvcTU09lQLs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IaYSVwKuPnc",
+        "picture": "https://i.ytimg.com/vi/IaYSVwKuPnc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Forest】ソロサバイバル その２【 奏手イヅル / ホロスターズ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727782200,
+        "title": "【The Forest】ソロサバイバル その３【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -240,17 +240,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727726400,
         "title": "【Paper Mario: TTYD】The Tournament Arc | Ep-04"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sHUsgynCjcM",
-        "picture": "https://i.ytimg.com/vi/sHUsgynCjcM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 TCG Card Shop Simulator 】レアカード入荷‼話題のカードショップみこのあなで荒稼ぎしたい！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
