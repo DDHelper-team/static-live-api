@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kLLBkqxcKOU",
         "picture": "https://i.ytimg.com/vi/kLLBkqxcKOU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727737200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【EAT-TALK】good morningggggggggggg【ホロライブ / ロボ子さん】"
     }
 ]
