@@ -242,17 +242,6 @@
         "title": "【Paper Mario: TTYD】The Tournament Arc | Ep-04"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NJ5jozV74K0",
-        "picture": "https://i.ytimg.com/vi/NJ5jozV74K0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DEEP ROCK GALACTIC】HEY MISSION CONTROL"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -308,7 +297,7 @@
         "title": "【 PICO PARK 2 】レコーディングから帰宅後んな(・o・🍬)【姫森ルーナ/ホロライブ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -316,5 +305,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "If neuro crashes thrice this stream, I will graduate"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Fv0P7MqDm4k",
+        "picture": "https://i.ytimg.com/vi/Fv0P7MqDm4k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727784000,
+        "title": "【 雑談 】10月最初の無軌道雑談【 領国つかさ / すぺしゃりて 】"
     }
 ]
