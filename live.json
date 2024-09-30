@@ -231,17 +231,6 @@
         "title": "【雜談】莫名其妙50問(上) 嘿！奇怪欸！  #蔥鴨嘎嘎LIVE #台灣Vtuber​​​​​​ #vtuber ​​​​"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UNaekMLkXPY",
-        "picture": "https://i.ytimg.com/vi/UNaekMLkXPY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Alien Appears to Ball Everything You Love into a Star【We Love Katamari REROLL】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -286,16 +275,6 @@
         "title": "【 PICO PARK 2 】レコーディングから帰宅後んな(・o・🍬)【姫森ルーナ/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "If neuro crashes thrice this stream, I will graduate"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -316,5 +295,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【FREE TALK】10月はじめの！こっそりおしゃべり♡【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kLLBkqxcKOU",
+        "picture": "https://i.ytimg.com/vi/kLLBkqxcKOU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727737200,
+        "title": "【EAT-TALK】good morningggggggggggg【ホロライブ / ロボ子さん】"
     }
 ]
