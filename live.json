@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qO1mV6DDDf0",
         "picture": "https://i.ytimg.com/vi/qO1mV6DDDf0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727708400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 129 🐾 #FWMCMORNING"
     },
     {
@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=crG4INzVVdw",
         "picture": "https://i.ytimg.com/vi/crG4INzVVdw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727708400,
-        "title": "ASMR｜深夜膝枕掏耳哄睡❤️｜Lap Pillow Ear Picking for Sleep｜膝枕で耳かきして眠る【Binaural】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "ASMR｜深夜膝枕掏耳哄睡❤️戀上姐姐香軟的床｜Lap Pillow Ear Picking for Sleep｜膝枕で耳かきして眠る【Binaural】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -361,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727712000,
         "title": "【DEEP ROCK GALACTIC】with quasoni, goobidiba and amEEEE #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fqixg7VV4bw",
+        "picture": "https://i.ytimg.com/vi/fqixg7VV4bw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727751600,
+        "title": "【CoD: BLACK OPS II】Agent IRyS will Save the Day again"
     }
 ]
