@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ErManz3HDBg",
         "picture": "https://i.ytimg.com/vi/ErManz3HDBg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727784000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #実写あり！】4周年記念！みんながくれたプレゼント開封します！！【#新人vtuber 】"
     },
     {
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Fv0P7MqDm4k",
         "picture": "https://i.ytimg.com/vi/Fv0P7MqDm4k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727784000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談 】10月最初の無軌道雑談【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -332,13 +332,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j7oqLnsCTiQ",
         "picture": "https://i.ytimg.com/vi/j7oqLnsCTiQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727784000,
-        "title": "【配信予定地】　【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ゼルダの伝説 知恵のかりもの】ゼルダが主人公！？自由に冒険する姫様の物語～１～　【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -387,13 +387,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4cQq-7QQHq0",
         "picture": "https://i.ytimg.com/vi/4cQq-7QQHq0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727784000,
-        "title": "【Minecraft】すごいことになっているらしい兎田ぺこらサーバーを見に行く！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】凄いことになっているらしい兎田ぺこらサーバーを見に行く！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -409,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QTe46ldouAY",
         "picture": "https://i.ytimg.com/vi/QTe46ldouAY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727784000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】新弾入荷‼話題のカードショップみこのあなで高額レアカード入荷したい！！！！！！【ホロライブ/さくらみこ】"
     },
     {
@@ -427,5 +427,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727789400,
         "title": "【 -`🎙 歌枠/Singing 】10月になったみたい。 sing and talk【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=l_cLlCt4Vag",
+        "picture": "https://i.ytimg.com/vi/l_cLlCt4Vag/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727794800,
+        "title": "【歌枠】のんびり歌枠！！-Midnight station -76 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eSCQQhjgpIg",
+        "picture": "https://i.ytimg.com/vi/eSCQQhjgpIg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727863200,
+        "title": "【歌枠】月1ペースの歌枠🎤✨楽しく歌お〜🎶【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rdDZwhj3dpE",
+        "picture": "https://i.ytimg.com/vi/rdDZwhj3dpE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727787600,
+        "title": "【#マイクラ肝試し2024】新エリアを探索したりスタンプラリー完成させる！【不知火フレア/ホロライブ】"
     }
 ]
