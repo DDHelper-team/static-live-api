@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IaYSVwKuPnc",
         "picture": "https://i.ytimg.com/vi/IaYSVwKuPnc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727782200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Forest】ソロサバイバル その３【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RzaC9sI0Fzk",
         "picture": "https://i.ytimg.com/vi/RzaC9sI0Fzk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727782200,
-        "title": "【CHANNEL REVIEW】A THROWBACK TO ALL MY CONTENT!! + BIG ANNOUNCEMENT【Kureiji Ollie】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【CHANNEL REVIEW】A THROWBACK TO ALL MY CONTENT!! + TALL ANNOUNCEMENT【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
