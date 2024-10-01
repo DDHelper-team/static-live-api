@@ -297,17 +297,6 @@
         "title": "【Black Myth: Wukong】I MEAN (monke) BUSINESS! (Chapter 3)"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=j7oqLnsCTiQ",
-        "picture": "https://i.ytimg.com/vi/j7oqLnsCTiQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゼルダの伝説 知恵のかりもの】ゼルダが主人公！？自由に冒険する姫様の物語～１～　【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -420,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vkt8NhmKW0w",
         "picture": "https://i.ytimg.com/vi/vkt8NhmKW0w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727796600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OW2】深夜にサポのランクを回す!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -438,5 +427,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727866800,
         "title": "【#ししろんの47ラーメンツアー】昔ながらの醤油ラーメンに全部飲み干したくなる塩味ラーメン！鯛出汁がうまいラーメンに今回はうどんまであるというネタバレしてそうな第7回目【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dkWWNUaWSMc",
+        "picture": "https://i.ytimg.com/vi/dkWWNUaWSMc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727870400,
+        "title": "【 ヨッシーアイランド 】マリオめ、赤ちゃんの座は譲らない。【 領国つかさ / すぺしゃりて 】"
     }
 ]
