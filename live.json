@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3Bpq3eiXB8I",
         "picture": "https://i.ytimg.com/vi/3Bpq3eiXB8I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727755200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く 極】初見で挑む『龍が如く 極』　4日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZzCsW-HVGSY",
         "picture": "https://i.ytimg.com/vi/ZzCsW-HVGSY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727755205,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#24 | 完全初見！草神として認めさせよう🌿【緋月ゆい/ネオポルテ】"
     },
     {
@@ -350,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727787600,
         "title": "【かまいたちの夜】かまいたち１から３まで堪能していきます！！ﾜｰｲ  / アステル かまいたちの夜×3"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O6ClKcu5_to",
+        "picture": "https://i.ytimg.com/vi/O6ClKcu5_to/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727758800,
+        "title": "【DARK SOULS III】late night dark souls (part 3) #calliolive"
     }
 ]
