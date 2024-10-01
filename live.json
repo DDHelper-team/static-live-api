@@ -360,5 +360,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "eliv stream"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OYVjmmdy4gk",
+        "picture": "https://i.ytimg.com/vi/OYVjmmdy4gk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727827200,
+        "title": "【CRIME SCENE CLEANER】getting the bleach ready【Dokibird】"
     }
 ]
