@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XbEkx2IJQUw",
-        "picture": "https://i.ytimg.com/vi/XbEkx2IJQUw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ErManz3HDBg",
+        "picture": "https://i.ytimg.com/vi/ErManz3HDBg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #4周年記念配信 】あの恥ずかしい初配信を見返します！！！【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727784000,
+        "title": "【 #実写あり！】4周年記念！みんながくれたプレゼント開封します！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -229,17 +229,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727782200,
         "title": "【CHANNEL REVIEW】A THROWBACK TO ALL MY CONTENT!! + BIG ANNOUNCEMENT【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fqixg7VV4bw",
-        "picture": "https://i.ytimg.com/vi/fqixg7VV4bw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CoD: BLACK OPS II】Agent IRyS will Save the Day again"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
