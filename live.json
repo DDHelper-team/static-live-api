@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XbEkx2IJQUw",
         "picture": "https://i.ytimg.com/vi/XbEkx2IJQUw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727776800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #4周年記念配信 】あの恥ずかしい初配信を見返します！！！【#新人vtuber 】"
     },
     {
@@ -405,5 +405,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "気晴らしに壺おじする！【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MopmkHWUDpQ",
+        "picture": "https://i.ytimg.com/vi/MopmkHWUDpQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727863200,
+        "title": "【メタファー：リファンタジオ】ペルソナ３・４・５のクリエイターによる、アトラス完全新作ゲーム！！【天音かなた/ホロライブ】"
     }
 ]
