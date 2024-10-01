@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=E3paVSSguFU",
         "picture": "https://i.ytimg.com/vi/E3paVSSguFU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1727773200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く８】完全初見！！！🐉桐生さんとバディ組んだ！！！【ネタバレあり】【赤井はあと/ホロライブ】"
     },
     {
@@ -383,5 +383,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727784000,
         "title": "【配信予定地】　【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xnmCKuqoxAM",
+        "picture": "https://i.ytimg.com/vi/xnmCKuqoxAM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727852400,
+        "title": "a little surprise!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dInxLwovKQc",
+        "picture": "https://i.ytimg.com/vi/dInxLwovKQc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727787600,
+        "title": "【GeoGuessr】熊本県MAPでくまモン出たら即終了【ホロライブ / AZKi】"
     }
 ]
