@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fqixg7VV4bw",
         "picture": "https://i.ytimg.com/vi/fqixg7VV4bw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727757900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CoD: BLACK OPS II】Agent IRyS will Save the Day again"
     },
     {
