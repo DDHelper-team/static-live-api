@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8qDPJ-rHEPM",
         "picture": "https://i.ytimg.com/vi/8qDPJ-rHEPM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727854200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロポップ Holo Pop】Omg it\u0026#39;s like pinball....."
     }
 ]
