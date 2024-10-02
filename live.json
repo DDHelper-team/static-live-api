@@ -231,17 +231,6 @@
         "title": "【The Plucky Squire】trying my best to complete the game!💪【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Zpr065hmtcs",
-        "picture": "https://i.ytimg.com/vi/Zpr065hmtcs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】#じーにあすCup に参加するぞい！かずのこチーム顔合わせの日！【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -330,28 +319,6 @@
         "title": "【デッドライジングDR】シリーズ初見！神ゲー！？ゾンビゲー！？やってみる！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Qz1uMv8Jmwk",
-        "picture": "https://i.ytimg.com/vi/Qz1uMv8Jmwk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゼルダの伝説 知恵のかりもの】うちのゼルダ姫、自由すぎるしお転婆すぎる～2～　【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0kEtp-Bj-_Q",
-        "picture": "https://i.ytimg.com/vi/0kEtp-Bj-_Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】初店長！ぶんぶんぷてんちょー！【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": true,
@@ -365,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VvGx3gzD8Ds",
         "picture": "https://i.ytimg.com/vi/VvGx3gzD8Ds/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727881200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 130 🐾 #FWMCMORNING"
     },
     {
@@ -427,5 +394,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727906400,
         "title": "【朝活雑談】団員さんと早起きしたい🌞✨【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "channellink": "https://www.youtube.com/@necomakarin",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CboGsC-0w_s",
+        "picture": "https://i.ytimg.com/vi/CboGsC-0w_s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727967600,
+        "title": "【KU100/ASMR】ついに復帰♡甘い囁きと奥まで届く吐息で脳がとろける…♡奥責めたっぷり睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=97xGyAr8IH8",
+        "picture": "https://i.ytimg.com/vi/97xGyAr8IH8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727928000,
+        "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     }
 ]
