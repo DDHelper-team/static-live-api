@@ -382,7 +382,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "歌枠 | Singing (unarchived) #shorts"
+        "title": "歌枠 | Singing (unarchived)"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -394,5 +394,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727866800,
         "title": "【モンスト】ウリエル狙ってガチャ回すぞおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y7kSSIBAETY",
+        "picture": "https://i.ytimg.com/vi/Y7kSSIBAETY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727866800,
+        "title": "【ゼルダの伝説 知恵のかりもの】知恵？　ありますけど？【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Qz1uMv8Jmwk",
+        "picture": "https://i.ytimg.com/vi/Qz1uMv8Jmwk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727866800,
+        "title": "【ゼルダの伝説 知恵のかりもの】うちのゼルダ姫、自由すぎるしお転婆すぎる～2～　【ホロライブ/ときのそら】"
     }
 ]
