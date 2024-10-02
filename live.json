@@ -255,23 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=x0Cv9SQl-FQ",
-        "picture": "https://i.ytimg.com/vi/x0Cv9SQl-FQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Zpr065hmtcs",
+        "picture": "https://i.ytimg.com/vi/Zpr065hmtcs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ししろんの47ラーメンツアー】昔ながらの醤油ラーメンに全部飲み干したくなる塩味ラーメン！鯛出汁がうまいラーメンに今回はうどんまであるというネタバレしてそうな第7回目【獅白ぼたん/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727874000,
+        "title": "【スト6】#じーにあすCup に参加するぞい！かずのこチーム顔合わせの日！【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dkWWNUaWSMc",
         "picture": "https://i.ytimg.com/vi/dkWWNUaWSMc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727870400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ヨッシーアイランド 】マリオめ、赤ちゃんの座は譲らない。【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -319,17 +319,6 @@
         "title": "【TCG Card Shop Simulator】NOT VERY MUCH INTERESTED IN THE CARDS I JUST LIKE ORGANIZING【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6_t-0-kfsSU",
-        "picture": "https://i.ytimg.com/vi/6_t-0-kfsSU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【長笛復健回】2.0之後第一次吹長笛!!今天來練一些新歌💙【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #長笛 #演奏 #相信"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": false,
@@ -352,26 +341,15 @@
         "title": "【 TCG Card Shop Simulator 】 復帰早々、カドショオープンします！！！！！！【ホロライブ/沙花叉クロヱ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1TeeADUMsHo",
-        "picture": "https://i.ytimg.com/vi/1TeeADUMsHo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "歌枠 | Singing (unarchived)"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=dx3HCPap6WE",
-        "picture": "https://i.ytimg.com/vi/dx3HCPap6WE/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=pBuJbwc5Yio",
+        "picture": "https://i.ytimg.com/vi/pBuJbwc5Yio/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【モンスト】ウリエル狙って神ガチャ回すぞおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "title": "【デッドライジングDR】シリーズ初見！神ゲー！？ゾンビゲー！？やってみる！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
@@ -409,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Hob9fZwUA7A",
         "picture": "https://i.ytimg.com/vi/Hob9fZwUA7A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727870400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】アプデきた⁉超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！！！！！【ホロライブ/さくらみこ】"
     },
     {
