@@ -231,17 +231,6 @@
         "title": "【The Plucky Squire】[changelater.exe]【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xnmCKuqoxAM",
-        "picture": "https://i.ytimg.com/vi/xnmCKuqoxAM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "a little surprise!"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": false,
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pf6Rlj04Sek",
         "picture": "https://i.ytimg.com/vi/pf6Rlj04Sek/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727857800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】NOT VERY MUCH INTERESTED IN THE CARDS I JUST LIKE ORGANIZING【Kureiji Ollie】"
     },
     {
