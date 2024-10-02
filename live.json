@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=69k41aVkOz4",
-        "picture": "https://i.ytimg.com/vi/69k41aVkOz4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=F8jDQW4WC24",
+        "picture": "https://i.ytimg.com/vi/F8jDQW4WC24/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Don\u0026#39;t Starve Together】ohno WHO LET THE CAT STARVE?! 【hololive】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727875800,
+        "title": "【The Plucky Squire】[changelater.exe]【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -238,7 +238,7 @@
         "picture": "https://i.ytimg.com/vi/xnmCKuqoxAM/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1727852400,
+        "timestamp": 1727853300,
         "title": "a little surprise!"
     },
     {
@@ -361,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1727857800,
         "title": "【TCG Card Shop Simulator】NOT VERY MUCH INTERESTED IN THE CARDS I JUST LIKE ORGANIZING【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8qDPJ-rHEPM",
+        "picture": "https://i.ytimg.com/vi/8qDPJ-rHEPM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727854200,
+        "title": "【ホロポップ Holo Pop】Omg it\u0026#39;s like pinball....."
     }
 ]
