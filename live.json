@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=69k41aVkOz4",
         "picture": "https://i.ytimg.com/vi/69k41aVkOz4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727834400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Don\u0026#39;t Starve Together】ohno WHO LET THE CAT STARVE?! 【hololive】"
     },
     {
