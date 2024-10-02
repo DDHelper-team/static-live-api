@@ -231,17 +231,6 @@
         "title": "【Don\u0026#39;t Starve Together】ohno WHO LET THE CAT STARVE?! 【hololive】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QvZ-nkUUh2w",
-        "picture": "https://i.ytimg.com/vi/QvZ-nkUUh2w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Black Myth: Wukong】I MEAN (monke) BUSINESS! (Chapter 3)"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -354,12 +343,23 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=el_mYdTYOBs",
         "picture": "https://i.ytimg.com/vi/el_mYdTYOBs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727848800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex】(觀眾場) 颱風天就是要在家打APEX啊!!上號了老鐵【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pf6Rlj04Sek",
+        "picture": "https://i.ytimg.com/vi/pf6Rlj04Sek/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1727857800,
+        "title": "【TCG Card Shop Simulator】NOT VERY MUCH INTERESTED IN THE CARDS I JUST LIKE ORGANIZING【Kureiji Ollie】"
     }
 ]
