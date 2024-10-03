@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_uXRQU82lZk",
         "picture": "https://i.ytimg.com/vi/_uXRQU82lZk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727946000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ポリスノーツ｜PS3版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃２【姫森ルーナ/ホロライブ】"
     },
     {
