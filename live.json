@@ -308,17 +308,6 @@
         "title": "【雜談】麥當勞都吃什麼🤤？"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=w4qS_8CWuhs",
-        "picture": "https://i.ytimg.com/vi/w4qS_8CWuhs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Legend of Zelda™: Echoes of Wisdom】mmmh juicy lemon chicken #kfp #キアライブ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "islive": false,
@@ -365,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2pXtvJMZoJc",
         "picture": "https://i.ytimg.com/vi/2pXtvJMZoJc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1727992800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Pikmin 2】 I\u0026#39;m about to PikLose it | #4"
     }
 ]
