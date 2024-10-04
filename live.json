@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JW0-xvvw-vE",
         "picture": "https://i.ytimg.com/vi/JW0-xvvw-vE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728032400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ポリスノーツ｜PS3版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃３ 最終回【姫森ルーナ/ホロライブ】"
     },
     {
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728036000,
         "title": "【カード】最高にレアなカード引いてやろうぜ！！！/TCG Card Shop Simulator【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bjnr2l6FLDM",
+        "picture": "https://i.ytimg.com/vi/bjnr2l6FLDM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728046800,
+        "title": "【#マイクラ肝試し2024】ミニゲームで遊んでみるぞっ！【不知火フレア/ホロライブ】"
     }
 ]
