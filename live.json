@@ -266,13 +266,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Cwdye5XYbss",
-        "picture": "https://i.ytimg.com/vi/Cwdye5XYbss/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WxayyDo8erg",
+        "picture": "https://i.ytimg.com/vi/WxayyDo8erg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6】はじめてのスト６#３ かるびにブランカを教えてもらう！【ラプラス・ダークネス/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728136800,
+        "title": "【STREET FIGHTER 6】はじめてのスト６#４ 高木との再会！ブランカを教えてもらう！【ラプラス・ダークネス/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -319,17 +319,6 @@
         "title": "【ゼルダの伝説 知恵のかりもの】知恵でゴリ押し　3【荒咬オウガ /ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=W7Cxx0k-C_c",
-        "picture": "https://i.ytimg.com/vi/W7Cxx0k-C_c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 TCG Card Shop Simulator 】超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！！！！！【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": true,
@@ -339,17 +328,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ASA￤アベレーション】拠点を建築したいんだ！続・全恐竜捕まえるまで終われまテン！Part 7【アキロゼ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yIO7iFpEeDQ",
-        "picture": "https://i.ytimg.com/vi/yIO7iFpEeDQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【かまいたちの夜】かまいたち１の終わりまで(多分)  / アステル かまいたちの夜×3"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -383,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728100800,
         "title": "【ELDEN RING】#25 ミケラの聖樹だ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "channellink": "https://www.youtube.com/@necomakarin",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XB4r3vTrKEg",
+        "picture": "https://i.ytimg.com/vi/XB4r3vTrKEg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728140400,
+        "title": "【KU100/ASMR】体温まで感じる吐息＆はむはむ♡奥まで届く耳かきで意識がふわ～♡至高の睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     }
 ]
