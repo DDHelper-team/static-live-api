@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WLk4HDSkdQg",
         "picture": "https://i.ytimg.com/vi/WLk4HDSkdQg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728043200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】カードショップ店員、始めました！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -240,17 +240,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728054000,
         "title": "【FUWAMOCO MORNING】episode 131 🐾 #FWMCMORNING"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SVbZTce4FtE",
-        "picture": "https://i.ytimg.com/vi/SVbZTce4FtE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】#じーにあすCup に参加するぞい！かずのこチーム顔合わせその２！【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -266,23 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DyFisbuIHo4",
         "picture": "https://i.ytimg.com/vi/DyFisbuIHo4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728043200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【みんなのリズム天国】リズム地獄、最終回（予定）【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wCSz9rbfoxM",
         "picture": "https://i.ytimg.com/vi/wCSz9rbfoxM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728043200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】お知らせあります！！！元気に歌うぞー！な歌枠！【#新人vtuber 】"
     },
     {
@@ -385,36 +374,25 @@
         "title": "【ゼルダの伝説 知恵のかりもの】ゲルド砂漠でハーレム暮らしはじめます！#2【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TZEq2NR_e44",
-        "picture": "https://i.ytimg.com/vi/TZEq2NR_e44/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロメン家系図 】ホロメンが家族だったら！？？妄想してみるぜ‼‼告知あり🌸【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ir2YaLv0L80",
         "picture": "https://i.ytimg.com/vi/Ir2YaLv0L80/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728043200,
-        "title": "【配信予定地】【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ゼルダの伝説 知恵のかりもの】わーい！水の地域だ！！～３～【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QPyI5gvWuAM",
         "picture": "https://i.ytimg.com/vi/QPyI5gvWuAM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728043200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Forest】SURVIVAL GANG【Ayunda Risu】"
     },
     {
@@ -427,5 +405,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728082800,
         "title": "【Call of Duty: Black Ops II】Who gave the Biboo a gun?"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-zMJLsn8ooE",
+        "picture": "https://i.ytimg.com/vi/-zMJLsn8ooE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728129600,
+        "title": "【#マイクラ肝試し2024】三期生の絆！「ぼくらの夏やすみ」だ～🌻【白銀ノエル/兎田ぺこら/不知火フレア/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9aFj7IdwhFI",
+        "picture": "https://i.ytimg.com/vi/9aFj7IdwhFI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728046800,
+        "title": "【ゼルダの伝説 知恵のかりもの】知恵でゴリ押し　3【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=W7Cxx0k-C_c",
+        "picture": "https://i.ytimg.com/vi/W7Cxx0k-C_c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 TCG Card Shop Simulator 】超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！！！！！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=a9j9ipvJskk",
+        "picture": "https://i.ytimg.com/vi/a9j9ipvJskk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728050400,
+        "title": "【ASA】復活～！まったりark予定！たぶん！！【アキロゼ/ホロライブ】"
     }
 ]
