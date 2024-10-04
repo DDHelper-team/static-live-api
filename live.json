@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IJHlGMpzYnk",
         "picture": "https://i.ytimg.com/vi/IJHlGMpzYnk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728010800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fishing Planet】this is not about fishing competition... right?【Timesmith】"
     },
     {
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=k4HK-78wKmo",
         "picture": "https://i.ytimg.com/vi/k4HK-78wKmo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728010800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CoD: BLACK OPS II】The Numbers!! They Keep Haunting Me"
     },
     {
