@@ -277,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TIlZfoFL720",
-        "picture": "https://i.ytimg.com/vi/TIlZfoFL720/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=S21BTqUuNUQ",
+        "picture": "https://i.ytimg.com/vi/S21BTqUuNUQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#鳴潮 】守岸人版本，又是一個改版後浮出水面呼吸的節奏，但這個背....【#遊戲個人勢 / Fingla】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728131400,
+        "title": "【#valorant 】竟然是好久不見的瓦!? 感謝璃貓邀約 ft.好多v朋友們【#遊戲個人勢 / Fingla】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
@@ -317,17 +317,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ゼルダの伝説 知恵のかりもの】わーい！水の地域だ！！～３～【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QPyI5gvWuAM",
-        "picture": "https://i.ytimg.com/vi/QPyI5gvWuAM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Forest】SURVIVAL GANG【Ayunda Risu】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
