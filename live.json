@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AgjA_50BMkk",
-        "picture": "https://i.ytimg.com/vi/AgjA_50BMkk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zmZ9Cm7F7yQ",
+        "picture": "https://i.ytimg.com/vi/zmZ9Cm7F7yQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雜談】麥當勞都吃什麼🤤？"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728109800,
+        "title": "【歌回】使用新MIC唱歌啦 🎵"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
