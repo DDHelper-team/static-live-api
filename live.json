@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AUBjIsUMkP0",
         "picture": "https://i.ytimg.com/vi/AUBjIsUMkP0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728079200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "RETURNING TO GIELINOR | Old School RuneScape"
     },
     {
@@ -304,7 +304,7 @@
         "picture": "https://i.ytimg.com/vi/hVg4wQJggr8/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1728079200,
+        "timestamp": 1728082800,
         "title": "【Papers, Please】 Passport Doko?"
     },
     {
@@ -361,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728129600,
         "title": "【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #01【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=g77eC2QQdpE",
+        "picture": "https://i.ytimg.com/vi/g77eC2QQdpE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728133200,
+        "title": "【ゼルダの伝説 知恵のかりもの】ジャブール水域で水着暮らしはじめます！#3【角巻わため/ホロライブ４期生】"
     }
 ]
