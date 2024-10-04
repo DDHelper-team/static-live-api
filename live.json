@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hVg4wQJggr8",
         "picture": "https://i.ytimg.com/vi/hVg4wQJggr8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1728082800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Papers, Please】 Passport Doko?"
     },
     {
