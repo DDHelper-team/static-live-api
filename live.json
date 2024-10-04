@@ -209,17 +209,6 @@
         "title": "【TCG Card Shop Simulator】カドショ行脚したりカドショの大会出て少年のシャカパチにビビったりしてたヤツがカドショ開店してみますよって！！！【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JW0-xvvw-vE",
-        "picture": "https://i.ytimg.com/vi/JW0-xvvw-vE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ポリスノーツ｜PS3版 】SFハードボイルド『POLICENAUTS』の世界へいくのら！～レトロゲーム ＃３ 最終回【姫森ルーナ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -431,12 +420,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n_CZb0FJXgk",
         "picture": "https://i.ytimg.com/vi/n_CZb0FJXgk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728052200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】深夜まったり歌枠🎤【緋月ゆい/ネオポルテ】"
     },
     {
@@ -449,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728079200,
         "title": "【Papers, Please】 Passport Doko?"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VZy2bB5TOmQ",
+        "picture": "https://i.ytimg.com/vi/VZy2bB5TOmQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728054000,
+        "title": "【TCG Card Shop Simulator】ハマったてんちょー深夜えいぎょー【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
