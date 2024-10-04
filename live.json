@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4E44Cj-ds7E",
         "picture": "https://i.ytimg.com/vi/4E44Cj-ds7E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728082800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Call of Duty: Black Ops II】Who gave the Biboo a gun?"
     },
     {
@@ -303,7 +303,7 @@
         "link": "https://www.youtube.com/watch?v=hVg4wQJggr8",
         "picture": "https://i.ytimg.com/vi/hVg4wQJggr8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1728082800,
         "title": "【Papers, Please】 Passport Doko?"
     },
