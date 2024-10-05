@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WxayyDo8erg",
         "picture": "https://i.ytimg.com/vi/WxayyDo8erg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728136800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】はじめてのスト６#４ 高木との再会！ブランカを教えてもらう！【ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -486,12 +486,23 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YoI-cXJezWQ",
         "picture": "https://i.ytimg.com/vi/YoI-cXJezWQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728136833,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#27 -世界任務編 | 完全初見！稲妻に帰ろう⚡️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Sdclpb4BBew",
+        "picture": "https://i.ytimg.com/vi/Sdclpb4BBew/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728176400,
+        "title": "【SUPER CHATting】Summer Memories!"
     }
 ]
