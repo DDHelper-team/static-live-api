@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3LYzTW-No0Y",
         "picture": "https://i.ytimg.com/vi/3LYzTW-No0Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728097200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS III】my iron slab and me (part 4) #calliolive"
     },
     {
@@ -273,17 +273,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728129600,
         "title": "【#マイクラ肝試し2024】三期生の絆！「ぼくらの夏やすみ」だ～🌻【白銀ノエル/兎田ぺこら/不知火フレア/宝鐘マリン】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hVg4wQJggr8",
-        "picture": "https://i.ytimg.com/vi/hVg4wQJggr8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Papers, Please】 Passport Doko?"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
