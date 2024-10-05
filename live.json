@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=asOqbzIfCn0",
         "picture": "https://i.ytimg.com/vi/asOqbzIfCn0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728165600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】 May I interest you in this blue eyes white wolgin?"
     }
 ]
