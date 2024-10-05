@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bFjmRg_bhyI",
         "picture": "https://i.ytimg.com/vi/bFjmRg_bhyI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728100800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ELDEN RING】#25 ミケラの聖樹だ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     },
     {
@@ -376,12 +376,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UGNrp5B9FUg",
         "picture": "https://i.ytimg.com/vi/UGNrp5B9FUg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728100800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "夕刻ロベル vs パインツキミバーガー【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pezct_uBxrk",
+        "picture": "https://i.ytimg.com/vi/pezct_uBxrk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728122400,
+        "title": "【 重大告知アリ！】突然の新衣装の髪型！？重大告知！？とは！！？【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hTSS8OXsaVM",
+        "picture": "https://i.ytimg.com/vi/hTSS8OXsaVM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728187200,
+        "title": "【SILENT HILL 2】Early access day!【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=VmclGjAOkO4",
+        "picture": "https://i.ytimg.com/vi/VmclGjAOkO4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【緊急生放送】火威GO…ってこういうことなのか！？【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
