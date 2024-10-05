@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=S21BTqUuNUQ",
         "picture": "https://i.ytimg.com/vi/S21BTqUuNUQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728131400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#valorant 】竟然是好久不見的瓦!? 感謝璃貓邀約 ft.好多v朋友們【#遊戲個人勢 / Fingla】"
     },
     {
@@ -260,7 +260,7 @@
         "picture": "https://i.ytimg.com/vi/TWYCnCaiWpI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1728131400,
+        "timestamp": 1728133200,
         "title": "【Lethal Company】GOAL: ARTIFICE. im the team, you work.【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -442,12 +442,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xOBLgkgP4II",
         "picture": "https://i.ytimg.com/vi/xOBLgkgP4II/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728131400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼルダの伝説 知恵のかりもの】知恵でゴリ押し　4【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -460,5 +460,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728216000,
         "title": "【 最高 】リスナーが書いた僕の夢小説SSを読む。【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1MUrgIaIVTs",
+        "picture": "https://i.ytimg.com/vi/1MUrgIaIVTs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728140400,
+        "title": "【FREE TALK】ほんのり酔い！乾杯しよ～！！！♡【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5fVDhownV9A",
+        "picture": "https://i.ytimg.com/vi/5fVDhownV9A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728172800,
+        "title": "【DARK SOULS III】found a moon! hope it doesn\u0026#39;t eclipse!!! (part 5) #calliolive"
     }
 ]
