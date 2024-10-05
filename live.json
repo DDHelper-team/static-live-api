@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-zMJLsn8ooE",
-        "picture": "https://i.ytimg.com/vi/-zMJLsn8ooE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AkUw9LVHV30",
+        "picture": "https://i.ytimg.com/vi/AkUw9LVHV30/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#マイクラ肝試し2024】三期生の絆！「ぼくらの夏やすみ」だ～🌻【白銀ノエル/兎田ぺこら/不知火フレア/宝鐘マリン】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728176400,
+        "title": "【朝活雑談】今日は三回行動！おはまっするさんで～💪✨【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -317,28 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728187200,
         "title": "【SILENT HILL 2】Early access day!【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NwFuFljJ-Ag",
-        "picture": "https://i.ytimg.com/vi/NwFuFljJ-Ag/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#マイクラ肝試し2024】３期生といく「ぼくらの夏休み」【不知火フレア/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lv6Q4B6U9yA",
-        "picture": "https://i.ytimg.com/vi/lv6Q4B6U9yA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#マイクラ肝試し2024】はじめての肝試し！ドキドキ3期生でまわるぞ！！【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -460,5 +438,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】 大物新人バイトくん()が来てしまった前途多難なカードショップ！【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=TbfSRkXE4jI",
+        "picture": "https://i.ytimg.com/vi/TbfSRkXE4jI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【DON\u0026#39;T SCREAM】叫んだら終了のホラゲーってがちぃ？【ホロライブ/癒月ちょこ】"
     }
 ]
