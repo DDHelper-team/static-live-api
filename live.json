@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nj_s9SuORkc",
         "picture": "https://i.ytimg.com/vi/nj_s9SuORkc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728208800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "『ししわたの学校で遊ぼう！』をししわたで見る配信【獅白ぼたん・角巻わため/ホロライブ】"
     },
     {
@@ -233,24 +233,24 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5iOn4NWyR2E",
         "picture": "https://i.ytimg.com/vi/5iOn4NWyR2E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728208800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃マイクラ肝試し2024】ねねぽるりりはじだぁ～！肝試し！！【轟はじめ視点】 #hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RIhZm7TWQdY",
         "picture": "https://i.ytimg.com/vi/RIhZm7TWQdY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728208800,
-        "title": "【】一週間企画1日目！あずちゃんとオフコラボ！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【オフコラボ】一週間企画1日目！あずちゃんと料理作るよおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -350,5 +350,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#マイクラ肝試し2024】右も左も失ったねねさんによる肝試し！ぽる～りり～かぁ～はじめ～～ん；；助けてぇ・・【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DwjSbpYhka8",
+        "picture": "https://i.ytimg.com/vi/DwjSbpYhka8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728212400,
+        "title": "【 TCG Card Shop Simulator】爆売れカードショップOPEN！！！！！【 雪花ラミィ /ホロライブ】"
     }
 ]
