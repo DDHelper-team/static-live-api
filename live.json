@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bX2AEmTbd8I",
         "picture": "https://i.ytimg.com/vi/bX2AEmTbd8I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728219600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】おセンチマン現る！！！！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=m_BFonQNd3k",
         "picture": "https://i.ytimg.com/vi/m_BFonQNd3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728219600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#マイクラ肝試し2024】ぼくらの夏やすみ🌻うぃず、フブみこめっとだにぇ！！！！【ホロライブ/さくらみこ】"
     },
     {
@@ -321,24 +321,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=S1rv3odGuio",
-        "picture": "https://i.ytimg.com/vi/S1rv3odGuio/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728219600,
-        "title": "【#マイクラ肝試し2024】初めてのマイクラ肝試し👻✨【#ふぶみこめっとさん】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=PqOR9_odeEc",
-        "picture": "https://i.ytimg.com/vi/PqOR9_odeEc/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=QaeU25Y83vo",
+        "picture": "https://i.ytimg.com/vi/QaeU25Y83vo/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#shorts 】初見さん30人耐久歌枠♪"
+        "title": "【#マイクラ肝試し2024】初めてのマイクラ肝試し👻✨【#ふぶみこめっとさん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -365,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sHEGS5cFHf8",
         "picture": "https://i.ytimg.com/vi/sHEGS5cFHf8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728219600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】"
     }
 ]
