@@ -338,5 +338,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "nwero karaoke"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qal71WawcOg",
+        "picture": "https://i.ytimg.com/vi/qal71WawcOg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728259200,
+        "title": "【PEJUANG SENIN】#85 OCTOOOOOOOOBER【Kaela\u0026#39;s Monday Warrior】"
     }
 ]
