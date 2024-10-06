@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8NzV9x_pHY8",
         "picture": "https://i.ytimg.com/vi/8NzV9x_pHY8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728223200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ASA￤アベレーション】超危険地上テイム！？新恐竜ファソラ突撃！続・全恐竜捕まえるまで終われまテン！Part 8【アキロゼ/ホロライブ】"
     },
     {
@@ -350,5 +350,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OY5OTOopiCA",
+        "picture": "https://i.ytimg.com/vi/OY5OTOopiCA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728307800,
+        "title": "【Panicore】JOIN LIVE INI YANG MAU DENGER ZETA TERIAK DAN KETAKUTAN!!!!"
     }
 ]
