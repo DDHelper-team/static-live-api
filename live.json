@@ -242,17 +242,6 @@
         "title": "『ししわたの学校で遊ぼう！』をししわたで見る配信【獅白ぼたん・角巻わため/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hTSS8OXsaVM",
-        "picture": "https://i.ytimg.com/vi/hTSS8OXsaVM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SILENT HILL 2】Early access day!【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
         "islive": true,
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728216000,
         "title": "【#マイクラ肝試し2024】ぼくらの夏やすみ🌻うぃず、フブみこめっとだにぇ！！！！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lxZ6Wd5agZY",
+        "picture": "https://i.ytimg.com/vi/lxZ6Wd5agZY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728216000,
+        "title": "【ういとマリン】【ホロライブ/宝鐘マリン・しぐれうい】"
     }
 ]
