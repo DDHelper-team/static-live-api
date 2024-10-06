@@ -308,16 +308,6 @@
         "title": "【stream】doing something fun! but haven\u0026#39;t decided what..."
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "nwero karaoke"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": false,
@@ -342,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mCh2QKLiJzg",
         "picture": "https://i.ytimg.com/vi/mCh2QKLiJzg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728252030,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】10月だよ！秋ですね！【緋月ゆい/ネオポルテ】"
     }
 ]
