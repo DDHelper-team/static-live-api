@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pKsFADMXSeU",
         "picture": "https://i.ytimg.com/vi/pKsFADMXSeU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728212400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ノエなで】二人でオンライン晩酌マシュマロもぐもぐ会💘【白銀ノエル/ホロライブ】"
     },
     {
@@ -273,17 +273,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728259200,
         "title": "WHAT are you DOING in my SWAMP?! | Shrek The Musical Watchalong w/ @CeresFauna @NanashiMumei"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1GDKlzhm8Mk",
-        "picture": "https://i.ytimg.com/vi/1GDKlzhm8Mk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "血怨 恐怖解謎RPG #3｜只有ＵＮＯ可以相信的世界【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -354,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DwjSbpYhka8",
         "picture": "https://i.ytimg.com/vi/DwjSbpYhka8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728212400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator】爆売れカードショップOPEN！！！！！【 雪花ラミィ /ホロライブ】"
     },
     {
