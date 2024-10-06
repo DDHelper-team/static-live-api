@@ -187,24 +187,13 @@
         "title": "【League of Legends】フルパでLoLやんけ!!!【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=v0t7qgS7gqQ",
-        "picture": "https://i.ytimg.com/vi/v0t7qgS7gqQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FINAL FANTASY Ⅸ / FF9】遂にファイナルファンタジー9へ！DISK3突入中～～～！！！ #6 【博衣こより/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=pKsFADMXSeU",
         "picture": "https://i.ytimg.com/vi/pKsFADMXSeU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#ノエなで】二人でオンライン晩酌マシュマロもぐもぐ会💘【白銀ノエル/ホロライブ】"
     },
@@ -222,11 +211,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=RIhZm7TWQdY",
         "picture": "https://i.ytimg.com/vi/RIhZm7TWQdY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【オフコラボ】一週間企画1日目！あずちゃんと料理作るよおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】"
     },
@@ -266,13 +255,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8RP7g2cQ1GI",
-        "picture": "https://i.ytimg.com/vi/8RP7g2cQ1GI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=m_BFonQNd3k",
+        "picture": "https://i.ytimg.com/vi/m_BFonQNd3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 TCG Card Shop Simulator 】超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！！！！！【ホロライブ/さくらみこ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728219600,
+        "title": "【#マイクラ肝試し2024】ぼくらの夏やすみ🌻うぃず、フブみこめっとだにぇ！！！！【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
@@ -354,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=P6x8nHH2uWs",
         "picture": "https://i.ytimg.com/vi/P6x8nHH2uWs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728217800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "シンプルにカラオケ歌枠や！【 奏手イヅル / ホロスターズ 】"
     },
     {
