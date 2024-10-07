@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rR8fieNqDYs",
         "picture": "https://i.ytimg.com/vi/rR8fieNqDYs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728270000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】Do I have Gach- I mean Card Luck?"
     },
     {
@@ -361,5 +361,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728295200,
         "title": "血怨 恐怖解謎RPG #4｜伽良屋村我是不會逃避的！直命天命！【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=s3QVHpFfDlg",
+        "picture": "https://i.ytimg.com/vi/s3QVHpFfDlg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728313200,
+        "title": "【FUWAMOCO MORNING】episode 132 🐾 #FWMCMORNING"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p9D3YxKQrWg",
+        "picture": "https://i.ytimg.com/vi/p9D3YxKQrWg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728298800,
+        "title": "【 TCG Card Shop Simulator 】開店開店～～！！かーどしょっぷごっこするぞ～～～！！💰【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5L_JL0l5gtg",
+        "picture": "https://i.ytimg.com/vi/5L_JL0l5gtg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728324000,
+        "title": "【RECAP】Chatting about the LIVE, NEW SONG, and MV!!! #kfp #キアライブ"
     }
 ]
