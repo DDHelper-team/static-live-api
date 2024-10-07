@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5L_JL0l5gtg",
         "picture": "https://i.ytimg.com/vi/5L_JL0l5gtg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728324000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【RECAP】Chatting about the LIVE, NEW SONG, and MV!!! #kfp #キアライブ"
     },
     {
@@ -328,5 +328,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728352800,
         "title": "【#holoGTA Clips Watchalong 切り抜き同時視聴】WATCHING HOLOGTA CLIPS WITH MOOMS!【hololive ID | Anya Melfissa】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "IF UNITY CRASHES I CRASH IN REAL LIFE"
     }
 ]
