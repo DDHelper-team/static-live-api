@@ -299,13 +299,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qal71WawcOg",
-        "picture": "https://i.ytimg.com/vi/qal71WawcOg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3qjXZgPNCCc",
+        "picture": "https://i.ytimg.com/vi/3qjXZgPNCCc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PEJUANG SENIN】#85 OCTOOOOOOOOBER【Kaela\u0026#39;s Monday Warrior】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728307800,
+        "title": "【PANICORE】scream = adios. couldnt be me ✋【holoh3ro】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -317,5 +317,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728295200,
         "title": "【TCG Card Shop Simulator】激レア出します！(予定)イエローコヨマリンへようこそ♡【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Yo8dr5k5Pro",
+        "picture": "https://i.ytimg.com/vi/Yo8dr5k5Pro/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728298800,
+        "title": "【M.M.M.】Monday Malam Malas【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hNWLYgPNe14",
+        "picture": "https://i.ytimg.com/vi/hNWLYgPNe14/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728352800,
+        "title": "【COLLAB】 TAKO (Is Here to) EAT!!!!! feat. @HakosBaelz"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fYTOwENRAOA",
+        "picture": "https://i.ytimg.com/vi/fYTOwENRAOA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728295200,
+        "title": "【VALORANT】ホロスタフルパランク【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oU8DM0f7ElQ",
+        "picture": "https://i.ytimg.com/vi/oU8DM0f7ElQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728295200,
+        "title": "血怨 恐怖解謎RPG #4｜伽良屋村我是不會逃避的！直命天命！【Healing希靈/VTuber】"
     }
 ]
