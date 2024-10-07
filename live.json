@@ -222,24 +222,24 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OY5OTOopiCA",
         "picture": "https://i.ytimg.com/vi/OY5OTOopiCA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728307800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Panicore】JOIN LIVE INI YANG MAU DENGER ZETA TERIAK DAN KETAKUTAN!!!!"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3mVHuCvagHU",
         "picture": "https://i.ytimg.com/vi/3mVHuCvagHU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728306000,
-        "title": "【雜談】感情問題100問(上) 一起來聊聊吧 ❤️"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雜談】感情問題100問(上) 一起來聊聊吧 ❤️ 尾聲會工商一下跑Onine❤️"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3qjXZgPNCCc",
         "picture": "https://i.ytimg.com/vi/3qjXZgPNCCc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728307800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PANICORE】scream = adios. couldnt be me ✋【holoh3ro】"
     },
     {
@@ -295,17 +295,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728352800,
         "title": "【COLLAB】 TAKO (Is Here to) EAT!!!!! feat. @HakosBaelz"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fYTOwENRAOA",
-        "picture": "https://i.ytimg.com/vi/fYTOwENRAOA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VALORANT】ホロスタフルパランク【花咲みやび/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -354,24 +343,13 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8DV6YR9V64c",
         "picture": "https://i.ytimg.com/vi/8DV6YR9V64c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728307800,
-        "title": "【PANICORE】No Panik."
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pjxMl11Qp4w",
-        "picture": "https://i.ytimg.com/vi/pjxMl11Qp4w/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【スト6】#獅白杯2nd 『STREET FIGHTER 6』大会に向けて色々追加情報の発表などします！【獅白ぼたん/ホロライブ】"
+        "title": "【PANICORE】No Panik."
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
@@ -453,12 +431,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fKVvd-a428E",
         "picture": "https://i.ytimg.com/vi/fKVvd-a428E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728306000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】っしゃーせーー！本日開店！！稼ぐわよ💰【不知火フレア/ホロライブ】"
     },
     {
@@ -504,5 +482,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【スパチャ読みタイム】3Dライブ応援枠フリーチャットのスパチャ読みです！！！【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=F-qm_E0z9c4",
+        "picture": "https://i.ytimg.com/vi/F-qm_E0z9c4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】大阪行ってきたで！！【影山シエン/ホロスターズ】"
     }
 ]
