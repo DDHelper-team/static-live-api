@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eL7Uu1BEwtM",
         "picture": "https://i.ytimg.com/vi/eL7Uu1BEwtM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728259200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "WHAT are you DOING in my SWAMP?! | Shrek The Musical Watchalong w/ @CeresFauna @NanashiMumei"
     },
     {
@@ -275,17 +275,6 @@
         "title": "【TCG Card Shop Simulator】Do I have Gach- I mean Card Luck?"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0k_KoWZL40o",
-        "picture": "https://i.ytimg.com/vi/0k_KoWZL40o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ARCHIVED KARAOKE + SONG RELEASE】Unlocking Prism Magic!"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": false,
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qal71WawcOg",
         "picture": "https://i.ytimg.com/vi/qal71WawcOg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728259200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PEJUANG SENIN】#85 OCTOOOOOOOOBER【Kaela\u0026#39;s Monday Warrior】"
     },
     {
@@ -328,16 +317,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728295200,
         "title": "【TCG Card Shop Simulator】激レア出します！(予定)イエローコヨマリンへようこそ♡【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mCh2QKLiJzg",
-        "picture": "https://i.ytimg.com/vi/mCh2QKLiJzg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】10月だよ！秋ですね！【緋月ゆい/ネオポルテ】"
     }
 ]
