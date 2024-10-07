@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pjxMl11Qp4w",
         "picture": "https://i.ytimg.com/vi/pjxMl11Qp4w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728302400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6】#獅白杯2nd 『STREET FIGHTER 6』大会に向けて色々追加情報の発表などします！【獅白ぼたん/ホロライブ】"
     },
     {
@@ -409,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YCUuslK7HIg",
         "picture": "https://i.ytimg.com/vi/YCUuslK7HIg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728302400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】頑張るぞーー！高評価1000耐久歌枠！！！！【#新人vtuber 】"
     },
     {
@@ -475,12 +475,34 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tZWtj5ZIA08",
         "picture": "https://i.ytimg.com/vi/tZWtj5ZIA08/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728304200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#鳴潮 】守岸人劇情起跑~ 看時間是否能跑完【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EncN0Sy4YnE",
+        "picture": "https://i.ytimg.com/vi/EncN0Sy4YnE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728388800,
+        "title": "【STREET FIGHTER 6】はじめてのスト６#５ ぼたんさんと敵キャラ練習しながら高木に教えてもらう！【ラプラス・ダークネス/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vVeIISyNjJY",
+        "picture": "https://i.ytimg.com/vi/vVeIISyNjJY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728349200,
+        "title": "【Warhammer 40K: Space Marine 2】FOR THE EMPEROR, BROTHERS. #calliolive"
     }
 ]
