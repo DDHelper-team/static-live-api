@@ -371,7 +371,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Apex】(觀眾場) 今天觀眾說要打甚麼，我就玩甚麼【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
+        "title": "【Apex】今天被觀眾指定積分坐牢 好...痛...苦....【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -409,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SzDpypv6zT4",
         "picture": "https://i.ytimg.com/vi/SzDpypv6zT4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728392400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Forest】HEHE THE FOREST【Ayunda Risu】"
     },
     {
@@ -504,5 +504,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728392400,
         "title": "【お宝マウンテン】#なでらで で１時間並走対決！！！まあ勝つけどね【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZSWKjLEvWXw",
+        "picture": "https://i.ytimg.com/vi/ZSWKjLEvWXw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728392400,
+        "title": "【 STREET FIGHTER 6】ドンさんと特訓いくぞ！！！！！【アキロゼ/ホロライブ】"
     }
 ]
