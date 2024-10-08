@@ -277,11 +277,11 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=5yLGQ8nqWmA",
         "picture": "https://i.ytimg.com/vi/5yLGQ8nqWmA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【The Forest】LANJUT PART 2"
     },
@@ -319,17 +319,6 @@
         "title": "【TCG Card Shop Simulator】高額商品売れろ！そして更なる高額商品出ろ！！💰【不知火フレア/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=g6GbFp9Xn4U",
-        "picture": "https://i.ytimg.com/vi/g6GbFp9Xn4U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Forest】KAKAK PEMBINA TOLONG BINA AKU【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -339,28 +328,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728439200,
         "title": "【TCG Card Shop Simulator】...is it really that addictive? #calliolive"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SzDpypv6zT4",
-        "picture": "https://i.ytimg.com/vi/SzDpypv6zT4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Forest】HEHE THE FOREST【Ayunda Risu】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RdcdlYxBGtA",
-        "picture": "https://i.ytimg.com/vi/RdcdlYxBGtA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Forest】i just wanna relax【holoID】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
