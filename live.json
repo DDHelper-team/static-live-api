@@ -303,7 +303,7 @@
         "link": "https://www.youtube.com/watch?v=Km4QwGQ5BwI",
         "picture": "https://i.ytimg.com/vi/Km4QwGQ5BwI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1728396000,
         "title": "【 #モンハンワールド  】狩りをするらしいです…ぽんずといきます…#1【#新人vtuber 】"
     },
@@ -440,17 +440,6 @@
         "title": "【 -`🎙 歌枠/Singing 】好きに歌を歌おうの会。 sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
-        "channel": "https://youtube.com/@HACHIVSinger",
-        "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_1TUNZdXH1U",
-        "picture": "https://i.ytimg.com/vi/_1TUNZdXH1U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】ゆったり歌枠！！-Midnight station -77 【HACHI】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -519,12 +508,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3rgktdE6AiY",
         "picture": "https://i.ytimg.com/vi/3rgktdE6AiY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728396000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】また、店長になりました。【緋月ゆい/ネオポルテ】"
     }
 ]
