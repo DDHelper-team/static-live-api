@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=B0oWlpvANnI",
         "picture": "https://i.ytimg.com/vi/B0oWlpvANnI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728399600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】耳奥まで届くあま～い吐息とはむはむ♡甘やかし全肯定お姉さんによる至高の睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
@@ -328,17 +328,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728432000,
         "title": "【DRAGON BALL: SPARKING! ZERO】become monke again【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DzZtSX8vk0Y",
-        "picture": "https://i.ytimg.com/vi/DzZtSX8vk0Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Apex】今天被觀眾指定積分坐牢 好...痛...苦....【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
