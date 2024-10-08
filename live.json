@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hNWLYgPNe14",
         "picture": "https://i.ytimg.com/vi/hNWLYgPNe14/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728352800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【COLLAB】 TAKO (Is Here to) EAT!!!!! feat. @HakosBaelz"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1iup8M2r7-Q",
         "picture": "https://i.ytimg.com/vi/1iup8M2r7-Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728352800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#holoGTA Clips Watchalong 切り抜き同時視聴】WATCHING HOLOGTA CLIPS WITH MOOMS!【hololive ID | Anya Melfissa】"
     },
     {
@@ -350,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728435600,
         "title": "【PARATOPIC】don\u0026#39;t forget to rewind this terrifying fever dream  🐾 【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3Jy_6Fi58aI",
+        "picture": "https://i.ytimg.com/vi/3Jy_6Fi58aI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728356400,
+        "title": "【TCG Card Shop Simulator】こーら、僕はレアカードじゃないって【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
