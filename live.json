@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Hsvp-6IuE2o",
         "picture": "https://i.ytimg.com/vi/Hsvp-6IuE2o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728385200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【アソビ大全】ばんちょーvsだんちょー【轟はじめ/白銀ノエル】 ＃呼び出しばんちょー"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9i4Uvof9Lvk",
         "picture": "https://i.ytimg.com/vi/9i4Uvof9Lvk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728385200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator】激レアカード引きたいんですけど～！！！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n4Z5H1nhD1w",
         "picture": "https://i.ytimg.com/vi/n4Z5H1nhD1w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728385200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロスタAGF2024 】素敵な告知【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -460,5 +460,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728392400,
         "title": "【The Forest】HEHE THE FOREST【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RdcdlYxBGtA",
+        "picture": "https://i.ytimg.com/vi/RdcdlYxBGtA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728392400,
+        "title": "【The Forest】i just wanna relax【holoID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fKEMXlPrASo",
+        "picture": "https://i.ytimg.com/vi/fKEMXlPrASo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728471600,
+        "title": "沉默之丘2 重製｜聽說這個小鎮有漂亮性感的護士姐姐 Surfshark VPN贊助【Healing希靈/VTuber】"
     }
 ]
