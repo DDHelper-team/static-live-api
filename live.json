@@ -321,13 +321,13 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oapMtT3fqWU",
         "picture": "https://i.ytimg.com/vi/oapMtT3fqWU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728468000,
-        "title": "【VRChat】ついに！VRCワールド紹介予定地！【火威青 】#hololiveDEV_IS #ReGLOSS #青くんのVRC旅行"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VRChat】ついに！VRCワールド紹介！【火威青 】#hololiveDEV_IS #ReGLOSS #青くんのVRC旅行"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -350,17 +350,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728507600,
         "title": "Eat or Get Eaten with Ina, Liz, \u0026amp; Fauna【Devour】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gDFLNAyu9H4",
-        "picture": "https://i.ytimg.com/vi/gDFLNAyu9H4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【原神】#29 | 完全初見！デートできるって聞いたんですけど:D【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -387,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7K5lUvMrjik",
         "picture": "https://i.ytimg.com/vi/7K5lUvMrjik/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728468000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【111万人耐久歌枠】1,111,111人目指して歌う！！！！！カラオケJOYSOUND for STREAMER / SINGING STREAM【ホロライブ / AZKi】"
     },
     {
@@ -420,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=g91tmqBYyAM",
         "picture": "https://i.ytimg.com/vi/g91tmqBYyAM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728468000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】100万円レベルのカードが出るまで諦めないカードショップ！！！【天音かなた/ホロライブ】"
     },
     {
@@ -460,5 +449,49 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【龍が如く８】完全初見！！！🐉気合で勝負じゃあああ！！！【ネタバレあり】【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jmjf4r7dzVY",
+        "picture": "https://i.ytimg.com/vi/jmjf4r7dzVY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728478800,
+        "title": "【歌枠】またっり歌ったっていく～！【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d-jvwCmXaLo",
+        "picture": "https://i.ytimg.com/vi/d-jvwCmXaLo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728478800,
+        "title": "【TCG Card Shop Simulator】バリバリバリィ～～～！１０万越えの高額商品出ろ！！💰【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=a0C_LAy82og",
+        "picture": "https://i.ytimg.com/vi/a0C_LAy82og/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728471600,
+        "title": "【 #KavalanXJuufuuteiRaden 】Kavalan Whisky（カバランウイスキー）さん＆福岡川端通商店街＆らでんがコラボ！？！？【儒烏風亭らでん #ReGLOSS 】#PR"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xBG6rlKz27w",
+        "picture": "https://i.ytimg.com/vi/xBG6rlKz27w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728471600,
+        "title": "【ゼルダの伝説 知恵のかりもの】今日も張り切っていくゴロ！！～５～【ホロライブ/ときのそら】"
     }
 ]
