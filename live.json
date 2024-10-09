@@ -475,12 +475,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NW3d4kzVoO0",
         "picture": "https://i.ytimg.com/vi/NW3d4kzVoO0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728472500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#最終回【ゼルダの伝説 知恵のかりもの】借りたもので世界を救う!!【花咲みやび/ホロスターズ】"
     },
     {
