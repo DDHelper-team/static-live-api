@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Sp114AOB--s",
         "picture": "https://i.ytimg.com/vi/Sp114AOB--s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728484200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 誕生日カウントダウン 】んなたんの誕生日なのらあああ～～～～！！！🎉【姫森ルーナ/ホロライブ】"
     },
     {
@@ -317,28 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728501300,
         "title": "【DEADLOCK CURSED APPLE CLASH】first tournament【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JbfV8XHvh_0",
-        "picture": "https://i.ytimg.com/vi/JbfV8XHvh_0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】3桁万円出すぞ出すぞ出すぞ！！イエローコヨマリンむきむきSHOWだ～～～！✨【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=g91tmqBYyAM",
-        "picture": "https://i.ytimg.com/vi/g91tmqBYyAM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】100万円レベルのカードが出るまで諦めないカードショップ！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
