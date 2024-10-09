@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BnZbR5Z4n4s",
-        "picture": "https://i.ytimg.com/vi/BnZbR5Z4n4s/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hhstRQ4_31U",
+        "picture": "https://i.ytimg.com/vi/hhstRQ4_31U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "CHU-CHU-DU CHU-YA | Sonic Adventure 2"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728514800,
+        "title": "WATER GO PEW PEW | PowerWash Simulator"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FAz4uQkQ8DU",
         "picture": "https://i.ytimg.com/vi/FAz4uQkQ8DU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728439200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】...is it really that addictive? #calliolive"
     },
     {
@@ -350,17 +350,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728478800,
         "title": "【メンバー限定配信】開設4年7ヶ月目！「アルマゲドン / Armageddon」同時視聴！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_z2cujMbgYc",
-        "picture": "https://i.ytimg.com/vi/_z2cujMbgYc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Warhammer 40,000: Space Marine 2】SPAAAAAAAAAAAACE marine"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
