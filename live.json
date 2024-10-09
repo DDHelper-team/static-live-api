@@ -264,17 +264,6 @@
         "title": "【The Forest】LANJUT PART 2"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fgM0Y8IH-C8",
-        "picture": "https://i.ytimg.com/vi/fgM0Y8IH-C8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DRAGON BALL: SPARKING! ZERO】become monke again【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": true,
@@ -383,5 +372,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【TCG Card Shop Simulator】CAAAAAAAAAAARRRRDDDDDSSSSSSSSSSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tpy6FdGJbEg",
+        "picture": "https://i.ytimg.com/vi/tpy6FdGJbEg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728471600,
+        "title": "【ツアー追加情報 / 雑談】雑談のあとに告知する！【ホロライブ / 星街すいせい】"
     }
 ]
