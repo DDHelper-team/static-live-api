@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o3BVCX8prWc",
         "picture": "https://i.ytimg.com/vi/o3BVCX8prWc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728457200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】はじめてのスト６#６孤独な闘い！！！！負けない！【ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -427,5 +427,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728460800,
         "title": "【TCG Card Shop Simulator】LEMME JOIN THE BREWEK GANG【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JbfV8XHvh_0",
+        "picture": "https://i.ytimg.com/vi/JbfV8XHvh_0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728460800,
+        "title": "【TCG Card Shop Simulator】3桁万円出すぞ出すぞ出すぞ！！イエローコヨマリンむきむきSHOWだ～～～！✨【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=g91tmqBYyAM",
+        "picture": "https://i.ytimg.com/vi/g91tmqBYyAM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728468000,
+        "title": "【TCG Card Shop Simulator】100万円レベルのカードが出るまで諦めないカードショップ！！！【天音かなた/ホロライブ】"
     }
 ]
