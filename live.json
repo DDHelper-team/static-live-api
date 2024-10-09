@@ -242,17 +242,6 @@
         "title": "【FUWAMOCO MORNING】episode 133 🐾 #FWMCMORNING"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XWaRk0yvasI",
-        "picture": "https://i.ytimg.com/vi/XWaRk0yvasI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PROMISE ANNIVERSARY COLLAB】Mumei\u0026#39;s HoloPromise HISTORY Quiz + ANNOUNCEMENTS"
-    },
-    {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
         "islive": false,
@@ -383,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728471600,
         "title": "【ツアー追加情報 / 雑談】雑談のあとに告知する！【ホロライブ / 星街すいせい】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LpeIJ5UC9h0",
+        "picture": "https://i.ytimg.com/vi/LpeIJ5UC9h0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728507600,
+        "title": "Eat or Get Eaten with Ina, Liz, \u0026amp; Fauna【Devour】"
     }
 ]
