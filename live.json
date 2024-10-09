@@ -222,23 +222,23 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BnZbR5Z4n4s",
         "picture": "https://i.ytimg.com/vi/BnZbR5Z4n4s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728432000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "CHU-CHU-DU CHU-YA | Sonic Adventure 2"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ShiimtY-1Gw",
         "picture": "https://i.ytimg.com/vi/ShiimtY-1Gw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728435600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PARATOPIC】don\u0026#39;t forget to rewind this terrifying fever dream  🐾 【FUWAMOCO】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fgM0Y8IH-C8",
         "picture": "https://i.ytimg.com/vi/fgM0Y8IH-C8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728432000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DRAGON BALL: SPARKING! ZERO】become monke again【Dokibird】"
     },
     {
@@ -352,16 +352,6 @@
         "title": "【メンバー限定配信】開設4年7ヶ月目！「アルマゲドン / Armageddon」同時視聴！【角巻わため/ホロライブ４期生】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "BEST AUTOMATED STREAM OF ALL TIME FT. NEURO SAMA AND SLEEPY987"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": true,
@@ -382,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728484200,
         "title": "【 誕生日カウントダウン 】んなたんの誕生日なのらあああ～～～～！！！🎉【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oapMtT3fqWU",
+        "picture": "https://i.ytimg.com/vi/oapMtT3fqWU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728468000,
+        "title": "【VRChat】ついに！VRCワールド紹介予定地！【火威青 】#hololiveDEV_IS #ReGLOSS #青くんのVRC旅行"
     }
 ]
