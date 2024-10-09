@@ -464,12 +464,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QurzSoOib84",
         "picture": "https://i.ytimg.com/vi/QurzSoOib84/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728466200,
-        "title": "【龍が如く８】完全初見！！！🐉【ネタバレあり】【赤井はあと/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【龍が如く８】完全初見！！！🐉気合で勝負じゃあああ！！！【ネタバレあり】【赤井はあと/ホロライブ】"
     }
 ]
