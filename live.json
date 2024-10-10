@@ -299,13 +299,13 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wQkk5ZbL0lE",
-        "picture": "https://i.ytimg.com/vi/wQkk5ZbL0lE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TnqBFAu4APg",
+        "picture": "https://i.ytimg.com/vi/TnqBFAu4APg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【POWERWASH SIMULATOR SHREK DLC】some【Dokibird】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728604800,
+        "title": "【DEVOUR】im a team player【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
