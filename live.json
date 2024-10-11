@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QCaIViX7nZE",
         "picture": "https://i.ytimg.com/vi/QCaIViX7nZE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728604800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "LET\u0026#39;S TERRAFORM A PLANET w/ @holoen_gigimurin  | The Planet Crafter"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WEDnumhyQWU",
         "picture": "https://i.ytimg.com/vi/WEDnumhyQWU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728604800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "The Meta Here is To Actually ---【7 Days to Die with HoloEN | Day 2】"
     },
     {
@@ -288,23 +288,23 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sXJLeenbwbI",
         "picture": "https://i.ytimg.com/vi/sXJLeenbwbI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728604800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 Days to Die】Hoard or be Horded【Day 2】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TnqBFAu4APg",
         "picture": "https://i.ytimg.com/vi/TnqBFAu4APg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728604800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DEVOUR】im a team player【Dokibird】"
     },
     {
@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MMhqW1r-L3g",
         "picture": "https://i.ytimg.com/vi/MMhqW1r-L3g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728604800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 DAYS TO DIE】 the slap build is online | DAY 2"
     },
     {
@@ -394,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728648000,
         "title": "【 近畿霊務局 】幽霊をボコせちゃう！？物理で除霊せよ！！！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kNDEIiDH_JU",
+        "picture": "https://i.ytimg.com/vi/kNDEIiDH_JU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728612000,
+        "title": "【雑談】燐央と夢の国行った話【花咲みやび/ホロスターズ】"
     }
 ]
