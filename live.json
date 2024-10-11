@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4PTXMPTV4wQ",
         "picture": "https://i.ytimg.com/vi/4PTXMPTV4wQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728633600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】THE BREWEKS IS OPEN【Ayunda Risu】"
     },
     {
@@ -394,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728635400,
         "title": "【 STREET FIGHTER 6】ドンさんコーチングでガイル筋を鍛えろ！！【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3s7fhk5hOG8",
+        "picture": "https://i.ytimg.com/vi/3s7fhk5hOG8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728651600,
+        "title": "【#重返未来1999 】卡卡卡卡卡卡卡卡！最近是不是一直在抽卡的迴圈中【#遊戲個人勢 / Fingla】"
     }
 ]
