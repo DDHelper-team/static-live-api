@@ -308,17 +308,6 @@
         "title": "【TCG Card Shop Simulator】強くなりたいやつはウチに来い！強気に開店！！！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=URUpUfT7vmM",
-        "picture": "https://i.ytimg.com/vi/URUpUfT7vmM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】今日はお話しましょう（もうすぐ獅白杯2ndですよ！）【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -328,17 +317,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 近畿霊務局 】幽霊をボコせちゃう！？物理で除霊せよ！！！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xMUtZeBt2iI",
-        "picture": "https://i.ytimg.com/vi/xMUtZeBt2iI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【平沢進縛り歌枠】タービンが回る距離感のコラボ  #ジョ烏風亭【儒烏風亭らでん/ジョー・力一 #ReGLOSS 】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -365,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3s7fhk5hOG8",
         "picture": "https://i.ytimg.com/vi/3s7fhk5hOG8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728651600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#重返未来1999 】卡卡卡卡卡卡卡卡！最近是不是一直在抽卡的迴圈中【#遊戲個人勢 / Fingla】"
     },
     {
@@ -449,5 +427,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728651600,
         "title": "【 TCG Card Shop Simulator 】１１日目🔥超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SBd039Kx-Qc",
+        "picture": "https://i.ytimg.com/vi/SBd039Kx-Qc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728653400,
+        "title": "【Glyphica: Typing Survival】dont let me flip my keyboard【Kaela Kovalskia / hololiveID】"
     }
 ]
