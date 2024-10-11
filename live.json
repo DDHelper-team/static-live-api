@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_DnfwrOfUWU",
         "picture": "https://i.ytimg.com/vi/_DnfwrOfUWU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728635400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6】ドンさんコーチングでガイル筋を鍛えろ！！【アキロゼ/ホロライブ】"
     },
     {
@@ -405,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728651600,
         "title": "【#重返未来1999 】卡卡卡卡卡卡卡卡！最近是不是一直在抽卡的迴圈中【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pchjPXjQTfs",
+        "picture": "https://i.ytimg.com/vi/pchjPXjQTfs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728655200,
+        "title": "【 TCG Card Shop Simulator 】病み上がり店長はウィスパー声でも押し…推し売りしたい💘【ホロライブ / ロボ子さん】"
     }
 ]
