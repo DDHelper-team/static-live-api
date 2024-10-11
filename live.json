@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=URUpUfT7vmM",
         "picture": "https://i.ytimg.com/vi/URUpUfT7vmM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728644400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】今日はお話しましょう（もうすぐ獅白杯2ndですよ！）【獅白ぼたん/ホロライブ】"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xMUtZeBt2iI",
         "picture": "https://i.ytimg.com/vi/xMUtZeBt2iI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728644400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【平沢進縛り歌枠】タービンが回る距離感のコラボ  #ジョ烏風亭【儒烏風亭らでん/ジョー・力一 #ReGLOSS 】"
     },
     {
@@ -398,12 +398,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hxBCFkk-pqA",
         "picture": "https://i.ytimg.com/vi/hxBCFkk-pqA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728644400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "沉默之丘2 重製｜沉默之丘是個大型客製化深層體驗沉浸式樂園啦！ Surfshark VPN贊助【Healing希靈/VTuber】"
     },
     {
@@ -449,5 +449,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728691200,
         "title": "【7 Days to Die】I GOT A KNIFE【Day 3】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QGWyJy1V1Bs",
+        "picture": "https://i.ytimg.com/vi/QGWyJy1V1Bs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728730800,
+        "title": "【 #ジャンプオンステージ歌枠リレー 】きゅんきゅんキラキラな僕で行きます！！【#新人vtuber 】"
     }
 ]
