@@ -266,13 +266,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=cpSqcUG4CGo",
-        "picture": "https://i.ytimg.com/vi/cpSqcUG4CGo/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=w-iEbmZu85A",
+        "picture": "https://i.ytimg.com/vi/w-iEbmZu85A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728651600,
-        "title": "【雜談】感情問題100問EP.3 你坐阿 初見君💛"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌雜】🔊 被調音過的我 今天要大唱特唱 幫我聽聽如何😳🎶"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2NBr1qF89Fs",
         "picture": "https://i.ytimg.com/vi/2NBr1qF89Fs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728651600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】強くなりたいやつはウチに来い！強気に開店！！！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -392,7 +392,7 @@
         "picture": "https://i.ytimg.com/vi/JrwHws614mo/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1728651600,
+        "timestamp": 1728653400,
         "title": "【TCG Card Shop Simulator】勝つべくして勝つ！！激レアカードを引くだ！！💰【不知火フレア/ホロライブ】"
     },
     {
@@ -420,12 +420,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mjacs1twYSM",
         "picture": "https://i.ytimg.com/vi/mjacs1twYSM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728651600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】１１日目🔥超激レア入荷まで辞めない‼話題のカドショみこのあな本日も開店！！【ホロライブ/さくらみこ】"
     },
     {
@@ -438,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728653400,
         "title": "【Glyphica: Typing Survival】dont let me flip my keyboard【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qkVL__RIaok",
+        "picture": "https://i.ytimg.com/vi/qkVL__RIaok/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728655200,
+        "title": "【歌枠】気ままに歌います。🎇【赤井はあと/ホロライブ】"
     }
 ]
