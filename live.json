@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pchjPXjQTfs",
         "picture": "https://i.ytimg.com/vi/pchjPXjQTfs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728655200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】病み上がり店長はウィスパー声でも押し…推し売りしたい💘【ホロライブ / ロボ子さん】"
     },
     {
@@ -365,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o7eytANzYpY",
         "picture": "https://i.ytimg.com/vi/o7eytANzYpY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728655200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】はじめてのスト６#７ 深夜の練習配信！✨【ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -431,12 +431,22 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qkVL__RIaok",
         "picture": "https://i.ytimg.com/vi/qkVL__RIaok/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728655200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】気ままに歌います。🎇【赤井はあと/ホロライブ】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "inscryption with ved and neuro"
     }
 ]
