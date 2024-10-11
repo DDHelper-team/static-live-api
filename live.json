@@ -297,17 +297,6 @@
         "title": "【7 Days to Die】Hoard or be Horded【Day 2】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TnqBFAu4APg",
-        "picture": "https://i.ytimg.com/vi/TnqBFAu4APg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DEVOUR】im a team player【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -398,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kNDEIiDH_JU",
         "picture": "https://i.ytimg.com/vi/kNDEIiDH_JU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728612000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】燐央と夢の国行った話【花咲みやび/ホロスターズ】"
     }
 ]
