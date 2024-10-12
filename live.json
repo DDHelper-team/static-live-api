@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2iVXRTyQh9A",
         "picture": "https://i.ytimg.com/vi/2iVXRTyQh9A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728694800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【1 MILLION ENDURANCE｜100万人耐久】the moment our dream comes true, here together with you 🐾✨️ 【FUWAMOCO】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xd14A2LhC94",
         "picture": "https://i.ytimg.com/vi/xd14A2LhC94/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728691200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "The Fight for Survival Rematch【7 Days to Die with HoloEN | Day 3】"
     },
     {
@@ -288,34 +288,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ptv8--aJ4RA",
         "picture": "https://i.ytimg.com/vi/ptv8--aJ4RA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728691200,
-        "title": "【SILENT HILL 2】will i softlock myself?【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JrwHws614mo",
-        "picture": "https://i.ytimg.com/vi/JrwHws614mo/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【TCG Card Shop Simulator】勝つべくして勝つ！！激レアカードを引くだ！！💰【不知火フレア/ホロライブ】"
+        "title": "【SILENT HILL 2】will i softlock myself?【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Vp3d_kYvYtE",
         "picture": "https://i.ytimg.com/vi/Vp3d_kYvYtE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728691200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 Days to Die】I GOT A KNIFE【Day 3】"
     },
     {
@@ -376,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SbEW2xDMjHY",
         "picture": "https://i.ytimg.com/vi/SbEW2xDMjHY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728691200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 DAYS TO DIE】 FAUNA PUNCHHHH | DAY 3"
     },
     {
@@ -394,5 +383,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728738000,
         "title": "【TCG Card Shop Simulator】無敵のカードドドSHOP 熱血！わため店！！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q8-fJv7YXjs",
+        "picture": "https://i.ytimg.com/vi/q8-fJv7YXjs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728777600,
+        "title": "Why you should NEVER open your door for strangers | No, I\u0026#39;m Not a Human"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=36OY9jnzarg",
+        "picture": "https://i.ytimg.com/vi/36OY9jnzarg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "朝から壺おじ雑談！🌅【赤井はあと/ホロライブ】"
     }
 ]
