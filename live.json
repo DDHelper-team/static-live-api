@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=va-1y64chGw",
         "picture": "https://i.ytimg.com/vi/va-1y64chGw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728703848,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#31 | 完全初見！荒瀧一斗さんに会ってみる👹【緋月ゆい/ネオポルテ】"
     }
 ]
