@@ -266,24 +266,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DiuxhcUgfeM",
         "picture": "https://i.ytimg.com/vi/DiuxhcUgfeM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728734400,
-        "title": "【 空気読み。オンライン 】笑ったら罰ゲーム！？初対面で空気の読み合い【 領国つかさ / セレナーデ・オックスブラッド 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UCWOf8WZBmE",
-        "picture": "https://i.ytimg.com/vi/UCWOf8WZBmE/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【FragPunk BETA TEST】interesting.. very interesting...【Kaela Kovalskia / hololiveID】"
+        "title": "【 空気読み。オンライン 】笑ったら罰ゲーム！？初対面で空気の読み合い【 領国つかさ / セレナーデ・オックスブラッド 】"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -486,12 +475,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bSOd0aDLZt0",
         "picture": "https://i.ytimg.com/vi/bSOd0aDLZt0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728734400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】のんびり歌枠！- ハニカムステーション！-156【HACHI 】"
     },
     {
@@ -515,5 +504,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728817200,
         "title": "【全員マリン？！】宝鐘マリンの脳内会議～マリンのお悩みはマリンが解決！～【ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SCFEzaVIjfA",
+        "picture": "https://i.ytimg.com/vi/SCFEzaVIjfA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728738000,
+        "title": "【歌雜談】❣️ 最後倒數 聊聊天 唱唱歌 賣賣周邊  💜"
     }
 ]
