@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2iVXRTyQh9A",
-        "picture": "https://i.ytimg.com/vi/2iVXRTyQh9A/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3Dzmz9uJZ6E",
+        "picture": "https://i.ytimg.com/vi/3Dzmz9uJZ6E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【1 MILLION ENDURANCE｜100万人耐久】the moment our dream comes true, here together with you 🐾✨️ 【FUWAMOCO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728777600,
+        "title": "【#7DAYSTODIEHOLOEN COLLAB】why are the zombies so fast 🐾 【FUWAMOCO POV】"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
@@ -427,5 +427,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728738000,
         "title": "【Granblue Fantasy: Relink】We Saved Lyria!! Now... WE SAVE THE WORLD.【hololive ID | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6J3nveFtBws",
+        "picture": "https://i.ytimg.com/vi/6J3nveFtBws/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728788400,
+        "title": "【3 YEAR ANNIVERSARY】Moomin\u0026#39; .. with a TWIST !!! #MoomIn2024"
     }
 ]
