@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UCWOf8WZBmE",
         "picture": "https://i.ytimg.com/vi/UCWOf8WZBmE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728705600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FragPunk BETA TEST】interesting.. very interesting...【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -341,17 +341,6 @@
         "title": "【TCG Card Shop Simulator】GACHA ADRENALINE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SbEW2xDMjHY",
-        "picture": "https://i.ytimg.com/vi/SbEW2xDMjHY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【7 DAYS TO DIE】 FAUNA PUNCHHHH | DAY 3"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -376,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uPbGGGHzQ4M",
         "picture": "https://i.ytimg.com/vi/uPbGGGHzQ4M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728705600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #03【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -394,5 +383,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【原神】#31 | 完全初見！荒瀧一斗さんに会ってみる👹【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8TZYsBLTT80",
+        "picture": "https://i.ytimg.com/vi/8TZYsBLTT80/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728788400,
+        "title": "【 Q＆A】Elizabeth ＆Robocoのchuchuchu Q＆A💕😘【ホロライブ / #ChuchuRobeth】"
     }
 ]
