@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=K4MtEyH-VQE",
         "picture": "https://i.ytimg.com/vi/K4MtEyH-VQE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728723600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Detroit: Become Human】完全初見でやる超名作。私の選択で未来が変わる...！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -317,17 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728748800,
         "title": "【BIRTHDAY COUNTDOWN】CELEBRATING MY BIRTHDAY, THIS YEAR WITH YOU TOO!!❤️【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GXK3Ow6Y6Fo",
-        "picture": "https://i.ytimg.com/vi/GXK3Ow6Y6Fo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】GACHA ADRENALINE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -350,17 +339,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728777600,
         "title": "Why you should NEVER open your door for strangers | No, I\u0026#39;m Not a Human"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=va-1y64chGw",
-        "picture": "https://i.ytimg.com/vi/va-1y64chGw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【原神】#31 | 完全初見！荒瀧一斗さんに会ってみる👹【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
