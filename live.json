@@ -418,17 +418,6 @@
         "title": "【全員マリン？！】宝鐘マリンの脳内会議～マリンのお悩みはマリンが解決！～【ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SCFEzaVIjfA",
-        "picture": "https://i.ytimg.com/vi/SCFEzaVIjfA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌雜談】❣️ 最後倒數 聊聊天 唱唱歌 賣賣周邊  💜"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -442,12 +431,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6DWJ1p-7ah4",
         "picture": "https://i.ytimg.com/vi/6DWJ1p-7ah4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728756000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT BLOCK WARS】will you jump for the chicken or the beef?【Dokibird】"
     },
     {
@@ -460,5 +449,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728788400,
         "title": "【 ヨッシーアイランド 】赤ちゃんプレイさせてくれ！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "NEURO NEWS NETWORK (EXPERIMENTAL)"
     }
 ]
