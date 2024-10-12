@@ -277,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uihRc4NtBH8",
         "picture": "https://i.ytimg.com/vi/uihRc4NtBH8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728748800,
-        "title": "【BIRTHDAY COUNTDOWN】CELEBRATING MY BIRTHDAY, THIS YEAR WITH YOU TOO!!❤️【Kureiji Ollie】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【BIRTHDAY COUNTDOWN】CELEBRATING MY BIRTHDAY, THIS YEAR WITH YOU TOO!!❤️ #HOLL13DAY24【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -482,5 +482,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728756000,
         "title": "【MINECRAFT BLOCK WARS】will you jump for the chicken or the beef?【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WZH3KCU-Cpc",
+        "picture": "https://i.ytimg.com/vi/WZH3KCU-Cpc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728788400,
+        "title": "【 ヨッシーアイランド 】赤ちゃんプレイさせてくれ！【 領国つかさ / すぺしゃりて 】"
     }
 ]
