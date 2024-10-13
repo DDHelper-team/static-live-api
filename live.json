@@ -299,13 +299,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VeSGhjDdX9w",
-        "picture": "https://i.ytimg.com/vi/VeSGhjDdX9w/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bCCzUiK0nSY",
+        "picture": "https://i.ytimg.com/vi/bCCzUiK0nSY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#獅白杯2nd / Day1】獅白杯2nd STREET FIGHTER 6 powered by GALLERIA Day1【獅白ぼたん/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728888600,
+        "title": "【#獅白杯2nd / Day2】獅白杯2nd STREET FIGHTER 6 powered by GALLERIA Day2【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -352,17 +352,6 @@
         "title": "【 Q＆A】Elizabeth ＆Robocoのchuchuchu Q＆A💕😘【ホロライブ / #ChuchuRobeth】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vJXC3KR2jpI",
-        "picture": "https://i.ytimg.com/vi/vJXC3KR2jpI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ペーパーマリオRPG】ハート10縛りペパマリリメイク　6つ目のスターストーン編#06【影山シエン/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -405,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728858600,
         "title": "【 #朝ミオ 】秋っぽい月曜日が来たぞ！おはみぉーん！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "channellink": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oINLhaW_bI8",
+        "picture": "https://i.ytimg.com/vi/oINLhaW_bI8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728828000,
+        "title": "【誕生日カウントダウン】天使うとのらじお～うぇるかむとぅ ゆーとぴあ～"
     }
 ]
