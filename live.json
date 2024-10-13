@@ -464,12 +464,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kXT36Hq6gzY",
         "picture": "https://i.ytimg.com/vi/kXT36Hq6gzY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728804600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロポップ】夕方ののんびり配信。【ホロライブ/ときのそら】"
     }
 ]
