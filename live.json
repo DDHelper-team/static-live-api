@@ -308,17 +308,6 @@
         "title": "【#獅白杯2nd / Day1】獅白杯2nd STREET FIGHTER 6 powered by GALLERIA Day1【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_KHi8tP9d4w",
-        "picture": "https://i.ytimg.com/vi/_KHi8tP9d4w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【全員マリン？！】宝鐘マリンの脳内会議～マリンのお悩みはマリンが解決！～【ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
         "islive": false,
@@ -398,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=W8Z7V3g8Ej4",
         "picture": "https://i.ytimg.com/vi/W8Z7V3g8Ej4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728821700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ソウルキャリバーⅥ 】おひさしぶりにカオスなキャラクリ大会⚔おまえらをやっつけるにぇ‼🔥【ホロライブ/さくらみこ】"
     },
     {
@@ -416,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728824400,
         "title": "【TCG Card Shop Simulator】200万円↑のカードを引かせろ！！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OZccODdfpIs",
+        "picture": "https://i.ytimg.com/vi/OZccODdfpIs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728858600,
+        "title": "【 #朝ミオ 】秋っぽい月曜日が来たぞ！おはみぉーん！"
     }
 ]
