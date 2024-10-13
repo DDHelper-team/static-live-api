@@ -275,17 +275,6 @@
         "title": "【Detroit: Become Human】＃02 完全初見でやる超名作。私の選択で未来が変わる...！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=O607BZ8HwDk",
-        "picture": "https://i.ytimg.com/vi/O607BZ8HwDk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#REBIRTH3D】Kureiji Ollie\u0026#39;s 3D Birthday LIVE 2024 - REBIRTH, The True Me【hololive Indonesia】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": true,
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=i1qPNdZa0JQ",
         "picture": "https://i.ytimg.com/vi/i1qPNdZa0JQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728828900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Black Myth: Wukong】Top global wukong is here!"
     },
     {
@@ -339,28 +328,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728864000,
         "title": "【STRINOVA SUPERSTRING INVITATIONAL】anime girl tactical shooter【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8TZYsBLTT80",
-        "picture": "https://i.ytimg.com/vi/8TZYsBLTT80/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Q＆A】Elizabeth ＆Robocoのchuchuchu Q＆A💕😘【ホロライブ / #ChuchuRobeth】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=1bARfJafPP0",
-        "picture": "https://i.ytimg.com/vi/1bARfJafPP0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1788177600,
-        "title": "これはフリーチャットだ。"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -405,5 +372,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【誕生日カウントダウン】天使うとのらじお～うぇるかむとぅ ゆーとぴあ～"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sFbACz_hUDo",
+        "picture": "https://i.ytimg.com/vi/sFbACz_hUDo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728864000,
+        "title": "【7 DAYS TO DIE】I Am the STRONG. (part 4) #holoEN"
     }
 ]
