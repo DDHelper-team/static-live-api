@@ -321,23 +321,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kTO97egQOuA",
         "picture": "https://i.ytimg.com/vi/kTO97egQOuA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728792000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #04【 猫又おかゆ/ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XgpT12NtZKg",
         "picture": "https://i.ytimg.com/vi/XgpT12NtZKg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728792000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　4日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -361,17 +361,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【7 Days to Die】The friend who fires.【Day 4】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=akv2nfjvPu4",
-        "picture": "https://i.ytimg.com/vi/akv2nfjvPu4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【7 DAYS TO DIE】 the horde approaches (for the se-third time) | DAY 4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
