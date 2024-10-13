@@ -286,17 +286,6 @@
         "title": "【STRINOVA SUPERSTRING INVITATIONAL】anime girl tactical shooter【Dokibird】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SZYes6Q0JC4",
-        "picture": "https://i.ytimg.com/vi/SZYes6Q0JC4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】200万円↑のカードを引かせろ！！【不知火フレア/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "islive": false,
@@ -339,5 +328,37 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728864000,
         "title": "【PEJUANG SENIN】#86 oh, how r u tudei【Kaela\u0026#39;s Monday Warrior】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=D-0V1qfF9eU",
+        "picture": "https://i.ytimg.com/vi/D-0V1qfF9eU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728864000,
+        "title": "【7 Days to Die】Watch my 9mm go BANG!【Day 5】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "NEURO vs EVIL | IRL COOKING WITH LAYNA AND VEDAL"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jbu5FdNzcCE",
+        "picture": "https://i.ytimg.com/vi/jbu5FdNzcCE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728864000,
+        "title": "【7 DAYS TO DIE】 eat sleep punch repeat | DAY 5"
     }
 ]
