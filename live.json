@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DCE8g8MYQfo",
         "picture": "https://i.ytimg.com/vi/DCE8g8MYQfo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728828000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼルダの伝説 知恵のかりもの】うちのゼルダちゃんちょっと悪いかも？暮らしはじめます！#5【角巻わため/ホロライブ４期生】"
     },
     {
@@ -355,12 +355,12 @@
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=x1wJy_4VZXM",
-        "picture": "https://i.ytimg.com/vi/x1wJy_4VZXM/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=1bARfJafPP0",
+        "picture": "https://i.ytimg.com/vi/1bARfJafPP0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728828000,
-        "title": "【 メン限 】有難すぎる雑談タイム【 領国つかさ / すぺしゃりて 】"
+        "status": null,
+        "timestamp": 1788177600,
+        "title": "これはフリーチャットだ。"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -398,12 +398,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "channellink": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oINLhaW_bI8",
         "picture": "https://i.ytimg.com/vi/oINLhaW_bI8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728828000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【誕生日カウントダウン】天使うとのらじお～うぇるかむとぅ ゆーとぴあ～"
     }
 ]
