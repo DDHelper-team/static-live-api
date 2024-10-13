@@ -303,7 +303,7 @@
         "link": "https://www.youtube.com/watch?v=8TZYsBLTT80",
         "picture": "https://i.ytimg.com/vi/8TZYsBLTT80/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1728788400,
         "title": "【 Q＆A】Elizabeth ＆Robocoのchuchuchu Q＆A💕😘【ホロライブ / #ChuchuRobeth】"
     },
@@ -315,8 +315,8 @@
         "picture": "https://i.ytimg.com/vi/6J3nveFtBws/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1728788400,
-        "title": "【3 YEAR ANNIVERSARY】Moomin\u0026#39; .. with a TWIST !!! #MoomIn2024"
+        "timestamp": 1728789300,
+        "title": "【3 YEAR ANNIVERSARY】Moomin\u0026#39; .. with a TWIST !!! #mumeiAnniversary"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -402,7 +402,7 @@
         "link": "https://www.youtube.com/watch?v=WZH3KCU-Cpc",
         "picture": "https://i.ytimg.com/vi/WZH3KCU-Cpc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1728788400,
         "title": "【 ヨッシーアイランド 】赤ちゃんプレイさせてくれ！【 領国つかさ / すぺしゃりて 】"
     },
@@ -438,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728813600,
         "title": "【 #獅白杯2nd 】師弟電流デスマッチ出張版　チームACQUA師匠カメラ【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=R4CGKpwAMT0",
+        "picture": "https://i.ytimg.com/vi/R4CGKpwAMT0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 TCG Card Shop Simulator 】 目指せ100万超え＆店舗拡大！！【ホロライブ/沙花叉クロヱ】"
     }
 ]
