@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZYHxLj0M7oU",
         "picture": "https://i.ytimg.com/vi/ZYHxLj0M7oU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728813600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Detroit: Become Human】＃02 完全初見でやる超名作。私の選択で未来が変わる...！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -347,7 +347,7 @@
         "link": "https://www.youtube.com/watch?v=-PlEHu5j4kY",
         "picture": "https://i.ytimg.com/vi/-PlEHu5j4kY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1728813600,
         "title": "【 #獅白杯2nd 】師弟電流デスマッチ出張版　チームACQUA師匠カメラ【荒咬オウガ /ホロスターズ】"
     },
@@ -438,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728824400,
         "title": "【 Q＆A】Elizabeth ＆Robocoのchuchuchu Q＆A💕😘【ホロライブ / #ChuchuRobeth】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=vJXC3KR2jpI",
+        "picture": "https://i.ytimg.com/vi/vJXC3KR2jpI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ペーパーマリオRPG】ハート10縛りペパマリリメイク　6つ目のスターストーン編#06【影山シエン/ホロスターズ】"
     }
 ]
