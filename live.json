@@ -297,28 +297,6 @@
         "title": "【ゼルダの伝説 知恵のかりもの】うちのゼルダちゃんちょっと悪いかも？暮らしはじめます！#5【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=8TZYsBLTT80",
-        "picture": "https://i.ytimg.com/vi/8TZYsBLTT80/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1728788400,
-        "title": "【 Q＆A】Elizabeth ＆Robocoのchuchuchu Q＆A💕😘【ホロライブ / #ChuchuRobeth】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=6J3nveFtBws",
-        "picture": "https://i.ytimg.com/vi/6J3nveFtBws/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728789300,
-        "title": "【3 YEAR ANNIVERSARY】Moomin\u0026#39; .. with a TWIST !!! #mumeiAnniversary"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -339,17 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728802800,
         "title": "【#獅白杯2nd / Day1】本番！🔥 美味しいカレーになります！！オシャレなファッションショーします！STREET FIGHTER 6で！！ラプラス・ダークネス/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=u_VvR2f3iQw",
-        "picture": "https://i.ytimg.com/vi/u_VvR2f3iQw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【7 DAYS TO DIE】big spike stick go PROINK. (part 3) #holoEN"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -396,17 +363,6 @@
         "title": "【7 Days to Die】The friend who fires.【Day 4】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=WZH3KCU-Cpc",
-        "picture": "https://i.ytimg.com/vi/WZH3KCU-Cpc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1728788400,
-        "title": "【 ヨッシーアイランド 】赤ちゃんプレイさせてくれ！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "islive": true,
@@ -449,5 +405,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】 目指せ100万超え＆店舗拡大！！【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=i1qPNdZa0JQ",
+        "picture": "https://i.ytimg.com/vi/i1qPNdZa0JQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728828900,
+        "title": "【Black Myth: Wukong】Top global wukong is here!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=6J3nveFtBws",
+        "picture": "https://i.ytimg.com/vi/6J3nveFtBws/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【3 YEAR ANNIVERSARY】Moomin\u0026#39; .. with a TWIST !!! #mumeiAnniversary"
     }
 ]
