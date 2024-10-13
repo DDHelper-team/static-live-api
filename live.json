@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=192cXSzgCL0",
         "picture": "https://i.ytimg.com/vi/192cXSzgCL0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728784800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FINAL FANTASY Ⅸ / FF9】遂にファイナルファンタジー9最終回！みんな幸せになってくれええええええ；；； #8 【博衣こより/ホロライブ】"
     },
     {
@@ -295,17 +295,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728824400,
         "title": "【ゼルダの伝説 知恵のかりもの】うちのゼルダちゃんちょっと悪いかも？暮らしはじめます！#5【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=q8-fJv7YXjs",
-        "picture": "https://i.ytimg.com/vi/q8-fJv7YXjs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Why you should NEVER open your door for strangers | No, I\u0026#39;m Not a Human"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -429,25 +418,14 @@
         "title": "【7 DAYS TO DIE】 the horde approaches (for the se-third time) | DAY 4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GWHB97dD2H0",
-        "picture": "https://i.ytimg.com/vi/GWHB97dD2H0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVED】STRONGEST IDOL KARAOKE♪♪♪"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QkZoU_l-s3g",
         "picture": "https://i.ytimg.com/vi/QkZoU_l-s3g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728784800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ELDEN RING】#28 マレニア前夜！！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     },
     {
