@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zd5EHWy22Sk",
         "picture": "https://i.ytimg.com/vi/zd5EHWy22Sk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728802800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#獅白杯2nd / Day1】本番！🔥 美味しいカレーになります！！オシャレなファッションショーします！STREET FIGHTER 6で！！ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -407,17 +407,6 @@
         "title": "【3 YEAR ANNIVERSARY】Moomin\u0026#39; .. with a TWIST !!! #mumeiAnniversary"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WZH3KCU-Cpc",
-        "picture": "https://i.ytimg.com/vi/WZH3KCU-Cpc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ヨッシーアイランド 】赤ちゃんプレイさせてくれ！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": true,
@@ -446,7 +435,7 @@
         "link": "https://www.youtube.com/watch?v=dtwm_x8lNuM",
         "picture": "https://i.ytimg.com/vi/dtwm_x8lNuM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1728802800,
         "title": "【 STREET FIGHTER 6】獅白杯本番！ガイルを信じて！！ #獅白杯2nd 【アキロゼ/ホロライブ】"
     },
@@ -475,12 +464,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=E02ghElUE_8",
         "picture": "https://i.ytimg.com/vi/E02ghElUE_8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728802800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】brewek tapi tidak kejam【Ayunda Risu】"
     },
     {
