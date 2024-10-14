@@ -220,17 +220,6 @@
         "title": "【RECAP】Chatting about the LIVE, NEW SONG, and MV!!! #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=kpPDxXuCAzI",
-        "picture": "https://i.ytimg.com/vi/kpPDxXuCAzI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1729090800,
-        "title": "【FUWAMOCO MORNING】episode 134 🐾 #FWMCMORNING"
-    },
-    {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
         "islive": false,
@@ -308,17 +297,6 @@
         "title": "【 Squirrel with a Gun 】話題ゲー⁉小さくなっても銃ぶっ放して俺は大暴れするにぇ！！！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mUhY8JXpX8w",
-        "picture": "https://i.ytimg.com/vi/mUhY8JXpX8w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】暑いのか寒いのかどっちかにしろ！ sing and talk【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -328,17 +306,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【DICEOMANCER】we\u0026#39;re back to cards, but it\u0026#39;s different cards【Kaela Kovalskia / hololiveID】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QG1VruH2gyE",
-        "picture": "https://i.ytimg.com/vi/QG1VruH2gyE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゼルダの伝説 知恵のかりもの】物語もそろそろ終盤でしょ？【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -372,5 +339,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Core Keeper】初めてのマルチコアキーパー【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=697Xynu0f8g",
+        "picture": "https://i.ytimg.com/vi/697Xynu0f8g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728993600,
+        "title": "【 雑談 】無軌道雑談に定評のある領国つかさ【 領国つかさ / すぺしゃりて 】"
     }
 ]
