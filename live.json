@@ -299,24 +299,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VqUGGlxmvz8",
         "picture": "https://i.ytimg.com/vi/VqUGGlxmvz8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728910800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Content Warning】#TCB兄妹 - 迷惑兄妹Youtuber【奏手イヅル / ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YKTQNN0sujM",
         "picture": "https://i.ytimg.com/vi/YKTQNN0sujM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728910800,
-        "title": "【 はいしんよてち 】やりたみ！！！！！！！！【ホロライブ/さくらみこ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Squirrel with a Gun 】話題ゲー⁉小さくなっても銃ぶっ放して俺は大暴れするにぇ！！！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
@@ -394,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728957600,
         "title": "【TRIBE NINE】Grim Reaper Plays a Deadly New Action RPG?! #calliolive #sponsored"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=0Z0O_oXGr3k",
+        "picture": "https://i.ytimg.com/vi/0Z0O_oXGr3k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Core Keeper】初めてのマルチコアキーパー【不知火フレア/ホロライブ】"
     }
 ]
