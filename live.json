@@ -310,13 +310,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lPGXMCtMp78",
-        "picture": "https://i.ytimg.com/vi/lPGXMCtMp78/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YKTQNN0sujM",
+        "picture": "https://i.ytimg.com/vi/YKTQNN0sujM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#日本HP大決算祭り】 めざせ大赤字🔥通販番組 #フブみこさんショッピング が復活⁉🎉 【ホロライブ／さくらみこ／白上フブキ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728910800,
+        "title": "【 はいしんよてち 】やりたみ！！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
@@ -328,17 +328,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #獅白杯2nd 】愉悦 獅白杯ミラー！【荒咬オウガ　アルランディス /ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9lo_SJdCp4s",
-        "picture": "https://i.ytimg.com/vi/9lo_SJdCp4s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ZetaRiri OFF COLLAB】アソビ大全❤️ Nintendo Clubhouse Games: 51 Worldwide Classics!!!!! ❤️"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
@@ -354,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cJ9gIDvBZOY",
         "picture": "https://i.ytimg.com/vi/cJ9gIDvBZOY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728909000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DICEOMANCER】we\u0026#39;re back to cards, but it\u0026#39;s different cards【Kaela Kovalskia / hololiveID】"
     },
     {
