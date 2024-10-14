@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EBHaCO9gVrY",
         "picture": "https://i.ytimg.com/vi/EBHaCO9gVrY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728900000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】ついに店拡張🔥さらなる高額カードをめざして【風真いろは/ホロライブ】"
     },
     {
@@ -350,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728910800,
         "title": "【 -`🎙 歌枠/Singing 】暑いのか寒いのかどっちかにしろ！ sing and talk【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cJ9gIDvBZOY",
+        "picture": "https://i.ytimg.com/vi/cJ9gIDvBZOY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728909000,
+        "title": "【DICEOMANCER】we\u0026#39;re back to cards, but it\u0026#39;s different cards【Kaela Kovalskia / hololiveID】"
     }
 ]
