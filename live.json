@@ -255,24 +255,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XwUBOsYg1cE",
-        "picture": "https://i.ytimg.com/vi/XwUBOsYg1cE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=v4KxY4RqK58",
+        "picture": "https://i.ytimg.com/vi/v4KxY4RqK58/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 SILENT HILL 2 】完全初見🌟最新リメイク版やってみる！！！え？めっちゃこわいの・・・？ #1 【博衣こより/ホロライブ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bCCzUiK0nSY",
-        "picture": "https://i.ytimg.com/vi/bCCzUiK0nSY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#獅白杯2nd / Day2】獅白杯2nd STREET FIGHTER 6 powered by GALLERIA Day2【獅白ぼたん/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728943200,
+        "title": "【 #朝こよ 】10月半分終わったってマ…！？火曜日の朝は朝こよ～っ☀ #202 【博衣こより/hololive】"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -319,25 +308,14 @@
         "title": "【 Squirrel with a Gun 】話題ゲー⁉小さくなっても銃ぶっ放して俺は大暴れするにぇ！！！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dx8m_qr4WHE",
-        "picture": "https://i.ytimg.com/vi/dx8m_qr4WHE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #獅白杯2nd 】愉悦 獅白杯ミラー！【荒咬オウガ　アルランディス /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mUhY8JXpX8w",
         "picture": "https://i.ytimg.com/vi/mUhY8JXpX8w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728910800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】暑いのか寒いのかどっちかにしろ！ sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
