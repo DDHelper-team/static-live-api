@@ -297,17 +297,6 @@
         "title": "【TRIBE NINE】Grim Reaper Plays a Deadly New Action RPG?! #calliolive #sponsored"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0Z0O_oXGr3k",
-        "picture": "https://i.ytimg.com/vi/0Z0O_oXGr3k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Core Keeper】初めてのマルチコアキーパー【不知火フレア/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -339,5 +328,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729000800,
         "title": "【雑談＆お礼】スーパーすーぱーちゃお礼タイム！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "avatar": null,
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "did you know i weigh as much as an orange"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6lfDKecsl6g",
+        "picture": "https://i.ytimg.com/vi/6lfDKecsl6g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729015200,
+        "title": "It\u0026#39;s all OGRE now | PowerWash Simulator w/ @holoen_erbloodflame"
     }
 ]
