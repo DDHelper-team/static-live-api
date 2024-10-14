@@ -277,34 +277,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EIJB_MXJOtY",
         "picture": "https://i.ytimg.com/vi/EIJB_MXJOtY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728864000,
-        "title": "【STRINOVA SUPERSTRING INVITATIONAL】anime girl tactical shooter【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OZccODdfpIs",
-        "picture": "https://i.ytimg.com/vi/OZccODdfpIs/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 #朝ミオ 】秋っぽい月曜日が来たぞ！おはみぉーん！"
+        "title": "【STRINOVA SUPERSTRING INVITATIONAL】anime girl tactical shooter【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sFbACz_hUDo",
         "picture": "https://i.ytimg.com/vi/sFbACz_hUDo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728864000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 DAYS TO DIE】I Am the STRONG. (part 4) #holoEN"
     },
     {
@@ -321,34 +310,34 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5PeXBU_hlYI",
         "picture": "https://i.ytimg.com/vi/5PeXBU_hlYI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728864000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PEJUANG SENIN】#86 oh, how r u tudei【Kaela\u0026#39;s Monday Warrior】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=D-0V1qfF9eU",
         "picture": "https://i.ytimg.com/vi/D-0V1qfF9eU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728864000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 Days to Die】Watch my 9mm go BANG!【Day 5】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jbu5FdNzcCE",
         "picture": "https://i.ytimg.com/vi/jbu5FdNzcCE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728864000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 DAYS TO DIE】 eat sleep punch repeat | DAY 5"
     },
     {
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728878400,
         "title": "【 ゼルダの伝説 知恵のかりもの 】新作遊んでゆく～～～ #05【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CrOO8nfPTtg",
+        "picture": "https://i.ytimg.com/vi/CrOO8nfPTtg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1728873000,
+        "title": "【M.M.M.】Monday Morning Malas : October Malas【Ayunda Risu】"
     }
 ]
