@@ -264,24 +264,13 @@
         "title": "【KU100/ASMR】耳奥まで届く吐息と耳かき、愛されはむはむで心まで癒される♡至高の睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YKTQNN0sujM",
-        "picture": "https://i.ytimg.com/vi/YKTQNN0sujM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Squirrel with a Gun 】話題ゲー⁉小さくなっても銃ぶっ放して俺は大暴れするにぇ！！！！！！！！！【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=cJ9gIDvBZOY",
         "picture": "https://i.ytimg.com/vi/cJ9gIDvBZOY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【DICEOMANCER】we\u0026#39;re back to cards, but it\u0026#39;s different cards【Kaela Kovalskia / hololiveID】"
     },
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1728950400,
         "title": "【7 Days to Die】Zombies fear us, women love us【Day 6】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5Q21-vJ6H58",
+        "picture": "https://i.ytimg.com/vi/5Q21-vJ6H58/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729000800,
+        "title": "【雑談＆お礼】スーパーすーぱーちゃお礼タイム！！【角巻わため/ホロライブ４期生】"
     }
 ]
