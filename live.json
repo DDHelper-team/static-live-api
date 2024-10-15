@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5Q21-vJ6H58",
         "picture": "https://i.ytimg.com/vi/5Q21-vJ6H58/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729000800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】スーパーすーぱーちゃお礼タイム！！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -339,17 +339,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729033200,
         "title": "【7 Days to Die】Season 1 Finale Episode 7 Part 1 【Day 7】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zMwbah058Y8",
-        "picture": "https://i.ytimg.com/vi/zMwbah058Y8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OMUSUBI | お結び】Am I The Only Human Here?【hololive ID | Anya Melfissa】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
