@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1c43NCaAdXM",
         "picture": "https://i.ytimg.com/vi/1c43NCaAdXM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728950400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 Days to Die】Zombies fear us, women love us【Day 6】"
     },
     {
@@ -330,35 +330,14 @@
         "title": "It\u0026#39;s all OGRE now | PowerWash Simulator w/ @holoen_erbloodflame"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QA7OA1ew5HI",
-        "picture": "https://i.ytimg.com/vi/QA7OA1ew5HI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ECHO POINT NOVA】A Towl and a Gremlin Play A Video Game w/ @holoen_gigimurin"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XpQ1OlUNV9g",
         "picture": "https://i.ytimg.com/vi/XpQ1OlUNV9g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728950400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【7 DAYS TO DIE】 This kirin can solo a bear with just her fists | DAY 6"
     }
 ]
