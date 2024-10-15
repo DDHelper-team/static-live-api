@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y10ObP2oeqs",
         "picture": "https://i.ytimg.com/vi/y10ObP2oeqs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728997200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】アニソン縛り！懐かしのアニソン歌います！！！カラオケJOYSOUND for STREAMER / SINGING STREAM【ホロライブ / AZKi】"
     },
     {
@@ -365,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sgu38pGoiSs",
         "picture": "https://i.ytimg.com/vi/sgu38pGoiSs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1728997200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Core Keeper】初めてのマルチコアキーパー【不知火フレア/兎田ぺこら/尾丸ポルカ/ホロライブ】"
     }
 ]
