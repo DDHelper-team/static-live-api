@@ -264,25 +264,14 @@
         "title": "【7 DAYS TO DIE】THE FINAL BONK. (finale) #holoEN"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5Q21-vJ6H58",
-        "picture": "https://i.ytimg.com/vi/5Q21-vJ6H58/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談＆お礼】スーパーすーぱーちゃお礼タイム！！【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6lfDKecsl6g",
         "picture": "https://i.ytimg.com/vi/6lfDKecsl6g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729015200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "It\u0026#39;s all OGRE now | PowerWash Simulator w/ @holoen_erbloodflame"
     },
     {
@@ -350,5 +339,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729076400,
         "title": "【三ツ星ファーム】ごはん革命です！実食レポあり！数量限定コラボセットあり！【アキロゼ/ホロライブ】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "experimental evil stream"
     }
 ]
