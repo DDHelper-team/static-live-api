@@ -277,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EmbwTwu-SVc",
-        "picture": "https://i.ytimg.com/vi/EmbwTwu-SVc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pDRujCXXtVQ",
+        "picture": "https://i.ytimg.com/vi/pDRujCXXtVQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TRIBE NINE】Grim Reaper Plays a Deadly New Action RPG?! #calliolive #sponsored"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729033200,
+        "title": "【7 DAYS TO DIE】THE FINAL BONK. (finale) #holoEN"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
