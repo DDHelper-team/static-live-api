@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GPLpPBNIFLs",
         "picture": "https://i.ytimg.com/vi/GPLpPBNIFLs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729116000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【EAT-TALK】ボクの朝は一杯のこ、ここコー、ひぃからは、は、ははじまる【ホロライブ / ロボ子さん】"
     },
     {
@@ -350,17 +350,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729119600,
         "title": "【Warhammer 40,000: Space Marine 2】ONWARDS, BROTHERS!"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qVWVvwloXpw",
-        "picture": "https://i.ytimg.com/vi/qVWVvwloXpw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】カード？あ、うちでは取り扱ってないのでお金だけ置いてってください。 / アステル"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
