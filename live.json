@@ -365,13 +365,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-y3itBXOYig",
         "picture": "https://i.ytimg.com/vi/-y3itBXOYig/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729083600,
-        "title": "【 Core Keeper 】深夜のコアキーパーはキマるんだゼィ 【猫又おかゆ視点/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Core Keeper 】深夜のコアキーパーはキマるんだゼィ 【猫又おかゆ視点/ #鳥獣ぎーが 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -398,35 +398,24 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mPShyZE6uaA",
         "picture": "https://i.ytimg.com/vi/mPShyZE6uaA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729083600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "イケメンかるたで遊びましょう！！！！【火威青×星街すいせい×宝鐘マリン×さくらみこ×風真いろは】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=X0QTG2DZ3uE",
         "picture": "https://i.ytimg.com/vi/X0QTG2DZ3uE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729083600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】無敵のカードドドSHOP 熱血！わため店！開店！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Supb3qkRd9A",
-        "picture": "https://i.ytimg.com/vi/Supb3qkRd9A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729083600,
-        "title": "【MemberOnly】映画同時視聴「天使にラブ・ソングを2」 #かなたんロードショー 【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -442,12 +431,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sTEBRUVYWfg",
         "picture": "https://i.ytimg.com/vi/sTEBRUVYWfg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729083600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 届いた】Alarmo開封【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -471,5 +460,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729087200,
         "title": "【雑談】福岡に帰っておりました！！！【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=40wAasE-KtI",
+        "picture": "https://i.ytimg.com/vi/40wAasE-KtI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729170000,
+        "title": "【輕鬆聊天】忙了一天辛苦了...❤️"
     }
 ]
