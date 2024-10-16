@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uLEyJNonnQw",
         "picture": "https://i.ytimg.com/vi/uLEyJNonnQw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729042200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#7DAYSTODIEHOLOEN COLLAB】final day for rabid zombie huntin\u0026#39; demon dogs 🐾 【FUWAMOCO POV】"
     },
     {
@@ -372,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729090800,
         "title": "【 ASMR 】癖になる良い音💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-kW3yPORx98",
+        "picture": "https://i.ytimg.com/vi/-kW3yPORx98/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729078200,
+        "title": "沉默之丘2 重製｜感冒回歸還是要打個幾棒發洩一下的吧！ Surfshark VPN贊助【Healing希靈/VTuber】"
     }
 ]
