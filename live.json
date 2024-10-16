@@ -431,12 +431,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=StUxzq-jMkg",
         "picture": "https://i.ytimg.com/vi/StUxzq-jMkg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729087200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】福岡に帰っておりました！！！【儒烏風亭らでん #ReGLOSS 】"
     },
     {
