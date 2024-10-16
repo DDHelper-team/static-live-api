@@ -409,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7PAMA5Vu_jU",
         "picture": "https://i.ytimg.com/vi/7PAMA5Vu_jU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729069200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【BIRTHDAY DONO READING】PART 2: INTERNET WON\u0026#39;T CUT US OFF THIS TIME【Kureiji Ollie】"
     },
     {
