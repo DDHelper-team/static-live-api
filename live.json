@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tCOkr5frwZ4",
         "picture": "https://i.ytimg.com/vi/tCOkr5frwZ4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729051200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Hollow Cocoon / ウツロマユ】More like Holo Cocoon"
     },
     {
@@ -394,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729072800,
         "title": "【コラボ】こよ！！！！！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=XdneOR7K2CA",
+        "picture": "https://i.ytimg.com/vi/XdneOR7K2CA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【アーカイブはメン限】プリンセス、作業通話の時間だよ【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
