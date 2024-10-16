@@ -354,13 +354,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OqqXHn8Velg",
-        "picture": "https://i.ytimg.com/vi/OqqXHn8Velg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YbNVU8GMQHU",
+        "picture": "https://i.ytimg.com/vi/YbNVU8GMQHU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #パトしいこよ 】晩酌オフコラボ～～～！！！マシュマロ募集中～～～！！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729159200,
+        "title": "【 SILENT HILL 2 】完全初見🌟最新リメイク版！裏病院から！！三角野郎には物理でいく👊 #2 【博衣こより/ホロライブ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -438,5 +438,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729083600,
         "title": "【MemberOnly】映画同時視聴「天使にラブ・ソングを2」 #かなたんロードショー 【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=58ZCXhcuP6E",
+        "picture": "https://i.ytimg.com/vi/58ZCXhcuP6E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729080000,
+        "title": "【スーパーマリオブラザーズ2】まったりゆっくり進めてこうよ【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sTEBRUVYWfg",
+        "picture": "https://i.ytimg.com/vi/sTEBRUVYWfg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729083600,
+        "title": "【 届いた】Alarmo開封【荒咬オウガ /ホロスターズ】"
     }
 ]
