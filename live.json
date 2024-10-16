@@ -264,17 +264,6 @@
         "title": "【Warhammer 40K: Space Marine】the emperor PROTECTS (my butt) #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LTrI8sMD1q0",
-        "picture": "https://i.ytimg.com/vi/LTrI8sMD1q0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#03【Core Keeper】初めてのマルチコアキーパー【不知火フレア/兎田ぺこら/尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -383,5 +372,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729166400,
         "title": "【 メン限同時視聴 】神アニメ「DEATH NOTE -デスノート-」を見る。32話~最終回【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "LIVE KARAOKE BY EVIL"
     }
 ]
