@@ -352,17 +352,6 @@
         "title": "【TCG Card Shop Simulator】今日はレアカード入荷（予定）ですよーっ！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sHPFhmzyIgs",
-        "picture": "https://i.ytimg.com/vi/sHPFhmzyIgs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【同時視聴】『ヴェノム/Venom』#ホロとヴェノム観ろ だ！！！！！！【赤井はあと/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -438,5 +427,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "ゲリラ歌枠（アーカイブはメン限）"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AYl_57W6J7E",
+        "picture": "https://i.ytimg.com/vi/AYl_57W6J7E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729224000,
+        "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     }
 ]
