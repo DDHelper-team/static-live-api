@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kaYOoiFwYS0",
         "picture": "https://i.ytimg.com/vi/kaYOoiFwYS0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729137600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Warhammer 40K: Space Marine】the emperor PROTECTS (my butt) #calliolive"
     },
     {
@@ -365,12 +365,34 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=A0dhHNr2FQI",
         "picture": "https://i.ytimg.com/vi/A0dhHNr2FQI/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Zetalk💬】My date with neechan \u0026amp; Cosplay Mania !! 【雑談】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sHPFhmzyIgs",
+        "picture": "https://i.ytimg.com/vi/sHPFhmzyIgs/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1729137600,
-        "title": "【Zetalk💬】My date with neechan \u0026amp; Cosplay Mania !!"
+        "timestamp": 1729155600,
+        "title": "【同時視聴】『ヴェノム/Venom』#ホロとヴェノム観ろ だ！！！！！！【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1vHnCQW4Yrg",
+        "picture": "https://i.ytimg.com/vi/1vHnCQW4Yrg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729213200,
+        "title": "ADVENT\u0026#39;S ON THE HUNT. | Phasmophobia"
     }
 ]
