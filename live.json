@@ -253,17 +253,6 @@
         "title": "【DICEOMANCER】we\u0026#39;re back to cards, but it\u0026#39;s different cards【Kaela Kovalskia / hololiveID】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kaYOoiFwYS0",
-        "picture": "https://i.ytimg.com/vi/kaYOoiFwYS0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Warhammer 40K: Space Marine】the emperor PROTECTS (my butt) #calliolive"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -317,17 +306,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729170000,
         "title": "【輕鬆聊天】忙了一天辛苦了...❤️"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=_qrW_LmFTsM",
-        "picture": "https://i.ytimg.com/vi/_qrW_LmFTsM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729166400,
-        "title": "【 メン限同時視聴 】神アニメ「DEATH NOTE -デスノート-」を見る。32話~最終回【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -387,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Kvy0xUUhAr0",
         "picture": "https://i.ytimg.com/vi/Kvy0xUUhAr0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729166400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【麻雀一番街】たすけて渋ハル！脱・初心者麻雀編【アキロゼ/ホロライブ】"
     },
     {
@@ -427,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729224000,
         "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dxiUhV7cZhU",
+        "picture": "https://i.ytimg.com/vi/dxiUhV7cZhU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729213200,
+        "title": "【PHASMOPHOBIA COLLAB】the true \u0026quot;don\u0026#39;t scream\u0026quot; challenge 🐾 #holoAdvent 【ANNOUNCEMENT】"
     }
 ]
