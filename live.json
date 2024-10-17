@@ -281,7 +281,7 @@
         "link": "https://www.youtube.com/watch?v=oueyLwDuAns",
         "picture": "https://i.ytimg.com/vi/oueyLwDuAns/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1729170000,
         "title": "【マリパ新作】ジャンボリーきちゃあああ！🚑🌲🍙👾【 #常MOS /ホロライブ 】"
     },
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=40wAasE-KtI",
         "picture": "https://i.ytimg.com/vi/40wAasE-KtI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729170000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【輕鬆聊天】忙了一天辛苦了...❤️"
     },
     {
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y6zvfBqy94k",
         "picture": "https://i.ytimg.com/vi/Y6zvfBqy94k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729170000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GeoGuessr】日本全国のハローマック跡地【ホロライブ / AZKi】"
     },
     {
@@ -376,24 +376,24 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8PTqfhoULh0",
         "picture": "https://i.ytimg.com/vi/8PTqfhoULh0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729170000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【縦雑談】最近色々ありすぎたことをお話する会🗯#shorts 【風真いろは/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=QQ9f2Li6KIw",
-        "picture": "https://i.ytimg.com/vi/QQ9f2Li6KIw/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729170000,
-        "title": "【メンバー限定】等身大（※当社比）ラミィでメン限雑談【 雪花ラミィ /ホロライブ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
