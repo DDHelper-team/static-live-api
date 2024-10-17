@@ -277,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=40wAasE-KtI",
-        "picture": "https://i.ytimg.com/vi/40wAasE-KtI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ob3iRCAR4bQ",
+        "picture": "https://i.ytimg.com/vi/ob3iRCAR4bQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【輕鬆聊天】忙了一天辛苦了...❤️"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729256400,
+        "title": "【企劃】㊙️哥布林退治任務🧟‍♂️🧟‍♂️🧟‍♂️"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729213200,
         "title": "【PHASMOPHOBIA COLLAB】the true \u0026quot;don\u0026#39;t scream\u0026quot; challenge 🐾 #holoAdvent 【ANNOUNCEMENT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bKWyMXNrUdY",
+        "picture": "https://i.ytimg.com/vi/bKWyMXNrUdY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729242000,
+        "title": "【Galaxy Burger】宇宙猫にハンバーガーを作って売るぞ【ホロライブ/大神ミオ】"
     }
 ]
