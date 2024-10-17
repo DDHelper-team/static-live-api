@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3gJni36eSgg",
         "picture": "https://i.ytimg.com/vi/3gJni36eSgg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729123200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "FALL IS HERE, LET\u0026#39;S GET 10K STEPS! | Let\u0026#39;s go for a walk 🎼"
     },
     {
@@ -317,17 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【BIRTHDAY DONO READING】PART 2: INTERNET WON\u0026#39;T CUT US OFF THIS TIME【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GPLpPBNIFLs",
-        "picture": "https://i.ytimg.com/vi/GPLpPBNIFLs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【EAT-TALK】ボクの朝は一杯のこ、ここコー、ひぃからは、は、ははじまる【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
