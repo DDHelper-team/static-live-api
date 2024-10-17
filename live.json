@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sHPFhmzyIgs",
         "picture": "https://i.ytimg.com/vi/sHPFhmzyIgs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729155600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】『ヴェノム/Venom』#ホロとヴェノム観ろ だ！！！！！！【赤井はあと/ホロライブ】"
     },
     {
@@ -394,5 +394,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729220400,
         "title": "【Powerwash Simulator】Get Your Shrek On With @MoriCalliope"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Kvy0xUUhAr0",
+        "picture": "https://i.ytimg.com/vi/Kvy0xUUhAr0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729166400,
+        "title": "【麻雀一番街】たすけて渋ハル！脱・初心者麻雀編【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8PTqfhoULh0",
+        "picture": "https://i.ytimg.com/vi/8PTqfhoULh0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729170000,
+        "title": "【縦雑談】最近色々ありすぎたことをお話する会🗯#shorts 【風真いろは/ホロライブ】"
     }
 ]
