@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AYl_57W6J7E",
         "picture": "https://i.ytimg.com/vi/AYl_57W6J7E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729224000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -365,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3Nzz07-7vlE",
         "picture": "https://i.ytimg.com/vi/3Nzz07-7vlE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729224000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#8【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
