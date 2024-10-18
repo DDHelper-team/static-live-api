@@ -288,23 +288,23 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YqSQvMKLLsM",
         "picture": "https://i.ytimg.com/vi/YqSQvMKLLsM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729213200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Phasmophobia】Ghost Hunting for Halloween with Advent"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1vHnCQW4Yrg",
         "picture": "https://i.ytimg.com/vi/1vHnCQW4Yrg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729213200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ADVENT\u0026#39;S ON THE HUNT. | Phasmophobia"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dxiUhV7cZhU",
         "picture": "https://i.ytimg.com/vi/dxiUhV7cZhU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729213200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PHASMOPHOBIA COLLAB】the true \u0026quot;don\u0026#39;t scream\u0026quot; challenge 🐾 #holoAdvent 【ANNOUNCEMENT】"
     },
     {
@@ -354,33 +354,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XTTZf2fXzDM",
         "picture": "https://i.ytimg.com/vi/XTTZf2fXzDM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729213200,
-        "title": "【SUPER MARIO PARTY JAMBOREE】Team Brawlpro Reunion【Dokibird】"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
         "status": "LIVE",
-        "title": "inscryption w/ vedal and neuro"
+        "timestamp": null,
+        "title": "【SUPER MARIO PARTY JAMBOREE】Team Brawlpro Reunion【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IJz_RFrIqdY",
         "picture": "https://i.ytimg.com/vi/IJz_RFrIqdY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729213200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Phasmophobia】Who you gonna call? ADVENT! + Announcement! #holoadvent"
     },
     {
@@ -393,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729220400,
         "title": "【Warhammer 40,000: Space Marine 2】Hammers in SPACE :o"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IFNr5Qd--qY",
+        "picture": "https://i.ytimg.com/vi/IFNr5Qd--qY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729220400,
+        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
