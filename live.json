@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5_ARp2VR6M4",
         "picture": "https://i.ytimg.com/vi/5_ARp2VR6M4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729279800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ASCENDANT】we did it bois, we got the sponsor【Dokibird】"
     },
     {
