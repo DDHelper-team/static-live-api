@@ -341,17 +341,6 @@
         "title": "ししらみ予定地（ホラー） 【獅白ぼたん・雪花ラミィ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3Nzz07-7vlE",
-        "picture": "https://i.ytimg.com/vi/3Nzz07-7vlE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#8【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729242000,
         "title": "【Apex Legends】SCARZCUP | マスターって勘違いされてないですよね？😅 【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tDVJHAopI7o",
+        "picture": "https://i.ytimg.com/vi/tDVJHAopI7o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729256400,
+        "title": "【】コラボの枠だよ！！！！【天音かなた/ホロライブ】"
     }
 ]
