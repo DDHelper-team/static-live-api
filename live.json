@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UD9mef82XNs",
         "picture": "https://i.ytimg.com/vi/UD9mef82XNs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729285200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CHAT】 WAKE UP IT\u0026#39;S TAKOTIME!!!!!!!!!!"
     },
     {
