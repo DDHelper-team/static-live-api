@@ -286,17 +286,6 @@
         "title": "【企劃】㊙️哥布林退治任務🧟‍♂️🧟‍♂️🧟‍♂️"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FrAGuMoLoEo",
-        "picture": "https://i.ytimg.com/vi/FrAGuMoLoEo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Powerwash Simulator】Get Your Shrek On With @MoriCalliope"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": true,
@@ -383,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729242000,
         "title": "【麻雀一番街】甘狼このみちゃんと麻雀練習するぞ！【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4DvSknkrLl8",
+        "picture": "https://i.ytimg.com/vi/4DvSknkrLl8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729252800,
+        "title": "【歌雜】輕輕的清唱一些歌的清唱歌回!!最近有點過敏，但還是跟大家唱唱歌聊聊天💙【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #歌回 #雜談"
     }
 ]
