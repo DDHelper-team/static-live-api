@@ -255,13 +255,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1XUSYVz_Cow",
-        "picture": "https://i.ytimg.com/vi/1XUSYVz_Cow/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wk2f4OyQPP0",
+        "picture": "https://i.ytimg.com/vi/wk2f4OyQPP0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 重大告知‼ 】2年以上調整してきたアレを遂に・・・！！！！！！！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729303200,
+        "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！はじまるぞおおお！！！ #1 【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -310,24 +310,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ysSeIBRC8N0",
         "picture": "https://i.ytimg.com/vi/ysSeIBRC8N0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729249200,
-        "title": "ししらみ予定地（ホラー） 【獅白ぼたん・雪花ラミィ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dA8pVOxqSyM",
-        "picture": "https://i.ytimg.com/vi/dA8pVOxqSyM/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#日本HP大決算祭り】 #しらけん #どろけん お値引き交渉会！ 結託した2企業VS世界的大企業のガチンコ勝負だ！【ホロライブ／猫又おかゆ／不知火フレア／尾丸ポルカ／鷹嶺ルイ】"
+        "title": "【鳴蟇村】ししらみは地図にない村へたどり着いたようです【獅白ぼたん・雪花ラミィ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -416,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729252800,
         "title": "【Lethal Company】珍しいメンツと久々のカンパニー【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hsd0Loi9nZw",
+        "picture": "https://i.ytimg.com/vi/hsd0Loi9nZw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729253700,
+        "title": "【歌枠】新曲リリースしたよ！！- ハニカムステーション！-157【HACHI 】"
     }
 ]
