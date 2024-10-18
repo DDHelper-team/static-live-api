@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1XUSYVz_Cow",
         "picture": "https://i.ytimg.com/vi/1XUSYVz_Cow/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729245600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 重大告知‼ 】2年以上調整してきたアレを遂に・・・！！！！！！！【博衣こより/ホロライブ】"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dA8pVOxqSyM",
         "picture": "https://i.ytimg.com/vi/dA8pVOxqSyM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729245600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#日本HP大決算祭り】 #しらけん #どろけん お値引き交渉会！ 結託した2企業VS世界的大企業のガチンコ勝負だ！【ホロライブ／猫又おかゆ／不知火フレア／尾丸ポルカ／鷹嶺ルイ】"
     },
     {
@@ -416,5 +416,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729256400,
         "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xHHBr_m0FNI",
+        "picture": "https://i.ytimg.com/vi/xHHBr_m0FNI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729252800,
+        "title": "【Lethal Company】珍しいメンツと久々のカンパニー【hololive ID 2nd Generation | Anya Melfissa】"
     }
 ]
