@@ -319,17 +319,6 @@
         "title": "【Galaxy Burger】宇宙猫にハンバーガーを作って売るぞ【ホロライブ/大神ミオ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JHAvJLpxC4U",
-        "picture": "https://i.ytimg.com/vi/JHAvJLpxC4U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Warhammer 40,000: Space Marine 2】Hammers in SPACE :o"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729256400,
         "title": "【】コラボの枠だよ！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4WNwIdWw5bY",
+        "picture": "https://i.ytimg.com/vi/4WNwIdWw5bY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729256400,
+        "title": "【MEMBER ONLY】映画/MOVIE『最強のふたり/Intouchables』を同時視聴🎬🍿【ホロライブ / ロボ子さん】"
     }
 ]
