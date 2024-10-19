@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=P6azuA0Y3Yo",
         "picture": "https://i.ytimg.com/vi/P6azuA0Y3Yo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729337400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#歌うまスンギ歌枠リレー】荷が重い略してニモ、私ファインディング✊ / アステル・レダ"
     },
     {
@@ -449,5 +449,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729346438,
         "title": "【歌枠】ただいも~うたうど~♫【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dFNfHjoBQ8k",
+        "picture": "https://i.ytimg.com/vi/dFNfHjoBQ8k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729342800,
+        "title": "【TCG Card Shop Simulator】200万円↑のカードを引きたい！【不知火フレア/ホロライブ】"
     }
 ]
