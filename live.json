@@ -354,13 +354,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mbwVca7DT2g",
         "picture": "https://i.ytimg.com/vi/mbwVca7DT2g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729346400,
-        "title": "配信予定～～～～～！！！なにしちゃお～っ【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠】気分はカラオケ🎵本当に５億年ぶりの歌【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ApLvOp4D5zY",
         "picture": "https://i.ytimg.com/vi/ApLvOp4D5zY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729346438,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】ただいも~うたうど~♫【緋月ゆい/ネオポルテ】"
     },
     {
@@ -398,13 +398,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yMAz78jtdAA",
         "picture": "https://i.ytimg.com/vi/yMAz78jtdAA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729346400,
-        "title": "【配信予定地】【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】深夜にみんなに会いたくなった。【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -416,5 +416,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729393200,
         "title": "【 ヨッシーアイランド 】ママの意識芽生え...ません！！！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=J-UxNxp7jKQ",
+        "picture": "https://i.ytimg.com/vi/J-UxNxp7jKQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729375200,
+        "title": "【ゼルダの伝説 知恵のかりもの】語尾はゴロ暮らしはじめます！#6【角巻わため/ホロライブ４期生】"
     }
 ]
