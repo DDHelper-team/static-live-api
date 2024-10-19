@@ -288,13 +288,13 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jg6fpvXZFow",
         "picture": "https://i.ytimg.com/vi/jg6fpvXZFow/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729342800,
-        "title": "【#猛獸派對 】ˊ真真實實的猛獸派對廝殺！完全無人類的存在！ft. Ori、 Maru、Lucy【#遊戲個人勢 / Fingla】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#猛獸派對 】真真實實的猛獸派對廝殺！完全無人類的存在！ft. Ori、 Maru、Lucy【#遊戲個人勢 / Fingla】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zS8D9MHOyqA",
         "picture": "https://i.ytimg.com/vi/zS8D9MHOyqA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729342800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】金木犀の香りで鼻がつまる。 sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
@@ -366,12 +366,12 @@
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=w89LmoqRDJM",
-        "picture": "https://i.ytimg.com/vi/w89LmoqRDJM/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729342800,
-        "title": "【メン限】同時視聴　ドラえもん のび太の海底鬼岩城【荒咬オウガ /ホロスターズ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -398,12 +398,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dFNfHjoBQ8k",
         "picture": "https://i.ytimg.com/vi/dFNfHjoBQ8k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729342800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】200万円↑のカードを引きたい！【不知火フレア/ホロライブ】"
     }
 ]
