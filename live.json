@@ -297,17 +297,6 @@
         "title": "【 ＋で重大告知アリ！】ultra cuteなボクの新衣装お披露目だああああああ【ホロライブ / ロボ子さん】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VbhFgrMxHns",
-        "picture": "https://i.ytimg.com/vi/VbhFgrMxHns/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SILENT HILL 2】still looking for my dead wife【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": false,
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RHnd5g1BO20",
         "picture": "https://i.ytimg.com/vi/RHnd5g1BO20/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729307700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#RedBullHomeGround 2024 APAC Qualifier ミラー配信！【獅白ぼたん/ホロライブ】"
     },
     {
@@ -416,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729310400,
         "title": "【VRChat - holoAquarium】ZENYA Visits Ame\u0026#39;s holoAquarium World!【hololive ID | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=A4sgqYT24MA",
+        "picture": "https://i.ytimg.com/vi/A4sgqYT24MA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729339200,
+        "title": "【 スーパーマリオブラザーズ ワンダー 】完全初見！ゲーム下手のマリオ実況｜#01【 雪花ラミィ /ホロライブ】"
     }
 ]
