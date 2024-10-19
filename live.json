@@ -332,13 +332,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=J-UxNxp7jKQ",
         "picture": "https://i.ytimg.com/vi/J-UxNxp7jKQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729375200,
-        "title": "【ゼルダの伝説 知恵のかりもの】語尾はゴロ暮らしはじめます！#6【角巻わため/ホロライブ４期生】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ゼルダの伝説 知恵のかりもの】語尾にゴロ暮らしはじめます！#6【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -361,5 +361,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【HALO: REACH】The Good Guys Are Here to Win !!!"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xPuxLegsYxo",
+        "picture": "https://i.ytimg.com/vi/xPuxLegsYxo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729396800,
+        "title": "【GOODNIGHT DRAGOONS #7】fishing edition【Dokibird】"
     }
 ]
