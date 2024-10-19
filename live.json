@@ -319,17 +319,6 @@
         "title": "【DARK SOULS III】suffering is imminent (part 7) #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dFNfHjoBQ8k",
-        "picture": "https://i.ytimg.com/vi/dFNfHjoBQ8k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】200万円↑のカードを引きたい！【不知火フレア/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -365,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LILQVZb9uSk",
         "picture": "https://i.ytimg.com/vi/LILQVZb9uSk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729371600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HALO: REACH】The Good Guys Are Here to Win !!!"
     }
 ]
