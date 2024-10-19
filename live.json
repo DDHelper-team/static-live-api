@@ -418,17 +418,6 @@
         "title": "配信予定～～～～～！！！なにしちゃお～っ【ホロライブ/紫咲シオン】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=q7osZZe6naE",
-        "picture": "https://i.ytimg.com/vi/q7osZZe6naE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】最強かわいいアイドル曲うたう！♡【赤井はあと/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "islive": false,
@@ -449,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729382400,
         "title": "【DARK SOULS III】suffering is imminent (part 7) #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ApLvOp4D5zY",
+        "picture": "https://i.ytimg.com/vi/ApLvOp4D5zY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729346438,
+        "title": "【歌枠】ただいも~うたうど~♫【緋月ゆい/ネオポルテ】"
     }
 ]
