@@ -354,13 +354,13 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0iUVbzHjJx4",
         "picture": "https://i.ytimg.com/vi/0iUVbzHjJx4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729324800,
-        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "マシュマロ回答＆ぷち告知【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -394,5 +394,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ペーパーマリオRPG】ハート10縛りペパマリリメイク　7つ目のスターストーン＆最後まで！#07【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=gGi-wzv-sT0",
+        "picture": "https://i.ytimg.com/vi/gGi-wzv-sT0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 TCG Card Shop Simulator 】 カドショ777でカードを買ったら彼女ができました！【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iEvzmOWFmVc",
+        "picture": "https://i.ytimg.com/vi/iEvzmOWFmVc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729328400,
+        "title": "【 料理 】突然ですが、クッキーの作り方を伝授します🍪　#ござのせ【風真いろは/ホロライブ】"
     }
 ]
