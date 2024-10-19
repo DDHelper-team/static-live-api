@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VbhFgrMxHns",
         "picture": "https://i.ytimg.com/vi/VbhFgrMxHns/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729296000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】still looking for my dead wife【Dokibird】"
     },
     {
@@ -317,17 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729303200,
         "title": "【 きっと 】起きたいさくらみこ【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UD9mef82XNs",
-        "picture": "https://i.ytimg.com/vi/UD9mef82XNs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CHAT】 WAKE UP IT\u0026#39;S TAKOTIME!!!!!!!!!!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -405,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729332000,
         "title": "【麻雀一番街】第5回HP麻雀杯めざせ優勝！【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4_S1bn4i0i0",
+        "picture": "https://i.ytimg.com/vi/4_S1bn4i0i0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729382400,
+        "title": "The English Voice of Anya Forger | Interviewing @18moptop"
     }
 ]
