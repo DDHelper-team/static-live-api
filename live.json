@@ -308,17 +308,6 @@
         "title": "【SILENT HILL 2】still looking for my dead wife【Dokibird】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-wagxC_Ghms",
-        "picture": "https://i.ytimg.com/vi/-wagxC_Ghms/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 起床チャレンジ 】起きて告知もしたいさくらみこ VS 睡魔 VS MV公開までの時間【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": false,
@@ -416,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729324800,
         "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aNjgicTuo9Q",
+        "picture": "https://i.ytimg.com/vi/aNjgicTuo9Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729310400,
+        "title": "【VRChat - holoAquarium】ZENYA Visits Ame\u0026#39;s holoAquarium World!【hololive ID | Anya Melfissa】"
     }
 ]
