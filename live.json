@@ -358,8 +358,19 @@
         "link": "https://www.youtube.com/watch?v=GuFsPzDouCc",
         "picture": "https://i.ytimg.com/vi/GuFsPzDouCc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1729368000,
         "title": "【STRINOVA SUPERSTRING INVITATIONAL】day 2【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iGYiJVHA8xs",
+        "picture": "https://i.ytimg.com/vi/iGYiJVHA8xs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729396800,
+        "title": "【 最高額並走 】カードショップ店長同士の熱き戦い～最高額カード並走対決～【#フブみこさん】"
     }
 ]
