@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NJv2RfCyxss",
         "picture": "https://i.ytimg.com/vi/NJv2RfCyxss/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729425600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Crime Scene Cleaner 】殺人現場の証拠を消して証拠隠滅する。【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=71Irc8sHVNA",
         "picture": "https://i.ytimg.com/vi/71Irc8sHVNA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729425617,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼンレスゾーンゼロ】完全初見！遂にこの時が来た🔥【緋月ゆい/ネオポルテ】"
     },
     {
@@ -374,25 +374,14 @@
         "title": "【雑談/Free Talk】マイクラにスト6に案件にValoに麻雀に振り返りざつだーん！【アキロゼ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=qt1cDP9u-cU",
-        "picture": "https://i.ytimg.com/vi/qt1cDP9u-cU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729425600,
-        "title": "【 Run Pizza Run 】治安が悪すぎる街でピザ配達員やるにぇ！！！！！！！🍕【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=m6S-jRAuNWg",
         "picture": "https://i.ytimg.com/vi/m6S-jRAuNWg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729425600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SING🎤】NO ARCHIVE KARAOKEEEEEEE【ホロライブ / ロボ子さん】"
     },
     {
@@ -416,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729429200,
         "title": "#04【Core Keeper】拠点発展しすぎてて草ぁ【不知火フレア/兎田ぺこら/尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u0Mf_aZGUMg",
+        "picture": "https://i.ytimg.com/vi/u0Mf_aZGUMg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729512000,
+        "title": "【歌枠 / Singing】ただいま！いろんなお知らせとかはさみながら歌うよ！！【#新人vtuber 】"
     }
 ]
