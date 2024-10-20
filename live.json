@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n9buwSighsQ",
         "picture": "https://i.ytimg.com/vi/n9buwSighsQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729389600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！キーリカ寺院出るとこから！！！ #2 【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
@@ -284,17 +284,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729332000,
         "title": "【#フワモコパ3D COLLAB】耳が幸せになる3Dコラボ✨️ guaranteed happy ears for all ruffians 🐾💓 【ホロライブ/FUWAMOCO/周防パトラ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4_S1bn4i0i0",
-        "picture": "https://i.ytimg.com/vi/4_S1bn4i0i0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "The English Voice of Anya Forger | Interviewing @18moptop"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729396800,
         "title": "【GOODNIGHT DRAGOONS #7】fishing edition【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yUDBCoDLSKU",
+        "picture": "https://i.ytimg.com/vi/yUDBCoDLSKU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729393200,
+        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
