@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iGYiJVHA8xs",
         "picture": "https://i.ytimg.com/vi/iGYiJVHA8xs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729396800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 最高額並走 】カードショップ店長同士の熱き戦い～最高額カード並走対決～【#フブみこさん】"
     },
     {
@@ -325,7 +325,7 @@
         "link": "https://www.youtube.com/watch?v=xPuxLegsYxo",
         "picture": "https://i.ytimg.com/vi/xPuxLegsYxo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1729396800,
         "title": "【GOODNIGHT DRAGOONS #7】fishing edition【Dokibird】"
     },
@@ -361,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729432800,
         "title": "【雑談＆お礼】159万人ありがとう！ぱんかいしようっ🥂【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qfih0r0sq0c",
+        "picture": "https://i.ytimg.com/vi/qfih0r0sq0c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729483200,
+        "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　7日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     }
 ]
