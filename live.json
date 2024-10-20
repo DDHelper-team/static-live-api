@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hKcN7nvTVCo",
         "picture": "https://i.ytimg.com/vi/hKcN7nvTVCo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729423800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "沉默之丘2 重製｜打打聊聊 Surfshark VPN贊助【Healing希靈/VTuber】"
     },
     {
