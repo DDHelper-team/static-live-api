@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=W4X0tkahvgY",
         "picture": "https://i.ytimg.com/vi/W4X0tkahvgY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729432800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】159万人ありがとう！ぱんかいしようっ🥂【角巻わため/ホロライブ４期生】"
     },
     {
@@ -396,17 +396,6 @@
         "title": "【歌枠 / Singing】ただいま！いろんなお知らせとかはさみながら歌うよ！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=T65Ct4b1Myk",
-        "picture": "https://i.ytimg.com/vi/T65Ct4b1Myk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "酒は飲んでも飲まれるな【火威青×音乃瀬奏 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": true,
@@ -431,13 +420,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VPZb2ykMJYo",
         "picture": "https://i.ytimg.com/vi/VPZb2ykMJYo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729432800,
-        "title": "【FREE TALK】寝る前のざつーな雑談！【赤井はあと/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【FREE TALK】ふぅ・・・・・・・・・・・。【赤井はあと/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
