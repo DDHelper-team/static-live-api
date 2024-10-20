@@ -314,20 +314,9 @@
         "link": "https://www.youtube.com/watch?v=tUKPLiHeC1w",
         "picture": "https://i.ytimg.com/vi/tUKPLiHeC1w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1729393200,
         "title": "【 ヨッシーアイランド 】ママの意識芽生え...ません！！！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=J-UxNxp7jKQ",
-        "picture": "https://i.ytimg.com/vi/J-UxNxp7jKQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゼルダの伝説 知恵のかりもの】語尾にゴロ暮らしはじめます！#6【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -354,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yUDBCoDLSKU",
         "picture": "https://i.ytimg.com/vi/yUDBCoDLSKU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729393200,
-        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#いらすとやチャレンジ】この最強コンテンツ、参加させてください！！！！！！！！！！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
