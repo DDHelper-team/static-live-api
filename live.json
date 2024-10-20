@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4_S1bn4i0i0",
         "picture": "https://i.ytimg.com/vi/4_S1bn4i0i0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729382400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "The English Voice of Anya Forger | Interviewing @18moptop"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=igxBI_NhoEs",
         "picture": "https://i.ytimg.com/vi/igxBI_NhoEs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729382400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS III】suffering is imminent (part 7) #calliolive"
     },
     {
@@ -350,17 +350,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729396800,
         "title": "【 最高額並走 】カードショップ店長同士の熱き戦い～最高額カード並走対決～【#フブみこさん】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LILQVZb9uSk",
-        "picture": "https://i.ytimg.com/vi/LILQVZb9uSk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HALO: REACH】The Good Guys Are Here to Win !!!"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
