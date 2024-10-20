@@ -308,17 +308,6 @@
         "title": "【DARK SOULS III】suffering is imminent (part 7) #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=tUKPLiHeC1w",
-        "picture": "https://i.ytimg.com/vi/tUKPLiHeC1w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1729393200,
-        "title": "【 ヨッシーアイランド 】ママの意識芽生え...ません！！！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -350,5 +339,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#いらすとやチャレンジ】この最強コンテンツ、参加させてください！！！！！！！！！！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=tUKPLiHeC1w",
+        "picture": "https://i.ytimg.com/vi/tUKPLiHeC1w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 ヨッシーアイランド 】ママの意識芽生え...ません！！！【 領国つかさ / すぺしゃりて 】"
     }
 ]
