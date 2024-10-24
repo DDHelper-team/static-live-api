@@ -121,16 +121,6 @@
         "title": "【 #おにかん1ブロック 】果たして1ブロックの世界で生き延びることはできるのか⁉【百鬼あやめ/鷹嶺ルイ/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "Vedal\u0026#39;s Original Twitch Streams Title"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -173,5 +163,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【OHAPOL】#116 10/25金曜日！だいすきだいすき無限にる～ぷの【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oVNMR8RfSDU",
+        "picture": "https://i.ytimg.com/vi/oVNMR8RfSDU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729810800,
+        "title": "【EAT-TALK】沢山動いたボクの朝は早い☀【ホロライブ / ロボ子さん】"
     }
 ]
