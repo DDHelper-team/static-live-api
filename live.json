@@ -55,17 +55,6 @@
         "title": "hololive English Racing, with some new tunes 🎶 | Assetto Corsa Competizione"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-hUOgBQSRXE",
-        "picture": "https://i.ytimg.com/vi/-hUOgBQSRXE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "\u0026#39;You\u0026#39;re Nuts\u0026#39; They Said. No, I\u0026#39;m a Squirrel. With a Gun.【Squirrel with a Gun】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oVNMR8RfSDU",
         "picture": "https://i.ytimg.com/vi/oVNMR8RfSDU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729810800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【EAT-TALK】沢山動いたボクの朝は早い☀【ホロライブ / ロボ子さん】"
     },
     {
@@ -185,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729821600,
         "title": "【Assetto Corsa Competizione】I got the ZOOMIES"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ja6j6pYJKX8",
+        "picture": "https://i.ytimg.com/vi/ja6j6pYJKX8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729821600,
+        "title": "【HOLOEN RACE】 KIRIN BEHIND THE WHEEL"
     }
 ]
