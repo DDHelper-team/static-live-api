@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=s5KGsPTgwq4",
         "picture": "https://i.ytimg.com/vi/s5KGsPTgwq4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729846800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【マリパ新作】ソロマリパ🍙色々遊んでみよう🔥【 猫又おかゆ /ホロライブ 】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AL7j1JBgIoI",
         "picture": "https://i.ytimg.com/vi/AL7j1JBgIoI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729846800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 GTAV 】ストーリーモードがあるらしいのでやってみるよ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -174,5 +174,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729864800,
         "title": "【ASMR/TAKIBI】焚き火しながら、AZKiとお話しませんか？【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wqoBzTPbzv0",
+        "picture": "https://i.ytimg.com/vi/wqoBzTPbzv0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729857600,
+        "title": "【#4】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EAdzJhgVdFg",
+        "picture": "https://i.ytimg.com/vi/EAdzJhgVdFg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729864800,
+        "title": "配信予定～～～～～～～！！！にゃんにゃん【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UwEjWQfFYjE",
+        "picture": "https://i.ytimg.com/vi/UwEjWQfFYjE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729859400,
+        "title": "【Core Keeper】GRAONDSTONE Grinding!"
     }
 ]
