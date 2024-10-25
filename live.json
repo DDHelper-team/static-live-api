@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=64JKDe5RmHY",
         "picture": "https://i.ytimg.com/vi/64JKDe5RmHY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729832400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS III】Gutslliope\u0026#39;s Last Stand Against MEAN Dragons (finale) #calliolive"
     },
     {
@@ -119,5 +119,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729908000,
         "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！アルベドのあの作戦後から・・・！！！ #3 【博衣こより/ホロライブ】【ネタバレあり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AL7j1JBgIoI",
+        "picture": "https://i.ytimg.com/vi/AL7j1JBgIoI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729846800,
+        "title": "【 GTAV 】ストーリーモードがあるらしいのでやってみるよ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
