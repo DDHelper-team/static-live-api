@@ -51,7 +51,7 @@
         "picture": "https://i.ytimg.com/vi/LRDoPqLdwas/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1729818000,
+        "timestamp": 1729821600,
         "title": "hololive English Racing, with some new tunes 🎶 | Assetto Corsa Competizione"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=m0wgXmcBhw4",
         "picture": "https://i.ytimg.com/vi/m0wgXmcBhw4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729814400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HUNIEPOP】i thought it was pg-13 game...【Dokibird】"
     },
     {
@@ -143,17 +143,6 @@
         "title": "【Assetto Corsa Competizione】 Her Best"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oVNMR8RfSDU",
-        "picture": "https://i.ytimg.com/vi/oVNMR8RfSDU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【EAT-TALK】沢山動いたボクの朝は早い☀【ホロライブ / ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -174,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729821600,
         "title": "【HOLOEN RACE】 KIRIN BEHIND THE WHEEL"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-UwgYAh6FQ0",
+        "picture": "https://i.ytimg.com/vi/-UwgYAh6FQ0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729904400,
+        "title": "Junji Ito Is the God Of This World, You\u0026#39;re Doomed【World of Horror】"
     }
 ]
