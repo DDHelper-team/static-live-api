@@ -242,17 +242,6 @@
         "title": "#3【SILENT HILL 2】WE ARE SO BACK (SPOILER WARNING)【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -284,5 +273,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Frostpunk2 】都市を運営して氷河期を乗り越えろ！【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BPEa7zu4baI",
+        "picture": "https://i.ytimg.com/vi/BPEa7zu4baI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729926000,
+        "title": "【】ふなぁ(・o・🍬)【姫森ルーナ/ホロライブ】"
     }
 ]
