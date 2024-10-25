@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hI-yCUbrwE4",
-        "picture": "https://i.ytimg.com/vi/hI-yCUbrwE4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sbxatzFvzn0",
+        "picture": "https://i.ytimg.com/vi/sbxatzFvzn0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #おにかん1ブロック 】果たして1ブロックの世界で生き延びることはできるのか⁉【百鬼あやめ/鷹嶺ルイ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729911600,
+        "title": "【 ドラクエⅩ 】完全初見。オフライン版！新たな旅に出るぞ✨しゅっぱーつ！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kdNOgAn5T4A",
         "picture": "https://i.ytimg.com/vi/kdNOgAn5T4A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729864800,
-        "title": "【ギャルゲ】赤井はあとさんを攻略・・・！？【赤井はあと/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ギャルゲ】何やらヤバい予感・・・【赤井はあと/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -123,35 +123,24 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bpxeC3ijNNo",
         "picture": "https://i.ytimg.com/vi/bpxeC3ijNNo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729864800,
-        "title": "【ASMR/TAKIBI】焚き火しながら、AZKiとお話しませんか？【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wqoBzTPbzv0",
-        "picture": "https://i.ytimg.com/vi/wqoBzTPbzv0/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#4】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】"
+        "title": "【ASMR/TAKIBI】焚き火しながら、AZKiとお話しませんか？【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EAdzJhgVdFg",
         "picture": "https://i.ytimg.com/vi/EAdzJhgVdFg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729864800,
-        "title": "配信予定～～～～～～～！！！にゃんにゃん【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】お話しよ～～～っ！！お出かけした話とか・・・！【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z3ZTEPLFqfs",
         "picture": "https://i.ytimg.com/vi/Z3ZTEPLFqfs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729864800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】なんかラジオみたいなトーク　第一回【荒咬オウガ  アール/Aru】"
     },
     {
@@ -196,17 +185,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729936800,
         "title": "【Eggy Party】花岸で新作パーティーゲーム!!視聴者対戦もするぞ!!!!!!【花咲みやび/岸堂天真/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8xg4-O9XMWk",
-        "picture": "https://i.ytimg.com/vi/8xg4-O9XMWk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Liar\u0026#39;s Bar 】参加型デスゲーム🔥ファンと命を賭けた熱き決闘者達の闘い！！【白上フブキ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -267,12 +245,12 @@
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=cizdxVbME4o",
-        "picture": "https://i.ytimg.com/vi/cizdxVbME4o/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729864800,
-        "title": "【MemberOnly】作業しながら話すぞ！！！！【天音かなた/ホロライブ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -295,5 +273,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "スパチャ読みタイム！！！！！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=T3oOkKkq34g",
+        "picture": "https://i.ytimg.com/vi/T3oOkKkq34g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Frostpunk2 】都市を運営して氷河期を乗り越えろ！【ホロライブ/沙花叉クロヱ】"
     }
 ]
