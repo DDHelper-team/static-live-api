@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hI-yCUbrwE4",
         "picture": "https://i.ytimg.com/vi/hI-yCUbrwE4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729854000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #おにかん1ブロック 】果たして1ブロックの世界で生き延びることはできるのか⁉【百鬼あやめ/鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -211,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dwF2WkuIlYI",
         "picture": "https://i.ytimg.com/vi/dwF2WkuIlYI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729854000,
-        "title": "20時にかえってこれたら20時開始だあああああああああああああああああああああ！"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Liar\u0026#39;s Bar】視聴者と命を懸けたギャンブルや！！！！！"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -249,7 +249,7 @@
         "picture": "https://i.ytimg.com/vi/58NUMBbV9m8/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1729854000,
+        "timestamp": 1729855800,
         "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
