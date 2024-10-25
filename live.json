@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=w7o0EnX6I_8",
         "picture": "https://i.ytimg.com/vi/w7o0EnX6I_8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729879200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Voice Mimicry Show】professional animal imitator gives it a go #kfp #キアライブ"
     },
     {
@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UwEjWQfFYjE",
-        "picture": "https://i.ytimg.com/vi/UwEjWQfFYjE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UJa-g4zOnNQ",
+        "picture": "https://i.ytimg.com/vi/UJa-g4zOnNQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Core Keeper】GRAONDSTONE Grinding!"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729908000,
+        "title": "【SONIC X SHADOW GENERATIONS】GOTTA GO FAST!!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
