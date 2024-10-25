@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4joCcbXPwzE",
         "picture": "https://i.ytimg.com/vi/4joCcbXPwzE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729859400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#底特律變人 】我們今天不當小白虎，要當個人！【#遊戲個人勢 / Fingla】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9s9Js3Hb7DI",
         "picture": "https://i.ytimg.com/vi/9s9Js3Hb7DI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729859400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Core Keeper】#1 WE MINING?!【GRAONDSTONE】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UwEjWQfFYjE",
         "picture": "https://i.ytimg.com/vi/UwEjWQfFYjE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729859400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Core Keeper】GRAONDSTONE Grinding!"
     },
     {
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729944000,
         "title": "【告知あり】可愛く歌って可愛く告知するよ♡【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PG65bvZBWvU",
+        "picture": "https://i.ytimg.com/vi/PG65bvZBWvU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729922400,
+        "title": "【STREET FIGHTER 6】Tokyo Online Party 2024 Autumn 3on3　🏆 w/立川、梅原【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LdUSITeGlxM",
+        "picture": "https://i.ytimg.com/vi/LdUSITeGlxM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729915200,
+        "title": "【SUPER METROID】完全初見でレッツゴー😸#01｜ trial and error gameplay!【 猫又おかゆ/ホロライブ 】"
     }
 ]
