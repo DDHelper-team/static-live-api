@@ -244,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=58NUMBbV9m8",
         "picture": "https://i.ytimg.com/vi/58NUMBbV9m8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729855800,
-        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "ご機嫌！な配信【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8xg4-O9XMWk",
         "picture": "https://i.ytimg.com/vi/8xg4-O9XMWk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729855800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】参加型デスゲーム🔥ファンと命を賭けた熱き決闘者達の闘い！！【白上フブキ/ホロライブ】"
     }
 ]
