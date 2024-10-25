@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=25-hbClcExY",
         "picture": "https://i.ytimg.com/vi/25-hbClcExY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729857600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D配信】カラオケで叩き出した点数分だけ告知するぞっ！【#ホロ3期生3D採点カラオケ】"
     },
     {
@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p7Rc5E9ZXGU",
         "picture": "https://i.ytimg.com/vi/p7Rc5E9ZXGU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729857600,
-        "title": "【主題雜談】跟大家聊一堆擇偶觀還有分享經驗談💙歡迎掛台聽【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #歌回 #雜談"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【主題雜談】跟大家聊一堆擇偶觀還有分享經驗談💙歡迎掛台聽【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎  #雜談"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wqoBzTPbzv0",
         "picture": "https://i.ytimg.com/vi/wqoBzTPbzv0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729857600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#4】とらドラ！同時視聴 / Toradora watching party【ホロライブ/大空スバル】"
     },
     {
@@ -231,17 +231,6 @@
         "title": "【Eggy Party】花岸で新作パーティーゲーム!!視聴者対戦もするぞ!!!!!!【花咲みやび/岸堂天真/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=58NUMBbV9m8",
-        "picture": "https://i.ytimg.com/vi/58NUMBbV9m8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ご機嫌！な配信【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": true,
@@ -251,5 +240,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】参加型デスゲーム🔥ファンと命を賭けた熱き決闘者達の闘い！！【白上フブキ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GD8eKVWFen4",
+        "picture": "https://i.ytimg.com/vi/GD8eKVWFen4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729861200,
+        "title": "【 #APEX 】リスナーさん参加○！APEXプレイ！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NDjFyV2ruH4",
+        "picture": "https://i.ytimg.com/vi/NDjFyV2ruH4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729944000,
+        "title": "【告知あり】可愛く歌って可愛く告知するよ♡【ホロライブ/夏色まつり】"
     }
 ]
