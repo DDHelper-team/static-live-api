@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LdUSITeGlxM",
         "picture": "https://i.ytimg.com/vi/LdUSITeGlxM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729915200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SUPER METROID】完全初見でレッツゴー😸#01｜ trial and error gameplay!【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DmIqJapLNEk",
         "picture": "https://i.ytimg.com/vi/DmIqJapLNEk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729915200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロライブ甲子園 】#2 かなターン高校、福留孝介リセマラ耐久その２！！！！！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vdFgpH_QEhY",
         "picture": "https://i.ytimg.com/vi/vdFgpH_QEhY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729915200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#12】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eqVaIlDV7Tg",
         "picture": "https://i.ytimg.com/vi/eqVaIlDV7Tg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729915200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラゴンクエストII】最終回！？ロンダルキア制覇する！！！！ part4 ※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】"
     },
     {
@@ -277,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5XzzAeGG09I",
         "picture": "https://i.ytimg.com/vi/5XzzAeGG09I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729915200,
-        "title": "【弱すぎるRPG】まったりそろぺくすだ～【緋月ゆい/ネオポルテ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【弱すぎるRPG】おれはよわくない【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
@@ -339,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729947600,
         "title": "【歌枠】第１１６回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nxRH-HaGjLk",
+        "picture": "https://i.ytimg.com/vi/nxRH-HaGjLk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729917000,
+        "title": "【UNARCHIVED歌枠】i drink a mixture of ethanol and water and sing before i"
     }
 ]
