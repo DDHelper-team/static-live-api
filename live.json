@@ -1,25 +1,14 @@
 [
     {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5EtNWY_gf_4",
-        "picture": "https://i.ytimg.com/vi/5EtNWY_gf_4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KU100/ASMR】真の癒し手となるため、あなたのお力をお貸しいただきたいのです…【#けもりふ新衣装 #猫羽かりん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=krv8lepVLL0",
-        "picture": "https://i.ytimg.com/vi/krv8lepVLL0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=I3lPnvLHMT0",
+        "picture": "https://i.ytimg.com/vi/I3lPnvLHMT0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第21～25話【鷹嶺ルイ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730007000,
+        "title": "【 天皇賞(秋) 】3週連続3連単的中なるか⁉遂に来た秋の天皇賞！！！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -306,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730023200,
         "title": "【Eggy Party】え…！？らでんにゲーム案件を…！？！？視聴者参加タイムあります！！with奏【儒烏風亭らでん /ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UtfnOkMtVec",
+        "picture": "https://i.ytimg.com/vi/UtfnOkMtVec/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730026800,
+        "title": "【WATCH PARTY #HOKCHAMPIONSHIP】Honor of Kings Championship, #IOLLIE Commentary!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gFWRNduoUaQ",
+        "picture": "https://i.ytimg.com/vi/gFWRNduoUaQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730023200,
+        "title": "【OFF COLLAB】ラオーラママと空想料理「ピザバーグ」作ってみたーい！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
