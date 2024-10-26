@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5EtNWY_gf_4",
         "picture": "https://i.ytimg.com/vi/5EtNWY_gf_4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729951200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】真の癒し手となるため、あなたのお力をお貸しいただきたいのです…【#けもりふ新衣装 #猫羽かりん】"
     },
     {
@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OEuThe8EPQM",
         "picture": "https://i.ytimg.com/vi/OEuThe8EPQM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729951200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Legend of Zelda Echoes of Wisdom】sadly, this is the end ;; unlemons your oshi #kfp"
     },
     {
@@ -97,17 +97,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730023200,
         "title": "【 Eggy Party / 参加型あり 】1位は奏だ！！おまえら、かかってこいやー！視聴者対戦【音乃瀬奏 / ホロライブ】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OaHR03MaG6M",
-        "picture": "https://i.ytimg.com/vi/OaHR03MaG6M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SILENT HILL 2 - 03】初見でサイレントヒルに遊びに行くのじゃ！【ネタバレ注意】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730026800,
         "title": "【案件】新作の「ソニック × シャドウ ジェネレーションズ」２人で遊んでみるぞ～！【#ふたりは神様MaxDOG】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=fvIoREW2O2I",
+        "picture": "https://i.ytimg.com/vi/fvIoREW2O2I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Planet Coaster 】次回作出る前に遊園地完成させちゃうぞ～～！！！ 【ホロライブ/沙花叉クロヱ】"
     }
 ]
