@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=A8j3oY6SIM4",
         "picture": "https://i.ytimg.com/vi/A8j3oY6SIM4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729924200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオブラザーズ ワンダー 】完全初見！ゲーム下手のマリオ実況｜#02【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -365,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UK7x8JMCUzQ",
         "picture": "https://i.ytimg.com/vi/UK7x8JMCUzQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729923300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】参加型デスゲーム🔥今回もキメさせていただきます！！！【白上フブキ/ホロライブ】"
     }
 ]
