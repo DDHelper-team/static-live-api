@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sbxatzFvzn0",
-        "picture": "https://i.ytimg.com/vi/sbxatzFvzn0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=krv8lepVLL0",
+        "picture": "https://i.ytimg.com/vi/krv8lepVLL0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ 】完全初見。オフライン版！新たな旅に出るぞ✨しゅっぱーつ！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729944000,
+        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第21～25話【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -88,17 +88,6 @@
         "title": "【STREET FIGHTER 6】Tokyo Online Party 2024 Autumn 3on3　🏆 w/立川、梅原【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LdUSITeGlxM",
-        "picture": "https://i.ytimg.com/vi/LdUSITeGlxM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SUPER METROID】完全初見でレッツゴー😸#01｜ trial and error gameplay!【 猫又おかゆ/ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -108,17 +97,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 TCG Card Shop Simulator 】カード初心者によるカードショップOPENなのら！！！【姫森ルーナ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DmIqJapLNEk",
-        "picture": "https://i.ytimg.com/vi/DmIqJapLNEk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロライブ甲子園 】#2 かなターン高校、福留孝介リセマラ耐久その２！！！！！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -249,7 +227,7 @@
         "picture": "https://i.ytimg.com/vi/ceTUY5uCGzg/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1729933200,
+        "timestamp": 1729936800,
         "title": "【体験談】ICL手術受けてきたから忌憚なき感想を述べる【ホロライブ/大神ミオ】"
     },
     {
@@ -273,17 +251,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729947600,
         "title": "【歌枠】第１１６回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nxRH-HaGjLk",
-        "picture": "https://i.ytimg.com/vi/nxRH-HaGjLk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVED歌枠】i drink a mixture of ethanol and water and sing before i"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
@@ -332,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
         "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OaHR03MaG6M",
         "picture": "https://i.ytimg.com/vi/OaHR03MaG6M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729933200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2 - 03】初見でサイレントヒルに遊びに行くのじゃ！【ネタバレ注意】"
     },
     {
