@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BPEa7zu4baI",
         "picture": "https://i.ytimg.com/vi/BPEa7zu4baI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729926000,
-        "title": "【】ふなぁ(・o・🍬)【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 TCG Card Shop Simulator 】カード初心者によるカードショップOPENなのら！！！【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eqVaIlDV7Tg",
-        "picture": "https://i.ytimg.com/vi/eqVaIlDV7Tg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dpnP3vIjPu0",
+        "picture": "https://i.ytimg.com/vi/dpnP3vIjPu0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドラゴンクエストII】最終回！？ロンダルキア制覇する！！！！ part4 ※ネタバレあり【#一条莉々華 #hololive DEV_IS #ReGLOSS】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729936800,
+        "title": "【#holoIndie 応援大使🎮】東京ゲームダンジョン出展記念 応援配信！【#一条莉々華 / ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xf9F6S22N5s",
         "picture": "https://i.ytimg.com/vi/xf9F6S22N5s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729926000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 GTAV #2 】ストーリーモードがあるらしいのでやってみるよ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -383,5 +383,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729933200,
         "title": "【SILENT HILL 2 - 03】初見でサイレントヒルに遊びに行くのじゃ！【ネタバレ注意】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=VlVLkxM3tIM",
+        "picture": "https://i.ytimg.com/vi/VlVLkxM3tIM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【MHW:IB】アルバトリオンリベンジャーズ【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mck1WaaCkGw",
+        "picture": "https://i.ytimg.com/vi/mck1WaaCkGw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729936800,
+        "title": "セル編から【ドラゴンボール Sparking! ZERO】ついにスパーキングゼロを始める！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
