@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mVmWmkHltak",
         "picture": "https://i.ytimg.com/vi/mVmWmkHltak/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729931400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チラ見せ枠】さくらみこ1st Live \u0026quot;flower fantasista!\u0026quot;【#咲き誇るみこち】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VglB34-53cY",
         "picture": "https://i.ytimg.com/vi/VglB34-53cY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729931400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CONCERT WATCHALONG】MIKO-SENPAI\u0026#39;S 𝓕𝓵𝓸𝔀𝓮𝓻 𝓕𝓪𝓷𝓽𝓪𝓼𝓲𝓼𝓽𝓪! IN FULL BLOOM!!🌸🌸🌸 #咲き誇るみこち 【Kureiji Ollie】"
     },
     {
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1729936800,
         "title": "セル編から【ドラゴンボール Sparking! ZERO】ついにスパーキングゼロを始める！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qQslsX2hLuw",
+        "picture": "https://i.ytimg.com/vi/qQslsX2hLuw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729951200,
+        "title": "【メン限／ASMR】早めのハッピーハロウィン♡ミイラノエちゃんがキミを骨抜きにしちゃうゾ👻💕【白銀ノエル/ホロライブ】"
     }
 ]
