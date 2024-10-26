@@ -328,5 +328,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【UNARCHIVED歌枠】i drink a mixture of ethanol and water and sing before i"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CXG4SRUDdi8",
+        "picture": "https://i.ytimg.com/vi/CXG4SRUDdi8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729947600,
+        "title": "【メン限】せっかくなのでASMR【荒咬オウガ /ホロスターズ】"
     }
 ]
