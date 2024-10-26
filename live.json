@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=h-3qa-TeMfY",
         "picture": "https://i.ytimg.com/vi/h-3qa-TeMfY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729940400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園 】こんこよ高校育成！1年目夏大会いくぞ！！！ #2 【博衣こより/ホロライブ】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bBYpuJ_4Vow",
         "picture": "https://i.ytimg.com/vi/bBYpuJ_4Vow/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729940400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Huel - 完全栄養食 -】ほぉん。私が大きくなった理由-ワケ-を紹介します。/ アステル・レダ"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8hfkI1GxkxE",
         "picture": "https://i.ytimg.com/vi/8hfkI1GxkxE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729940413,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#第３回ネオポルテ学力テスト】同時視聴📹️後輩の学力を見守る！【緋月ゆい/ネオポルテ】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mck1WaaCkGw",
         "picture": "https://i.ytimg.com/vi/mck1WaaCkGw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729940400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "セル編から【ドラゴンボール Sparking! ZERO】ついにスパーキングゼロを始める！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -354,12 +354,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ceTUY5uCGzg",
         "picture": "https://i.ytimg.com/vi/ceTUY5uCGzg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729940400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【体験談】ICL手術受けてきたから忌憚なき感想を述べる【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MRG85pSEwo8",
+        "picture": "https://i.ytimg.com/vi/MRG85pSEwo8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730026800,
+        "title": "塔羅占卜#75｜來來來！阿靈師要來幫你改運了！別說話🔮✨🦊【Healing希靈/VTuber75】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6L2gbCxjKjY",
+        "picture": "https://i.ytimg.com/vi/6L2gbCxjKjY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729947600,
+        "title": "【スプラトゥーン3】ハロウィンフェス🎃「忍者」陣営！ﾆﾝﾆﾝ【不知火フレア/ホロライブ】"
     }
 ]
