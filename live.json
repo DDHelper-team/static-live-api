@@ -253,17 +253,6 @@
         "title": "【メン限】せっかくなのでASMR【荒咬オウガ /ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nyrgf7YA0Uo",
-        "picture": "https://i.ytimg.com/vi/nyrgf7YA0Uo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VALORANT】そろそろイモ目指すか【 奏手イヅル / ホロスターズ 】"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": true,
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730001600,
         "title": "【SUPER METROID】完全初見でレッツゴー😸#02｜ trial and error gameplay!【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UvjToUw5EOY",
+        "picture": "https://i.ytimg.com/vi/UvjToUw5EOY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729998000,
+        "title": "【雑談】日曜日のランチタイム雑談！ご飯食べながらお話しする【 雪花ラミィ /ホロライブ】"
     }
 ]
