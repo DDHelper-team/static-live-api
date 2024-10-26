@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nxRH-HaGjLk",
         "picture": "https://i.ytimg.com/vi/nxRH-HaGjLk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729917900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED歌枠】i drink a mixture of ethanol and water and sing before i"
     }
 ]
