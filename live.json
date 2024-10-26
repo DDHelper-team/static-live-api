@@ -233,24 +233,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LZY4zazJSzM",
-        "picture": "https://i.ytimg.com/vi/LZY4zazJSzM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O4CsZ3FNrfE",
+        "picture": "https://i.ytimg.com/vi/O4CsZ3FNrfE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】TOPにテリーで挑む男with 如月れんくん＆takera ガイル村？【アルランディス/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729944000,
+        "title": "【メンバー限定】みんなで一緒に映画見よう会10月で紳士を学ぼう編【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5XzzAeGG09I",
-        "picture": "https://i.ytimg.com/vi/5XzzAeGG09I/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8hfkI1GxkxE",
+        "picture": "https://i.ytimg.com/vi/8hfkI1GxkxE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【弱すぎるRPG】おれはよわくない【緋月ゆい/ネオポルテ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729940413,
+        "title": "【#第３回ネオポルテ学力テスト】同時視聴📹️後輩の学力を見守る！【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
@@ -372,5 +372,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】参加型デスゲーム🔥今回もキメさせていただきます！！！【白上フブキ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
+        "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OaHR03MaG6M",
+        "picture": "https://i.ytimg.com/vi/OaHR03MaG6M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1729933200,
+        "title": "【SILENT HILL 2 - 03】初見でサイレントヒルに遊びに行くのじゃ！【ネタバレ注意】"
     }
 ]
