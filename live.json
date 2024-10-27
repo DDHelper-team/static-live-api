@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mdM7wJOtCR4",
         "picture": "https://i.ytimg.com/vi/mdM7wJOtCR4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730008800,
-        "title": "【スト6】クラシック初心者のベガコーチング！コーチ：ぷげら先生【獅白ぼたん/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スト6】クラシック初心者のベガコーチング！コーチ：ぷげら先生（ｷｬﾍﾞﾂ）【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -238,7 +238,7 @@
         "picture": "https://i.ytimg.com/vi/HGBjVcfOncg/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730008800,
+        "timestamp": 1730012400,
         "title": "【OMUSUBI | お結び】Hell\u0026#39;s Edge\u0026#39;s Got a Lot of Interesting Things【hololive ID | Anya Melfissa】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730023200,
         "title": "【ホラゲー 近畿霊務局】おばけを返り討ちにできるって聞いたんですけど！！！！！！【一条莉々華/ホロライブ hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=swbDPJ1_XVk",
+        "picture": "https://i.ytimg.com/vi/swbDPJ1_XVk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730026800,
+        "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～初めてプレイします～【ホロライブ/ときのそら】"
     }
 ]
