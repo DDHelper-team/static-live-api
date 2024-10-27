@@ -77,17 +77,6 @@
         "title": "【WATCH PARTY #HOKCHAMPIONSHIP】Championship! Wow! ( ˶°ㅁ°) !!【 #IOLLIE 】"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QJ9N6mC3qCY",
-        "picture": "https://i.ytimg.com/vi/QJ9N6mC3qCY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【3.0 REVEAL SHOWCASE】 They gave me too much power #zecretlive"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": true,
@@ -97,17 +86,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～初めてプレイします～【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8OMAMpqxAY4",
-        "picture": "https://i.ytimg.com/vi/8OMAMpqxAY4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#底特律變人 】仿生虎上線！劇情太讚了【#遊戲個人勢 / Fingla】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -123,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vgyhNlz09Oc",
         "picture": "https://i.ytimg.com/vi/vgyhNlz09Oc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730037600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】参加型🔥首振りで騙る…ボクとキミの命を懸けた真剣勝負…ろぼしゃー；；？【ホロライブ / ロボ子さん】"
     },
     {
@@ -244,12 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vuFR7ZdyVX0",
         "picture": "https://i.ytimg.com/vi/vuFR7ZdyVX0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730037600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends 】リベンジチェック枠【律可/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=hp2H_S4NOts",
+        "picture": "https://i.ytimg.com/vi/hp2H_S4NOts/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "月曜日が来るから飲酒するゲリラ雑談【轟はじめ/ReGLOSS】"
     }
 ]
