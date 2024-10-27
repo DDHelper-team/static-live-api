@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zP_tsYYDU90",
         "picture": "https://i.ytimg.com/vi/zP_tsYYDU90/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730032200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【  #トリックオアトリート歌枠リレー  】甘いのもかっこいいのも僕におまかせあれ！！！【#TanZ 】"
     },
     {
@@ -64,17 +64,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "２ヶ月ぶりのエレクトーン練習で癒されるがいいのら！！！🎶 Playing the Electone【姫森ルーナ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3iCdAOhJR9g",
-        "picture": "https://i.ytimg.com/vi/3iCdAOhJR9g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【案件】新作の「ソニック × シャドウ ジェネレーションズ」２人で遊んでみるぞ～！【#ふたりは神様MaxDOG】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -328,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730034000,
         "title": "【縦型歌枠】久々縦型配信だゅ🐰【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E1rJAMfV-m0",
+        "picture": "https://i.ytimg.com/vi/E1rJAMfV-m0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730034000,
+        "title": "メン限ちょい話すべ！！！！心弱めなのでちゅうい！"
     }
 ]
