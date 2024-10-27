@@ -3,12 +3,12 @@
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=I3lPnvLHMT0",
-        "picture": "https://i.ytimg.com/vi/I3lPnvLHMT0/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=v47T35w8PfI",
+        "picture": "https://i.ytimg.com/vi/v47T35w8PfI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 天皇賞(秋) 】3週連続3連単的中なるか⁉遂に来た秋の天皇賞！！！！！【鷹嶺ルイ/ホロライブ】"
+        "title": "【 ドラクエⅩ 】完全初見。オフライン版！Ⅹのストーリーおもしろすぎる…【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HGBjVcfOncg",
         "picture": "https://i.ytimg.com/vi/HGBjVcfOncg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730012400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OMUSUBI | お結び】Hell\u0026#39;s Edge\u0026#39;s Got a Lot of Interesting Things【hololive ID | Anya Melfissa】"
     },
     {
@@ -273,5 +273,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【CATAN】この配信中に世界ランク500位以内になれる可能性がある。【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8OMAMpqxAY4",
+        "picture": "https://i.ytimg.com/vi/8OMAMpqxAY4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730019600,
+        "title": "【#底特律變人 】仿生虎上線！劇情太讚了【#遊戲個人勢 / Fingla】"
     }
 ]
