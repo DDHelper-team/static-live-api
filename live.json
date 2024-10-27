@@ -143,17 +143,6 @@
         "title": "【TCG Card Shop Simulator】Malam Malam Brewek【Ayunda Risu】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=q53XRqXfNg4",
-        "picture": "https://i.ytimg.com/vi/q53XRqXfNg4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#RFN4】顔合わせ！いつもの奴らとはじめましての奴ら！REJECT FIGHT NIGHT Round4🔥STREET FIGHTER 6ラプラス・ダークネス/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "islive": true,
@@ -196,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730106000,
         "title": "【はいしんよていち】1時間枠！終わったら裏でAZKi先輩見守ります！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=L-ozBGkW3vQ",
+        "picture": "https://i.ytimg.com/vi/L-ozBGkW3vQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730073600,
+        "title": "【PEJUANG SENIN】#87 October is almost over~【Kaela\u0026#39;s Monday Warrior】"
     }
 ]
