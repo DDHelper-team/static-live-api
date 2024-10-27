@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=v47T35w8PfI",
-        "picture": "https://i.ytimg.com/vi/v47T35w8PfI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1u95JA9jiTI",
+        "picture": "https://i.ytimg.com/vi/1u95JA9jiTI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ 】完全初見。オフライン版！Ⅹのストーリーおもしろすぎる…【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730026800,
+        "title": "【 同時視聴/Watchalong 】マリン先輩と『ヴェノム/Venom』観る✨ #ホロとヴェノム観ろ【宝鐘マリン/鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -42,17 +42,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730026800,
         "title": "塔羅占卜#75｜來來來！阿靈師要來幫你改運了！別說話🔮✨🦊【Healing希靈/VTuber75】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jA-FCP_3hjM",
-        "picture": "https://i.ytimg.com/vi/jA-FCP_3hjM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロライブ甲子園 】#3 リセマラ最終回！！！かなターン高校、福留孝介耐久！！！！！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -187,17 +176,6 @@
         "title": "【WATCH PARTY #HOKCHAMPIONSHIP】Championship! Wow! ( ˶°ㅁ°) !!【 #IOLLIE 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HGBjVcfOncg",
-        "picture": "https://i.ytimg.com/vi/HGBjVcfOncg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OMUSUBI | お結び】Hell\u0026#39;s Edge\u0026#39;s Got a Lot of Interesting Things【hololive ID | Anya Melfissa】"
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
         "islive": false,
@@ -317,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730034000,
         "title": "【 #咲き誇るみこち 】ソロライブありがとうございました！衣装お披露目＆アニメMV裏話もするにぇ～～～～～～～！！！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KSNBJNOasmQ",
+        "picture": "https://i.ytimg.com/vi/KSNBJNOasmQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730030400,
+        "title": "【KH:BBS】エンディングまで駆け抜けます!!【花咲みやび/ホロスターズ】「ネタバレあり」"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jlhH-oBCjpk",
+        "picture": "https://i.ytimg.com/vi/jlhH-oBCjpk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730026800,
+        "title": "【 Planet Coaster 】進捗最高です！次回作までにパークを完成させたい！ 【ホロライブ/沙花叉クロヱ】"
     }
 ]
