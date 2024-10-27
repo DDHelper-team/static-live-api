@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zZhyeaw148k",
         "picture": "https://i.ytimg.com/vi/zZhyeaw148k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729998000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪3D PERFORMANCE LIVE≫ #CHU2BAE"
     },
     {
@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UvjToUw5EOY",
         "picture": "https://i.ytimg.com/vi/UvjToUw5EOY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729998000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】日曜日のランチタイム雑談！ご飯食べながらお話しする【 雪花ラミィ /ホロライブ】"
     },
     {
