@@ -143,17 +143,6 @@
         "title": "【WATCH PARTY #HOKCHAMPIONSHIP】Honor of Kings Championship, #IOLLIE Commentary!!【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=23aq4bY3NqQ",
-        "picture": "https://i.ytimg.com/vi/23aq4bY3NqQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#13】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730068200,
         "title": "【 #朝ミオ 】月曜日だよ～！おはみぉーん！珍しくゲストが来ます・・！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XYW5gy3Jl7c",
+        "picture": "https://i.ytimg.com/vi/XYW5gy3Jl7c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730026800,
+        "title": "【 歌枠】今日は縦型でちょっとチルめ。【白上フブキ/ホロライブ】"
     }
 ]
