@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=whZV-gCagLM",
         "picture": "https://i.ytimg.com/vi/whZV-gCagLM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729994400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！いざマカラーニャ寺院へ！！！ #4 【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
@@ -253,17 +253,6 @@
         "title": "【 SILENT HILL 2 】完全初見！恐怖の名作ホラー、サイレントヒル  #1【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9_Ue4fOMNP8",
-        "picture": "https://i.ytimg.com/vi/9_Ue4fOMNP8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Mouthwashing】 The strange, unsettling horror game where you drink mouthwash to survive"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "islive": false,
@@ -273,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730030400,
         "title": "【オフコラボ】正解しないとたべれません🍪 #ホロ都道府県クッキーバトル 🔥フワモコ姉妹バトル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dZv24WImdqw",
+        "picture": "https://i.ytimg.com/vi/dZv24WImdqw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730030400,
+        "title": "【WATCH PARTY #HOKCHAMPIONSHIP】Championship! Wow! ( ˶°ㅁ°) !!【 #IOLLIE 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HGBjVcfOncg",
+        "picture": "https://i.ytimg.com/vi/HGBjVcfOncg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730008800,
+        "title": "【OMUSUBI | お結び】Hell\u0026#39;s Edge\u0026#39;s Got a Lot of Interesting Things【hololive ID | Anya Melfissa】"
     }
 ]
