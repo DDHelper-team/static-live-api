@@ -110,17 +110,6 @@
         "title": "【 #咲き誇るみこち 】ソロライブありがとうございました！衣装お披露目＆アニメMV裏話もするにぇ～～～～～～～！！！【ホロライブ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KSNBJNOasmQ",
-        "picture": "https://i.ytimg.com/vi/KSNBJNOasmQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KH:BBS】エンディングまで駆け抜けます!!【花咲みやび/ホロスターズ】「ネタバレあり」"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "islive": true,
@@ -196,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730120400,
         "title": "【周杰倫歌回】搶到票了嗎...? 你猜猜看我有沒有搶到呢 😲"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qsUWeTOZ690",
+        "picture": "https://i.ytimg.com/vi/qsUWeTOZ690/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730106000,
+        "title": "【はいしんよていち】1時間枠！終わったら裏でAZKi先輩見守ります！【博衣こより/ホロライブ】"
     }
 ]
