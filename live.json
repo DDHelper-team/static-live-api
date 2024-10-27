@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aO9Te463qBQ",
         "picture": "https://i.ytimg.com/vi/aO9Te463qBQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729987200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "What\u0026#39;s waiting in the fog? | Silent Hill 2 [SPOILERS]"
     },
     {
@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5E908_-hs5M",
         "picture": "https://i.ytimg.com/vi/5E908_-hs5M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729990800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】美味しいもの is 人生！ホロメンとご飯に行った話などなど！【白銀ノエル/ホロライブ】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_u3DCrz8nQk",
         "picture": "https://i.ytimg.com/vi/_u3DCrz8nQk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1729990800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VISAGE】scariest game ever vs. scarediest dogs ever 🐾 【FUWAMOCO】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Mouthwashing】 The strange, unsettling horror game where you drink mouthwash to survive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JgOwJ7m89Lk",
+        "picture": "https://i.ytimg.com/vi/JgOwJ7m89Lk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730030400,
+        "title": "【オフコラボ】正解しないとたべれません🍪 #ホロ都道府県クッキーバトル 🔥フワモコ姉妹バトル"
     }
 ]
