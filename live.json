@@ -13,24 +13,24 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FwBt4ipaYZ8",
         "picture": "https://i.ytimg.com/vi/FwBt4ipaYZ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730023200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園 】こんこよ高校育成！1年目秋大会いくぞ！！！ #3 【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cOLIHmzyGhs",
         "picture": "https://i.ytimg.com/vi/cOLIHmzyGhs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730023200,
-        "title": "【 Eggy Party / 参加型あり 】1位は奏だ！！おまえら、かかってこいやー！視聴者対戦【音乃瀬奏 / ホロライブ】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Eggy Party / 参加型あり 】1位は奏だ！！おまえら、かかってこいやー！@JuufuuteiRaden 【音乃瀬奏 / ホロライブ】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ydqdcQ5vYhU",
         "picture": "https://i.ytimg.com/vi/ydqdcQ5vYhU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730023200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Eggy Party】え…！？らでんにゲーム案件を…！？！？視聴者参加タイムあります！！with奏【儒烏風亭らでん /ホロライブ 】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xL4cilP4plc",
         "picture": "https://i.ytimg.com/vi/xL4cilP4plc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730023200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホラゲー 近畿霊務局】おばけを返り討ちにできるって聞いたんですけど！！！！！！【一条莉々華/ホロライブ hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730026800,
         "title": "【VALHEIM】#限界コントRUST 北欧神話の世界で海賊生活始めます！Part4【ホロライブ/アキロゼ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=96MMOXYNWJ4",
+        "picture": "https://i.ytimg.com/vi/96MMOXYNWJ4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730034000,
+        "title": "【 #咲き誇るみこち 】ソロライブありがとうございました！衣装お披露目＆アニメMV裏話もするにぇ～～～～～～～！！！【ホロライブ/さくらみこ】"
     }
 ]
