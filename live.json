@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XQ2gCtm_UbU",
         "picture": "https://i.ytimg.com/vi/XQ2gCtm_UbU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730088000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　9日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
