@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ADp94K0mb7k",
         "picture": "https://i.ytimg.com/vi/ADp94K0mb7k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730206800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 PLATEUP! 】MEMPERERAT TALI PERSAHABATAN, APA IYA?【 iofi / hololiveID 】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LPXSAT7P6iU",
         "picture": "https://i.ytimg.com/vi/LPXSAT7P6iU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730205000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～わたしは強くなる～【ホロライブ/ときのそら】"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730289600,
         "title": "【 Buckshot Roulette 】４人対戦先行プレイ！命を賭けたロシアンルーレット！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=U7n4rdtJBj0",
+        "picture": "https://i.ytimg.com/vi/U7n4rdtJBj0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730207700,
+        "title": "#4【SILENT HILL 2】ANTI FOG FOG CLUB (SPOILER WARNING)【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
