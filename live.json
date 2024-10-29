@@ -194,6 +194,17 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Bravo Kojima"
+        "title": null
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BRSyG87xGUI",
+        "picture": "https://i.ytimg.com/vi/BRSyG87xGUI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730239200,
+        "title": "【Pikmin 2】 oh no! the pikmin are dying! | #5"
     }
 ]
