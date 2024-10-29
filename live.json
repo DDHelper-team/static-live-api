@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z7ET_2aB6Hw",
         "picture": "https://i.ytimg.com/vi/Z7ET_2aB6Hw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730232000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Squirrel Haunts Suburban Neighborhood to Nut Hunt【Squirrel with a Gun】"
     },
     {
@@ -194,6 +194,6 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "ZX48 has my Plushy"
+        "title": "Bravo Kojima"
     }
 ]
