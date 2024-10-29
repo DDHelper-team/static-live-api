@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=45oMaNvc3XM",
-        "picture": "https://i.ytimg.com/vi/45oMaNvc3XM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ABFm2cZldPQ",
+        "picture": "https://i.ytimg.com/vi/ABFm2cZldPQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Don\u0026#39;t Starve Together】ANOTHER ONE!!!【Moona Hoshinova】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730242800,
+        "title": "【Gartic Phone】Gambar apa hari ini?【Moona Hoshinova】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wiWEqsOmFw8",
         "picture": "https://i.ytimg.com/vi/wiWEqsOmFw8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730224800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【INSCRYPTION】idk is this scary? #kfp #キアライブ"
     },
     {
