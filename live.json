@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eOMchCevDKk",
-        "picture": "https://i.ytimg.com/vi/eOMchCevDKk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=L_QtEaksU3k",
+        "picture": "https://i.ytimg.com/vi/L_QtEaksU3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOMELO RADIO】Episode 5- Special Guest, Elizabeth Rose Bloodflame! #shorts #radio"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730253600,
+        "title": "【Red Dead Redemption】Howdy John, It\u0026#39;s Been a While... #calliolive"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -28,7 +28,7 @@
         "link": "https://www.youtube.com/watch?v=uLrepm7Zc4s",
         "picture": "https://i.ytimg.com/vi/uLrepm7Zc4s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1730214000,
         "title": "ASMR｜超·深入舔耳貫穿腦部融化❤️｜Licking Mouth sounds Trigger sounds｜耳舐め 【KU100／黑3DIO】"
     },
@@ -165,17 +165,6 @@
         "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～わたしは強くなる～【ホロライブ/ときのそら】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=b_mZwui-I54",
-        "picture": "https://i.ytimg.com/vi/b_mZwui-I54/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】10月がそろそろ終わる。 sing and talk【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -244,12 +233,23 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zwqio8K7y90",
         "picture": "https://i.ytimg.com/vi/zwqio8K7y90/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730214000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】耳ふぅとはむはむでお耳ぽかぽか🔥ぐっすり安眠できちゃう♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O9V_EFbgpKQ",
+        "picture": "https://i.ytimg.com/vi/O9V_EFbgpKQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730300400,
+        "title": "フリーチャットだよ！ ▼ free chat room"
     }
 ]
