@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9lCLp35gE1o",
-        "picture": "https://i.ytimg.com/vi/9lCLp35gE1o/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MR7IVHuZM3Y",
+        "picture": "https://i.ytimg.com/vi/MR7IVHuZM3Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【沙威瑪傳奇】Last結局...快來看看最狠的客製化達人🥵"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730293200,
+        "title": "【雜談】100人打招呼挑戰❤️ 快來跟我說安安😍"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -185,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730300400,
         "title": "フリーチャットだよ！ ▼ free chat room"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qriXMkPxajo",
+        "picture": "https://i.ytimg.com/vi/qriXMkPxajo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730286000,
+        "title": "【Gartic Phone】Drawing Masterpieces With the ID Girls!【hololive ID 2nd Generation | Anya Melfissa】"
     }
 ]
