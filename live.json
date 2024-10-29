@@ -33,17 +33,6 @@
         "title": "Squirrel Haunts Suburban Neighborhood to Nut Hunt【Squirrel with a Gun】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mUWLsC0zyNc",
-        "picture": "https://i.ytimg.com/vi/mUWLsC0zyNc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、育成開始！1年目春～ #2【ホロライブ / AZKi】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -134,11 +123,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=U7n4rdtJBj0",
         "picture": "https://i.ytimg.com/vi/U7n4rdtJBj0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "#4【SILENT HILL 2】ANTI FOG FOG CLUB (SPOILER WARNING)【Pavolia Reine/hololiveID 2nd gen】"
     },
@@ -152,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730242800,
         "title": "【PANICORE】Two are brave...Two are not..."
-    },
-    {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zwqio8K7y90",
-        "picture": "https://i.ytimg.com/vi/zwqio8K7y90/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KU100/ASMR】耳ふぅとはむはむでお耳ぽかぽか🔥ぐっすり安眠できちゃう♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -185,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730286000,
         "title": "【Gartic Phone】Drawing Masterpieces With the ID Girls!【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NyN92Xor8Wo",
+        "picture": "https://i.ytimg.com/vi/NyN92Xor8Wo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730286000,
+        "title": "【GARTIC PHONE】JIWA KITA DIMASUKIN KE KARYA CUAAKS~ #holoIDJiwaKarya【Kureiji Ollie】"
     }
 ]
