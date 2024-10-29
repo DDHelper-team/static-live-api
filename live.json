@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9yExZ90wGfs",
         "picture": "https://i.ytimg.com/vi/9yExZ90wGfs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730199600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズ】「モンスターハンターワイルズ」オープンベータテストやるぞおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jutSKCUawfU",
         "picture": "https://i.ytimg.com/vi/jutSKCUawfU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730199600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Monster Hunter Wilds Open Beta Test 】モンスターの尻がかわいい【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730206800,
         "title": "【 -`🎙 歌枠/Singing 】10月がそろそろ終わる。 sing and talk【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=nE1ChJh3_XM",
+        "picture": "https://i.ytimg.com/vi/nE1ChJh3_XM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【LIARS BAR】ロシアンルーレットが大好きな人達を集めました【#unplan 影山シエン/律可/花咲みやび/アルランディス】"
     }
 ]
