@@ -22,25 +22,14 @@
         "title": "【Red Dead Redemption】Howdy John, It\u0026#39;s Been a While... #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Z7ET_2aB6Hw",
-        "picture": "https://i.ytimg.com/vi/Z7ET_2aB6Hw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Squirrel Haunts Suburban Neighborhood to Nut Hunt【Squirrel with a Gun】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OOnpBYGll7U",
         "picture": "https://i.ytimg.com/vi/OOnpBYGll7U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730242800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PANICORE】EARLY MORNING HORROR LETSGO【hololive】"
     },
     {
@@ -72,7 +61,7 @@
         "link": "https://www.youtube.com/watch?v=ABFm2cZldPQ",
         "picture": "https://i.ytimg.com/vi/ABFm2cZldPQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1730242800,
         "title": "【Gartic Phone】Gambar apa hari ini?【Moona Hoshinova】"
     },
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mlmaxB9EoBs",
         "picture": "https://i.ytimg.com/vi/mlmaxB9EoBs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730242800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PANICORE】Two are brave...Two are not..."
     },
     {
@@ -185,16 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730289600,
         "title": "【スーパーマリオパーティ ジャンボリー】もうひとりパーティじゃない！！４人パーティ！！【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
-        "avatar": null,
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "Bravo Kojima"
     },
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
