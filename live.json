@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TR_rzJ7OKSc",
-        "picture": "https://i.ytimg.com/vi/TR_rzJ7OKSc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eeQG1A6QN84",
+        "picture": "https://i.ytimg.com/vi/eeQG1A6QN84/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゼルダの伝説 知恵のかりもの】昼活暮らしでサブクエ生活はじめます！#8【角巻わため/ホロライブ４期生】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730203200,
+        "title": "【スーパー マリオパーティ ジャンボリー】ノエフレししわたでジャンボリ！ジャンボリ！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730196000,
         "title": "【歌枠】ハロウィンもうすぐだ！！早いね！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jutSKCUawfU",
+        "picture": "https://i.ytimg.com/vi/jutSKCUawfU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730199600,
+        "title": "【 Monster Hunter Wilds Open Beta Test 】モンスターの尻がかわいい【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=c_opIiH16PA",
+        "picture": "https://i.ytimg.com/vi/c_opIiH16PA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730206800,
+        "title": "【映画同時視聴】20世紀少年-最終章-ぼくらの旗【 雪花ラミィ /ホロライブ】"
     }
 ]
