@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nnlKxn7slAg",
         "picture": "https://i.ytimg.com/vi/nnlKxn7slAg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730230200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNRAVEL 2】im gonna cut the rope【Dokibird】"
     },
     {
@@ -187,13 +187,13 @@
         "title": "【スーパーマリオパーティ ジャンボリー】もうひとりパーティじゃない！！４人パーティ！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "vedal stinky"
+        "title": "ZX48 has my Plushy"
     }
 ]
