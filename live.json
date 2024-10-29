@@ -79,24 +79,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BUX2HaQNgH4",
-        "picture": "https://i.ytimg.com/vi/BUX2HaQNgH4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Z7ET_2aB6Hw",
+        "picture": "https://i.ytimg.com/vi/Z7ET_2aB6Hw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Old Gods Are Awake, Send Them to Sleep or Perish【World of Horror】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QTEK6mVkR9c",
-        "picture": "https://i.ytimg.com/vi/QTEK6mVkR9c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "WATCHALONG WITH ARADIA | Pride and Prejudice 🦚"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730232000,
+        "title": "Squirrel Haunts Suburban Neighborhood to Nut Hunt【Squirrel with a Gun】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TR_rzJ7OKSc",
         "picture": "https://i.ytimg.com/vi/TR_rzJ7OKSc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730170800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼルダの伝説 知恵のかりもの】昼活暮らしでサブクエ生活はじめます！#8【角巻わため/ホロライブ４期生】"
     },
     {
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Kv6AR-7bhl8",
         "picture": "https://i.ytimg.com/vi/Kv6AR-7bhl8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730170800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】Come on in to the Liar\u0026#39;s Bar! My First Visit :o"
     },
     {
