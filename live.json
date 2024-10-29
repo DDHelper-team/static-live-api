@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gFWRNduoUaQ",
         "picture": "https://i.ytimg.com/vi/gFWRNduoUaQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730196000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OFF COLLAB】ラオーラママと空想料理「ピザバーグ」作ってみたーい！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730206800,
         "title": "【映画同時視聴】20世紀少年-最終章-ぼくらの旗【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=b_mZwui-I54",
+        "picture": "https://i.ytimg.com/vi/b_mZwui-I54/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730206800,
+        "title": "【 -`🎙 歌枠/Singing 】10月がそろそろ終わる。 sing and talk【獅子神レオナ/Re:AcT】"
     }
 ]
