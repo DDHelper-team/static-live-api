@@ -146,12 +146,12 @@
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=UxW9MLr3j30",
-        "picture": "https://i.ytimg.com/vi/UxW9MLr3j30/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=NzjcAVMTo8Y",
+        "picture": "https://i.ytimg.com/vi/NzjcAVMTo8Y/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【League of Legends】マジで避けてたSoloQ / アステル"
+        "title": "【League of Legends】奏手イヅルとDUO / アステル 奏手イヅル"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -196,5 +196,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "≪NieR:Automata≫ You have to consider. FIRST TIME PLAY-THROUGH! #2 【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ADp94K0mb7k",
+        "picture": "https://i.ytimg.com/vi/ADp94K0mb7k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730206800,
+        "title": "【 PLATEUP! 】MEMPERERAT TALI PERSAHABATAN, APA IYA?【 iofi / hololiveID 】"
     }
 ]
