@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LgOjHgiWVzU",
         "picture": "https://i.ytimg.com/vi/LgOjHgiWVzU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730282400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園 】限界条高校、転生投手＆キャッチャーAでどこまでいける…！？ １年目夏～ #2【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -317,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730332800,
         "title": "【FINDING FRANKIE】parkour but spooky【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fv28mBnZE2Y",
+        "picture": "https://i.ytimg.com/vi/fv28mBnZE2Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730286000,
+        "title": "【HoloID Gartic Phone】 drawing stickman 【Zeta 3.0】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qwhbxaESX6o",
+        "picture": "https://i.ytimg.com/vi/qwhbxaESX6o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730289600,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
