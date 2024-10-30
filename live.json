@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=L_QtEaksU3k",
         "picture": "https://i.ytimg.com/vi/L_QtEaksU3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730253600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Red Dead Redemption】Howdy John, It\u0026#39;s Been a While... #calliolive"
     },
     {
@@ -143,17 +143,6 @@
         "title": "【スーパーマリオパーティ ジャンボリー】もうひとりパーティじゃない！！４人パーティ！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BRSyG87xGUI",
-        "picture": "https://i.ytimg.com/vi/BRSyG87xGUI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Pikmin 2】 oh no! the pikmin are dying! | #5"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "islive": false,
@@ -196,5 +185,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730293200,
         "title": "🎃萬聖節特殊企劃🎃｜大家來說鬼👻來分享你的恐怖故事，你覺得恐怖的是鬼還是人？ 【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HeHVngIEoB8",
+        "picture": "https://i.ytimg.com/vi/HeHVngIEoB8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730293200,
+        "title": "【 ASMR / KU-100 】そらちゃんと一緒に仲良く癒します💙💜【 #mogunuun / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ABFm2cZldPQ",
+        "picture": "https://i.ytimg.com/vi/ABFm2cZldPQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730286000,
+        "title": "【Gartic Phone】Gambar apa hari ini?【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=x0k4vMdXgqU",
+        "picture": "https://i.ytimg.com/vi/x0k4vMdXgqU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730257200,
+        "title": "【ぷち幸】デスク周りの模様替えを考える。。。【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=o1PHkHkYDtY",
+        "picture": "https://i.ytimg.com/vi/o1PHkHkYDtY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Freetalk】寝坊助悪魔のただいま枠【ホロライブ/癒月ちょこ】"
     }
 ]
