@@ -286,7 +286,7 @@
         "title": "【ミラー応援配信】REJECT FIGHT NIGHT Round4 #RFN を一緒に見ようの会【アルランディス/ホロスターズ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -294,5 +294,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "HALLOWEEN KARAOKE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Jd65WuXs5hM",
+        "picture": "https://i.ytimg.com/vi/Jd65WuXs5hM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730325600,
+        "title": "【Unsorted Horror】 a charcuterie of dread inducing horror games"
     }
 ]
