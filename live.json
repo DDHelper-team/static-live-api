@@ -187,17 +187,6 @@
         "title": "【Gartic Phone】Gambar apa hari ini?【Moona Hoshinova】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=x0k4vMdXgqU",
-        "picture": "https://i.ytimg.com/vi/x0k4vMdXgqU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ぷち幸】デスク周りの模様替えを考える。。。【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "islive": false,
@@ -218,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730332800,
         "title": "Happy (almost) Halloween~ | Unarchived Karaoke"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=b98fFSY0Jr8",
+        "picture": "https://i.ytimg.com/vi/b98fFSY0Jr8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730268000,
+        "title": "【 スーパーマリオブラザーズ ワンダー 】完全初見！ゲーム下手のマリオ実況｜#03【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WftPGp4QdzM",
+        "picture": "https://i.ytimg.com/vi/WftPGp4QdzM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730286000,
+        "title": "【Gartic Phone】its just about sending a message【#holoIDJiwaKarya】"
     }
 ]
