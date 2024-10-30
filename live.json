@@ -240,5 +240,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730286000,
         "title": "【配信予定】【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_jYKw_NoFm0",
+        "picture": "https://i.ytimg.com/vi/_jYKw_NoFm0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730289600,
+        "title": "【 宝くじ開封 | メンバー限定 】ハロウィンジャンボ宝くじ当てちゃうのら～！！＃５【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=8WncI7seRQM",
+        "picture": "https://i.ytimg.com/vi/8WncI7seRQM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】出かけるまで雑談でもする【夕刻ロベル/ホロスターズ】"
     }
 ]
