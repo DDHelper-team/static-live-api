@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xYbKDeF-EOs",
-        "picture": "https://i.ytimg.com/vi/xYbKDeF-EOs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uLrepm7Zc4s",
+        "picture": "https://i.ytimg.com/vi/uLrepm7Zc4s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "🎃萬聖節特殊企劃🎃｜大家來說鬼👻來分享你的恐怖故事，你覺得恐怖的是鬼還是人？ 【Healing希靈/VTuber】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730386800,
+        "title": "ASMR｜超·深入舔耳貫穿腦部融化❤️｜Licking Mouth sounds Trigger sounds｜耳舐め 【KU100／黑3DIO】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -251,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730343600,
         "title": "【 #ホロライブ甲子園 】#4 福留を諦め、開始用のリセマラへ！！！かなターン高校、ようやく始動！！！！！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-yBRh7wZS6o",
+        "picture": "https://i.ytimg.com/vi/-yBRh7wZS6o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730379600,
+        "title": "Happy Halloween～～！！！🎃🎃🎃【姫森ルーナ/ホロライブ】"
     }
 ]
