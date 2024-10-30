@@ -66,17 +66,6 @@
         "title": "【 告知 】な！な！なんと！！！！！！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nnlKxn7slAg",
-        "picture": "https://i.ytimg.com/vi/nnlKxn7slAg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNRAVEL 2】im gonna cut the rope【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -163,5 +152,49 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Pikmin 2】 oh no! the pikmin are dying! | #5"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TEaTBHyrWOs",
+        "picture": "https://i.ytimg.com/vi/TEaTBHyrWOs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730336400,
+        "title": "【1 Million Subs Celebration】 One Chip Challenge 🔥"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IhCq_BlUpII",
+        "picture": "https://i.ytimg.com/vi/IhCq_BlUpII/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730336400,
+        "title": "【3D Halloween Special】Trick-or-Treat! Where Are My Sweets?!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qC4miIYZNsg",
+        "picture": "https://i.ytimg.com/vi/qC4miIYZNsg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730300400,
+        "title": "【Little Goody Two Shoes】Horror in Austria?! #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xYbKDeF-EOs",
+        "picture": "https://i.ytimg.com/vi/xYbKDeF-EOs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730293200,
+        "title": "🎃萬聖節特殊企劃🎃｜大家來說鬼👻來分享你的恐怖故事，你覺得恐怖的是鬼還是人？ 【Healing希靈/VTuber】"
     }
 ]
