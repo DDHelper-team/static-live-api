@@ -22,17 +22,6 @@
         "title": "【　】お知らせ掲示板【　】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=O9V_EFbgpKQ",
-        "picture": "https://i.ytimg.com/vi/O9V_EFbgpKQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730300400,
-        "title": "フリーチャットだよ！ ▼ free chat room"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
         "islive": true,
@@ -68,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qC4miIYZNsg",
         "picture": "https://i.ytimg.com/vi/qC4miIYZNsg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730300400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Little Goody Two Shoes】Horror in Austria?! #kfp #キアライブ"
     },
     {
@@ -112,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JTU_8FFdMH8",
         "picture": "https://i.ytimg.com/vi/JTU_8FFdMH8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730300400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 139 🐾 #FWMCMORNING"
     },
     {
@@ -141,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730332800,
         "title": "【FINDING FRANKIE】parkour but spooky【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qwhbxaESX6o",
-        "picture": "https://i.ytimg.com/vi/qwhbxaESX6o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】凄すぎる建築が集まった兎田ぺこらサーバーを見に行く！最終回！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -251,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730372400,
         "title": "【 三ツ星ファーム 】数量限定コラボセットあり！いっぱい食べるよ～！！【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=NmFlvHy1jHA",
+        "picture": "https://i.ytimg.com/vi/NmFlvHy1jHA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【COD:BO6】神ゲーします【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8ZOjfTN3k90",
+        "picture": "https://i.ytimg.com/vi/8ZOjfTN3k90/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730302200,
+        "title": "【 ティアキン 】ラスボス前に強化間に合わせるぞ～～～！！！の回 ゼルダの伝説ティアーズオブキングダム【ホロライブ/沙花叉クロヱ】"
     }
 ]
