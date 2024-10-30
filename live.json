@@ -244,12 +244,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8ZOjfTN3k90",
         "picture": "https://i.ytimg.com/vi/8ZOjfTN3k90/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730302200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ティアキン 】ラスボス前に強化間に合わせるぞ～～～！！！の回 ゼルダの伝説ティアーズオブキングダム【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rpxY1y4nUdE",
+        "picture": "https://i.ytimg.com/vi/rpxY1y4nUdE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730343600,
+        "title": "【 #ホロライブ甲子園 】#4 福留を諦め、開始用のリセマラへ！！！かなターン高校、ようやく始動！！！！！！！！【天音かなた/ホロライブ】"
     }
 ]
