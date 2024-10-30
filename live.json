@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vXXaf6BDoO8",
         "picture": "https://i.ytimg.com/vi/vXXaf6BDoO8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730329200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】BEEPING LEGS【Spoiler Warning】"
     },
     {
