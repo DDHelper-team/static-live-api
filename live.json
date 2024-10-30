@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=b98fFSY0Jr8",
         "picture": "https://i.ytimg.com/vi/b98fFSY0Jr8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730268000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 スーパーマリオブラザーズ ワンダー 】完全初見！ゲーム下手のマリオ実況｜#03【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -262,5 +262,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談】出かけるまで雑談でもする【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HwuemsmNeJk",
+        "picture": "https://i.ytimg.com/vi/HwuemsmNeJk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730286000,
+        "title": "【 GARTIC PHONE 】HMMM.... OH NO【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JTU_8FFdMH8",
+        "picture": "https://i.ytimg.com/vi/JTU_8FFdMH8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730300400,
+        "title": "【FUWAMOCO MORNING】episode 139 🐾 #FWMCMORNING"
     }
 ]
