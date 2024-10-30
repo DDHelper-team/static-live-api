@@ -22,17 +22,6 @@
         "title": "【　】お知らせ掲示板【　】"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LgOjHgiWVzU",
-        "picture": "https://i.ytimg.com/vi/LgOjHgiWVzU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロライブ甲子園 】限界条高校、転生投手＆キャッチャーAでどこまでいける…！？ １年目夏～ #2【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730379600,
         "title": "Happy Halloween～～！！！🎃🎃🎃【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LZfirr0xDKs",
+        "picture": "https://i.ytimg.com/vi/LZfirr0xDKs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730376000,
+        "title": "【歌枠 / Singing】みんな今までありがとう！！【#新人vtuber 】"
     }
 ]
