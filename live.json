@@ -112,23 +112,23 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xYbKDeF-EOs",
         "picture": "https://i.ytimg.com/vi/xYbKDeF-EOs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730293200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "🎃萬聖節特殊企劃🎃｜大家來說鬼👻來分享你的恐怖故事，你覺得恐怖的是鬼還是人？ 【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HeHVngIEoB8",
         "picture": "https://i.ytimg.com/vi/HeHVngIEoB8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730293200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ASMR / KU-100 】そらちゃんと一緒に仲良く癒します💙💜【 #mogunuun / ホロライブ 】"
     },
     {
@@ -174,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730300400,
         "title": "【FUWAMOCO MORNING】episode 139 🐾 #FWMCMORNING"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gnL1I3Oc1eY",
-        "picture": "https://i.ytimg.com/vi/gnL1I3Oc1eY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CoD:BO6】ぼ６！【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
@@ -262,5 +251,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730376000,
         "title": "【3D LIVE CONCERT】J-RAP in JIGOKU! + NEW 3D MODEL REVEAL! #JRAPinJIGOKU"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p9LX675oPzw",
+        "picture": "https://i.ytimg.com/vi/p9LX675oPzw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730293200,
+        "title": "【 縦型 / 雑談 】寝ちゃったああああああ1時間だけしゃべる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0846rVjIDrU",
+        "picture": "https://i.ytimg.com/vi/0846rVjIDrU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730361600,
+        "title": "【 ポケカ開封/カメラ 】👻＜ ここにポケモンカードがあるじゃろおおおおおおおお⚡【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hM293hU476o",
+        "picture": "https://i.ytimg.com/vi/hM293hU476o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730295000,
+        "title": "【 -`🎙 歌枠/Singing 】一日早いけど少しのはろうぃん🎃 sing and talk【獅子神レオナ/Re:AcT】"
     }
 ]
