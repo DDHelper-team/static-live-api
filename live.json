@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QlfUocn2QlA",
-        "picture": "https://i.ytimg.com/vi/QlfUocn2QlA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wUEN1KE2ZcU",
+        "picture": "https://i.ytimg.com/vi/wUEN1KE2ZcU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#BIG3】BIG3のビッグな雑談 Free Talk【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730347200,
+        "title": "【　】お知らせ掲示板【　】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -42,17 +42,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロライブ甲子園 】限界条高校、転生投手＆キャッチャーAでどこまでいける…！？ １年目夏～ #2【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CQwPUutBlDI",
-        "picture": "https://i.ytimg.com/vi/CQwPUutBlDI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スーパーマリオパーティ ジャンボリー】もうひとりパーティじゃない！！４人パーティ！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -97,17 +86,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "🎃萬聖節特殊企劃🎃｜大家來說鬼👻來分享你的恐怖故事，你覺得恐怖的是鬼還是人？ 【Healing希靈/VTuber】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HeHVngIEoB8",
-        "picture": "https://i.ytimg.com/vi/HeHVngIEoB8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ASMR / KU-100 】そらちゃんと一緒に仲良く癒します💙💜【 #mogunuun / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -229,5 +207,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730336400,
         "title": "happy halloween #shorts"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eCRlwq_rpM8",
+        "picture": "https://i.ytimg.com/vi/eCRlwq_rpM8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730341800,
+        "title": "【KARAOKE / 歌枠】Halloween Unarchived Karaoke before NEW SONG COVER! :D"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kViflWuVdcY",
+        "picture": "https://i.ytimg.com/vi/kViflWuVdcY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730368800,
+        "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、育成開始！1年目夏・秋大会～ #3【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EvRNGbJmLWo",
+        "picture": "https://i.ytimg.com/vi/EvRNGbJmLWo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730376000,
+        "title": "【歌枠】22時の歌ってみた公開前に歌うよ〜ッ🎤🎶【白銀ノエル/ホロライブ】"
     }
 ]
