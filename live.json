@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LZfirr0xDKs",
-        "picture": "https://i.ytimg.com/vi/LZfirr0xDKs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CfXnKygYjJ8",
+        "picture": "https://i.ytimg.com/vi/CfXnKygYjJ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠 / Singing】みんな今までありがとう！！【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730462400,
+        "title": "[ #新衣装 ] TanZ Ver.2.0 アップデートお披露目配信 #vtuber #TanZ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ylwWnxuVx68",
         "picture": "https://i.ytimg.com/vi/ylwWnxuVx68/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730383200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】第１１７回！Halloween わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
     },
     {
@@ -132,25 +132,14 @@
         "title": "【#RFN4】大会当日❕REJECT FIGHT NIGHT Round4🔥STREET FIGHTER 6ラプラス・ダークネス/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OHGqQ3DWmP4",
-        "picture": "https://i.ytimg.com/vi/OHGqQ3DWmP4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Liar\u0026#39;s Bar 】命がけのギャンブル…！ #一夜限りのホロハロウィン 🎃【ホロライブ/紫咲シオン】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dR-Ont8K4PQ",
         "picture": "https://i.ytimg.com/vi/dR-Ont8K4PQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730383223,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】世はハッピーハロウィンらしい🎃【緋月ゆい/ネオポルテ】"
     },
     {
@@ -200,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hZh5Mq3lxl8",
         "picture": "https://i.ytimg.com/vi/hZh5Mq3lxl8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730383200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Hookah Haze】ハロウィンの深夜にシーシャを添えて その②※ネタバレあり【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -240,17 +229,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】視聴者と言葉の要らない命のギャンブルで３勝するまで終われまテン【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NUICie97Ukw",
-        "picture": "https://i.ytimg.com/vi/NUICie97Ukw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "いざ 弾き語り歌枠【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
