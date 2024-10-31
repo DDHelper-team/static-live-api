@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TGiqJUWSlzM",
         "picture": "https://i.ytimg.com/vi/TGiqJUWSlzM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730372400,
-        "title": "【 三ツ星ファーム 】数量限定コラボセットあり！いっぱい食べるよ～！！【 雪花ラミィ /ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ホロ三ツ星ファーム】数量限定コラボセットあり！いっぱい食べるよ～！！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2v23-ZRhUiM",
         "picture": "https://i.ytimg.com/vi/2v23-ZRhUiM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730372400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】常MOSが騙しあいをするとどうなる？【 #常MOS 】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aGLoAbmmAPQ",
         "picture": "https://i.ytimg.com/vi/aGLoAbmmAPQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730372400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Jumpscare Scare Jump】ガチ苦手すぎるジャンプスケアを５０個もですか！？！？【白上フブキ/ホロライブ】"
     },
     {
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730376000,
         "title": "【ReGLOSSコラボ】ワードウルフ リベンジマッチ ～ハロウィンを添えて～【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pKc5qSSWJQs",
+        "picture": "https://i.ytimg.com/vi/pKc5qSSWJQs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730458800,
+        "title": "【3D LIVE】#夏色FullBloom / 夏色まつり誕生ライブ【ホロライブ/夏色まつり】"
     }
 ]
