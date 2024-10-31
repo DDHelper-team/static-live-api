@@ -22,28 +22,6 @@
         "title": "【　】お知らせ掲示板【　】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TEaTBHyrWOs",
-        "picture": "https://i.ytimg.com/vi/TEaTBHyrWOs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【1 Million Subs Celebration】 One Chip Challenge 🔥"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IhCq_BlUpII",
-        "picture": "https://i.ytimg.com/vi/IhCq_BlUpII/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【3D Halloween Special】Trick-or-Treat! Where Are My Sweets?! #mocopi"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -79,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FPYHin1j0AM",
-        "picture": "https://i.ytimg.com/vi/FPYHin1j0AM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eB8oE9bnhMc",
+        "picture": "https://i.ytimg.com/vi/eB8oE9bnhMc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FINDING FRANKIE】parkour but spooky【Dokibird】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730422800,
+        "title": "【SPECIAL HALLOWEEN】Trick or treat?【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -167,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rpxY1y4nUdE",
         "picture": "https://i.ytimg.com/vi/rpxY1y4nUdE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730343600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園 】#4 福留を諦め、開始用のリセマラへ！！！かなターン高校、ようやく始動！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
