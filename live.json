@@ -221,23 +221,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=25GOQGBvi9M",
         "picture": "https://i.ytimg.com/vi/25GOQGBvi9M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730412000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED KARAOKE】 🎃 HAPPY HALLOWEEN 🦇"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xnziVnGUhLc",
         "picture": "https://i.ytimg.com/vi/xnziVnGUhLc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730412000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#118 11/1金曜日！可変式の華金だよ【尾丸ポルカ/ホロライブ】"
     }
 ]
