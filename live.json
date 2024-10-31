@@ -134,24 +134,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xo1-K32f-fw",
         "picture": "https://i.ytimg.com/vi/xo1-K32f-fw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730363400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DONO READING】TRICK OR... TREAT? WOW THAT\u0026#39;S A LOTTA DONOS【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IaJ5E8KnNrE",
         "picture": "https://i.ytimg.com/vi/IaJ5E8KnNrE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730363400,
-        "title": "【ミラー応援配信】REJECT FIGHT NIGHT Round4 #RFN を一緒に見ようの会【アルランディス/ホロスターズ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ミラー応援配信】REJECT FIGHT NIGHT Round4 #RFN4 を一緒に見ようの会【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730379600,
         "title": "【ハロウィン弾き語り歌枠】今年もやってきました【律可/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aGLoAbmmAPQ",
+        "picture": "https://i.ytimg.com/vi/aGLoAbmmAPQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730372400,
+        "title": "【Jumpscare Scare Jump】ガチ苦手すぎるジャンプスケアを５０個もですか！？！？【白上フブキ/ホロライブ】"
     }
 ]
