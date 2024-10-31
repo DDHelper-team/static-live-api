@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-yBRh7wZS6o",
         "picture": "https://i.ytimg.com/vi/-yBRh7wZS6o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730379600,
-        "title": "Happy Halloween～～！！！🎃🎃🎃【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "Happy Halloween～～！！！🎃🎃🎃もぐもぐミスドーナツなのら～～～🍩(・o・🍬)【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NUICie97Ukw",
         "picture": "https://i.ytimg.com/vi/NUICie97Ukw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730377800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "いざ 弾き語り歌枠【 奏手イヅル / ホロスターズ 】"
     },
     {
