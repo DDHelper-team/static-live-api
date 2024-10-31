@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qo4jtLtegq0",
-        "picture": "https://i.ytimg.com/vi/qo4jtLtegq0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=whQ-uhWT408",
+        "picture": "https://i.ytimg.com/vi/whQ-uhWT408/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【萬聖節拍立得】今年也要對你搗蛋 🎃"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730466000,
+        "title": "【獵逃驚魂】EP.1 男男女女一起野外露營...😝"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -251,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730426400,
         "title": "【VRChat Halloween Party】VRCデビュー!!JUSTICE HELLOWEEN✨️【白上フブキ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UdAgXov1oHU",
+        "picture": "https://i.ytimg.com/vi/UdAgXov1oHU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730426400,
+        "title": "【VRChat】#JusticeHalloween OK ! I\u0026#39;m cool girl!【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
