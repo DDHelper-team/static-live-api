@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YnIIg6JN_yQ",
         "picture": "https://i.ytimg.com/vi/YnIIg6JN_yQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730358000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GOODBYE AKIBA MISDO 秋葉原ミスドありがとう】goodbye to our favorite place 🍩🐾 【FUWAMOCO】"
     },
     {
@@ -317,5 +317,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730372400,
         "title": "【Liar\u0026#39;s Bar】常MOSが騙しあいをするとどうなる？【 #常MOS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3YW0jlr71vM",
+        "picture": "https://i.ytimg.com/vi/3YW0jlr71vM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730365200,
+        "title": "【凸待ち】RBJのこども電話相談室🎃【R.B.J】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hghwSGteG6s",
+        "picture": "https://i.ytimg.com/vi/hghwSGteG6s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730379600,
+        "title": "【Live2D Reveal】 Showing you MY TRUE FORM!!!!!! + Announcements #zecretlive"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hZh5Mq3lxl8",
+        "picture": "https://i.ytimg.com/vi/hZh5Mq3lxl8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730383200,
+        "title": "【Hookah Haze】ハロウィンの深夜にシーシャを添えて その②※ネタバレあり【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wuKVL0dEGcA",
+        "picture": "https://i.ytimg.com/vi/wuKVL0dEGcA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730379600,
+        "title": "【ハロウィン弾き語り歌枠】今年もやってきました【律可/ホロスターズ】#りつすた"
     }
 ]
