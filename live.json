@@ -24,23 +24,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TEaTBHyrWOs",
         "picture": "https://i.ytimg.com/vi/TEaTBHyrWOs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730336400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【1 Million Subs Celebration】 One Chip Challenge 🔥"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IhCq_BlUpII",
         "picture": "https://i.ytimg.com/vi/IhCq_BlUpII/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730336400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D Halloween Special】Trick-or-Treat! Where Are My Sweets?!"
     },
     {
@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jM3LdNLwnwM",
         "picture": "https://i.ytimg.com/vi/jM3LdNLwnwM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730332800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Happy (almost) Halloween~ | Unarchived Karaoke"
     },
     {
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FPYHin1j0AM",
         "picture": "https://i.ytimg.com/vi/FPYHin1j0AM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730332800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FINDING FRANKIE】parkour but spooky【Dokibird】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2uZK1aA-bIg",
         "picture": "https://i.ytimg.com/vi/2uZK1aA-bIg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730336400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "happy halloween #shorts"
     },
     {
@@ -306,5 +306,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730376000,
         "title": "【 Liar\u0026#39;s Bar 】命がけのギャンブル…！ #一夜限りのホロハロウィン 🎃【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=MD3Zsv-Wgv8",
+        "picture": "https://i.ytimg.com/vi/MD3Zsv-Wgv8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Oxide Room 104】悪夢の施設モーテル、グロ注意ってがちぃ？【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u_3y0IHjjUQ",
+        "picture": "https://i.ytimg.com/vi/u_3y0IHjjUQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730368800,
+        "title": "ホロスタぬい写真コンテスト開催!!ハロウィンSP【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dR-Ont8K4PQ",
+        "picture": "https://i.ytimg.com/vi/dR-Ont8K4PQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730383223,
+        "title": "【歌枠】世はハッピーハロウィンらしい🎃【緋月ゆい/ネオポルテ】"
     }
 ]
