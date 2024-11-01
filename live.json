@@ -205,7 +205,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "IRL JOURNALIST TRIES TO BUILD A PC"
+        "title": "IRL JOURNALIST FAILS TO BUILD A PC"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
@@ -239,5 +239,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730552400,
         "title": "【 モンハンワイルズ OBT 】steam版オープンベータやるぞー！！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=KpWNMmGv7hI",
+        "picture": "https://i.ytimg.com/vi/KpWNMmGv7hI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#119 11/2土曜日！三連っきゅん【尾丸ポルカ/ホロライブ】"
     }
 ]
