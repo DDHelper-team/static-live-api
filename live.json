@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=esg0x37KTps",
         "picture": "https://i.ytimg.com/vi/esg0x37KTps/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730465100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【-`🎮 MHWilds / OBT 】モンハンワイルズのオープンベータ、やるしかない！⚔【獅子神レオナ/Re:AcT】"
     },
     {
@@ -284,5 +284,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730466000,
         "title": "【モンハンワイルズ】オープンベータテストやるぞおおお！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=DUQzOuzWAmw",
+        "picture": "https://i.ytimg.com/vi/DUQzOuzWAmw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 SILENT HILL 2 】完全初見！恐怖の名作ホラー、サイレントヒル  #2【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MrwZbkXGiDk",
+        "picture": "https://i.ytimg.com/vi/MrwZbkXGiDk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730467800,
+        "title": "#10【Ace Attorney: Dual Destinies】Case 4 truly a bombastic trial... (SPOILERS!)【Pavolia Reine/holoID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jipC1An72vI",
+        "picture": "https://i.ytimg.com/vi/jipC1An72vI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730520000,
+        "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、育成開始！1年目秋大会から2年生春～ #4【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YXX5QSVaRsE",
+        "picture": "https://i.ytimg.com/vi/YXX5QSVaRsE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730469600,
+        "title": "【歌枠】ぬくぬく温泉カラオケ～★【赤井はあと/ホロライブ】"
     }
 ]
