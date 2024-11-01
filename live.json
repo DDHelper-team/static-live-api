@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MrwZbkXGiDk",
         "picture": "https://i.ytimg.com/vi/MrwZbkXGiDk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730467800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#10【Ace Attorney: Dual Destinies】Case 4 truly a bombastic trial... (SPOILERS!)【Pavolia Reine/holoID】"
     },
     {
@@ -339,5 +339,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【獵逃驚魂】EP.1 男男女女一起野外露營...😝"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vilXz7ZTj5k",
+        "picture": "https://i.ytimg.com/vi/vilXz7ZTj5k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730502000,
+        "title": "【Monster Hunter Wilds】RETURN TO THE HUNT!【Open Beta Test】"
     }
 ]
