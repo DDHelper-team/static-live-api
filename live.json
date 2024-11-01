@@ -28,8 +28,8 @@
         "link": "https://www.youtube.com/watch?v=kqfdCQm3L4c",
         "picture": "https://i.ytimg.com/vi/kqfdCQm3L4c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1730431800,
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730433600,
         "title": "The Mystery is Afoot! Spooky Collab with ??? Guests!【VRChat Halloween Party】"
     },
     {
@@ -94,8 +94,8 @@
         "link": "https://www.youtube.com/watch?v=h7lcKltUEak",
         "picture": "https://i.ytimg.com/vi/h7lcKltUEak/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1730431800,
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730433600,
         "title": "【VRChat Halloween Party】VRCデビュー!!JUSTICE HELLOWEEN✨️【白上フブキ/ホロライブ】"
     },
     {
@@ -108,28 +108,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730433600,
         "title": "Happy Halloween! | JUSTICE\u0026#39;S HAUNTED VR INVESTIGATION"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=bRhUr472X6U",
-        "picture": "https://i.ytimg.com/vi/bRhUr472X6U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1730431800,
-        "title": "【VRChat】久しぶりのVRChatで超ハッピー🎃 #JusticeHalloween 【アキロゼ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=xk-8V4ZlizA",
-        "picture": "https://i.ytimg.com/vi/xk-8V4ZlizA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1730431800,
-        "title": "【VRCHAT】biBOO is biBRAVE!【Justice\u0026#39;s Haunted Mansion】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -174,5 +152,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730512800,
         "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！いざユウナのもとへ！！！ #5 【博衣こより/ホロライブ】【ネタバレあり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UdAgXov1oHU",
+        "picture": "https://i.ytimg.com/vi/UdAgXov1oHU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730433600,
+        "title": "【VRChat】#JusticeHalloween OK ! I\u0026#39;m cool girl!【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q9RGNK9kcbc",
+        "picture": "https://i.ytimg.com/vi/Q9RGNK9kcbc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730433600,
+        "title": "【VRChat 】#JusticeHalloween SPOOKY~~~👻 【Zeta】"
     }
 ]
