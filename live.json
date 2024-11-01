@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eB8oE9bnhMc",
         "picture": "https://i.ytimg.com/vi/eB8oE9bnhMc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1730422800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SPECIAL HALLOWEEN】Trick or treat?【Dokibird】"
     },
     {
@@ -40,7 +40,7 @@
         "picture": "https://i.ytimg.com/vi/kqfdCQm3L4c/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "The Mystery is Afoot! Spooky Collab with ??? Guests!【VRChat Halloween Party】"
     },
     {
@@ -117,8 +117,8 @@
         "picture": "https://i.ytimg.com/vi/m85Tg_ZM5v4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
-        "title": "TRICK OR TRICK??? VR HELLOWEEEEEEEEN!!!🕷"
+        "timestamp": 1730430000,
+        "title": "TRICK OR TRICK???🕷 | JUSTICE\u0026#39;S HAUNTED VR INVESTIGATION"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -128,7 +128,7 @@
         "picture": "https://i.ytimg.com/vi/h7lcKltUEak/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "【VRChat Halloween Party】VRCデビュー!!JUSTICE HELLOWEEN✨️【白上フブキ/ホロライブ】"
     },
     {
@@ -139,7 +139,7 @@
         "picture": "https://i.ytimg.com/vi/UdAgXov1oHU/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "【VRChat】#JusticeHalloween OK ! I\u0026#39;m cool girl!【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -150,7 +150,7 @@
         "picture": "https://i.ytimg.com/vi/vjD5PolJkII/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "【初VRChat】Justiceからの招待状…？おや…？ #JusticeHalloween【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -161,8 +161,8 @@
         "picture": "https://i.ytimg.com/vi/oFY_4-rdnI4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
-        "title": "【Justice\u0026#39;s Haunted Investigation】VREINE POV JUMPSCARE🎃 #JusticeHalloween【Pavolia Reine/hololiveID】"
+        "timestamp": 1730430000,
+        "title": "【VRChat - Justice\u0026#39;s Haunted Investigation】VREINE POV JUMPSCARE🎃 #JusticeHalloween【Pavolia Reine】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
@@ -172,7 +172,7 @@
         "picture": "https://i.ytimg.com/vi/uk6w4h6-b1w/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "【JUSTICE\u0026#39;S HAUNTED VR INVESTIGATION】ｸｸｸ、いたずらしちゃおっかな～🍭#JusticeHalloween【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -183,7 +183,7 @@
         "picture": "https://i.ytimg.com/vi/KcYUgBvsjLY/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "Happy Halloween! | JUSTICE\u0026#39;S HAUNTED VR INVESTIGATION"
     },
     {
@@ -194,7 +194,7 @@
         "picture": "https://i.ytimg.com/vi/yf5Bc1ePNU4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "【JUSTICE\u0026#39;S HAUNTED INVESTIGATION in VRCHAT】spookiest demon guard dogs to ever exist 🐾 【FUWAMOCO POV】"
     },
     {
@@ -205,7 +205,7 @@
         "picture": "https://i.ytimg.com/vi/bRhUr472X6U/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "【VRChat】久しぶりのVRChatで超ハッピー🎃 #JusticeHalloween 【アキロゼ/ホロライブ】"
     },
     {
@@ -216,7 +216,7 @@
         "picture": "https://i.ytimg.com/vi/xk-8V4ZlizA/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
+        "timestamp": 1730430000,
         "title": "【VRCHAT】biBOO is biBRAVE!【Justice\u0026#39;s Haunted Mansion】"
     },
     {
@@ -249,8 +249,8 @@
         "picture": "https://i.ytimg.com/vi/Q9RGNK9kcbc/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730426400,
-        "title": "【VRChat - Justice\u0026#39;s Haunted Investigation】SPOOKY CANDIES FOR EVERYONE 👻#JusticeHalloween 【Zeta】"
+        "timestamp": 1730430000,
+        "title": "【VRChat 】#JusticeHalloween SPOOKY~~~👻 【Zeta】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730466000,
         "title": "【 Liar\u0026#39;s Bar 】 視聴者参加型！あーそびましょ♪【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=h4BG7KDWiRw",
+        "picture": "https://i.ytimg.com/vi/h4BG7KDWiRw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730512800,
+        "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！いざユウナのもとへ！！！ #5 【博衣こより/ホロライブ】【ネタバレあり】"
     }
 ]
