@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5Bycn4F7PYk",
         "picture": "https://i.ytimg.com/vi/5Bycn4F7PYk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730448000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンスターハンターワイルズ】オープンβ版でキャラクリから遊ぶぞい！【アルランディス/ホロスターズ】"
     },
     {
@@ -207,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730473200,
         "title": "【KU100/ASMR】あったか吐息でアツアツになったお耳をはむっ♡ゴリゴリ耳かきでスッキリ♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JEFpF6rrUTA",
+        "picture": "https://i.ytimg.com/vi/JEFpF6rrUTA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730462400,
+        "title": "【告知あり！】フブキングダム国民意見会議を開催します！！【白上フブキ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2arj1MOf0q4",
+        "picture": "https://i.ytimg.com/vi/2arj1MOf0q4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730534400,
+        "title": "【モンハンワイルズOBT】待望の「モンスターハンターワイルズ」オープンベータテスト！！やるよ～！！【白銀ノエル/ホロライブ】"
     }
 ]
