@@ -143,17 +143,6 @@
         "title": "【Mouthwashing】How Long Until I Stop Being Myself? 自分が自分でいられなくなる瞬間まで。その果てにはきっと、【hololive ID | Anya】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9qXgEBrLmc0",
-        "picture": "https://i.ytimg.com/vi/9qXgEBrLmc0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Core Keeper】this is a new character in a solo world preparing for my holiday【SOLO WORLD】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730505600,
         "title": "【GODDESS OF VICTORY: NIKKE】happy 2nd anniversary【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CgavfyktjQs",
+        "picture": "https://i.ytimg.com/vi/CgavfyktjQs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730462400,
+        "title": "【モンスターハンターワイルズOBT】はなふがでワイルズのオープンベータやるぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
