@@ -1,38 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CfXnKygYjJ8",
-        "picture": "https://i.ytimg.com/vi/CfXnKygYjJ8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "[ #新衣装 ] TanZ Ver.2.0 アップデートお披露目配信 #vtuber #TanZ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LAPgm9pCp3g",
-        "picture": "https://i.ytimg.com/vi/LAPgm9pCp3g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第26～32話【鷹嶺ルイ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AS9a8AxKh98",
-        "picture": "https://i.ytimg.com/vi/AS9a8AxKh98/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ラミこよ晩酌】ラミこよ♡酔っ払いオフコラボ晩酌【 雪花ラミィ・博衣こより /ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": true,
@@ -242,17 +209,6 @@
         "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、育成開始！1年目秋大会から2年生春～ #4【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=YXX5QSVaRsE",
-        "picture": "https://i.ytimg.com/vi/YXX5QSVaRsE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730469600,
-        "title": "【歌枠】ぬくぬく温泉カラオケ～★【赤井はあと/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -286,17 +242,6 @@
         "title": "【 Liar\u0026#39;s Bar 】 視聴者参加型！あーそびましょ♪【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=hFjytNhwdU0",
-        "picture": "https://i.ytimg.com/vi/hFjytNhwdU0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730469600,
-        "title": "【メンバーシップ限定】子守唄？な囁きアカペラASMR【１０月分】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": true,
@@ -317,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730502000,
         "title": "【Monster Hunter Wilds】RETURN TO THE HUNT!【Open Beta Test】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=YXX5QSVaRsE",
+        "picture": "https://i.ytimg.com/vi/YXX5QSVaRsE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠】ぬくぬく温泉カラオケ～★【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=u-8wketisn0",
+        "picture": "https://i.ytimg.com/vi/u-8wketisn0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #モンハンワイルズ  】待ってました体験版！一狩りいこうぜ！ 【#新人vtuber 】"
     }
 ]
