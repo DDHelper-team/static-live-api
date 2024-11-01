@@ -17,7 +17,7 @@
         "link": "https://www.youtube.com/watch?v=eB8oE9bnhMc",
         "picture": "https://i.ytimg.com/vi/eB8oE9bnhMc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1730422800,
         "title": "【SPECIAL HALLOWEEN】Trick or treat?【Dokibird】"
     },
@@ -183,7 +183,7 @@
         "picture": "https://i.ytimg.com/vi/KcYUgBvsjLY/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730419200,
+        "timestamp": 1730426400,
         "title": "Happy Halloween! | JUSTICE\u0026#39;S HAUNTED VR INVESTIGATION"
     },
     {
@@ -209,17 +209,6 @@
         "title": "【VRChat】久しぶりのVRChatで超ハッピー🎃 #JusticeHalloween 【アキロゼ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=25GOQGBvi9M",
-        "picture": "https://i.ytimg.com/vi/25GOQGBvi9M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVED KARAOKE】 🎃 HAPPY HALLOWEEN 🦇"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -227,7 +216,7 @@
         "picture": "https://i.ytimg.com/vi/xk-8V4ZlizA/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730422800,
+        "timestamp": 1730426400,
         "title": "【VRCHAT】biBOO is biBRAVE!【Justice\u0026#39;s Haunted Mansion】"
     },
     {
@@ -240,5 +229,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730462400,
         "title": "【 SILENT HILL 2 】完全初見！恐怖の名作ホラー、サイレントヒル  #2【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=N2rUOXP1_g4",
+        "picture": "https://i.ytimg.com/vi/N2rUOXP1_g4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730462400,
+        "title": "【 #ホロライブ甲子園 】#5 最強の仲間と頂点へ！！！かなターン高校、育成！！！！！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q9RGNK9kcbc",
+        "picture": "https://i.ytimg.com/vi/Q9RGNK9kcbc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730426400,
+        "title": "【VRChat - Justice\u0026#39;s Haunted Investigation】SPOOKY CANDIES FOR EVERYONE 👻#JusticeHalloween 【Zeta】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sUlwSfHFB4s",
+        "picture": "https://i.ytimg.com/vi/sUlwSfHFB4s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730466000,
+        "title": "【 Liar\u0026#39;s Bar 】 視聴者参加型！あーそびましょ♪【角巻わため/ホロライブ４期生】"
     }
 ]
