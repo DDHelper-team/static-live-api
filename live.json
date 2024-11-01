@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pKc5qSSWJQs",
         "picture": "https://i.ytimg.com/vi/pKc5qSSWJQs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730458800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D LIVE】#夏色FullBloom / 夏色まつり誕生ライブ【ホロライブ/夏色まつり】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730462400,
         "title": "【モンスターハンターワイルズOBT】はなふがでワイルズのオープンベータやるぞ!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=z07Px7LWRio",
+        "picture": "https://i.ytimg.com/vi/z07Px7LWRio/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730545200,
+        "title": "【魔法陣グルグル ほしくず大冒険】あのアニメのゲームを初見で遊んでみるよ！【不知火フレア/ホロライブ】"
     }
 ]
