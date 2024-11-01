@@ -163,5 +163,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Core Keeper】this is a new character in a solo world preparing for my holiday【SOLO WORLD】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=SPHZjA9ng0k",
+        "picture": "https://i.ytimg.com/vi/SPHZjA9ng0k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 マロ雑談 】夕方の雑談議  / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y6pzIaHJheU",
+        "picture": "https://i.ytimg.com/vi/Y6pzIaHJheU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730466000,
+        "title": "猫又おかゆと乾杯で仲良し🍻"
     }
 ]
