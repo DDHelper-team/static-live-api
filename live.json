@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vqdjtPhiVoE",
-        "picture": "https://i.ytimg.com/vi/vqdjtPhiVoE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6uvKtKQqGBI",
+        "picture": "https://i.ytimg.com/vi/6uvKtKQqGBI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【モンハンワイルズ】オープンベータテストいくぞいくぞいくぞ～～～！！！✨【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730599200,
+        "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！ガガセト山を登れ！！ #6 【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BFu1rSKQfZs",
         "picture": "https://i.ytimg.com/vi/BFu1rSKQfZs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730556000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "[ #お祝い ] 今日は記念日 #vtuber #TanZ"
     },
     {
