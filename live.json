@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2arj1MOf0q4",
-        "picture": "https://i.ytimg.com/vi/2arj1MOf0q4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9Cnhwkm57Dc",
+        "picture": "https://i.ytimg.com/vi/9Cnhwkm57Dc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【モンハンワイルズOBT】待望の「モンスターハンターワイルズ」オープンベータテスト！！やるよ～！！【白銀ノエル/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730595600,
+        "title": "【朝活雑談】コラボ週間たのしかったああああ✨【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -284,5 +284,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#魔物獵人荒野 】小嫩嫩初見遊玩，鍵盤控【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9tUMqRNeWSU",
+        "picture": "https://i.ytimg.com/vi/9tUMqRNeWSU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730606400,
+        "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　12日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=BcdUxW9OaNY",
+        "picture": "https://i.ytimg.com/vi/BcdUxW9OaNY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【獵逃驚魂】EP.2 這個劇情實在太迷幻了 編劇嗑了什麼阿"
     }
 ]
