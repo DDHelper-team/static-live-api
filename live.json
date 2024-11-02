@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=z07Px7LWRio",
         "picture": "https://i.ytimg.com/vi/z07Px7LWRio/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730545200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【魔法陣グルグル ほしくず大冒険】あのアニメのゲームを初見で遊んでみるよ！【不知火フレア/ホロライブ】"
     },
     {
@@ -77,17 +77,6 @@
         "title": "＃3【龍が如く０】完全初見で挑む！第五章から！【轟はじめ/ReGLOSS】※ネタバレあり"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=M4a73FCLmlQ",
-        "picture": "https://i.ytimg.com/vi/M4a73FCLmlQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Liar\u0026#39;s Bar 】命を賭けるのが流行ってるらしいですね！？【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -112,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UlWQmB-_l8Q",
         "picture": "https://i.ytimg.com/vi/UlWQmB-_l8Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730545200,
-        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ドラクエ5】勧誘チャンスは1回のみ『一期一会縛り』始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730552400,
         "title": "【 MHWilds | OBT 】モンハンワイルズで遊んでみる！Part2！【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=S0qyesUy2gI",
+        "picture": "https://i.ytimg.com/vi/S0qyesUy2gI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730631600,
+        "title": "塔羅占卜#76｜邪教？！不存在的！狐會用靈棒敲醒你🔮✨🦊【Healing希靈/VTuber75】"
     }
 ]
