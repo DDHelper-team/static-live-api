@@ -35,24 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jipC1An72vI",
-        "picture": "https://i.ytimg.com/vi/jipC1An72vI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vNYIStoKUeQ",
+        "picture": "https://i.ytimg.com/vi/vNYIStoKUeQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、育成開始！1年目秋大会から2年目春～ #4【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iLkJPNprtTo",
-        "picture": "https://i.ytimg.com/vi/iLkJPNprtTo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 FF8 】既プレイが語る全力考察配信！これは愛の物語であるのら！FINAL FANTASY VIII ＃３【姫森ルーナ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730606400,
+        "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、育成開始！2年目春から秋大会まで～ #5【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
