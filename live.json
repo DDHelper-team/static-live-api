@@ -110,17 +110,6 @@
         "title": "【 Pulang Insanity - Director\u0026#39;s Cut 】🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OjpCkbqu5M0",
-        "picture": "https://i.ytimg.com/vi/OjpCkbqu5M0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 GTAV #4 】ストーリーモードがあるらしいのでやってみるよ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": true,
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ap4xgXEyLZU",
         "picture": "https://i.ytimg.com/vi/ap4xgXEyLZU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730550600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】テリーをマスターにするためのランクマッチその①【アルランディス/ホロスターズ】"
     },
     {
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730588400,
         "title": "【Monster Hunter Wilds】Friends join the hunt!【Open Beta Test】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E3oRvHtytng",
+        "picture": "https://i.ytimg.com/vi/E3oRvHtytng/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730635200,
+        "title": "【WINTICKET】ミッドナイト競輪でアキロゼと予想しよ！！【アキロゼ/ホロライブ】"
     }
 ]
