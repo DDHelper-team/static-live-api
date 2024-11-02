@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HB0KXRZdb98",
-        "picture": "https://i.ytimg.com/vi/HB0KXRZdb98/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wPgOgBvQm1g",
+        "picture": "https://i.ytimg.com/vi/wPgOgBvQm1g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃7】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730606400,
+        "title": "【#15】ドラゴンクエストⅣするしゅばああああああああああああああああ！！！ / DRAGON QUESTⅣ【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -154,17 +154,6 @@
         "title": "【hololive x Uneed Indonesia】COLLAB ITEMS YOU WOULDN\u0026#39;T WANT TO MISS #hololiveXUneed【#UneedIndonesia】"
     },
     {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=s_8oAKQQ6cY",
-        "picture": "https://i.ytimg.com/vi/s_8oAKQQ6cY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#魔物獵人荒野 】小嫩嫩初見遊玩，鍵盤控【#遊戲個人勢 / Fingla】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -174,17 +163,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730606400,
         "title": "【龍が如く0 誓いの場所】初見で挑む『龍が如く0』　12日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BcdUxW9OaNY",
-        "picture": "https://i.ytimg.com/vi/BcdUxW9OaNY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【獵逃驚魂】EP.2 這個劇情實在太迷幻了 編劇嗑了什麼阿"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -238,7 +216,7 @@
         "picture": "https://i.ytimg.com/vi/fH3WIgGfBOA/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730570400,
+        "timestamp": 1730572200,
         "title": "【EDEN ETERNAL】nostalgic anime MMORPG adventure with @holoen_gigimurin #kfp #キアライブ"
     },
     {
