@@ -198,17 +198,6 @@
         "title": "【 Pulang Insanity - Director\u0026#39;s Cut 】🙏🙏🙏🙏🙏🙏🙏🙏🙏🙏【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=obwy7_sH9rc",
-        "picture": "https://i.ytimg.com/vi/obwy7_sH9rc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MHW OBT】ワイルズの世界へLet\u0026#39;s GoOOOOOOOOOOOOOO!!!【白上フブキ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "islive": true,
@@ -218,5 +207,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ストリートファイター6】聞こえていますか？ルーク使ってる人ってまだいますか？【律可/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OjpCkbqu5M0",
+        "picture": "https://i.ytimg.com/vi/OjpCkbqu5M0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730538000,
+        "title": "【 GTAV #4 】ストーリーモードがあるらしいのでやってみるよ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
