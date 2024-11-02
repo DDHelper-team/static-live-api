@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=es2cJRq2Fsc",
         "picture": "https://i.ytimg.com/vi/es2cJRq2Fsc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730516400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SUPER METROID】完全初見でレッツゴー😸#03｜ trial and error gameplay!【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vfoaSWE1oZo",
         "picture": "https://i.ytimg.com/vi/vfoaSWE1oZo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730516400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅩ 】完全初見。オフライン版！ヒューザ！お前は斧をもて！！！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -152,17 +152,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730541600,
         "title": "【モンハンワイルズ OBT】やるぞ～～～！！！MH Wilds / PC版オープンベータ【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tQ9PWGMTkXo",
-        "picture": "https://i.ytimg.com/vi/tQ9PWGMTkXo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DONKEY KONG COUNTRY 2】before we go BANANA bonkers 🍌【FUWAMOCO｜スーパードンキーコング2】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
