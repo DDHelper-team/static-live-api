@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WLHtQmZfUjc",
         "picture": "https://i.ytimg.com/vi/WLHtQmZfUjc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730559600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Tavern Manager Simulator 】ビアガールになって酒場を復興させる！ 酒場経営シミュレーター！ 【ホロライブ/沙花叉クロヱ】"
     },
     {
