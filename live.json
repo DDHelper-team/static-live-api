@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2arj1MOf0q4",
         "picture": "https://i.ytimg.com/vi/2arj1MOf0q4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730534400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズOBT】待望の「モンスターハンターワイルズ」オープンベータテスト！！やるよ～！！【白銀ノエル/ホロライブ】"
     },
     {
@@ -165,17 +165,6 @@
         "title": "【 SILENT HILL 2 】完全初見！恐怖の名作ホラー、サイレントヒル  #3【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=H83oRpAB0s8",
-        "picture": "https://i.ytimg.com/vi/H83oRpAB0s8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～編成に迷うんだけど～【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -218,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730538000,
         "title": "【 GTAV #4 】ストーリーモードがあるらしいのでやってみるよ！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9dTtDoH0mJ4",
+        "picture": "https://i.ytimg.com/vi/9dTtDoH0mJ4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730548800,
+        "title": "【台詞回】究竟罵人的同時包含了多少實際私心!?✨【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎  #雜談 #台詞"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d0JUhwlY2SM",
+        "picture": "https://i.ytimg.com/vi/d0JUhwlY2SM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730541600,
+        "title": "クリアまで【 Detroit: Become Human 】世界中で大絶賛された超名作ゲームで運命を選択しろ― 前編 - デトロイトビカムヒューマン - 【ホロライブ/さくらみこ】"
     }
 ]
