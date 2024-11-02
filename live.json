@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=C-WM7ugmM4Q",
         "picture": "https://i.ytimg.com/vi/C-WM7ugmM4Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730516400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】TRUST Your Mori...Or Die, Lmao #calliolive"
     },
     {
@@ -244,12 +244,23 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Eju4-JFKNP0",
         "picture": "https://i.ytimg.com/vi/Eju4-JFKNP0/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【マリパ新作】スーパー マリオパーティ ジャンボリー！ぼっちではない、コソ練！！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UmTnSnwzFuE",
+        "picture": "https://i.ytimg.com/vi/UmTnSnwzFuE/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730516400,
-        "title": "【マリパ新作】スーパー マリオパーティ ジャンボリー！ぼっちではない、コソ連！！【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "timestamp": 1730520006,
+        "title": "【原神】#37 | 完全初見！ナヒーダちゃんお迎えしましょうね🌿【緋月ゆい/ネオポルテ】"
     }
 ]
