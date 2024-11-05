@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F-YE06x_4fM",
         "picture": "https://i.ytimg.com/vi/F-YE06x_4fM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730818800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR｜親密哄睡貼貼耳語❤️｜Sleep with Whispering Breath.Trigger sounds｜ささやく息で眠る【3DIO】"
     },
     {
@@ -130,17 +130,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロライブ甲子園 】限界条高校、転生投手＆キャッチャーAで春の甲子園に出たい…！ １年目秋～ #2【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=B-rQ6l0zRNE",
-        "picture": "https://i.ytimg.com/vi/B-rQ6l0zRNE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "＃６【龍が如く０】完全初見で挑む！第十五章から最後まで駆け抜けたい！【轟はじめ/ReGLOSS】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -156,12 +145,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=89Fm8s1ZgKs",
         "picture": "https://i.ytimg.com/vi/89Fm8s1ZgKs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730818800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】しっとり歌枠！！-Midnight station -78 【HACHI】"
     },
     {
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730851200,
         "title": "【Liar\u0026#39;s Bar】Always bet on Rock"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kh6a6wy3OjA",
+        "picture": "https://i.ytimg.com/vi/kh6a6wy3OjA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730903400,
+        "title": "【Zeta Birthday】Countdown \u0026amp; new accessory reveal!【 #Jazzeta】"
     }
 ]
