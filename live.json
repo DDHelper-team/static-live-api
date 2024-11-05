@@ -55,17 +55,6 @@
         "title": "【縦型配信/歌枠】老人会開催！懐かしのアニソン歌うよ🎤  #shorts【不知火フレア/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zYJwzC709l0",
-        "picture": "https://i.ytimg.com/vi/zYJwzC709l0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Surgeon Simulator 2】ラミィ、失敗しないので。【 雪花ラミィ /ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -101,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-aM6cP668xQ",
         "picture": "https://i.ytimg.com/vi/-aM6cP668xQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730815200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Lethal Company】katanya mau try hard... yaudah....."
     },
     {
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4PfqVH9H9D8",
         "picture": "https://i.ytimg.com/vi/4PfqVH9H9D8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730815200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】Let\u0026#39;s Gamble【 iofi / hololiveID 】"
     },
     {
@@ -211,12 +200,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NeNeu4NLdsE",
         "picture": "https://i.ytimg.com/vi/NeNeu4NLdsE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730815200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【LETHAL COMPANY】YANG BIKIN TAMNELNYA KAELA【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=lv0EIvymKuM",
+        "picture": "https://i.ytimg.com/vi/lv0EIvymKuM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ちょこっとクッキング 】鶏肉と蓮根の海苔マヨつくるっ！【ホロライブ/癒月ちょこ】"
     }
 ]
