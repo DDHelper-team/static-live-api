@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MRylAGIEHkA",
         "picture": "https://i.ytimg.com/vi/MRylAGIEHkA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730822400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【INSCRYPTION】top deck geck #kfp #キアライブ"
     },
     {
@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=F-YE06x_4fM",
-        "picture": "https://i.ytimg.com/vi/F-YE06x_4fM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-kDmtwTRI1s",
+        "picture": "https://i.ytimg.com/vi/-kDmtwTRI1s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ASMR｜親密哄睡貼貼耳語❤️｜Sleep with Whispering Breath.Trigger sounds｜ささやく息で眠る【3DIO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730892600,
+        "title": "11月SC點心抽獎｜超好吃狐狐手工水餃-高麗菜/蝦仁兩種口味【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -141,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【LETHAL COMPANY】YANG BIKIN TAMNELNYA KAELA【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lv0EIvymKuM",
-        "picture": "https://i.ytimg.com/vi/lv0EIvymKuM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ちょこっとクッキング 】鶏肉と蓮根の海苔マヨつくるっ！【ホロライブ/癒月ちょこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
