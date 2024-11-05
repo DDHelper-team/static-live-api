@@ -143,17 +143,6 @@
         "title": "ASMR｜親密哄睡貼貼耳語❤️｜Sleep with Whispering Breath.Trigger sounds｜ささやく息で眠る【3DIO】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1yNIB-9mwuA",
-        "picture": "https://i.ytimg.com/vi/1yNIB-9mwuA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【全国一般人常識チェック】そらあお２人で常識力チェック！！【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": true,
@@ -240,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雜談】蔥鴨Q\u0026amp;A 讓我來告訴你們🤓"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NeNeu4NLdsE",
+        "picture": "https://i.ytimg.com/vi/NeNeu4NLdsE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730815200,
+        "title": "【LETHAL COMPANY】YANG BIKIN TAMNELNYA KAELA【Kureiji Ollie】"
     }
 ]
