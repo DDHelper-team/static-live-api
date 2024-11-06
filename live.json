@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qseIm22hMrw",
         "picture": "https://i.ytimg.com/vi/qseIm22hMrw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730894400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 SILENT HILL 2 】完全初見！恐怖の名作ホラー、サイレントヒル  #5【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nShtwbG6b0s",
         "picture": "https://i.ytimg.com/vi/nShtwbG6b0s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730894400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラクエ5】勧誘チャンスは1回のみ『一期一会縛り』始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -244,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ErKvXxK1TJc",
         "picture": "https://i.ytimg.com/vi/ErKvXxK1TJc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730894400,
-        "title": "【 #モンハンワワールドアイスボーン  】あ、アイスボーン…？おいしいですか？ 【#新人vtuber 】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #モンハンワールドアイスボーン  】あ、アイスボーン…？おいしいですか？ 【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QDo2J-Hepu0",
         "picture": "https://i.ytimg.com/vi/QDo2J-Hepu0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730894400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【風来のシレン6】続き１４Fから最強げきむず　超・神髄ダンジョンに挑む！【律可/ホロスターズ】#りつすた"
     },
     {
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730930400,
         "title": "【Overcooked2】AGF朝組で地獄の寝起きクッキング【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Lh23C_aW8CI",
+        "picture": "https://i.ytimg.com/vi/Lh23C_aW8CI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730898000,
+        "title": "【ASA￤アベレーション】テイムラストスパートやっちゃうか！続・全恐竜捕まえるまで終われまテン！Part 11【アキロゼ/ホロライブ】"
     }
 ]
