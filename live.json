@@ -40,7 +40,7 @@
         "picture": "https://i.ytimg.com/vi/NpEZ2yue2Gg/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1730851200,
+        "timestamp": null,
         "title": "【HOLOLIVE GAMES】A BIG Selection of Games Made By Our Fans!! #calliolive"
     },
     {
@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1nvkkw435Zs",
         "picture": "https://i.ytimg.com/vi/1nvkkw435Zs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730851200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】Always bet on Rock"
     },
     {
@@ -141,5 +141,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730919600,
         "title": "【MIRAGE 3D MODEL REVEAL】super cute shiny new wawa appeared!!! #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SGFqFXzA35k",
+        "picture": "https://i.ytimg.com/vi/SGFqFXzA35k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730858400,
+        "title": "【Liar\u0026#39;s Bar】Nothing But Lies, LIES"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uCtqxRkKDJk",
+        "picture": "https://i.ytimg.com/vi/uCtqxRkKDJk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730941200,
+        "title": "≪Yakuza 3≫ MINE. #3【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-JXxZ3YQrd8",
+        "picture": "https://i.ytimg.com/vi/-JXxZ3YQrd8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730941200,
+        "title": "Mary, where are thee? | Silent Hill 2 P. 3 [SPOILERS]"
     }
 ]
