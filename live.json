@@ -35,24 +35,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5T9MocR2MKs",
         "picture": "https://i.ytimg.com/vi/5T9MocR2MKs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730898000,
-        "title": "【雜談】新手Vtuber 必須知道的6件事情☝️😳"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CrfUKj6t2Cc",
-        "picture": "https://i.ytimg.com/vi/CrfUKj6t2Cc/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Riot Games ONE/ #THEUNLOCKERS】高性能にアンロックっっっ！！！【ホロライブ / ロボ子さん】"
+        "title": "【雜談】新人Vtuber 一定要知道的6件事情☝️😳"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -189,23 +178,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zLYkM-Hz6CU",
         "picture": "https://i.ytimg.com/vi/zLYkM-Hz6CU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730898000,
-        "title": "配信予定～～～～～！！なんと重大告知あります【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【お部屋紹介】重大告知あり！リスナーさんのお部屋にお邪魔します！【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=v9RParFvmRw",
         "picture": "https://i.ytimg.com/vi/v9RParFvmRw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730898000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】おみゃえら視聴者参加型いくぞおおお！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
@@ -255,23 +244,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Lh23C_aW8CI",
         "picture": "https://i.ytimg.com/vi/Lh23C_aW8CI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730898000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ASA￤アベレーション】テイムラストスパートやっちゃうか！続・全恐竜捕まえるまで終われまテン！Part 11【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3ZIXRiTGf4w",
         "picture": "https://i.ytimg.com/vi/3ZIXRiTGf4w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730898900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】Explore penjara⚠️SPOILER WARNING⚠️"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=-YyQq6IpCUk",
+        "picture": "https://i.ytimg.com/vi/-YyQq6IpCUk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "#5【SILENT HILL 2】sorry I forgot (SPOILER WARNING)【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=6IJpVVGIxno",
+        "picture": "https://i.ytimg.com/vi/6IJpVVGIxno/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ゲリラKARAOKE】ムシと出会って一年だから６×４曲歌う【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
