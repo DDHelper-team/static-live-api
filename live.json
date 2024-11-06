@@ -185,5 +185,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730930400,
         "title": "【MINECRAFT HARDCORE】stream ends when we beat ender dragon【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NUeOyP2YFvc",
+        "picture": "https://i.ytimg.com/vi/NUeOyP2YFvc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730890800,
+        "title": "【配信予定】【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=78uXsPz17Hw",
+        "picture": "https://i.ytimg.com/vi/78uXsPz17Hw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スト６】ダイヤ5~ ジェイミーマスター耐久！【岸堂天真/ホロスターズ】"
     }
 ]
