@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8ezYXrOqTns",
         "picture": "https://i.ytimg.com/vi/8ezYXrOqTns/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730890800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 おしゃべりAI 】笑ったら罰ゲームです絶対に笑わないように🍙🥐ˊ˗【 猫又おかゆ×戌神ころね / #おかころ 】"
     },
     {
@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NUeOyP2YFvc",
         "picture": "https://i.ytimg.com/vi/NUeOyP2YFvc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730890800,
-        "title": "【配信予定】【ホロライブ/宝鐘マリン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【青鬼】恐怖！！！超倍速の青鬼から逃げる！！！【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wcIP0kFXHqA",
         "picture": "https://i.ytimg.com/vi/wcIP0kFXHqA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730890800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】喉壊れ気味【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -240,5 +240,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1730901605,
         "title": "【原神】#39 -世界任務編 | 完全初見！まだまだ砂漠編続きます⌛️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ErKvXxK1TJc",
+        "picture": "https://i.ytimg.com/vi/ErKvXxK1TJc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730894400,
+        "title": "【 #モンハンワワールドアイスボーン  】あ、アイスボーン…？おいしいですか？ 【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QDo2J-Hepu0",
+        "picture": "https://i.ytimg.com/vi/QDo2J-Hepu0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730894400,
+        "title": "【風来のシレン6】続き１４Fから最強げきむず　超・神髄ダンジョンに挑む！【律可/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BWNzQ1md7yc",
+        "picture": "https://i.ytimg.com/vi/BWNzQ1md7yc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1730930400,
+        "title": "【Overcooked2】AGF朝組で地獄の寝起きクッキング【花咲みやび/ホロスターズ】"
     }
 ]
