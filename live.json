@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ft2eL3Fub0U",
-        "picture": "https://i.ytimg.com/vi/Ft2eL3Fub0U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DEATH NOTE KILLER WITHIN】it\u0026#39;s death note among us【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": false,
@@ -24,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wgEphTx9Z-k",
         "picture": "https://i.ytimg.com/vi/wgEphTx9Z-k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730858400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Behind-the-Scenes of Halloween Town | The Making of Duskmire"
     },
     {
@@ -145,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SGFqFXzA35k",
         "picture": "https://i.ytimg.com/vi/SGFqFXzA35k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1730858400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】Nothing But Lies, LIES"
     },
     {
