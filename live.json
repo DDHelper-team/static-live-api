@@ -11,17 +11,6 @@
         "title": "【HOLOLIVE GAMES】A BIG Selection of Games Made By Our Fans!! #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=38fJIy2FoDg",
-        "picture": "https://i.ytimg.com/vi/38fJIy2FoDg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1775044800,
-        "title": "𝐂𝐀𝐓𝐋𝐎𝐑𝐃"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": true,
@@ -44,17 +33,6 @@
         "title": "【 メン限 】「ルックバック」同時視聴！泣かない。【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -64,28 +42,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 トルネコの大冒険2 】……やっぱり。 わたしが選ばれるんじゃないかと思ってましたよ。【鷹嶺ルイ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=2JciZo2afXg",
-        "picture": "https://i.ytimg.com/vi/2JciZo2afXg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1757415600,
-        "title": "freechat🖋️"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -194,7 +150,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "not finishing inscryption today"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -228,5 +184,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731031200,
         "title": "【LEFT 4 DEAD 2 COLLAB】don\u0026#39;t touch the ears, don\u0026#39;t touch the gnome 🐾 #holoAdvent【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lVB9CZyYf5Y",
+        "picture": "https://i.ytimg.com/vi/lVB9CZyYf5Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731027600,
+        "title": "ADVENT\u0026#39;S BACK | L4D2"
     }
 ]
