@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JX8VIeS3_cs",
-        "picture": "https://i.ytimg.com/vi/JX8VIeS3_cs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GzHU0hbbwYY",
+        "picture": "https://i.ytimg.com/vi/GzHU0hbbwYY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Praise Be to That Which is Eternal!【Eden Eternal】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731031200,
+        "title": "A Feast of Bullets and (Dead) Meat【Left 4 Dead 2】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -184,5 +184,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731027600,
         "title": "ADVENT\u0026#39;S BACK | L4D2"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=s9lUhGApqk8",
+        "picture": "https://i.ytimg.com/vi/s9lUhGApqk8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731060000,
+        "title": "【 トルネコの大冒険2 】己のみを信じる封印耐久【鷹嶺ルイ/ホロライブ】"
     }
 ]
