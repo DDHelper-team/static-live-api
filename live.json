@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=emTHVyvRy4s",
         "picture": "https://i.ytimg.com/vi/emTHVyvRy4s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731056400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ミリしらFG】11月9日20時からデビューする新人ちゃんのイメージ予想！！【白銀ノエル/ホロライブ】"
     },
     {
@@ -233,23 +233,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e-yVhJQHSJE",
         "picture": "https://i.ytimg.com/vi/e-yVhJQHSJE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731056400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト６】マスターチャレンジ22体目、キンバリー編！コンボ練習から！【岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ysq7W8mzM8g",
         "picture": "https://i.ytimg.com/vi/Ysq7W8mzM8g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731056400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】話したいことが飽和する秋ほわほわ【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731078000,
         "title": "【KU100/ASMR】はむはむで汗だくになっちゃう♡お耳から体の芯まで暖まる睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Hvy4xxdP8Dg",
+        "picture": "https://i.ytimg.com/vi/Hvy4xxdP8Dg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731067200,
+        "title": "【】【ホロライブ/大空スバル】"
     }
 ]
