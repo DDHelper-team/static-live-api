@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tiUQ2i8lYNA",
         "picture": "https://i.ytimg.com/vi/tiUQ2i8lYNA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731103200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#122 11/9土曜日！土おいしい【尾丸ポルカ/ホロライブ】"
     }
 ]
