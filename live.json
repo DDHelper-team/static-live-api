@@ -154,17 +154,6 @@
         "title": "【MOUTHWASHING】ORAL RINSING IS SCARY??【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0Dj1Ib2SVZE",
-        "picture": "https://i.ytimg.com/vi/0Dj1Ib2SVZE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【縦型歌枠】しっとり歌枠！雑談もしよ～！【轟はじめ/ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": true,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731106800,
         "title": "【ミリしらFG】後輩ちゃんのミリしらやってみる！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=84mLHpLNLxY",
+        "picture": "https://i.ytimg.com/vi/84mLHpLNLxY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731124800,
+        "title": "【龍が如く 極2】初見で挑む『龍が如く 極2』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     }
 ]
