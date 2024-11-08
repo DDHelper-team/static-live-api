@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GzHU0hbbwYY",
-        "picture": "https://i.ytimg.com/vi/GzHU0hbbwYY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=e1K6PON6n_E",
+        "picture": "https://i.ytimg.com/vi/e1K6PON6n_E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "A Feast of Bullets and (Dead) Meat【Left 4 Dead 2】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731121200,
+        "title": "Crab Pot Party Where Viewers are the Crabs【Crab Game】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -31,17 +31,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731070800,
         "title": "【 メン限 】「ルックバック」同時視聴！泣かない。【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lcP_0djA2cI",
-        "picture": "https://i.ytimg.com/vi/lcP_0djA2cI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Left 4 Dead 2】Advent vs. Zombies: THE RETURN! #holoadvent"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
@@ -57,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AQ_g4H5D4yY",
         "picture": "https://i.ytimg.com/vi/AQ_g4H5D4yY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731038400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く 極2】初見で挑む『龍が如く 極2』　4日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -134,24 +123,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cATnzDoQmSU",
-        "picture": "https://i.ytimg.com/vi/cATnzDoQmSU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6PUR_qK0rrY",
+        "picture": "https://i.ytimg.com/vi/6PUR_qK0rrY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【LEFT 4 DEAD 2 COLLAB】don\u0026#39;t touch the ears, don\u0026#39;t touch the gnome 🐾 #holoAdvent【FUWAMOCO】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lVB9CZyYf5Y",
-        "picture": "https://i.ytimg.com/vi/lVB9CZyYf5Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ADVENT\u0026#39;S BACK | L4D2"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731117600,
+        "title": "【3D TRICK OR TREATING】trick or treat, smell feet, good to eat 🎃🐾 【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -196,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731117600,
         "title": "【FF10】遂にFINAL FANTASY Xへ！完全初見！回想のそのさきへ・・・！ #7 【博衣こより/ホロライブ】【ネタバレあり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kzuOJF3HVkQ",
+        "picture": "https://i.ytimg.com/vi/kzuOJF3HVkQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731124800,
+        "title": "【 メトロイド ゼロミッション 】初見でがんばるど～～～～！#01【 猫又おかゆ/ホロライブ 】"
     }
 ]
