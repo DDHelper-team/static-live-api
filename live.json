@@ -99,17 +99,6 @@
         "title": "【3D TRICK OR TREATING】trick or treat, smell feet, good to eat 🎃🐾 【FUWAMOCO】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=s9lUhGApqk8",
-        "picture": "https://i.ytimg.com/vi/s9lUhGApqk8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 トルネコの大冒険2 】己のみを信じる封印耐久【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": true,
@@ -222,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tAqCPhCz4TE",
         "picture": "https://i.ytimg.com/vi/tAqCPhCz4TE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731072600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】喉、大丈夫か？ sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731074400,
         "title": "旅に出る。おじいちゃんの後をつけて・・・【Old Man\u0026#39;s Journey】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1VxoExKS_xc",
+        "picture": "https://i.ytimg.com/vi/1VxoExKS_xc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731144600,
+        "title": "【スト6】本当に初心者の赤ちゃんがまじめに3日間スト6をやったらどこまでランクいけるのか🔰1日目#ござるスト6チャレンジ【風真いろは/ホロライブ】"
     }
 ]
