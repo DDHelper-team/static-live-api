@@ -22,17 +22,6 @@
         "title": "Crab Pot Party Where Viewers are the Crabs【Crab Game】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AQ_g4H5D4yY",
-        "picture": "https://i.ytimg.com/vi/AQ_g4H5D4yY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く 極2】初見で挑む『龍が如く 極2』　4日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=M-SfmFg9wSo",
         "picture": "https://i.ytimg.com/vi/M-SfmFg9wSo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731078000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】はむはむで汗だくになっちゃう♡お耳から体の芯まで暖まる睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731121200,
         "title": "【 #ホロライブ甲子園 】#6 一年目秋大会から！！！かなターン高校、育成！！！！！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4sYZf6q5Wd8",
+        "picture": "https://i.ytimg.com/vi/4sYZf6q5Wd8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731114000,
+        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     }
 ]
