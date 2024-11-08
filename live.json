@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nz6CB1GHo-I",
         "picture": "https://i.ytimg.com/vi/nz6CB1GHo-I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731106800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ミリしらFG】後輩ちゃんのミリしらやってみる！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x_Ua2dWZYtk",
         "picture": "https://i.ytimg.com/vi/x_Ua2dWZYtk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731106800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Silent Hill 2】 Fauna + Gigi VS classic horror (spoilers) (please save us)"
     },
     {
