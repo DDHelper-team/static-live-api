@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jvZDEZnlG4s",
         "picture": "https://i.ytimg.com/vi/jvZDEZnlG4s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731076200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Unsorted Horror】The Monster Doubled Its Stomach Pain and Gave It to Me but we back【Pavolia Reine】"
     },
     {
