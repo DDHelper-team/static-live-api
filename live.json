@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e1K6PON6n_E",
         "picture": "https://i.ytimg.com/vi/e1K6PON6n_E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731121200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Crab Pot Party Where Viewers are the Crabs【Crab Game】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3cmuz27vbT4",
         "picture": "https://i.ytimg.com/vi/3cmuz27vbT4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731121200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園 】#6 一年目秋大会から！！！かなターン高校、育成！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
@@ -130,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731124800,
         "title": "【龍が如く 極2】初見で挑む『龍が如く 極2』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=5Ynea65L0fE",
-        "picture": "https://i.ytimg.com/vi/5Ynea65L0fE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731121200,
-        "title": "【 雑談 】最強天才！無軌道雑談♡【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -187,17 +176,6 @@
         "title": "【Core Keeper】it ain\u0026#39;t much but it\u0026#39;s honest work【SOLO WORLD】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=K0jy_fqrjv8",
-        "picture": "https://i.ytimg.com/vi/K0jy_fqrjv8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731121200,
-        "title": "【 ドラクエⅩ 】完全初見。オフライン版！キーエンブレムが揃ったぞおおおおお！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -240,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731132000,
         "title": "【 #フブミオ大予想】FLOW GLOWデビュー前妄想プロフィール！【ホロライブ/白上フブキ/大神ミオ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZEuTWFekEcA",
+        "picture": "https://i.ytimg.com/vi/ZEuTWFekEcA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731139200,
+        "title": "【Liar\u0026#39;s Bar】ぁ...ミオです...対よろです...【視聴者参加型】"
     }
 ]
