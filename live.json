@@ -18,8 +18,8 @@
         "picture": "https://i.ytimg.com/vi/VlnCyp_IiAk/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1731157200,
-        "title": "大人の時間なのらね…🥃(・o・🍬) ～高級クラブルーナ～【姫森ルーナ/ホロライブ】"
+        "timestamp": 1731159000,
+        "title": "大人になるって…こういうことなのらね…🥃(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wEd7I7IGAMA",
         "picture": "https://i.ytimg.com/vi/wEd7I7IGAMA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731157200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "作業雜談｜陪狐狐一起做週表工作吧✨順便聊聊震碎三觀的事情 Surfshark VPN贊助【Healing希靈/VTuber】"
     },
     {
@@ -163,17 +163,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #FLOWGLOW 同時視聴 】#miComet で新人ちゃんデビュー配信をみるぜ！！！！🌸☄【星街すいせい/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bQPwIhN5cPo",
-        "picture": "https://i.ytimg.com/vi/bQPwIhN5cPo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SILENT HILL 2】※ネタバレあり 完全シリーズ初見なんですが2からでも行けるって…？【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -306,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731160800,
         "title": "【The Bathhouse | RE : 地獄銭湯 】４０度超えた湯は危ない。 / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oxhETUPPapI",
+        "picture": "https://i.ytimg.com/vi/oxhETUPPapI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731236400,
+        "title": "【Party Animals】うんうんこれもまた格ゲーだよね【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9a858GlaMzE",
+        "picture": "https://i.ytimg.com/vi/9a858GlaMzE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731159039,
+        "title": "【VALORANT】たそまるとでーとおおおおおおおおおお【緋月ゆい/ネオポルテ】"
     }
 ]
