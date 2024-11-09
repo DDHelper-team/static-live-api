@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4sYZf6q5Wd8",
         "picture": "https://i.ytimg.com/vi/4sYZf6q5Wd8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731114000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NXXlF5dIRIg",
         "picture": "https://i.ytimg.com/vi/NXXlF5dIRIg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731114000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】spooky month is over but im still here【Dokibird】"
     },
     {
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uFtC3xeBMao",
         "picture": "https://i.ytimg.com/vi/uFtC3xeBMao/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731111300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Core Keeper】it ain\u0026#39;t much but it\u0026#39;s honest work【SOLO WORLD】"
     },
     {
@@ -218,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Silent Hill 2】 Fauna + Gigi VS classic horror (spoilers) (please save us)"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tiUQ2i8lYNA",
-        "picture": "https://i.ytimg.com/vi/tiUQ2i8lYNA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#122 11/9土曜日！土おいしい【尾丸ポルカ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
