@@ -46,24 +46,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kzuOJF3HVkQ",
-        "picture": "https://i.ytimg.com/vi/kzuOJF3HVkQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rlylHqns09w",
+        "picture": "https://i.ytimg.com/vi/rlylHqns09w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 メトロイド ゼロミッション 】初見でがんばるど～～～～！#01【 猫又おかゆ/ホロライブ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731148200,
+        "title": "【 同時視聴 】#FLOWGLOW のデビューを見守ろう🍙🥐✦【 #おかころ / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3BvgHdaFuSk",
-        "picture": "https://i.ytimg.com/vi/3BvgHdaFuSk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JuM535v8tH0",
+        "picture": "https://i.ytimg.com/vi/JuM535v8tH0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く  極】神室町の女ラミィ、暴れます。※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731211200,
+        "title": "【龍が如く  極】第五章 賽の河原 ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -154,17 +154,6 @@
         "title": "【DIABLO IV】back in hell #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=n9duS4UcNeY",
-        "picture": "https://i.ytimg.com/vi/n9duS4UcNeY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～さぁ強くなるのだ～【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -185,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731146400,
         "title": "【#1期生お披露目リレー配信 】カワイイお揃いの◯◯◯◯公開！？【ホロライブ/白上フブキ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZEuTWFekEcA",
-        "picture": "https://i.ytimg.com/vi/ZEuTWFekEcA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Liar\u0026#39;s Bar】ぁ...ミオです...対よろです...【視聴者参加型】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -321,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SYlSdW2tT00",
         "picture": "https://i.ytimg.com/vi/SYlSdW2tT00/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731142800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#Zetalk】Post-Bday Chat \u0026amp; Behind-The-Scenes, etc #Jazzeta"
     }
 ]
