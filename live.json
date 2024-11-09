@@ -132,17 +132,6 @@
         "title": "【 #ホロライブ１期生】お披露目のやつで！マリパでジャンボリーする！【スーパー マリオパーティ ジャンボリー】"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zUi6jitU_IQ",
-        "picture": "https://i.ytimg.com/vi/zUi6jitU_IQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【原神】#41 | 完全初見！遂に動き出す物語📖【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731159000,
         "title": "【音楽学校の話】したことなかったよね？話してみよう！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QPedfuI2xeA",
+        "picture": "https://i.ytimg.com/vi/QPedfuI2xeA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731160800,
+        "title": "【The Bathhouse | RE : 地獄銭湯 】４０度超えた湯は危ない。 / アステル"
     }
 ]
