@@ -306,5 +306,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731153600,
         "title": "【 Liar\u0026#39;s Bar 】リスナーと命を賭けた騙し合い！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=09J_t22aRkk",
+        "picture": "https://i.ytimg.com/vi/09J_t22aRkk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スト６】マスターチャレンジキンバリー編！いよいよランクマッチ！【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zEpNPGUjecE",
+        "picture": "https://i.ytimg.com/vi/zEpNPGUjecE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731178800,
+        "title": "【MINECRAFT BLOCK WARS】i wont fail the parkour this time【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SYlSdW2tT00",
+        "picture": "https://i.ytimg.com/vi/SYlSdW2tT00/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731142800,
+        "title": "【#Zetalk】Post-Bday Chat \u0026amp; Behind-The-Scenes, etc #Jazzeta"
     }
 ]
