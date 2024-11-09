@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OLyxrz2RLBM",
         "picture": "https://i.ytimg.com/vi/OLyxrz2RLBM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731146400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#1期生お披露目リレー配信 】カワイイお揃いの◯◯◯◯公開！？【ホロライブ/白上フブキ 】"
     },
     {
@@ -328,5 +328,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731218400,
         "title": "【モンハンコラボ】カプとれで、フブミオクレーンゲーム対決！【白上フブキ×大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nHGT8lIAv-U",
+        "picture": "https://i.ytimg.com/vi/nHGT8lIAv-U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731160800,
+        "title": "#11【Ace Attorney: Dual Destinies】IN JUSTICE WE TRUST...? (SPOILERS!)【Pavolia Reine/holoID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=H8ZHJBuoBmc",
+        "picture": "https://i.ytimg.com/vi/H8ZHJBuoBmc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731229200,
+        "title": "【 雑談/Freetalk 】メンバーと遊びに行ったり泊まったり、帰省していた話だったり聞いてくれ！【常闇トワ/ホロライブ】"
     }
 ]
