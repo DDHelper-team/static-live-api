@@ -200,11 +200,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=MoAC_BqrePk",
         "picture": "https://i.ytimg.com/vi/MoAC_BqrePk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "ソロマリパ"
     },
