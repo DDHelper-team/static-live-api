@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xaBL5I-Cm5A",
         "picture": "https://i.ytimg.com/vi/xaBL5I-Cm5A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731170700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】全力夜更かしタイムだぁ～！！！💣【赤井はあと/ホロライブ】"
     }
 ]
