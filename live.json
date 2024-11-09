@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iJpIGu5HuGY",
-        "picture": "https://i.ytimg.com/vi/iJpIGu5HuGY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OLyxrz2RLBM",
+        "picture": "https://i.ytimg.com/vi/OLyxrz2RLBM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #フブミオ大予想】FLOW GLOWデビュー前妄想プロフィール！【ホロライブ/白上フブキ/大神ミオ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731146400,
+        "title": "【#1期生お披露目リレー配信 】カワイイお揃いの◯◯◯◯公開！？【ホロライブ/白上フブキ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731148200,
         "title": "【#1期生お披露目リレー配信 】ついに見せる時が来たわね・・・バサァ！！！【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KCPs-oAwsMY",
+        "picture": "https://i.ytimg.com/vi/KCPs-oAwsMY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731147300,
+        "title": "【 #1期生お披露目リレー配信 】おそろいって憧れだよね！【ホロライブ/夏色まつり】"
     }
 ]
