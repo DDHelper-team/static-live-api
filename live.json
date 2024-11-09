@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zEpNPGUjecE",
         "picture": "https://i.ytimg.com/vi/zEpNPGUjecE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731178800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT BLOCK WARS】i wont fail the parkour this time【Dokibird】"
     },
     {
