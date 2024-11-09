@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=W-FLIqp3Auw",
-        "picture": "https://i.ytimg.com/vi/W-FLIqp3Auw/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=iPsfkzAIuF8",
+        "picture": "https://i.ytimg.com/vi/iPsfkzAIuF8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731153600,
-        "title": "【MOUTHWASHING】ORAL RINSING IS SCARY??【Kureiji Ollie】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#FLOWGLOW DEBUT WATCHALONG】HELLO NEW KOUHAIS FROM HOLOLIVE DEV_IS!!【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_aJWDEbAdEw",
         "picture": "https://i.ytimg.com/vi/_aJWDEbAdEw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731153600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】リスナーと命を賭けた騙し合い！【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@Hakuzen0025",
         "channellink": "https://www.youtube.com/@Hakuzen0025",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kND9l28IxAI",
         "picture": "https://i.ytimg.com/vi/kND9l28IxAI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731153600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【咕嚕咕嚕魔法陣】全服最衰(認真)來了 11/9【久田はくぜん🦊】"
     },
     {
@@ -295,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731200400,
         "title": "【朝活雑談】新人ちゃんの話で盛り上がりそうな予感⚡【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q3ZudzfW_tA",
+        "picture": "https://i.ytimg.com/vi/q3ZudzfW_tA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731159000,
+        "title": "【音楽学校の話】したことなかったよね？話してみよう！【ホロライブ/ときのそら】"
     }
 ]
