@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PR2iVRTTFwE",
         "picture": "https://i.ytimg.com/vi/PR2iVRTTFwE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731193200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼルダの伝説 知恵のかりもの】終盤の空気を感じつつ、朝活生活はじめます！#9【角巻わため/ホロライブ４期生】"
     },
     {
@@ -231,16 +231,6 @@
         "title": "【Something is Something】?【Moona Hoshinova】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "NEURO PLAYS LIARS BAR WITH VEDAL, ANNY AND CAMILA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -250,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731232800,
         "title": "【近畿霊務局】消えた村の謎を追いながら幽霊を“物理的”に除霊していくぞい！【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gZP4NuzCCv4",
+        "picture": "https://i.ytimg.com/vi/gZP4NuzCCv4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731196800,
+        "title": "【EAT-TALK】喉が辛い君に！Hotな食べ物を🔥【ホロライブ / ロボ子さん】"
     }
 ]
