@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VlnCyp_IiAk",
-        "picture": "https://i.ytimg.com/vi/VlnCyp_IiAk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Zstglu8Ob20",
+        "picture": "https://i.ytimg.com/vi/Zstglu8Ob20/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "大人になるって…こういうことなのらね…🥃(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731240000,
+        "title": "【 鳴蟇村 | ホラゲ 】地図にない廃村からの脱出を試みるのら！！！【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -198,17 +198,6 @@
         "title": "【朝活雑談】新人ちゃんの話で盛り上がりそうな予感⚡【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=q3ZudzfW_tA",
-        "picture": "https://i.ytimg.com/vi/q3ZudzfW_tA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【音楽学校の話】したことなかったよね？話してみよう！【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731214800,
         "title": "【雑談】FLOW GLOWキタアアアア!!初めてのDEV属の後輩ちゃん…!! 昨日挨拶したけど、このままだとやばいです。【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PTaIPb1XLUI",
+        "picture": "https://i.ytimg.com/vi/PTaIPb1XLUI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731196800,
+        "title": "【Dead Space Remake】BiBRAVE in SPACE!"
     }
 ]
