@@ -77,17 +77,6 @@
         "title": "【MOUTHWASHING】ORAL RINSING IS SCARY??【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1VxoExKS_xc",
-        "picture": "https://i.ytimg.com/vi/1VxoExKS_xc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】本当に初心者の赤ちゃんがまじめに3日間スト6をやったらどこまでランクいけるのか🔰1日目#ござるスト6チャレンジ【風真いろは/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -112,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hQECS3wrwno",
         "picture": "https://i.ytimg.com/vi/hQECS3wrwno/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731149100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #1期生お披露目リレー配信 】かわいいやつできたGYAO!【アキロゼ/ホロライブ】"
     },
     {
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z1vGxI_bDq8",
         "picture": "https://i.ytimg.com/vi/Z1vGxI_bDq8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731149100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】#FLOWGLOW デビューおめでとおおお！みんなでみんなを観る！！【尾丸ポルカ/ホロライブ】"
     },
     {
@@ -328,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731229200,
         "title": "【 雑談/Freetalk 】メンバーと遊びに行ったり泊まったり、帰省していた話だったり聞いてくれ！【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hakuzen0025",
+        "channellink": "https://www.youtube.com/@Hakuzen0025",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kND9l28IxAI",
+        "picture": "https://i.ytimg.com/vi/kND9l28IxAI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731153600,
+        "title": "【咕嚕咕嚕魔法陣】全服最衰(認真)來了 11/9【久田はくぜん🦊】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DUUJaweQtNs",
+        "picture": "https://i.ytimg.com/vi/DUUJaweQtNs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731159000,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
