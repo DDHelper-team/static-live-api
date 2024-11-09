@@ -55,17 +55,6 @@
         "title": "【龍が如く  極】第五章 賽の河原 ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iPsfkzAIuF8",
-        "picture": "https://i.ytimg.com/vi/iPsfkzAIuF8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#FLOWGLOW DEBUT WATCHALONG】HELLO NEW KOUHAIS FROM HOLOLIVE DEV_IS!!【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -75,17 +64,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=84mLHpLNLxY",
-        "picture": "https://i.ytimg.com/vi/84mLHpLNLxY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く 極2】初見で挑む『龍が如く 極2』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -189,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nHGT8lIAv-U",
         "picture": "https://i.ytimg.com/vi/nHGT8lIAv-U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731160800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#11【Ace Attorney: Dual Destinies】IN JUSTICE WE TRUST...? (SPOILERS!)【Pavolia Reine/holoID】"
     },
     {
@@ -244,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QPedfuI2xeA",
         "picture": "https://i.ytimg.com/vi/QPedfuI2xeA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731160800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Bathhouse | RE : 地獄銭湯 】４０度超えた湯は危ない。 / アステル"
     },
     {
@@ -273,5 +251,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VALORANT】たそまるとでーとおおおおおおおおおお【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=T2WZV2Y2wog",
+        "picture": "https://i.ytimg.com/vi/T2WZV2Y2wog/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731211200,
+        "title": "【 メトロイド ゼロミッション 】初見でがんばるど～～～～！#02【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=yjPjWJ5f4GM",
+        "picture": "https://i.ytimg.com/vi/yjPjWJ5f4GM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Visage】ふーたんに見守られながら最恐ホラゲーする…。【ホロライブ/癒月ちょこ/不知火フレア】"
     }
 ]
