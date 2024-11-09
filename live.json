@@ -88,17 +88,6 @@
         "title": "塔羅占卜#77｜你今天占了嗎？🔮✨🦊【Healing希靈/VTuber75】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HRDP9-I0qfw",
-        "picture": "https://i.ytimg.com/vi/HRDP9-I0qfw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロライブ１期生】お披露目のやつで！マリパでジャンボリーする！【スーパー マリオパーティ ジャンボリー】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5UFFR94lv7I",
         "picture": "https://i.ytimg.com/vi/5UFFR94lv7I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731169800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【睡眠導入】久々に自分の島見に行くよ🌃【ホロライブ/夏色まつり】"
     },
     {
@@ -284,5 +273,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731196800,
         "title": "【Dead Space Remake】BiBRAVE in SPACE!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PR2iVRTTFwE",
+        "picture": "https://i.ytimg.com/vi/PR2iVRTTFwE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731193200,
+        "title": "【ゼルダの伝説 知恵のかりもの】終盤の空気を感じつつ、朝活生活はじめます！#9【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uJxvyJ6e60o",
+        "picture": "https://i.ytimg.com/vi/uJxvyJ6e60o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731243600,
+        "title": "【Something is Something】?【Moona Hoshinova】"
     }
 ]
