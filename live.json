@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H8ZHJBuoBmc",
         "picture": "https://i.ytimg.com/vi/H8ZHJBuoBmc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731229200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談/Freetalk 】メンバーと遊びに行ったり泊まったり、帰省していた話だったり聞いてくれ！【常闇トワ/ホロライブ】"
     },
     {
@@ -141,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731232800,
         "title": "【近畿霊務局】消えた村の謎を追いながら幽霊を“物理的”に除霊していくぞい！【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ltlo8kctzwg",
-        "picture": "https://i.ytimg.com/vi/Ltlo8kctzwg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～ 好きキャラは外さない～【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731313800,
         "title": "【MOUTHWASHING】ORAL RINSING IS SCARY??【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UFDGUhelnKw",
+        "picture": "https://i.ytimg.com/vi/UFDGUhelnKw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731232800,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
