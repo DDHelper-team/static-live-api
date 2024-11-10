@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wdezbz2FmV0",
         "picture": "https://i.ytimg.com/vi/wdezbz2FmV0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731214800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】FLOW GLOWキタアアアア!!初めてのDEV属の後輩ちゃん…!! 昨日挨拶したけど、このままだとやばいです。【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731218400,
         "title": "【 競馬 】エリザベス女王杯２０２４🏇予想＆同時視聴するにぇぇぇぇぇ‼【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=g5vKkS19nq8",
+        "picture": "https://i.ytimg.com/vi/g5vKkS19nq8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731232800,
+        "title": "【歌枠】秋がやってきた！重大告知する！！！！！！Singing Stream【ホロライブ / AZKi】"
     }
 ]
