@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OFwOxrpODLg",
         "picture": "https://i.ytimg.com/vi/OFwOxrpODLg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731207600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園 】#7 二年目合宿から！！！かなターン高校、育成！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731211200,
         "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～ 好きキャラは外さない～【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NEGKEqN9vK4",
+        "picture": "https://i.ytimg.com/vi/NEGKEqN9vK4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731218400,
+        "title": "【 競馬 】エリザベス女王杯２０２４🏇予想＆同時視聴するにぇぇぇぇぇ‼【ホロライブ/さくらみこ】"
     }
 ]
