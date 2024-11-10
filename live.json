@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=oxhETUPPapI",
-        "picture": "https://i.ytimg.com/vi/oxhETUPPapI/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=c8W_u5f5WYM",
+        "picture": "https://i.ytimg.com/vi/c8W_u5f5WYM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731236400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Party Animals】うんうんこれもまた格ゲーだよね【アルランディス/ホロスターズ】"
     },
     {
@@ -222,23 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wtyXjCZlbTo",
         "picture": "https://i.ytimg.com/vi/wtyXjCZlbTo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731236400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】喉壊治りかけ【荒咬オウガ /ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=89xHdDcxYeE",
         "picture": "https://i.ytimg.com/vi/89xHdDcxYeE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731236400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Poppy Playtime2 】び、びびビビってないし…！ ホラーゲーム 初見プレイ 【ホロライブ/沙花叉クロヱ】"
     },
     {
@@ -251,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731240000,
         "title": "【 雑談＆告知 】極秘情報を諸君にお教えします。【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d04n0p6QQr0",
+        "picture": "https://i.ytimg.com/vi/d04n0p6QQr0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731297600,
+        "title": "【スタマス】実は初見で挑む『アイドルマスター スターリットシーズン』　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IY9jogI5F4I",
+        "picture": "https://i.ytimg.com/vi/IY9jogI5F4I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731276000,
+        "title": "【11月11日】アルランディス誕生日SP #花岸れいでぃお 第65回【花咲みやび/岸堂天真/ホロスターズ】"
     }
 ]
