@@ -72,7 +72,7 @@
         "link": "https://www.youtube.com/watch?v=phkvcejdIfo",
         "picture": "https://i.ytimg.com/vi/phkvcejdIfo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1731216600,
         "title": "【 エリザベス女王杯 】最強の女王はどの馬だ！？【鷹嶺ルイ/ホロライブ】"
     },
@@ -240,5 +240,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731232800,
         "title": "【歌枠】秋がやってきた！重大告知する！！！！！！Singing Stream【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YyCSTRVSNxw",
+        "picture": "https://i.ytimg.com/vi/YyCSTRVSNxw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731240000,
+        "title": "【スト6】本当に初心者の赤ちゃんがまじめに3日間スト6をやったらどこまでランクいけるのか🔰2日目#ござるスト6チャレンジ【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Lp-S6KzRPVo",
+        "picture": "https://i.ytimg.com/vi/Lp-S6KzRPVo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731272400,
+        "title": "6 HOURS OF P\u0026amp;P LETS GO | Pride and Prejudice 1995 🦚"
     }
 ]
