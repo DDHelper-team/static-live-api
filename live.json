@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dkU68Y-fn0Q",
         "picture": "https://i.ytimg.com/vi/dkU68Y-fn0Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731249000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#アルランディス生誕祭】今年も生まれましたｵｷﾞｬ【アルランディス/ホロスターズ】"
     },
     {
@@ -86,17 +86,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【UNARCHIVE】MOONUTAU TIME!!!【Moona Hoshinova】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-3Yk6sV9z-w",
-        "picture": "https://i.ytimg.com/vi/-3Yk6sV9z-w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【近畿霊務局】消えた村の謎を追いながら幽霊を“物理的”に除霊していくぞい！【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -273,5 +262,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Visage】ふーたんに見守られながら最恐ホラゲーする…。最終回!!!!!!!!!!!!【ホロライブ/癒月ちょこ/不知火フレア】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rpI6JD8KHzc",
+        "picture": "https://i.ytimg.com/vi/rpI6JD8KHzc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731294000,
+        "title": "【KARAOKE / 歌枠】Slightly Sick but Singing with A BIG ANNOUNCEMENT ☆彡重大告知あり！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Oqv_VX1BNMM",
+        "picture": "https://i.ytimg.com/vi/Oqv_VX1BNMM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731319200,
+        "title": "【Liar\u0026#39;s Bar】視聴者参加型！助手くん、こよに嘘つくわけないよねぇ～～～？？？(ᐡ •͈ ·̫ •͈ ᐡ)【博衣こより/ホロライブ】"
     }
 ]
