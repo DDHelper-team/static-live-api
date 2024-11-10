@@ -99,17 +99,6 @@
         "title": "【Party Animals】うんうんこれもまた格ゲーだよね【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=T2WZV2Y2wog",
-        "picture": "https://i.ytimg.com/vi/T2WZV2Y2wog/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 メトロイド ゼロミッション 】初見でがんばるど～～～～！#02【 猫又おかゆ/ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": true,
@@ -152,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731232800,
         "title": "【近畿霊務局】消えた村の謎を追いながら幽霊を“物理的”に除霊していくぞい！【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BnsSX1t5Vus",
-        "picture": "https://i.ytimg.com/vi/BnsSX1t5Vus/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ShapeHero Factory】工場でヒトを作って魔物と戦うゲームをやる！Part1【岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -240,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731243600,
         "title": "【おかゆんと対談】妹コレクションで話題の人と初対談コラボ！！【尾丸ポルカ/猫又おかゆ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=W-FLIqp3Auw",
+        "picture": "https://i.ytimg.com/vi/W-FLIqp3Auw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731313800,
+        "title": "【MOUTHWASHING】ORAL RINSING IS SCARY??【Kureiji Ollie】"
     }
 ]
