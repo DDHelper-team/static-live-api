@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wWPKYZ1KwSo",
         "picture": "https://i.ytimg.com/vi/wWPKYZ1KwSo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731243600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】ランクやっていく～～～ぜ🔥【常闇トワ/ホロライブ】"
     },
     {
@@ -91,22 +91,22 @@
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=HfNW09g_pIA",
-        "picture": "https://i.ytimg.com/vi/HfNW09g_pIA/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731243600,
-        "title": "【メンバー限定配信】開設4年8ヶ月目！活動5周年を迎える前に秘密会議！【角巻わため/ホロライブ４期生】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uJxvyJ6e60o",
         "picture": "https://i.ytimg.com/vi/uJxvyJ6e60o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731243600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Something is Something】?【Moona Hoshinova】"
     },
     {
@@ -154,25 +154,14 @@
         "title": "6 HOURS OF P\u0026amp;P LETS GO | Pride and Prejudice 1995 🦚"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tcB5v99Gn08",
-        "picture": "https://i.ytimg.com/vi/tcB5v99Gn08/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第33～37話【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZSDxmkAeVew",
         "picture": "https://i.ytimg.com/vi/ZSDxmkAeVew/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731243600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【おかゆんと対談】妹コレクションで話題の人と初対談コラボ！！【尾丸ポルカ/猫又おかゆ/ホロライブ】"
     },
     {
@@ -189,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6mjIbO2QSzI",
         "picture": "https://i.ytimg.com/vi/6mjIbO2QSzI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731243600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Binding of Isaac】ハイパー面白ゲームやるぞ！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -262,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731326400,
         "title": "【 告知配信 】みんなのお部屋訪問しながら… すーぱー告知させて頂きます🎉【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xHb4RpzZIYg",
+        "picture": "https://i.ytimg.com/vi/xHb4RpzZIYg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731247200,
+        "title": "【メンバーシップ限定】深夜にメンバーのみんなとまったりざつだーん【大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zfwBoYppW2U",
+        "picture": "https://i.ytimg.com/vi/zfwBoYppW2U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731330000,
+        "title": "【龍が如く  極】メスキング遊び倒してクレーンゲームで小銭稼ぎ！！【 雪花ラミィ /ホロライブ】"
     }
 ]
