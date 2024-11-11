@@ -222,24 +222,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hHK9ojOlLZU",
         "picture": "https://i.ytimg.com/vi/hHK9ojOlLZU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731333600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】11月11日...なんだか出る気がする！！！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=6lf9kwBVRKo",
-        "picture": "https://i.ytimg.com/vi/6lf9kwBVRKo/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731333600,
-        "title": "【】【ホロライブ/宝鐘マリン】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j-MW-u9YPYw",
         "picture": "https://i.ytimg.com/vi/j-MW-u9YPYw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731333600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談枠】AGFありがとうございました！【律可/ホロスターズ】#りつすた"
     },
     {
@@ -339,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731338137,
         "title": "【原神】#42 -探索編 | 沈玉をウロウロするだけ🐟️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rjs0tmKl7Vo",
+        "picture": "https://i.ytimg.com/vi/rjs0tmKl7Vo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731416400,
+        "title": "【 重大告知あり 】かなけん晩酌で語り明かします…嬉しいお知らせも盛りだくさん！【ホロライブ/沙花叉クロヱ】"
     }
 ]
