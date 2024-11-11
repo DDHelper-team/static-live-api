@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=14S18Ykq0_w",
         "picture": "https://i.ytimg.com/vi/14S18Ykq0_w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731366000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT】 The world tree isn\u0026#39;t gonna build itself"
     },
     {
