@@ -57,11 +57,11 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=NRtO97w1fvY",
         "picture": "https://i.ytimg.com/vi/NRtO97w1fvY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #ホロライブ甲子園 】初めての甲子園！！目指せ名門！限界条高校いくぞおおお！！！ #4【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=W_A8w03-6sQ",
         "picture": "https://i.ytimg.com/vi/W_A8w03-6sQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731348000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】You vs Me! AND THEN ANNOUNCEMENT HEHE #kfp  #キアライブ"
     },
     {
@@ -152,17 +152,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731373200,
         "title": "≪JUST CHATTING≫ G\u0026#39;day Mate! Ow\u0026#39;s it Goin\u0026#39;?!"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6PraBFrw6C4",
-        "picture": "https://i.ytimg.com/vi/6PraBFrw6C4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Delivering Hope】checking the new updates! (v5.0.1) 🤔【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
