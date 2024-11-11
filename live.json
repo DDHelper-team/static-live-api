@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rpI6JD8KHzc",
         "picture": "https://i.ytimg.com/vi/rpI6JD8KHzc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731294000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KARAOKE / 歌枠】Slightly Sick but Singing with A BIG ANNOUNCEMENT ☆彡重大告知あり！"
     },
     {
