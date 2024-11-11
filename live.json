@@ -121,17 +121,6 @@
         "title": "【歌枠 / Singing】ライブ振り返り歌枠！！！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hHK9ojOlLZU",
-        "picture": "https://i.ytimg.com/vi/hHK9ojOlLZU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】11月11日...なんだか出る気がする！！！【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -229,5 +218,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731416400,
         "title": "【All You Need is Help】GET SOME HELP"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "dev stream any% glitchless random seed"
     }
 ]
