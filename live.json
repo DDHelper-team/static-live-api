@@ -121,25 +121,14 @@
         "title": "【Liar\u0026#39;s Bar】You vs Me! AND THEN ANNOUNCEMENT HEHE #kfp  #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lshOYwuGuaw",
-        "picture": "https://i.ytimg.com/vi/lshOYwuGuaw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CoD:BO6】しーおーでーぼ６！【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=87GMw2q04XM",
         "picture": "https://i.ytimg.com/vi/87GMw2q04XM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731328200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6】スト6対戦会！w/チームともだち【アキロゼ/ホロライブ】"
     },
     {
@@ -200,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iJ8IAq5ETuA",
         "picture": "https://i.ytimg.com/vi/iJ8IAq5ETuA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1731326400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】ライブ振り返り歌枠！！！！【#新人vtuber 】"
     },
     {
@@ -233,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rn-cuefK01U",
         "picture": "https://i.ytimg.com/vi/rn-cuefK01U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731329100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【-`🎮 APEX 】久々にやっちゃう🔫【獅子神レオナ/Re:AcT】"
     },
     {
@@ -321,13 +310,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lwgoX_6eA3E",
         "picture": "https://i.ytimg.com/vi/lwgoX_6eA3E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731328200,
-        "title": "【】配信予定地【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【あつまれ どうぶつの森】まったり生活しながらゆっくりしよう！【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -339,5 +328,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731330000,
         "title": "【クソデカ囃子】ロックで呪いに打ち勝て！！！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Zi0Gmv8HT1s",
+        "picture": "https://i.ytimg.com/vi/Zi0Gmv8HT1s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731373200,
+        "title": "≪JUST CHATTING≫ G\u0026#39;day Mate! Ow\u0026#39;s it Goin\u0026#39;?!"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6PraBFrw6C4",
+        "picture": "https://i.ytimg.com/vi/6PraBFrw6C4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731330600,
+        "title": "【Delivering Hope】checking the new updates! (v5.0.1) 🤔【Kaela Kovalskia / hololiveID】"
     }
 ]
