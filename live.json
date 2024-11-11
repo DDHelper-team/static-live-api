@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1o9bqmTDSxY",
         "picture": "https://i.ytimg.com/vi/1o9bqmTDSxY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731331800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 誰でも視聴可能 】メンバーシップ体験版💜 / KU-100【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AgP5pDrgSwY",
         "picture": "https://i.ytimg.com/vi/AgP5pDrgSwY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731331800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Aftertalk】Multiverse just released!!!【Moona Hoshinova】"
     },
     {
