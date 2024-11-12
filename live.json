@@ -77,17 +77,6 @@
         "title": "More Girl Talk with the Yass Queens, We Slaying Eternally Hehe【Eden Eternal】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=q82PcAyTtlk",
-        "picture": "https://i.ytimg.com/vi/q82PcAyTtlk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スーパー マリオパーティ ジャンボリー】わちゃわちゃマリパするぞ！！【夕刻ロベル/ハセシン/緋月ゆい/藍沢エマ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 TAKIBI】雑談配信の予定なのですがどうやらサバイバルゲーらしい…。【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0TNni7nK4hk",
+        "picture": "https://i.ytimg.com/vi/0TNni7nK4hk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731412800,
+        "title": "【星のカービィ ディスカバリー】カービィの釣りが楽しすぎてやばい【ホロライブ/ときのそら】"
     }
 ]
