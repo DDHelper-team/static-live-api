@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Zi0Gmv8HT1s",
         "picture": "https://i.ytimg.com/vi/Zi0Gmv8HT1s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731373200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪JUST CHATTING≫ G\u0026#39;day Mate! Ow\u0026#39;s it Goin\u0026#39;?!"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aLfbaO_g7PA",
         "picture": "https://i.ytimg.com/vi/aLfbaO_g7PA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731369600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Dead Space Remake】BIG STOMPIES"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731434400,
         "title": "【EDEN ETERNAL】the mmorpg addicts are back #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oyOvqX2EDS0",
+        "picture": "https://i.ytimg.com/vi/oyOvqX2EDS0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731405600,
+        "title": "【 アーマード・コア フォーアンサー | ACfA 】この戦いの向こうに、答えはあるのか。ARMORED CORE for Answer ＃２周目【姫森ルーナ/ホロライブ】"
     }
 ]
