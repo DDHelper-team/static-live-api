@@ -68,35 +68,24 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oisHrnHE9K4",
         "picture": "https://i.ytimg.com/vi/oisHrnHE9K4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731376800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Creepy Pasta Men Come Alive. (Don\u0026#39;t) Trust Them with Your Life?【Homicipher | 文字化化】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tbRno_VHO5E",
         "picture": "https://i.ytimg.com/vi/tbRno_VHO5E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731376800,
-        "title": "【Mouthwashing】Open Wide"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iJ8IAq5ETuA",
-        "picture": "https://i.ytimg.com/vi/iJ8IAq5ETuA/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【歌枠 / Singing】ライブ振り返り歌枠！！！！【#新人vtuber 】"
+        "title": "【Mouthwashing】Open Wide"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -240,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731405600,
         "title": "【 アーマード・コア フォーアンサー | ACfA 】この戦いの向こうに、答えはあるのか。ARMORED CORE for Answer ＃２周目【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=P8DenmyUM30",
+        "picture": "https://i.ytimg.com/vi/P8DenmyUM30/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731409200,
+        "title": "クソデカ囃子、クソデカ囃子？！【 奏手イヅル /  ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=X7LtLavFq3w",
+        "picture": "https://i.ytimg.com/vi/X7LtLavFq3w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731463200,
+        "title": "【SUPERCHAT READING】lovely \u0026amp; silly chit-chatting 🐾✨  【FUWAMOCO】"
     }
 ]
