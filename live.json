@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FdCwflO9e8g",
         "picture": "https://i.ytimg.com/vi/FdCwflO9e8g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731423600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR｜放下你的手機陪我一起睡覺吧❤️｜Sleep with Whispering Breath.Trigger sounds｜ささやく息で眠る【3DIO】"
     },
     {
@@ -165,50 +165,6 @@
         "title": "【Liar\u0026#39;s Bar】I trust you【Moona Hoshinova】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4RBcHxgKd78",
-        "picture": "https://i.ytimg.com/vi/4RBcHxgKd78/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Red Dead Redemption 】🐎🐎🐎🐎🐎🐎 Part 2【 iofi / hololiveID 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_Y7E6d1pVXs",
-        "picture": "https://i.ytimg.com/vi/_Y7E6d1pVXs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX Legends】新しくなって懐かしくなったとかなんとか【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ihngv-w9EDI",
-        "picture": "https://i.ytimg.com/vi/Ihngv-w9EDI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Buckshot Roulette 】本日ロシアンルーレットを勝ち取るのは誰だ🔥🔥【 ホロライブ / 猫又おかゆ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0TNni7nK4hk",
-        "picture": "https://i.ytimg.com/vi/0TNni7nK4hk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【星のカービィ ディスカバリー】カービィの釣りが楽しすぎてやばい【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "islive": true,
@@ -255,12 +211,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ul5xam-v7Lo",
         "picture": "https://i.ytimg.com/vi/ul5xam-v7Lo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731423600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】ﾒｼﾞｬｰﾃﾞﾋﾞｭｰｱﾙﾊﾞﾑリリースだ！！！！-Midnight station -79 【HACHI】"
     },
     {
@@ -273,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談】ポッキー食べながら【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=zQ8ct1Qb_MI",
+        "picture": "https://i.ytimg.com/vi/zQ8ct1Qb_MI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Dead by Daylight】ゲリラで100億年ぶりにDBDやってみる【ホロライブ/癒月ちょこ】"
     }
 ]
