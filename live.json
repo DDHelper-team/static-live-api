@@ -140,5 +140,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "Its a tuesday what did u expect, neuro stream"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=y20D7cFYgac",
+        "picture": "https://i.ytimg.com/vi/y20D7cFYgac/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731466800,
+        "title": "Just a bunch of cuties playing cards | Liar\u0026#39;s Bar"
     }
 ]
