@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NEN0Wu5p9gg",
         "picture": "https://i.ytimg.com/vi/NEN0Wu5p9gg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731384000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スタマス】実は初見で挑む『アイドルマスター スターリットシーズン』　2日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
