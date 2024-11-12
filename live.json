@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=P8DenmyUM30",
         "picture": "https://i.ytimg.com/vi/P8DenmyUM30/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731409200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "クソデカ囃子、クソデカ囃子？！【 奏手イヅル /  ホロスターズ 】"
     },
     {
@@ -196,17 +196,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731463200,
         "title": "【SUPERCHAT READING】lovely \u0026amp; silly chit-chatting 🐾✨  【FUWAMOCO】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wjECk9KW_kQ",
-        "picture": "https://i.ytimg.com/vi/wjECk9KW_kQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Cube Escape Collection 】ちょっぴりびっくり要素もあるけど…大丈夫！【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
@@ -255,13 +244,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SFHrtT_EAAc",
         "picture": "https://i.ytimg.com/vi/SFHrtT_EAAc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731409200,
-        "title": "【配信予定】ぺっこおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【DON\u0026#39;T SCREAM】18分間声を出さずに耐えろ！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -273,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731416400,
         "title": "【イケメン】おしえて！あお先生✨もっと！イケメンになる方法💡【風真いろは　火威青/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ihngv-w9EDI",
+        "picture": "https://i.ytimg.com/vi/Ihngv-w9EDI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731416400,
+        "title": "【 Buckshot Roulette 】本日ロシアンルーレットを勝ち取るのは誰だ🔥🔥【 ホロライブ / 猫又おかゆ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=r3bLteTo7mM",
+        "picture": "https://i.ytimg.com/vi/r3bLteTo7mM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 TAKIBI】雑談配信の予定なのですがどうやらサバイバルゲーらしい…。【ホロライブ/白上フブキ】"
     }
 ]
