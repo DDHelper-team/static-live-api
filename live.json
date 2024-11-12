@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NEN0Wu5p9gg",
-        "picture": "https://i.ytimg.com/vi/NEN0Wu5p9gg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q82PcAyTtlk",
+        "picture": "https://i.ytimg.com/vi/q82PcAyTtlk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スタマス】実は初見で挑む『アイドルマスター スターリットシーズン』　2日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731405600,
+        "title": "【スーパー マリオパーティ ジャンボリー】わちゃわちゃマリパするぞ！！【夕刻ロベル/ハセシン/緋月ゆい/藍沢エマ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
@@ -163,17 +163,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731420000,
         "title": "【クソデカ囃子】ホラーなの？メタルなの？どんなゲームなの？！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aLfbaO_g7PA",
-        "picture": "https://i.ytimg.com/vi/aLfbaO_g7PA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Dead Space Remake】BIG STOMPIES"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
