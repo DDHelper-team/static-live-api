@@ -110,17 +110,6 @@
         "title": "The Finale Approaches | Silent Hill 2 P. 4 [SPOILERS]"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yU5Vs7YHCQ4",
-        "picture": "https://i.ytimg.com/vi/yU5Vs7YHCQ4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Buckshot Roulette】You Or Me But For Real With @IRyS"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -178,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hD9z7tqyVIc",
         "picture": "https://i.ytimg.com/vi/hD9z7tqyVIc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731477600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】えぺまつりにむけてコソ練   / アステル"
     },
     {
@@ -211,12 +200,23 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qOOYKj8u1F8",
         "picture": "https://i.ytimg.com/vi/qOOYKj8u1F8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731477600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OMUSUBI】RPG.. WE ARE SO BACK...!!!!!!! RAWR"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1rzSfnTc1uY",
+        "picture": "https://i.ytimg.com/vi/1rzSfnTc1uY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731488400,
+        "title": "【 #ホロライブ甲子園 】#8 最終回！！３年目春から！！！かなターン高校、育成！！！！！！！！【天音かなた/ホロライブ】"
     }
 ]
