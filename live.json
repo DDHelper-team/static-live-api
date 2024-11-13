@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q_HC7Bnxc6w",
         "picture": "https://i.ytimg.com/vi/q_HC7Bnxc6w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731506400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 DON\u0026#39;T SCREAM 】鼓膜足りてる？カナリ怖くなった正式版をやっていく。【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -119,17 +119,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731553200,
         "title": "Novelite Battle Royale Where \u0026#39;Toxic\u0026#39; Shiori Comes Out【Fall Guys】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=o0q1UU8iJe4",
-        "picture": "https://i.ytimg.com/vi/o0q1UU8iJe4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DON\u0026#39;T SCREAM Ver1.0】叫んだら〇ぬホラー！！？？18分間耐えきれ！！【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
@@ -200,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2v932Cge_JI",
         "picture": "https://i.ytimg.com/vi/2v932Cge_JI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731506400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【1年前の自分】７０万人様記念（？）で初配信を振り返る....【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -229,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#重返未来1999 】久違的開台~小玩一下重返未來水星劇情!!【#遊戲個人勢 / Fingla】"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uW0bzbSD0Pw",
-        "picture": "https://i.ytimg.com/vi/uW0bzbSD0Pw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【秋滑り込みセーフ雑談】チャンネル登録者90万人記念！人生初まつたけ実食！【儒烏風亭らでん #ReGLOSS 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -266,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uv8lvGOkwFQ",
         "picture": "https://i.ytimg.com/vi/uv8lvGOkwFQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731506400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Lethal Company】You go out. i\u0026#39;ll stay.【Moona Hoshinova】"
     },
     {
@@ -299,23 +277,34 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lA8j_zDqnbU",
         "picture": "https://i.ytimg.com/vi/lA8j_zDqnbU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731506400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】AZ学園高校の育成がんばった！お疲れさま会【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qaz7Ubr6IBU",
         "picture": "https://i.ytimg.com/vi/qaz7Ubr6IBU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731506400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "SPIDER CHAMA KARAOKE!!!!!!【※No archive】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=K_3gtdHzduY",
+        "picture": "https://i.ytimg.com/vi/K_3gtdHzduY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731508200,
+        "title": "drawing the holoID girlies (belated Pocky Day edition)【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
