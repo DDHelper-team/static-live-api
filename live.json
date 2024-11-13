@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OM54UoR5l-0",
         "picture": "https://i.ytimg.com/vi/OM54UoR5l-0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731517200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DIABLO IV】why would i change a perfectly good thumbnail #kfp #キアライブ"
     },
     {
