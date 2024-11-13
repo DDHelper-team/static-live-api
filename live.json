@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZuPX9e9d8W4",
         "picture": "https://i.ytimg.com/vi/ZuPX9e9d8W4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731488400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】サポートめっちゃ強くなったらしい！！ 【常闇トワ/ホロライブ】"
     },
     {
@@ -187,24 +187,13 @@
         "title": "【Dcard文章雜談】定期巡邏一下版上到底又有些啥可以毀三觀【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #雜談"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qOOYKj8u1F8",
-        "picture": "https://i.ytimg.com/vi/qOOYKj8u1F8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OMUSUBI】RPG.. WE ARE SO BACK...!!!!!!! RAWR"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": false,
         "link": "https://www.youtube.com/watch?v=1rzSfnTc1uY",
         "picture": "https://i.ytimg.com/vi/1rzSfnTc1uY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1731488400,
         "title": "【 #ホロライブ甲子園 】#8 最終回！！３年目春から！！！かなターン高校、育成！！！！！！！！【天音かなた/ホロライブ】"
     },
@@ -218,17 +207,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731499200,
         "title": "【縦形 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pp4zkA2OKw0",
-        "picture": "https://i.ytimg.com/vi/pp4zkA2OKw0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【COD:BO6】神ゲーします【花咲みやび/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
@@ -262,5 +240,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731499200,
         "title": "【 #バカタレサーカス】マリパで争うバカタレサーカス激闘の１５ターンｯｯ！！！【スーパー マリオパーティ ジャンボリー】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0hoD0IqIhHk",
+        "picture": "https://i.ytimg.com/vi/0hoD0IqIhHk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731556800,
+        "title": "【#ロベルないとめあ】今度こそしっかりとマシュマロを読ませて頂く我々【夕刻ロベル/神楽めあ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=R4U6CW4DR6M",
+        "picture": "https://i.ytimg.com/vi/R4U6CW4DR6M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731549600,
+        "title": "【Tunic】Slay | #3"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=V7QR3HKRxg8",
+        "picture": "https://i.ytimg.com/vi/V7QR3HKRxg8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 歌枠 】超カラオケ大会！【 桃鈴ねね / hololive 】#桃鈴ねね生配信"
     }
 ]
