@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_QaiqTSuKZw",
         "picture": "https://i.ytimg.com/vi/_QaiqTSuKZw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731499200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Dcard文章雜談】定期巡邏一下版上到底又有些啥可以毀三觀【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #雜談"
     },
     {
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6MrRFAKM814",
         "picture": "https://i.ytimg.com/vi/6MrRFAKM814/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731499200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【縦形 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -211,23 +211,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=43YtgKn0JcM",
         "picture": "https://i.ytimg.com/vi/43YtgKn0JcM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731499200,
-        "title": "【配信予定】ぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺこぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【マリオ】スーパーマリオブラザーズ ノーコンクリアする！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TrDf1YOR8lA",
         "picture": "https://i.ytimg.com/vi/TrDf1YOR8lA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731499200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #バカタレサーカス】マリパで争うバカタレサーカス激闘の１５ターンｯｯ！！！【スーパー マリオパーティ ジャンボリー】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IaiC7MaMZz8",
         "picture": "https://i.ytimg.com/vi/IaiC7MaMZz8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731499200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【クソデカ囃子】おい！！！！俺よりでけぇってのか!!!おい!!!!!!【アルランディス/ホロスターズ】"
     },
     {
@@ -321,12 +321,34 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5TR5C78MqdM",
         "picture": "https://i.ytimg.com/vi/5TR5C78MqdM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731499216,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VALORANT】ネオポルテ1期生フルパァ再び🔥【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uv8lvGOkwFQ",
+        "picture": "https://i.ytimg.com/vi/uv8lvGOkwFQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731506400,
+        "title": "【Lethal Company】You go out. i\u0026#39;ll stay.【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j9gi-kOYjh8",
+        "picture": "https://i.ytimg.com/vi/j9gi-kOYjh8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731585600,
+        "title": "【 雑談 】2泊3日の女子旅行ってきました！✨【 領国つかさ / 海汐もるふ 】"
     }
 ]
