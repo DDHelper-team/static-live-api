@@ -57,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HOLzn6buRzw",
-        "picture": "https://i.ytimg.com/vi/HOLzn6buRzw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OM54UoR5l-0",
+        "picture": "https://i.ytimg.com/vi/OM54UoR5l-0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【EDEN ETERNAL】the mmorpg addicts are back #kfp #キアライブ"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731517200,
+        "title": "【DIABLO IV】why would i change a perfectly good thumbnail #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -72,7 +72,7 @@
         "link": "https://www.youtube.com/watch?v=X7LtLavFq3w",
         "picture": "https://i.ytimg.com/vi/X7LtLavFq3w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1731463200,
         "title": "【SUPERCHAT READING】lovely \u0026amp; silly chit-chatting 🐾✨  【FUWAMOCO】"
     },
@@ -108,17 +108,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731495600,
         "title": "【 #今夜は語りあいたい 】トークバラエティ今夜は語りあいたい！～地元愛強いVtuber編～【鷹嶺ルイ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fZCMHJ0sShw",
-        "picture": "https://i.ytimg.com/vi/fZCMHJ0sShw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ShapeHero Factory】工場でヒトを作って魔物と戦うゲーム ！ アセンション３から　Part5【岸堂天真/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
