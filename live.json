@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zs64xSV6B-Y",
         "picture": "https://i.ytimg.com/vi/zs64xSV6B-Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731495600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #今夜は語りあいたい 】トークバラエティ今夜は語りあいたい！～地元愛強いVtuber編～【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o0q1UU8iJe4",
         "picture": "https://i.ytimg.com/vi/o0q1UU8iJe4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731495600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DON\u0026#39;T SCREAM Ver1.0】叫んだら〇ぬホラー！！？？18分間耐えきれ！！【ホロライブ/宝鐘マリン】"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sbRROVuTL_Q",
         "picture": "https://i.ytimg.com/vi/sbRROVuTL_Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731495600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【クソデカ囃子】オバケがコメディなわけねーーーーだろ！！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -251,17 +251,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731549600,
         "title": "【Tunic】Slay | #3"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=V7QR3HKRxg8",
-        "picture": "https://i.ytimg.com/vi/V7QR3HKRxg8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 歌枠 】超カラオケ大会！【 桃鈴ねね / hololive 】#桃鈴ねね生配信"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
