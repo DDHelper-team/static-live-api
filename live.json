@@ -66,17 +66,6 @@
         "title": "【DIABLO IV】why would i change a perfectly good thumbnail #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ey6whsufgkg",
-        "picture": "https://i.ytimg.com/vi/ey6whsufgkg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Liar\u0026#39;s Bar 】視聴者参加型！騙すか騙されるか、命を懸けろ！！！！！【 雪花ラミィ /ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731553200,
         "title": "【Core Keeper】Grind grind grind graondstone grind【GRAONDSTONE】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4_9R9n-vpXI",
+        "picture": "https://i.ytimg.com/vi/4_9R9n-vpXI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731553200,
+        "title": "【ホロメン1 hour drawing】ワンドロでFLOW GLOWちゃんを描かせていただく！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
