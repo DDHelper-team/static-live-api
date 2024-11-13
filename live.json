@@ -176,17 +176,6 @@
         "title": "【APEX】えぺまつりにむけてコソ練   / アステル"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_-Hfx8IRABk",
-        "picture": "https://i.ytimg.com/vi/_-Hfx8IRABk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】マスターチャレンジキンバリー編！マスター到達編【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731499200,
         "title": "【縦形 / 歌枠】張り切って歌いましょう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=pp4zkA2OKw0",
+        "picture": "https://i.ytimg.com/vi/pp4zkA2OKw0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【COD:BO6】神ゲーします【花咲みやび/ホロスターズ】"
     }
 ]
