@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yU5Vs7YHCQ4",
         "picture": "https://i.ytimg.com/vi/yU5Vs7YHCQ4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731466800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Buckshot Roulette】You Or Me But For Real With @IRyS"
     },
     {
@@ -130,5 +130,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731470434,
         "title": "【原神】#43 | 完全初見！フォンテーヌを堪能する💧【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EN3vJ4WlFww",
+        "picture": "https://i.ytimg.com/vi/EN3vJ4WlFww/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731553200,
+        "title": "Novelite Battle Royale Where \u0026#39;Toxic\u0026#39; Shiori Comes Out【Fall Guys】"
     }
 ]
