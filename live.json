@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=i07igUCx7e8",
         "picture": "https://i.ytimg.com/vi/i07igUCx7e8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731566700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ShapeHero Factory】工場でヒトを作って魔物と戦うゲーム ！ アセンション４　Part6【岸堂天真/ホロスターズ】"
     }
 ]
