@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nnJwOEUxpVw",
-        "picture": "https://i.ytimg.com/vi/nnJwOEUxpVw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bHXB9qI2olE",
+        "picture": "https://i.ytimg.com/vi/bHXB9qI2olE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【もうすぐ6周年】一緒に迎えるカウントダウン！ホロメンとの最近の話を添えて【ホロライブ / AZKi】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731672000,
+        "title": "【新衣装3Dお披露目】AZKi 6th Anniversary Live \u0026quot;百花繚乱\u0026quot;【#AZKi新衣装3Dライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
@@ -163,17 +163,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731675600,
         "title": "【歌雜】500讚挑戰 👍 單身的你 我要👋"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eNPiNi1MjgE",
-        "picture": "https://i.ytimg.com/vi/eNPiNi1MjgE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DON\u0026#39;T SCREAM】正式版はもっと怖くなったらしい...？【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
