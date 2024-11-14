@@ -44,17 +44,6 @@
         "title": "【 #ホロライブ甲子園 】初めての甲子園！！目指せ名門！限界条高校いくぞおおお！！！ #4【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EN3vJ4WlFww",
-        "picture": "https://i.ytimg.com/vi/EN3vJ4WlFww/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Novelite Battle Royale Where \u0026#39;Toxic\u0026#39; Shiori Comes Out【Fall Guys】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": false,
@@ -178,12 +167,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qU32j0ISMQE",
         "picture": "https://i.ytimg.com/vi/qU32j0ISMQE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731560400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HoloCure - Save the Fans!】Ver0.7先行プレイ【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=o-vPa42nYuY",
+        "picture": "https://i.ytimg.com/vi/o-vPa42nYuY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731636000,
+        "title": "The Company Is Expanding So It\u0026#39;s Overtime【Lethal Company】"
     }
 ]
