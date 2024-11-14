@@ -66,17 +66,6 @@
         "title": "The Company Is Expanding So It\u0026#39;s Overtime【Lethal Company】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JnMilT3LCnY",
-        "picture": "https://i.ytimg.com/vi/JnMilT3LCnY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Old Man\u0026#39;s Journey】お爺ちゃんと記憶を巡る旅。【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "islive": false,
@@ -130,17 +119,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Valorant】here\u0026#39;s comes another skill issue of me【Moona Hoshinova】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CcgsHctExAM",
-        "picture": "https://i.ytimg.com/vi/CcgsHctExAM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】ねえねえ、歌っちゃおうか sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -262,5 +240,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "主廚瑪莉－雜玩｜瑪莉沒有從姆斯心中離開！只是到法國去當主廚了【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gbH-iCKRdOI",
+        "picture": "https://i.ytimg.com/vi/gbH-iCKRdOI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731598200,
+        "title": "【Corpse Party (2021)】party with corpses【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=x--LeGkzHhI",
+        "picture": "https://i.ytimg.com/vi/x--LeGkzHhI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731675600,
+        "title": "【DON\u0026#39;T SCREAM】叫んでは（笑っても）いけないホラゲー正式版vs獅白ぼたん【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZyyAysl7mKg",
+        "picture": "https://i.ytimg.com/vi/ZyyAysl7mKg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731636000,
+        "title": "【LETHAL COMPANY】Great -ADVENT- to the company! #holoadvent"
     }
 ]
