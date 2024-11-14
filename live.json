@@ -265,12 +265,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TpVA38dw-qo",
         "picture": "https://i.ytimg.com/vi/TpVA38dw-qo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731618000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#123 11/15金曜日！こんにちゎ【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=raxWVh9DNog",
+        "picture": "https://i.ytimg.com/vi/raxWVh9DNog/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731636000,
+        "title": "We\u0026#39;ll be great assets! | Lethal Company"
     }
 ]
