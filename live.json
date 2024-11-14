@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0hoD0IqIhHk",
         "picture": "https://i.ytimg.com/vi/0hoD0IqIhHk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731556800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ロベルないとめあ】今度こそしっかりとマシュマロを読ませて頂く我々【夕刻ロベル/神楽めあ】"
     },
     {
@@ -163,5 +163,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731636000,
         "title": "【LETHAL COMPANY COLLAB】advent is always strong and threatening 🐾 #holoAdvent【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jelmMNxBEOo",
+        "picture": "https://i.ytimg.com/vi/jelmMNxBEOo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731585600,
+        "title": "【Darkwood】What\u0026#39;s in there... Ah...【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qU32j0ISMQE",
+        "picture": "https://i.ytimg.com/vi/qU32j0ISMQE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731560400,
+        "title": "【HoloCure - Save the Fans!】Ver0.7先行プレイ【荒咬オウガ /ホロスターズ】"
     }
 ]
