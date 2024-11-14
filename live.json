@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gbH-iCKRdOI",
         "picture": "https://i.ytimg.com/vi/gbH-iCKRdOI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731598200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Corpse Party (2021)】party with corpses【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
