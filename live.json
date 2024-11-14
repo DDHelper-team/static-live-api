@@ -44,17 +44,6 @@
         "title": "【 #ホロライブ甲子園 】初めての甲子園！！目指せ名門！限界条高校いくぞおおお！！！ #4【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=j9gi-kOYjh8",
-        "picture": "https://i.ytimg.com/vi/j9gi-kOYjh8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 雑談 】2泊3日の女子旅行ってきました！✨【 領国つかさ / 海汐もるふ 】"
-    },
-    {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
         "islive": false,
@@ -200,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aL0Qw9ZlrqU",
         "picture": "https://i.ytimg.com/vi/aL0Qw9ZlrqU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731592800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Hookah Haze】最終回！ 思い出は煙とともに　その③※ネタバレあり【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -223,12 +212,12 @@
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=5Z0IUxUTJsw",
-        "picture": "https://i.ytimg.com/vi/5Z0IUxUTJsw/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=GZHhb_zHVno",
+        "picture": "https://i.ytimg.com/vi/GZHhb_zHVno/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731592800,
-        "title": "【メン限】前回のスパチャ読み！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": null,
+        "timestamp": 1757430000,
+        "title": "🎹✨Free Chat✨🎹"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -244,12 +233,23 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eNPiNi1MjgE",
         "picture": "https://i.ytimg.com/vi/eNPiNi1MjgE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731592800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DON\u0026#39;T SCREAM】正式版はもっと怖くなったらしい...？【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=0cQ6mPLzvJU",
+        "picture": "https://i.ytimg.com/vi/0cQ6mPLzvJU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ストリートファイター6】ルークでランクマかリスナーさんカスタムか【律可/ホロスターズ】#りつすた"
     }
 ]
