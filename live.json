@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eWqiZHIoOjk",
         "picture": "https://i.ytimg.com/vi/eWqiZHIoOjk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731574800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \u0026quot;Spectra of Nova\u0026quot;"
     },
     {
@@ -86,17 +86,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731585600,
         "title": "【 雑談 】2泊3日の女子旅行ってきました！✨【 領国つかさ / 海汐もるふ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=roNpjgm0-mk",
-        "picture": "https://i.ytimg.com/vi/roNpjgm0-mk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ポケカ開封/カメラ 】ルチアが欲しい！RE：ポケカ開封ううううううううううう！！【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731594600,
         "title": "【もうすぐ6周年】一緒に迎えるカウントダウン！ホロメンとの最近の話を添えて【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OxxbDjQqfEc",
+        "picture": "https://i.ytimg.com/vi/OxxbDjQqfEc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731589200,
+        "title": "【Valorant】here\u0026#39;s comes another skill issue of me【Moona Hoshinova】"
     }
 ]
