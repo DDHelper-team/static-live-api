@@ -77,17 +77,6 @@
         "title": "【HoloCure】3期生ガチャひくぞおおお！！！ホロキュアアプデ先行でたのしむ！！【ホロライブ/宝鐘マリン】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=K9buK9n7sqs",
-        "picture": "https://i.ytimg.com/vi/K9buK9n7sqs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】3期生＆4期生実装きｔらああああああああああああああああああ！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
@@ -123,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2gEmeddRppM",
-        "picture": "https://i.ytimg.com/vi/2gEmeddRppM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ea_saD8oUJI",
+        "picture": "https://i.ytimg.com/vi/ea_saD8oUJI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【晩酌】誕生日カウントダウン晩酌！！めでたい！！【 雪花ラミィ /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731668400,
+        "title": "【#ホロライブ体力王決定戦 】第二回 ！ホロライブ体力王決定戦～全期代表戦～【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -152,17 +141,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731643200,
         "title": "【龍が如く3】初見で挑む『龍が如く3』　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aL0Qw9ZlrqU",
-        "picture": "https://i.ytimg.com/vi/aL0Qw9ZlrqU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Hookah Haze】最終回！ 思い出は煙とともに　その③※ネタバレあり【儒烏風亭らでん #ReGLOSS 】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -250,7 +228,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Corpse Party (2021)】party with corpses【Pavolia Reine/hololiveID 2nd gen】"
+        "title": "【Corpse Party (2021)】party with corpses (VIOLENT OMG)【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -273,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731636000,
         "title": "【LETHAL COMPANY】Great -ADVENT- to the company! #holoadvent"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SykrjViwEiY",
+        "picture": "https://i.ytimg.com/vi/SykrjViwEiY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731675600,
+        "title": "【歌枠】160万人目指して歌います！！！！ Singing Stream🎤【角巻わため/ホロライブ４期生】"
     }
 ]
