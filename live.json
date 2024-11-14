@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JnMilT3LCnY",
         "picture": "https://i.ytimg.com/vi/JnMilT3LCnY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731589200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Old Man\u0026#39;s Journey】お爺ちゃんと記憶を巡る旅。【花咲みやび/ホロスターズ】"
     },
     {
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OxxbDjQqfEc",
         "picture": "https://i.ytimg.com/vi/OxxbDjQqfEc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731589200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Valorant】here\u0026#39;s comes another skill issue of me【Moona Hoshinova】"
     },
     {
@@ -207,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731592800,
         "title": "【Hookah Haze】最終回！ 思い出は煙とともに　その③※ネタバレあり【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AyOTqyFNGh4",
+        "picture": "https://i.ytimg.com/vi/AyOTqyFNGh4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731589217,
+        "title": "【APEX】ゆる～くまわす～【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5Z0IUxUTJsw",
+        "picture": "https://i.ytimg.com/vi/5Z0IUxUTJsw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731592800,
+        "title": "【メン限】前回のスパチャ読み！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
