@@ -88,17 +88,6 @@
         "title": "【Darkwood】What\u0026#39;s in there... Ah...【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qU32j0ISMQE",
-        "picture": "https://i.ytimg.com/vi/qU32j0ISMQE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure - Save the Fans!】Ver0.7先行プレイ【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731664800,
         "title": "【おしゃべりAI】AI CotomoちゃんとAIこよりを喋らせてみよう！！！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LExvoNxTSXA",
+        "picture": "https://i.ytimg.com/vi/LExvoNxTSXA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731643200,
+        "title": "【龍が如く3】初見で挑む『龍が如く3』　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     }
 ]
