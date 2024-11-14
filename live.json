@@ -44,17 +44,6 @@
         "title": "【 #ホロライブ甲子園 】初めての甲子園！！目指せ名門！限界条高校いくぞおおお！！！ #4【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OM54UoR5l-0",
-        "picture": "https://i.ytimg.com/vi/OM54UoR5l-0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DIABLO IV】why would i change a perfectly good thumbnail #kfp #キアライブ"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": true,
@@ -101,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=R4U6CW4DR6M",
         "picture": "https://i.ytimg.com/vi/R4U6CW4DR6M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731549600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Tunic】Slay | #3"
     },
     {
@@ -163,5 +152,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731553200,
         "title": "【Core Keeper】#3 defeating bosses on progress~【GRAONDSTONE】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=roNpjgm0-mk",
+        "picture": "https://i.ytimg.com/vi/roNpjgm0-mk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731567600,
+        "title": "【 ポケカ開封/カメラ 】ルチアが欲しい！RE：ポケカ開封ううううううううううう！！【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=li_O_2dAYtE",
+        "picture": "https://i.ytimg.com/vi/li_O_2dAYtE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731636000,
+        "title": "【LETHAL COMPANY COLLAB】advent is always strong and threatening 🐾 #holoAdvent【FUWAMOCO】"
     }
 ]
