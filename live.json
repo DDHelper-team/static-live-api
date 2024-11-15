@@ -244,13 +244,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NMI6DSmyppg",
-        "picture": "https://i.ytimg.com/vi/NMI6DSmyppg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NeJlnAJ904s",
+        "picture": "https://i.ytimg.com/vi/NeJlnAJ904s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 クソデカ囃子 】怖いの？怖くないの？？？どっちなの？？？？？？？？？？？【鷹嶺ルイ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731679200,
+        "title": "【 近畿霊務局 】え、幽霊に物理きくん？？？？？？？？？？？【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -319,17 +319,6 @@
         "title": "【歌枠】のんびり歌いましょう。【ホロライブ/ときのそら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MPgJk82VRgg",
-        "picture": "https://i.ytimg.com/vi/MPgJk82VRgg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】DJ初見でマスターを目指す！まずはコンボを知るとこから！【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
         "islive": false,
@@ -391,9 +380,9 @@
         "link": "https://www.youtube.com/watch?v=BvAXqzl1d5A",
         "picture": "https://i.ytimg.com/vi/BvAXqzl1d5A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1731665700,
-        "title": "【APEX】ふるぱ＠２   / アステル"
+        "title": "【APEX】ふるぱ＠２   / アステル 小雀とと³ 胡桃のあ³"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -405,5 +394,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731675600,
         "title": "【 Keep Talking and Nobody Explodes】#にゃんぐこーん 姉妹(？)の危機！！さようなら…お姉ちゃん…【ホロライブ/白上フブキ/猫又おかゆ】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ffFcMJDTOUk",
+        "picture": "https://i.ytimg.com/vi/ffFcMJDTOUk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731675600,
+        "title": "【雑談/歌枠】アルバムの話など- ハニカムステーション！-160【HACHI 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xOqDiSQsaUE",
+        "picture": "https://i.ytimg.com/vi/xOqDiSQsaUE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731675600,
+        "title": "【 HoloCure 】アプデで常闇トワが追加されただと…！？やるしかねえええ！！！！👾【常闇トワ / ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KpIyXzVNLB8",
+        "picture": "https://i.ytimg.com/vi/KpIyXzVNLB8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731681000,
+        "title": "【 GGO/公式同時視聴 】第七話！#ガンゲイル・オンラインⅡ をボクと一緒に見よおおおおおお 【ホロライブ / ロボ子さん】"
     }
 ]
