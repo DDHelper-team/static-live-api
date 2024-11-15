@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ttxwtyx-Htk",
         "picture": "https://i.ytimg.com/vi/Ttxwtyx-Htk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731711600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Silent Hill 2】 Is that TRIANGULAR PRISM HEAD?! (spoilers) (please save us)"
     }
 ]
