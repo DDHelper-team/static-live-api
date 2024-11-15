@@ -143,17 +143,6 @@
         "title": "【 近畿霊務局 】え、幽霊に物理きくん？？？？？？？？？？？【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -174,17 +163,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731729600,
         "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～ お宝見つける～【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jTigAFChp7E",
-        "picture": "https://i.ytimg.com/vi/jTigAFChp7E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！ブチャラティの頭のあれ髪飾りらしい（6~10話）【儒烏風亭らでん 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -372,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731726900,
         "title": "【HOLOCURE】0.7 UPDATE! NEW Content NEW Senpai to play!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vmJO2xWACLg",
+        "picture": "https://i.ytimg.com/vi/vmJO2xWACLg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731729600,
+        "title": "【龍が如く  極】第七章 龍と鯉 ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
     }
 ]
