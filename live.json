@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=S2_D6yDA6Y8",
         "picture": "https://i.ytimg.com/vi/S2_D6yDA6Y8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731652200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OMUSUBI】A lost kid and a suspicious guy"
     },
     {
@@ -288,12 +288,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4_gF_9CJjps",
         "picture": "https://i.ytimg.com/vi/4_gF_9CJjps/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731652200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】堕天使【 奏手イヅル / ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XqflGnmGkck",
+        "picture": "https://i.ytimg.com/vi/XqflGnmGkck/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731675600,
+        "title": "【メンバー限定】ザ・スーパーマリオブラザーズ・ムービー同時視聴【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
