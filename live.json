@@ -66,17 +66,6 @@
         "title": "【HoloCure】3期生ガチャひくぞおおお！！！ホロキュアアプデ先行でたのしむ！！【ホロライブ/宝鐘マリン】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": true,
@@ -152,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【歌枠】160万人目指して歌います！！！！ Singing Stream🎤【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vifustGRFZk",
-        "picture": "https://i.ytimg.com/vi/vifustGRFZk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 行方不明 】行方不明になった子供を救出せよ！【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -427,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731679200,
         "title": "【歌枠/KARAOKE】歌・・・・・だな！【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JQ4pnaeG23U",
+        "picture": "https://i.ytimg.com/vi/JQ4pnaeG23U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731681000,
+        "title": "#2【Corpse Party (2021)】CHAPTER 2 TIME TO PARTY (VIOLENT OMG)【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
