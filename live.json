@@ -106,7 +106,7 @@
         "picture": "https://i.ytimg.com/vi/eQ8INTWhIEk/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1731682800,
+        "timestamp": 1731769200,
         "title": "ASMR｜睡前漫聊❤️你的夜晚我來點亮｜輕柔安撫雙耳｜【KU100／黑3DIO】"
     },
     {
@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RusH_FgMDGA",
         "picture": "https://i.ytimg.com/vi/RusH_FgMDGA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731682800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【holocure】LET\u0026#39;S CURE THE FANS!【 iofi / hololiveID 】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【歌枠】星に包まれてぐっすり...🌟【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RwbS4O61ZhY",
+        "picture": "https://i.ytimg.com/vi/RwbS4O61ZhY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731740400,
+        "title": "【#CongRISUlation900K】GOLF IT : Let\u0026#39;s Celebrate With Some Balls !!【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SfZP_ML7f-o",
+        "picture": "https://i.ytimg.com/vi/SfZP_ML7f-o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731718800,
+        "title": "≪HOLOCURE≫ New Update?!?!"
     }
 ]
