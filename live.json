@@ -95,7 +95,7 @@
         "picture": "https://i.ytimg.com/vi/BX9qfg-b2rI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1731664800,
+        "timestamp": 1731675600,
         "title": "【おしゃべりAI】AI CotomoちゃんとAIこよりを喋らせてみよう！！！【博衣こより/ホロライブ】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RryrAtVu5jo",
         "picture": "https://i.ytimg.com/vi/RryrAtVu5jo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731664800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】つあーしょにちのふりかえりする( ᐛ )🍌※セトリネタバレあり【 星街すいせい / ホロライブ 】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tVyK6kaFCgk",
         "picture": "https://i.ytimg.com/vi/tVyK6kaFCgk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731664800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】のんびり歌いましょう。【ホロライブ/ときのそら】"
     },
     {
@@ -372,5 +372,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731679200,
         "title": "【縦雑談】SSAのすいせい先輩ライブ感想など！Hoshimaticお疲れ様でした！✨【風真いろは/ホロライブ】#shorts"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yR7YOjXnjiA",
+        "picture": "https://i.ytimg.com/vi/yR7YOjXnjiA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731751200,
+        "title": "[ #3Dお披露目 ] TanZついに3Dになります！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BvAXqzl1d5A",
+        "picture": "https://i.ytimg.com/vi/BvAXqzl1d5A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731665700,
+        "title": "【APEX】ふるぱ＠２   / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=278KZbhEuZ0",
+        "picture": "https://i.ytimg.com/vi/278KZbhEuZ0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731675600,
+        "title": "【 Keep Talking and Nobody Explodes】#にゃんぐこーん 姉妹(？)の危機！！さようなら…お姉ちゃん…【ホロライブ/白上フブキ/猫又おかゆ】"
     }
 ]
