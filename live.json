@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7rHQRY_8kVk",
         "picture": "https://i.ytimg.com/vi/7rHQRY_8kVk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731693600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOCURE】WE ARE SO BACK!!! NEW UPDATE!!! #kfp  #キアライブ"
     },
     {
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731729600,
         "title": "【龍が如く  極】第七章 龍と鯉 ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DNvE3H-NJkc",
+        "picture": "https://i.ytimg.com/vi/DNvE3H-NJkc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731747600,
+        "title": "【APEX】えぺまつり外伝 feat.日本赤十字社【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zYQtKrhi7-o",
+        "picture": "https://i.ytimg.com/vi/zYQtKrhi7-o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731726000,
+        "title": "【 雑談 】諸君ら最近なにしてた？【 領国つかさ / すぺしゃりて 】"
     }
 ]
