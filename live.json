@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YGGLxywB3Tw",
         "picture": "https://i.ytimg.com/vi/YGGLxywB3Tw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731657600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 HoloCure 】3期生と4期生が来たぞ～～～～～！ガチャ回します🔥🔥【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oxIWXFvjsrc",
         "picture": "https://i.ytimg.com/vi/oxIWXFvjsrc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731657600,
-        "title": "【 鳴蟇村 | ホラゲ 】地図にない廃村からの脱出を試みるのら！！！＃２ 最終回【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 鳴蟇村 | ホラゲ 】んなたん…廃村から脱出できたらルーナイトに……！！！＃２ 最終回【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -339,5 +339,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【League of Legends】DUO？？？？？ / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=MPgJk82VRgg",
+        "picture": "https://i.ytimg.com/vi/MPgJk82VRgg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スト６】DJ初見でマスターを目指す！まずはコンボを知るとこから！【岸堂天真/ホロスターズ】"
     }
 ]
