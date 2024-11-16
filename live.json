@@ -306,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731762000,
         "title": "【HoloCure】ついに.......わたしが来た！！！！！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Lb6LCivpnsk",
+        "picture": "https://i.ytimg.com/vi/Lb6LCivpnsk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731743100,
+        "title": "【ミラー配信】LEGENDUS STREET FIGHTER 6 師弟杯 ~2024冬 後楽園の陣~ 【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=sV2m13_XuPU",
+        "picture": "https://i.ytimg.com/vi/sV2m13_XuPU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Galaxy Burger】COOKING ALONE【Pavolia Reine/hololiveID】"
     }
 ]
