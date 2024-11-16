@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=B65Dp5jBvLg",
-        "picture": "https://i.ytimg.com/vi/B65Dp5jBvLg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BXOuCiJ07ZU",
+        "picture": "https://i.ytimg.com/vi/BXOuCiJ07ZU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 100万人耐久 】遂にきた！！夢の100万人をみんなで迎えたい✨✨✨【 #鷹嶺ルイ100万人 /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731751200,
+        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第38～45話【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731816000,
         "title": "【龍が如く  極】第十章 愛の形 ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FLZ4TH1DKHA",
+        "picture": "https://i.ytimg.com/vi/FLZ4TH1DKHA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731762000,
+        "title": "【歌枠】今年最後の歌枠【花咲みやび/ホロスターズ】"
     }
 ]
