@@ -187,17 +187,6 @@
         "title": "【 #領国つかさ新衣装 】初めての新衣装お披露目！重大発表あり！【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TJ4__Puo9_w",
-        "picture": "https://i.ytimg.com/vi/TJ4__Puo9_w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE 0.7】LET\u0026#39;S WIN SOME CHIPS!! GO BIG OR GO HOME!!【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "むむむ。【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BI1QgCTd38Q",
+        "picture": "https://i.ytimg.com/vi/BI1QgCTd38Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731805200,
+        "title": "≪HOLOCURE≫ Number 1 fan of Hakos Baelz"
     }
 ]
