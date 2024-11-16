@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AhnVwiEC_fs",
-        "picture": "https://i.ytimg.com/vi/AhnVwiEC_fs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B65Dp5jBvLg",
+        "picture": "https://i.ytimg.com/vi/B65Dp5jBvLg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ 】完全初見。オフライン版！フォステイル様を愛でたい枠【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731736800,
+        "title": "【 100万人耐久 】遂にきた！！夢の100万人をみんなで迎えたい✨✨✨【 #鷹嶺ルイ100万人 /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -240,17 +240,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731736800,
         "title": "【 SILENT HILL 2 | リメイク版 】完全初見の「サイレントヒル2」プレイ１日目なのら！【姫森ルーナ/ホロライブ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qlaFfeV2mIE",
-        "picture": "https://i.ytimg.com/vi/qlaFfeV2mIE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Superchat Catchup】SpicyChip Reading"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
