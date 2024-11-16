@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=barm_Qdzdb0",
-        "picture": "https://i.ytimg.com/vi/barm_Qdzdb0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9opevcBpmgQ",
+        "picture": "https://i.ytimg.com/vi/9opevcBpmgQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～ お宝見つける～【ホロライブ/ときのそら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731754800,
+        "title": "【イオそら】えっ！？わたしたちが推す側？～推しと話せる！ハングル基礎フレーズ～【ホロライブ/ときのそら/Airani iofifteen】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=exvStQI4gOk",
         "picture": "https://i.ytimg.com/vi/exvStQI4gOk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731745800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Apex Legends】#えぺまつり 外伝feat.日本赤十字社【常闇トワ/ホロライブ】"
     },
     {
@@ -317,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731758400,
         "title": "【HOLOCURE 0.7】LET\u0026#39;S WIN SOME CHIPS!! GO BIG OR GO HOME!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WuwOE-zWfSg",
+        "picture": "https://i.ytimg.com/vi/WuwOE-zWfSg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731747600,
+        "title": "【APEX】えぺまつり外伝   / アステル ＠２"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=azmxp68PDO4",
+        "picture": "https://i.ytimg.com/vi/azmxp68PDO4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731772800,
+        "title": "【Thief Simulator】Looting di Malam Minggu 🤫【 iofi / hololiveID 】"
     }
 ]
