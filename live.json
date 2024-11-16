@@ -145,24 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RwbS4O61ZhY",
         "picture": "https://i.ytimg.com/vi/RwbS4O61ZhY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731740400,
-        "title": "【#CongRISUlation900K】GOLF IT : Let\u0026#39;s Celebrate With Some Balls !!【Ayunda Risu】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SfZP_ML7f-o",
-        "picture": "https://i.ytimg.com/vi/SfZP_ML7f-o/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "≪HOLOCURE≫ New Update?!?!"
+        "title": "【#CongRISUlation900K】GOLF IT : Let\u0026#39;s Celebrate With Some Balls !!【Ayunda Risu】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -297,17 +286,6 @@
         "title": "【ミラー配信】LEGENDUS STREET FIGHTER 6 師弟杯 ~2024冬 後楽園の陣~ 【荒咬オウガ /ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sV2m13_XuPU",
-        "picture": "https://i.ytimg.com/vi/sV2m13_XuPU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Galaxy Burger】ASMR BURGER MAKING (hopefully not clickbait)【Pavolia Reine/hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "islive": true,
@@ -317,5 +295,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Resident Evil 7: Biohazard】初めてのバイオなんだけど大丈夫？？？？？？　※グロ、虫注意 #02【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uBIAr-Lzmto",
+        "picture": "https://i.ytimg.com/vi/uBIAr-Lzmto/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731758400,
+        "title": "【 御祝呪 -oshukuju- 】呪いの儀式、一体ここで何が......【 領国つかさ / すぺしゃりて 】"
     }
 ]
