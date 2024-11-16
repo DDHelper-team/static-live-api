@@ -88,17 +88,6 @@
         "title": "ASMR｜睡前漫聊❤️你的夜晚我來點亮｜輕柔安撫雙耳｜【KU100／黑3DIO】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BXOuCiJ07ZU",
-        "picture": "https://i.ytimg.com/vi/BXOuCiJ07ZU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第38～45話【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": false,
@@ -119,17 +108,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#CongRISUlation900K】UNARCHIVED KARAOKE : Let\u0026#39;s Party Tonight !【Ayunda Risu】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=--Mvh3rYtIQ",
-        "picture": "https://i.ytimg.com/vi/--Mvh3rYtIQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PUBG MOBILE】新テーマモードでドン勝だ！！『Icemire Frontier』【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -277,23 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3Hew-oEpEEQ",
         "picture": "https://i.ytimg.com/vi/3Hew-oEpEEQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731765600,
-        "title": "配信予定～～～～！！待ってた？よね！？【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Liar\u0026#39;s Bar 】視聴者参加型！夜中のギャンブル大会開催🌟【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YRGce2KUqkw",
         "picture": "https://i.ytimg.com/vi/YRGce2KUqkw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731765600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KTaNE】爆弾解体💣️ #ポルーナ 爆発するほど仲が良いょね【尾丸ポルカ/姫森ルーナ/ホロライブ】"
     },
     {
@@ -339,5 +317,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Karaoke / 歌枠】チャンネル登録者１００人増える毎に３０分延長される歌枠 初回１時間～ / #燃えろアステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FEjPNQE3RMs",
+        "picture": "https://i.ytimg.com/vi/FEjPNQE3RMs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731769200,
+        "title": "むむむ。【赤井はあと/ホロライブ】"
     }
 ]
