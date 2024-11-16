@@ -178,11 +178,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=azmxp68PDO4",
         "picture": "https://i.ytimg.com/vi/azmxp68PDO4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Thief Simulator】Looting di Malam Minggu 🤫【 iofi / hololiveID 】"
     },
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731801600,
         "title": "【HOLOCURE】Pebbles in Holocure: o v o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yWLh_WJO_8c",
+        "picture": "https://i.ytimg.com/vi/yWLh_WJO_8c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731834000,
+        "title": "【 SILENT HILL 2 | リメイク版 】完全初見の「サイレントヒル2」プレイ２日目なのら！！！【姫森ルーナ/ホロライブ】※ネタバレあり"
     }
 ]
