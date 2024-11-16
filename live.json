@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eQ8INTWhIEk",
         "picture": "https://i.ytimg.com/vi/eQ8INTWhIEk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731769200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR｜睡前漫聊❤️你的夜晚我來點亮｜輕柔安撫雙耳｜【KU100／黑3DIO】"
     },
     {
@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SxuBrw8T-LM",
-        "picture": "https://i.ytimg.com/vi/SxuBrw8T-LM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oGPz9pYmreI",
+        "picture": "https://i.ytimg.com/vi/oGPz9pYmreI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Metroid Dread 】メトロイドドレッド行くぞ～～～😸✊#01【 猫又おかゆ/ホロライブ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731837600,
+        "title": "【 Metroid Dread 】メトロイドドレッド行くぞ～～～😸✊#02【 猫又おかゆ/ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -275,17 +275,6 @@
         "title": "【SPOILER WARNING - SILENT HILL 2】HIDE YOUR WINDOWS【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yvmmRNI8Ir8",
-        "picture": "https://i.ytimg.com/vi/yvmmRNI8Ir8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#12【Ace Attorney: Dual Destinies】EXTRA CASE LET\u0026#39;S GOOO (SPOILERS!)【Pavolia Reine/holoID】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -297,25 +286,14 @@
         "title": "【雑談】久しぶりの晩酌語り🍺【緋月ゆい/ネオポルテ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0lQ6Us55b2o",
-        "picture": "https://i.ytimg.com/vi/0lQ6Us55b2o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Karaoke / 歌枠】チャンネル登録者１００人増える毎に３０分延長される歌枠 初回１時間～ / #燃えろアステル"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FEjPNQE3RMs",
         "picture": "https://i.ytimg.com/vi/FEjPNQE3RMs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731769200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "むむむ。【赤井はあと/ホロライブ】"
     }
 ]
