@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=944xn53kXhk",
-        "picture": "https://i.ytimg.com/vi/944xn53kXhk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0Ipfvxim0m8",
+        "picture": "https://i.ytimg.com/vi/0Ipfvxim0m8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FWMC MINECRAFT JOURNEY】fuzzy mining at maximum strength 🐾【MOCOCO POV】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731808800,
+        "title": "【FATE/STAY NIGHT REMASTERED】i am the BAU of my sword 🐾【CONTAINS SPOILERS｜FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=B65Dp5jBvLg",
         "picture": "https://i.ytimg.com/vi/B65Dp5jBvLg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731736800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 100万人耐久 】遂にきた！！夢の100万人をみんなで迎えたい✨✨✨【 #鷹嶺ルイ100万人 /ホロライブ】"
     },
     {
@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=83IxdjNEPGk",
         "picture": "https://i.ytimg.com/vi/83IxdjNEPGk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731736800,
-        "title": "【 SILENT HILL 2 | リメイク版 】完全初見の「サイレントヒル2」プレイ１日目なのら！【姫森ルーナ/ホロライブ】※ネタバレあり"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 SILENT HILL 2 | リメイク版 】完全初見の「サイレントヒル2」プレイ１日目なのら！！！【姫森ルーナ/ホロライブ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -317,5 +317,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Galaxy Burger】ASMR BURGER MAKING (hopefully not clickbait)【Pavolia Reine/hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=PMoyVfmzy2o",
+        "picture": "https://i.ytimg.com/vi/PMoyVfmzy2o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Resident Evil 7: Biohazard】初めてのバイオなんだけど大丈夫？？？？？？　※グロ、虫注意 #02【影山シエン/ホロスターズ】"
     }
 ]
