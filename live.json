@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9opevcBpmgQ",
         "picture": "https://i.ytimg.com/vi/9opevcBpmgQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731754800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【イオそら】えっ！？わたしたちが推す側？～推しと話せる！ハングル基礎フレーズ～【ホロライブ/ときのそら/Airani iofifteen】"
     },
     {
@@ -253,17 +253,6 @@
         "title": "【ミラー配信】LEGENDUS STREET FIGHTER 6 師弟杯 ~2024冬 後楽園の陣~ 【荒咬オウガ /ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PMoyVfmzy2o",
-        "picture": "https://i.ytimg.com/vi/PMoyVfmzy2o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Resident Evil 7: Biohazard】初めてのバイオなんだけど大丈夫？？？？？？　※グロ、虫注意 #02【影山シエン/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -332,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RrJsAttTviA",
         "picture": "https://i.ytimg.com/vi/RrJsAttTviA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731754800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 OMORI 】私が選んだその道が、私の運命を決定づける　＃８【ホロライブ/白上フブキ 】"
     },
     {
@@ -376,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yrIyVv52J1Y",
         "picture": "https://i.ytimg.com/vi/yrIyVv52J1Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731754800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【マリオカート8DX 】俺らが最弱だと？舐めんな！！！！！！！【火威青×音乃瀬奏 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731765600,
         "title": "【KTaNE】爆弾解体💣️ #ポルーナ 爆発するほど仲が良いょね【尾丸ポルカ/姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hqYbGgpV7FI",
+        "picture": "https://i.ytimg.com/vi/hqYbGgpV7FI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731758400,
+        "title": "【SPOILER WARNING - SILENT HILL 2】HIDE YOUR WINDOWS【hololive ID 2nd Generation | Anya Melfissa】"
     }
 ]
