@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sqBhuQp8hxo",
         "picture": "https://i.ytimg.com/vi/sqBhuQp8hxo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731743100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ミラー配信！】LEGENDUS STREET FIGHTER 6 師弟杯 ~2024冬 後楽園の陣~  予選！ ガイル村全力応援会場【アルランディス/ホロスターズ】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Lb6LCivpnsk",
         "picture": "https://i.ytimg.com/vi/Lb6LCivpnsk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731743100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ミラー配信】LEGENDUS STREET FIGHTER 6 師弟杯 ~2024冬 後楽園の陣~ 【荒咬オウガ /ホロスターズ】"
     },
     {
