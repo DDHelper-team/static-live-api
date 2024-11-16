@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AhnVwiEC_fs",
         "picture": "https://i.ytimg.com/vi/AhnVwiEC_fs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731726000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅩ 】完全初見。オフライン版！フォステイル様を愛でたい枠【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -253,17 +253,6 @@
         "title": "【 SILENT HILL 2 | リメイク版 】完全初見の「サイレントヒル2」プレイ１日目なのら！【姫森ルーナ/ホロライブ】※ネタバレあり"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ttkj1Q6by2I",
-        "picture": "https://i.ytimg.com/vi/ttkj1Q6by2I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【IM BACK】i saw my 3D model move !!【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "islive": true,
@@ -295,5 +284,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【HoloCure】最新0.7アプデ！！！！3期生と4期生が参戦じゃあああああああガチャガチャガチャガチャ【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=exvStQI4gOk",
+        "picture": "https://i.ytimg.com/vi/exvStQI4gOk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731745800,
+        "title": "【Apex Legends】#えぺまつり 外伝feat.日本赤十字社【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RQn7biOiqHs",
+        "picture": "https://i.ytimg.com/vi/RQn7biOiqHs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731812400,
+        "title": "【THE DEVIL WEARS HOPE 3D LIVE】 IRyS Anniversary LIVE #DevilWearsHope"
     }
 ]
