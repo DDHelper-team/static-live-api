@@ -110,17 +110,6 @@
         "title": "【イオそら】えっ！？わたしたちが推す側？～推しと話せる！ハングル基礎フレーズ～【ホロライブ/ときのそら/Airani iofifteen】"
     },
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yR7YOjXnjiA",
-        "picture": "https://i.ytimg.com/vi/yR7YOjXnjiA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "[ #3Dお披露目 ] TanZついに3Dになります！"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": true,
@@ -405,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1731765600,
         "title": "配信予定～～～～！！待ってた？よね！？【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yrIyVv52J1Y",
+        "picture": "https://i.ytimg.com/vi/yrIyVv52J1Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731754800,
+        "title": "【マリオカート8DX 】俺らが最弱だと？舐めんな！！！！！！！【火威青×音乃瀬奏 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
