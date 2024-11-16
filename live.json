@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DNvE3H-NJkc",
-        "picture": "https://i.ytimg.com/vi/DNvE3H-NJkc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Cg4VazFCtQg",
+        "picture": "https://i.ytimg.com/vi/Cg4VazFCtQg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】えぺまつり外伝 feat.日本赤十字社【ホロライブ/夏色まつり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1731834000,
+        "title": "【Maquette】模型と現実がリンクする！？脳がバグるゲーム！【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -233,23 +233,23 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uBIAr-Lzmto",
         "picture": "https://i.ytimg.com/vi/uBIAr-Lzmto/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731758400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 御祝呪 -oshukuju- 】呪いの儀式、一体ここで何が......【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TJ4__Puo9_w",
         "picture": "https://i.ytimg.com/vi/TJ4__Puo9_w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731758400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOCURE 0.7】LET\u0026#39;S WIN SOME CHIPS!! GO BIG OR GO HOME!!【Kureiji Ollie】"
     },
     {
@@ -277,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5sdw7bnOi50",
         "picture": "https://i.ytimg.com/vi/5sdw7bnOi50/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731758400,
-        "title": "【配信予定】ぺっこぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【HoloCure】3期生＆4期生実装きｔらああああああああああああああああああ！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hqYbGgpV7FI",
         "picture": "https://i.ytimg.com/vi/hqYbGgpV7FI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1731758400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SPOILER WARNING - SILENT HILL 2】HIDE YOUR WINDOWS【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
