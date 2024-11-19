@@ -55,17 +55,6 @@
         "title": "【HoloCure】ホロキュアをさせろおおおおおおおおおおおおおおお！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GaPiRn9xzqI",
-        "picture": "https://i.ytimg.com/vi/GaPiRn9xzqI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】金策したりガチャしたり！色んなホロメンを迎えたい✨【白銀ノエル/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": false,
@@ -75,17 +64,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732096800,
         "title": "【 #ホロライブ甲子園 】こんこよ高校育成エピローグ！3年目秋から3年生卒業まで！⚾ #8 【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=k28q_e0W4Ok",
-        "picture": "https://i.ytimg.com/vi/k28q_e0W4Ok/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732028400,
-        "title": "【 メンバー限定配信 】 Liar\u0026#39;s Bar！みんなー！あそぼー！！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -189,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TnbY43G4q10",
         "picture": "https://i.ytimg.com/vi/TnbY43G4q10/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732028400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】"
     },
     {
@@ -211,12 +189,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vtgkFlJbSDg",
         "picture": "https://i.ytimg.com/vi/vtgkFlJbSDg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732028400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】しっとり歌枠！！！-Midnight station -80 【HACHI】"
     },
     {
@@ -266,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nWZfNl6O-kQ",
         "picture": "https://i.ytimg.com/vi/nWZfNl6O-kQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732028400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談/Free Talk】深夜にまったり話そ【アキロゼ/ホロライブ】"
     },
     {
@@ -284,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732060800,
         "title": "【Dead Space Remake】Making you whole(some)"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8ZjQXKQVYgA",
+        "picture": "https://i.ytimg.com/vi/8ZjQXKQVYgA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732068000,
+        "title": "【HOLOCURE 0.7】SO MANY THINGS TO DO!! SHOULD WE GACHIKOI OR GO TO TOWER OF SUFFERING??【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SemyryC7fk4",
+        "picture": "https://i.ytimg.com/vi/SemyryC7fk4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732114800,
+        "title": "ASMR｜征服！把你的耳朵變成只能由我才能滿足❤️｜Irresistible gentle tingling in the ears.｜耳に優しい刺激がたまらない。 心音 【黑3DIO/KU100】"
     }
 ]
