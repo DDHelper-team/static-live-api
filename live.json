@@ -46,23 +46,23 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=I7GFX246XL8",
         "picture": "https://i.ytimg.com/vi/I7GFX246XL8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732050000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Let\u0026#39;s wash w/ @ShioriNovella @holoen_erbloodflame @TakanashiKiara    | PowerWash Simulator"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7_fQNrkbcFQ",
         "picture": "https://i.ytimg.com/vi/7_fQNrkbcFQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732050000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Yapping and Cleaning with the Girlfriend\u0026#39;s Wives【Powerwash Simulator】"
     },
     {
@@ -216,6 +216,6 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Stealing all the Pokemon"
+        "title": null
     }
 ]
