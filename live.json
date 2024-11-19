@@ -110,17 +110,6 @@
         "title": "【OMUSUBI】Horror Adventure! Suddenly in a Mysterious Mansion!?【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TnbY43G4q10",
-        "picture": "https://i.ytimg.com/vi/TnbY43G4q10/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ASMR 】最強すやすや永眠💓Ear Massage/Sleep Whispering/KU100【ホロライブ/赤井はあと】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "islive": false,
@@ -240,5 +229,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Left 4 Dead 2】キャリーさせていただく / アステル 常闇トワ³ Selly³ ありさか³"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V_Kqqp6SZ64",
+        "picture": "https://i.ytimg.com/vi/V_Kqqp6SZ64/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732064400,
+        "title": "≪Yakuza 3 - FINALE≫ I\u0026#39;m not leaving until we finish the game #4【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=POC0r-zoD0c",
+        "picture": "https://i.ytimg.com/vi/POC0r-zoD0c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732096800,
+        "title": "【FLOW GLOW VS ReGLOSS】じゃ、スーパーマリオパーティー ジャンボリーで白黒つけよっか～！！【#一条莉々華 #儒烏風亭らでん #響咲リオナ #輪堂千速】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YRO5sdzBIrg",
+        "picture": "https://i.ytimg.com/vi/YRO5sdzBIrg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732071600,
+        "title": "【DEVIL MAY CRY 3】I need more POWAH"
     }
 ]
