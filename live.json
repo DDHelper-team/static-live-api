@@ -52,7 +52,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Dark Souls II】I Love Pain I Love Suffering (part 3) with news! #calliolive"
+        "title": "【Dark Souls II】I Love Pain I Love Suffering (part 3) #calliolive"
     },
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -218,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732100400,
         "title": "【ただいま～！】ラスベガス、大神ミオ視点の雑談【帰りました！】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KBX-cEym-4I",
+        "picture": "https://i.ytimg.com/vi/KBX-cEym-4I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732107600,
+        "title": "【 PAYDAY2 】強盗【常闇トワ / ホロライブ】"
     }
 ]
