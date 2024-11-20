@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cIes3RpmXeg",
         "picture": "https://i.ytimg.com/vi/cIes3RpmXeg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732143600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#124 11/21木曜日！ほぼ一週間ぶりのおはよう可変式 #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
