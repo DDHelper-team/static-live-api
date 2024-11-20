@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1nIEIPbY39c",
         "picture": "https://i.ytimg.com/vi/1nIEIPbY39c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732113000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】いちゃいちゃカウントダウン、しよ？♡【#かりにゃん生誕祭2024】"
     },
     {
@@ -275,36 +275,25 @@
         "title": "【HOLOCURE】LAST STREAM BEFORE BREAK! #kfp  #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=vAfCbWrZeak",
-        "picture": "https://i.ytimg.com/vi/vAfCbWrZeak/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732111200,
-        "title": "【MemberOnly】CHOTTO SYABERUYO【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Hx93Jmf_-Ek",
         "picture": "https://i.ytimg.com/vi/Hx93Jmf_-Ek/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732113030,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#46 -世界任務編 | 完全初見！モラがねえ本もねえ📖【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=B8oAzYNheuQ",
         "picture": "https://i.ytimg.com/vi/B8oAzYNheuQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732112100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】短めです！！ゲリラ！！！【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
