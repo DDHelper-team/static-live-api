@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1nIEIPbY39c",
-        "picture": "https://i.ytimg.com/vi/1nIEIPbY39c/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=egZmi580_c4",
+        "picture": "https://i.ytimg.com/vi/egZmi580_c4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KU100/ASMR】いちゃいちゃカウントダウン、しよ？♡【#かりにゃん生誕祭2024】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732186800,
+        "title": "【3D歌枠】KAWAIIおうた♡ Singing Stream【#かりにゃん生誕祭2024】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -31,17 +31,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732154400,
         "title": "【HOLOCURE 0.7】SO MANY THINGS TO DO!! SHOULD WE GACHIKOI OR GO TO TOWER OF SUFFERING??【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SemyryC7fk4",
-        "picture": "https://i.ytimg.com/vi/SemyryC7fk4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ASMR｜征服！把你的耳朵變成只能由我才能滿足❤️｜Irresistible gentle tingling in the ears.｜耳に優しい刺激がたまらない。 心音 【黑3DIO/KU100】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -218,5 +207,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#Zetalk】test stream vertical (?)"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5Iag9dZqTKE",
+        "picture": "https://i.ytimg.com/vi/5Iag9dZqTKE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732183200,
+        "title": "【 マリパジャンボリー 】阿鼻叫喚のジャンボリーはじめます！！！！！！【ホロライブ/夏色まつり】"
     }
 ]
