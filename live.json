@@ -187,17 +187,6 @@
         "title": "【 PAYDAY2 】強盗【常闇トワ / ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3zh_WLmh_R0",
-        "picture": "https://i.ytimg.com/vi/3zh_WLmh_R0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】えぺまつり   / アステル AlphaAzur³ 絲依とい³"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "islive": true,
@@ -251,5 +240,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732096800,
         "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=W9MXr9-odyk",
+        "picture": "https://i.ytimg.com/vi/W9MXr9-odyk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732107600,
+        "title": "【】銀行強盗します：payday2【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lUJKapYjd0M",
+        "picture": "https://i.ytimg.com/vi/lUJKapYjd0M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732104000,
+        "title": "【ぺこマリ！】【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=g2PEb9rg6SY",
+        "picture": "https://i.ytimg.com/vi/g2PEb9rg6SY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732114800,
+        "title": "【Minecraft】うるとらこっそり【赤井はあと/ホロライブ】"
     }
 ]
