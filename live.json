@@ -222,12 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hbJcAezKaGg",
         "picture": "https://i.ytimg.com/vi/hbJcAezKaGg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732086000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト６】モダンDJでマスターを目指す！ダイヤ４～【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qpZC5wv2zg8",
+        "picture": "https://i.ytimg.com/vi/qpZC5wv2zg8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732107600,
+        "title": "【HoloCure】全員そろったし深夜のチルキュアするか...ッ！！【白銀ノエル/ホロライブ】"
     }
 ]
