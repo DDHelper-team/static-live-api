@@ -132,17 +132,6 @@
         "title": "【 HoloCure 】久々のホロキュア～！！！Steam版初なので色々な新要素であそぶぞおおおお！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hYp4PoMLZgY",
-        "picture": "https://i.ytimg.com/vi/hYp4PoMLZgY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Yahoo!カーナビ】ついに念願のカーナビ案件！AZKiと一緒にドライブしよう！【ホロライブ / AZKi】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732194000,
         "title": "【雑談】#風真いろは100万人 ありがとうございました✨【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=U3bH_78bZM0",
+        "picture": "https://i.ytimg.com/vi/U3bH_78bZM0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732194000,
+        "title": "【HoloCure】アチーブメント解放したりしよ！【角巻わため/ホロライブ４期生】"
     }
 ]
