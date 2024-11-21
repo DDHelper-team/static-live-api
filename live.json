@@ -128,7 +128,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "A war between two clowns"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -140,5 +140,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【】【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pAh03QgU0VU",
+        "picture": "https://i.ytimg.com/vi/pAh03QgU0VU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732269600,
+        "title": "ざつだんしようにゃ～～～～～～～😸"
     }
 ]
