@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WVJgw84943U",
         "picture": "https://i.ytimg.com/vi/WVJgw84943U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732161600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Who\u0026#39;s Your Daddy?!】dad vs. baby with @KoboKanaeru  #calliolive"
     },
     {
@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GY8FNG5TEEM",
         "picture": "https://i.ytimg.com/vi/GY8FNG5TEEM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732161600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く4 伝説を継ぐもの】初見で挑む『龍が如く4 伝説を継ぐもの』　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PtobqLIXnAo",
-        "picture": "https://i.ytimg.com/vi/PtobqLIXnAo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NJajbdH6q60",
+        "picture": "https://i.ytimg.com/vi/NJajbdH6q60/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "We can suffer, together... | Mouthwashing [GORE WARNING]"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732237200,
+        "title": "WELCOME TO MY SLUMBER PARTY!! | #RissaHatchDay24"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732194000,
         "title": "#スバちょこるなたん 予定地【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=CTg9RUSOlfA",
+        "picture": "https://i.ytimg.com/vi/CTg9RUSOlfA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Who\u0026#39;s Your Daddy?!】gugu gaga @MoriCalliope"
     }
 ]
