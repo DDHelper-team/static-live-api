@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2l-3IEAQz5M",
         "picture": "https://i.ytimg.com/vi/2l-3IEAQz5M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732176000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 HoloCure 】久々のホロキュア～！！！Steam版初なので色々な新要素であそぶぞおおおお！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -200,12 +200,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Myw1OMa2wvQ",
         "picture": "https://i.ytimg.com/vi/Myw1OMa2wvQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732176000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 雑談 】ねぇねぇおはなししよ【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MHDB93LIp2I",
+        "picture": "https://i.ytimg.com/vi/MHDB93LIp2I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732186800,
+        "title": "【MemberOnly】誕生日(11/24)間近！まったり秘密会議...しよ🍵✨【白銀ノエル/ホロライブ】"
     }
 ]
