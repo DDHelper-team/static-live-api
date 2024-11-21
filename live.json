@@ -22,17 +22,6 @@
         "title": "WELCOME TO MY SLUMBER PARTY!! | #RissaHatchDay24"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=U3bH_78bZM0",
-        "picture": "https://i.ytimg.com/vi/U3bH_78bZM0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】アチーブメント解放したりしよ！【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": false,
@@ -108,5 +97,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732276800,
         "title": "【 雑談 】5万人と新衣装めでたい。【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5D29_YJAp7Q",
+        "picture": "https://i.ytimg.com/vi/5D29_YJAp7Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732276800,
+        "title": "【チームかな☆ころ】 やるで～～～！！！！！！【#ホロ大並走鎖バトル】"
     }
 ]
