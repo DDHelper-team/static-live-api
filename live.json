@@ -165,17 +165,6 @@
         "title": "【雑談】なんかラジオみたいなトーク　第2回【荒咬オウガ  アール/Aru】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hZVKCzjZgeo",
-        "picture": "https://i.ytimg.com/vi/hZVKCzjZgeo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】1606～ルークランクマ！【律可/ホロスターズ】#りつすた"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": true,
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732266000,
         "title": "【 三ツ星ファーム 】合法うめうめのチャンス！！実食レポ頑張ります！🔥🍚【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2ZRfm_gCzsA",
+        "picture": "https://i.ytimg.com/vi/2ZRfm_gCzsA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732190400,
+        "title": "【スーパー マリオパーティ ジャンボリー】マリパマツリ   / アステル 千燈ゆうひ³ 宇星ぱる³ 少女時代ズズ³"
     }
 ]
