@@ -121,14 +121,14 @@
         "title": "【配信予定】ぺこおおおおおおおおおおおおおおおおおおおおおおおおぺおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neuro leaves Evil alone again, how sad."
+        "title": "Rebooting..."
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -155,12 +155,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
         "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7byFIdAow-g",
         "picture": "https://i.ytimg.com/vi/7byFIdAow-g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732222800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活ASMR】おはようなのじゃ～！【タッピング/耳塞ぎ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=4TTONKj-myA",
+        "picture": "https://i.ytimg.com/vi/4TTONKj-myA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#125 11/22金曜日！やっふうううううううううううう #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
