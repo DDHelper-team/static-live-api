@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=egZmi580_c4",
         "picture": "https://i.ytimg.com/vi/egZmi580_c4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732186800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D歌枠】KAWAIIおうた♡ Singing Stream【#かりにゃん生誕祭2024】"
     },
     {
@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FuFfTGLYTdc",
         "picture": "https://i.ytimg.com/vi/FuFfTGLYTdc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732186800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "心靈良方―治療時間｜讓我們從主廚生活來當實習醫生！放心當然一定也是很抓馬【Healing希靈/VTuber】"
     },
     {
@@ -121,17 +121,6 @@
         "title": "#スバちょこるなたん 予定地【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2l-3IEAQz5M",
-        "picture": "https://i.ytimg.com/vi/2l-3IEAQz5M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 HoloCure 】久々のホロキュア～！！！Steam版初なので色々な新要素であそぶぞおおおお！！！【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": false,
@@ -152,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 雑談 】ねぇねぇおはなししよ【ホロライブ/沙花叉クロヱ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=MHDB93LIp2I",
-        "picture": "https://i.ytimg.com/vi/MHDB93LIp2I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732186800,
-        "title": "【MemberOnly】誕生日(11/24)間近！まったり秘密会議...しよ🍵✨【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -200,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mOMuVS-rlBc",
         "picture": "https://i.ytimg.com/vi/mOMuVS-rlBc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732186800,
-        "title": "にょん"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【HoloCure】ホロキュア、アップデートされたらしい！！ので遊ぶ！！！！！"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -240,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732194000,
         "title": "#3【Corpse Party (2021)】CHAPTER 3 HELPPP I WANT OUT (VIOLENT OMG)【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=RVYJiQwdLYw",
+        "picture": "https://i.ytimg.com/vi/RVYJiQwdLYw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【PR】nosh食べ比べレポ！【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nOvmRcOctLo",
+        "picture": "https://i.ytimg.com/vi/nOvmRcOctLo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732190400,
+        "title": "【HoloCure】全く動かない＆ハードコアでもわたしはいける【ホロライブ/ときのそら】"
     }
 ]
