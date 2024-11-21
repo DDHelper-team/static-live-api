@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AEjS1pGy58o",
         "picture": "https://i.ytimg.com/vi/AEjS1pGy58o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732179600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 HoloCure 】ホロキュアにナノラがやってきたのら～～！！！【姫森ルーナ/ホロライブ】"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hZVKCzjZgeo",
         "picture": "https://i.ytimg.com/vi/hZVKCzjZgeo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732179600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】1606～ルークランクマ！【律可/ホロスターズ】#りつすた"
     }
 ]
