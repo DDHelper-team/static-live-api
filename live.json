@@ -129,5 +129,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "A war between two clowns"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=IgNLbpazgic",
+        "picture": "https://i.ytimg.com/vi/IgNLbpazgic/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【】【赤井はあと/ホロライブ】"
     }
 ]
