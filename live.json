@@ -35,11 +35,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=5D29_YJAp7Q",
         "picture": "https://i.ytimg.com/vi/5D29_YJAp7Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【チームかな☆ころ】 やるで～～～！！！！！！【#ホロ大並走鎖バトル】"
     },
@@ -262,5 +262,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732287600,
         "title": "【歌枠】秋の失恋ソング祭り!!!【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DAV10FQJjrw",
+        "picture": "https://i.ytimg.com/vi/DAV10FQJjrw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732334400,
+        "title": "【HoloCure】ホロキュア、アップデートで3期生、4期生がきたあああ✨追加要素も色々あるらしい…！？【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=L-sV8TEWfwc",
+        "picture": "https://i.ytimg.com/vi/L-sV8TEWfwc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732334400,
+        "title": "【 Metroid Dread 】メトロイドドレッド行くぞ～～～😸✊#03【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rRY4j1VqnRs",
+        "picture": "https://i.ytimg.com/vi/rRY4j1VqnRs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732320000,
+        "title": "【UNARCHIVED KARAOKE】Just Vibin\u0026#39;"
     }
 ]
