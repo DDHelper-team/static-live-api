@@ -176,17 +176,6 @@
         "title": "今更⁉ 2 . 0 お 披 露 目 \u0026amp; グッズ告知☄【 星街すいせい / ホロライブ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DgdZ8bh5YyY",
-        "picture": "https://i.ytimg.com/vi/DgdZ8bh5YyY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SILENT HILL 2】#01 完全初見!!噂の三角さんに会えるの!?【花咲みやび/ホロスターズ】【ネタバレあり】"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
         "islive": false,
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RBdywSVFbE4",
         "picture": "https://i.ytimg.com/vi/RBdywSVFbE4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732259700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【祝引っ越し！！】さぁアルランディスの回線は～…!? ※いろいろ変わったのでテスト配信です【アルランディス/ホロスターズ】"
     },
     {
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732294800,
         "title": "【HoloCure】tutorial jadi babi ngepet dimalam hari【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YO6RjRoMeG8",
+        "picture": "https://i.ytimg.com/vi/YO6RjRoMeG8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732280400,
+        "title": "【#ホロライブ甲子園】もしAZ学園高校が後攻だったら…？エキシビションマッチ！【ホロライブ / AZKi】"
     }
 ]
