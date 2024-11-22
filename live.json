@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NJajbdH6q60",
         "picture": "https://i.ytimg.com/vi/NJajbdH6q60/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732237200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "WELCOME TO MY SLUMBER PARTY!! | #RissaHatchDay24"
     },
     {
@@ -132,17 +132,6 @@
         "title": "ざつだんしようにゃ～～～～～～～😸"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4TTONKj-myA",
-        "picture": "https://i.ytimg.com/vi/4TTONKj-myA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#125 11/22金曜日！やっふうううううううううううう #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -152,5 +141,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732276800,
         "title": "【chained together #ホロ大並走鎖バトル】フブキ＆アキロゼは #俺達白亜紀【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lSUHlesabpM",
+        "picture": "https://i.ytimg.com/vi/lSUHlesabpM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732320000,
+        "title": "【HOLOCURE 0.7 UPDATE】give us holocoins for breakfast 🐾✨️【FUWAMOCO】"
     }
 ]
