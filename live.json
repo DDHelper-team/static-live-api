@@ -156,23 +156,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QJwlYlbgVKQ",
         "picture": "https://i.ytimg.com/vi/QJwlYlbgVKQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732284000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "いいふぅふぅ(・o・🍬)【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jGZ0-WIjArU",
         "picture": "https://i.ytimg.com/vi/jGZ0-WIjArU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732284000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】第１１８回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sqqrvrnIIPI",
         "picture": "https://i.ytimg.com/vi/sqqrvrnIIPI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732284000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】金曜日の雑談【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#魔物獵人世界 】初踏入世界的小菜虎 希望不是自己被狩獵【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sg8JN9b0r6M",
+        "picture": "https://i.ytimg.com/vi/sg8JN9b0r6M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732370400,
+        "title": "【生誕カウントダウン】24日は団長の誕生日✨ノエポ片手にみんなで迎えよ～！！！【白銀ノエル/ホロライブ】"
     }
 ]
