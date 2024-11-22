@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CMc-ag-7eUo",
         "picture": "https://i.ytimg.com/vi/CMc-ag-7eUo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732275000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【みんなで空気読み。４】愛と平和【 奏手イヅル / ホロスターズ 】"
     },
     {
