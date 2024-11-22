@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8ZjQXKQVYgA",
-        "picture": "https://i.ytimg.com/vi/8ZjQXKQVYgA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE 0.7】SO MANY THINGS TO DO!! SHOULD WE GACHIKOI OR GO TO TOWER OF SUFFERING??【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": false,
@@ -209,17 +198,6 @@
         "title": "【日本酒の会】ロケ動画公開記念！作をいただきます！ #りりらでん酒盛 【一条莉々華/儒烏風亭らでん 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BAfkbC5_sks",
-        "picture": "https://i.ytimg.com/vi/BAfkbC5_sks/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】今日でマスター到達します！DJダイヤ5～【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "islive": false,
@@ -238,7 +216,7 @@
         "picture": "https://i.ytimg.com/vi/RBdywSVFbE4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1732258800,
+        "timestamp": 1732259700,
         "title": "【祝引っ越し！！】さぁアルランディスの回線は～…!? ※いろいろ変わったのでテスト配信です【アルランディス/ホロスターズ】"
     },
     {
@@ -262,5 +240,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732276800,
         "title": "【Chained Together 】まちゅゼタ姉妹 MatsuZeta together!!!【#ホロ大並走鎖バトル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sAZ4L-pBqKY",
+        "picture": "https://i.ytimg.com/vi/sAZ4L-pBqKY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732280400,
+        "title": "【#いろはス】なかよくマリオパーティーする人たち💜💚【風真いろは/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uGYEW0XuPuk",
+        "picture": "https://i.ytimg.com/vi/uGYEW0XuPuk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732294800,
+        "title": "【HoloCure】tutorial jadi babi ngepet dimalam hari【Moona Hoshinova】"
     }
 ]
