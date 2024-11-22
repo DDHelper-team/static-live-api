@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_D9vLalbiE4",
         "picture": "https://i.ytimg.com/vi/_D9vLalbiE4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732273200,
-        "title": "【配信予定】ぺこおおおおおおおおおおおおおおおおおおおおおおおおぺおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおおぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【みんなで空気読み。4】空気しか読めません！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -165,26 +165,15 @@
         "title": "【龍が如く  極】第十章 愛の形 ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=itXc3zCU-8Y",
-        "picture": "https://i.ytimg.com/vi/itXc3zCU-8Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "今更⁉ 2 . 0 お 披 露 目 \u0026amp; グッズ告知☄【 星街すいせい / ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ff5BbAFKPnI",
-        "picture": "https://i.ytimg.com/vi/ff5BbAFKPnI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=myOK-31P3ko",
+        "picture": "https://i.ytimg.com/vi/myOK-31P3ko/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【日本酒の会】ロケ動画公開記念！作をいただきます！ #りりらでん酒盛 【一条莉々華/儒烏風亭らでん 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732280400,
+        "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！ナランチャのおつかい（11~15話）【儒烏風亭らでん 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -339,5 +328,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732276800,
         "title": "【#ホロ大並走鎖バトル 】まあいけるっしょ【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ihNnqpcz-S4",
+        "picture": "https://i.ytimg.com/vi/ihNnqpcz-S4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【疲弊した人】ぐでんぐでんに疲れていると人はこうなる・・？【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cquP5MDYYM8",
+        "picture": "https://i.ytimg.com/vi/cquP5MDYYM8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732276800,
+        "title": "【#ホロ大並走鎖バトル Chained Together】We Will Be LOCKING IN. #IONYAWIN【hololive ID 2nd Gen | Anya Melfissa】"
     }
 ]
