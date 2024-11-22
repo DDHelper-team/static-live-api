@@ -101,35 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uGYEW0XuPuk",
         "picture": "https://i.ytimg.com/vi/uGYEW0XuPuk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732294800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HoloCure】tutorial jadi babi ngepet dimalam hari【Moona Hoshinova】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YO6RjRoMeG8",
-        "picture": "https://i.ytimg.com/vi/YO6RjRoMeG8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロライブ甲子園】もしAZ学園高校が後攻だったら…？エキシビションマッチ！【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jGZ0-WIjArU",
-        "picture": "https://i.ytimg.com/vi/jGZ0-WIjArU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】第１１８回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -141,17 +119,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談】夜だしまったりfree talk💭【不知火フレア/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4acmZAbqDx4",
-        "picture": "https://i.ytimg.com/vi/4acmZAbqDx4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#魔物獵人世界 】初踏入世界的小菜虎 希望不是自己被狩獵【#遊戲個人勢 / Fingla】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
