@@ -110,17 +110,6 @@
         "title": "≪#BaeTV24≫ Hakos Baelz 24 HOUR STREAM PART 1!!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2eDScPaVDxM",
-        "picture": "https://i.ytimg.com/vi/2eDScPaVDxM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SFLミラー配信】ストリートファイターリーグ: Pro-JP 2024 を一緒に見よう！最終節!!!【アルランディス/ホロスターズ】※株式会社カプコンの許諾のもと配信しております"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732323600,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Onk2Qalo4bk",
+        "picture": "https://i.ytimg.com/vi/Onk2Qalo4bk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732287600,
+        "title": "【歌枠】秋の失恋ソング祭り!!!【赤井はあと/ホロライブ】"
     }
 ]
