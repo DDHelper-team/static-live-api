@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8ZjQXKQVYgA",
         "picture": "https://i.ytimg.com/vi/8ZjQXKQVYgA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732244400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOCURE 0.7】SO MANY THINGS TO DO!! SHOULD WE GACHIKOI OR GO TO TOWER OF SUFFERING??【Kureiji Ollie】"
     },
     {
@@ -163,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732327200,
         "title": "【ドラクエ3リメイク】HD-2D版初見！遊びつくす！カンダタ待った～～～？🎮✨ #2 【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tZXIA-2fbuQ",
+        "picture": "https://i.ytimg.com/vi/tZXIA-2fbuQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732330800,
+        "title": "【3D SPECIAL STREAM】SUPER BIG NEWS！超！重大発表"
     }
 ]
