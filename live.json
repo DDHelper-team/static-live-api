@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FpiHo0SKYjE",
-        "picture": "https://i.ytimg.com/vi/FpiHo0SKYjE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_694RAdx30Y",
+        "picture": "https://i.ytimg.com/vi/_694RAdx30Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 雑談 】5万人と新衣装めでたい。【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732363200,
+        "title": "【 ヤバ耐久 】3Dお披露目に向けてリングフィットで体力をつけろ！【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ELvBxeL7bB0",
         "picture": "https://i.ytimg.com/vi/ELvBxeL7bB0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732287600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】夜だしまったりfree talk💭【不知火フレア/ホロライブ】"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zYJNZt8aF90",
         "picture": "https://i.ytimg.com/vi/zYJNZt8aF90/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732287600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOCURE】ZERO POINT SEVEN【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Onk2Qalo4bk",
         "picture": "https://i.ytimg.com/vi/Onk2Qalo4bk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732287600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】秋の失恋ソング祭り!!!【赤井はあと/ホロライブ】"
     },
     {
