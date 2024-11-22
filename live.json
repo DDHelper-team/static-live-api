@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cEDsO_xeqDA",
         "picture": "https://i.ytimg.com/vi/cEDsO_xeqDA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732280400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌雜】我愛唱歌 什麼都愛 歡迎點歌👋"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=myOK-31P3ko",
         "picture": "https://i.ytimg.com/vi/myOK-31P3ko/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732280400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！ナランチャのおつかい（11~15話）【儒烏風亭らでん 】"
     },
     {
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YO6RjRoMeG8",
         "picture": "https://i.ytimg.com/vi/YO6RjRoMeG8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732280400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロライブ甲子園】もしAZ学園高校が後攻だったら…？エキシビションマッチ！【ホロライブ / AZKi】"
     },
     {
@@ -284,28 +284,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732284000,
         "title": "【歌枠】第１１８回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CMc-ag-7eUo",
-        "picture": "https://i.ytimg.com/vi/CMc-ag-7eUo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【みんなで空気読み。４】愛と平和【 奏手イヅル / ホロスターズ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jabvf8doJkk",
-        "picture": "https://i.ytimg.com/vi/jabvf8doJkk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MHW:IB】ミラボレアスソロ討伐チャレヌジ【影山シエン/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -372,5 +350,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Chained Together 】まちゅゼタ姉妹で高みを目指す！！！【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=UDMUQUVRbCM",
+        "picture": "https://i.ytimg.com/vi/UDMUQUVRbCM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【縦型歌枠】なんと今歌っているよ！！アニソン中心 【尾丸ポルカ/ホロライブ】 #VTuber #shorts"
     }
 ]
