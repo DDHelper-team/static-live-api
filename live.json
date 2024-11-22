@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DgdZ8bh5YyY",
         "picture": "https://i.ytimg.com/vi/DgdZ8bh5YyY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732255200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】#01 完全初見!!噂の三角さんに会えるの!?【花咲みやび/ホロスターズ】【ネタバレあり】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732323600,
         "title": "≪#BaeTV24≫ Hakos Baelz 24 HOUR STREAM PART 1!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RBdywSVFbE4",
+        "picture": "https://i.ytimg.com/vi/RBdywSVFbE4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732258800,
+        "title": "【祝引っ越し！！】さぁアルランディスの回線は～…!? ※いろいろ変わったのでテスト配信です【アルランディス/ホロスターズ】"
     }
 ]
