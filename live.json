@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zYJNZt8aF90",
-        "picture": "https://i.ytimg.com/vi/zYJNZt8aF90/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=khPiKbhswaI",
+        "picture": "https://i.ytimg.com/vi/khPiKbhswaI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE】ZERO POINT SEVEN【Pavolia Reine/hololiveID 2nd gen】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732334400,
+        "title": "【HOLOCURE】peaceful talk【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
