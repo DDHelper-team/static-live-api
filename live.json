@@ -242,14 +242,14 @@
         "title": "Gen 3 and 4!!! | HoloCure"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "layna and neuro play until dawn"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -283,5 +283,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732420800,
         "title": "【 雑談 】清楚才色兼備ミステリアス文学少女による雑談【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XyallGrBWCM",
+        "picture": "https://i.ytimg.com/vi/XyallGrBWCM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732417230,
+        "title": "【原神】#49 | 完全初見！水龍、水龍、泣かないで💧【緋月ゆい/ネオポルテ】"
     }
 ]
