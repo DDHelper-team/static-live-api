@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=B88JzDDi5AQ",
-        "picture": "https://i.ytimg.com/vi/B88JzDDi5AQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZEoTHErSed0",
+        "picture": "https://i.ytimg.com/vi/ZEoTHErSed0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く  極】最終回！！第十章 愛の形～ ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732406400,
+        "title": "【雑談】完全寝起きの朝活雑談！アニメ主題歌の話もする！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -165,17 +165,6 @@
         "title": "【七つの大罪～光と闇の交戦～】グラクロ5.5周年！初見で遊んでみるぞっ！【不知火フレア/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZIikPjNHP2k",
-        "picture": "https://i.ytimg.com/vi/ZIikPjNHP2k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ETS 2】Trucking ?? YA YA YA【Ayunda Risu】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "islive": false,
@@ -218,5 +207,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732363200,
         "title": "【Grunn】Gardening, But Make It Spooky 【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JsO58bUewZk",
+        "picture": "https://i.ytimg.com/vi/JsO58bUewZk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732359600,
+        "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、エピローグ！3年目秋から卒業式まで 【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WLoqoX-xVo0",
+        "picture": "https://i.ytimg.com/vi/WLoqoX-xVo0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732356000,
+        "title": "【ストリートファイター6】回線が早くなったので多分インパクトも飛びも全部落とせますし俺の中足の方が優先されます【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zLcdPjT5fH8",
+        "picture": "https://i.ytimg.com/vi/zLcdPjT5fH8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732352400,
+        "title": "【#魔物獵人世界 】初踏入世界的小菜虎 希望不是自己被狩獵【#遊戲個人勢 / Fingla】"
     }
 ]
