@@ -44,17 +44,6 @@
         "title": "【朝活雑談】今日はノエルの誕生日！21時から3Dライブあるよ～！！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=P_m246dQW18",
-        "picture": "https://i.ytimg.com/vi/P_m246dQW18/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Grunn】Gardening, But Make It Spooky 【hololive ID 2nd Generation | Anya Melfissa】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -141,17 +130,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "#12.5【Ace Attorney: Dual Destinies】MORE EXTRA CASE LET\u0026#39;S GOOO (SPOILERS!)【Pavolia Reine/holoID】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9zKB_2bScm0",
-        "picture": "https://i.ytimg.com/vi/9zKB_2bScm0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Tavern Manager Simulator 】はい！しゅわしゅわ一丁！ 酒場経営シミュレーターやるぞおおおお 【ホロライブ/沙花叉クロヱ】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -251,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732453200,
         "title": "【メン限】月イチみんなとまったり雑談！11月ここだけの話！【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9_4lY8xywMs",
+        "picture": "https://i.ytimg.com/vi/9_4lY8xywMs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732438800,
+        "title": "【ネタバレあり】Little Nightmares はじめてのリトルナイトメア！最後まで駆け抜ける！【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
