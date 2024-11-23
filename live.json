@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sg8JN9b0r6M",
-        "picture": "https://i.ytimg.com/vi/sg8JN9b0r6M/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dOJurb9_acs",
+        "picture": "https://i.ytimg.com/vi/dOJurb9_acs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【生誕カウントダウン】24日は団長の誕生日✨ノエポ片手にみんなで迎えよ～！！！【白銀ノエル/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732410000,
+        "title": "【朝活雑談】今日はノエルの誕生日！21時から3Dライブあるよ～！！【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -229,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "≪#BaeTV24≫ UNARCHIVED KARAOKE PART 2.5!! #shorts"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=e34CGZYD2mQ",
+        "picture": "https://i.ytimg.com/vi/e34CGZYD2mQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732420800,
+        "title": "【ELDEN RING】#30 久々だな、マレニア！！やるぞ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     }
 ]
