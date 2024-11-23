@@ -68,11 +68,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=572M1Wpxv_8",
         "picture": "https://i.ytimg.com/vi/572M1Wpxv_8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#ソニころ2024】明日は豊洲PITでイベントだああああ！！うわああああああああああ！！！！"
     },
@@ -167,24 +167,24 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dII91_jVDS8",
         "picture": "https://i.ytimg.com/vi/dII91_jVDS8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732370402,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#48 -世界任務編 | 完全初見！深夜のお供です💫【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0ZO2Vg6pVpQ",
         "picture": "https://i.ytimg.com/vi/0ZO2Vg6pVpQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732370400,
-        "title": "配信予定～～～～～～！！！にゃんっ【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ドラクエ3リメイク】完全初見ドラゴンクエスト⚔️そして伝説へ・・・【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Mrgss57VmPU",
-        "picture": "https://i.ytimg.com/vi/Mrgss57VmPU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WqRktB3kV9E",
+        "picture": "https://i.ytimg.com/vi/WqRktB3kV9E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【凸待ち】※緊急※お兄ちゃんきてください【尾丸ポルカ/白上フブキ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732374000,
+        "title": "【ASMR/MemberOnly】メン限ASMR🎧️囁き💙まったりおやすみ💤Whisper/Relax🛌【尾丸ポルカ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9zKB_2bScm0",
         "picture": "https://i.ytimg.com/vi/9zKB_2bScm0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732370400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Tavern Manager Simulator 】はい！しゅわしゅわ一丁！ 酒場経営シミュレーターやるぞおおおお 【ホロライブ/沙花叉クロヱ】"
     }
 ]
