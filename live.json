@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0R-O6vQuPlQ",
         "picture": "https://i.ytimg.com/vi/0R-O6vQuPlQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732402800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼルダの伝説 知恵のかりもの】この世界を救う時が来た！生活はじめます！#最終回【角巻わため/ホロライブ４期生】"
     },
     {
@@ -249,7 +249,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "layna and neuro play until dawn"
+        "title": "layna and neuro \u0026#34;play\u0026#34; until dawn"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
