@@ -240,5 +240,26 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732426200,
         "title": "【 ジャパンカップ 】今回は勝たせていただきます。【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=R6NCZNFdpmQ",
+        "picture": "https://i.ytimg.com/vi/R6NCZNFdpmQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732410000,
+        "title": "Gen 3 and 4!!! | HoloCure"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "layna and neuro play until dawn"
     }
 ]
