@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tZXIA-2fbuQ",
         "picture": "https://i.ytimg.com/vi/tZXIA-2fbuQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732330800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D SPECIAL STREAM】SUPER BIG NEWS！超！重大発表"
     },
     {
@@ -123,23 +123,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=V5bW-hYzIr8",
         "picture": "https://i.ytimg.com/vi/V5bW-hYzIr8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732330800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅩ 】完全初見。オフライン版！クァバルナリベンジいくぞ。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p87Tqf6_zBQ",
         "picture": "https://i.ytimg.com/vi/p87Tqf6_zBQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732330800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "The Very First Debut Karaoke 【REBROADCAST: Aug 3, 2023】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o3i6tPNgXEE",
         "picture": "https://i.ytimg.com/vi/o3i6tPNgXEE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732330800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KARAOKE】NO ARCHIVE　SONG TIMEEEEEE【ホロライブ/ロボ子さん】"
     }
 ]
