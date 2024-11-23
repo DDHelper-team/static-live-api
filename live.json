@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mn8Cmy-yEsM",
         "picture": "https://i.ytimg.com/vi/mn8Cmy-yEsM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732359600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Dead by Daylight】#BaeTV24　にでるよ～✨️今夜はキラーから逃げる！【常闇トワ/ホロライブ】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JsO58bUewZk",
         "picture": "https://i.ytimg.com/vi/JsO58bUewZk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732359600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロライブ甲子園】はじめてのパワプロ！AZ学園高校、エピローグ！3年目秋から卒業式まで 【ホロライブ / AZKi】"
     },
     {
@@ -284,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732366800,
         "title": "【凸待ち】※緊急※お兄ちゃんきてください【尾丸ポルカ/白上フブキ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BuyB0l41_SU",
+        "picture": "https://i.ytimg.com/vi/BuyB0l41_SU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732446000,
+        "title": "塔羅占卜#78｜本週的占卜會把上週參與公益占卜的觀眾占完！流年籤也會抽完喔！歡迎補檔🔮✨🦊【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pu_KWS5Lolg",
+        "picture": "https://i.ytimg.com/vi/pu_KWS5Lolg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732446000,
+        "title": "【歌コレ巡回】皆さんの素敵な作品、リスナーさんと一緒に聞かせてください！！！【#新人vtuber 】"
     }
 ]
