@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tJIStnv_QCY",
         "picture": "https://i.ytimg.com/vi/tJIStnv_QCY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732327200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラクエ3リメイク】HD-2D版初見！遊びつくす！カンダタ待った～～～？🎮✨ #2 【博衣こより/ホロライブ】"
     },
     {
@@ -66,28 +66,6 @@
         "title": "≪#BaeTV24≫ Hakos Baelz 24 HOUR STREAM PART 1!!"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=by9NjFtmgLE",
-        "picture": "https://i.ytimg.com/vi/by9NjFtmgLE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【THE GAME OF LIFE 2】im gonna doob【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uGYEW0XuPuk",
-        "picture": "https://i.ytimg.com/vi/uGYEW0XuPuk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】tutorial jadi babi ngepet dimalam hari【Moona Hoshinova】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
@@ -112,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TWqZ6VurH2M",
-        "picture": "https://i.ytimg.com/vi/TWqZ6VurH2M/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rh2vxpo1hd4",
+        "picture": "https://i.ytimg.com/vi/rh2vxpo1hd4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732334400,
+        "title": "【#生スバル】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -141,17 +119,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732334400,
         "title": "【 Metroid Dread 】メトロイドドレッド行くぞ～～～😸✊#03【 猫又おかゆ/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rRY4j1VqnRs",
-        "picture": "https://i.ytimg.com/vi/rRY4j1VqnRs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVED KARAOKE】Just Vibin\u0026#39;"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -196,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732348800,
         "title": "【 SILENT HILL 2 | リメイク版 】完全初見の「サイレントヒル2」プレイ３日目飲酒すれば怖くないのら！！！【姫森ルーナ/ホロライブ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=o3i6tPNgXEE",
+        "picture": "https://i.ytimg.com/vi/o3i6tPNgXEE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732330800,
+        "title": "【KARAOKE】NO ARCHIVE　SONG TIMEEEEEE【ホロライブ/ロボ子さん】"
     }
 ]
