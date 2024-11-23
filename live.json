@@ -66,17 +66,6 @@
         "title": "【生誕カウントダウン】24日は団長の誕生日✨ノエポ片手にみんなで迎えよ～！！！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=khPiKbhswaI",
-        "picture": "https://i.ytimg.com/vi/khPiKbhswaI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE】peaceful talk【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": true,
@@ -174,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732366800,
         "title": "【七つの大罪～光と闇の交戦～】グラクロ5.5周年！初見で遊んでみるぞっ！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZIikPjNHP2k",
+        "picture": "https://i.ytimg.com/vi/ZIikPjNHP2k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732345200,
+        "title": "【ETS 2】Trucking ?? YA YA YA【Ayunda Risu】"
     }
 ]
