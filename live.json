@@ -77,17 +77,6 @@
         "title": "【HoloCure】ホロキュア、アップデートで3期生、4期生がきたあああ✨追加要素も色々あるらしい…！？【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=L-sV8TEWfwc",
-        "picture": "https://i.ytimg.com/vi/L-sV8TEWfwc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Metroid Dread 】メトロイドドレッド行くぞ～～～😸✊#03【 猫又おかゆ/ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -231,17 +220,6 @@
         "title": "配信予定～～～～～～！！！にゃんっ【ホロライブ/紫咲シオン】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PycZrBIzH3Y",
-        "picture": "https://i.ytimg.com/vi/PycZrBIzH3Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 オフコラボ 】あっ・・こんな・・・！ギリギリですぅ！【 桃鈴ねね / アキロゼ / 夏色まつり 】#アキネネーター祭"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -255,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XGAiau_Wkdo",
         "picture": "https://i.ytimg.com/vi/XGAiau_Wkdo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732359600,
-        "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 空気読み｡4 】空気はな、読むもんやない、吸うもんや。【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -306,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732446000,
         "title": "【歌コレ巡回】皆さんの素敵な作品、リスナーさんと一緒に聞かせてください！！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BN0jui_1J84",
+        "picture": "https://i.ytimg.com/vi/BN0jui_1J84/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732366800,
+        "title": "【ネタバレあり】Little Nightmares はじめてのリトルナイトメア！脱出ゲームなのか....？？【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
