@@ -41,7 +41,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【龍が如く  極】第十章 愛の形 ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
+        "title": "【龍が如く  極】最終回！！第十章 愛の形～ ※配信内容にネタバレ含みます【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9SVfTeKO8TA",
         "picture": "https://i.ytimg.com/vi/9SVfTeKO8TA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732345200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Buckshot Roulette 】ギャンブルやめらんねぇ！！！！本物のGalaxy Brainを見せてやんよ。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -167,12 +167,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZIikPjNHP2k",
         "picture": "https://i.ytimg.com/vi/ZIikPjNHP2k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732345200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ETS 2】Trucking ?? YA YA YA【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mn8Cmy-yEsM",
+        "picture": "https://i.ytimg.com/vi/mn8Cmy-yEsM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732359600,
+        "title": "【Dead by Daylight】#BaeTV24　にでるよ～✨️今夜はキラーから逃げる！【常闇トワ/ホロライブ】"
     }
 ]
