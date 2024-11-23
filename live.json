@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=V5bW-hYzIr8",
-        "picture": "https://i.ytimg.com/vi/V5bW-hYzIr8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Jw4KaXp5isY",
+        "picture": "https://i.ytimg.com/vi/Jw4KaXp5isY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ 】完全初見。オフライン版！クァバルナリベンジいくぞ。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732356000,
+        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第46～51話【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732352400,
         "title": "【#魔物獵人世界 】初踏入世界的小菜虎 希望不是自己被狩獵【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dII91_jVDS8",
+        "picture": "https://i.ytimg.com/vi/dII91_jVDS8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732370402,
+        "title": "【原神】#48 -世界任務編 | 完全初見！深夜のお供です💫【緋月ゆい/ネオポルテ】"
     }
 ]
