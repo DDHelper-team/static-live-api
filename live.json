@@ -66,17 +66,6 @@
         "title": "【生誕カウントダウン】24日は団長の誕生日✨ノエポ片手にみんなで迎えよ～！！！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9vHFYXrX5y0",
-        "picture": "https://i.ytimg.com/vi/9vHFYXrX5y0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】ホロキュアやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
         "islive": true,
@@ -101,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Jw4KaXp5isY",
         "picture": "https://i.ytimg.com/vi/Jw4KaXp5isY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732356000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第46～51話【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -156,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=M9oyuO1S4HI",
         "picture": "https://i.ytimg.com/vi/M9oyuO1S4HI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732356000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【近畿霊務局】ぶっ飛ばせ！幽霊にやり返せるホラゲーやるぞ！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -200,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WLoqoX-xVo0",
         "picture": "https://i.ytimg.com/vi/WLoqoX-xVo0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732356000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】回線が早くなったので多分インパクトも飛びも全部落とせますし俺の中足の方が優先されます【アルランディス/ホロスターズ】"
     },
     {
@@ -240,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732370400,
         "title": "配信予定～～～～～～！！！にゃんっ【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=PycZrBIzH3Y",
+        "picture": "https://i.ytimg.com/vi/PycZrBIzH3Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 オフコラボ 】あっ・・こんな・・・！ギリギリですぅ！【 桃鈴ねね / アキロゼ / 夏色まつり 】#アキネネーター祭"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VmxNg1edwog",
+        "picture": "https://i.ytimg.com/vi/VmxNg1edwog/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732420800,
+        "title": "【#生スバル】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     }
 ]
