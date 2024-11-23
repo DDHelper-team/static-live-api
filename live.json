@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mn8Cmy-yEsM",
-        "picture": "https://i.ytimg.com/vi/mn8Cmy-yEsM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2JlayorUia8",
+        "picture": "https://i.ytimg.com/vi/2JlayorUia8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Dead by Daylight】#BaeTV24　にでるよ～✨️今夜はキラーから逃げる！【常闇トワ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732366800,
+        "title": "【Left 4 Dead 2】4VS4モード！ゾンビ！？生存者！？わちゃわちゃカスタム🧟【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -295,5 +295,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ゲームマーケット】一人で遊べるゲームも沢山あった！！戦利品紹介する～～✨【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZqdWTM7kKpo",
+        "picture": "https://i.ytimg.com/vi/ZqdWTM7kKpo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732420800,
+        "title": "【龍が如く4 伝説を継ぐもの】初見で挑む『龍が如く4 伝説を継ぐもの』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UteJ-hXVaL0",
+        "picture": "https://i.ytimg.com/vi/UteJ-hXVaL0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732366800,
+        "title": "【Left 4 Dead 2】チーム戦だ！！！！！！！！！！！ / アステル 常闇トワ³ Selly³ ありさか³ きなこ³ 橘ひなの³ ラトナプティ³ 八雲べに³"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xMRvYPoBc6c",
+        "picture": "https://i.ytimg.com/vi/xMRvYPoBc6c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732374000,
+        "title": "#12.5【Ace Attorney: Dual Destinies】MORE EXTRA CASE LET\u0026#39;S GOOO (SPOILERS!)【Pavolia Reine/holoID】"
     }
 ]
