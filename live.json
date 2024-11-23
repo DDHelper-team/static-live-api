@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tvEoS7L8i3Q",
-        "picture": "https://i.ytimg.com/vi/tvEoS7L8i3Q/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TV0EPeV_SqA",
+        "picture": "https://i.ytimg.com/vi/TV0EPeV_SqA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロライブ甲子園 】こんこよ高校育成エピローグ真・最終回！4年目夏大会！⚾ #9 【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732413600,
+        "title": "【ドラクエ3リメイク】HD-2D版初見！遊びつくす！まほうのカギGETしたべ！！！🎮✨ #3 【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -66,17 +66,6 @@
         "title": "【Left 4 Dead 2】4VS4モード！ゾンビ！？生存者！？わちゃわちゃカスタム🧟【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PH6cfpn5Gcg",
-        "picture": "https://i.ytimg.com/vi/PH6cfpn5Gcg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Honor of Kings】Wanna be My Augran? 🥺👉👈【 iofi / hololiveID 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "islive": true,
@@ -108,17 +97,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ストリートファイター6】回線が早くなったので多分インパクトも飛びも全部落とせますし俺の中足の方が優先されます【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zLcdPjT5fH8",
-        "picture": "https://i.ytimg.com/vi/zLcdPjT5fH8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#魔物獵人世界 】初踏入世界的小菜虎 希望不是自己被狩獵【#遊戲個人勢 / Fingla】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -233,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xMRvYPoBc6c",
         "picture": "https://i.ytimg.com/vi/xMRvYPoBc6c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732374000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#12.5【Ace Attorney: Dual Destinies】MORE EXTRA CASE LET\u0026#39;S GOOO (SPOILERS!)【Pavolia Reine/holoID】"
     },
     {
