@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iMeO9CnbjU0",
         "picture": "https://i.ytimg.com/vi/iMeO9CnbjU0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732455000,
-        "title": "【雑談】配信予定地【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】昼夜逆転はもう直せないんだ・・・。【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
@@ -163,5 +163,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【HoloCure】最新版をすすめていくぅうううガチ恋増やせ♡実績うめうめ♡ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qiinw5S7CY8",
+        "picture": "https://i.ytimg.com/vi/qiinw5S7CY8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732456800,
+        "title": "【HoloCure】ステージ4クリアいこう！！！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=X-mcEnPdM-w",
+        "picture": "https://i.ytimg.com/vi/X-mcEnPdM-w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732532400,
+        "title": "【メン限】『龍が如く～Beyond the Game～』を同時視聴するぞ！【夕刻ロベル/ホロスターズ】"
     }
 ]
