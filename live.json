@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fTupWAFy6wo",
         "picture": "https://i.ytimg.com/vi/fTupWAFy6wo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732449600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#白銀ノエル生誕祭2024】Shirogane Noel Xmas 3D LIVE 【白銀ノエル/ホロライブ】"
     },
     {
@@ -66,17 +66,6 @@
         "title": "【龍が如く4 伝説を継ぐもの】初見で挑む『龍が如く4 伝説を継ぐもの』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=e34CGZYD2mQ",
-        "picture": "https://i.ytimg.com/vi/e34CGZYD2mQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ELDEN RING】#30 久々だな、マレニア！！やるぞ！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "islive": false,
@@ -86,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732453200,
         "title": "【メン限】月イチみんなとまったり雑談！11月ここだけの話！【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CNTDpMX8MPA",
-        "picture": "https://i.ytimg.com/vi/CNTDpMX8MPA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ 】完全初見。オフライン版！いよいよキーエンブレム残り2個！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -134,23 +112,23 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tTzcaHWfBZM",
         "picture": "https://i.ytimg.com/vi/tTzcaHWfBZM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732449600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 クソデカ囃子 】デッッッッッッッッカ！！！※ホラゲです【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HAp1apTIGZo",
         "picture": "https://i.ytimg.com/vi/HAp1apTIGZo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732449600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Core Keeper】 New Game New Adventure【 iofi / hololiveID 】"
     },
     {
@@ -218,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732453200,
         "title": "越冬に向け ピアノ弾き語り【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E2kN4a55pNw",
+        "picture": "https://i.ytimg.com/vi/E2kN4a55pNw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732453200,
+        "title": "【FREETALK】とりあえずひと段落したと思ったら告知を思い出した男の雑談【アルランディス/ホロスターズ】"
     }
 ]
