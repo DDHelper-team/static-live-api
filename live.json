@@ -143,17 +143,6 @@
         "title": "【 クソデカ囃子 】デッッッッッッッッカ！！！※ホラゲです【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mKmeo_MNbrA",
-        "picture": "https://i.ytimg.com/vi/mKmeo_MNbrA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】最後のマスターチャレンジ：ダルシム編！ヨガヨガヨガ！【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ねぽらぼ 】圧倒的UNO王決定戦【 桃鈴ねね / 尾丸ポルカ / 雪花ラミィ / 獅白ぼたん 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mIT6N3g_eDk",
+        "picture": "https://i.ytimg.com/vi/mIT6N3g_eDk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732453200,
+        "title": "越冬に向け ピアノ弾き語り【 奏手イヅル / ホロスターズ 】"
     }
 ]
