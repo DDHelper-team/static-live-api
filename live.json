@@ -24,23 +24,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZEoTHErSed0",
         "picture": "https://i.ytimg.com/vi/ZEoTHErSed0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732406400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】完全寝起きの朝活雑談！アニメ主題歌の話もする！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dOJurb9_acs",
         "picture": "https://i.ytimg.com/vi/dOJurb9_acs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732410000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】今日はノエルの誕生日！21時から3Dライブあるよ～！！【白銀ノエル/ホロライブ】"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eM8VwiLBeIw",
         "picture": "https://i.ytimg.com/vi/eM8VwiLBeIw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732406400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOCURE】How many games inside HoloCure? Yes."
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=R6NCZNFdpmQ",
         "picture": "https://i.ytimg.com/vi/R6NCZNFdpmQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732410000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Gen 3 and 4!!! | HoloCure"
     },
     {
@@ -262,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732417230,
         "title": "【原神】#49 | 完全初見！水龍、水龍、泣かないで💧【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B1RyNxgc9zk",
+        "picture": "https://i.ytimg.com/vi/B1RyNxgc9zk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732431600,
+        "title": "【】【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jVOFooClgvc",
+        "picture": "https://i.ytimg.com/vi/jVOFooClgvc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732442400,
+        "title": "【#ミリしらパワプロ杯】みんな何も知らないパワプロ！説明会とチーム決め！【ホロライブ/宝鐘マリン】"
     }
 ]
