@@ -218,5 +218,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【同時視聽】今晚不打遊戲！一起來同步視聽中華隊隔好幾年打進冠軍賽了呀！ft.十六夜【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VriuVys3H4o",
+        "picture": "https://i.ytimg.com/vi/VriuVys3H4o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732453200,
+        "title": "【みんなで空気読み。4】空気しか読めないホロロイド【律可/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=v9qIUGar_cw",
+        "picture": "https://i.ytimg.com/vi/v9qIUGar_cw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ねぽらぼ 】圧倒的UNO王決定戦【 桃鈴ねね / 尾丸ポルカ / 雪花ラミィ / 獅白ぼたん 】"
     }
 ]
