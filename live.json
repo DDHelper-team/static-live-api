@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qiinw5S7CY8",
         "picture": "https://i.ytimg.com/vi/qiinw5S7CY8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732456800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HoloCure】ステージ4クリアいこう！！！【不知火フレア/ホロライブ】"
     },
     {
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732539600,
         "title": "【雜談】感情問題 EP.3 換新的來試試 💜"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EbGeCM4D2qc",
+        "picture": "https://i.ytimg.com/vi/EbGeCM4D2qc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732487400,
+        "title": "【 #朝ミオ 】月曜日だよ～！！！１１月最後のおはみぉーん！"
     }
 ]
