@@ -66,28 +66,6 @@
         "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=E2kN4a55pNw",
-        "picture": "https://i.ytimg.com/vi/E2kN4a55pNw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FREETALK】とりあえずひと段落したと思ったら告知を思い出した男の雑談【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TlkiDAv69dA",
-        "picture": "https://i.ytimg.com/vi/TlkiDAv69dA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】最新版をすすめていくぅうううガチ恋増やせ♡実績うめうめ♡ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": true,
@@ -141,5 +119,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732528800,
         "title": "【MINECRAFT】アルランディスプレゼンツ - マイクラゴールドラッシュ【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=P_KMPRFSVm4",
+        "picture": "https://i.ytimg.com/vi/P_KMPRFSVm4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732528800,
+        "title": "【Minecraft】第1回！アルランディスプレゼンツ マイクラゴールドラッシュ！ ホロスタ編 GM視点 #アランのマイクラGR"
     }
 ]
