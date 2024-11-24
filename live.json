@@ -233,12 +233,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H__Ah1LFR9A",
         "picture": "https://i.ytimg.com/vi/H__Ah1LFR9A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732424400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ネタバレあり】ロマンシング サガ2 リベンジオブザセブン～空飛びたいんですけど～【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PZtRKemF234",
+        "picture": "https://i.ytimg.com/vi/PZtRKemF234/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732435200,
+        "title": "【HoloCure】新キャラGETのために...お金貯めないと！！！【ホロライブ/大神ミオ】"
     }
 ]
