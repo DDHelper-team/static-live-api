@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jOKLxIC4-rs",
         "picture": "https://i.ytimg.com/vi/jOKLxIC4-rs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732426200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ジャパンカップ】こんぺこ～♡今日も可愛いっ？【ホロライブ/兎田ぺこら】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZlY166B1Wm4",
         "picture": "https://i.ytimg.com/vi/ZlY166B1Wm4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732426200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ジャパンカップ 】今回は勝たせていただきます。【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -216,7 +216,7 @@
         "picture": "https://i.ytimg.com/vi/vveQzFwBRbY/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1732426200,
+        "timestamp": 1732427100,
         "title": "【 ジャパンカップ 】G1ジャパンカップで的中するぜ！！！！！！！！！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
