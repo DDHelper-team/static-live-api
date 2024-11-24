@@ -44,17 +44,6 @@
         "title": "【#生スバル】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=sLcTL5ODm9E",
-        "picture": "https://i.ytimg.com/vi/sLcTL5ODm9E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732415400,
-        "title": "【EVENT ANNOUNCEMENT】Dokibird x Oversight Apex Custom【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -86,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732420800,
         "title": "【龍が如く4 伝説を継ぐもの】初見で挑む『龍が如く4 伝説を継ぐもの』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eM8VwiLBeIw",
-        "picture": "https://i.ytimg.com/vi/eM8VwiLBeIw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE】How many games inside HoloCure? Yes."
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -211,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XyallGrBWCM",
         "picture": "https://i.ytimg.com/vi/XyallGrBWCM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732417230,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#49 | 完全初見！水龍、水龍、泣かないで💧【緋月ゆい/ネオポルテ】"
     },
     {
@@ -240,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732442400,
         "title": "【#ミリしらパワプロ杯】みんな何も知らないパワプロ！説明会とチーム決め！【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=D78fHXAJulc",
+        "picture": "https://i.ytimg.com/vi/D78fHXAJulc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732453200,
+        "title": "【雑談＆お礼】どうも、世界を救ったわためです！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vveQzFwBRbY",
+        "picture": "https://i.ytimg.com/vi/vveQzFwBRbY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732426200,
+        "title": "【 ジャパンカップ 】G1ジャパンカップで的中するぜ！！！！！！！！！！！！！！！【ホロライブ/さくらみこ】"
     }
 ]
