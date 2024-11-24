@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=D78fHXAJulc",
-        "picture": "https://i.ytimg.com/vi/D78fHXAJulc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ksaMHUFNzpY",
+        "picture": "https://i.ytimg.com/vi/ksaMHUFNzpY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談＆お礼】どうも、世界を救ったわためです！【角巻わため/ホロライブ４期生】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732536000,
+        "title": "【スーパー マリオパーティ ジャンボリー】ういちゃーん！ジャンボリーしようぜ！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -42,17 +42,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732485600,
         "title": "【BUCKSHOT ROULETTE MULTIPLAYER】take the shot【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hfsfOYcj80M",
-        "picture": "https://i.ytimg.com/vi/hfsfOYcj80M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -108,5 +97,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732528800,
         "title": "【Minecraft】第1回！アルランディスプレゼンツ マイクラゴールドラッシュ！ ホロスタ編 GM視点 #アランのマイクラGR"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DSAh7EojBjI",
+        "picture": "https://i.ytimg.com/vi/DSAh7EojBjI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732503600,
+        "title": "【HOLOCURE】 Big UPDATE?! :o"
     }
 ]
