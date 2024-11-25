@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=X7LtLavFq3w",
         "picture": "https://i.ytimg.com/vi/X7LtLavFq3w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732507200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SUPERCHAT READING】lovely \u0026amp; silly chit-chatting 🐾✨  【FUWAMOCO】"
     },
     {
@@ -185,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732510800,
         "title": "HOLOCUREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1bqO2GeV2ZI",
+        "picture": "https://i.ytimg.com/vi/1bqO2GeV2ZI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732525200,
+        "title": "【 みんなで空気読み。4 】自分的には空気読めると思ってます。本当です【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
