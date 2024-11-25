@@ -55,17 +55,6 @@
         "title": "【 #朝こよ 】シーズン9最終回！holoX3周年な火曜日の朝も朝こよ～っ☀ #208 【博衣こより/hololive】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mLbyprdGbj0",
-        "picture": "https://i.ytimg.com/vi/mLbyprdGbj0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "わあああああああああ！！！！！"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -163,5 +152,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732582800,
         "title": "≪NieR:Automata≫ give me that juicy lore. FIRST TIME PLAY-THROUGH! #5【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=r83IaQrqZJ0",
+        "picture": "https://i.ytimg.com/vi/r83IaQrqZJ0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732590000,
+        "title": "Karaoke 2 Months After Debut【REBROADCAST: Nov 7, 2023】"
     }
 ]
