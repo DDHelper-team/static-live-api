@@ -66,17 +66,6 @@
         "title": "【CORE KEEPER】DIG, MINE, PROTECT!! - INTINYA INTI【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=I2XIgg_FxeU",
-        "picture": "https://i.ytimg.com/vi/I2XIgg_FxeU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 みんなで空気読み。4 】ボクはロボットです【ホロライブ / ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "islive": false,
@@ -152,5 +141,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732626000,
         "title": "【雜談】感情問題 EP.3 換新的來試試 💜"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=wvPyJuVrHvc",
+        "picture": "https://i.ytimg.com/vi/wvPyJuVrHvc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 VALORANT 】再チャレンジの段【百鬼あやめ/ホロライブ】"
     }
 ]
