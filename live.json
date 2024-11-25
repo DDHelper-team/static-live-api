@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=moFJiFyHBk0",
-        "picture": "https://i.ytimg.com/vi/moFJiFyHBk0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MzyZJJTp9ec",
+        "picture": "https://i.ytimg.com/vi/MzyZJJTp9ec/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】新コラボ集めたい！！！ほろきゅあーーーーーーーっ！！！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732572000,
+        "title": "【 #朝こよ 】シーズン9最終回！holoX3周年な火曜日の朝も朝こよ～っ☀ #208 【博衣こより/hololive】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -130,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732626000,
         "title": "【STREET FIGHTER 6】弟子旅企画👊第二弾：どぐら【常闇トワ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LI96KSpMkTU",
-        "picture": "https://i.ytimg.com/vi/LI96KSpMkTU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】月曜日の雑談【荒咬オウガ /ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
