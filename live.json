@@ -13,11 +13,11 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=AKkCt2vMld4",
         "picture": "https://i.ytimg.com/vi/AKkCt2vMld4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 The Classrooms 】怖すぎ注意と話題のホラーゲーム。【 領国つかさ / すぺしゃりて 】"
     },
@@ -152,5 +152,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732590000,
         "title": "Karaoke 2 Months After Debut【REBROADCAST: Nov 7, 2023】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nBrfK7AAnSY",
+        "picture": "https://i.ytimg.com/vi/nBrfK7AAnSY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732626000,
+        "title": "【雜談】感情問題 EP.3 換新的來試試 💜"
     }
 ]
