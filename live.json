@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DSAh7EojBjI",
         "picture": "https://i.ytimg.com/vi/DSAh7EojBjI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732503600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLOCURE】 Big UPDATE?! :o"
     },
     {
@@ -176,14 +176,14 @@
         "title": "【MEMBER\u0026#39;S ONLY】Chatting After My Trip!! #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=Ub2b1EKvrDI",
-        "picture": "https://i.ytimg.com/vi/Ub2b1EKvrDI/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=Cb35n1Elikg",
+        "picture": "https://i.ytimg.com/vi/Cb35n1Elikg/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1732503600,
-        "title": "【HoloCure】団員さん...ホロキュアがしたいです...(ゲリラ太郎)【白銀ノエル/ホロライブ】"
+        "timestamp": 1732532400,
+        "title": "【工作】みんなで仲良くオリジナルのハニワを作るオフコラボ！！【ホロライブ/白上フブキ/大神ミオ/猫又おかゆ/尾丸ポルカ】"
     }
 ]
