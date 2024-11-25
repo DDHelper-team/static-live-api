@@ -143,14 +143,14 @@
         "title": "Malpha and Aradia and Me! | Mario Kart 8 Deluxe"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "dev stream"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -173,5 +173,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "ｚｚｚ（※すべて寝言）【赤井はあと/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Av4EHl3t75k",
+        "picture": "https://i.ytimg.com/vi/Av4EHl3t75k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732622400,
+        "title": "【 LOST EGG2 】来たぞ、鬼畜ゲー🥚🐈三【 猫又おかゆ/ホロライブ 】"
     }
 ]
