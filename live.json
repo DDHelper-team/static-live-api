@@ -151,5 +151,27 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "dev stream"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O6v8Z64kVkU",
+        "picture": "https://i.ytimg.com/vi/O6v8Z64kVkU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732626000,
+        "title": "【HoloCure】わためぇ、ついにガチ恋へ...【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=2zPAWwtsWAw",
+        "picture": "https://i.ytimg.com/vi/2zPAWwtsWAw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "ｚｚｚ（※すべて寝言）【赤井はあと/ホロライブ】"
     }
 ]
