@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1bqO2GeV2ZI",
         "picture": "https://i.ytimg.com/vi/1bqO2GeV2ZI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732525200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 みんなで空気読み。4 】自分的には空気読めると思ってます。本当です【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -174,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732536000,
         "title": "わあああああああああ！！！！！"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=odDASr5vjz8",
-        "picture": "https://i.ytimg.com/vi/odDASr5vjz8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "HOLOCUREEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE..What\u0026#39;s new?"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732532400,
         "title": "【PICO PARK 2】イオそらで後半も遊んでいくよ！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=I2XIgg_FxeU",
+        "picture": "https://i.ytimg.com/vi/I2XIgg_FxeU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732543200,
+        "title": "【 みんなで空気読み。4 】ボクはロボットです【ホロライブ / ロボ子さん】"
     }
 ]
