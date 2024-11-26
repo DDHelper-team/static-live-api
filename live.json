@@ -198,17 +198,6 @@
         "title": "【オフコラボ】やわらかあたま塾✨本気のジーニアス対決しましょう！！ with ときのそら先輩【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lww4kNRgdqY",
-        "picture": "https://i.ytimg.com/vi/lww4kNRgdqY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】だるだーるだるだるヨガヨガヨガ！！！【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732615200,
         "title": "【メン限】ひそひそ雑談！KU100で静かに雑談…できるよね？？？【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nr-GYEZ3MW4",
+        "picture": "https://i.ytimg.com/vi/nr-GYEZ3MW4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732617000,
+        "title": "【ストリートファイター6】安全ソニック保全委員会➡21:00～ かずのこさんコーチングまさかの第2回【アルランディス/ホロスターズ】"
     }
 ]
