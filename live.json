@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RolU4vyQMLE",
         "picture": "https://i.ytimg.com/vi/RolU4vyQMLE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732631400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #鷹嶺ルイ3周年 】久々に晩酌しながら3周年カウントダウンだ～！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -163,17 +163,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732672800,
         "title": "【HOLOCURE 0.7 UPDATE】catch and release the fish (into our tummies) 🐾🐟️【FUWAMOCO】"
-    },
-    {
-        "channel": "https://www.youtube.com/@kutsukiCh",
-        "channellink": "https://www.youtube.com/@kutsukiCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0ITGoj4qPhM",
-        "picture": "https://i.ytimg.com/vi/0ITGoj4qPhM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Apex】兩周沒玩回歸打APEX!!銀牌仔單排積分!!還有跟好久不見的大家聊聊天【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
@@ -297,17 +286,6 @@
         "title": "【メンバー限定】ハニワ作りながらお喋りする！【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZNRMpSuBOzo",
-        "picture": "https://i.ytimg.com/vi/ZNRMpSuBOzo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【くるくるパズル そろえてねこずかん】CAT【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -328,5 +306,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【League of Legends】かすたむ！ / アステル イヅル AlphaAzur³ k4sen³ 夕陽リリ³ 奈羅花³ 天帝フォルテ³ ta1yo³ uruca³ きなこ³"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=seZmjv894sM",
+        "picture": "https://i.ytimg.com/vi/seZmjv894sM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732633200,
+        "title": "【歌＆雑談/Song ＆Free Talk】チルチルチル【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DbB2NUtbDPo",
+        "picture": "https://i.ytimg.com/vi/DbB2NUtbDPo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732633200,
+        "title": "【歌枠】ゆったり歌枠！！！-Midnight station -81 【HACHI】"
     }
 ]
