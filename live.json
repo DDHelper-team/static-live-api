@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WrVam1vUq1g",
         "picture": "https://i.ytimg.com/vi/WrVam1vUq1g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732629600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Untitled Goose Game 〜いたずらガチョウがやって来た！〜 】くおっくおっ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x219HcP6aww",
         "picture": "https://i.ytimg.com/vi/x219HcP6aww/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732629600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HoloCure】みんなのこと私が救ってあげる！！【不知火フレア/ホロライブ】"
     },
     {
@@ -317,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732680000,
         "title": "【龍が如く4 伝説を継ぐもの】初見で挑む『龍が如く4 伝説を継ぐもの』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=yRZ2X-r83F4",
+        "picture": "https://i.ytimg.com/vi/yRZ2X-r83F4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【League of Legends】かすたむ！ / アステル イヅル AlphaAzur³ k4sen³ 夕陽リリ³ 奈羅花³ 天帝フォルテ³ ta1yo³ uruca³ きなこ³"
     }
 ]
