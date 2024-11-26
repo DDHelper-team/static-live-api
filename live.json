@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0Prl6VmCepM",
         "picture": "https://i.ytimg.com/vi/0Prl6VmCepM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732633200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ASMR 】激甘ほろよい永眠💭Ear Massage/Sleep Whispering/KU100【赤井はあと/ホロライブ】"
     },
     {
@@ -185,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ストリートファイター6】安全ソニック保全委員会➡21:00～ かずのこさんコーチングまさかの第2回【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BrZWGMCuOJg",
-        "picture": "https://i.ytimg.com/vi/BrZWGMCuOJg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】#せつな祭2 獅白ぼたんチーム顔合わせ！【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -303,19 +292,41 @@
         "link": "https://www.youtube.com/watch?v=seZmjv894sM",
         "picture": "https://i.ytimg.com/vi/seZmjv894sM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1732633200,
         "title": "【歌＆雑談/Song ＆Free Talk】チルチルチル【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DbB2NUtbDPo",
         "picture": "https://i.ytimg.com/vi/DbB2NUtbDPo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732633200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】ゆったり歌枠！！！-Midnight station -81 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WkeaZ9OMT90",
+        "picture": "https://i.ytimg.com/vi/WkeaZ9OMT90/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732719600,
+        "title": "ASMR｜A real ear cleaning trigger for a good night\u0026#39;s sleep｜心地よい眠りのための本格的な耳掃除 ｜깨끗한 귀【3DIO】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zhg6XY8HYZw",
+        "picture": "https://i.ytimg.com/vi/zhg6XY8HYZw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732705200,
+        "title": "【三ツ星ファーム】腹減っ亭らでんの実食レポ！栄養満点メニューがレンジ5分でサクッと完成！？#PR #ホロ三ツ星ファーム 【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
