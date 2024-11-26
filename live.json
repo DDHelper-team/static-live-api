@@ -46,23 +46,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8v-p6w1LMsU",
         "picture": "https://i.ytimg.com/vi/8v-p6w1LMsU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732618800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【逆凸】吾輩３周年だよ❕祝ってみんな❕ #ラプ様3周年だよ 【ラプラス・ダークネス/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QxA4V6vhctM",
         "picture": "https://i.ytimg.com/vi/QxA4V6vhctM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732618800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "心靈良方―治療時間｜要跟醫二代戀愛了嗎？愛才是戒斷的良方【Healing希靈/VTuber】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732626000,
         "title": "【Core Keeper】GUERILLAAAA COLLAB. never enough core keeper【hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5PQ9KsLd6tQ",
+        "picture": "https://i.ytimg.com/vi/5PQ9KsLd6tQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732626000,
+        "title": "【Core Keeper】Hohohohoho【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hWQ27psKCTc",
+        "picture": "https://i.ytimg.com/vi/hWQ27psKCTc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732626000,
+        "title": "【MemberOnly】映画同時視聴 #かなたんロードショー 【天音かなた/ホロライブ】"
     }
 ]
