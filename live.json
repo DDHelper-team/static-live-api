@@ -221,12 +221,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=75m_QcRr_iE",
         "picture": "https://i.ytimg.com/vi/75m_QcRr_iE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732654800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#126 11/27水曜日！おはようございます #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
