@@ -188,12 +188,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TK_UTGM2s80",
         "picture": "https://i.ytimg.com/vi/TK_UTGM2s80/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732669200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PIGLET\u0026#39;S BIG GAME】scarier than resident evil【Dokibird】"
     },
     {
