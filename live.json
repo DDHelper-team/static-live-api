@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OKmmRahNfc4",
         "picture": "https://i.ytimg.com/vi/OKmmRahNfc4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732680000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く4 伝説を継ぐもの】初見で挑む『龍が如く4 伝説を継ぐもの』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -176,16 +176,6 @@
         "title": "【スト6】せつな祭2に向けてベガコーチング！ コーチ：ぷげら先生（ｷｬﾍﾞﾂ）【獅白ぼたん/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "The 8 of us that were right vs the 69% (Blowback)"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": true,
@@ -228,5 +218,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【OHAPOL】#126 11/27水曜日！おはようございます #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=0mG4EaaT39s",
+        "picture": "https://i.ytimg.com/vi/0mG4EaaT39s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【L.A. Noire】 I keeps one in the chamber in case you ponderin\u0026#39; | #3"
     }
 ]
