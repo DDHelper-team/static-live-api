@@ -231,17 +231,6 @@
         "title": "【#ゆるホロGFトーナメント2nd】ゴッドフィールドトーナメント2nd抽選会👑【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8NzOZJ-RgDg",
-        "picture": "https://i.ytimg.com/vi/8NzOZJ-RgDg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【最近なんか出かけてた】話したりする【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -339,5 +328,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【League of Legends】#しゃるる杯 カスタム1日目 / アステル ta1yo³ 千燈ゆうひ³ 白波らむね³ Francisco³ えんてぃ³"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jR_vAKwP3C0",
+        "picture": "https://i.ytimg.com/vi/jR_vAKwP3C0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732834800,
+        "title": "【朝活寝巻お披露目】ねむねむ…キミってば早起きだね【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
