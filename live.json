@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HZhw9_wzRw8",
         "picture": "https://i.ytimg.com/vi/HZhw9_wzRw8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732788000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【世界のアソビ大全51】知らないゲームでいっぱい遊ぶ！！！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -119,17 +119,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【HoloCure】ステージ5をクリアしたい！(あわよくばコンボも増やしたい！！)【白銀ノエル/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eNmNgDgUmuI",
-        "picture": "https://i.ytimg.com/vi/eNmNgDgUmuI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DEVIL MAY CRY】IRySoSTYLISH"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -178,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lUl6EixJEOg",
         "picture": "https://i.ytimg.com/vi/lUl6EixJEOg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732788000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【料理】うさだ食堂「から揚げ・炒飯」編！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -306,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732795200,
         "title": "【弾き語り歌枠】歌う【律可/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FhT69Vb6YNE",
+        "picture": "https://i.ytimg.com/vi/FhT69Vb6YNE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732798800,
+        "title": "【HOLOLIVE TREASURE MOUNTAIN】LET\u0026#39;S GET ME!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-XLwukLYtYg",
+        "picture": "https://i.ytimg.com/vi/-XLwukLYtYg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732842000,
+        "title": "【SNIPER ELITE 4】ball shot mission【Dokibird】"
     }
 ]
