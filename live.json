@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rSDtbM1wrnQ",
         "picture": "https://i.ytimg.com/vi/rSDtbM1wrnQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732802400,
-        "title": "【】【赤井はあと/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kutsukiCh",
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uZHVKSIRUic",
         "picture": "https://i.ytimg.com/vi/uZHVKSIRUic/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Plants vs. Zombies】久しぶりじゃんんんん🌱【ホロライブ / ロボ子さん】"
     },
     {
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=N9Qxh6Ylo9k",
         "picture": "https://i.ytimg.com/vi/N9Qxh6Ylo9k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】木曜日の雑談【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9dle45P5MjM",
         "picture": "https://i.ytimg.com/vi/9dle45P5MjM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#4【Corpse Party (2021)】CHAPTER 4 I HOPE SHE PEED (VIOLENT OMG)【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -354,23 +354,23 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2lrh8d6FBRs",
         "picture": "https://i.ytimg.com/vi/2lrh8d6FBRs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732803300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】REMATCH【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hsvhH1RJG2U",
         "picture": "https://i.ytimg.com/vi/hsvhH1RJG2U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732802400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【League of Legends】#しゃるる杯 カスタム1日目 / アステル ta1yo³ 千燈ゆうひ³ 白波らむね³ Francisco³ えんてぃ³"
     }
 ]
