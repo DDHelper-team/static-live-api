@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=7C5m8GFiBnw",
-        "picture": "https://i.ytimg.com/vi/7C5m8GFiBnw/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=I_d_Zim5_hg",
+        "picture": "https://i.ytimg.com/vi/I_d_Zim5_hg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732784400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】"
     },
     {
@@ -172,8 +172,8 @@
         "picture": "https://i.ytimg.com/vi/yHi4X1TuFeE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1732784400,
-        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "timestamp": 1732786200,
+        "title": "【先輩 】#あおかな先輩の後輩凸待ち✨【火威青×音乃瀬奏 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -262,5 +262,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732802400,
         "title": "【Plants vs. Zombies】久しぶりじゃんんんん🌱【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0ZYVoYyYFtk",
+        "picture": "https://i.ytimg.com/vi/0ZYVoYyYFtk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732795200,
+        "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=yj2ISKklzrs",
+        "picture": "https://i.ytimg.com/vi/yj2ISKklzrs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 AI 】おしゃべりAIをわからせる配信。【 桃鈴ねね 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ogC8TPPxloI",
+        "picture": "https://i.ytimg.com/vi/ogC8TPPxloI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732795200,
+        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
     }
 ]
