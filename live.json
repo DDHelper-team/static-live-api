@@ -145,11 +145,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=_WmdLTqoX_g",
         "picture": "https://i.ytimg.com/vi/_WmdLTqoX_g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "The Hunter; Call of the Wild | We\u0026#39;re Hunting Tonight, Boys【 iofi / hololiveID 】"
     },
@@ -218,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【DON\u0026#39;T SCREAM Ver1.0】※最恐注意　18分間叫ぶな！！！！【天音かなた/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VCek_VPnVko",
-        "picture": "https://i.ytimg.com/vi/VCek_VPnVko/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【弾き語り歌枠】歌う【律可/ホロスターズ】#りつすた"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -350,5 +339,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】bam bam bam【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9dle45P5MjM",
+        "picture": "https://i.ytimg.com/vi/9dle45P5MjM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732802400,
+        "title": "#4【Corpse Party (2021)】CHAPTER 4 I HOPE SHE PEED (VIOLENT OMG)【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8UG3HfuJ-24",
+        "picture": "https://i.ytimg.com/vi/8UG3HfuJ-24/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732870800,
+        "title": "【ホロライブOCG カメラ有】水宮枢ちゃんとホロカ開封勝負！！計10BOX開封だー！！！！初オフコラボだよ～【一条莉々華/hololive DEV_IS ReGLOSS】"
     }
 ]
