@@ -55,17 +55,6 @@
         "title": "【 LOST EGG2 】泣いてもいいですか、えっぐえっぐ🥚🐈三【 猫又おかゆ/ホロライブ 】"
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IwGAoBi6VCY",
-        "picture": "https://i.ytimg.com/vi/IwGAoBi6VCY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【POWERWASH SIMULATOR COLLAB with NERISSA】cleaning until everything is seiso 🐾  【FUWAMOCO】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": false,
@@ -143,37 +132,15 @@
         "title": "【HoloCure】ステージ5をクリアしたい！(あわよくばコンボも増やしたい！！)【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=J5Q3K4bOmlo",
-        "picture": "https://i.ytimg.com/vi/J5Q3K4bOmlo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Pup \u0026#39;n Raven\u0026#39;s Power Wash Company | PowerWash Simulator"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eNmNgDgUmuI",
         "picture": "https://i.ytimg.com/vi/eNmNgDgUmuI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732762800,
-        "title": "【DEVIL MAY CRY】IRySoSTYLISH"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=j8AUvy_fHp4",
-        "picture": "https://i.ytimg.com/vi/j8AUvy_fHp4/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Grunn】 This Gnome Gardening Game Isn\u0026#39;t What It Seems"
+        "title": "【DEVIL MAY CRY】IRySoSTYLISH"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -222,12 +189,23 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qUtRS_r0pPA",
         "picture": "https://i.ytimg.com/vi/qUtRS_r0pPA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732762800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Coffee Caravan】im a proud caffeine-free but i found this comfy game【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yHi4X1TuFeE",
+        "picture": "https://i.ytimg.com/vi/yHi4X1TuFeE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732784400,
+        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
