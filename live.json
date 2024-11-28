@@ -99,28 +99,6 @@
         "title": "【スト６】ワシの体には触れさせんヨガヨガヨガ【岸堂天真/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kZ1Gsrt5qSs",
-        "picture": "https://i.ytimg.com/vi/kZ1Gsrt5qSs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ミリしらパワプロ杯】人生初パワプロ！！こよりに教えてもらって初大会勝つ！初合宿【ホロライブ/宝鐘マリン・博衣こより】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=24BJKumGgiQ",
-        "picture": "https://i.ytimg.com/vi/24BJKumGgiQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゼルダの伝説時のオカリナ】まさかの初見時のオカリナ多分何も知らない【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": false,
@@ -145,11 +123,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=rSDtbM1wrnQ",
         "picture": "https://i.ytimg.com/vi/rSDtbM1wrnQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】"
     },
