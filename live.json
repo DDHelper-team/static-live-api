@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2AOXEOO96fM",
         "picture": "https://i.ytimg.com/vi/2AOXEOO96fM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732759200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Undertale Yellow】yee to the haw?! #calliolive"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0XIRkQDSjlA",
         "picture": "https://i.ytimg.com/vi/0XIRkQDSjlA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732759200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Neva】Eva"
     },
     {
@@ -185,5 +185,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732798800,
         "title": "【みんなで空気読み。4】空気？読めますよ！くうきでしょ？！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0WVSS5-q4i8",
+        "picture": "https://i.ytimg.com/vi/0WVSS5-q4i8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732766400,
+        "title": "【縦型配信/歌枠】珍しい昼活！アニソン歌おう🎤  #shorts【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=uH1BXDn2XCM",
+        "picture": "https://i.ytimg.com/vi/uH1BXDn2XCM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スト６】ワシの体には触れさせんヨガヨガヨガ【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kZ1Gsrt5qSs",
+        "picture": "https://i.ytimg.com/vi/kZ1Gsrt5qSs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732795200,
+        "title": "【#ミリしらパワプロ杯】人生初パワプロ！！こよりに教えてもらって初大会勝つ！初合宿【ホロライブ/宝鐘マリン・博衣こより】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qUtRS_r0pPA",
+        "picture": "https://i.ytimg.com/vi/qUtRS_r0pPA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732762800,
+        "title": "【Coffee Caravan】im a proud caffeine-free but i found this comfy game【Kaela Kovalskia / hololiveID】"
     }
 ]
