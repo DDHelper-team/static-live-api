@@ -22,17 +22,6 @@
         "title": "【 #博衣こより3周年記念ゴリラ 】超重大発表アリ‼自費3Dスタジオでゴリラ人狼＆新曲お披露目ライブ＆ほぼ新衣装お披露目だよ～～～！🎉【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=I_d_Zim5_hg",
-        "picture": "https://i.ytimg.com/vi/I_d_Zim5_hg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】✨まつりスーパーエキストラ歌枠✨【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -68,11 +57,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=2AOXEOO96fM",
         "picture": "https://i.ytimg.com/vi/2AOXEOO96fM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Undertale Yellow】yee to the haw?! #calliolive"
     },
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732842000,
         "title": "【SNIPER ELITE 4】ball shot mission【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NT5ACjscVbw",
+        "picture": "https://i.ytimg.com/vi/NT5ACjscVbw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732795200,
+        "title": "【バイオハザード6│バイオ初見】2人で協力バイオ！バイオから逃げるな/w 白雪レイド【アキロゼ/ホロライブ】"
     }
 ]
