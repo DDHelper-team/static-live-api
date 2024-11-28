@@ -156,11 +156,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=uH1BXDn2XCM",
         "picture": "https://i.ytimg.com/vi/uH1BXDn2XCM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【スト６】ワシの体には触れさせんヨガヨガヨガ【岸堂天真/ホロスターズ】"
     },
