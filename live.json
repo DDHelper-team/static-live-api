@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mHOZ7XYiCQU",
         "picture": "https://i.ytimg.com/vi/mHOZ7XYiCQU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732912200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】the jail is the worst level【Dokibird】"
     },
     {
