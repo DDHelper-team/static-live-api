@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lFGUfhfSeVM",
         "picture": "https://i.ytimg.com/vi/lFGUfhfSeVM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732842000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪NieR:Automata≫ 2Bae or not to BAE... FIRST TIME PLAY-THROUGH! #6【SPOILER WARNING】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-XLwukLYtYg",
         "picture": "https://i.ytimg.com/vi/-XLwukLYtYg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732842000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SNIPER ELITE 4】ball shot mission【Dokibird】"
     },
     {
@@ -253,14 +253,14 @@
         "title": "Making Jailbird Turkeys w/ my sisters | Arts and Crafts with the Ravencrofts"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TWpZANBBLVQ",
-        "picture": "https://i.ytimg.com/vi/TWpZANBBLVQ/maxresdefault_live.jpg",
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hQtN_RWYukM",
+        "picture": "https://i.ytimg.com/vi/hQtN_RWYukM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Saying hi to all 914,434 of my subscribers*"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732881600,
+        "title": "【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】"
     }
 ]
