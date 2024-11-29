@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=prIAz07ojac",
         "picture": "https://i.ytimg.com/vi/prIAz07ojac/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732878000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ゆるホロGFトーナメント2nd】ゴッドフィールドトーナメント2nd抽選会👑【常闇トワ/ホロライブ】"
     },
     {
@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8UG3HfuJ-24",
-        "picture": "https://i.ytimg.com/vi/8UG3HfuJ-24/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=X5n0XA625QE",
+        "picture": "https://i.ytimg.com/vi/X5n0XA625QE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ホロライブOCG カメラ有】水宮枢ちゃんとホロカ開封勝負！！計10BOX開封だー！！！！初オフコラボだよ～【一条莉々華/hololive DEV_IS ReGLOSS】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732885200,
+        "title": "【メン限】今日は酔っちゃいたい気分💓ねね、一緒にのもー！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
