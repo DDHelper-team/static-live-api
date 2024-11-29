@@ -99,17 +99,6 @@
         "title": "The Hunter; Call of the Wild | We\u0026#39;re Hunting Tonight, Boys【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lFGUfhfSeVM",
-        "picture": "https://i.ytimg.com/vi/lFGUfhfSeVM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪NieR:Automata≫ 2Bae or not to BAE... FIRST TIME PLAY-THROUGH! #6【SPOILER WARNING】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732935600,
         "title": "【KUUKIYOMI 4: CONSIDER IT｜みんなで空気読み。4】learning to read the room 🐾【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pJrNNvUrSjY",
+        "picture": "https://i.ytimg.com/vi/pJrNNvUrSjY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732858200,
+        "title": "【Thank Goodness You\u0026#39;re Here!】daft liek me【Kaela Kovalskia / hololiveID】"
     }
 ]
