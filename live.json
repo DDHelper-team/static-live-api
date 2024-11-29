@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QynqL8JMovw",
         "picture": "https://i.ytimg.com/vi/QynqL8JMovw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732867200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】ガイルにただいまを言ってしゃがませてもらう会【アルランディス/ホロスターズ】"
     },
     {
@@ -310,12 +310,23 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WQs0wc2YgoQ",
         "picture": "https://i.ytimg.com/vi/WQs0wc2YgoQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732867200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 クソデカ囃子 】音楽を奏でて除霊するホラゲーらしい、、、ん？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NEbtWHzPADM",
+        "picture": "https://i.ytimg.com/vi/NEbtWHzPADM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732885200,
+        "title": "【AIと喋る】話題のおしゃべりなCotomoちゃんと和解【尾丸ポルカ/ホロライブ】"
     }
 ]
