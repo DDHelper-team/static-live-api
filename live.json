@@ -151,7 +151,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【歌枠 / Singing】みんなの力を貸して！！同接300人耐久歌枠！！！！【#新人vtuber 】"
+        "title": "【歌枠 / Singing】300人達成！！！引き上げて400人耐久歌枠！！！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lqr7LLkDnNU",
         "picture": "https://i.ytimg.com/vi/lqr7LLkDnNU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732888800,
-        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【】雑談！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732924800,
         "title": "【KUUKIYOMI 4: Consider It】BIBOO IS BIBACK"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PcAEEpPZ95Y",
+        "picture": "https://i.ytimg.com/vi/PcAEEpPZ95Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732890600,
+        "title": "【ASA￤アベレーション】残り3匹！洞窟レッツゴー？！続・全恐竜捕まえるまで終われまテン！Part 12【アキロゼ/ホロライブ】"
     }
 ]
