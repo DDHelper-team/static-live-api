@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8UG3HfuJ-24",
         "picture": "https://i.ytimg.com/vi/8UG3HfuJ-24/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732870800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロライブOCG カメラ有】水宮枢ちゃんとホロカ開封勝負！！計10BOX開封だー！！！！初オフコラボだよ～【一条莉々華/hololive DEV_IS ReGLOSS】"
     },
     {
@@ -242,17 +242,6 @@
         "title": "【KUUKIYOMI 4: CONSIDER IT｜みんなで空気読み。4】learning to read the room 🐾【FUWAMOCO】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pJrNNvUrSjY",
-        "picture": "https://i.ytimg.com/vi/pJrNNvUrSjY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Thank Goodness You\u0026#39;re Here!】daft liek me【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "islive": false,
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lj4390GXYFo",
         "picture": "https://i.ytimg.com/vi/lj4390GXYFo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732870800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Mouthwashing】何とかしろ何とかしろ何とかしろ責 任 を 果 た せ何とかしろ何とかしろ何とかしろ責 任 を 果 た せ【ホロライブ/白上フブキ】"
     },
     {
