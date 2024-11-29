@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pJrNNvUrSjY",
         "picture": "https://i.ytimg.com/vi/pJrNNvUrSjY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732858200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Thank Goodness You\u0026#39;re Here!】daft liek me【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732885200,
         "title": "【Liar\u0026#39;s Bar】ホロライブのトップを決めようじゃないか。【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=smdMmORxEOk",
+        "picture": "https://i.ytimg.com/vi/smdMmORxEOk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732874400,
+        "title": "【みんなで空気読み。4】定休日だけど空気読みます(既に空気読めてない感...？！)【白銀ノエル/ホロライブ】"
     }
 ]
