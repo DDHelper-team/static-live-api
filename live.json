@@ -99,17 +99,6 @@
         "title": "【#新人Vtuber】はじめての歌枠！【赤井はあと/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=prIAz07ojac",
-        "picture": "https://i.ytimg.com/vi/prIAz07ojac/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ゆるホロGFトーナメント2nd】ゴッドフィールドトーナメント2nd抽選会👑【常闇トワ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": false,
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732885200,
         "title": "【 メンバーシップ限定 】ふなな(・o・🍬)【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mHOZ7XYiCQU",
+        "picture": "https://i.ytimg.com/vi/mHOZ7XYiCQU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732912200,
+        "title": "【SILENT HILL 2】the jail is the worst level【Dokibird】"
     }
 ]
