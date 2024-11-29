@@ -116,8 +116,8 @@
         "link": "https://www.youtube.com/watch?v=9vaxfw1qFcY",
         "picture": "https://i.ytimg.com/vi/9vaxfw1qFcY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732892400,
+        "status": null,
+        "timestamp": 1764428400,
         "title": "【Free chat】幹部会の談話室【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GxaXVJJaVFk",
         "picture": "https://i.ytimg.com/vi/GxaXVJJaVFk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732892400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】はむはむと奥まで届く熱々吐息＆耳かきで体の芯までぽかぽかに…♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
@@ -299,12 +299,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2P_vB5ufSZ8",
         "picture": "https://i.ytimg.com/vi/2P_vB5ufSZ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732892400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】しんみり喋る日【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=POix3IWi5Uw",
+        "picture": "https://i.ytimg.com/vi/POix3IWi5Uw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732964400,
+        "title": "【#風真いろは3周年】お披露目複数あり🎀ミニ３DLIVEあり🎺４年目へのスタートライン【風真いろは/ホロライブ】"
     }
 ]
