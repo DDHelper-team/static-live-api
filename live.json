@@ -66,17 +66,6 @@
         "title": "【世界のアソビ大全51】知らないゲームでいっぱい遊ぶ！！！【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VkwtZAhgXFw",
-        "picture": "https://i.ytimg.com/vi/VkwtZAhgXFw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Mundaun】Mundane Horror Hopefully"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "islive": false,
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=smdMmORxEOk",
         "picture": "https://i.ytimg.com/vi/smdMmORxEOk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732874400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【みんなで空気読み。4】定休日だけど空気読みます(既に空気読めてない感...？！)【白銀ノエル/ホロライブ】"
     },
     {
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732885200,
         "title": "【AIと喋る】話題のおしゃべりなCotomoちゃんと和解【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q-a91uXv1pg",
+        "picture": "https://i.ytimg.com/vi/q-a91uXv1pg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732885200,
+        "title": "【】ジョジョの奇妙な冒険 ダイヤモンドは砕けない 同時視聴 :jojo part4【ホロライブ/大空スバル】"
     }
 ]
