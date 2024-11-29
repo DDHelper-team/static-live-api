@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VkwtZAhgXFw",
         "picture": "https://i.ytimg.com/vi/VkwtZAhgXFw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732852800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Mundaun】Mundane Horror Hopefully"
     },
     {
