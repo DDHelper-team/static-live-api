@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JPq8C3yoGbA",
         "picture": "https://i.ytimg.com/vi/JPq8C3yoGbA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732960800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#0【#ミリしらパワプロ杯】パワプロ開始前に１時間以内にチーム名やガチャで狙う大分選手を決める作戦会議だッ！【白銀ノエル/ホロライブ】"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=s1BYIZ9cV98",
         "picture": "https://i.ytimg.com/vi/s1BYIZ9cV98/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732960800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロキュア / HoloCure】アップデートが盛りだくさん⁉久しぶりに遊ぶ！！【 星街すいせい / ホロライブ 】"
     },
     {
@@ -328,5 +328,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "久しぶりにちょっと話す"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1R3NgRVXXFY",
+        "picture": "https://i.ytimg.com/vi/1R3NgRVXXFY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732971600,
+        "title": "【＃8】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GUhSBX9A7g8",
+        "picture": "https://i.ytimg.com/vi/GUhSBX9A7g8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732971600,
+        "title": "【メン限】やけ酒【荒咬オウガ /ホロスターズ】"
     }
 ]
