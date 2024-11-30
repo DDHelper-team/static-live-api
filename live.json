@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=X2gXNSd7KP0",
         "picture": "https://i.ytimg.com/vi/X2gXNSd7KP0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732962600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "咒 Incantation｜陳家村大黑佛母是吧？讓狐狐來會會妳！一次破關【Healing希靈/VTuber】"
     },
     {
@@ -196,17 +196,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732964400,
         "title": "【メンバー限定】みんなで一緒に映画見よう会11月編【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=E7k6PVsDgYY",
-        "picture": "https://i.ytimg.com/vi/E7k6PVsDgYY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】人生初バリウムの話【花咲みやび/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -350,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732971600,
         "title": "【 -`🎙 歌枠/Singing 】11月にさようなら。 sing and talk【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NzqiHtTxA58",
+        "picture": "https://i.ytimg.com/vi/NzqiHtTxA58/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732971600,
+        "title": "【MemberOnly/同時視聴】amazonプライムで「ゴーストバスターズ(1984年)」を一緒見よう👻【不知火フレア/ホロライブ】"
     }
 ]
