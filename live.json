@@ -198,17 +198,6 @@
         "title": "【INSCRYPTION】act 2 looking very different 🤔  #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ww1Lqw4CWgs",
-        "picture": "https://i.ytimg.com/vi/ww1Lqw4CWgs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Galaxy Burger】90% goofy ah burger making... wait there\u0026#39;s a cat in the game...?!"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
         "islive": true,
@@ -240,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733022000,
         "title": "【マリオカ 1位耐久DAY1】気づいた時にはにぇ【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=heOIlrJeQv8",
+        "picture": "https://i.ytimg.com/vi/heOIlrJeQv8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733061600,
+        "title": "【初コラボ】後輩の千速たんを呼び出してみた【轟はじめ/輪堂千速】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xRjR-qViSN8",
+        "picture": "https://i.ytimg.com/vi/xRjR-qViSN8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733025600,
+        "title": "【#3】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     }
 ]
