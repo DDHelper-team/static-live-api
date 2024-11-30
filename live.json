@@ -121,17 +121,6 @@
         "title": "【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】"
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lLIDCLbmvLA",
-        "picture": "https://i.ytimg.com/vi/lLIDCLbmvLA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KUUKIYOMI 4: CONSIDER IT｜みんなで空気読み。4】learning to read the room 🐾【FUWAMOCO】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=K2--kjnyOdg",
         "picture": "https://i.ytimg.com/vi/K2--kjnyOdg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732941000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Lost But Found】if you watch this, Kaela will be found【Kaela Kovalskia / hololiveID】"
     }
 ]
