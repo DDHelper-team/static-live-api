@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4sgD_E9jXsA",
-        "picture": "https://i.ytimg.com/vi/4sgD_E9jXsA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RRnZmv7oJ-I",
+        "picture": "https://i.ytimg.com/vi/RRnZmv7oJ-I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Yet Another Brunch, Everyone】happy thanksgiving【Pavolia Reine/hololiveID 2nd gen】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732971600,
+        "title": "#13【Ace Attorney: Dual Destinies】IN JUSTICE WE (really) TRUST (SPOILERS!)【Pavolia Reine/holoID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -284,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732964400,
         "title": "【メンバー限定】みんなで一緒に映画見よう会11月編【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E7k6PVsDgYY",
+        "picture": "https://i.ytimg.com/vi/E7k6PVsDgYY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732957200,
+        "title": "【雑談】人生初バリウムの話【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CPfDbFCV8cQ",
+        "picture": "https://i.ytimg.com/vi/CPfDbFCV8cQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732975200,
+        "title": "【Plants vs. Zombies】Trust me  !!!!!!!【ホロライブ / ロボ子さん】"
     }
 ]
