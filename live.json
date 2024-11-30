@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kni7I5c0Pfs",
         "picture": "https://i.ytimg.com/vi/kni7I5c0Pfs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732973400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 The Classrooms 】ずっと怖くてできなかったホラゲー...番長に見守ってもらいます...【音乃瀬奏・轟はじめ】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -240,17 +240,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733016600,
         "title": "【#DOKIOVERSIGHT2024】the IRS is here【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=l7e42dcldgg",
-        "picture": "https://i.ytimg.com/vi/l7e42dcldgg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Galaxy Burger】そらイオりりりで楽しく遊ぼう！！【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
