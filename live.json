@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lLIDCLbmvLA",
         "picture": "https://i.ytimg.com/vi/lLIDCLbmvLA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732935600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KUUKIYOMI 4: CONSIDER IT｜みんなで空気読み。4】learning to read the room 🐾【FUWAMOCO】"
     },
     {
@@ -244,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yYUDuLfJNPI",
         "picture": "https://i.ytimg.com/vi/yYUDuLfJNPI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732935600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅩ 】完全初見。オフライン版ver.1最終回✨まってろネルゲル！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6k04q85TKs4",
         "picture": "https://i.ytimg.com/vi/6k04q85TKs4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732935600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "First Piano Membership Memory【REBROADCAST: Dec 07, 2023】"
     }
 ]
