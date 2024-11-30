@@ -220,17 +220,6 @@
         "title": "【PICO PARK 2】一緒にゴールしようね！！！ #ねぽらぼ 【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zBeEd0vPyKM",
-        "picture": "https://i.ytimg.com/vi/zBeEd0vPyKM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "BACK AT IT AGAIN | League of Legends"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZC2ZQRrgYwk",
         "picture": "https://i.ytimg.com/vi/ZC2ZQRrgYwk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732942800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HoloCure】新しいステージに挑戦！！！！！【ホロライブ/大神ミオ】"
     }
 ]
