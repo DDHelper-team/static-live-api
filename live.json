@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JPq8C3yoGbA",
-        "picture": "https://i.ytimg.com/vi/JPq8C3yoGbA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-kyGMZRx690",
+        "picture": "https://i.ytimg.com/vi/-kyGMZRx690/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#0【#ミリしらパワプロ杯】パワプロ開始前に１時間以内にチーム名やガチャで狙う大分選手を決める作戦会議だッ！【白銀ノエル/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732968000,
+        "title": "#1【#ミリしらパワプロ杯】初めてのパワプロ⚾地元の大分で挑む！まずは1年目新入生ガチャリセマラだ～！【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=POix3IWi5Uw",
         "picture": "https://i.ytimg.com/vi/POix3IWi5Uw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732964400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#風真いろは3周年】お披露目複数あり🎀ミニ３DLIVEあり🎺４年目へのスタートライン【風真いろは/ホロライブ】"
     },
     {
@@ -190,12 +190,12 @@
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=cIpXvlk6ru0",
-        "picture": "https://i.ytimg.com/vi/cIpXvlk6ru0/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=Bc1ezIKkFi0",
+        "picture": "https://i.ytimg.com/vi/Bc1ezIKkFi0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732964400,
-        "title": "【メンバー限定】みんなで一緒に映画見よう会11月編【アルランディス/ホロスターズ】"
+        "status": null,
+        "timestamp": 1762785600,
+        "title": "【FreeChat 】スケジュールが見れるところなのだ【アルランディス】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -295,17 +295,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732971600,
         "title": "【 Membership 】はなす【鷹嶺ルイ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3BOrpt8IBl4",
-        "picture": "https://i.ytimg.com/vi/3BOrpt8IBl4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "久しぶりにちょっと話す"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
