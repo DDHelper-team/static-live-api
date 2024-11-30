@@ -209,17 +209,6 @@
         "title": "【PICO PARK 2】一緒にゴールしようね！！！ #ねぽらぼ 【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yYUDuLfJNPI",
-        "picture": "https://i.ytimg.com/vi/yYUDuLfJNPI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ 】完全初見。オフライン版ver.1最終回✨まってろネルゲル！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -251,17 +240,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Lost But Found】if you watch this, Kaela will be found【Kaela Kovalskia / hololiveID】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZC2ZQRrgYwk",
-        "picture": "https://i.ytimg.com/vi/ZC2ZQRrgYwk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】新しいステージに挑戦！！！！！【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -317,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732968000,
         "title": "【 雑談 】こんにちは～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lWfKbqFcn9c",
+        "picture": "https://i.ytimg.com/vi/lWfKbqFcn9c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732978800,
+        "title": "【インディゲーム部🎮】#holoIndie １周年を一緒にお祝いしよう✨【#一条莉々華 / ホロライブ】"
     }
 ]
