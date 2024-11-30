@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2m6AyWuABbQ",
         "picture": "https://i.ytimg.com/vi/2m6AyWuABbQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732932000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラクエ3リメイク】HD-2D版初見！遊びつくす！船を手に入れていざ大海原へ！！🎮✨ #4 【博衣こより/ホロライブ】"
     },
     {
@@ -165,17 +165,6 @@
         "title": "【SPOILER WARNING - SILENT HILL 2】These Nurses Are Getting Out of Hand【hololive ID | Anya Melfissa】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8WdMQv6pPrs",
-        "picture": "https://i.ytimg.com/vi/8WdMQv6pPrs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KUUKIYOMI 4: Consider It】BIBOO IS BIBACK"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "islive": false,
@@ -211,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mIPi_5p0XJc",
-        "picture": "https://i.ytimg.com/vi/mIPi_5p0XJc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=X2XYuWNxvKs",
+        "picture": "https://i.ytimg.com/vi/X2XYuWNxvKs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732939200,
+        "title": "【#2】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zBeEd0vPyKM",
         "picture": "https://i.ytimg.com/vi/zBeEd0vPyKM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1732932000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "BACK AT IT AGAIN | League of Legends"
     },
     {
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732935600,
         "title": "【 ドラクエⅩ 】完全初見。オフライン版ver.1最終回✨まってろネルゲル！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6k04q85TKs4",
+        "picture": "https://i.ytimg.com/vi/6k04q85TKs4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732935600,
+        "title": "First Piano Membership Memory【REBROADCAST: Dec 07, 2023】"
     }
 ]
