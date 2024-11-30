@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ax-bROE7p_A",
-        "picture": "https://i.ytimg.com/vi/ax-bROE7p_A/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=J68Ftubb_Fc",
+        "picture": "https://i.ytimg.com/vi/J68Ftubb_Fc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 キャサリン・フルボディ 】Q.浮気するとどうなるの？【 猫又おかゆ/ホロライブ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732971600,
+        "title": "【🟣月一企画メン限】センセ～ってどういう子が好きなの？ / KU-100【 猫又おかゆ/ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -97,17 +97,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【League of Legends】#しゃるる杯 カスタム1日目 / アステル ta1yo³ 千燈ゆうひ³ 白波らむね³ Francisco³ えんてぃ³"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2m6AyWuABbQ",
-        "picture": "https://i.ytimg.com/vi/2m6AyWuABbQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドラクエ3リメイク】HD-2D版初見！遊びつくす！船を手に入れていざ大海原へ！！🎮✨ #4 【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732978800,
         "title": "【インディゲーム部🎮】#holoIndie １周年を一緒にお祝いしよう✨【#一条莉々華 / ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Nrjvf6maea4",
+        "picture": "https://i.ytimg.com/vi/Nrjvf6maea4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732968000,
+        "title": "【メンバー限定】最近の雑談をゆるりと【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
