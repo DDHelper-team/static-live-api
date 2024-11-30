@@ -176,17 +176,6 @@
         "title": "【メン限】月末定期ASMR 2024.11 【白上フブキ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XpKQRyP8-Ec",
-        "picture": "https://i.ytimg.com/vi/XpKQRyP8-Ec/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PICO PARK 2】一緒にゴールしようね！！！ #ねぽらぼ 【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -350,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1732971600,
         "title": "【メン限】やけ酒【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zSscFKyK-bM",
+        "picture": "https://i.ytimg.com/vi/zSscFKyK-bM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1732971600,
+        "title": "【 -`🎙 歌枠/Singing 】11月にさようなら。 sing and talk【獅子神レオナ/Re:AcT】"
     }
 ]
