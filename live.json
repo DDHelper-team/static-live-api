@@ -220,17 +220,6 @@
         "title": "【＃8】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zSscFKyK-bM",
-        "picture": "https://i.ytimg.com/vi/zSscFKyK-bM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】11月にさようなら。 sing and talk【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -284,5 +273,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#真女神転生ⅴ 】猝不及防的來玩試玩版！！好久沒這時間開播【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3Ljrw7h-Mv4",
+        "picture": "https://i.ytimg.com/vi/3Ljrw7h-Mv4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733025600,
+        "title": "【 キャサリン・フルボディ 】浮気すると大変なことになりました【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CPupI2Pk2yU",
+        "picture": "https://i.ytimg.com/vi/CPupI2Pk2yU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733022000,
+        "title": "【マリオカ 1位耐久DAY1】気づいた時にはにぇ【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
