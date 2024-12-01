@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gmmH5uZlJzQ",
         "picture": "https://i.ytimg.com/vi/gmmH5uZlJzQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733092200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】１２月！！！月曜日だね！おはみぉーん！"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pRPcp1wuocA",
         "picture": "https://i.ytimg.com/vi/pRPcp1wuocA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733091337,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】ぱ！今年も残り1ヶ月!?【緋月ゆい/ネオポルテ】"
     },
     {
