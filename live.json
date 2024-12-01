@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=I0h3usbNd3I",
         "picture": "https://i.ytimg.com/vi/I0h3usbNd3I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733058000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【深夜のラーメン】ラーメン屋さん始めました！【角巻わため/ホロライブ４期生】"
     },
     {
