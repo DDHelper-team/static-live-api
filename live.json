@@ -198,17 +198,6 @@
         "title": "【PEJUANG SENIN】#88 PJS IS BACK! ( ´･･)ﾉ(._.`)【Kaela\u0026#39;s Monday Warrior】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2KTIi6TdcCM",
-        "picture": "https://i.ytimg.com/vi/2KTIi6TdcCM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】OHAPOL起きちゃったからには・・・ネッ・・・ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -233,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3tMokEZmVJ8",
         "picture": "https://i.ytimg.com/vi/3tMokEZmVJ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733094000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SKYRIM】 You can take the girl outta Skyrim but you can\u0026#39;t take the Skyrim outta the girl"
     }
 ]
