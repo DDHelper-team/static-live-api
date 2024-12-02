@@ -189,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Na8x8VH8giM",
         "picture": "https://i.ytimg.com/vi/Na8x8VH8giM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733130000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ローモバ 】ノエわたラミの3人でイベントに参加🔥協力お願いしまっする💪✨ #ホロロバ【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DSGDZGfcEvw",
         "picture": "https://i.ytimg.com/vi/DSGDZGfcEvw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733130000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【クソデカ囃子】これホラーゲームってマジ？？何がクソデカなの？？顔？？？【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rnWhNsj90ds",
         "picture": "https://i.ytimg.com/vi/rnWhNsj90ds/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733130000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ロードモバイル】ノエラミの２人と #ローモバ だ！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -350,5 +350,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733133600,
         "title": "【 #VCRGTA3 】新生活の始まり【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WJGnmCmLPL4",
+        "picture": "https://i.ytimg.com/vi/WJGnmCmLPL4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733130900,
+        "title": "【Free Talk】Welcome December!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=A-RCxr2Odqs",
+        "picture": "https://i.ytimg.com/vi/A-RCxr2Odqs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733148000,
+        "title": "【ARCHIVED KARAOKE】Singing VOCALOID Songs... It\u0026#39;s HOLORO Week!【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
