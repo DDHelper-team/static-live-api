@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7DvPaBLCqiI",
-        "picture": "https://i.ytimg.com/vi/7DvPaBLCqiI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KmoS3AnLZq8",
+        "picture": "https://i.ytimg.com/vi/KmoS3AnLZq8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】オフライン環境でアプデを見てみましょう【アルランディス/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733131800,
+        "title": "【 #VCRGTA3 】近未来都市!?今度は何が起こるのか…！【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -317,5 +317,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733133600,
         "title": "【メンバー限定】最近のお話！まつりの気持ち【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5fDXJhHTVD0",
+        "picture": "https://i.ytimg.com/vi/5fDXJhHTVD0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733133603,
+        "title": "【VCR GTA3】#1 | 帰ってきた！今回は近未来…!?🛸【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KxKYxeIyq1M",
+        "picture": "https://i.ytimg.com/vi/KxKYxeIyq1M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733148000,
+        "title": "【🎤】ボカロONLY!?深夜のカラオケ覗きに来たの？💕【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OLpVRM3F9dY",
+        "picture": "https://i.ytimg.com/vi/OLpVRM3F9dY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733133600,
+        "title": "【 #VCRGTA3 】新生活の始まり【荒咬オウガ /ホロスターズ】"
     }
 ]
