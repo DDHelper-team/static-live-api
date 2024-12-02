@@ -143,17 +143,6 @@
         "title": "≪Midnight Monday Radio≫ Episode 10 (unarchived sad boi karaoke) #shorts"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_DO7ptucwAc",
-        "picture": "https://i.ytimg.com/vi/_DO7ptucwAc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PEJUANG SENIN】#88 PJS IS BACK! ( ´･･)ﾉ(._.`)【Kaela\u0026#39;s Monday Warrior】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -240,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ストリートファイター6】オフライン環境でアプデを見てみましょう【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9tS0Mxjcvbc",
+        "picture": "https://i.ytimg.com/vi/9tS0Mxjcvbc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733133600,
+        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
     }
 ]
