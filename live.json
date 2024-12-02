@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PBPxW43Yylk",
         "picture": "https://i.ytimg.com/vi/PBPxW43Yylk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733137200,
-        "title": "【マクセルイズミ】 余がCVOに就任したって・・・！？【百鬼あやめ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【マクセルイズミ】 余がCVOに就任・・・！？【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -233,23 +233,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KKSzgUz6Cj8",
         "picture": "https://i.ytimg.com/vi/KKSzgUz6Cj8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733137200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6】明日本番！せつな祭2にむけてれんしゅー！【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e-NYpg86gjU",
         "picture": "https://i.ytimg.com/vi/e-NYpg86gjU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733137200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【告知アリ‼】空気を読んで解答しろ！しらけんクイズ大会🔥✨【 #不知火建設 】"
     },
     {
@@ -282,7 +282,7 @@
         "picture": "https://i.ytimg.com/vi/-tbXnX90fHk/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733137200,
+        "timestamp": 1733140800,
         "title": "【CoD:BO6】かくれんぼモード実装！『PROPHUNT』で遊ぶぞぉおおお！！！！【ホロライブ/白上フブキ】"
     },
     {
@@ -326,7 +326,7 @@
         "picture": "https://i.ytimg.com/vi/cuZ7ADj8ZGw/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733137200,
+        "timestamp": 1733138100,
         "title": "【VCRGTA3】これも挑戦の一つ、です。An Unfamiliar, Yet Familiar City...【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
@@ -416,5 +416,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733144400,
         "title": "【深夜のラーメン】今宵もラーメン屋さん開店です！ #2【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=s_h-QjlL7rw",
+        "picture": "https://i.ytimg.com/vi/s_h-QjlL7rw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733144400,
+        "title": "最近いろいろあるよね【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4jxz3cLzNj8",
+        "picture": "https://i.ytimg.com/vi/4jxz3cLzNj8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733144400,
+        "title": "【 Liar\u0026#39;s Bar 】視聴者と新カオスルールで３勝するまで終われまテン⁉【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=5fDXJhHTVD0",
+        "picture": "https://i.ytimg.com/vi/5fDXJhHTVD0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VCR GTA3】#1 | 帰ってきた！今回は近未来…!?🛸【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=tdYV2foiddY",
+        "picture": "https://i.ytimg.com/vi/tdYV2foiddY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #VCRGTA3 】近未来のロスサントスへいざ尋常に #01【影山シエン/ホロスターズ】"
     }
 ]
