@@ -101,23 +101,23 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LpeIJ5UC9h0",
         "picture": "https://i.ytimg.com/vi/LpeIJ5UC9h0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733101200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VRChat】Ame Senpai\u0026#39;s Aquarium Visit (Time Tentative)"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XvUuf25-0wk",
         "picture": "https://i.ytimg.com/vi/XvUuf25-0wk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733097600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS: REMASTERED】IN THE BEGINNING..."
     },
     {
@@ -156,35 +156,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SwZrclkJxIU",
         "picture": "https://i.ytimg.com/vi/SwZrclkJxIU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733101200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪Just Chatting≫ a lil chat!"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_DO7ptucwAc",
         "picture": "https://i.ytimg.com/vi/_DO7ptucwAc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733097600,
-        "title": "【PEJUANG SENIN】#88 PJS IS BACK! ( ´･･)ﾉ(._.`)【Kaela\u0026#39;s Monday Warrior】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pRPcp1wuocA",
-        "picture": "https://i.ytimg.com/vi/pRPcp1wuocA/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【雑談】ぱ！今年も残り1ヶ月!?【緋月ゆい/ネオポルテ】"
+        "title": "【PEJUANG SENIN】#88 PJS IS BACK! ( ´･･)ﾉ(._.`)【Kaela\u0026#39;s Monday Warrior】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -207,5 +196,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【SKYRIM】 You can take the girl outta Skyrim but you can\u0026#39;t take the Skyrim outta the girl"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FGKu5RAqKB8",
+        "picture": "https://i.ytimg.com/vi/FGKu5RAqKB8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733106600,
+        "title": "【M.M.M.】Monday Morning Malas : Hello December !!【Ayunda Risu】"
     }
 ]
