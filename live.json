@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KmoS3AnLZq8",
         "picture": "https://i.ytimg.com/vi/KmoS3AnLZq8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733131800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】近未来都市!?今度は何が起こるのか…！【アルランディス/ホロスターズ】"
     },
     {
@@ -352,17 +352,6 @@
         "title": "【 #VCRGTA3 】新生活の始まり【荒咬オウガ /ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@KoboKanaeru",
-        "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=WJGnmCmLPL4",
-        "picture": "https://i.ytimg.com/vi/WJGnmCmLPL4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733130900,
-        "title": "【Free Talk】Welcome December!!!"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "islive": false,
@@ -372,5 +361,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733148000,
         "title": "【ARCHIVED KARAOKE】Singing VOCALOID Songs... It\u0026#39;s HOLORO Week!【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cuZ7ADj8ZGw",
+        "picture": "https://i.ytimg.com/vi/cuZ7ADj8ZGw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733133600,
+        "title": "【VCRGTA3】これも挑戦の一つ、です。An Unfamiliar, Yet Familiar City...【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hYEGaMvEdYQ",
+        "picture": "https://i.ytimg.com/vi/hYEGaMvEdYQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733140800,
+        "title": "【はいしんよていち】こよ！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4Yiv1dzfzwY",
+        "picture": "https://i.ytimg.com/vi/4Yiv1dzfzwY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733191200,
+        "title": "【Holocure】Save Me Time Girl"
     }
 ]
