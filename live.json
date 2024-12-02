@@ -398,12 +398,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zJes6v8pie0",
         "picture": "https://i.ytimg.com/vi/zJes6v8pie0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733136300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】1日目 - GTA初プレイなのﾔﾊﾞｲ【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3IrK0ewKZr4",
+        "picture": "https://i.ytimg.com/vi/3IrK0ewKZr4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733144400,
+        "title": "【深夜のラーメン】今宵もラーメン屋さん開店です！ #2【角巻わため/ホロライブ４期生】"
     }
 ]
