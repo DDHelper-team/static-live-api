@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y45XwCJprOI",
         "picture": "https://i.ytimg.com/vi/y45XwCJprOI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733176800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝こよ 】朝こよ3周年！Season10開始！火曜日の朝は朝こよ～☀ #209 【博衣こより/hololive】"
     },
     {
@@ -250,16 +250,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733219400,
         "title": "【スト6】#せつな祭2 本番！獅白ぼたんチーム【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7tH-K0WsVkg",
-        "picture": "https://i.ytimg.com/vi/7tH-K0WsVkg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#129 12/3火曜日！最近なんか起きてしまう #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
