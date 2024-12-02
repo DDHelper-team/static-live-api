@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qsUd_fbkbZo",
-        "picture": "https://i.ytimg.com/vi/qsUd_fbkbZo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O41q-k9KT2s",
+        "picture": "https://i.ytimg.com/vi/O41q-k9KT2s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Midnight Monday Radio≫ Episode 10 (unarchived sad boi karaoke) #shorts"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733187600,
+        "title": "≪Yakuza 4≫ My Favourite Christmas Game #1【SPOILER WARNING】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -284,17 +284,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】近未来のロスサントスへいざ尋常に #01【影山シエン/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uE-SY1nJ-Vw",
-        "picture": "https://i.ytimg.com/vi/uE-SY1nJ-Vw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HoloCure】i just want to chill and talk【Moona Hoshinova】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
