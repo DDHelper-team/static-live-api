@@ -327,5 +327,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "PLANNING A SUBATHON | IMPORTANT BUSINESS MEETING | LAST STREAM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=H0F3CPdDiZk",
+        "picture": "https://i.ytimg.com/vi/H0F3CPdDiZk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733219400,
+        "title": "【スト6】#せつな祭2 本番！獅白ぼたんチーム【獅白ぼたん/ホロライブ】"
     }
 ]
