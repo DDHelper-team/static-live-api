@@ -121,17 +121,6 @@
         "title": "【DARK SOULS: REMASTERED】IN THE BEGINNING..."
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=A0Ouq11EqEc",
-        "picture": "https://i.ytimg.com/vi/A0Ouq11EqEc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733104800,
-        "title": "【MEMBERS CHATTING】we\u0026#39;ll be here for you 🐾💓【MEMBERS ONLY】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": false,
@@ -187,25 +176,25 @@
         "title": "【VCR GTA 3】１日目！近未来都市ロスサントスへいざ出発！！【アキロゼ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3tMokEZmVJ8",
-        "picture": "https://i.ytimg.com/vi/3tMokEZmVJ8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【SKYRIM】 You can take the girl outta Skyrim but you can\u0026#39;t take the Skyrim outta the girl"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FGKu5RAqKB8",
         "picture": "https://i.ytimg.com/vi/FGKu5RAqKB8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733106600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M.】Monday Morning Malas : Hello December !!【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PBPxW43Yylk",
+        "picture": "https://i.ytimg.com/vi/PBPxW43Yylk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733137200,
+        "title": "【マクセルイズミ】 余がCVOに就任したって・・・！？【百鬼あやめ/ホロライブ】"
     }
 ]
