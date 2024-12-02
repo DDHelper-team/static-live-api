@@ -101,24 +101,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LpeIJ5UC9h0",
-        "picture": "https://i.ytimg.com/vi/LpeIJ5UC9h0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=X26-2TydemY",
+        "picture": "https://i.ytimg.com/vi/X26-2TydemY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VRChat】Ame Senpai\u0026#39;s Aquarium Visit (Time Tentative)"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XvUuf25-0wk",
-        "picture": "https://i.ytimg.com/vi/XvUuf25-0wk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DARK SOULS: REMASTERED】IN THE BEGINNING..."
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733173200,
+        "title": "【Christmas Radio】Tis the Season for Holiday Productivity"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -145,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SwZrclkJxIU",
-        "picture": "https://i.ytimg.com/vi/SwZrclkJxIU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qsUd_fbkbZo",
+        "picture": "https://i.ytimg.com/vi/qsUd_fbkbZo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Just Chatting≫ a lil chat!"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733151600,
+        "title": "≪Midnight Monday Radio≫ Episode 10 (unarchived sad boi karaoke) #shorts"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
@@ -196,5 +185,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733137200,
         "title": "【マクセルイズミ】 余がCVOに就任したって・・・！？【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LctQ5p96bkk",
+        "picture": "https://i.ytimg.com/vi/LctQ5p96bkk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733133600,
+        "title": "【 VCRGTA3 】DAY1｜ 近未来ロスサントスでトワは何をする・・・？【 常闇トワ / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TFt_uZFQCZo",
+        "picture": "https://i.ytimg.com/vi/TFt_uZFQCZo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733133600,
+        "title": "【#VCRGTA 3】僕がロスサントスで女優になる物語【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
