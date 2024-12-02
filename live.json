@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LctQ5p96bkk",
         "picture": "https://i.ytimg.com/vi/LctQ5p96bkk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1733133600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 VCRGTA3 】DAY1｜ 近未来ロスサントスでトワは何をする・・・？【 常闇トワ / ホロライブ 】"
     },
     {
@@ -286,28 +286,6 @@
         "title": "【CoD:BO6】かくれんぼモード実装！『PROPHUNT』で遊ぶぞぉおおお！！！！【ホロライブ/白上フブキ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=INFI9FahPY0",
-        "picture": "https://i.ytimg.com/vi/INFI9FahPY0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1735052400,
-        "title": "🏮みんなの交流場🏮"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=5fDXJhHTVD0",
-        "picture": "https://i.ytimg.com/vi/5fDXJhHTVD0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1733133603,
-        "title": "【VCR GTA3】#1 | 帰ってきた！今回は近未来…!?🛸【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": false,
@@ -394,5 +372,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733220000,
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！1年目秋～【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Bx18WELRK0w",
+        "picture": "https://i.ytimg.com/vi/Bx18WELRK0w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733144400,
+        "title": "【マリオカート8DX】約1年ぶりに...は、走るか....ﾄﾞｷﾄﾞｷ【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ErClSgq37Tg",
+        "picture": "https://i.ytimg.com/vi/ErClSgq37Tg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733140800,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zJes6v8pie0",
+        "picture": "https://i.ytimg.com/vi/zJes6v8pie0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733136300,
+        "title": "【 #VCRGTA3 】1日目 - GTA初プレイなのﾔﾊﾞｲ【 奏手イヅル / ホロスターズ 】"
     }
 ]
