@@ -288,11 +288,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=OLpVRM3F9dY",
         "picture": "https://i.ytimg.com/vi/OLpVRM3F9dY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】新生活の始まり【荒咬オウガ /ホロスターズ】"
     },
