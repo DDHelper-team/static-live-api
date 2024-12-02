@@ -231,25 +231,14 @@
         "title": "【VCR GTA3】近未来ロスサントス　1日目【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-tbXnX90fHk",
-        "picture": "https://i.ytimg.com/vi/-tbXnX90fHk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CoD:BO6】かくれんぼモード実装！『PROPHUNT』で遊ぶぞぉおおお！！！！【ホロライブ/白上フブキ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KxKYxeIyq1M",
         "picture": "https://i.ytimg.com/vi/KxKYxeIyq1M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733148000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【🎤】ボカロONLY!?深夜のカラオケ覗きに来たの？💕【ホロライブ / ロボ子さん】"
     },
     {
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=A-RCxr2Odqs",
         "picture": "https://i.ytimg.com/vi/A-RCxr2Odqs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733148000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ARCHIVED KARAOKE】Singing VOCALOID Songs... It\u0026#39;s HOLORO Week!【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -416,5 +405,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【HoloCure】i just want to chill and talk【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=iN4W2ZbOKJU",
+        "picture": "https://i.ytimg.com/vi/iN4W2ZbOKJU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【孵道】絶対に振り返ってはいけないホラゲープレイするっ！【ホロライブ/癒月ちょこ】"
     }
 ]
