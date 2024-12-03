@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HCOk-SeNakM",
         "picture": "https://i.ytimg.com/vi/HCOk-SeNakM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733223600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "midnight ramen-深夜拉麵｜深夜拉麵不只溫暖你的胃也療癒你的心❤️【Healing希靈/VTuber】"
     },
     {
@@ -207,17 +207,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR GTA3】救急の日々　2日目【夕刻ロベル/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=W2vUSNGe3gQ",
-        "picture": "https://i.ytimg.com/vi/W2vUSNGe3gQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【思考実験シミュレーター】感じるがままに...【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -332,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oyb9UCylWQI",
         "picture": "https://i.ytimg.com/vi/oyb9UCylWQI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733223600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ステーキを焼くだけ、、、、、【ホロライブ/さくらみこ】"
     },
     {
