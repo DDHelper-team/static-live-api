@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=G6-nm8h5rvc",
         "picture": "https://i.ytimg.com/vi/G6-nm8h5rvc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733194800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【All You Need is Help】FANFIC CLUB\u0026#39;S NEWEST INTERN!?!* WE NEED HELP【Reine/Shiori/Gigi/Iofi】"
     },
     {
@@ -240,5 +240,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 歌枠 】ねねのひる【 桃鈴ねね / hololive 】#桃鈴ねね生配信"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HCOk-SeNakM",
+        "picture": "https://i.ytimg.com/vi/HCOk-SeNakM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733223600,
+        "title": "midnight ramen-深夜拉麵｜深夜拉麵不只溫暖你的胃也療癒你的心❤️【Healing希靈/VTuber】"
     }
 ]
