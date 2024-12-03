@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TIOLQ8aXCTE",
         "picture": "https://i.ytimg.com/vi/TIOLQ8aXCTE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733220000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！1年目秋～【ホロライブ/兎田ぺこら】"
     },
     {
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vBfp6wDU1Eo",
         "picture": "https://i.ytimg.com/vi/vBfp6wDU1Eo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733220000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Liar\u0026#39;s Bar 】カオスモードで3勝耐久！【ホロライブ/夏色まつり】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H0F3CPdDiZk",
         "picture": "https://i.ytimg.com/vi/H0F3CPdDiZk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733219400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6】#せつな祭2 本番！獅白ぼたんチーム【獅白ぼたん/ホロライブ】"
     },
     {
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yFTnVm9PwFU",
         "picture": "https://i.ytimg.com/vi/yFTnVm9PwFU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733220000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA 3】２日目！新米警察として街を守れ！！【アキロゼ/ホロライブ】"
     },
     {
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oDbY-jjTSY0",
         "picture": "https://i.ytimg.com/vi/oDbY-jjTSY0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733220000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 VCRGTA3 】DAY2｜ 餓狼ｰGAROｰ のボス？？？？になりました【 常闇トワ / ホロライブ 】"
     },
     {
@@ -343,12 +343,23 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=piexnBq_aEI",
         "picture": "https://i.ytimg.com/vi/piexnBq_aEI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733220000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#VCRGTA 3】第二曲_ATMを引っこ抜け【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DRkZNWsPHiY",
+        "picture": "https://i.ytimg.com/vi/DRkZNWsPHiY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733306400,
+        "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：赤見かるび様～【博衣こより/ホロライブ】"
     }
 ]
