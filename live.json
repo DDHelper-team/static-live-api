@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GH5-2oWhi_A",
         "picture": "https://i.ytimg.com/vi/GH5-2oWhi_A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733241600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ANNIVERSARY COUNTDOWN】SINGING SOME HOLOLIVE SONGS UNTIL MY ANNIVERSARY!!【Kureiji Ollie】"
     },
     {
@@ -328,17 +328,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【KU100/ASMR】はぁぁ…っ♡耳元で繰り返される暖かい吐息で体温上昇♡ぐっすり眠れる睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
-    },
-    {
-        "channel": "https://youtube.com/@HACHIVSinger",
-        "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NSHUiN5_ets",
-        "picture": "https://i.ytimg.com/vi/NSHUiN5_ets/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】しっとり歌枠！！！-Midnight station -82 【HACHI】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
