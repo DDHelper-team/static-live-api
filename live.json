@@ -187,17 +187,6 @@
         "title": "【VCR】#２ 久しぶりだなスト鯖GTA❕出勤します❕👮⟡【ラプラス・ダークネス/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=G6-nm8h5rvc",
-        "picture": "https://i.ytimg.com/vi/G6-nm8h5rvc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【All You Need is Help】FANFIC CLUB\u0026#39;S NEWEST INTERN!?!* WE NEED HELP【Reine/Shiori/Gigi/Iofi】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733212800,
         "title": "【 #VCRGTA3 】近未来新感覚ぎゃうかふぇがアイスを売りたいよ【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yFTnVm9PwFU",
+        "picture": "https://i.ytimg.com/vi/yFTnVm9PwFU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733220000,
+        "title": "【VCR GTA 3】２日目！新米警察として街を守れ！！【アキロゼ/ホロライブ】"
     }
 ]
