@@ -110,17 +110,6 @@
         "title": "【Shady Part of Me】私は影、一人の少女と旅に出てくるわね【不知火フレア/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=O41q-k9KT2s",
-        "picture": "https://i.ytimg.com/vi/O41q-k9KT2s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Yakuza 4≫ My Favourite Christmas Game #1【SPOILER WARNING】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "islive": false,
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733209200,
         "title": "【VCR GTA3】救急の日々　2日目【夕刻ロベル/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=W2vUSNGe3gQ",
+        "picture": "https://i.ytimg.com/vi/W2vUSNGe3gQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733216400,
+        "title": "【思考実験シミュレーター】感じるがままに...【ホロライブ/大神ミオ】"
     }
 ]
