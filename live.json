@@ -132,17 +132,6 @@
         "title": "雜談｜縱型雜談！好久沒雜談了大家快來聊天【Healing希靈/VTuber】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yFTnVm9PwFU",
-        "picture": "https://i.ytimg.com/vi/yFTnVm9PwFU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VCR GTA 3】２日目！新米警察として街を守れ！！【アキロゼ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733284800,
         "title": "【Cryptmaster】I\u0026#39;m A Dungeon Master"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BpLdDkiylJo",
+        "picture": "https://i.ytimg.com/vi/BpLdDkiylJo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733270400,
+        "title": "【HOLOCURE】JUMP JUMP JUMP!"
     }
 ]
