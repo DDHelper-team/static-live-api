@@ -198,17 +198,6 @@
         "title": "【スト6】#せつな祭2 本番！獅白ぼたんチーム【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=p3QmT2bW-Go",
-        "picture": "https://i.ytimg.com/vi/p3QmT2bW-Go/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【DARK SOULS: REMASTERED】PRAISE THE SUN."
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -226,7 +215,7 @@
         "link": "https://www.youtube.com/watch?v=Cw3L1k2MTBs",
         "picture": "https://i.ytimg.com/vi/Cw3L1k2MTBs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1733209200,
         "title": "【VCR GTA3】救急の日々　2日目【夕刻ロベル/ホロスターズ】"
     },
@@ -281,7 +270,7 @@
         "link": "https://www.youtube.com/watch?v=7XTd2scVMOw",
         "picture": "https://i.ytimg.com/vi/7XTd2scVMOw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1733209212,
         "title": "【VCR GTA3】#2 | 救急隊、本日も出動⛑️【緋月ゆい/ネオポルテ】"
     },
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733212800,
         "title": "【 HoloCure 】ファンタジー島クリアしたい🔥🔥【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6Jqa0riQFYM",
+        "picture": "https://i.ytimg.com/vi/6Jqa0riQFYM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733252400,
+        "title": "【OFF COLLAB】RACLETTE WELCOME PARTY with @JuufuuteiRaden and @IchijouRirika"
     }
 ]
