@@ -99,17 +99,6 @@
         "title": "【 #沙花叉クロヱ3周年 】これまでの沙花叉とこれからの沙花叉【ホロライブ/沙花叉クロヱ】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=X26-2TydemY",
-        "picture": "https://i.ytimg.com/vi/X26-2TydemY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Christmas Radio】Tis the Season for Holiday Productivity"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": false,
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=O41q-k9KT2s",
         "picture": "https://i.ytimg.com/vi/O41q-k9KT2s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733187600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪Yakuza 4≫ My Favourite Christmas Game #1【SPOILER WARNING】"
     },
     {
@@ -141,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】新生活の始まり【荒咬オウガ /ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y45XwCJprOI",
-        "picture": "https://i.ytimg.com/vi/y45XwCJprOI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #朝こよ 】朝こよ3周年！Season10開始！火曜日の朝は朝こよ～☀ #209 【博衣こより/hololive】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
@@ -244,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p3QmT2bW-Go",
         "picture": "https://i.ytimg.com/vi/p3QmT2bW-Go/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733184000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS: REMASTERED】PRAISE THE SUN."
     }
 ]
