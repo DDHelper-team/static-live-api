@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6Jqa0riQFYM",
         "picture": "https://i.ytimg.com/vi/6Jqa0riQFYM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733254200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OFF COLLAB】RACLETTE WELCOME PARTY with @JuufuuteiRaden and @IchijouRirika"
     },
     {
