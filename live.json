@@ -121,17 +121,6 @@
         "title": "【 #VCRGTA3 】新生活の始まり【荒咬オウガ /ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4Yiv1dzfzwY",
-        "picture": "https://i.ytimg.com/vi/4Yiv1dzfzwY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Holocure】Save Me Time Girl"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -332,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VQsqRPCXbMI",
         "picture": "https://i.ytimg.com/vi/VQsqRPCXbMI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733215500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】２日目 - チンピラ成り上がり【 奏手イヅル / ホロスターズ 】"
     }
 ]
