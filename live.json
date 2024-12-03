@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QHyDw_RcaQQ",
         "picture": "https://i.ytimg.com/vi/QHyDw_RcaQQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733198400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Alien Isolation】I don\u0026#39;t like being Isolated D:"
     },
     {
