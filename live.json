@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AnLuOiOYR5w",
         "picture": "https://i.ytimg.com/vi/AnLuOiOYR5w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【作業用BGM】ゴリレバ、深夜ラジオで語ります【天音かなた/ホロライブ】"
     },
     {
@@ -185,17 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR GTA3】救急の日々　2日目その2【夕刻ロベル/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Hg0kH_iUVDg",
-        "picture": "https://i.ytimg.com/vi/Hg0kH_iUVDg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ペルソナ５: The Phantom X】ペルソナ５新章開幕？！？P5X！クローズドβテストに参加させて頂くしゅばあああああああああああああああああああああ！！！！【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -343,23 +332,34 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-kVngMcTrMc",
         "picture": "https://i.ytimg.com/vi/-kVngMcTrMc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】はぁぁ…っ♡耳元で繰り返される暖かい吐息で体温上昇♡ぐっすり眠れる睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NSHUiN5_ets",
         "picture": "https://i.ytimg.com/vi/NSHUiN5_ets/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733238000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】しっとり歌枠！！！-Midnight station -82 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lUUjZw7uXkg",
+        "picture": "https://i.ytimg.com/vi/lUUjZw7uXkg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733277600,
+        "title": "【FORTNITE】i got sponsored by THE fortnite??【Dokibird】"
     }
 ]
