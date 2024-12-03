@@ -190,12 +190,12 @@
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=Cw3L1k2MTBs",
-        "picture": "https://i.ytimg.com/vi/Cw3L1k2MTBs/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=ZVyivzdXbbE",
+        "picture": "https://i.ytimg.com/vi/ZVyivzdXbbE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【VCR GTA3】救急の日々　2日目【夕刻ロベル/ホロスターズ】"
+        "title": "【VCR GTA3】救急の日々　2日目その2【夕刻ロベル/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -212,12 +212,12 @@
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=jsEN_vmdE3M",
-        "picture": "https://i.ytimg.com/vi/jsEN_vmdE3M/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=YxX9VUt1oRk",
+        "picture": "https://i.ytimg.com/vi/YxX9VUt1oRk/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 #VCRGTA3 】近未来新感覚ぎゃうかふぇがアイスを売りたいよ【アルランディス/ホロスターズ】"
+        "title": "【 #VCRGTA3 】後編！近未来都市!?今度は何が起こるのか…！【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YT4yL2_3-Rw",
         "picture": "https://i.ytimg.com/vi/YT4yL2_3-Rw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733230800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Galaxy Burger】ミオ店長と愉快な店員たちのバーガーショップ！！！【ホロライブ/白上フブキ/大神ミオ/猫又おかゆ/鷹嶺ルイ】"
     },
     {
@@ -350,5 +350,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733231700,
         "title": "【Balatro】GOOD HANDS DOKO?【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ycyZ_Fzhssw",
+        "picture": "https://i.ytimg.com/vi/ycyZ_Fzhssw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #VCRGTA3 】とりあえずクラウドで #02【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=g_WDXzPUSr4",
+        "picture": "https://i.ytimg.com/vi/g_WDXzPUSr4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733317200,
+        "title": "【雜談】100個問題 EP.2 總之就是好多問題💜"
     }
 ]
