@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4Yiv1dzfzwY",
         "picture": "https://i.ytimg.com/vi/4Yiv1dzfzwY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733191200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Holocure】Save Me Time Girl"
     },
     {
@@ -229,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【DARK SOULS: REMASTERED】PRAISE THE SUN."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=MNlN8gofdkU",
+        "picture": "https://i.ytimg.com/vi/MNlN8gofdkU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 歌枠 】ねねのひる【 桃鈴ねね / hololive 】#桃鈴ねね生配信"
     }
 ]
