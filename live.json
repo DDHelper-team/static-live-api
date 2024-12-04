@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=a7TzXvsVqlI",
         "picture": "https://i.ytimg.com/vi/a7TzXvsVqlI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733286600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Cryptmaster】I\u0026#39;m A Dungeon Master"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733346000,
         "title": "【Santa Letter Delivery】Wrap up the gifts! String up the lights! Santa Shiori will visit tonight!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Jxpb4OhSAZ0",
+        "picture": "https://i.ytimg.com/vi/Jxpb4OhSAZ0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733306400,
+        "title": "【#ミリしらパワプロ杯】人生初パワプロ！！1年目大会4回戦～初合宿くるか！？【ホロライブ/宝鐘マリン・博衣こより】"
     }
 ]
