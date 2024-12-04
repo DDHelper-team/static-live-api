@@ -220,17 +220,6 @@
         "title": "【 VCRGTA3 】DAY3｜ チェイスで逃げ切ってみたい・・・！【 常闇トワ / ホロライブ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PTWmCTC7c7o",
-        "picture": "https://i.ytimg.com/vi/PTWmCTC7c7o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【4TH ANNIVERSARY COUNTDOWN】IT\u0026#39;S ALMOST HERE! 4周年カウントダウン！ 【hololive ID 2nd Gen | Anya Melfissa】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "islive": false,
@@ -306,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733403600,
         "title": "【雜談】100個問題 EP.2 總之就是好多問題💜"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xLrWU0op0Es",
+        "picture": "https://i.ytimg.com/vi/xLrWU0op0Es/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733392800,
+        "title": "【 え？ 】話題中のあの件につきまして。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=S9hBJ3GtbV0",
+        "picture": "https://i.ytimg.com/vi/S9hBJ3GtbV0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733360400,
+        "title": "【Keep Talking and Nobody Explodes】Boom.【Moona Hoshinova】"
     }
 ]
