@@ -242,25 +242,14 @@
         "title": "【Keep Talking and Nobody Explodes】Boom.【Moona Hoshinova】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iFatf6A6MPk",
-        "picture": "https://i.ytimg.com/vi/iFatf6A6MPk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "こんな時間に起きてしまって一体どうなるんだ..."
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lVJTvWatH28",
         "picture": "https://i.ytimg.com/vi/lVJTvWatH28/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733353200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【L.A. Noire】 No Nonsense November is over, you know what that means | #4"
     },
     {
