@@ -281,20 +281,9 @@
         "link": "https://www.youtube.com/watch?v=Db4i2NQH3QU",
         "picture": "https://i.ytimg.com/vi/Db4i2NQH3QU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1733302800,
         "title": "【VCR GTA3】副院長になりました　3日目【夕刻ロベル/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=-TvQGtcp_XQ",
-        "picture": "https://i.ytimg.com/vi/-TvQGtcp_XQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733302800,
-        "title": "【 VCRGTA3 】DAY3｜ チェイスで逃げ切ってみたい・・・！【 常闇トワ / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
@@ -326,7 +315,7 @@
         "picture": "https://i.ytimg.com/vi/OswYOzcXjhY/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733302800,
+        "timestamp": 1733313600,
         "title": "【クソデカ囃子】メタルで除霊じゃああああああ！！！！！！！！！！【花咲みやび/ホロスターズ】"
     },
     {
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733320800,
         "title": "【TCG Card Shop Simulator】年内には出るよねえええええ？！！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=guiiyhTkLHw",
+        "picture": "https://i.ytimg.com/vi/guiiyhTkLHw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733306400,
+        "title": "【#VCRGTA 3】第三曲_野菜カワイイ【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
