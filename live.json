@@ -145,79 +145,24 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UGArOs2HGwE",
         "picture": "https://i.ytimg.com/vi/UGArOs2HGwE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733346000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Santa Letter Delivery】Wrap up the gifts! String up the lights! Santa Shiori will visit tonight!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=Db4i2NQH3QU",
         "picture": "https://i.ytimg.com/vi/Db4i2NQH3QU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【VCR GTA3】副院長になりました　3日目【夕刻ロベル/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=a_sbCzp460o",
-        "picture": "https://i.ytimg.com/vi/a_sbCzp460o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #VCRGTA3 】ロスサントスを近未来ギャルパワーでｱｹﾞ⇈ってハナシ【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HPzRMyBBGvo",
-        "picture": "https://i.ytimg.com/vi/HPzRMyBBGvo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】年内には出るよねえええええ？！！！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=guiiyhTkLHw",
-        "picture": "https://i.ytimg.com/vi/guiiyhTkLHw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#VCRGTA 3】第三曲_野菜カワイイ【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NI2i5g5Uz7U",
-        "picture": "https://i.ytimg.com/vi/NI2i5g5Uz7U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #VCRGTA3 】３日目 - ギャングとしての道【 奏手イヅル / ホロスターズ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-TvQGtcp_XQ",
-        "picture": "https://i.ytimg.com/vi/-TvQGtcp_XQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 VCRGTA3 】DAY3｜ チェイスで逃げ切ってみたい・・・！【 常闇トワ / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -317,5 +262,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733360400,
         "title": "【Keep Talking and Nobody Explodes】Boom.【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=iFatf6A6MPk",
+        "picture": "https://i.ytimg.com/vi/iFatf6A6MPk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "こんな時間に起きてしまって一体どうなるんだ..."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lVJTvWatH28",
+        "picture": "https://i.ytimg.com/vi/lVJTvWatH28/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733353200,
+        "title": "【L.A. Noire】 No Nonsense November is over, you know what that means | #4"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d_wpL5sw1n0",
+        "picture": "https://i.ytimg.com/vi/d_wpL5sw1n0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733360400,
+        "title": "We got this! W/ @MoonaHoshinova | Keep Talking and Nobdy Explodes"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=k7kdqfB3__0",
+        "picture": "https://i.ytimg.com/vi/k7kdqfB3__0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#130 12/5木曜日！ついぞ130かいかあ・・・ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
