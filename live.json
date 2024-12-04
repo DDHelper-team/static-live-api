@@ -222,24 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PTWmCTC7c7o",
         "picture": "https://i.ytimg.com/vi/PTWmCTC7c7o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733328000,
-        "title": "【4TH ANNIVERSARY COUNTDOWN】IT\u0026#39;S ALMOST HERE! 4周年カウントダウン！ 【hololive ID 2nd Gen | Anya Melfissa】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LLdv-es2Oic",
-        "picture": "https://i.ytimg.com/vi/LLdv-es2Oic/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#生スバル】星のカービィ64やるしゅばああああああああああああああああああああああああああ！！！！！！：Kirby 64: The Crystal Shards.【ホロライブ/大空スバル】"
+        "title": "【4TH ANNIVERSARY COUNTDOWN】IT\u0026#39;S ALMOST HERE! 4周年カウントダウン！ 【hololive ID 2nd Gen | Anya Melfissa】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -297,17 +286,6 @@
         "title": "【VCR GTA3】#3 | 本日からパン屋にもなれる…?②🍞【緋月ゆい/ネオポルテ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fHMamOWa5Co",
-        "picture": "https://i.ytimg.com/vi/fHMamOWa5Co/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【NEW SONG AND REDEBUT AFTERTALK】IT\u0026#39;S NOT OTSUCRAZY YET COME ON LET\u0026#39;S YAPPA【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -328,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733356800,
         "title": "【HOLOCURE】CUTE GIRL DOKO"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=g_WDXzPUSr4",
+        "picture": "https://i.ytimg.com/vi/g_WDXzPUSr4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733403600,
+        "title": "【雜談】100個問題 EP.2 總之就是好多問題💜"
     }
 ]
