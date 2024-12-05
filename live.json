@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=g_WDXzPUSr4",
-        "picture": "https://i.ytimg.com/vi/g_WDXzPUSr4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vHoYffiMsGk",
+        "picture": "https://i.ytimg.com/vi/vHoYffiMsGk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雜談】100個問題 EP.2 總之就是好多問題💜"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733490000,
+        "title": "【歌雜】英文歌 Only🎵"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
