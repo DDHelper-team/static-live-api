@@ -165,17 +165,6 @@
         "title": "【歌雜】英文歌 Only🎵"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=x7SO1EJHmjs",
-        "picture": "https://i.ytimg.com/vi/x7SO1EJHmjs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VCR GTA 3】4日目！エンジョイ＆ガンガンゴー！！【アキロゼ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【OHAPOL】#131 12/6金曜日！むにゃ・・・ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qhUMirdOr00",
+        "picture": "https://i.ytimg.com/vi/qhUMirdOr00/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733450400,
+        "title": "FIRE FIRE LIGHT THE FIRE | PAYDAY 2"
     }
 ]
