@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xLrWU0op0Es",
         "picture": "https://i.ytimg.com/vi/xLrWU0op0Es/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733392800,
-        "title": "【 え？ 】話題中のあの件につきまして。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 え？ 】話題のあの件につきまして。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -216,7 +216,7 @@
         "picture": "https://i.ytimg.com/vi/x7SO1EJHmjs/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733392800,
+        "timestamp": 1733394600,
         "title": "【VCR GTA 3】4日目！エンジョイ＆ガンガンゴー！！【アキロゼ/ホロライブ】"
     },
     {
@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yReRwUFfWb8",
         "picture": "https://i.ytimg.com/vi/yReRwUFfWb8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733392800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#VCRGTA 3】第四曲_女優の朝！こんにちは！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -333,12 +333,12 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=uFbs55z4KsA",
-        "picture": "https://i.ytimg.com/vi/uFbs55z4KsA/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733392800,
-        "title": "【配信予定】ぺこぺこぺっこ、ぺっこ♪ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
