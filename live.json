@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TBViCTHfxnU",
         "picture": "https://i.ytimg.com/vi/TBViCTHfxnU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733414400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#REINEvers4ry COUNTDOWN】SINGING AND MORE YEYEYEY LETS PARTY【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
