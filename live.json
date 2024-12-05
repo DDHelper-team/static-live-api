@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x7SO1EJHmjs",
         "picture": "https://i.ytimg.com/vi/x7SO1EJHmjs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733394600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA 3】4日目！エンジョイ＆ガンガンゴー！！【アキロゼ/ホロライブ】"
     },
     {
@@ -328,17 +328,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733414400,
         "title": "【#REINEvers4ry COUNTDOWN】SINGING AND MORE YEYEYEY LETS PARTY【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
