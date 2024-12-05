@@ -198,17 +198,6 @@
         "title": "【PAYDAY 2】We\u0026#39;re not criminals, we\u0026#39;re ADVENT! #holoadvent"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cVNBYnHOjes",
-        "picture": "https://i.ytimg.com/vi/cVNBYnHOjes/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 トルネコの大冒険2 】100階チャレ12階～！自分ちょっと朝までいいっすか？【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733479200,
         "title": "【VCR GTA 3】5日目！もう折り返し？？？？！【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=quFHbTlBYPU",
+        "picture": "https://i.ytimg.com/vi/quFHbTlBYPU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733439600,
+        "title": "【Family Feud】 PUT ME IN, I KNOW THE ANSWER"
     }
 ]
