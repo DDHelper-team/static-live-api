@@ -255,23 +255,23 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ARwcKEUqAvE",
         "picture": "https://i.ytimg.com/vi/ARwcKEUqAvE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733391000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】夕方にちょっと歌ってみたり sing and talk【獅子神レオナ/Re:AcT】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4hpMx4EFOtA",
         "picture": "https://i.ytimg.com/vi/4hpMx4EFOtA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733391000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】ぎ　ゃ　う　は　ち　か　ら　【アルランディス/ホロスターズ】"
     },
     {
@@ -361,5 +361,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733396400,
         "title": "【#エムホールデム】はじめてのポーカー勝負で勝てるか？！！？？！？！【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=m4-68AF0ePo",
+        "picture": "https://i.ytimg.com/vi/m4-68AF0ePo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733396400,
+        "title": "【4TH ANNIVERSARY! 4周年！】Call-in Celebration! 4周年スペシャル凸待ち！【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=4qBBjfE75Tk",
+        "picture": "https://i.ytimg.com/vi/4qBBjfE75Tk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #VCRGTA3 】とりあえずクラウドで #03【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=kWxHCacUjJ4",
+        "picture": "https://i.ytimg.com/vi/kWxHCacUjJ4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 VCRGTA3 】DAY4｜ 中型犯罪に挑みたい！そ、そのためにはファーム！？【 常闇トワ / ホロライブ 】"
     }
 ]
