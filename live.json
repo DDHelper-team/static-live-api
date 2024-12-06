@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LoFSeFzePbU",
         "picture": "https://i.ytimg.com/vi/LoFSeFzePbU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733475600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings】FUNMATCH HOK EDISI WINTER??"
     },
     {
