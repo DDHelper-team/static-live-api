@@ -209,17 +209,6 @@
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！2年目春～【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eIOs-i6o-aE",
-        "picture": "https://i.ytimg.com/vi/eIOs-i6o-aE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#REINEvers4ry】peafowl debut ~Attention Please~ (4 years after ver.)【Pavolia Reine/holoID 2nd gen】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": true,
@@ -286,26 +275,15 @@
         "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_JqDkncdBls",
-        "picture": "https://i.ytimg.com/vi/_JqDkncdBls/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【-`🎮 PowerWash Simulator 】しっかり掃除はしておきましょう🧽🫧  #NeclioN【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j5u9KpHXhmc",
         "picture": "https://i.ytimg.com/vi/j5u9KpHXhmc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733493600,
-        "title": "配信予定～～～～～！！！！可愛い～？？【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ドラクエ3リメイク】完全初見ドラゴンクエスト⚔️いざバラモス城へ【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -405,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733511600,
         "title": "【PATH OF EXILE 2】new game START #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=sQGguAyDuoo",
+        "picture": "https://i.ytimg.com/vi/sQGguAyDuoo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#VCRGTA 3】２枠目！第五曲_トップスターになって恩返しします！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
