@@ -374,17 +374,6 @@
         "title": "【Path of Exile 2】 EARLY ACCESS LAUNCH! LET US IN!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=ng8ozvKtIlo",
-        "picture": "https://i.ytimg.com/vi/ng8ozvKtIlo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733490000,
-        "title": "【MemberOnly】明日のマリンのライブへの意気込みやさゆり元気になってきた話など【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": false,
@@ -394,5 +383,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733511600,
         "title": "【Path of Exile 2】wake up its time to grind if we can get in the server【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=NDMpsk8Mrqw",
+        "picture": "https://i.ytimg.com/vi/NDMpsk8Mrqw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #VCRGTA3 】５日目 - 中規模ギャング【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=YR_lWHc0voM",
+        "picture": "https://i.ytimg.com/vi/YR_lWHc0voM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 VCRGTA3 】DAY5｜ 餓狼ｰGAROｰ 新しいことにチャレンジチャレンジ【 常闇トワ / ホロライブ 】"
     }
 ]
