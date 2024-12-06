@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qnjH3IeAoFk",
         "picture": "https://i.ytimg.com/vi/qnjH3IeAoFk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733497200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR｜溫柔姊姊給你睡前療癒❤️年上的溫柔讓你安心｜Oneechan Whispers to Sleep｜お姉さんの甘い添い寝 【黑3DIO/KU100】"
     },
     {
@@ -227,7 +227,7 @@
         "picture": "https://i.ytimg.com/vi/6MBdEzTk72k/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733497200,
+        "timestamp": 1733498400,
         "title": "【KU100/ASMR】お耳すっぽり包まれるはむはむと耳奥まで届くあまあま吐息♡ぐっすり眠れる睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
@@ -295,17 +295,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR GTA3】#5 | 救急隊のマスコット🐧【緋月ゆい/ネオポルテ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dMR41_FKYIU",
-        "picture": "https://i.ytimg.com/vi/dMR41_FKYIU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【もぐもぐ配信】個人的コンビニお菓子No.1決定戦！食レポあり！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
