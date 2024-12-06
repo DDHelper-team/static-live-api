@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Rqc9A0Z2gRo",
         "picture": "https://i.ytimg.com/vi/Rqc9A0Z2gRo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733479200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA 3】5日目！もう折り返し？？？？！【アキロゼ/ホロライブ】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=k0iY-KxAMyo",
         "picture": "https://i.ytimg.com/vi/k0iY-KxAMyo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733479200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】大阪公演までお休みもらった！しゃべる✨【星街すいせい / ホロライブ】"
     },
     {
@@ -350,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733482800,
         "title": "【#VCRGTA 3】第五曲_トップスターになって恩返しします！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_JqDkncdBls",
+        "picture": "https://i.ytimg.com/vi/_JqDkncdBls/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733486400,
+        "title": "【-`🎮 PowerWash Simulator 】しっかり掃除はしておきましょう🧽🫧  #NeclioN【獅子神レオナ/Re:AcT】"
     }
 ]
