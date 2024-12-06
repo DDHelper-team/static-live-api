@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ghwc9-TFtEg",
         "picture": "https://i.ytimg.com/vi/ghwc9-TFtEg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733443200,
-        "title": "【MARVEL RIVALS】launch day!!【Dokibird】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【MARVEL RIVALS】launch day!! + ANNOUNCEMENT【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -284,16 +284,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733479200,
         "title": "【VCR GTA 3】5日目！もう折り返し？？？？！【アキロゼ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=quFHbTlBYPU",
-        "picture": "https://i.ytimg.com/vi/quFHbTlBYPU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Family Feud】 PUT ME IN, I KNOW THE ANSWER"
     }
 ]
