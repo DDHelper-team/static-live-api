@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BF-UZEkKRXo",
         "picture": "https://i.ytimg.com/vi/BF-UZEkKRXo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733515200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "I will get this skin so help me... | League of Legends"
     },
     {
@@ -297,17 +297,6 @@
         "title": "【LEAGUE OF LEGENDS】toplane wawa #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sQGguAyDuoo",
-        "picture": "https://i.ytimg.com/vi/sQGguAyDuoo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#VCRGTA 3】２枠目！第五曲_トップスターになって恩返しします！【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -398,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dDPTA0AEEMU",
         "picture": "https://i.ytimg.com/vi/dDPTA0AEEMU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733515200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL拡大版】早寝しすぎてゲリラ特別編 #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
