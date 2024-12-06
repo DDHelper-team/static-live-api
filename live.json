@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PiX0Bs7A5jQ",
         "picture": "https://i.ytimg.com/vi/PiX0Bs7A5jQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1733471400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings: Influencer Showmatch】HO-HO-HO!!! saya ngapain saya dimana saya siapa....."
     },
     {
@@ -306,5 +306,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733486400,
         "title": "【 Dead by Daylight 】もう何次会かわからなくなってきた仲間たち【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=k0iY-KxAMyo",
+        "picture": "https://i.ytimg.com/vi/k0iY-KxAMyo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733479200,
+        "title": "【雑談】大阪公演までお休みもらった！しゃべる✨【星街すいせい / ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LoFSeFzePbU",
+        "picture": "https://i.ytimg.com/vi/LoFSeFzePbU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733475600,
+        "title": "【Honor of Kings】FUNMATCH HOK EDISI WINTER??"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ge0wzL9hFOY",
+        "picture": "https://i.ytimg.com/vi/ge0wzL9hFOY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733560200,
+        "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】"
     }
 ]
