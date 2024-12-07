@@ -299,11 +299,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=gPjDmXCHvkM",
         "picture": "https://i.ytimg.com/vi/gPjDmXCHvkM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【ユニコーンオーバーロード】初見実況プレイ⚔️気になってたんです※ネタバレあり #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     },
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733623200,
         "title": "【Path of Exile 2】empty head, just keep grinding.【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ju6eK_Tgs0M",
+        "picture": "https://i.ytimg.com/vi/Ju6eK_Tgs0M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733626800,
+        "title": "【KUUKIYOMI 4】Considerate Nephilim"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tk4wiLUtbiw",
+        "picture": "https://i.ytimg.com/vi/tk4wiLUtbiw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733619600,
+        "title": "My first time with a classic.... | Clock Tower: Rewind"
     }
 ]
