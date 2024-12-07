@@ -233,23 +233,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vJ611Q_oMUA",
         "picture": "https://i.ytimg.com/vi/vJ611Q_oMUA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733576400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】第１１９回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=N8BXfwHX9qM",
         "picture": "https://i.ytimg.com/vi/N8BXfwHX9qM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733576400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【YES】Captain, something approaches【Moona Hoshinova】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OUbLxGTegxI",
         "picture": "https://i.ytimg.com/vi/OUbLxGTegxI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733576400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた"
     },
     {
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Rqq1S301ydE",
         "picture": "https://i.ytimg.com/vi/Rqq1S301ydE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733576400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！ミスタあああああ！！（16~21話）【儒烏風亭らでん 】"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=acZUgxJTaJ8",
         "picture": "https://i.ytimg.com/vi/acZUgxJTaJ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733576400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃9】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
     },
     {
@@ -354,23 +354,34 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YWDBZOCAKPE",
         "picture": "https://i.ytimg.com/vi/YWDBZOCAKPE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733576400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#VCRGTA 3】第六曲_女優、そして【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4JO9pFqtCK8",
         "picture": "https://i.ytimg.com/vi/4JO9pFqtCK8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733576438,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA3】#6 | 無理をしないで働く❗️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=zu5ubTZjy4Q",
+        "picture": "https://i.ytimg.com/vi/zu5ubTZjy4Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #VCRGTA3 】とりあえずクラウドで #04【影山シエン/ホロスターズ】"
     }
 ]
