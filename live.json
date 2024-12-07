@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ge0wzL9hFOY",
         "picture": "https://i.ytimg.com/vi/ge0wzL9hFOY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733560200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7jf3nH21rbA",
         "picture": "https://i.ytimg.com/vi/7jf3nH21rbA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733560200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」】みんなで同時視聴！！【火威青 /音乃瀬奏/響咲リオナ/虎金妃笑虎】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -361,5 +361,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談】ただいま日本！！＆嬉しいお知らせ！！【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jUJ1uowwvr8",
+        "picture": "https://i.ytimg.com/vi/jUJ1uowwvr8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733562000,
+        "title": "【 #VCRGTA3 】タピオカの出る装甲車とぎゃう【アルランディス/ホロスターズ】"
     }
 ]
