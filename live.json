@@ -220,17 +220,6 @@
         "title": "【 PICO PARK 2 】視聴者と協力するゲーム？！ふぅ、、ため息しか出ません😮‍💨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OVW4g6cY-ec",
-        "picture": "https://i.ytimg.com/vi/OVW4g6cY-ec/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Yet Another Brunch, Everyone】HAPPY #REINEvers4ry MASS DESTRUCTION【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": true,
@@ -361,5 +350,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【歌枠】げりげりげりら！！！【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=N8BXfwHX9qM",
+        "picture": "https://i.ytimg.com/vi/N8BXfwHX9qM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733576400,
+        "title": "【YES】Captain, something approaches【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LQtiXtpCuI4",
+        "picture": "https://i.ytimg.com/vi/LQtiXtpCuI4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733569200,
+        "title": "【  WWE2K22 】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🥐⚒【ホロライブ/さくらみこ】"
     }
 ]
