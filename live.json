@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AHcksYIJsvY",
         "picture": "https://i.ytimg.com/vi/AHcksYIJsvY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1733573700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 VCRGTA3 】DAY6｜ 餓狼ｰGAROｰ 成功経験がほしい！【 常闇トワ / ホロライブ 】"
     },
     {
@@ -350,5 +350,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【＃兎に角】あやめちゃんと遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら/百鬼あやめ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YWDBZOCAKPE",
+        "picture": "https://i.ytimg.com/vi/YWDBZOCAKPE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733576400,
+        "title": "【#VCRGTA 3】第六曲_女優、そして【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4JO9pFqtCK8",
+        "picture": "https://i.ytimg.com/vi/4JO9pFqtCK8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733576438,
+        "title": "【VCR GTA3】#6 | 無理をしないで働く❗️【緋月ゆい/ネオポルテ】"
     }
 ]
