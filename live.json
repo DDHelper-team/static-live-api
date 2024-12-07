@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZoJgjBnwwYo",
         "picture": "https://i.ytimg.com/vi/ZoJgjBnwwYo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733581800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR雜談｜保健室姊姊的耳朵檢驗❤️耳部護理｜保健室でシスターによる耳の診察 ❤️ 耳のケア｜Nursing Your Ears Role Playing【KU100／黑3DIO】"
     },
     {
@@ -242,17 +242,6 @@
         "title": "【歌枠】第１１９回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=N8BXfwHX9qM",
-        "picture": "https://i.ytimg.com/vi/N8BXfwHX9qM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【YES】Captain, something approaches【Moona Hoshinova】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": true,
@@ -330,17 +319,6 @@
         "title": "【＃9】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=z40qFYnDyIg",
-        "picture": "https://i.ytimg.com/vi/z40qFYnDyIg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃兎に角】あやめちゃんと遊ぶ！！！！！！！ぺこ！【ホロライブ/兎田ぺこら/百鬼あやめ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": true,
@@ -387,12 +365,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gPjDmXCHvkM",
         "picture": "https://i.ytimg.com/vi/gPjDmXCHvkM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733581800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ユニコーンオーバーロード】初見実況プレイ⚔️気になってたんです※ネタバレあり #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=6ZxdGg9JGIU",
+        "picture": "https://i.ytimg.com/vi/6ZxdGg9JGIU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠】ゲリラだけど歌いたい歌がある！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
