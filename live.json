@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vY4H8FaU3ho",
         "picture": "https://i.ytimg.com/vi/vY4H8FaU3ho/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733567400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 バーチャルマーケット2024winter 】サミーブースへGO！✨3人でバーチャルパチスロシューター体験！？🔫【 獅子神レオナ/白雪レイド/渋谷ハル 】"
     },
     {
@@ -350,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733576400,
         "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bIAbgjzbyPo",
+        "picture": "https://i.ytimg.com/vi/bIAbgjzbyPo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733568300,
+        "title": "【 #VCRGTA3 】６日目 - 大型に向けた備え【 奏手イヅル / ホロスターズ 】"
     }
 ]
