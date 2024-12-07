@@ -354,12 +354,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bIAbgjzbyPo",
         "picture": "https://i.ytimg.com/vi/bIAbgjzbyPo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733568300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】６日目 - 大型に向けた備え【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Rqq1S301ydE",
+        "picture": "https://i.ytimg.com/vi/Rqq1S301ydE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733576400,
+        "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！ミスタあああああ！！（16~21話）【儒烏風亭らでん 】"
     }
 ]
