@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aMXkoESB1h4",
-        "picture": "https://i.ytimg.com/vi/aMXkoESB1h4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SJte7Wo3EXo",
+        "picture": "https://i.ytimg.com/vi/SJte7Wo3EXo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【LEAGUE OF LEGENDS】toplane wawa #kfp #キアライブ"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733587200,
+        "title": "【Path Of Exile 2】skip the queue  #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3LA6t9YHsKw",
         "picture": "https://i.ytimg.com/vi/3LA6t9YHsKw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733533200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     },
     {
@@ -343,13 +343,13 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XZzAwoQRWA4",
-        "picture": "https://i.ytimg.com/vi/XZzAwoQRWA4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DYCdyQSiWbg",
+        "picture": "https://i.ytimg.com/vi/DYCdyQSiWbg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MANDE APEX TOURNAMENT】we have TSM【Dokibird】"
+        "status": null,
+        "timestamp": 1733533200,
+        "title": "【FLAPPY DRAGOON】ready to get rage baited【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
