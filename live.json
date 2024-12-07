@@ -249,7 +249,7 @@
         "picture": "https://i.ytimg.com/vi/vY4H8FaU3ho/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733565600,
+        "timestamp": 1733567400,
         "title": "【 バーチャルマーケット2024winter 】サミーブースへGO！✨3人でバーチャルパチスロシューター体験！？🔫【 獅子神レオナ/白雪レイド/渋谷ハル 】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0nPZQ6fvciw",
         "picture": "https://i.ytimg.com/vi/0nPZQ6fvciw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733565600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA 3】6日目！街の平和を守る！！！！【アキロゼ/ホロライブ】"
     },
     {
@@ -339,5 +339,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】タピオカの出る装甲車とぎゃう【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OUbLxGTegxI",
+        "picture": "https://i.ytimg.com/vi/OUbLxGTegxI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733576400,
+        "title": "【弾き語り歌枠】12月の歌【律可/ホロスターズ】#りつすた"
     }
 ]
