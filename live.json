@@ -222,23 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=usH-obpWqoI",
         "picture": "https://i.ytimg.com/vi/usH-obpWqoI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733561100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Houshou Marine 1st Live \u0026quot;Ahoy!! You\u0026#39;re All Pirates♡\u0026quot; WATCHALONG】ボンキュッ母音〜!! #キミパイ【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sW0iX7Tq7ns",
         "picture": "https://i.ytimg.com/vi/sW0iX7Tq7ns/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733560800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Watchalong】Houshou Marine 1st LIVE「Ahoy!! キミたちみんなパイレーツ♡」【DAY1】"
     },
     {
