@@ -332,12 +332,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Vt2oL8y5u24",
         "picture": "https://i.ytimg.com/vi/Vt2oL8y5u24/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733652900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA 3】7日目！しゅっきん！！！！【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WqYUpD5vd6o",
+        "picture": "https://i.ytimg.com/vi/WqYUpD5vd6o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733662800,
+        "title": "【 はいしんよてちぃ！ 】【ホロライブ/さくらみこ】"
     }
 ]
