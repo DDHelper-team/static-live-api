@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hmS_z-2epcM",
         "picture": "https://i.ytimg.com/vi/hmS_z-2epcM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733646600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チラ見せ】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【DAY2】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mjRwsH1MemE",
         "picture": "https://i.ytimg.com/vi/mjRwsH1MemE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733647200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Houshou Marine 1st Live \u0026quot;Ahoy!! You\u0026#39;re All Pirates♡\u0026quot; WATCHALONG】DAY 2 出航!! #キミパイ【Kureiji Ollie"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=V3fmEfJ3MI0",
         "picture": "https://i.ytimg.com/vi/V3fmEfJ3MI0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733646600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」】あおかなで同時視聴！！【火威青 /音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733651100,
         "title": "【 #VCRGTA3 】ぎゃうはあけぼのやうやうしろくなりゆくたぴおか【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=a0ib3n3Mg20",
+        "picture": "https://i.ytimg.com/vi/a0ib3n3Mg20/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733697000,
+        "title": "【 #朝ミオ 】月曜日のおはみぉーん！乾燥してきた～～～！"
     }
 ]
