@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mzRqr4T_Eqw",
         "picture": "https://i.ytimg.com/vi/mzRqr4T_Eqw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733635800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 阪神ジュベナイルF 】未来の最強女王が集う2歳牝馬レース！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733647200,
         "title": "【Houshou Marine 1st Live \u0026quot;Ahoy!! You\u0026#39;re All Pirates♡\u0026quot; WATCHALONG】DAY 2 出航!! #キミパイ【Kureiji Ollie"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=l7enHFX2Hiw",
+        "picture": "https://i.ytimg.com/vi/l7enHFX2Hiw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733637600,
+        "title": "【スプラトゥーン3】浦島スプラ【花咲みやび/ホロスターズ】"
     }
 ]
