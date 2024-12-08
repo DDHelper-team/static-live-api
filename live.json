@@ -178,24 +178,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HOb_TW8uK48",
-        "picture": "https://i.ytimg.com/vi/HOb_TW8uK48/maxresdefault_live.jpg",
+        "islive": false,
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "LIVE",
+        "status": null,
         "timestamp": null,
-        "title": "【3D LIVE】重大告知あり！紫咲シオンBirthdayアニソンライブ！！✨【#紫咲シオン生誕LIVE2024】"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=UEj6qMYWlPI",
-        "picture": "https://i.ytimg.com/vi/UEj6qMYWlPI/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733662800,
-        "title": "【メンバー限定配信】開設4年9ヶ月目！「ぼっち・ざ・ろっく！ / Bocchi the Rock!」同時視聴！【角巻わため/ホロライブ４期生】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aMrUp6p1uSo",
         "picture": "https://i.ytimg.com/vi/aMrUp6p1uSo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733662800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【文字化化 -Homicipher-】やばい、何言ってるか全然分からん。ホラー男子の言語を読み解いて脱出するゲーム【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -299,24 +299,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WqYUpD5vd6o",
         "picture": "https://i.ytimg.com/vi/WqYUpD5vd6o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733662800,
-        "title": "【 はいしんよてちぃ！ 】【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=4vTbv7iWXDc",
-        "picture": "https://i.ytimg.com/vi/4vTbv7iWXDc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733662800,
-        "title": "【#VCRGTA 3】第七曲_今日はチルDAY【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 えりぃとサムネ屋 】ラスト🌟ホロメンからのサムネ依頼納品するぜ！！！！！！！！【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -339,5 +328,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#vcrgta3 】＃３ 久々出勤❕👮⟡【ラプラス・ダークネス/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TDJVCvpkY00",
+        "picture": "https://i.ytimg.com/vi/TDJVCvpkY00/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733749200,
+        "title": "【雜談】投稿女生問題 讓我來回答你們吧"
     }
 ]
