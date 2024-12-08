@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tXMNlfypLag",
         "picture": "https://i.ytimg.com/vi/tXMNlfypLag/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733661000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "塔羅占卜#80｜已經逐漸要2025運勢也開始轉換囉🔮✨🦊【Healing希靈/VTuber】"
     },
     {
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733745600,
         "title": "【歌枠コラボ】#かなけん で楽しく歌って重大告知！！！！！！SINGING STREAM【ホロライブ / AZKi / 天音かなた / 沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=szBBnFlNyRg",
+        "picture": "https://i.ytimg.com/vi/szBBnFlNyRg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#vcrgta3 】＃３ 久々出勤❕👮⟡【ラプラス・ダークネス/ホロライブ】"
     }
 ]
