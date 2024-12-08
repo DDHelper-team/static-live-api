@@ -239,7 +239,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 VCRGTA3 】DAY7｜ 餓狼ｰGAROｰ ついに一週間！連携力を高めていこう！【 常闇トワ / ホロライブ 】"
+        "title": "【 #VCRGTA3 】DAY7｜ 餓狼ｰGAROｰ ついに一週間！連携力を高めていこう！【 常闇トワ / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yek2tPNMrOc",
         "picture": "https://i.ytimg.com/vi/yek2tPNMrOc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733651100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】ぎゃうはあけぼのやうやうしろくなりゆくたぴおか【アルランディス/ホロスターズ】"
     },
     {
@@ -295,5 +295,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733655600,
         "title": "【歌枠】１時間まったり歌います～！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=8ISHXhpNvWg",
+        "picture": "https://i.ytimg.com/vi/8ISHXhpNvWg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #VCRGTA3 】とりあえずクラウドで #05【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cMsQgAPHSKw",
+        "picture": "https://i.ytimg.com/vi/cMsQgAPHSKw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733695200,
+        "title": "【レポ】朝７時☀早起きしてボクの目の手術の話をきくのであーーーるっ✨withご飯【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hoT5g_MODB0",
+        "picture": "https://i.ytimg.com/vi/hoT5g_MODB0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733659200,
+        "title": "【歌雜】雜談成分高達80%的歌雜💙今天過敏整天...不會唱太多~【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #歌回 #雜談"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Vt2oL8y5u24",
+        "picture": "https://i.ytimg.com/vi/Vt2oL8y5u24/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733652900,
+        "title": "【VCR GTA 3】7日目！しゅっきん！！！！【アキロゼ/ホロライブ】"
     }
 ]
