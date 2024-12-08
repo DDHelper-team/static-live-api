@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0uBU5aMyyyw",
         "picture": "https://i.ytimg.com/vi/0uBU5aMyyyw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733623200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FWMC MINECRAFT JOURNEY】fluffy mishaps are a part of any journey 🐾【FUWAWA POV】"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-c8cYMHG9Tc",
         "picture": "https://i.ytimg.com/vi/-c8cYMHG9Tc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733626800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 オフコラボ 】一体何が出来上がる？！奏とｼｬｯﾁｮと番長でハニワ作る！✨【音乃瀬奏・一条莉々華・轟はじめ】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -220,25 +220,14 @@
         "title": "【3D LIVE】重大告知あり！紫咲シオンBirthdayアニソンライブ！！✨【#紫咲シオン生誕LIVE2024】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Dn3a8dmWOSA",
-        "picture": "https://i.ytimg.com/vi/Dn3a8dmWOSA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733623200,
-        "title": "【Path of Exile 2】empty head, just keep grinding.【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ju6eK_Tgs0M",
         "picture": "https://i.ytimg.com/vi/Ju6eK_Tgs0M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733626800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KUUKIYOMI 4】Considerate Nephilim"
     },
     {
@@ -264,17 +253,6 @@
         "title": "【メンバー限定配信】開設4年9ヶ月目！「ぼっち・ざ・ろっく！ / Bocchi the Rock!」同時視聴！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JO66w4NAZ94",
-        "picture": "https://i.ytimg.com/vi/JO66w4NAZ94/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Pikmin 2】 Truly the gendo ikari of pikmin captains | #7"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -284,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733635800,
         "title": "【 阪神ジュベナイルF 】未来の最強女王が集う2歳牝馬レース！！！【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qRF5ATnEcio",
+        "picture": "https://i.ytimg.com/vi/qRF5ATnEcio/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733641200,
+        "title": "【クソデカ囃子】ホラゲにあるまじきタイトルなんですけど【ホロライブ/大神ミオ】"
     }
 ]
