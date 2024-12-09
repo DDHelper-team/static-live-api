@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ww1XXVzbJ5o",
         "picture": "https://i.ytimg.com/vi/Ww1XXVzbJ5o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733724000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KUUKIYOMI 4: Consider It】The Most Considerate Ancient Weapon in Your Town 【holoID | Anya Melfissa】"
     },
     {
