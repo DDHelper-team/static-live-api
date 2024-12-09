@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=E6-rsfpT3rs",
         "picture": "https://i.ytimg.com/vi/E6-rsfpT3rs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733785200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT】 The world tree will be completed !!!"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733832000,
         "title": "【Lethal Company】#TCB兄妹 - 激ヤババイト【奏手イヅル / ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=y0i1cGjMfy0",
+        "picture": "https://i.ytimg.com/vi/y0i1cGjMfy0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733796000,
+        "title": "【DARK SOULS: REMASTERED】I will not hit NPCS I will not hit NPCS"
     }
 ]
