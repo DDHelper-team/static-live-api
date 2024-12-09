@@ -176,17 +176,6 @@
         "title": "【ユニコーンオーバーロード】初見実況プレイ⚔️気になってたんです※ネタバレあり #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9fbtjRyaPcM",
-        "picture": "https://i.ytimg.com/vi/9fbtjRyaPcM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【６周年記念】大神ミオにお願い凸待ち！！！【ホロライブ/大神ミオ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -233,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=b7ArlVn5qyA",
         "picture": "https://i.ytimg.com/vi/b7ArlVn5qyA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733742000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -339,5 +328,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733745600,
         "title": "【ルイージマンション2 HD】ルイージはいつもマンションにいると思ってるわたしの配信【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AHq9oSsCVVI",
+        "picture": "https://i.ytimg.com/vi/AHq9oSsCVVI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733742941,
+        "title": "【VCR GTA3】#7 | 忙しくなるのかな⛑️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6SlmX7BXNWA",
+        "picture": "https://i.ytimg.com/vi/6SlmX7BXNWA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733745600,
+        "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
     }
 ]
