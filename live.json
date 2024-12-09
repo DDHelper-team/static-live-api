@@ -189,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oBrYqMJHlPc",
-        "picture": "https://i.ytimg.com/vi/oBrYqMJHlPc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5wnZMLks06E",
+        "picture": "https://i.ytimg.com/vi/5wnZMLks06E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Midnight Monday Radio≫ Episode 11 #shorts"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733792400,
+        "title": "≪Yakuza 4≫ Rizz 101 with Akiyama #2【SPOILER WARNING】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rR6g9OWQ_94",
         "picture": "https://i.ytimg.com/vi/rR6g9OWQ_94/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733764500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Path Of Exile 2】minions and spikes  #kfp #キアライブ"
     },
     {
