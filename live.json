@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SKYELeUUDjU",
-        "picture": "https://i.ytimg.com/vi/SKYELeUUDjU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oBrYqMJHlPc",
+        "picture": "https://i.ytimg.com/vi/oBrYqMJHlPc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Call of Duty®: Black Ops≫ Target Lock On."
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733756400,
+        "title": "≪Midnight Monday Radio≫ Episode 11 #shorts"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
