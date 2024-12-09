@@ -306,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733745600,
         "title": "【歌枠 / Singing】ボカロ曲限定歌枠！！！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=lI5x3bbUhDU",
+        "picture": "https://i.ytimg.com/vi/lI5x3bbUhDU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【SpyParty】Taela is back.. surely we can read each other\u0026#39;s mind?!?"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q4FgIAlIQwk",
+        "picture": "https://i.ytimg.com/vi/q4FgIAlIQwk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733731200,
+        "title": "【Core Keeper】a cave! (scary cave)【Moona Hoshinova】"
     }
 ]
