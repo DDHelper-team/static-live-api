@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9fbtjRyaPcM",
         "picture": "https://i.ytimg.com/vi/9fbtjRyaPcM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733738400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【６周年記念】大神ミオにお願い凸待ち！！！【ホロライブ/大神ミオ】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5niFMcf2YJU",
         "picture": "https://i.ytimg.com/vi/5niFMcf2YJU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733738400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#4【#ミリしらパワプロ杯】初めてのパワプロ⚾地元の大分！1年＆2年で試合に勝つぞ～🔥【白銀ノエル/ホロライブ】"
     },
     {
@@ -306,5 +306,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】DAY8｜ 餓狼ｰGAROｰ 大型にチャレンジしてみたい！！【 常闇トワ / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q1s4w-_ujig",
+        "picture": "https://i.ytimg.com/vi/Q1s4w-_ujig/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733821200,
+        "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \u0026quot;Spectra of Nova\u0026quot;"
     }
 ]
