@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=B7QVD4R6PeI",
         "picture": "https://i.ytimg.com/vi/B7QVD4R6PeI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733745600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠コラボ】#かなけん で楽しく歌って重大告知！！！！！！SINGING STREAM【ホロライブ / AZKi / 天音かなた / 沙花叉クロヱ】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=A9va4qRLcas",
         "picture": "https://i.ytimg.com/vi/A9va4qRLcas/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733745600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】ボカロ曲限定歌枠！！！！【#新人vtuber 】"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JfnBh7eVtpQ",
         "picture": "https://i.ytimg.com/vi/JfnBh7eVtpQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733745600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ルイージマンション2 HD】ルイージはいつもマンションにいると思ってるわたしの配信【ホロライブ/ときのそら】"
     },
     {
@@ -348,7 +348,29 @@
         "picture": "https://i.ytimg.com/vi/6SlmX7BXNWA/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733745600,
-        "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
+        "timestamp": 1733749200,
+        "title": "【 働こう 】ローラーでビジネス界を突き進む！！！！？？？？？？【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Dn3a8dmWOSA",
+        "picture": "https://i.ytimg.com/vi/Dn3a8dmWOSA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733779800,
+        "title": "【Path of Exile 2】empty head, just keep grinding.【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SueAKJ3WaF0",
+        "picture": "https://i.ytimg.com/vi/SueAKJ3WaF0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733749200,
+        "title": "【 #VCRGTA3 】８日目 - 英雄願望あり【 奏手イヅル / ホロスターズ 】"
     }
 ]
