@@ -286,17 +286,6 @@
         "title": "【 #VCRGTA3 】８日目 - 英雄願望あり【 奏手イヅル / ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xIUWHp7ZD5M",
-        "picture": "https://i.ytimg.com/vi/xIUWHp7ZD5M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【鳴蟇村】地図にはない立ち入り禁止の村からの脱出【ホロライブ/癒月ちょこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "islive": true,
@@ -310,11 +299,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=-EuKS8rPc2s",
         "picture": "https://i.ytimg.com/vi/-EuKS8rPc2s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】POWER OF GYAU【アルランディス/ホロスターズ】"
     },
