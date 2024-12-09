@@ -157,12 +157,12 @@
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=3T_vvPCNARg",
-        "picture": "https://i.ytimg.com/vi/3T_vvPCNARg/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=ydZUKK-OIDY",
+        "picture": "https://i.ytimg.com/vi/ydZUKK-OIDY/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1733756400,
-        "title": "ASMR雜談｜再挑戰！催眠放鬆的耳部診所｜催眠リラクゼーション・イヤー・クリニック｜【KU100／黑3DIO】"
+        "timestamp": 1733830200,
+        "title": "12月SC點心抽獎｜杏仁瓦片+不同口味的瓦片【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oBrYqMJHlPc",
         "picture": "https://i.ytimg.com/vi/oBrYqMJHlPc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733756400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪Midnight Monday Radio≫ Episode 11 #shorts"
     },
     {
@@ -255,24 +255,24 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=A9va4qRLcas",
-        "picture": "https://i.ytimg.com/vi/A9va4qRLcas/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rypA6BxUoPs",
+        "picture": "https://i.ytimg.com/vi/rypA6BxUoPs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠 / Singing】ボカロ曲限定歌枠！！！！【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733828400,
+        "title": "【歌枠 / Singing】リクエストルーレット歌枠！！！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=q4FgIAlIQwk",
-        "picture": "https://i.ytimg.com/vi/q4FgIAlIQwk/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=ObvMXilTahc",
+        "picture": "https://i.ytimg.com/vi/ObvMXilTahc/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【Core Keeper】a cave! (scary cave)【Moona Hoshinova】"
+        "title": "【Aftertalk】NIGHTMARE AFTERPARTY【Moona Hoshinova】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -372,5 +372,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】POWER OF GYAU【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=N3A9ysVbFdI",
+        "picture": "https://i.ytimg.com/vi/N3A9ysVbFdI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#VCRGTA 3】第八曲_今度こそチルDAY【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
