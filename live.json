@@ -275,17 +275,6 @@
         "title": "【 #VCRGTA3 】８日目 - 英雄願望あり【 奏手イヅル / ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=p3Zo8qgGlzo",
-        "picture": "https://i.ytimg.com/vi/p3Zo8qgGlzo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #VCRGTA3 】とりあえずクラウドで #06【影山シエン/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -295,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】POWER OF GYAU【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1rh2yINMnqc",
+        "picture": "https://i.ytimg.com/vi/1rh2yINMnqc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733835600,
+        "title": "【】頑張って帰ってくるぞ～！【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=E6-rsfpT3rs",
+        "picture": "https://i.ytimg.com/vi/E6-rsfpT3rs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733785200,
+        "title": "【MINECRAFT】 The world tree will be completed !!!"
     }
 ]
