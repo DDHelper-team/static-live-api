@@ -215,7 +215,7 @@
         "link": "https://www.youtube.com/watch?v=rypA6BxUoPs",
         "picture": "https://i.ytimg.com/vi/rypA6BxUoPs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1733828400,
         "title": "【歌枠 / Singing】リクエストルーレット歌枠！！！！【#新人vtuber 】"
     },
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Pyd67E7-OoU",
         "picture": "https://i.ytimg.com/vi/Pyd67E7-OoU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733828400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -314,7 +314,7 @@
         "link": "https://www.youtube.com/watch?v=4aoBGC-rDOk",
         "picture": "https://i.ytimg.com/vi/4aoBGC-rDOk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1733828400,
         "title": "【 #VCRGTA3 】DAY9｜ 餓狼ｰGAROｰ 残り2日。やれる大型2つ残ってます。やるぞ。【 常闇トワ / ホロライブ 】"
     }
