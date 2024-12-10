@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Q1s4w-_ujig",
         "picture": "https://i.ytimg.com/vi/Q1s4w-_ujig/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733821200,
-        "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \u0026quot;Spectra of Nova\u0026quot;"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \u0026quot;Spectra of Nova\u0026quot;【おおきにアリーナ舞洲】"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
