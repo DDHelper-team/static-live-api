@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ydZUKK-OIDY",
         "picture": "https://i.ytimg.com/vi/ydZUKK-OIDY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733830200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "12月SC點心抽獎｜杏仁瓦片+不同口味的瓦片【Healing希靈/VTuber】"
     },
     {
