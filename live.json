@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733833800,
         "title": "【配信予定地】【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=rypA6BxUoPs",
+        "picture": "https://i.ytimg.com/vi/rypA6BxUoPs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠 / Singing】リクエストルーレット歌枠！！！！【#新人vtuber 】"
     }
 ]
