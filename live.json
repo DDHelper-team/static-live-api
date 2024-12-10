@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iYJtfEEYE04",
         "picture": "https://i.ytimg.com/vi/iYJtfEEYE04/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733847300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】９日目 - 大型慣れしてしもたか【 奏手イヅル / ホロスターズ 】"
     },
     {
