@@ -209,17 +209,6 @@
         "title": "【COLLAB】Austria Travel Talk!!!!! with RiriRaden! 【日本語多め】"
     },
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=rypA6BxUoPs",
-        "picture": "https://i.ytimg.com/vi/rypA6BxUoPs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1733828400,
-        "title": "【歌枠 / Singing】リクエストルーレット歌枠！！！！【#新人vtuber 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -275,17 +264,6 @@
         "title": "【#ミリしらパワプロ杯】人生初パワプロ！！1年目冬・強豪と練習試合！！【ホロライブ/宝鐘マリン】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xGWkrZqJfvk",
-        "picture": "https://i.ytimg.com/vi/xGWkrZqJfvk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #vket2024winter 】Vketに青くんのブースがある！？見に行こう！【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
@@ -310,12 +288,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4aoBGC-rDOk",
         "picture": "https://i.ytimg.com/vi/4aoBGC-rDOk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1733828400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】DAY9｜ 餓狼ｰGAROｰ 残り2日。やれる大型2つ残ってます。やるぞ。【 常闇トワ / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B-DfGRw16xM",
+        "picture": "https://i.ytimg.com/vi/B-DfGRw16xM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733833800,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
     }
 ]
