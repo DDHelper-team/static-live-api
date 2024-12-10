@@ -198,17 +198,6 @@
         "title": "【 #VCRGTA3 】POWER OF GYAU【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iYJtfEEYE04",
-        "picture": "https://i.ytimg.com/vi/iYJtfEEYE04/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #VCRGTA3 】９日目 - 大型慣れしてしもたか【 奏手イヅル / ホロスターズ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733889600,
         "title": "【Mouthwashing】I like mint flavors :D"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=a5CMQnatWcM",
+        "picture": "https://i.ytimg.com/vi/a5CMQnatWcM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733911200,
+        "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！2年目秋～【ホロライブ/兎田ぺこら】"
     }
 ]
