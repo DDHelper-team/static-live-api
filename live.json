@@ -209,17 +209,6 @@
         "title": "【 #VCRGTA3 】９日目 - 大型慣れしてしもたか【 奏手イヅル / ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Z4ZNlnQlTDM",
-        "picture": "https://i.ytimg.com/vi/Z4ZNlnQlTDM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ミリしらパワプロ杯】人生初パワプロ！！1年目冬・強豪と練習試合！！【ホロライブ/宝鐘マリン】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733925600,
         "title": "【 TCG Card Shop Simulator 】最近調子どうですか～～？？【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hngnSiRCgzA",
+        "picture": "https://i.ytimg.com/vi/hngnSiRCgzA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733878800,
+        "title": "Playing with my Jailbirds~ | Liar\u0026#39;s Bar"
     }
 ]
