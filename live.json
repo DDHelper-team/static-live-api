@@ -220,17 +220,6 @@
         "title": "【DRAWING STREAM】CHILL DOODLING STREAM, LET\u0026#39;S DRAW!!【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4aoBGC-rDOk",
-        "picture": "https://i.ytimg.com/vi/4aoBGC-rDOk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #VCRGTA3 】DAY9｜ 餓狼ｰGAROｰ 残り2日。やれる大型2つ残ってます。やるぞ。【 常闇トワ / ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733914800,
         "title": "【 #おにかん1ブロック 】久々のおにかんワンブロ・・・！【百鬼あやめ/鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UdGFGAWhGNM",
+        "picture": "https://i.ytimg.com/vi/UdGFGAWhGNM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733889600,
+        "title": "【Mouthwashing】I like mint flavors :D"
     }
 ]
