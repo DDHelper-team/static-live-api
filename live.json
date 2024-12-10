@@ -220,17 +220,6 @@
         "title": "【歌枠 / Singing】リクエストルーレット歌枠！！！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PTxSMT2YSbM",
-        "picture": "https://i.ytimg.com/vi/PTxSMT2YSbM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Path of Exile 2】empty head, just keep grinding.【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -317,5 +306,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【VCR GTA3】#8 | 私いきます！いきます！【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4aoBGC-rDOk",
+        "picture": "https://i.ytimg.com/vi/4aoBGC-rDOk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733828400,
+        "title": "【 #VCRGTA3 】DAY9｜ 餓狼ｰGAROｰ 残り2日。やれる大型2つ残ってます。やるぞ。【 常闇トワ / ホロライブ 】"
     }
 ]
