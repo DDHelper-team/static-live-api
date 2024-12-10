@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UHLKzZFSPes",
         "picture": "https://i.ytimg.com/vi/UHLKzZFSPes/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733835600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【COLLAB】Austria Travel Talk!!!!! with RiriRaden! 【日本語多め】"
     },
     {
@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1rh2yINMnqc",
         "picture": "https://i.ytimg.com/vi/1rh2yINMnqc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733835600,
-        "title": "【】頑張って帰ってくるぞ～！【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#みこスバ】みこスバ Human Fall Flatやるしゅばあああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -361,5 +361,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】とりあえずクラウドで #07【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j4f-45E9eUw",
+        "picture": "https://i.ytimg.com/vi/j4f-45E9eUw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733922000,
+        "title": "【雜談】100個問題 EP.3 這問題真荒唐💜"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=364dfozwXVs",
+        "picture": "https://i.ytimg.com/vi/364dfozwXVs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Super Bunny Man 】まがまが、スーパーバニーマンになる【 桃鈴ねね / 雪花ラミィ / #まがまが 】"
     }
 ]
