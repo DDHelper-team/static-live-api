@@ -255,11 +255,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=3qG-H0iqdI8",
         "picture": "https://i.ytimg.com/vi/3qG-H0iqdI8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #VCRGTA3 】とりあえずクラウドで #07【影山シエン/ホロスターズ】"
     },
