@@ -220,17 +220,6 @@
         "title": "【歌枠 / Singing】リクエストルーレット歌枠！！！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Q1s4w-_ujig",
-        "picture": "https://i.ytimg.com/vi/Q1s4w-_ujig/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \u0026quot;Spectra of Nova\u0026quot;【おおきにアリーナ舞洲】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -288,34 +277,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z4ZNlnQlTDM",
         "picture": "https://i.ytimg.com/vi/Z4ZNlnQlTDM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733824800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ミリしらパワプロ杯】人生初パワプロ！！1年目冬・強豪と練習試合！！【ホロライブ/宝鐘マリン】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=4aoBGC-rDOk",
-        "picture": "https://i.ytimg.com/vi/4aoBGC-rDOk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1733823000,
-        "title": "【 #VCRGTA3 】DAY9｜ 餓狼ｰGAROｰ 残り2日。やれる大型2つ残ってます。やるぞ。【 常闇トワ / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xGWkrZqJfvk",
         "picture": "https://i.ytimg.com/vi/xGWkrZqJfvk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733824800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #vket2024winter 】Vketに青くんのブースがある！？見に行こう！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -332,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=O01HAHms9Xk",
         "picture": "https://i.ytimg.com/vi/O01HAHms9Xk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733825736,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA3】#8 | 私いきます！いきます！【緋月ゆい/ネオポルテ】"
     }
 ]
