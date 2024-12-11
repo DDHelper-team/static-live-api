@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0zB5yk448sY",
         "picture": "https://i.ytimg.com/vi/0zB5yk448sY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1733878800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MARVEL RIVALS RANK】getting top 500【Dokibird】"
     },
     {
