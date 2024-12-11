@@ -242,25 +242,14 @@
         "title": "【ウツロマユ - Hollow Cocoon -】約束のホラゲーコラボ【ホロライブ / AZKi / 角巻わため】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mS_K6D6k1sM",
-        "picture": "https://i.ytimg.com/vi/mS_K6D6k1sM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【COFFEE CARAVAN】狼のコーヒー屋さんオープンです！【ホロライブ/大神ミオ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Fzn_8bsWZ3M",
         "picture": "https://i.ytimg.com/vi/Fzn_8bsWZ3M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733934600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#KOBORNDAY2024 COUNTDOWN】I\u0026#39;m turning 8 tomorrow! ✨"
     },
     {
@@ -330,17 +319,6 @@
         "title": "【#VCRGTA 3】第十曲_僕が女優になる日【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fRpcyHd7AEE",
-        "picture": "https://i.ytimg.com/vi/fRpcyHd7AEE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOCURE 0.7】LATE NIGHT GACHIKOI!! MAYBE-【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -394,5 +372,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733968800,
         "title": "Girl Failure Rapper Arc【UNARCHIVED KARAOKE: Rebroadcast Feb 8, 2024】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=S2_0ojcTKao",
+        "picture": "https://i.ytimg.com/vi/S2_0ojcTKao/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Balatro】POKER JUMPSCARE【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6mKZkq39wEU",
+        "picture": "https://i.ytimg.com/vi/6mKZkq39wEU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733997600,
+        "title": "【 漢字でGO! 集英社マンガ祭 】先行プレイ！人気マンガの台詞の漢字を読めるのか―――⁉【ホロライブ/さくらみこ】"
     }
 ]
