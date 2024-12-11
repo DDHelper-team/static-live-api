@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WRNfVmcud2I",
         "picture": "https://i.ytimg.com/vi/WRNfVmcud2I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733905800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DRAWING STREAM】CHILL DOODLING STREAM, LET\u0026#39;S DRAW!!【Kureiji Ollie】"
     },
     {
@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733968800,
         "title": "【Resident Evil Village】Please | #6"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Un3oSnfISNY",
+        "picture": "https://i.ytimg.com/vi/Un3oSnfISNY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733918400,
+        "title": "【 #VCRGTA3 】DAY10｜ 餓狼ｰGAROｰ 大型チャレンジしないとまずい。【 常闇トワ / ホロライブ 】"
     }
 ]
