@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=J2OtyMYqk0c",
         "picture": "https://i.ytimg.com/vi/J2OtyMYqk0c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733896800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】#04 ナースのお姉さんにあいにく 花咲みやび/ホロスターズ】【ネタバレあり】"
     },
     {
@@ -361,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733918400,
         "title": "【Apex】最後一次的觀眾場!謝謝大家一直以來的陪玩【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #apex #apexlegends"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Fzn_8bsWZ3M",
+        "picture": "https://i.ytimg.com/vi/Fzn_8bsWZ3M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733934600,
+        "title": "【#KOBORNDAY2024 COUNTDOWN】I\u0026#39;m turning 8 tomorrow! ✨"
     }
 ]
