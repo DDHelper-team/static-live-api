@@ -264,17 +264,6 @@
         "title": "【 #おにかん1ブロック 】久々のおにかんワンブロ・・・！【百鬼あやめ/鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UdGFGAWhGNM",
-        "picture": "https://i.ytimg.com/vi/UdGFGAWhGNM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Mouthwashing】I like mint flavors :D"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733918400,
         "title": "【 #VCRGTA3 】DAY10｜ 餓狼ｰGAROｰ 大型チャレンジしないとまずい。【 常闇トワ / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Sq5WVoMnZLw",
+        "picture": "https://i.ytimg.com/vi/Sq5WVoMnZLw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733910300,
+        "title": "【 #VCRGTA3 】１０日目 - 大型貨物行くぞ【 奏手イヅル / ホロスターズ 】"
     }
 ]
