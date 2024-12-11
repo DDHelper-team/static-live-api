@@ -220,17 +220,6 @@
         "title": "【 TCG Card Shop Simulator 】最近調子どうですか～～？？【ホロライブ / ロボ子さん】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=a5CMQnatWcM",
-        "picture": "https://i.ytimg.com/vi/a5CMQnatWcM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！2年目秋～【ホロライブ/兎田ぺこら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": true,
@@ -330,17 +319,6 @@
         "title": "【 #VCRGTA3 】１０日目 - 大型貨物行くぞ【 奏手イヅル / ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iqREj8RMq8A",
-        "picture": "https://i.ytimg.com/vi/iqREj8RMq8A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】いろいろ話したいけどなんだっけ？　※告知アリ【百鬼あやめ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": true,
@@ -405,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734001200,
         "title": "【#ホロライブサンタバトル】クリスマス企画🎄ホロライブ バトルロワイアル開幕✨説明会【#一条莉々華 #hololive DEV_IS ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bb9m1a3mOfg",
+        "picture": "https://i.ytimg.com/vi/bb9m1a3mOfg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733968800,
+        "title": "Girl Failure Rapper Arc【UNARCHIVED KARAOKE: Rebroadcast Feb 8, 2024】"
     }
 ]
