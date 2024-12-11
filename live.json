@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_PzkaRrKJbU",
-        "picture": "https://i.ytimg.com/vi/_PzkaRrKJbU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BCCoDqZIUC0",
+        "picture": "https://i.ytimg.com/vi/BCCoDqZIUC0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Yakuza 4≫ BALLS OUT. #3【SPOILER WARNING】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733965200,
+        "title": "≪KARAOKE・歌枠≫ Hakos Baelz One Million Endurance || １００万耐久配信!!! #BaeMillion"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733911200,
         "title": "#01【ネタバレが激しすぎるRPG2】大人気ネタバレシリーズの2作目！12月14日の発売前に先行プレイしちゃいますッ🎮✨【白銀ノエル/ホロライブ】※ネタバレ注意！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UHXxBnz2Lqc",
+        "picture": "https://i.ytimg.com/vi/UHXxBnz2Lqc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733889600,
+        "title": "【Path of Exile 2】First time playing!【Moona Hoshinova】"
     }
 ]
