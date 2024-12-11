@@ -297,17 +297,6 @@
         "title": "【COFFEE CARAVAN】狼のコーヒー屋さんオープンです！【ホロライブ/大神ミオ】"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QQi9aJq2Bng",
-        "picture": "https://i.ytimg.com/vi/QQi9aJq2Bng/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【初オフコラボ】クロヱ先輩が1年越しに…きたあああ！！ポケモンオリパをかけてクロヱ先輩と爆弾解除！！Keep Talking and Nobody Explodes【一条莉々華/hololive 】"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": false,
@@ -427,5 +416,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733918400,
         "title": "【雑談】いろいろ話したいけどなんだっけ？　※告知アリ【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QqN53FB1XOQ",
+        "picture": "https://i.ytimg.com/vi/QqN53FB1XOQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733922900,
+        "title": "【 -`🎙 歌枠/Singing 】お鍋がおいしい季節です sing and talk【獅子神レオナ/Re:AcT】"
     }
 ]
