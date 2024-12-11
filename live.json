@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UdGFGAWhGNM",
         "picture": "https://i.ytimg.com/vi/UdGFGAWhGNM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733889600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Mouthwashing】I like mint flavors :D"
     },
     {
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UHXxBnz2Lqc",
         "picture": "https://i.ytimg.com/vi/UHXxBnz2Lqc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733889600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Path of Exile 2】First time playing!【Moona Hoshinova】"
     },
     {
