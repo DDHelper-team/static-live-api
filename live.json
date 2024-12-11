@@ -253,17 +253,6 @@
         "title": "【 TCG Card Shop Simulator 】最近調子どうですか～～？？【ホロライブ / ロボ子さん】"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hngnSiRCgzA",
-        "picture": "https://i.ytimg.com/vi/hngnSiRCgzA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Playing with my Jailbirds~ | Liar\u0026#39;s Bar"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1733889600,
         "title": "【Path of Exile 2】First time playing!【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pwRYe0ljKoA",
+        "picture": "https://i.ytimg.com/vi/pwRYe0ljKoA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733922000,
+        "title": "【ウツロマユ - Hollow Cocoon -】約束のホラゲーコラボ【ホロライブ / AZKi / 角巻わため】"
     }
 ]
