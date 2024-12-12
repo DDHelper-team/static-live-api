@@ -420,12 +420,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RjD-VS2wm7g",
         "picture": "https://i.ytimg.com/vi/RjD-VS2wm7g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733995800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】１１日目 - 最終日 余暇【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Sy_LQVAO-0Y",
+        "picture": "https://i.ytimg.com/vi/Sy_LQVAO-0Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734004800,
+        "title": "【休播】生日變忌日✨今天過後直播活動就休止了【盆栽工作室/玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #雜談"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_rSdn71PTWA",
+        "picture": "https://i.ytimg.com/vi/_rSdn71PTWA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734012000,
+        "title": "配信予定～～～～！！！！待ってたでしょ～？【ホロライブ/紫咲シオン】"
     }
 ]
