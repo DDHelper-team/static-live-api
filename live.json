@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bhheogcupqA",
         "picture": "https://i.ytimg.com/vi/bhheogcupqA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1733997618,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VCR GTA3】#10 | 最終日に歌う…!?🎤【緋月ゆい/ネオポルテ】"
     },
     {
@@ -438,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734003000,
         "title": "【#VCRGTA 3】最終曲_僕が大女優さ！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=w-wsjoUgFQk",
+        "picture": "https://i.ytimg.com/vi/w-wsjoUgFQk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734003000,
+        "title": "【 #VCRGTA3 】最終日｜ ありがとう餓狼。【 常闇トワ / ホロライブ 】"
     }
 ]
