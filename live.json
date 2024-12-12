@@ -264,17 +264,6 @@
         "title": "【#ホロライブサンタバトル】クリスマス企画🎄ホロライブ バトルロワイアル開幕✨説明会【#一条莉々華 #hololive DEV_IS ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bb9m1a3mOfg",
-        "picture": "https://i.ytimg.com/vi/bb9m1a3mOfg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Girl Failure Rapper Arc【UNARCHIVED KARAOKE: Rebroadcast Feb 8, 2024】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734006600,
         "title": "【#KOBORNDAY2024】YIPPIE!!!!!!!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CcfxuMaAZ9M",
+        "picture": "https://i.ytimg.com/vi/CcfxuMaAZ9M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733979600,
+        "title": "【Get To Work】poor bald struggling and need to work. ig this is lyfe.【Kaela Kovalskia / hololiveID】"
     }
 ]
