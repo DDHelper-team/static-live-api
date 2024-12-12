@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lgpmoX19QPc",
         "picture": "https://i.ytimg.com/vi/lgpmoX19QPc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734012000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【深夜の雑談】ライブ２連続前にみんなと話したり～【ホロライブ/大神ミオ】"
     },
     {
@@ -376,13 +376,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_rSdn71PTWA",
         "picture": "https://i.ytimg.com/vi/_rSdn71PTWA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734012000,
-        "title": "配信予定～～～～！！！！待ってたでしょ～？【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】さて色々話しますか・・・！！ライブありがとう！【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
@@ -449,5 +449,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "ボイトレ行って学びを得た歌枠【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=t1jFZhHzb5o",
+        "picture": "https://i.ytimg.com/vi/t1jFZhHzb5o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】ゲリラ配信！まいたけダンスネット流行語大賞2024金賞……！？【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
