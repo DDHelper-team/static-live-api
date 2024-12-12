@@ -332,23 +332,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qJ1Qa9OGhTc",
-        "picture": "https://i.ytimg.com/vi/qJ1Qa9OGhTc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lTFLQ492iMs",
+        "picture": "https://i.ytimg.com/vi/lTFLQ492iMs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MARVEL RIVALS RANK】top 500【Dokibird】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734057000,
+        "title": "【VOICE REQUESTS + ANNOUNCEMENT】get your custom voice packs here【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=z4ZLrg4f6C0",
         "picture": "https://i.ytimg.com/vi/z4ZLrg4f6C0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734044400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Silent Hill 2】 Silent Hill isn\u0026#39;t so silent anymore with all this yapping (spoilers)"
     }
 ]
