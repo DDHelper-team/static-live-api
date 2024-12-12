@@ -244,13 +244,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yyqMwVoj2Ko",
-        "picture": "https://i.ytimg.com/vi/yyqMwVoj2Ko/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5xeFo4XnEiM",
+        "picture": "https://i.ytimg.com/vi/5xeFo4XnEiM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【近況公告】關於最近的一些事情...想跟你們說明一下😢"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734094800,
+        "title": "【歌雜】🎵 星期五了... 希望大家可以開開心心迎接假日！ *可點歌單的歌"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -297,17 +297,6 @@
         "title": "【HOLOLIVE TREASURE MOUNTAIN】UNLOCKING EVERY SINGLE TREASURE AKA HOLOMEMS HEAD!!【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/@KoboKanaeru",
-        "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IYyaKpi9GkE",
-        "picture": "https://i.ytimg.com/vi/IYyaKpi9GkE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#KOBORNDAY2024】YIPPIE!!!!!!!!!"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "islive": false,
@@ -317,17 +306,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734069600,
         "title": "【Balatro】Roguelike Card Game Goes Brrrrrrr 【hololive ID 2nd Generation | Anya Melfissa】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lgpmoX19QPc",
-        "picture": "https://i.ytimg.com/vi/lgpmoX19QPc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【深夜の雑談】ライブ２連続前にみんなと話したり～【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
