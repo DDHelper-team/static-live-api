@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MEag6z71gjA",
         "picture": "https://i.ytimg.com/vi/MEag6z71gjA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733997600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 nosh ナッシュ 】一緒に糖質ランキングを当てよう！当たったらわためぇにご褒美が！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6mKZkq39wEU",
         "picture": "https://i.ytimg.com/vi/6mKZkq39wEU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733997600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 漢字でGO! 集英社マンガ祭 】先行プレイ！人気マンガの台詞の漢字を読めるのか―――⁉【ホロライブ/さくらみこ】"
     },
     {
@@ -286,26 +286,15 @@
         "title": "【近況公告】關於最近的一些事情...想跟你們說明一下😢"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0OtOMatkSeg",
-        "picture": "https://i.ytimg.com/vi/0OtOMatkSeg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MARVEL RIVALS RANK】no bait getting top 500 REAL【Dokibird】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=499fIIn4cEY",
         "picture": "https://i.ytimg.com/vi/499fIIn4cEY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733997600,
-        "title": "#5【#ミリしらパワプロ杯】初めてのパワプロ⚾春の甲子園は確定太郎！スカウトでつよつよ投手きてくれ～TT【白銀ノエル/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "#5【#ミリしらパワプロ杯】初めてのパワプロ⚾春の甲子園は確定太郎！スカウトでつよつよ投手＆内野きてくれ～TT【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Hakuzen0025",
@@ -339,17 +328,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734055200,
         "title": "【HOLOLIVE TREASURE MOUNTAIN】UNLOCKING EVERY SINGLE TREASURE AKA HOLOMEMS HEAD!!【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2fH0R8Gc2qs",
-        "picture": "https://i.ytimg.com/vi/2fH0R8Gc2qs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】そういやどうなった？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
@@ -413,7 +391,7 @@
         "link": "https://www.youtube.com/watch?v=bhheogcupqA",
         "picture": "https://i.ytimg.com/vi/bhheogcupqA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1733997618,
         "title": "【VCR GTA3】#10 | 最終日に歌う…!?🎤【緋月ゆい/ネオポルテ】"
     },
@@ -449,5 +427,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734012000,
         "title": "配信予定～～～～！！！！待ってたでしょ～？【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iPmbMNAlOUo",
+        "picture": "https://i.ytimg.com/vi/iPmbMNAlOUo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734003000,
+        "title": "【#VCRGTA 3】最終曲_僕が大女優さ！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
