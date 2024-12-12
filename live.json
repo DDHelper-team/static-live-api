@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HDU4MIIophE",
         "picture": "https://i.ytimg.com/vi/HDU4MIIophE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734001200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロライブサンタバトル】クリスマス企画🎄ホロライブ バトルロワイアル開幕✨説明会【#一条莉々華 #hololive DEV_IS ReGLOSS】"
     },
     {
@@ -332,13 +332,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DP2UsGdsANU",
         "picture": "https://i.ytimg.com/vi/DP2UsGdsANU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734001200,
-        "title": "【ソロライブ新衣装お披露目！】ソロライブ振り返り！！！【ホロライブ/宝鐘マリン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ソロライブ新衣装お披露目！】ソロライブ振り返り！！FNS歌謡祭もありがとう！フラスタやファンの推し活、思い出！【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
@@ -350,17 +350,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734006600,
         "title": "【#KOBORNDAY2024】YIPPIE!!!!!!!!!"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CcfxuMaAZ9M",
-        "picture": "https://i.ytimg.com/vi/CcfxuMaAZ9M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Get To Work】poor bald struggling and need to work. ig this is lyfe.【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -449,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734003000,
         "title": "【 #VCRGTA3 】最終日｜ ありがとう餓狼。【 常闇トワ / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d4l17lJKhDE",
+        "picture": "https://i.ytimg.com/vi/d4l17lJKhDE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734087600,
+        "title": "【 ＃百鬼あやめ生誕祭2024】Dream Festival‼ ～Nakiriayame 7th BirthDay～【百鬼あやめ/ホロライブ】"
     }
 ]
