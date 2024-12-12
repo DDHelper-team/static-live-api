@@ -420,12 +420,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=w-wsjoUgFQk",
         "picture": "https://i.ytimg.com/vi/w-wsjoUgFQk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734003000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #VCRGTA3 】最終日｜ ありがとう餓狼。【 常闇トワ / ホロライブ 】"
     },
     {
