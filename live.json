@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6o5QWUmMstw",
         "picture": "https://i.ytimg.com/vi/6o5QWUmMstw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733968800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Resident Evil Village】Please | #6"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bb9m1a3mOfg",
         "picture": "https://i.ytimg.com/vi/bb9m1a3mOfg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733968800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Girl Failure Rapper Arc【UNARCHIVED KARAOKE: Rebroadcast Feb 8, 2024】"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0OtOMatkSeg",
         "picture": "https://i.ytimg.com/vi/0OtOMatkSeg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1733965200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MARVEL RIVALS RANK】no bait getting top 500 REAL【Dokibird】"
     },
     {
@@ -341,17 +341,6 @@
         "title": "#5【#ミリしらパワプロ杯】初めてのパワプロ⚾春の甲子園は確定太郎！スカウトでつよつよ投手きてくれ～TT【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OHIPvmXN42w",
-        "picture": "https://i.ytimg.com/vi/OHIPvmXN42w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Emberward】 Highly rated roguelite tower defense!"
-    },
-    {
         "channel": "https://www.youtube.com/@Hakuzen0025",
         "channellink": "https://www.youtube.com/@Hakuzen0025",
         "islive": false,
@@ -361,5 +350,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734004800,
         "title": "『雜談 』好久不見，乃聊天啊！【久田はくぜん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yVCzxBigdyU",
+        "picture": "https://i.ytimg.com/vi/yVCzxBigdyU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734055200,
+        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】happy bday to our ultimate idol momoi haruko ♪ #FWMCbeats【桃井はるこ曲縛り】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=x5mr0wuD9TI",
+        "picture": "https://i.ytimg.com/vi/x5mr0wuD9TI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734055200,
+        "title": "【HOLOLIVE TREASURE MOUNTAIN】UNLOCKING EVERY SINGLE TREASURE AKA HOLOMEMS HEAD!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2fH0R8Gc2qs",
+        "picture": "https://i.ytimg.com/vi/2fH0R8Gc2qs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1733983200,
+        "title": "【 Minecraft 】そういやどうなった？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
