@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2fH0R8Gc2qs",
         "picture": "https://i.ytimg.com/vi/2fH0R8Gc2qs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733983200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】そういやどうなった？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -383,5 +383,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Get To Work】poor bald struggling and need to work. ig this is lyfe.【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XVT0jZ0JKm4",
+        "picture": "https://i.ytimg.com/vi/XVT0jZ0JKm4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734069600,
+        "title": "【Balatro】Roguelike Card Game Goes Brrrrrrr 【hololive ID 2nd Generation | Anya Melfissa】"
     }
 ]
