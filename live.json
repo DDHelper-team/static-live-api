@@ -277,13 +277,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JGMH_nSOEBw",
-        "picture": "https://i.ytimg.com/vi/JGMH_nSOEBw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6UOTWY0cWn0",
+        "picture": "https://i.ytimg.com/vi/6UOTWY0cWn0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Path Of Exile 2】TOAD PORTAL TOAD PORTAL TOAD PORTAL #kfp #キアライブ"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734116400,
+        "title": "【STREAM】streamstream #stream"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
