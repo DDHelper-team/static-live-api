@@ -209,17 +209,6 @@
         "title": "【Mundaun】Making My Way Downtown | END"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MEag6z71gjA",
-        "picture": "https://i.ytimg.com/vi/MEag6z71gjA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 nosh ナッシュ 】一緒に糖質ランキングを当てよう！当たったらわためぇにご褒美が！【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -420,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iPmbMNAlOUo",
         "picture": "https://i.ytimg.com/vi/iPmbMNAlOUo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734003000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#VCRGTA 3】最終曲_僕が大女優さ！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -449,5 +438,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734087600,
         "title": "【 ＃百鬼あやめ生誕祭2024】Dream Festival‼ ～Nakiriayame 7th BirthDay～【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JGMH_nSOEBw",
+        "picture": "https://i.ytimg.com/vi/JGMH_nSOEBw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734022800,
+        "title": "【Path Of Exile 2】TOAD PORTAL TOAD PORTAL TOAD PORTAL #kfp #キアライブ"
     }
 ]
