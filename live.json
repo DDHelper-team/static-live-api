@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BCCoDqZIUC0",
         "picture": "https://i.ytimg.com/vi/BCCoDqZIUC0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733965200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪KARAOKE・歌枠≫ Hakos Baelz One Million Endurance || １００万耐久配信!!! #BaeMillion"
     },
     {
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Mp9vl1UDFrY",
         "picture": "https://i.ytimg.com/vi/Mp9vl1UDFrY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733965200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Can @holoen_raorapanthera and I handle the STRESS? | Overcooked! 2"
     },
     {
@@ -325,9 +325,9 @@
         "link": "https://www.youtube.com/watch?v=0OtOMatkSeg",
         "picture": "https://i.ytimg.com/vi/0OtOMatkSeg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1733965200,
-        "title": "【MARVEL RIVALS RANK】no bait we are getting top 500 REAL【Dokibird】"
+        "title": "【MARVEL RIVALS RANK】no bait getting top 500 REAL【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
