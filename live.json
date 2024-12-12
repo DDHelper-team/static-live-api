@@ -200,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6o5QWUmMstw",
-        "picture": "https://i.ytimg.com/vi/6o5QWUmMstw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ci07bVNXYKU",
+        "picture": "https://i.ytimg.com/vi/ci07bVNXYKU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Resident Evil Village】Please | #6"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734062400,
+        "title": "【Mundaun】Making My Way Downtown | END"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
