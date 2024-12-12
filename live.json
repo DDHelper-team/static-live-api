@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CcfxuMaAZ9M",
         "picture": "https://i.ytimg.com/vi/CcfxuMaAZ9M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1733979600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Get To Work】poor bald struggling and need to work. ig this is lyfe.【Kaela Kovalskia / hololiveID】"
     }
 ]
