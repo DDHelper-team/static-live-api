@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6UOTWY0cWn0",
         "picture": "https://i.ytimg.com/vi/6UOTWY0cWn0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734116400,
-        "title": "【STREAM】streamstream #stream"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Duck Detective】looking for the salami (aah the pepeloni) #stream"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
