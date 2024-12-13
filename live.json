@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZzPnpg2f9Ws",
         "picture": "https://i.ytimg.com/vi/ZzPnpg2f9Ws/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734084000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】イナズマイレブン フットボールフロンティア編をみんなで観るにぇ！！！⚽⚡【ホロライブ/さくらみこ】"
     },
     {
@@ -310,23 +310,23 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aGg5QK9yuPE",
         "picture": "https://i.ytimg.com/vi/aGg5QK9yuPE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734084000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Don\u0026#39;t Scream 】恐怖？とっくのとうに食べました。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eB_t2ddQ-x0",
         "picture": "https://i.ytimg.com/vi/eB_t2ddQ-x0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734084000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】つあー（おおさか）のふりかえりする( ᐛ )🍌※セトリネタバレあり【 星街すいせい / ホロライブ 】"
     },
     {
