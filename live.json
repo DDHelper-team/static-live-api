@@ -383,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734138000,
         "title": "I may be sick but at least I have a cat | Yapping"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=shJvFcCK7RM",
+        "picture": "https://i.ytimg.com/vi/shJvFcCK7RM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734134400,
+        "title": "【Path of Exile 2】Biboo yearns for the grind"
     }
 ]
