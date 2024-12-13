@@ -319,17 +319,6 @@
         "title": "【ネタバレあり】Little Nightmares2！初見でいくぞ！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7ay-rjAQYnk",
-        "picture": "https://i.ytimg.com/vi/7ay-rjAQYnk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#フブキch】フブキングダムへの納税者発表会＆ソロライブ最新情報！！【ホロライブ/白上フブキ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": true,
@@ -365,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vxA5t265kI0",
         "picture": "https://i.ytimg.com/vi/vxA5t265kI0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734095700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#8【Persona 3 Reload: Episode Aigis】aigis 🤤🤤🤤🤤🤤🤤  (SPOILERS!)【Pavolia Reine】"
     },
     {
@@ -416,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734141600,
         "title": "#6【#ミリしらパワプロ杯】初めてのパワプロ⚾転生2人？！つよつよ新入生と一緒に夏の甲子園目指すぞ🔥【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=GKEckGpQqC0",
+        "picture": "https://i.ytimg.com/vi/GKEckGpQqC0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#shorts 】新ビジュ初縦型歌枠♪"
     }
 ]
