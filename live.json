@@ -398,12 +398,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vW5VW2RGZlU",
         "picture": "https://i.ytimg.com/vi/vW5VW2RGZlU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734130800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "SINGING KIRIN BLESSES YOU WITH GOOD LUCK UPON THIS DAY (unarchived karaoke)"
     }
 ]
