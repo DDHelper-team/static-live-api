@@ -244,13 +244,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=x5mr0wuD9TI",
-        "picture": "https://i.ytimg.com/vi/x5mr0wuD9TI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Umml7vsimiw",
+        "picture": "https://i.ytimg.com/vi/Umml7vsimiw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLOLIVE TREASURE MOUNTAIN】UNLOCKING EVERY SINGLE TREASURE AKA HOLOMEMS HEAD!!【Kureiji Ollie】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734094800,
+        "title": "【hololive Official Card Game UNBOXING】HANDCAM: HOLOLIVE CARD PULLS!! IKZ BREWEK【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -339,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734084000,
         "title": "【 Don\u0026#39;t Scream 】恐怖？とっくのとうに食べました。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eB_t2ddQ-x0",
+        "picture": "https://i.ytimg.com/vi/eB_t2ddQ-x0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734084000,
+        "title": "【雑談】つあー（おおさか）のふりかえりする( ᐛ )🍌※セトリネタバレあり【 星街すいせい / ホロライブ 】"
     }
 ]
