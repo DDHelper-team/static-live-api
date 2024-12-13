@@ -198,17 +198,6 @@
         "title": "【 #VCRGTA3 】とりあえずクラウドで #07【影山シエン/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ci07bVNXYKU",
-        "picture": "https://i.ytimg.com/vi/ci07bVNXYKU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Mundaun】Making My Way Downtown | END"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -260,7 +249,7 @@
         "picture": "https://i.ytimg.com/vi/XVT0jZ0JKm4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1734076800,
+        "timestamp": 1734080400,
         "title": "【Balatro】Roguelike Card Game Goes Brrrrrrr 【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
@@ -383,5 +372,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734091200,
         "title": "【Balatro】YES YES BEST INDIE GAME OF THE YEAR 2024 BABYYYYYYYYY【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wKMeQmTtB6s",
+        "picture": "https://i.ytimg.com/vi/wKMeQmTtB6s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734138000,
+        "title": "【Luma Island】Chill But Grind With @KaelaKovalskia"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jdWUg1bNjso",
+        "picture": "https://i.ytimg.com/vi/jdWUg1bNjso/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734091200,
+        "title": "【ネタバレあり】Little Nightmares2！初見でいくぞ！【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
