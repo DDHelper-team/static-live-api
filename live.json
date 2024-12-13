@@ -365,12 +365,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XVAd7lixNzg",
         "picture": "https://i.ytimg.com/vi/XVAd7lixNzg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734073200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Balatro】Balatro is love balatro is life【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2yPJDg1sjJY",
+        "picture": "https://i.ytimg.com/vi/2yPJDg1sjJY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734091200,
+        "title": "【Balatro】YES YES BEST INDIE GAME OF THE YEAR 2024 BABYYYYYYYYY【Kaela Kovalskia / hololiveID】"
     }
 ]
