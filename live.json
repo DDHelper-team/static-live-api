@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5xeFo4XnEiM",
         "picture": "https://i.ytimg.com/vi/5xeFo4XnEiM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734094800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌雜】🎵 星期五了... 希望大家可以開開心心迎接假日！ *可點歌單的歌"
     },
     {
@@ -222,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Umml7vsimiw",
         "picture": "https://i.ytimg.com/vi/Umml7vsimiw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734094800,
-        "title": "【hololive Official Card Game UNBOXING】HANDCAM: HOLOLIVE CARD PULLS!! IKZ BREWEK【Kureiji Ollie】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【hololive Official Card Game UNBOXING】HANDCAM: CAN WE PULL SOME RARE CARDS???【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l1jZRDNPiUM",
         "picture": "https://i.ytimg.com/vi/l1jZRDNPiUM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734094800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#3】ジョジョの奇妙な冒険 ダイヤモンドは砕けない 同時視聴しゅばあああああああああああ！！！ :jojo part4 watching party【ホロライブ/大空スバル】"
     },
     {
@@ -370,7 +370,7 @@
         "picture": "https://i.ytimg.com/vi/vxA5t265kI0/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1734094800,
+        "timestamp": 1734095700,
         "title": "#8【Persona 3 Reload: Episode Aigis】aigis 🤤🤤🤤🤤🤤🤤  (SPOILERS!)【Pavolia Reine】"
     },
     {
@@ -405,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734177600,
         "title": "『生病還是要雜談 』今天聲音會變怎樣呢？【久田はくぜん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QWByhNTS-WY",
+        "picture": "https://i.ytimg.com/vi/QWByhNTS-WY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734141600,
+        "title": "#6【#ミリしらパワプロ杯】初めてのパワプロ⚾転生2人？！つよつよ新入生と一緒に夏の甲子園目指すぞ🔥【白銀ノエル/ホロライブ】"
     }
 ]
