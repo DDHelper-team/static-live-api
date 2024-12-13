@@ -299,13 +299,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=l1jZRDNPiUM",
-        "picture": "https://i.ytimg.com/vi/l1jZRDNPiUM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=M8CwyRvBMy8",
+        "picture": "https://i.ytimg.com/vi/M8CwyRvBMy8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#3】ジョジョの奇妙な冒険 ダイヤモンドは砕けない 同時視聴しゅばあああああああああああ！！！ :jojo part4 watching party【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734138000,
+        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -347,7 +347,7 @@
         "link": "https://www.youtube.com/watch?v=eSJkoCsQ1Ow",
         "picture": "https://i.ytimg.com/vi/eSJkoCsQ1Ow/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1734105600,
         "title": "【Path of Exile 2】Let\u0026#39;s just play this game a lil bit shorter【Moona Hoshinova】"
     },
