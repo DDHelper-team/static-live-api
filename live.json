@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xpHuBF0kKTQ",
         "picture": "https://i.ytimg.com/vi/xpHuBF0kKTQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734060600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SILENT HILL 2】#05 最近は物理で全てを解決できるんじゃないかって思えてきた【花咲みやび/ホロスターズ】【ネタバレあり】"
     },
     {
