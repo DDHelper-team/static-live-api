@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rqZlnmqOBFA",
         "picture": "https://i.ytimg.com/vi/rqZlnmqOBFA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734141600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【WOBBLEDOGS】raise and customize our own pet dogs down to their gut biome 🐾【FUWAMOCO】"
     },
     {
@@ -255,13 +255,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=M8CwyRvBMy8",
-        "picture": "https://i.ytimg.com/vi/M8CwyRvBMy8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=85DO0LKaNho",
+        "picture": "https://i.ytimg.com/vi/85DO0LKaNho/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734148800,
+        "title": "【#5】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QWByhNTS-WY",
         "picture": "https://i.ytimg.com/vi/QWByhNTS-WY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734141600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#6【#ミリしらパワプロ杯】初めてのパワプロ⚾転生2人？！つよつよ新入生と一緒に夏の甲子園目指すぞ🔥【白銀ノエル/ホロライブ】"
     },
     {
@@ -383,5 +383,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Path of Exile 2】Biboo yearns for the grind"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tvQQoE1yvh8",
+        "picture": "https://i.ytimg.com/vi/tvQQoE1yvh8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734174000,
+        "title": "【Rebroadcast KARAOKE】KPOP! NewJeans 뉴진스 and K/DA (and Twice)【Unarchived】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UpUimse3vfI",
+        "picture": "https://i.ytimg.com/vi/UpUimse3vfI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734177600,
+        "title": "【#ミリしらパワプロ杯】人生初パワプロ！！2年目秋大会！！フレアが世界MVPとなり負けるわけがない──【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2MZg41zGAig",
+        "picture": "https://i.ytimg.com/vi/2MZg41zGAig/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734148800,
+        "title": "【漢字でGO! 集英社マンガ祭】読みたい漢字がそこにある！！！！【ホロライブ/白上フブキ】"
     }
 ]
