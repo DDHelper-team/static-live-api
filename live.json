@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lYV2G0JBd3g",
         "picture": "https://i.ytimg.com/vi/lYV2G0JBd3g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734179400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings: Influencer Showmatch】321... SHOWTIME!"
     },
     {
@@ -350,5 +350,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734181203,
         "title": "【歌枠】明日は…ライブ出演だ🎤【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=D2QbZCiqk6U",
+        "picture": "https://i.ytimg.com/vi/D2QbZCiqk6U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Minecraft 】最新バイオームへ探検にいくぜよ‼にぇ～～～～～～‼【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DrZW5_ul0nU",
+        "picture": "https://i.ytimg.com/vi/DrZW5_ul0nU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734181200,
+        "title": "【Honor of Kings: Influencer Showmatch】MAIN SALJU SAMA BANG TARA DAN BANG ALDI 😁🤙"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=m2g7nMtdjD4",
+        "picture": "https://i.ytimg.com/vi/m2g7nMtdjD4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734224400,
+        "title": "【朝活雑談】2週間分のお喋りをしたい💪🌞💪13時からパワプロもよろしゅ！【白銀ノエル/ホロライブ】"
     }
 ]
