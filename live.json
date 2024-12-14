@@ -211,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=j32H8hC0CbY",
-        "picture": "https://i.ytimg.com/vi/j32H8hC0CbY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZlOAyrZCNdU",
+        "picture": "https://i.ytimg.com/vi/ZlOAyrZCNdU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fortnite】フォートナイトに5vs5のモードができたらしい #ホロ悪友コンビ【獅白ぼたん/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734256800,
+        "title": "【告知あります！】#獅白ぼたん新衣装2024 KAWAII新衣装とクリスマスを倒す告知【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -289,12 +289,12 @@
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=O7xhZ1fKrYc",
-        "picture": "https://i.ytimg.com/vi/O7xhZ1fKrYc/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734184800,
-        "title": "配信予定～～～～～！！！ばぁ！！【ホロライブ/紫咲シオン】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
@@ -363,17 +363,6 @@
         "title": "【朝活雑談】2週間分のお喋りをしたい💪🌞💪13時からパワプロもよろしゅ！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vlgirb0EGhQ",
-        "picture": "https://i.ytimg.com/vi/vlgirb0EGhQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Fortnite 】フォトナ、建築なしの5vs5のモードできたらしい！ししろつれてこｗ【 桃鈴ねね / 獅白ぼたん / #ホロ悪友コンビ 】"
-    },
-    {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
         "islive": false,
@@ -398,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=C-Js66Nus-U",
         "picture": "https://i.ytimg.com/vi/C-Js66Nus-U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734184800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠archived karaoke】chill song guerrilla singing【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
