@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JzokmZpAjiA",
         "picture": "https://i.ytimg.com/vi/JzokmZpAjiA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734151500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Balatro】i have...... 4 hours? maybe...?【Kaela Kovalskia / hololiveID】"
     }
 ]
