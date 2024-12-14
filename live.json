@@ -198,17 +198,6 @@
         "title": "【 #VCRGTA3 】とりあえずクラウドで #07【影山シエン/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rqZlnmqOBFA",
-        "picture": "https://i.ytimg.com/vi/rqZlnmqOBFA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【WOBBLEDOGS】raise and customize our own pet dogs down to their gut biome 🐾【FUWAMOCO】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
@@ -218,28 +207,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734165000,
         "title": "【LOST BUT FOUND】I FOUND THE LOST!! ER, LOST THE FOUND??【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=h4G3yA4eRXQ",
-        "picture": "https://i.ytimg.com/vi/h4G3yA4eRXQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Luma Island】KRONII, there\u0026#39;s fishing in this game and this game is super chill!【Timesmith】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wKMeQmTtB6s",
-        "picture": "https://i.ytimg.com/vi/wKMeQmTtB6s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Luma Island】Chill But Grind With @KaelaKovalskia"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -255,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=85DO0LKaNho",
         "picture": "https://i.ytimg.com/vi/85DO0LKaNho/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734148800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#5】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     },
     {
@@ -358,7 +325,7 @@
         "link": "https://www.youtube.com/watch?v=-Y9alNXTay8",
         "picture": "https://i.ytimg.com/vi/-Y9alNXTay8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1734148800,
         "title": "【HoloCure】ホロキュアに追加された、上にめちゃくちゃ飛んでいくゲーム。する。クリアしたい。【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
@@ -398,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2MZg41zGAig",
         "picture": "https://i.ytimg.com/vi/2MZg41zGAig/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734148800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【漢字でGO! 集英社マンガ祭】読みたい漢字がそこにある！！！！【ホロライブ/白上フブキ】"
     }
 ]
