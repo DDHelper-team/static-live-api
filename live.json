@@ -308,17 +308,6 @@
         "title": "【歌枠】明日は…ライブ出演だ🎤【緋月ゆい/ネオポルテ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=D2QbZCiqk6U",
-        "picture": "https://i.ytimg.com/vi/D2QbZCiqk6U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】最新バイオームへ探検にいくぜよ‼にぇ～～～～～～‼【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
         "islive": true,
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zR6Xk3scLbE",
         "picture": "https://i.ytimg.com/vi/zR6Xk3scLbE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734188400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】眠らない獅子は歌を紡ぐ。 【獅子神レオナ/Re:AcT】"
     },
     {
