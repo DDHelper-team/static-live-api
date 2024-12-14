@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AF5aTxHFrCk",
         "picture": "https://i.ytimg.com/vi/AF5aTxHFrCk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734145200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "♯２【ネタバレあり】Little Nightmares2！初見でいくぞ！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LL-DYyut6BY",
         "picture": "https://i.ytimg.com/vi/LL-DYyut6BY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734145200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨新バージョンの冒険へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -361,17 +361,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734148800,
         "title": "【HoloCure】ホロキュアに追加された、上にめちゃくちゃ飛んでいくゲーム。する。クリアしたい。【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=klFu3BgGgGg",
-        "picture": "https://i.ytimg.com/vi/klFu3BgGgGg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "I may be sick but at least I have a cat | Yapping"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
