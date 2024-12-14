@@ -242,17 +242,6 @@
         "title": "【 ミニ四駆 】ペンギンしゃん作るのらああああ！！！🐧 MAKING MINI 4WD PENGUIN RACER　第３回【姫森ルーナ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tvQQoE1yvh8",
-        "picture": "https://i.ytimg.com/vi/tvQQoE1yvh8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Rebroadcast KARAOKE】KPOP! NewJeans 뉴진스 and K/DA (and Twice)【Unarchived】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "islive": true,
@@ -394,5 +383,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734188400,
         "title": "【 -`🎙 歌枠/Singing 】眠らない獅子は歌を紡ぐ。 【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sPfe86M5tls",
+        "picture": "https://i.ytimg.com/vi/sPfe86M5tls/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734267600,
+        "title": "【雑談】色々話したいネタ、ある！！！！！🥰【一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
