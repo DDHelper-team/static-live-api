@@ -211,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j32H8hC0CbY",
         "picture": "https://i.ytimg.com/vi/j32H8hC0CbY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734181200,
-        "title": "【Fortnite】フォートナイトに5vs5のモードができたらしい #ねねぼた【獅白ぼたん/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Fortnite】フォートナイトに5vs5のモードができたらしい #ホロ悪友コンビ【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -277,24 +277,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rKJ6ZP168P4",
         "picture": "https://i.ytimg.com/vi/rKJ6ZP168P4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734181200,
-        "title": "【歌枠】J-POP・アニソン・キャラソン！好きな曲を歌う！Singing Stream【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-s7_EV3e-tA",
-        "picture": "https://i.ytimg.com/vi/-s7_EV3e-tA/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【同時視聴】Riot Games ONE 2024 Offline Day x Watch Party【百鬼あやめ/ホロライブ】"
+        "title": "【歌枠】J-POP・アニソン・キャラソン！好きな曲を歌う！Singing Stream【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -304,7 +293,7 @@
         "picture": "https://i.ytimg.com/vi/zalP4voi9zA/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1734181200,
+        "timestamp": 1734183000,
         "title": "【＃最終回】SIRENするしゅばあああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】"
     },
     {
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BFa9XRiw-aQ",
         "picture": "https://i.ytimg.com/vi/BFa9XRiw-aQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734181203,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】明日は…ライブ出演だ🎤【緋月ゆい/ネオポルテ】"
     },
     {
@@ -365,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DrZW5_ul0nU",
         "picture": "https://i.ytimg.com/vi/DrZW5_ul0nU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734181200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Honor of Kings: Influencer Showmatch】MAIN SALJU SAMA BANG TARA DAN BANG ALDI 😁🤙"
     },
     {
@@ -383,5 +372,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734224400,
         "title": "【朝活雑談】2週間分のお喋りをしたい💪🌞💪13時からパワプロもよろしゅ！【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=vlgirb0EGhQ",
+        "picture": "https://i.ytimg.com/vi/vlgirb0EGhQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Fortnite 】フォトナ、建築なしの5vs5のモードできたらしい！ししろつれてこｗ【 桃鈴ねね / 獅白ぼたん / #ホロ悪友コンビ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zR6Xk3scLbE",
+        "picture": "https://i.ytimg.com/vi/zR6Xk3scLbE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734188400,
+        "title": "【 -`🎙 歌枠/Singing 】眠らない獅子は歌を紡ぐ。 【獅子神レオナ/Re:AcT】"
     }
 ]
