@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZlOAyrZCNdU",
         "picture": "https://i.ytimg.com/vi/ZlOAyrZCNdU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734256800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【告知あります！】#獅白ぼたん新衣装2024 KAWAII新衣装とクリスマスを倒す告知【獅白ぼたん/ホロライブ】"
     },
     {
