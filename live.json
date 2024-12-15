@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FYt_9-eVdRs",
         "picture": "https://i.ytimg.com/vi/FYt_9-eVdRs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734301800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】月曜日だよ～～～寒い朝・・おはみぉーん！"
     },
     {
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HIAcY54rYME",
         "picture": "https://i.ytimg.com/vi/HIAcY54rYME/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734300909,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】ぱっ！寒すぎるぞ！【緋月ゆい/ネオポルテ】"
     }
 ]
