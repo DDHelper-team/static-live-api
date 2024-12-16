@@ -255,24 +255,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=b9Vxp9tSO24",
         "picture": "https://i.ytimg.com/vi/b9Vxp9tSO24/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734357600,
-        "title": "【雑談＆お礼】12月が半分終わったね...！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZYPLGtslsDc",
-        "picture": "https://i.ytimg.com/vi/ZYPLGtslsDc/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#ミリしらパワプロ杯】人生初パワプロ！！2年目冬合宿！！もしかして優勝してないのってウチだけ──？【ホロライブ/宝鐘マリン】"
+        "title": "【雑談＆お礼】12月が半分終わったね...！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pCYeVGh2TOs",
         "picture": "https://i.ytimg.com/vi/pCYeVGh2TOs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734357654,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】少し嗜みながら語る🌒【緋月ゆい/ネオポルテ】"
     },
     {
