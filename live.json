@@ -242,17 +242,6 @@
         "title": "【 Minecraft 】口外厳禁！新人ちゃんが来る前にいたずら準備するぞぉ～【音乃瀬奏・星街すいせい】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7oH-X6gEMDs",
-        "picture": "https://i.ytimg.com/vi/7oH-X6gEMDs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【VTUBER OF THE YEAR 2024】an award for these silly demon dogs?! 🏆️🐾  【FUWAMOCO】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DKRDBinsTa4",
         "picture": "https://i.ytimg.com/vi/DKRDBinsTa4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734318029,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#52 | 完全初見！ヌヴィレットお迎えしたいし、フリーナにも会いたい💧【緋月ゆい/ネオポルテ】"
     },
     {
@@ -328,5 +317,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【HITMAN: WORLD OF ASSASSINATION】w/ COACH @CeresFauna! Secret Mission!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=1tEbNNTAdxM",
+        "picture": "https://i.ytimg.com/vi/1tEbNNTAdxM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Balatro】i have 2 hours【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
