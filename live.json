@@ -288,23 +288,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZYPLGtslsDc",
         "picture": "https://i.ytimg.com/vi/ZYPLGtslsDc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734343200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ミリしらパワプロ杯】人生初パワプロ！！2年目冬合宿！！もしかして優勝してないのってウチだけ──？【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KQvgUAdrrE4",
         "picture": "https://i.ytimg.com/vi/KQvgUAdrrE4/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【MEBACHIKO】マリン出般（しゅっぱん）！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5AKjJOfjcJ0",
+        "picture": "https://i.ytimg.com/vi/5AKjJOfjcJ0/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1734343200,
-        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+        "timestamp": 1734350400,
+        "title": "【Unrailed 2: Back on Track】俺達の絆でｯ！！線路を繋げろｯｯ！！【#かなフブみっころね】"
     }
 ]
