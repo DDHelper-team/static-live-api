@@ -211,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=g0rPk3e9t7s",
         "picture": "https://i.ytimg.com/vi/g0rPk3e9t7s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734354000,
-        "title": "【≠″ｬ｣ﾚ］ﾗ朮″】糸半を深め∋...♡(ﾉヽッﾞ/ｭ勺勹″ﾚよ酉己イ言前ﾚﾆシ夬めゑﾈ♡)【白銀ノエル/尾丸ポルカ/沙花叉クロヱ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ぽぽえびゃ】≠″ｬ｣ﾚ］ﾗ朮″♡糸半を深め∋...♡【白銀ノエル/尾丸ポルカ/沙花叉クロヱ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vcKjwlhtwrM",
         "picture": "https://i.ytimg.com/vi/vcKjwlhtwrM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734354000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雜談】好久沒有輕鬆聊聊了 來聊聊最近過得怎樣吧 🤓"
     },
     {
@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734397200,
         "title": "≪JUST CHATTING≫ sleepy supas, sleepy chats"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pCYeVGh2TOs",
+        "picture": "https://i.ytimg.com/vi/pCYeVGh2TOs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734357654,
+        "title": "【雑談】少し嗜みながら語る🌒【緋月ゆい/ネオポルテ】"
     }
 ]
