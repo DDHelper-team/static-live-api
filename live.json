@@ -242,28 +242,6 @@
         "title": "【雜談】好久沒有輕鬆聊聊了 來聊聊最近過得怎樣吧 🤓"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4uyvV_fvVec",
-        "picture": "https://i.ytimg.com/vi/4uyvV_fvVec/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【漢字でGO! 集英社マンガ祭】俺たちの戦いはこれからだ！！【ホロライブ/夏色まつり】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Cwn2rR06qyw",
-        "picture": "https://i.ytimg.com/vi/Cwn2rR06qyw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Alien Isolation】you are my lucky star"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -328,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734350400,
         "title": "【配信予定地】【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=9UReDSMU14I",
+        "picture": "https://i.ytimg.com/vi/9UReDSMU14I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#shorts 】生誕イベント宣伝縦型歌枠♪"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=D_88e80AwDw",
+        "picture": "https://i.ytimg.com/vi/D_88e80AwDw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734397200,
+        "title": "≪JUST CHATTING≫ sleepy supas, sleepy chats"
     }
 ]
