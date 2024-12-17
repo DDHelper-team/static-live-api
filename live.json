@@ -211,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=12zaCxNJJ7o",
-        "picture": "https://i.ytimg.com/vi/12zaCxNJJ7o/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=szOlDE42Rcc",
+        "picture": "https://i.ytimg.com/vi/szOlDE42Rcc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CHAT】 No One Expects the Tako Return"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734487200,
+        "title": "【SONIC X SHADOW GENERATIONS】 Time to Get Back Up to SPEED (I Think...)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
