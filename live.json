@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tOpDh67fgls",
         "picture": "https://i.ytimg.com/vi/tOpDh67fgls/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734444000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【🔴KARAOKE】深夜にはまったりバラードだよｎe💤【ホロライブ / ロボ子さん】"
     },
     {
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nhlGtNfNC90",
         "picture": "https://i.ytimg.com/vi/nhlGtNfNC90/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734444000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】もういくつ寝るとクリスマス【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -365,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NoksSofx9ZM",
         "picture": "https://i.ytimg.com/vi/NoksSofx9ZM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734444000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HoloCure】深夜にコツコツやるぞ！ホロキュア！【ホロライブ/大神ミオ】"
     }
 ]
