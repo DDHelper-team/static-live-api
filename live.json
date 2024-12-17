@@ -242,17 +242,6 @@
         "title": "【MINECRAFT】 It\u0026#39;s the most wonderful time of the weeeeek 🎶🎄"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lkqBm4A1EPU",
-        "picture": "https://i.ytimg.com/vi/lkqBm4A1EPU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Balatro】My 2 friends are addicted so I wanna see what\u0026#39;s up :D"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734429600,
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！3年目春～【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=4yojbs0Yrg8",
+        "picture": "https://i.ytimg.com/vi/4yojbs0Yrg8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【DARK SOULS: REMASTERED】Hit me, I`ll hit back"
     }
 ]
