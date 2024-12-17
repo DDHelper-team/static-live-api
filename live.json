@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_xtTNgohFD4",
         "picture": "https://i.ytimg.com/vi/_xtTNgohFD4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734441300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Crime Scene Cleaner】#2 im just... doing... an... honest.. job... yeah【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZDNVhgtXFms",
         "picture": "https://i.ytimg.com/vi/ZDNVhgtXFms/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734440400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Ace Attorney: Spirit of Justice】SPIRITS, YOU SAY? (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -350,5 +350,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734444000,
         "title": "【雑談】もういくつ寝るとクリスマス【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j4f-45E9eUw",
+        "picture": "https://i.ytimg.com/vi/j4f-45E9eUw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734526800,
+        "title": "【雜談】100個問題 EP.3 這問題真荒唐💜"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NoksSofx9ZM",
+        "picture": "https://i.ytimg.com/vi/NoksSofx9ZM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734444000,
+        "title": "【HoloCure】深夜にコツコツやるぞ！ホロキュア！【ホロライブ/大神ミオ】"
     }
 ]
