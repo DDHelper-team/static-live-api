@@ -209,17 +209,6 @@
         "title": "【不審者通報しました。】え？わたしは通報する側ですよ？！！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ECqzsip-fW4",
-        "picture": "https://i.ytimg.com/vi/ECqzsip-fW4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ねぽらぼ略奪クリスマス】日本HPさんからプレゼントを奪い取るクリスマス略奪配信会場🎄【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -277,34 +266,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9LjDuHK5QNg",
         "picture": "https://i.ytimg.com/vi/9LjDuHK5QNg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734436800,
-        "title": "【Microsoft Flight Simulator】念願のフライトシミュレーター！今日からパイロットになる！【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tlprzajuNG4",
-        "picture": "https://i.ytimg.com/vi/tlprzajuNG4/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【報告】病み上がりイケメン【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "title": "【Microsoft Flight Simulator】念願のフライトシミュレーター！今日からパイロットになる！【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KJtJCCB0wFQ",
         "picture": "https://i.ytimg.com/vi/KJtJCCB0wFQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734436800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "真·三國無雙 起源DEMO｜聽說保留有趣的部分但更有挑戰性了，讓我們一起來看看戰場上的千變萬化【Healing希靈/VTuber】"
     },
     {
@@ -361,16 +339,5 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734440400,
         "title": "【Ace Attorney: Spirit of Justice】SPIRITS, YOU SAY? (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=Ej_W7-qEeWM",
-        "picture": "https://i.ytimg.com/vi/Ej_W7-qEeWM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734436800,
-        "title": "【メン限】今年最後の企画会議！！！(企画ネタバレ注意)【#フブキングダム】"
     }
 ]
