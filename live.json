@@ -299,12 +299,23 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tlprzajuNG4",
         "picture": "https://i.ytimg.com/vi/tlprzajuNG4/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【報告】病み上がりイケメン【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KJtJCCB0wFQ",
+        "picture": "https://i.ytimg.com/vi/KJtJCCB0wFQ/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1734427800,
-        "title": "【待機所】この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "timestamp": 1734436800,
+        "title": "真·三國無雙 起源DEMO｜聽說保留有趣的部分但更有挑戰性了，讓我們一起來看看戰場上的千變萬化【Healing希靈/VTuber】"
     }
 ]
