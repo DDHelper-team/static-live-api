@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-fJgX9tdiys",
         "picture": "https://i.ytimg.com/vi/-fJgX9tdiys/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734476400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "雑談 冬の朝【 奏手イヅル / ホロスターズ 】"
     },
     {
