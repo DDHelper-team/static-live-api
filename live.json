@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=12zaCxNJJ7o",
         "picture": "https://i.ytimg.com/vi/12zaCxNJJ7o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734472800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CHAT】 No One Expects the Tako Return"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734483600,
         "title": "【SYNDUALITY ECHO OF ADA】we will PVP this time!【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d7DJvkkRNWA",
+        "picture": "https://i.ytimg.com/vi/d7DJvkkRNWA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734483600,
+        "title": "CAROL BATTLE WITH MY SISTER | REBROADCAST - UNARCHIVED CHRISTMAS KARAOKE"
     }
 ]
