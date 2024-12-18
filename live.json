@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j4f-45E9eUw",
         "picture": "https://i.ytimg.com/vi/j4f-45E9eUw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734526800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雜談】100個問題 EP.3 這問題真荒唐💜"
     },
     {
@@ -264,17 +264,6 @@
         "title": "【そらでん】２人でオペラ見てきました！【ホロライブ/ときのそら/儒烏風亭らでん】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Bmt5naXgOc8",
-        "picture": "https://i.ytimg.com/vi/Bmt5naXgOc8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【漢字でGO! 集英社マンガ祭】漫画のセリフの難関当て字を読む！？【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "islive": false,
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y_xwYCFBFjA",
         "picture": "https://i.ytimg.com/vi/y_xwYCFBFjA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734526800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GOLF IT!】Refreshing with Mantis\u0026#39; Map【Ayunda Risu】"
     },
     {
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734527700,
         "title": "【 -`🎙 歌枠/Singing 】暖房を2分付けて消した。 【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=D0JX1FikLWA",
+        "picture": "https://i.ytimg.com/vi/D0JX1FikLWA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Core Keeper】chill night fighting the boss【hololiveID】"
     }
 ]
