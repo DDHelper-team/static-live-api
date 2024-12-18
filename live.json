@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QWIZrAw_Jrg",
         "picture": "https://i.ytimg.com/vi/QWIZrAw_Jrg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734505200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【マーベル・ライバルズ】ランクにいってみるぜ!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -284,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734516043,
         "title": "【#ネオポルテ歌枠リレー】トップバッター盛り上げます✨️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zZ8xmr3sFSs",
+        "picture": "https://i.ytimg.com/vi/zZ8xmr3sFSs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734516000,
+        "title": "【hololive OFFICIAL CARD GAME】先行開封！！最新弾クインテットスペクトラム #ホロカ【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uOk1qCC0NpA",
+        "picture": "https://i.ytimg.com/vi/uOk1qCC0NpA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734510600,
+        "title": "【FREETALK】RARE PUBLIC YAPPING- WITH COUGHS (dw about it)【Kureiji Ollie】"
     }
 ]
