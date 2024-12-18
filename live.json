@@ -244,35 +244,24 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KdCXr-wWbMg",
         "picture": "https://i.ytimg.com/vi/KdCXr-wWbMg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734483600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SYNDUALITY ECHO OF ADA】we will PVP this time!【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=d7DJvkkRNWA",
         "picture": "https://i.ytimg.com/vi/d7DJvkkRNWA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734483600,
-        "title": "CAROL BATTLE WITH MY SISTER | REBROADCAST - UNARCHIVED CHRISTMAS KARAOKE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-fJgX9tdiys",
-        "picture": "https://i.ytimg.com/vi/-fJgX9tdiys/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "雑談 冬の朝【 奏手イヅル / ホロスターズ 】"
+        "title": "CAROL BATTLE WITH MY SISTER | REBROADCAST - UNARCHIVED CHRISTMAS KARAOKE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
