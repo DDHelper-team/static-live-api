@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aE6I_u9Lcds",
         "picture": "https://i.ytimg.com/vi/aE6I_u9Lcds/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734523200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【そらでん】２人でオペラ見てきました！【ホロライブ/ときのそら/儒烏風亭らでん】"
     },
     {
@@ -273,17 +273,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【漢字でGO! 集英社マンガ祭】漫画のセリフの難関当て字を読む！？【天音かなた/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=j5UFIqhdTE4",
-        "picture": "https://i.ytimg.com/vi/j5UFIqhdTE4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 50万人記念逆凸 】最後に告知あり！人生で初めての逆凸！！コミュ力低いけど頑張ってみるﾌﾟﾙﾌﾟﾙ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=w7XbiGg5rMM",
         "picture": "https://i.ytimg.com/vi/w7XbiGg5rMM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734525000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#絕區零 】今年度最期待的腳色來了!!!!!! 星見雅啊!!!【#遊戲個人勢 / Fingla】"
     },
     {
