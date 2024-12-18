@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AoCFxnZ5upo",
         "picture": "https://i.ytimg.com/vi/AoCFxnZ5upo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734541200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Path Of Exile 2】they buffed my class, but what about my a$$ #kfp #キアライブ"
     },
     {
@@ -251,17 +251,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734559200,
         "title": "【SONIC X SHADOW GENERATIONS】 Slow Start!! Let\u0026#39;s Go!!!"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=D0JX1FikLWA",
-        "picture": "https://i.ytimg.com/vi/D0JX1FikLWA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Core Keeper】chill night fighting the boss【hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
