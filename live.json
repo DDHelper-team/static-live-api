@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4mAGwoSENP4",
         "picture": "https://i.ytimg.com/vi/4mAGwoSENP4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734561000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SONIC X SHADOW GENERATIONS】 Slow Start!! Let\u0026#39;s Go!!!"
     },
     {
