@@ -211,13 +211,13 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=d7DJvkkRNWA",
-        "picture": "https://i.ytimg.com/vi/d7DJvkkRNWA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VZYnxPPWKZ8",
+        "picture": "https://i.ytimg.com/vi/VZYnxPPWKZ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "CAROL BATTLE WITH MY SISTER | REBROADCAST - UNARCHIVED CHRISTMAS KARAOKE"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734570000,
+        "title": "Wrap presents with me! | Yappa Yappa"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -251,17 +251,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734606000,
         "title": "【#ししろんの47ラーメンツアー】メンマたっぷりのチャーシュー麺にご当地ブラック！そしてご当地ソウルフードならーめんが出迎える第8回目【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2UcZHr6r3Oo",
-        "picture": "https://i.ytimg.com/vi/2UcZHr6r3Oo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Freetalk】悪魔の保健医の深夜雑談のお時間です⏰【ホロライブ/癒月ちょこ】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
