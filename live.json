@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vQJnEywHosM",
         "picture": "https://i.ytimg.com/vi/vQJnEywHosM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734516000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#8【#ミリしらパワプロ杯】初めてのパワプロ⚾秋の全国大会優勝！次は春の甲子園に挑戦だ～🔥【白銀ノエル/ホロライブ】"
     },
     {
@@ -264,59 +264,37 @@
         "title": "【そらでん】２人でオペラ見てきました！【ホロライブ/ときのそら/儒烏風亭らでん】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QWIZrAw_Jrg",
-        "picture": "https://i.ytimg.com/vi/QWIZrAw_Jrg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【マーベル・ライバルズ】ランクにいってみるぜ!!【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XmocuT4UBlQ",
         "picture": "https://i.ytimg.com/vi/XmocuT4UBlQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734516043,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ネオポルテ歌枠リレー】トップバッター盛り上げます✨️【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zZ8xmr3sFSs",
         "picture": "https://i.ytimg.com/vi/zZ8xmr3sFSs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734516000,
-        "title": "【hololive OFFICIAL CARD GAME】先行開封！！最新弾クインテットスペクトラム #ホロカ【ホロライブ/白上フブキ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uOk1qCC0NpA",
-        "picture": "https://i.ytimg.com/vi/uOk1qCC0NpA/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【FREETALK】RARE PUBLIC YAPPING- WITH COUGHS (dw about it)【Kureiji Ollie】"
+        "title": "【hololive OFFICIAL CARD GAME】先行開封！！最新弾クインテットスペクトラム #ホロカ【ホロライブ/白上フブキ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Bmt5naXgOc8",
         "picture": "https://i.ytimg.com/vi/Bmt5naXgOc8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734516000,
-        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【漢字でGO! 集英社マンガ祭】漫画のセリフの難関当て字を読む！？【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
@@ -350,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734559200,
         "title": "【SONIC X SHADOW GENERATIONS】 Slow Start!! Let\u0026#39;s Go!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=w7XbiGg5rMM",
+        "picture": "https://i.ytimg.com/vi/w7XbiGg5rMM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734525000,
+        "title": "【#絕區零 】今年度最期待的腳色來了!!!!!! 星見雅啊!!!【#遊戲個人勢 / Fingla】"
     }
 ]
