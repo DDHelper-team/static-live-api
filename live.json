@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xP5wsVA2s0U",
         "picture": "https://i.ytimg.com/vi/xP5wsVA2s0U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734628800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fallout: New Vegas】making my way to the end of the game #kfp #キアライブ"
     },
     {
