@@ -211,24 +211,13 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VZYnxPPWKZ8",
         "picture": "https://i.ytimg.com/vi/VZYnxPPWKZ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734570000,
-        "title": "Wrap presents with me! | Yappa Yappa"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4mAGwoSENP4",
-        "picture": "https://i.ytimg.com/vi/4mAGwoSENP4/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【SONIC X SHADOW GENERATIONS】 Slow Start!! Let\u0026#39;s Go!!!"
+        "title": "Wrap presents with me! | Yappa Yappa"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -262,5 +251,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734613200,
         "title": "【漢字でGO! 集英社マンガ祭】読み\u0026quot;たいっ！！！！！【角巻わため/ホロライブ４期】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sPfe86M5tls",
+        "picture": "https://i.ytimg.com/vi/sPfe86M5tls/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734598800,
+        "title": "【雑談】復活…！？！色々話したいネタ、ある！！！！！🥰【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=w1UX1_0ra5A",
+        "picture": "https://i.ytimg.com/vi/w1UX1_0ra5A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734580800,
+        "title": "【DOTA 2】 I made my genmates play Dota 2 with me"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4yau-kAJo4E",
+        "picture": "https://i.ytimg.com/vi/4yau-kAJo4E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734573600,
+        "title": "3D Unarchived BIRTHDAY Karaoke 🍰【Rebroadcast: May 2, 2024】"
     }
 ]
