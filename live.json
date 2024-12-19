@@ -264,17 +264,6 @@
         "title": "【歌雜】🎵 最喜歡自由自在地唱歌了~如果大家聽得開心就更好了 ❤️ *可點歌單的歌"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BZdADPlErfc",
-        "picture": "https://i.ytimg.com/vi/BZdADPlErfc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【COFFEE CARAVAN】大忙しのコーヒー屋さん、今日も深夜営業です！【ホロライブ/大神ミオ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": false,
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734657300,
         "title": "【Crime Scene Cleaner】#4 LAST ONE FOR SURE 🪓【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zKEEfeL8coU",
+        "picture": "https://i.ytimg.com/vi/zKEEfeL8coU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734688800,
+        "title": "【#ホロライブサンタバトル】真のサンタは誰だ！？ノエルってクリスマスって意味...ハッ！？ホロライブバトルロワイヤル！【白銀ノエル/ホロライブ】"
     }
 ]
