@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=w1UX1_0ra5A",
         "picture": "https://i.ytimg.com/vi/w1UX1_0ra5A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734580800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DOTA 2】 I made my genmates play Dota 2 with me"
     },
     {
