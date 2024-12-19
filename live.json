@@ -242,17 +242,6 @@
         "title": "【漢字でGO! 集英社マンガ祭】読み\u0026quot;たいっ！！！！！【角巻わため/ホロライブ４期】"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sPfe86M5tls",
-        "picture": "https://i.ytimg.com/vi/sPfe86M5tls/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】復活…！？！色々話したいネタ、ある！！！！！🥰【一条莉々華/hololive DEV_IS　ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MWZywQvZGY8",
         "picture": "https://i.ytimg.com/vi/MWZywQvZGY8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734603300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Rakuten esports cup】初対面ですがまつりを超えるやばいやつがいるとききました。【ホロライブ/夏色まつり】"
     },
     {
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734609600,
         "title": "【大神】#1 いざ神話の世界に!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3jBnyLSNUEY",
+        "picture": "https://i.ytimg.com/vi/3jBnyLSNUEY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734620400,
+        "title": "ASMR｜深夜不再寂寞有我陪伴❤️按摩、細語｜Oneechan Whispers to Sleep｜お姉さんの甘い添い寝 【黑3DIO/KU100】"
     }
 ]
