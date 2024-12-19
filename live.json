@@ -277,12 +277,34 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4yau-kAJo4E",
         "picture": "https://i.ytimg.com/vi/4yau-kAJo4E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734573600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "3D Unarchived BIRTHDAY Karaoke 🍰【Rebroadcast: May 2, 2024】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0eZ2dysHb9g",
+        "picture": "https://i.ytimg.com/vi/0eZ2dysHb9g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734606000,
+        "title": "【配信予定】早めに帰れたらこの時間(・ω・)ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Eu13RSTETpU",
+        "picture": "https://i.ytimg.com/vi/Eu13RSTETpU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734577200,
+        "title": "【Balatro】LIVE JIMBO REACTION【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
