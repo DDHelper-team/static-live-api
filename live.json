@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3jBnyLSNUEY",
-        "picture": "https://i.ytimg.com/vi/3jBnyLSNUEY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3T_vvPCNARg",
+        "picture": "https://i.ytimg.com/vi/3T_vvPCNARg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ASMR｜深夜不再寂寞有我陪伴❤️按摩、細語｜Oneechan Whispers to Sleep｜お姉さんの甘い添い寝 【黑3DIO/KU100】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734706800,
+        "title": "ASMR雜談｜再挑戰！催眠放鬆的耳部診所｜催眠リラクゼーション・イヤー・クリニック｜【KU100／黑3DIO】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -273,5 +273,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【COFFEE CARAVAN】大忙しのコーヒー屋さん、今日も深夜営業です！【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vq4-B3544pM",
+        "picture": "https://i.ytimg.com/vi/vq4-B3544pM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734657300,
+        "title": "【Crime Scene Cleaner】#4 LAST ONE FOR SURE 🪓【Kaela Kovalskia / hololiveID】"
     }
 ]
