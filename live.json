@@ -227,7 +227,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Cooking up a storm | !lavalamp"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -371,5 +371,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734739200,
         "title": "Mumei and Fauna investigate infighting on Wikipedia Talk Pages"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HB_3RPFq6L8",
+        "picture": "https://i.ytimg.com/vi/HB_3RPFq6L8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734780600,
+        "title": "【ASGS LCQ APEX】Elimination round 2 【Dokibird】"
     }
 ]
