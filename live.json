@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vq4-B3544pM",
         "picture": "https://i.ytimg.com/vi/vq4-B3544pM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734657300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Crime Scene Cleaner】#4 LAST ONE FOR SURE 🪓【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -316,5 +316,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734697800,
         "title": "おそらく2024年最後の ギター弾き語り【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Rk_Bsk-t5ao",
+        "picture": "https://i.ytimg.com/vi/Rk_Bsk-t5ao/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734681600,
+        "title": "【ASGS LCQ APEX】Invited to Japanese Tournament!【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JeqKzVxhfh8",
+        "picture": "https://i.ytimg.com/vi/JeqKzVxhfh8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734696000,
+        "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！どわああああ！（22~26話）【儒烏風亭らでん 】"
     }
 ]
