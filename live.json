@@ -227,7 +227,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Judge Jury and Executioner"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -349,5 +349,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734775200,
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！3年目夏～【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aFMmOE_0Tb8",
+        "picture": "https://i.ytimg.com/vi/aFMmOE_0Tb8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734742800,
+        "title": "All roads lead to me! | Mini Motorways"
     }
 ]
