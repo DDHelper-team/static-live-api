@@ -320,12 +320,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Rk_Bsk-t5ao",
         "picture": "https://i.ytimg.com/vi/Rk_Bsk-t5ao/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734681600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ASGS LCQ APEX】Invited to Japanese Tournament!【Dokibird】"
     },
     {
@@ -338,17 +338,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734696000,
         "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！どわああああ！（22~26話）【儒烏風亭らでん 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mOTdRKySGnA",
-        "picture": "https://i.ytimg.com/vi/mOTdRKySGnA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【原神】#53 | 完全初見！本日もまったり伝説任務🎵【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -419,12 +408,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e3w5A-b5MEI",
         "picture": "https://i.ytimg.com/vi/e3w5A-b5MEI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734681600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Balatro】She asked me to play this.【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XGwXlYx-v4A",
+        "picture": "https://i.ytimg.com/vi/XGwXlYx-v4A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734692400,
+        "title": "【メン限/MemberOnly】ホロメン曲を1時間で覚えられるかな！？#4【ホロライブ / AZKi】"
     }
 ]
