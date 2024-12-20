@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tvSRV0cXr7c",
         "picture": "https://i.ytimg.com/vi/tvSRV0cXr7c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734663600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "My Happy Sugar Life with @MoriCalliope 【Stardew Valley】"
     },
     {
@@ -275,7 +275,7 @@
         "title": "【 HoloCure 】ホロキュアリベンジ！！ナノラ討伐戦…逝くのらああああ！！！【姫森ルーナ/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -338,5 +338,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734696000,
         "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！どわああああ！（22~26話）【儒烏風亭らでん 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mOTdRKySGnA",
+        "picture": "https://i.ytimg.com/vi/mOTdRKySGnA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734667209,
+        "title": "【原神】#53 | 完全初見！本日もまったり伝説任務🎵【緋月ゆい/ネオポルテ】"
     }
 ]
