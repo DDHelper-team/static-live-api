@@ -255,13 +255,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tvSRV0cXr7c",
-        "picture": "https://i.ytimg.com/vi/tvSRV0cXr7c/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VizT6x5WZpU",
+        "picture": "https://i.ytimg.com/vi/VizT6x5WZpU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "My Happy Sugar Life with @MoriCalliope 【Stardew Valley】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734746400,
+        "title": "🤍Your Girlfriend Need You So She Chains You Up 🖤【MiSide】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -275,7 +275,7 @@
         "title": "【 HoloCure 】ホロキュアリベンジ！！ナノラ討伐戦…逝くのらああああ！！！【姫森ルーナ/ホロライブ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
