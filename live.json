@@ -271,7 +271,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Nighty night! | !lavalamp !merch !gamejam"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -492,5 +492,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734775200,
         "title": "【#AndroidかこってMUSIC】解説配信"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=um51rHJ1QTo",
+        "picture": "https://i.ytimg.com/vi/um51rHJ1QTo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734699600,
+        "title": "【Carry the Glass】REINBO TEAMWORK !!! DONT BREAK THE GLASS【Pavolia Reine/Kobo/hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cQ8OuyXC8QY",
+        "picture": "https://i.ytimg.com/vi/cQ8OuyXC8QY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734699600,
+        "title": "【SILENT HILL 2】#最終回 三角さんとの結ばれENDを探しに行く【花咲みやび/ホロスターズ】【ネタバレあり】"
     }
 ]
