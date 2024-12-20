@@ -320,12 +320,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JeqKzVxhfh8",
         "picture": "https://i.ytimg.com/vi/JeqKzVxhfh8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734696000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！どわああああ！（22~26話）【儒烏風亭らでん 】"
     },
     {
@@ -441,13 +441,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cwjY41-DM4E",
         "picture": "https://i.ytimg.com/vi/cwjY41-DM4E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734696000,
-        "title": "【VRchat】もう年末らしい"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【VRchat】もう年末ですってよ"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -485,23 +485,23 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vgTgWT8JrI8",
         "picture": "https://i.ytimg.com/vi/vgTgWT8JrI8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734696300,
-        "title": "【Marvel Rivals】FIRST TIME!!!! I\u0026#39;M A H3RO!!!!! (i\u0026#39;m joining yopi)"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Marvel Rivals】FIRST TIME!!!! I\u0026#39;M A H3RO ACTUALLY!!!!! (i\u0026#39;m joining yopi)"
     },
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fPVMC2BP6kQ",
         "picture": "https://i.ytimg.com/vi/fPVMC2BP6kQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734696000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】for ASTRA.東京公演ありがとうございました！- ハニカムステーション！-162【HACHI 】"
     }
 ]
