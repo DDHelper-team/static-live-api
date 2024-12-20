@@ -276,12 +276,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EMDwdSrh-P0",
         "picture": "https://i.ytimg.com/vi/EMDwdSrh-P0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734692400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #おにかん1ブロック 】久々のおにかんワンブロ・・・！【百鬼あやめ/鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -514,5 +514,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734699600,
         "title": "【SILENT HILL 2】#最終回 三角さんとの結ばれENDを探しに行く【花咲みやび/ホロスターズ】【ネタバレあり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vgTgWT8JrI8",
+        "picture": "https://i.ytimg.com/vi/vgTgWT8JrI8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734696300,
+        "title": "【Marvel Rivals】FIRST TIME!!!! I\u0026#39;M A H3RO!!!!! (i\u0026#39;m joining yopi)"
     }
 ]
