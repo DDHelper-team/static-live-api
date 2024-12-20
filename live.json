@@ -282,7 +282,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Nighty night! | !lavalamp !merch !gamejam"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -382,5 +382,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734688800,
         "title": "【#ホロライブサンタバトル】真のサンタは誰だ！？誰でもいいからクリスマスプレゼントください！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FqjKVKcB4qg",
+        "picture": "https://i.ytimg.com/vi/FqjKVKcB4qg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734688800,
+        "title": "【#ミリしらパワプロ杯】最終回かも？人生初パワプロ！！負けたら即終了夏大会((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ【ホロライブ/宝鐘マリン】"
     }
 ]
