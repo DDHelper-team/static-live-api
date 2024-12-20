@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XLZZQIoD4TQ",
         "picture": "https://i.ytimg.com/vi/XLZZQIoD4TQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734667200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Astro Bot】family friendly in the outer space【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mOTdRKySGnA",
         "picture": "https://i.ytimg.com/vi/mOTdRKySGnA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734667209,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#53 | 完全初見！本日もまったり伝説任務🎵【緋月ゆい/ネオポルテ】"
     },
     {
@@ -360,5 +360,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734688800,
         "title": "【#ホロライブサンタバトル】クリスマスなのに戦うんだって～～！！🎄⚔️ﾜｸﾜｸ【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZvCkWRpFSE8",
+        "picture": "https://i.ytimg.com/vi/ZvCkWRpFSE8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734688800,
+        "title": "【#ホロライブサンタバトル】わしがサンタじゃ【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
