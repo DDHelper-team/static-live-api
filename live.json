@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3T_vvPCNARg",
         "picture": "https://i.ytimg.com/vi/3T_vvPCNARg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734706800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR雜談｜再挑戰！催眠放鬆的耳部診所｜催眠リラクゼーション・イヤー・クリニック｜【KU100／黑3DIO】"
     },
     {
@@ -260,7 +260,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Nighty night! | !lavalamp !merch !gamejam"
+        "title": "The cutest suBWAAthon of the century"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -285,17 +285,6 @@
         "title": "おそらく2024年最後の ギター弾き語り【 奏手イヅル / ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JeqKzVxhfh8",
-        "picture": "https://i.ytimg.com/vi/JeqKzVxhfh8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【同時視聴】ジョジョの奇妙な冒険　黄金の風（5部）同時視聴！どわああああ！（22~26話）【儒烏風亭らでん 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "islive": false,
@@ -305,17 +294,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734775200,
         "title": "【 #ホロ新春ゲーム祭2025 】リーダー発表！メンバー発表！ゲーム発表！【常闇トワ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FqjKVKcB4qg",
-        "picture": "https://i.ytimg.com/vi/FqjKVKcB4qg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ミリしらパワプロ杯】最終回かも？人生初パワプロ！！負けたら即終了夏大会((((；ﾟДﾟ))))ｶﾞｸｶﾞｸﾌﾞﾙﾌﾞﾙ【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -419,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=82wu-wk7xWc",
         "picture": "https://i.ytimg.com/vi/82wu-wk7xWc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734706800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】もみもみ♡こしょこしょ♡ふぅ～～～♡心が和らぐあま～い囁き♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
@@ -437,5 +415,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【マーベル・ライバルズ】マーベルトゥーン【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=566AclMwlAc",
+        "picture": "https://i.ytimg.com/vi/566AclMwlAc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "音割れイケメン【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
