@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Joker beatboxathon | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -272,17 +272,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！3年目夏～【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4Z36ErKKlLI",
-        "picture": "https://i.ytimg.com/vi/4Z36ErKKlLI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "大人時間💜今宵は…甘口白ワイン吞むのらね…🥃(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -382,5 +371,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734814800,
         "title": "【FAR CRY 5】We got a gun, some girls, girls gotta BWEH! With @holoen_ceciliaimmergreen !"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hEp1DhGMCvk",
+        "picture": "https://i.ytimg.com/vi/hEp1DhGMCvk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734868800,
+        "title": "【 #リアクトマジカルハーモニー 】ラストは獅子です、最後まで盛り上がれー！💎✨【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qJbDvQ7KoIQ",
+        "picture": "https://i.ytimg.com/vi/qJbDvQ7KoIQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734850800,
+        "title": "【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     }
 ]
