@@ -232,23 +232,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=22X4Ta9GS8M",
         "picture": "https://i.ytimg.com/vi/22X4Ta9GS8M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734775200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロ新春ゲーム祭2025 】リーダー発表！メンバー発表！ゲーム発表！【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oGHK7sqQufg",
         "picture": "https://i.ytimg.com/vi/oGHK7sqQufg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734775200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【アソビ大全】リバーシ最弱王決定戦！【ホロライブ/夏色まつり】"
     },
     {
@@ -265,12 +265,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pEoYRVaEIP4",
         "picture": "https://i.ytimg.com/vi/pEoYRVaEIP4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734775200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#AndroidかこってMUSIC】解説配信"
     },
     {
@@ -287,23 +287,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xUpoSr7A0ss",
-        "picture": "https://i.ytimg.com/vi/xUpoSr7A0ss/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0QJLzHw4gdw",
+        "picture": "https://i.ytimg.com/vi/0QJLzHw4gdw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨セラフィちゃんかわいいねぇ♡【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734778800,
+        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第65～70話【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KbZ3X1WF6tI",
         "picture": "https://i.ytimg.com/vi/KbZ3X1WF6tI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734775200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！3年目夏～【ホロライブ/兎田ぺこら】"
     },
     {
@@ -393,5 +393,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734829200,
         "title": "Can we find her? | LIMBO"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p_KmTCWJPWY",
+        "picture": "https://i.ytimg.com/vi/p_KmTCWJPWY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734861600,
+        "title": "【ふるさとチョイス】ホロメンの「ふるさと納税」おすすめ品を実食！ #ホロさとチョイス2024 【獅白ぼたん/ホロライブ】"
     }
 ]
