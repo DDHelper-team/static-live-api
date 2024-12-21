@@ -296,17 +296,6 @@
         "title": "【#AndroidかこってMUSIC】解説配信"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=580DKQ3p9PE",
-        "picture": "https://i.ytimg.com/vi/580DKQ3p9PE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
@@ -364,12 +353,23 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9zmraAaLpko",
         "picture": "https://i.ytimg.com/vi/9zmraAaLpko/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734750008,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#54 | 完全初見！お久しぶりな皆に会いたい🤝【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6DEBW0uTxxY",
+        "picture": "https://i.ytimg.com/vi/6DEBW0uTxxY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734777000,
+        "title": "塔羅占卜#82｜四季占卜之冬至到2025春分本季能量檢測🔮✨🦊【Healing希靈/VTuber】"
     }
 ]
