@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VizT6x5WZpU",
         "picture": "https://i.ytimg.com/vi/VizT6x5WZpU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734746400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "🤍Your Girlfriend Need You So She Chains You Up 🖤【MiSide】"
     },
     {
@@ -227,7 +227,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Neuro-sama\u0026#39;s Bedtime Stories"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -340,28 +340,6 @@
         "title": "【#ミリしらパワプロ杯】はじめてのパワプロ！PK學院高校、育成開始ぺこ！3年目夏～【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aFMmOE_0Tb8",
-        "picture": "https://i.ytimg.com/vi/aFMmOE_0Tb8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "All roads lead to me! | Mini Motorways"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0nB58ASPAhw",
-        "picture": "https://i.ytimg.com/vi/0nB58ASPAhw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Mumei and Fauna investigate infighting on Wikipedia Talk Pages"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -371,5 +349,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734780600,
         "title": "【ASGS LCQ APEX】Elimination round 2 【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=44gKdvN-pgI",
+        "picture": "https://i.ytimg.com/vi/44gKdvN-pgI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734768000,
+        "title": "【hololive OCG】ホロカ第二弾 12BOX開封すりゅぞおおおお👊【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9zmraAaLpko",
+        "picture": "https://i.ytimg.com/vi/9zmraAaLpko/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734750008,
+        "title": "【原神】#54 | 完全初見！お久しぶりな皆に会いたい🤝【緋月ゆい/ネオポルテ】"
     }
 ]
