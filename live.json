@@ -220,7 +220,7 @@
         "title": "🤍Your Girlfriend Need You So She Chains You Up 🖤【MiSide】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -397,12 +397,23 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iB8Od0JQfU0",
         "picture": "https://i.ytimg.com/vi/iB8Od0JQfU0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734759000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Astro Bot】#2 lets continue exploring the galaxy~【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4Z36ErKKlLI",
+        "picture": "https://i.ytimg.com/vi/4Z36ErKKlLI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734786000,
+        "title": "大人時間💜今宵は…甘口白ワイン吞むのらね…🥃(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】"
     }
 ]
