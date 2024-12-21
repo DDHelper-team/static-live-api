@@ -298,12 +298,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4Z36ErKKlLI",
         "picture": "https://i.ytimg.com/vi/4Z36ErKKlLI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734786000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "大人時間💜今宵は…甘口白ワイン吞むのらね…🥃(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】"
     },
     {
@@ -375,12 +375,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Vawh5HgZYbo",
         "picture": "https://i.ytimg.com/vi/Vawh5HgZYbo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734786000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#9【Persona 3 Reload: Episode Aigis】orpheus telos 🤤🤤🤤🤤🤤🤤  (SPOILERS!)【Pavolia Reine/holoID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YDUeyPARmjc",
+        "picture": "https://i.ytimg.com/vi/YDUeyPARmjc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734858000,
+        "title": "【８番出口】ホロ新春祭の練習！帰ってきたわいの異変探し【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
