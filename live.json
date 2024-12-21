@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neuro-sama\u0026#39;s Bedtime Stories | !lavalamp !merch !gamejam"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -291,9 +291,9 @@
         "link": "https://www.youtube.com/watch?v=Ex1wjpOzOCs",
         "picture": "https://i.ytimg.com/vi/Ex1wjpOzOCs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1734768000,
-        "title": "#01【ネタバレが激しすぎるRPG2】大人気ネタバレシリーズの2作目！第2章～やるよ🎮✨【白銀ノエル/ホロライブ】※ネタバレ注意！"
+        "title": "#02【ネタバレが激しすぎるRPG2】大人気ネタバレシリーズの2作目！第2章～やるよ🎮✨【白銀ノエル/ホロライブ】※ネタバレ注意！"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -335,7 +335,7 @@
         "link": "https://www.youtube.com/watch?v=44gKdvN-pgI",
         "picture": "https://i.ytimg.com/vi/44gKdvN-pgI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1734768000,
         "title": "【hololive OCG】ホロカ第二弾 12BOX開封すりゅぞおおおお👊【ホロライブ / ロボ子さん】"
     },
@@ -404,5 +404,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734840000,
         "title": "【#7】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5zI8lPx6U9E",
+        "picture": "https://i.ytimg.com/vi/5zI8lPx6U9E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734829200,
+        "title": "Can we find her? | LIMBO"
     }
 ]
