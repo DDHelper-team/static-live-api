@@ -227,7 +227,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Neuro-sama\u0026#39;s Bedtime Stories | !lavalamp !merch !gamejam"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -254,12 +254,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OCbVgnMsyyg",
         "picture": "https://i.ytimg.com/vi/OCbVgnMsyyg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734753600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ネタバレあり】FINAL FANTASY Ⅵ～知識はあるが、クリアしたことはない～【ホロライブ/ときのそら】"
     },
     {
@@ -375,12 +375,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sMEJLl8uo18",
         "picture": "https://i.ytimg.com/vi/sMEJLl8uo18/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734753600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Yet Another Brunch, Everyone】IT DO BE NATARU SEASON【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KEArX1o9sEY",
+        "picture": "https://i.ytimg.com/vi/KEArX1o9sEY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734778800,
+        "title": "【オフコラボ】いろはにほへっとあやふぶみ、忘年会で鍋パです【告知・お披露目あり】"
     }
 ]
