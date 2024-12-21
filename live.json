@@ -209,7 +209,7 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -232,13 +232,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EPYTbyV9Q7k",
-        "picture": "https://i.ytimg.com/vi/EPYTbyV9Q7k/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IhJW-YPJ-z0",
+        "picture": "https://i.ytimg.com/vi/IhJW-YPJ-z0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ホロLUX 】ラミィとルーナとLUXさんとのコラボ配信やるよ〜〜〜！！！【天音かなた、姫森ルーナ、雪花ラミィ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734868800,
+        "title": "【3DLIVE】最初で最後の #かなけん3DLIVE !!【天音かなた、沙花叉クロヱ、AZKi  / ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -294,17 +294,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "塔羅占卜#82｜四季占卜之冬至到2025春分本季能量檢測🔮✨🦊【Healing希靈/VTuber】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KEArX1o9sEY",
-        "picture": "https://i.ytimg.com/vi/KEArX1o9sEY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【オフコラボ】いろはにほへっとあやふぶみ、忘年会で鍋パです【告知・お披露目あり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -382,5 +371,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734784200,
         "title": "【雑談】そろそろクリスマスじゃん【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Vawh5HgZYbo",
+        "picture": "https://i.ytimg.com/vi/Vawh5HgZYbo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734786000,
+        "title": "#9【Persona 3 Reload: Episode Aigis】orpheus telos 🤤🤤🤤🤤🤤🤤  (SPOILERS!)【Pavolia Reine/holoID 2nd gen】"
     }
 ]
