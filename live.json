@@ -209,7 +209,7 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -283,17 +283,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ASGS LCQ APEX】Elimination round 2 【Dokibird】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6DEBW0uTxxY",
-        "picture": "https://i.ytimg.com/vi/6DEBW0uTxxY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "塔羅占卜#82｜四季占卜之冬至到2025春分本季能量檢測🔮✨🦊【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -393,5 +382,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734858000,
         "title": "【８番出口】ホロ新春祭の練習！帰ってきたわいの異変探し【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PH9Kw5J_8Nw",
+        "picture": "https://i.ytimg.com/vi/PH9Kw5J_8Nw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734832800,
+        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】wish you a merry BAUmas 🎄🐾【UNARCHIVED REBROADCAST】"
     }
 ]
