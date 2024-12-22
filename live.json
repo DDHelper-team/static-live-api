@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "bed time | !lavalamp"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -265,12 +265,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UCVmyQGLobg",
         "picture": "https://i.ytimg.com/vi/UCVmyQGLobg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734840000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#7】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
     },
     {
@@ -298,12 +298,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QkENgZUlHPM",
         "picture": "https://i.ytimg.com/vi/QkENgZUlHPM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734840000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ネタバレあり】FINAL FANTASY Ⅵ～一方その頃ときのそら～【ホロライブ/ときのそら】"
     },
     {
@@ -364,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qJbDvQ7KoIQ",
         "picture": "https://i.ytimg.com/vi/qJbDvQ7KoIQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734850800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】花岸で全実績解除するぞ!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -393,5 +393,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734840000,
         "title": "【有馬記念】2024年有馬記念で大勝する！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nGlGTffEiDU",
+        "picture": "https://i.ytimg.com/vi/nGlGTffEiDU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734836400,
+        "title": "【UNARCHIVED | 歌枠】Christmas Christmas Time Is Here"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=5gzH1lbjCjk",
+        "picture": "https://i.ytimg.com/vi/5gzH1lbjCjk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Silent Hill 2】 WEEKEND MARATHON START (spoilers)"
     }
 ]
