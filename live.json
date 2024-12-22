@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "minecrafr"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -371,5 +371,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734951600,
         "title": "【＃ホロペア】ホロペア以心伝心調査　検証：猫又おかゆ＆鷹嶺ルイ【ホロライブ/白上フブキ/猫又おかゆ/鷹嶺ルイ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NsjzH7Pyp-I",
+        "picture": "https://i.ytimg.com/vi/NsjzH7Pyp-I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734987600,
+        "title": "1st Time Lego Owner: Build Before 💣 Explodes【 Handcam】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XWqESSMpuh4",
+        "picture": "https://i.ytimg.com/vi/XWqESSMpuh4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734958800,
+        "title": "【 オフコラボ 】#なでらで で晩酌！マシュマロ食べながらしゃべっていくよ～！【音乃瀬奏・儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS"
     }
 ]
