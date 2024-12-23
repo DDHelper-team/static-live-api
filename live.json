@@ -298,12 +298,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e4EqhPvr1t8",
         "picture": "https://i.ytimg.com/vi/e4EqhPvr1t8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734951600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロペア】ホロペア以心伝心調査　検証：猫又おかゆ＆鷹嶺ルイ【ホロライブ/白上フブキ/猫又おかゆ/鷹嶺ルイ】"
     },
     {
@@ -338,17 +338,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Feign】おバカには自信があります!! #ホロスタおバカ人狼【花咲みやび/ホロスターズ】#ホロスタWinter2024"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=F0PzLOBf79w",
-        "picture": "https://i.ytimg.com/vi/F0PzLOBf79w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ソロ感想会】かなけん3DLIVEほんとにありがとう！！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -437,5 +426,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "７７７７７７を見届ける【轟はじめ/ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MpI0bZf60Vo",
+        "picture": "https://i.ytimg.com/vi/MpI0bZf60Vo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734991200,
+        "title": "【UNARCHIVED KARAOKE】 I Don\u0026#39;t Know Lyrics to X-mas Songs But LET\u0026#39;S GOOOOO"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=29GoHnaYGLw",
+        "picture": "https://i.ytimg.com/vi/29GoHnaYGLw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735038000,
+        "title": "【 #らでんちゃん100万人 】チャンネル登録者100万人まで歌います！達成したら嬉しい告知あります！【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
