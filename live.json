@@ -232,23 +232,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Q9gdEYH5gqk",
         "picture": "https://i.ytimg.com/vi/Q9gdEYH5gqk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734944400,
-        "title": "#10【#ミリしらパワプロ杯】最終回！！！初めてのパワプロ⚾秋春夏制覇まであと3勝！！！ここまできたら夏の甲子園を優勝して終わりたいッ！！！！【白銀ノエル/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "最終回【#ミリしらパワプロ杯】初めてのパワプロ⚾秋春夏制覇まであと3勝！！！ここまできたら夏の甲子園を優勝して終わりたいッ！！！！【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6SfhALpdnE4",
         "picture": "https://i.ytimg.com/vi/6SfhALpdnE4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734944400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 漢字でGO! 集英社マンガ祭 】漢字よわよわじゃないところみせてみせるから！！！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -393,17 +393,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734955200,
         "title": "【Selling Souls】Gib Souls😈 君たちの魂、貰うね！ 【hololive ID 2nd Generation | Anya Melfissa】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KXBmGC9iMO8",
-        "picture": "https://i.ytimg.com/vi/KXBmGC9iMO8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "雜談｜新MIC到來之前來測試一下替代MIC【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
