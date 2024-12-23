@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "eeping neuro | !lavalamp"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -261,17 +261,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734987600,
         "title": "1st Time Lego Owner: Build Before 💣 Explodes【 Handcam】"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=XWqESSMpuh4",
-        "picture": "https://i.ytimg.com/vi/XWqESSMpuh4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 オフコラボ 】#なでらで で晩酌！マシュマロ食べながらしゃべっていくよ～！【音乃瀬奏・儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
@@ -415,5 +404,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【今日の主役です！】昨日頂いたケーキ食べながら誕生日を終わろうの会！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=egigl5Q55bM",
+        "picture": "https://i.ytimg.com/vi/egigl5Q55bM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Valorant】フルパキタ！【 奏手イヅル w/ きなこ³ ありさか³ ととみっくす³ 渋谷ハル³ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=65c_v5MjfuU",
+        "picture": "https://i.ytimg.com/vi/65c_v5MjfuU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735050600,
+        "title": "【クリスマス】今年もケーキたべるだけ雑談【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
