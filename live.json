@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "eeping neuro | !lavalamp"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -351,17 +351,6 @@
         "title": "【 オフコラボ 】#なでらで で晩酌！マシュマロ食べながらしゃべっていくよ～！【音乃瀬奏・儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZAJDCoC2UCo",
-        "picture": "https://i.ytimg.com/vi/ZAJDCoC2UCo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Silent Hill 2】 The real Silent Hill was the friends we made along the way (spoilers) (FINALE)"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": true,
@@ -393,5 +382,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734948000,
         "title": "【感想会】かなけん3DLIVEほんとにありがとう！！！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DEbGq2ItFOU",
+        "picture": "https://i.ytimg.com/vi/DEbGq2ItFOU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734991200,
+        "title": "【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?＃ろぼサンタのASMR【ホロライブ / ロボ子さん】"
     }
 ]
