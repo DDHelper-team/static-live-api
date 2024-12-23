@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "eeping neuro | !lavalamp"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -243,13 +243,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7Yuvj_JFJwY",
-        "picture": "https://i.ytimg.com/vi/7Yuvj_JFJwY/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MF4lyEbnB2s",
+        "picture": "https://i.ytimg.com/vi/MF4lyEbnB2s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪XMAS PARTY - OFF COLLAB≫ WE WISH YOU A MERRY CHRISTMAS! #RatMAS2024"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735002000,
+        "title": "≪KUUKIYOMI 4≫ YOU HAVE TO CONSIDER"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -331,23 +331,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qZoNlbjrQQA",
         "picture": "https://i.ytimg.com/vi/qZoNlbjrQQA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734962400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Mini Tokyo 3D】おうちへ、帰ろう。終電とかなけんライブと【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-yZyIgrlsKo",
         "picture": "https://i.ytimg.com/vi/-yZyIgrlsKo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734962400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【近畿霊務局】幽霊の除霊はじめました！！！（物理【角巻わため/ホロライブ４期】"
     },
     {
@@ -408,12 +408,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EVaSCgjjZJ8",
         "picture": "https://i.ytimg.com/vi/EVaSCgjjZJ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734962400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【今日の主役です！】昨日頂いたケーキ食べながら誕生日を終わろうの会！！【#新人vtuber 】"
     }
 ]
