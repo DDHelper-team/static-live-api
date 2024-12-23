@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "eeping neuro | !lavalamp"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -254,13 +254,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EZNk48fpUa0",
-        "picture": "https://i.ytimg.com/vi/EZNk48fpUa0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=i3hfGAlJZ54",
+        "picture": "https://i.ytimg.com/vi/i3hfGAlJZ54/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ASK MOCO-SANTA】back this year to hear your christmas wishes 🎄🐾 #shorts  【FUWAMOCO 縦型配信 VERTICAL】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735005600,
+        "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾  【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -294,17 +294,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734955200,
         "title": "≪XMAS PARTY - OFF COLLAB≫ WE WISH YOU A MERRY CHRISTMAS! #RatMAS2024"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KB76M0gpwcQ",
-        "picture": "https://i.ytimg.com/vi/KB76M0gpwcQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PEJUANG SENIN】#90 next week is.. not 2025 yet!【Kaela\u0026#39;s Monday Warrior】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -393,5 +382,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1734991200,
         "title": "【朝ASMR】ふええええ!?起きてきちゃった!?どどど…どうしよう!?＃ろぼサンタのASMR【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=5ljJxQ97Yq0",
+        "picture": "https://i.ytimg.com/vi/5ljJxQ97Yq0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Balatro】REHAB FROM CHECKERED DECK【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
