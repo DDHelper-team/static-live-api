@@ -276,12 +276,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7Yuvj_JFJwY",
         "picture": "https://i.ytimg.com/vi/7Yuvj_JFJwY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734955200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪XMAS PARTY - OFF COLLAB≫ WE WISH YOU A MERRY CHRISTMAS! #RatMAS2024"
     },
     {
@@ -294,17 +294,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Feign】第3回 #ホロスタおバカ人狼 【律可 / ホロスターズ】#ホロスタWinter2024"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=e4EqhPvr1t8",
-        "picture": "https://i.ytimg.com/vi/e4EqhPvr1t8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロペア】ホロペア以心伝心調査　検証：猫又おかゆ＆鷹嶺ルイ【ホロライブ/白上フブキ/猫又おかゆ/鷹嶺ルイ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -331,13 +320,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BuhO6ZmH3c8",
-        "picture": "https://i.ytimg.com/vi/BuhO6ZmH3c8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FNPMRokXtYU",
+        "picture": "https://i.ytimg.com/vi/FNPMRokXtYU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Feign】おバカには自信があります!! #ホロスタおバカ人狼【花咲みやび/ホロスターズ】#ホロスタWinter2024"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735023600,
+        "title": "【料理配信】クリスマスケーキ作って食べる!!【花咲みやび/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -364,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9YmRNCKCLlo",
         "picture": "https://i.ytimg.com/vi/9YmRNCKCLlo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734955200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Selling Souls】Gib Souls😈 君たちの魂、貰うね！ 【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
@@ -409,12 +398,12 @@
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=ClSZGnbHYR0",
-        "picture": "https://i.ytimg.com/vi/ClSZGnbHYR0/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=2JciZo2afXg",
+        "picture": "https://i.ytimg.com/vi/2JciZo2afXg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1734955200,
-        "title": "【待機所】この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": null,
+        "timestamp": 1757415600,
+        "title": "freechat🖋️"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -437,5 +426,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735038000,
         "title": "【 #らでんちゃん100万人 】チャンネル登録者100万人まで歌います！達成したら嬉しい告知あります！【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8J2afc0CSwk",
+        "picture": "https://i.ytimg.com/vi/8J2afc0CSwk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735041000,
+        "title": "獅白ぼたんとクリスマス闘night🎄 ―朝までスト6を遊ぶイベント会場の様子―【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_i3WEJNBteU",
+        "picture": "https://i.ytimg.com/vi/_i3WEJNBteU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1734958800,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
     }
 ]
