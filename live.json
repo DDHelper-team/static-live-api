@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "The Curse of the Catburger! Will you be next? That\u0026#39;s right! There\u0026#39;s no escaping (especially if you disobey my commands)! !lavalamp !bwaa"
+        "title": "Blame Vadul !lavalamp !bwaa !kryeg14 !eliv !pipes"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -342,13 +342,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=M1OlsAtd6D8",
-        "picture": "https://i.ytimg.com/vi/M1OlsAtd6D8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_8KI-dNtSRE",
+        "picture": "https://i.ytimg.com/vi/_8KI-dNtSRE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ELDEN RING】#31 聖夜のクリスマスマレニア！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735113600,
+        "title": "【歌枠】盛り上がってるかああああ！！！！😎🎄  #ホロクリスマス歌枠リレー 【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
@@ -404,28 +404,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735117200,
         "title": "【歌枠】#ホロクリスマス歌枠リレー ホロオリ曲ノンストップメドレー！Singing Stream【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AZ3d9TAGQOc",
-        "picture": "https://i.ytimg.com/vi/AZ3d9TAGQOc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVE】Karaoke!!【Moona Hoshinova】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MK2zTP_Y1fo",
-        "picture": "https://i.ytimg.com/vi/MK2zTP_Y1fo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -569,5 +547,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Home Alone Watchalong】Gaki, watch out!!!! There\u0026#39;s a thief!!!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3Utxr_XKd4c",
+        "picture": "https://i.ytimg.com/vi/3Utxr_XKd4c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735118400,
+        "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
