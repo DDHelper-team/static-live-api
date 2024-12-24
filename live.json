@@ -265,13 +265,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GVqkIhhH9Ig",
-        "picture": "https://i.ytimg.com/vi/GVqkIhhH9Ig/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=INFI9FahPY0",
+        "picture": "https://i.ytimg.com/vi/INFI9FahPY0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【リアル凸待ち】クリスマスはホロライブと過ごしませんか！？【ホロライブ/夏色まつり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735052400,
+        "title": "🏮みんなの交流場🏮"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
@@ -368,20 +368,20 @@
         "link": "https://www.youtube.com/watch?v=n-QiDZa-mBE",
         "picture": "https://i.ytimg.com/vi/n-QiDZa-mBE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1735027200,
         "title": "チキン冷やし会場2024【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pobJ5_DKG2M",
         "picture": "https://i.ytimg.com/vi/pobJ5_DKG2M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735027200,
-        "title": "【 ときめきメモリアル 】X’masなので、難易度が超絶高い双子の彼女作ります。【鷹嶺ルイ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 ときめきメモリアル2 】X’masなので、難易度高い隠しキャラ双子妹の彼女作ります。【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
@@ -408,12 +408,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vaXfxfgkjBE",
         "picture": "https://i.ytimg.com/vi/vaXfxfgkjBE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735027200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【クリスマス逆凸】青サンタからお世話になったよいこたちへ【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -430,13 +430,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oqitmvP6Heg",
-        "picture": "https://i.ytimg.com/vi/oqitmvP6Heg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EwG8AaJh7Ls",
+        "picture": "https://i.ytimg.com/vi/EwG8AaJh7Ls/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Arctic Eggs】Let Her Cook"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735092000,
+        "title": "【Unarchived X-Mas Karaoke】Caroling With New 3D X-Mas Outfit 🧑‍🎄"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -540,12 +540,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QyjKQ14MFDs",
         "picture": "https://i.ytimg.com/vi/QyjKQ14MFDs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735027200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Path of Exile 2】having fun with POE2【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=znC8jNUvDTs",
+        "picture": "https://i.ytimg.com/vi/znC8jNUvDTs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735041600,
+        "title": "【クリスマスイブ！】LIVEでいただいたたくさんの差し入れを開封すっぞ！！【#新人vtuber 】"
     }
 ]
