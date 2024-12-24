@@ -254,12 +254,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FNPMRokXtYU",
         "picture": "https://i.ytimg.com/vi/FNPMRokXtYU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735023600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【料理配信】クリスマスケーキ作って食べる!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -525,5 +525,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735106400,
         "title": "【#ホロクリスマス歌枠リレー】めり～はろ～ぼ～！！ろぼサンタクロースも歌うんじゃ～い🎤💝【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4k30QNkhxC8",
+        "picture": "https://i.ytimg.com/vi/4k30QNkhxC8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735041600,
+        "title": "【Flightradar24】フライトレーダーでサンタ大追跡！Merry Christmas！【ホロライブ / AZKi】"
     }
 ]
