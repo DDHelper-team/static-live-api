@@ -243,12 +243,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MF4lyEbnB2s",
         "picture": "https://i.ytimg.com/vi/MF4lyEbnB2s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735002000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪KUUKIYOMI 4≫ YOU HAVE TO CONSIDER"
     },
     {
@@ -415,5 +415,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735045200,
         "title": "【The Forest】#塩シャチ クリスマスデート🎄食人族の住む森へ・・・【ホロライブ/紫咲シオン/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=biIXB1688Cc",
+        "picture": "https://i.ytimg.com/vi/biIXB1688Cc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735084800,
+        "title": "I\u0026#39;m just a Single Mother with 99 Problems【Christmas Eve Roleplay】"
     }
 ]
