@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "The G.O.A.T. of living !subathon !hairtransplant !bwaa !tinder"
+        "title": "!lavalamp !bwaa stocks featured on the frontpage of r/All have an inflation rate of over 9000"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -287,24 +287,13 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=65c_v5MjfuU",
-        "picture": "https://i.ytimg.com/vi/65c_v5MjfuU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fGXsUEZ1HF8",
+        "picture": "https://i.ytimg.com/vi/fGXsUEZ1HF8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【クリスマス】今年もケーキたべるだけ雑談【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FmhsWhyUomc",
-        "picture": "https://i.ytimg.com/vi/FmhsWhyUomc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ASMR雜談🎄｜聖誕夜與女友甜蜜相處-聖誕特輯 讓你不孤單｜Earwaxing whispering｜あまあま耳かき、囁き【KU100／黑3DIO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735122000,
+        "title": "【#ホロクリスマス歌枠リレー】19:20～！轟けお歌！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -472,17 +461,6 @@
         "title": "【 #ホロライブ歌枠リレー 】１２：２０～ ２番手！歌います！【大神ミオ】"
     },
     {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YYbn8dpwg1A",
-        "picture": "https://i.ytimg.com/vi/YYbn8dpwg1A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#絕區零 】平安夜快樂~ 一起來跟雅度過幸福平安夜吧!!【#遊戲個人勢 / Fingla】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "islive": true,
@@ -580,5 +558,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735099200,
         "title": "【Members Only Watchalong】Die Hard Christmas Watchalong"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gmc5dCDDws0",
+        "picture": "https://i.ytimg.com/vi/gmc5dCDDws0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735107600,
+        "title": "酔いがさめたらサムネ配置します【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
