@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "After hours stream | !lavalamp"
+        "title": "eeping | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -265,12 +265,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GVqkIhhH9Ig",
         "picture": "https://i.ytimg.com/vi/GVqkIhhH9Ig/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735016400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【リアル凸待ち】クリスマスはホロライブと過ごしませんか！？【ホロライブ/夏色まつり】"
     },
     {
@@ -417,17 +417,6 @@
         "title": "I\u0026#39;m just a Single Mother with 99 Problems【Christmas Eve Roleplay】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QIQnwYp3tjY",
-        "picture": "https://i.ytimg.com/vi/QIQnwYp3tjY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【LEAGUE OF LEGENDS】I GAVE INTO PEER PRESSURE"
-    },
-    {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": false,
@@ -514,5 +503,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735100400,
         "title": "🛸【歌枠】 ✧︎SINGING! ✧︎何がハッピーですか？ #ホロクリスマス歌枠リレー【ラプラス・ダークネス/ホロライブ】💜"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p6OtlU4Hqh0",
+        "picture": "https://i.ytimg.com/vi/p6OtlU4Hqh0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735030800,
+        "title": "【STREET FIGHTER 6】🎅Christmas🎄に眷属と１００本勝負する🔥【常闇トワ/ホロライブ】"
     }
 ]
