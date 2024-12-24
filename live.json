@@ -232,13 +232,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=i3hfGAlJZ54",
-        "picture": "https://i.ytimg.com/vi/i3hfGAlJZ54/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9Ue0uNhdzbo",
+        "picture": "https://i.ytimg.com/vi/9Ue0uNhdzbo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾  【FUWAMOCO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735092000,
+        "title": "【CHRISTMAS EVE WITH YOU】snowed in on christmas together 💕🐾【FUWAMOCO CHOOSE YOUR ADVENTURE】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -514,5 +514,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735030800,
         "title": "【STREET FIGHTER 6】🎅Christmas🎄に眷属と１００本勝負する🔥【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hlf9V7lECpE",
+        "picture": "https://i.ytimg.com/vi/hlf9V7lECpE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735066800,
+        "title": "UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE"
     }
 ]
