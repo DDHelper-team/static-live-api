@@ -364,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n-QiDZa-mBE",
         "picture": "https://i.ytimg.com/vi/n-QiDZa-mBE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1735027200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "チキン冷やし会場2024【ホロライブ/兎田ぺこら】"
     },
     {
@@ -558,5 +558,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735041600,
         "title": "【クリスマスイブ！】LIVEでいただいたたくさんの差し入れを開封すっぞ！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MK2zTP_Y1fo",
+        "picture": "https://i.ytimg.com/vi/MK2zTP_Y1fo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735041600,
+        "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tgC3RbODOwQ",
+        "picture": "https://i.ytimg.com/vi/tgC3RbODOwQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735045200,
+        "title": "【 -`💬 雑談/ZATSU 】勝手にやってくるクリスマスイブ、みんなで過ごす日🎄【獅子神レオナ/Re:AcT】"
     }
 ]
