@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "This is not the worst stream you\u0026#39;ve watched"
+        "title": "After hours stream | !lavalamp"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -428,17 +428,6 @@
         "title": "BACK IN THE RIFT | League of Legends"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qgImSMYMvlY",
-        "picture": "https://i.ytimg.com/vi/qgImSMYMvlY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】ランチの時間にちょこっとクリスマス♪【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": true,
@@ -514,5 +503,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735047000,
         "title": "【Home Alone Watchalong】Gaki, watch out!!!! There\u0026#39;s a thief!!!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=M1OlsAtd6D8",
+        "picture": "https://i.ytimg.com/vi/M1OlsAtd6D8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735034400,
+        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RiBh7ul_FGg",
+        "picture": "https://i.ytimg.com/vi/RiBh7ul_FGg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735100400,
+        "title": "🛸【歌枠】 ✧︎SINGING! ✧︎何がハッピーですか？ #ホロクリスマス歌枠リレー【ラプラス・ダークネス/ホロライブ】💜"
     }
 ]
