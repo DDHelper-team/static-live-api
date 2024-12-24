@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=inYwH5VuRfs",
         "picture": "https://i.ytimg.com/vi/inYwH5VuRfs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735045200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Forest】#塩シャチ クリスマスデート🎄食人族の住む森へ・・・【ホロライブ/紫咲シオン/沙花叉クロヱ】"
     },
     {
@@ -391,8 +391,8 @@
         "picture": "https://i.ytimg.com/vi/I6A88l8-HNg/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735045200,
-        "title": "【 メンバー限定 】メリクリ特別企画🎅んなサンタのASMRごっこ…なのら💓【姫森ルーナ/ホロライブ】"
+        "timestamp": 1735048800,
+        "title": "【 メンバー限定 】Xmas特別企画🎅んなサンタのはわわなASMR…なのら💓【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -507,23 +507,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MK2zTP_Y1fo",
         "picture": "https://i.ytimg.com/vi/MK2zTP_Y1fo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735045200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tgC3RbODOwQ",
         "picture": "https://i.ytimg.com/vi/tgC3RbODOwQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735045200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`💬 雑談/ZATSU 】勝手にやってくるクリスマスイブ、みんなで過ごす日🎄【獅子神レオナ/Re:AcT】"
     },
     {
@@ -562,12 +562,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YYbn8dpwg1A",
         "picture": "https://i.ytimg.com/vi/YYbn8dpwg1A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735045200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#絕區零 】平安夜快樂~ 一起來跟雅度過幸福平安夜吧!!【#遊戲個人勢 / Fingla】"
     },
     {
@@ -584,12 +584,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ig55MMMhARE",
         "picture": "https://i.ytimg.com/vi/Ig55MMMhARE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735045200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MiSide】Rizzing Anime Girl So We Can Be Together Forever【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -635,5 +635,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ちょこっとクッキング】今回はクリスマスディナー🎄ご堪能あれ!!!!!!!!!!!!【ホロライブ/癒月ちょこ/雪花ラミィ/ロボ子さん/轟はじめ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j3s817jLOZ4",
+        "picture": "https://i.ytimg.com/vi/j3s817jLOZ4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735131600,
+        "title": "【聖誕節特別活動】祝大家聖誕快樂，準備了小活動，大家也來玩玩看吧 🎄"
     }
 ]
