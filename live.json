@@ -298,13 +298,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y9UDLdD08_M",
         "picture": "https://i.ytimg.com/vi/Y9UDLdD08_M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735012800,
-        "title": "【UNARCHIVED KARAOKE】Festive Singing🎄"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【UNARCHIVED KARAOKE】Festive Christmas Singing🎄"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -474,12 +474,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oqitmvP6Heg",
         "picture": "https://i.ytimg.com/vi/oqitmvP6Heg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735012800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Arctic Eggs】Let Her Cook"
     },
     {
@@ -503,5 +503,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735050600,
         "title": "【ASMR/Member Only】ノエサンタとメリークリスマス🔔あまあま距離でお耳に元気をプレゼント🎄🎁💗【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6iOdOckzVIY",
+        "picture": "https://i.ytimg.com/vi/6iOdOckzVIY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735047000,
+        "title": "【Home Alone Watchalong】Gaki, watch out!!!! There\u0026#39;s a thief!!!!!"
     }
 ]
