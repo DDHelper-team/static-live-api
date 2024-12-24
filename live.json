@@ -209,7 +209,7 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -382,17 +382,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735084800,
         "title": "I\u0026#39;m just a Single Mother with 99 Problems【Christmas Eve Roleplay】"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vaXfxfgkjBE",
-        "picture": "https://i.ytimg.com/vi/vaXfxfgkjBE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【クリスマス逆凸】青サンタからお世話になったよいこたちへ【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
@@ -580,5 +569,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735120800,
         "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u2cxysVdQn8",
+        "picture": "https://i.ytimg.com/vi/u2cxysVdQn8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735048800,
+        "title": "【メンバーシップ限定】クリスマスをミオを一緒に過ごそうね...【パチパチろうそく】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YYbn8dpwg1A",
+        "picture": "https://i.ytimg.com/vi/YYbn8dpwg1A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735045200,
+        "title": "【#絕區零 】平安夜快樂~ 一起來跟雅度過幸福平安夜吧!!【#遊戲個人勢 / Fingla】"
     }
 ]
