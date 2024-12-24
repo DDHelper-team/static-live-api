@@ -237,7 +237,7 @@
         "picture": "https://i.ytimg.com/vi/i3hfGAlJZ54/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735005600,
+        "timestamp": 1735009200,
         "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾  【FUWAMOCO】"
     },
     {
@@ -364,13 +364,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5igGypgG3d0",
         "picture": "https://i.ytimg.com/vi/5igGypgG3d0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735002900,
-        "title": "【Path of Exile 2】casual levelling \u0026amp; mapping 🎮【Kaela Kovalskia / hololiveID】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Path of Exile 2】casual levelling 🎮【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -395,17 +395,6 @@
         "title": "【 ときめきメモリアル 】X’masなので、難易度が超絶高い双子の彼女作ります。【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DN_yE9bmiq4",
-        "picture": "https://i.ytimg.com/vi/DN_yE9bmiq4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MINECRAFT】 O world tree o world tree! how beautiful your froglights"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "islive": false,
@@ -426,5 +415,60 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735084800,
         "title": "I\u0026#39;m just a Single Mother with 99 Problems【Christmas Eve Roleplay】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Yj6CH1ZdGpU",
+        "picture": "https://i.ytimg.com/vi/Yj6CH1ZdGpU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "BACK IN THE RIFT | League of Legends"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qgImSMYMvlY",
+        "picture": "https://i.ytimg.com/vi/qgImSMYMvlY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735009200,
+        "title": "【歌枠】ランチの時間にちょこっとクリスマス♪【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=QIQnwYp3tjY",
+        "picture": "https://i.ytimg.com/vi/QIQnwYp3tjY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【LEAGUE OF LEGENDS】I GAVE INTO PEER PRESSURE"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vaXfxfgkjBE",
+        "picture": "https://i.ytimg.com/vi/vaXfxfgkjBE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735027200,
+        "title": "【クリスマス逆凸】青サンタからお世話になったよいこたちへ【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AOSh3Juk7wg",
+        "picture": "https://i.ytimg.com/vi/AOSh3Juk7wg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735034400,
+        "title": "【#シスターマリンの懺悔室】シスターふたりと神父様で…悔い改めて…【ホロライブ/宝鐘マリン・白上フブキ・白銀ノエル】"
     }
 ]
