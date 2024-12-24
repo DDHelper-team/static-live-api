@@ -430,12 +430,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=0lNW3nAYzcI",
-        "picture": "https://i.ytimg.com/vi/0lNW3nAYzcI/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=AZ3d9TAGQOc",
+        "picture": "https://i.ytimg.com/vi/AZ3d9TAGQOc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735054200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVE】Karaoke!!【Moona Hoshinova】"
     },
     {
