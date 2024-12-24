@@ -265,11 +265,11 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=29GoHnaYGLw",
         "picture": "https://i.ytimg.com/vi/29GoHnaYGLw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #らでんちゃん100万人 】チャンネル登録者100万人まで歌います！達成したら嬉しい告知あります！【儒烏風亭らでん #ReGLOSS 】"
     },
@@ -320,24 +320,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FcHSmYW8W5Y",
-        "picture": "https://i.ytimg.com/vi/FcHSmYW8W5Y/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=S05vr11qYDQ",
+        "picture": "https://i.ytimg.com/vi/S05vr11qYDQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#みこスバ】🎄クリスマスイブのキャプテン翼🎄みこスバ対決しゅばあああああああああああ！！！：Captain Tsubasa: Rise of New Champions【ホロライブ/大空スバル】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5igGypgG3d0",
-        "picture": "https://i.ytimg.com/vi/5igGypgG3d0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Path of Exile 2】casual levelling 🎮【Kaela Kovalskia / hololiveID】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735048800,
+        "title": "【】喉がいけそうならメンゲン！厳しければ25日！【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -485,12 +474,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4k30QNkhxC8",
         "picture": "https://i.ytimg.com/vi/4k30QNkhxC8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735041600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Flightradar24】フライトレーダーでサンタ大追跡！Merry Christmas！【ホロライブ / AZKi】"
     },
     {
@@ -507,12 +496,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=znC8jNUvDTs",
         "picture": "https://i.ytimg.com/vi/znC8jNUvDTs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735041600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【クリスマスイブ！】LIVEでいただいたたくさんの差し入れを開封すっぞ！！【#新人vtuber 】"
     },
     {
@@ -523,7 +512,7 @@
         "picture": "https://i.ytimg.com/vi/MK2zTP_Y1fo/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735041600,
+        "timestamp": 1735045200,
         "title": "【歌枠】まぼろしのメリクリ歌枠🎅🎄【百鬼あやめ/ホロライブ】"
     },
     {
@@ -540,12 +529,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x6CAawiiN14",
         "picture": "https://i.ytimg.com/vi/x6CAawiiN14/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735041600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【もはや雑談】冬の曲を知らない歌枠。コラボ告知あり！【ホロライブ/白上フブキ】"
     },
     {
@@ -613,5 +602,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735050600,
         "title": "【 雑談 / メン限 】なにしゃべろうかな【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rTd1LiScU-E",
+        "picture": "https://i.ytimg.com/vi/rTd1LiScU-E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735047000,
+        "title": "【メン限】始まるのか？"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6fo3AR7XM8g",
+        "picture": "https://i.ytimg.com/vi/6fo3AR7XM8g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735048800,
+        "title": "【 Membership 】予定が狂ったクリスマス晩酌。【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=3vCNDP3xbw8",
+        "picture": "https://i.ytimg.com/vi/3vCNDP3xbw8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ちょこっとクッキング】今回はクリスマスディナー🎄ご堪能あれ!!!!!!!!!!!!【ホロライブ/癒月ちょこ/雪花ラミィ/ロボ子さん/轟はじめ】"
     }
 ]
