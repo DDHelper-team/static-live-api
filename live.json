@@ -232,12 +232,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=i3hfGAlJZ54",
         "picture": "https://i.ytimg.com/vi/i3hfGAlJZ54/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735011900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【XMAS HOME 3D REVEAL】silly santa paws is coming to town 🎅🏻🐾  【FUWAMOCO】"
     },
     {
