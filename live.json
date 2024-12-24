@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neuro Attempts to Learn Japanese (Level 0)"
+        "title": "!lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -558,5 +558,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735123200,
         "title": "【 #ホロクリスマス歌枠リレー 】最後まで盛り上がっていきましょー！！！【角巻わため/ホロライブ４期】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=LO9KQ6QB2TA",
+        "picture": "https://i.ytimg.com/vi/LO9KQ6QB2TA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Hogwarts Legacy】What\u0026#39;s Drakoboy Pottaeru doing?"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QyDJKemJICA",
+        "picture": "https://i.ytimg.com/vi/QyDJKemJICA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735124400,
+        "title": "【＃ミリしらパワプロ杯】クリスマス決戦【ホロライブ/兎田ぺこら/白銀ノエル/宝鐘マリン】"
     }
 ]
