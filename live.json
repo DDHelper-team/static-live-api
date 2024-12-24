@@ -209,7 +209,7 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -243,13 +243,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MF4lyEbnB2s",
-        "picture": "https://i.ytimg.com/vi/MF4lyEbnB2s/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fkz1RRRyog4",
+        "picture": "https://i.ytimg.com/vi/fkz1RRRyog4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪KUUKIYOMI 4≫ YOU HAVE TO CONSIDER"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735095600,
+        "title": "≪HOME 3D・CHRISTMAS KARAOKE≫ ITS THE MOST WONDERFUL TIME OF THE YEAR"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
@@ -430,13 +430,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=qgImSMYMvlY",
-        "picture": "https://i.ytimg.com/vi/qgImSMYMvlY/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=QouckWBelUY",
+        "picture": "https://i.ytimg.com/vi/QouckWBelUY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735009200,
-        "title": "【歌枠】ランチの時間にちょこっとクリスマス♪【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -470,5 +470,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735034400,
         "title": "【#シスターマリンの懺悔室】シスターふたりと神父様で…悔い改めて…【ホロライブ/宝鐘マリン・白上フブキ・白銀ノエル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oqitmvP6Heg",
+        "picture": "https://i.ytimg.com/vi/oqitmvP6Heg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735012800,
+        "title": "【Arctic Eggs】Let Her Cook"
     }
 ]
