@@ -626,17 +626,6 @@
         "title": "【 Membership 】予定が狂ったクリスマス晩酌。【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3vCNDP3xbw8",
-        "picture": "https://i.ytimg.com/vi/3vCNDP3xbw8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ちょこっとクッキング】今回はクリスマスディナー🎄ご堪能あれ!!!!!!!!!!!!【ホロライブ/癒月ちょこ/雪花ラミィ/ロボ子さん/轟はじめ】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -646,5 +635,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735131600,
         "title": "【聖誕節特別活動】祝大家聖誕快樂，準備了小活動，大家也來玩玩看吧 🎄"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eVRI4bi75zg",
+        "picture": "https://i.ytimg.com/vi/eVRI4bi75zg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735052400,
+        "title": "【歌枠】クリスマス歌枠！！！-Midnight station -83 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3PTEAiklDBk",
+        "picture": "https://i.ytimg.com/vi/3PTEAiklDBk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735084800,
+        "title": "【DARK SOULS: REMASTERED】Christmas Eve with Fried Chicken and Cake ... AND DARK SOULS!"
     }
 ]
