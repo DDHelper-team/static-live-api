@@ -277,12 +277,12 @@
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=WCTwONwspJ8",
-        "picture": "https://i.ytimg.com/vi/WCTwONwspJ8/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735137000,
-        "title": "【㊗】クリスマス終了カウントダウン❕✨ ケーキを食べましょう❕【メン限配信】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -386,12 +386,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F9TNeKxqeqg",
         "picture": "https://i.ytimg.com/vi/F9TNeKxqeqg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735137000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED KARAOKE】KURI(SUMASU) TO RISU KARAOKE PARTYYYY【Ayunda Risu】"
     },
     {
