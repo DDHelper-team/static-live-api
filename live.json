@@ -309,13 +309,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=j-NWWqVufEM",
-        "picture": "https://i.ytimg.com/vi/j-NWWqVufEM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TpAqk97h4OE",
+        "picture": "https://i.ytimg.com/vi/TpAqk97h4OE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロクリスマス歌枠リレー】3番目ノエル！ノエサンタと楽しく歌おう～ッ🎄🎁🎶【白銀ノエル/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735135200,
+        "title": "【#3期生Xmas会】オフコラボ！念願のタコパしながらクリスマス交換したり夜のワチャワチャパーティー🎄✨【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -442,12 +442,12 @@
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=0AAl0UIj-iU",
-        "picture": "https://i.ytimg.com/vi/0AAl0UIj-iU/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=YgRGMmcfHO8",
+        "picture": "https://i.ytimg.com/vi/YgRGMmcfHO8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735099200,
-        "title": "【Members Only Watchalong】Die Hard Christmas Watchalong"
+        "status": null,
+        "timestamp": 1776135600,
+        "title": "【FREE CHAT】HiRyS!"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
