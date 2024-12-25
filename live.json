@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "goodnight stream !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -395,17 +395,6 @@
         "title": "【歌枠】クリスマスだわよ🎄【緋月ゆい/ネオポルテ】"
     },
     {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=7eeLkVSsaAE",
-        "picture": "https://i.ytimg.com/vi/7eeLkVSsaAE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1735126200,
-        "title": "雜談｜聖誕夜不當哥布靈來和香香妹子們交換禮物辣！🎄🎁ft. @mirotabasuko0808  @nyoro0606tw 【Healing希靈/VTuber】"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
         "islive": false,
@@ -492,5 +481,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735131600,
         "title": "【 -`🎙 歌枠/Singing 】MerryChristmas🎄🌟【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jAVewqTF8rs",
+        "picture": "https://i.ytimg.com/vi/jAVewqTF8rs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735131600,
+        "title": "【クリスマスASMR/メン限】聖夜をキミと【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
