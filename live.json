@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "goodnight stream !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -459,5 +459,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735126200,
         "title": "雜談｜聖誕夜不當哥布靈來和香香妹子們交換禮物辣！🎄🎁【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1BQxj1BatBs",
+        "picture": "https://i.ytimg.com/vi/1BQxj1BatBs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735129800,
+        "title": "【#絕區零 】聖誕節快樂~ 今年也要一起跟大家度過快樂幸福聖誕!!【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ikkhuanGGY8",
+        "picture": "https://i.ytimg.com/vi/ikkhuanGGY8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735128000,
+        "title": "【Jumpscare Scare Jump】Merry SCREAMas👻 メリクリ！びっくり要素50個を全力で耐えろーーー！！ 【hololive ID | Anya Melfissa】"
     }
 ]
