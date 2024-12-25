@@ -408,12 +408,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cajOk-JQbMk",
         "picture": "https://i.ytimg.com/vi/cajOk-JQbMk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735111200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロクリスマス歌枠リレー 】Merry Xmas🎄✨んなサンタがふなふな歌うのら～！！！🎅【姫森ルーナ/ホロライブ】"
     },
     {
