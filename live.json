@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "goodnight stream !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vDCYxbkXN_k",
         "picture": "https://i.ytimg.com/vi/vDCYxbkXN_k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735117200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】#ホロクリスマス歌枠リレー ホロオリ曲ノンストップメドレー！Singing Stream【ホロライブ / AZKi】"
     },
     {
@@ -481,5 +481,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735131600,
         "title": "【FREETALK】MERRY CHRISTMAS!! SICK OLLIE SANTA HERE!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OHqeXpUJ_ak",
+        "picture": "https://i.ytimg.com/vi/OHqeXpUJ_ak/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735128000,
+        "title": "めりーくりすます🎄【風真いろは/ホロライブ】"
     }
 ]
