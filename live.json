@@ -364,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QyDJKemJICA",
         "picture": "https://i.ytimg.com/vi/QyDJKemJICA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735124400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ミリしらパワプロ杯】クリスマス決戦【ホロライブ/兎田ぺこら/白銀ノエル/宝鐘マリン】"
     },
     {
