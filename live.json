@@ -331,13 +331,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=loFy9YoWJrQ",
-        "picture": "https://i.ytimg.com/vi/loFy9YoWJrQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lJtsaZ-fuHs",
+        "picture": "https://i.ytimg.com/vi/lJtsaZ-fuHs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロクリスマス歌枠リレー】めり～はろ～ぼ～！！ろぼサンタクロースも歌うんじゃ～い🎤💝【ホロライブ / ロボ子さん】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735131600,
+        "title": "【メン限】メリクリでちた、晩酌💝【ホロライブ / ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -408,13 +408,13 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gmc5dCDDws0",
         "picture": "https://i.ytimg.com/vi/gmc5dCDDws0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735107600,
-        "title": "酔いがさめたらサムネ配置します【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ホロクリスマス歌枠リレー 】この瞬間は僕だけのクリスマスプリンセス【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
