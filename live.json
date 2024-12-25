@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RiBh7ul_FGg",
         "picture": "https://i.ytimg.com/vi/RiBh7ul_FGg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735100400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "🛸【歌枠】 ✧︎SINGING! ✧︎何がハッピーですか？ #ホロクリスマス歌枠リレー【ラプラス・ダークネス/ホロライブ】💜"
     },
     {
@@ -439,17 +439,6 @@
         "title": "【＃ミリしらパワプロ杯】クリスマス決戦【ホロライブ/兎田ぺこら/白銀ノエル/宝鐘マリン】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=YgRGMmcfHO8",
-        "picture": "https://i.ytimg.com/vi/YgRGMmcfHO8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1776135600,
-        "title": "【FREE CHAT】HiRyS!"
-    },
-    {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": false,
@@ -492,5 +481,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735131601,
         "title": "【歌枠】クリスマスだわよ🎄【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7eeLkVSsaAE",
+        "picture": "https://i.ytimg.com/vi/7eeLkVSsaAE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735126200,
+        "title": "雜談｜聖誕夜不當哥布靈來和香香妹子們交換禮物辣！🎄🎁【Healing希靈/VTuber】"
     }
 ]
