@@ -309,12 +309,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j-NWWqVufEM",
         "picture": "https://i.ytimg.com/vi/j-NWWqVufEM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735098000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロクリスマス歌枠リレー】3番目ノエル！ノエサンタと楽しく歌おう～ッ🎄🎁🎶【白銀ノエル/ホロライブ】"
     },
     {
@@ -382,17 +382,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735120800,
         "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに楽しく歌っていこう！！【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=COCE2eXlkh0",
-        "picture": "https://i.ytimg.com/vi/COCE2eXlkh0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロライブ歌枠リレー 】１２：２０～ ２番手！歌います！【大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
