@@ -397,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1BQxj1BatBs",
         "picture": "https://i.ytimg.com/vi/1BQxj1BatBs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735129800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#絕區零 】聖誕節快樂~ 今年也要一起跟大家度過快樂幸福聖誕!!【#遊戲個人勢 / Fingla】"
     },
     {
@@ -426,17 +426,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735131600,
         "title": "【FREETALK】MERRY CHRISTMAS!! SICK OLLIE SANTA HERE!!【Kureiji Ollie】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OHqeXpUJ_ak",
-        "picture": "https://i.ytimg.com/vi/OHqeXpUJ_ak/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "めりーくりすます🎄【風真いろは/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -525,5 +514,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735131600,
         "title": "【Marvel Rivals】Let\u0026#39;s play together? ❅.⊹₊ ⋆"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DoexGbWV0DM",
+        "picture": "https://i.ytimg.com/vi/DoexGbWV0DM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735135200,
+        "title": "【hololive Treasure Mountain】all i want for Christmas is a big head【Kaela Kovalskia / hololiveID】"
     }
 ]
