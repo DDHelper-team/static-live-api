@@ -232,13 +232,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fkz1RRRyog4",
-        "picture": "https://i.ytimg.com/vi/fkz1RRRyog4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dILxYOgS61M",
+        "picture": "https://i.ytimg.com/vi/dILxYOgS61M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪HOME 3D・CHRISTMAS KARAOKE≫ ITS THE MOST WONDERFUL TIME OF THE YEAR"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735174800,
+        "title": "≪Yakuza 4≫ Morally Grey Men in Suits #4【SPOILER WARNING】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
