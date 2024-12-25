@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "goodnight stream !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -243,12 +243,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fkz1RRRyog4",
         "picture": "https://i.ytimg.com/vi/fkz1RRRyog4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735095600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪HOME 3D・CHRISTMAS KARAOKE≫ ITS THE MOST WONDERFUL TIME OF THE YEAR"
     },
     {
@@ -386,12 +386,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=COCE2eXlkh0",
         "picture": "https://i.ytimg.com/vi/COCE2eXlkh0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735096800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロライブ歌枠リレー 】１２：２０～ ２番手！歌います！【大神ミオ】"
     },
     {
@@ -492,5 +492,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735118400,
         "title": "【 #ホロクリスマス歌枠リレー 】クリスマスに全力で失恋ソングを歌います＾＿＾【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3KpickKGCMA",
+        "picture": "https://i.ytimg.com/vi/3KpickKGCMA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735131601,
+        "title": "【歌枠】クリスマスだわよ🎄【緋月ゆい/ネオポルテ】"
     }
 ]
