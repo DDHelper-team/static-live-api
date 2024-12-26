@@ -364,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bXNXqhaytHg",
         "picture": "https://i.ytimg.com/vi/bXNXqhaytHg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735255800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【縦型/スパチャお礼】今年も残りわずか！お礼できてないスパチャをお礼させてね💗【白銀ノエル/ホロライブ】#shorts"
     },
     {
