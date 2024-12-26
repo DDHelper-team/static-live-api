@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neuro-sama - The Most Dangerous AI In The World"
+        "title": "I will dance if we get 50,000 subs"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -272,17 +272,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【同時視聴】2024年再び…　コマンドー/Commando #聖夜のコマンドー【ホロライブ/白上フブキ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bwVnAd_TUdk",
-        "picture": "https://i.ytimg.com/vi/bwVnAd_TUdk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【STELLAR BLADE】my dreams came true. #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -393,5 +382,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735261200,
         "title": "【MISIDE】i can fix her【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tkBPUV0Cckc",
+        "picture": "https://i.ytimg.com/vi/tkBPUV0Cckc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735264800,
+        "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE"
     }
 ]
