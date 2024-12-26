@@ -393,5 +393,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【多分はじめての朝配信】ガチ寝起きの人【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=S1Fs5TKtV3A",
+        "picture": "https://i.ytimg.com/vi/S1Fs5TKtV3A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735261200,
+        "title": "【MISIDE】i can fix her【Dokibird】"
     }
 ]
