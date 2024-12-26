@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "CHRISTMAS TWIN KARAOKE | !lavalamp !bwaa !kryeg14"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -254,12 +254,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lt90EL61vZQ",
         "picture": "https://i.ytimg.com/vi/lt90EL61vZQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735171200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "A 3D Winter Wonderland Tour【Christmas Special】"
     },
     {
@@ -371,5 +371,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735164000,
         "title": "【INA INA KITCHEN】 Attempting X-mas Mont Blanc!! (It\u0026#39;s Definitely Not Just Matcha Mont Blanc...)"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WAUEdhXvuLQ",
+        "picture": "https://i.ytimg.com/vi/WAUEdhXvuLQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735174800,
+        "title": "HOME ALONE 2, LET\u0026#39;S GO! | Watchalong"
     }
 ]
