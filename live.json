@@ -397,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Dpx6RRSjCV8",
         "picture": "https://i.ytimg.com/vi/Dpx6RRSjCV8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735210800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ドラクエ3リメイク  】話題のドラクエ３リメイクを遅ればせながらプレイ！ 【#新人vtuber 】"
     },
     {
