@@ -408,11 +408,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=bz_k-jIDHDk",
         "picture": "https://i.ytimg.com/vi/bz_k-jIDHDk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "#2【Ace Attorney: Spirit of Justice】IT\u0026#39;S SEANCE TIME (SPOILERS!)【Pavolia Reine/hololiveID 2nd gen】"
     },
