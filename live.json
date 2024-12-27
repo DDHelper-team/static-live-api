@@ -243,12 +243,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z2tuKkNuPag",
         "picture": "https://i.ytimg.com/vi/Z2tuKkNuPag/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735257600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Scrapbook Album Handcam【Try Not to Eat Glitter Challenge】"
     },
     {
@@ -375,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=S1Fs5TKtV3A",
         "picture": "https://i.ytimg.com/vi/S1Fs5TKtV3A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735261200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MISIDE】i can fix her【Dokibird】"
     },
     {
@@ -393,5 +393,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735264800,
         "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xGXhknOmZrA",
+        "picture": "https://i.ytimg.com/vi/xGXhknOmZrA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735344000,
+        "title": "【COZY CHRISTMAS MEMORIES】reliving warm christmas past with your stories 🎅🏻🐾  【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XDmHBYL6D40",
+        "picture": "https://i.ytimg.com/vi/XDmHBYL6D40/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735297200,
+        "title": "【 #カゲマス 】ラプルイで超超超重大告知‼ミッション成功で全プレイヤー豪華プレゼントもあり✨【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】"
     }
 ]
