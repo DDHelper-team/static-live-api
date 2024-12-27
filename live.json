@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Game Jam | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -408,12 +408,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9mtQSC_RMYw",
         "picture": "https://i.ytimg.com/vi/9mtQSC_RMYw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735337700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "You\u0026#39;re a Home Depot Inspector Testing Haunted Cabins 【The Cabin Factory】"
     }
 ]
