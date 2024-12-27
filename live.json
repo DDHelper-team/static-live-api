@@ -281,7 +281,7 @@
         "picture": "https://i.ytimg.com/vi/ALWNU_p88kM/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735264800,
+        "timestamp": 1735266600,
         "title": "【AmiAmi】 End of the Year Wrap-Up with AmiAmi \u0026amp; Ina!!"
     },
     {
@@ -362,17 +362,6 @@
         "title": "【KU100/ASMR】もみもみ♡ごしごし♡ちゅっ♡念入りな奥責めでごっそりお耳の大掃除♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bXNXqhaytHg",
-        "picture": "https://i.ytimg.com/vi/bXNXqhaytHg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【縦型/スパチャお礼】今年も残りわずか！お礼できてないスパチャをお礼させてね💗【白銀ノエル/ホロライブ】#shorts"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": true,
@@ -386,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tkBPUV0Cckc",
         "picture": "https://i.ytimg.com/vi/tkBPUV0Cckc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735264800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE"
     },
     {
@@ -415,5 +404,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735297200,
         "title": "【 #カゲマス 】ラプルイで超超超重大告知‼ミッション成功で全プレイヤー豪華プレゼントもあり✨【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RMvdq3JQ2n0",
+        "picture": "https://i.ytimg.com/vi/RMvdq3JQ2n0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735333200,
+        "title": "【HOLOTALK】With our 32nd guest: Fauna Ceres! #holotalk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u2vA1kQaHzY",
+        "picture": "https://i.ytimg.com/vi/u2vA1kQaHzY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735293600,
+        "title": "【5周年記念日】アポなし逆凸！！１時間以内に何人と喋れる！？【天音かなた/ホロライブ】"
     }
 ]
