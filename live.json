@@ -209,7 +209,7 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -298,12 +298,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QzsGdlYbFKI",
         "picture": "https://i.ytimg.com/vi/QzsGdlYbFKI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1735304400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【拆生日禮物】一年當中最期待的環節 來看看大家寄了什麼 💜"
     },
     {
@@ -384,17 +384,6 @@
         "title": "【3D LIVE】『Pleides』Ninomae Ina\u0026#39;nis 2024 Live #Pleides3D"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=wPXfKeWU2YE",
-        "picture": "https://i.ytimg.com/vi/wPXfKeWU2YE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1760108100,
-        "title": "お知らせ・宣伝するのら💗(・o・🍬)"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": true,
@@ -430,13 +419,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oEtvtFoc3ew",
-        "picture": "https://i.ytimg.com/vi/oEtvtFoc3ew/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B4cZhlZofmI",
+        "picture": "https://i.ytimg.com/vi/B4cZhlZofmI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【漢字でGO! 集英社マンガ祭】マンガ大好き兎田ぺこらは漢字が読めるのか！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735306200,
+        "title": "【メンバーシップ限定】ドキドキASMR【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
