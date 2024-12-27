@@ -263,25 +263,14 @@
         "title": "【同時視聴】2024年再び…　コマンドー/Commando #聖夜のコマンドー【ホロライブ/白上フブキ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ALWNU_p88kM",
-        "picture": "https://i.ytimg.com/vi/ALWNU_p88kM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【AmiAmi】 End of the Year Wrap-Up with AmiAmi \u0026amp; Ina!!"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3NSck9L4Qb4",
         "picture": "https://i.ytimg.com/vi/3NSck9L4Qb4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735272000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Signalis】Something About Cyborgs I Think"
     },
     {
@@ -331,12 +320,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tygnp78XjbM",
         "picture": "https://i.ytimg.com/vi/tygnp78XjbM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735272000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【世界のアソビ大全51】ファウナと一緒に遊ぶよ！！【角巻わため/ホロライブ４期】"
     },
     {
@@ -419,12 +408,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pNb-CVUypp4",
         "picture": "https://i.ytimg.com/vi/pNb-CVUypp4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735272057,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#56 | 完全初見！千織さんに会ってみたい🏵️【緋月ゆい/ネオポルテ】"
     },
     {
@@ -437,5 +426,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735300800,
         "title": "【雑談】クリスマス闘nightおつかれ様でした！年末の雑談あれこれ【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wNWEp2ISLlI",
+        "picture": "https://i.ytimg.com/vi/wNWEp2ISLlI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735273800,
+        "title": "【Path of Exile 2】Let\u0026#39;s continue so i can grind more【Moona Hoshinova】"
     }
 ]
