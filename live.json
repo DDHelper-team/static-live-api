@@ -276,12 +276,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BZJWUUdY7Iw",
         "picture": "https://i.ytimg.com/vi/BZJWUUdY7Iw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735297200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【お絵かきコラボ】神絵師はペンの持ち方にも個性がある【火威青/宝鐘マリン/しぐれうい/ルンルン 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XDmHBYL6D40",
         "picture": "https://i.ytimg.com/vi/XDmHBYL6D40/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735297200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #カゲマス 】ラプルイで超超超重大告知‼ミッション成功で全プレイヤー豪華プレゼントもあり✨【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -419,12 +419,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QDKCxKYX8ks",
         "picture": "https://i.ytimg.com/vi/QDKCxKYX8ks/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735297200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 恐怖の森 森淵 】10年前に流行ったホラゲーの新作やってみる！💦💦【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -441,24 +441,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=d1GdN1cadXU",
         "picture": "https://i.ytimg.com/vi/d1GdN1cadXU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735297200,
-        "title": "【歌枠】歌ってみたで投稿したことある曲を歌う枠【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=I2jvm_PDkxI",
-        "picture": "https://i.ytimg.com/vi/I2jvm_PDkxI/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 お宝マウンテン 】プロプレイヤーに、俺はなる【 桃鈴ねね / hololive 】"
+        "title": "【歌枠】歌ってみたで投稿したことある曲を歌う枠【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
