@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "I will dance if we get 50,000 subs"
+        "title": "Neuro is now sleeping | !lavalamp !kryeg14 !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -239,17 +239,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 #らでんちゃん100万人 】チャンネル登録者100万人まで歌います！達成したら嬉しい告知あります！【儒烏風亭らでん #ReGLOSS 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Z2tuKkNuPag",
-        "picture": "https://i.ytimg.com/vi/Z2tuKkNuPag/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Scrapbook Album Handcam【Try Not to Eat Glitter Challenge】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -276,12 +265,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ALWNU_p88kM",
         "picture": "https://i.ytimg.com/vi/ALWNU_p88kM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735266600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【AmiAmi】 End of the Year Wrap-Up with AmiAmi \u0026amp; Ina!!"
     },
     {
@@ -426,5 +415,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735293600,
         "title": "【5周年記念日】アポなし逆凸！！１時間以内に何人と喋れる！？【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pNb-CVUypp4",
+        "picture": "https://i.ytimg.com/vi/pNb-CVUypp4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735272057,
+        "title": "【原神】#56 | 完全初見！千織さんに会ってみたい🏵️【緋月ゆい/ネオポルテ】"
     }
 ]
