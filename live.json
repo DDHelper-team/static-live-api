@@ -265,11 +265,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=3NSck9L4Qb4",
         "picture": "https://i.ytimg.com/vi/3NSck9L4Qb4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Signalis】Something About Cyborgs I Think"
     },
@@ -459,5 +459,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735304400,
         "title": "【 メンバー限定 】同時視聴『グレムリン 2 / 新・種・誕・生』観るのらぞぉ～！ / Watch party【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QDKCxKYX8ks",
+        "picture": "https://i.ytimg.com/vi/QDKCxKYX8ks/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735297200,
+        "title": "【 恐怖の森 森淵 】10年前に流行ったホラゲーの新作やってみる！💦💦【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
