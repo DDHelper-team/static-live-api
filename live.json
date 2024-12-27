@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Neuro is now sleeping | !lavalamp !kryeg14 !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -417,17 +417,6 @@
         "title": "【MISIDE】MISIDE?? THEN WHAT\u0026#39;S ON YOUR SIDE??【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "islive": true,
@@ -503,5 +492,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735390800,
         "title": "らんま1/2について語りたい【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LausC2ZKHq4",
+        "picture": "https://i.ytimg.com/vi/LausC2ZKHq4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735372800,
+        "title": "【#ろぼちゃま】オフコラボ🔥2024年最後のホラーゲームをクリアして告知をさせていたｄきｍｓｓ【ホロライブ / ロボ子さん】"
     }
 ]
