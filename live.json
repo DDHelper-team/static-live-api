@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neuro is now sleeping | !lavalamp !kryeg14 !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -426,5 +426,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735272057,
         "title": "【原神】#56 | 完全初見！千織さんに会ってみたい🏵️【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=82iYtff2Nrw",
+        "picture": "https://i.ytimg.com/vi/82iYtff2Nrw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735300800,
+        "title": "【雑談】クリスマス闘nightおつかれ様でした！年末の雑談あれこれ【獅白ぼたん/ホロライブ】"
     }
 ]
