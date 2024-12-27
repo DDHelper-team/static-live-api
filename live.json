@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "lavalamp and bwah"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -285,17 +285,6 @@
         "title": "【歌枠】楽しく歌って告知します！！ Singing Stream🎤【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tkBPUV0Cckc",
-        "picture": "https://i.ytimg.com/vi/tkBPUV0Cckc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "REBROADCAST UNARCHIVED KARAOKE feat. MAMARISSA | HAPPY CHRISTMAS EVE"
-    },
-    {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
         "islive": false,
@@ -338,17 +327,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735365600,
         "title": "【デブ活わっしょい！】みんなからもらったお菓子と紅茶でまったりお茶会！！【#新人vtuber 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tqu2ya7sfxo",
-        "picture": "https://i.ytimg.com/vi/tqu2ya7sfxo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MISIDE】MISIDE?? THEN WHAT\u0026#39;S ON YOUR SIDE??【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -404,5 +382,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735363800,
         "title": "【 ホープフルステークス 】まだ今年は終わってない。やってやるさ・・・！【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=T6qmfEr8ypo",
+        "picture": "https://i.ytimg.com/vi/T6qmfEr8ypo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735347600,
+        "title": "You put the mi in misery | MiSide"
     }
 ]
