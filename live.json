@@ -274,17 +274,6 @@
         "title": "【Signalis】Something About Cyborgs I Think"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BZJWUUdY7Iw",
-        "picture": "https://i.ytimg.com/vi/BZJWUUdY7Iw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お絵かきコラボ】神絵師はペンの持ち方にも個性がある【火威青/宝鐘マリン/しぐれうい/ルンルン 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -452,24 +441,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eAWCKM95h_U",
         "picture": "https://i.ytimg.com/vi/eAWCKM95h_U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735308000,
-        "title": "【かまいたちの夜】完全初見でまったりプレイしていく！【ホロライブ / 大神ミオ】"
-    },
-    {
-        "channel": "https://youtube.com/@HACHIVSinger",
-        "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=b0963a9K_xI",
-        "picture": "https://i.ytimg.com/vi/b0963a9K_xI/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【歌枠】のんびり歌枠！- ハニカムステーション！-163【HACHI 】"
+        "title": "【かまいたちの夜】完全初見でまったりプレイしていく！【ホロライブ / 大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
@@ -479,7 +457,7 @@
         "picture": "https://i.ytimg.com/vi/y4wj-6AcsF4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735308000,
+        "timestamp": 1735308900,
         "title": "【Black Desert】EXPLORING AND TRYING DEADEYE!! 🔫【Kaela Kovalskia / hololiveID】"
     },
     {
