@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Spicy Curry Making"
+        "title": "lavalamp and bwah"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -373,17 +373,6 @@
         "title": "【チラ見せ】Hoshimachi Suisei Live Tour 2024 \u0026quot;Spectra of Nova\u0026quot;【福岡サンパレス】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eAWCKM95h_U",
-        "picture": "https://i.ytimg.com/vi/eAWCKM95h_U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【かまいたちの夜】完全初見でまったりプレイしていく！【ホロライブ / 大神ミオ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -415,5 +404,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735372800,
         "title": "【#ろぼちゃま】オフコラボ🔥2024年最後のホラーゲームをクリアして告知をさせていたｄきｍｓｓ【ホロライブ / ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YI_ee7II1K0",
+        "picture": "https://i.ytimg.com/vi/YI_ee7II1K0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735363800,
+        "title": "【 ホープフルステークス 】まだ今年は終わってない。やってやるさ・・・！【鷹嶺ルイ/ホロライブ】"
     }
 ]
