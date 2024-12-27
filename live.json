@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neuro is now sleeping | !lavalamp !kryeg14 !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -470,5 +470,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735297200,
         "title": "【 恐怖の森 森淵 】10年前に流行ったホラゲーの新作やってみる！💦💦【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u01nUz4getc",
+        "picture": "https://i.ytimg.com/vi/u01nUz4getc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735365600,
+        "title": "【デブ活わっしょい！】みんなからもらったお菓子と紅茶でまったりお茶会！！【#新人vtuber 】"
     }
 ]
