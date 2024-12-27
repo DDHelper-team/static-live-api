@@ -452,12 +452,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y4wj-6AcsF4",
         "picture": "https://i.ytimg.com/vi/y4wj-6AcsF4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735308900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Black Desert】EXPLORING AND TRYING DEADEYE!! 🔫【Kaela Kovalskia / hololiveID】"
     },
     {
