@@ -320,12 +320,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LausC2ZKHq4",
         "picture": "https://i.ytimg.com/vi/LausC2ZKHq4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735372800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ろぼちゃま】オフコラボ🔥2024年最後のホラーゲームをクリアして告知をさせていたｄきｍｓｓ【ホロライブ / ロボ子さん】"
     },
     {
@@ -441,12 +441,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8xsBsE41d8Y",
         "picture": "https://i.ytimg.com/vi/8xsBsE41d8Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735372800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【かまいたちの夜】完全初見でまったりプレイしていく！後半【ホロライブ / 大神ミオ】"
     },
     {
