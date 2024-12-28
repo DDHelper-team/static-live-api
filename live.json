@@ -298,12 +298,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4WXYgEwJjBA",
         "picture": "https://i.ytimg.com/vi/4WXYgEwJjBA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735412400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STEAM SALE】lets go shopping for me and HoloEN! #kfp #キアライブ"
     },
     {
