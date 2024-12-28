@@ -452,12 +452,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gd65lfQtRIo",
         "picture": "https://i.ytimg.com/vi/gd65lfQtRIo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735362000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】アレにレールを引く【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
