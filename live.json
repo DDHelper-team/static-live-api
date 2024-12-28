@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YI_ee7II1K0",
         "picture": "https://i.ytimg.com/vi/YI_ee7II1K0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735363800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ホープフルステークス 】まだ今年は終わってない。やってやるさ・・・！【鷹嶺ルイ/ホロライブ】"
     },
     {
