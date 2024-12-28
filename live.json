@@ -298,13 +298,13 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=N2IgCwTYMXA",
         "picture": "https://i.ytimg.com/vi/N2IgCwTYMXA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735390800,
-        "title": "らんま1/2について語りたい【轟はじめ/ReGLOSS】 #hololivedev_is"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ネタバレ含む】らんま1/2について語りたい【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -402,8 +402,8 @@
         "picture": "https://i.ytimg.com/vi/3oDujra5ewk/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735390800,
-        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
+        "timestamp": 1735391700,
+        "title": "【ホロパレード】2期生＆5期生実装!? ホロメンで侵略するゲームやるぞおおおおお！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -448,5 +448,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "『星期六雜談 』怎麼突然就年末了【久田はくぜん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=gNlEugPG42I",
+        "picture": "https://i.ytimg.com/vi/gNlEugPG42I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【theHunter: Call of the Wild】深夜の狩り【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GDOn9JNBAGA",
+        "picture": "https://i.ytimg.com/vi/GDOn9JNBAGA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735477200,
+        "title": "【GeoGuessr】大神ミオ、初めてのゲッサーはアズちゃんと群馬観光です！【AZKi / 大神ミオ】"
     }
 ]
