@@ -276,12 +276,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=u01nUz4getc",
         "picture": "https://i.ytimg.com/vi/u01nUz4getc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735365600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【デブ活わっしょい！】みんなからもらったお菓子と紅茶でまったりお茶会！！【#新人vtuber 】"
     },
     {
