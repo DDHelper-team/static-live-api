@@ -287,13 +287,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4WXYgEwJjBA",
-        "picture": "https://i.ytimg.com/vi/4WXYgEwJjBA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=h7eZoUiaaFU",
+        "picture": "https://i.ytimg.com/vi/h7eZoUiaaFU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【STEAM SALE】lets go shopping for me and HoloEN! #kfp #キアライブ"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735488000,
+        "title": "【STELLAR BLADE】looking respectfully. #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
