@@ -276,12 +276,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TUSxz_lIWgU",
         "picture": "https://i.ytimg.com/vi/TUSxz_lIWgU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735387200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ドラクエ3リメイク  】さあいよいよ世界に冒険に出るぞ！#2 【#新人vtuber 】"
     },
     {
@@ -320,13 +320,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F1uSNR8-oTo",
         "picture": "https://i.ytimg.com/vi/F1uSNR8-oTo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735387200,
-        "title": "【#大空警察2024】大空警察2024 /OOZORA Police【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#大空警察2024】大空警察2024しゅばああああああああああああああああああああああああ！！！！ /OOZORA Police 2024【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -430,12 +430,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2fdOESJIp50",
         "picture": "https://i.ytimg.com/vi/2fdOESJIp50/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735387218,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【不審者通報しました。】わるいひとをせいばいする。【緋月ゆい/ネオポルテ】"
     },
     {
@@ -459,5 +459,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735430400,
         "title": "【MiSide】A cute girl by your side! What could go wrong?"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hakuzen0025",
+        "channellink": "https://www.youtube.com/@Hakuzen0025",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=8iMSCuoCIIk",
+        "picture": "https://i.ytimg.com/vi/8iMSCuoCIIk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "『星期六雜談 』怎麼突然就年末了【久田はくぜん】"
     }
 ]
