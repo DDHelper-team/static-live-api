@@ -386,12 +386,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7TEoJbtMQmI",
         "picture": "https://i.ytimg.com/vi/7TEoJbtMQmI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735380000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "雜談｜和大家一起吃炸雞桶！！好吃好吃【Healing希靈/VTuber】"
     },
     {
@@ -441,12 +441,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QrM2c7nOWEo",
         "picture": "https://i.ytimg.com/vi/QrM2c7nOWEo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735380000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】KAWAII SONG♪【ホロライブ/夏色まつり】"
     },
     {
