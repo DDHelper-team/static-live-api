@@ -397,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3oDujra5ewk",
         "picture": "https://i.ytimg.com/vi/3oDujra5ewk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735391700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロパレード】2期生＆5期生実装!? ホロメンで侵略するゲームやるぞおおおおお！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -437,17 +437,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735430400,
         "title": "【MiSide】A cute girl by your side! What could go wrong?"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hakuzen0025",
-        "channellink": "https://www.youtube.com/@Hakuzen0025",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8iMSCuoCIIk",
-        "picture": "https://i.ytimg.com/vi/8iMSCuoCIIk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "『星期六雜談 』怎麼突然就年末了【久田はくぜん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
