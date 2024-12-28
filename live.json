@@ -276,12 +276,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3n9igJnSXtQ",
         "picture": "https://i.ytimg.com/vi/3n9igJnSXtQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735354800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D LIVE】『Pleides』Ninomae Ina\u0026#39;nis 2024 Live #Pleides3D"
     },
     {
@@ -415,5 +415,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735358400,
         "title": "【ネタバレあり】FINAL FANTASY Ⅵ～新しい仲間に出会えるだろうか～【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gNlEugPG42I",
+        "picture": "https://i.ytimg.com/vi/gNlEugPG42I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735389000,
+        "title": "【theHunter: Call of the Wild】深夜の狩り【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7TEoJbtMQmI",
+        "picture": "https://i.ytimg.com/vi/7TEoJbtMQmI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735380000,
+        "title": "雜談｜和大家一起吃炸雞桶！！好吃好吃【Healing希靈/VTuber】"
     }
 ]
