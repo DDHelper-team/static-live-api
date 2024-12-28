@@ -274,17 +274,6 @@
         "title": "【Signalis】Something About Cyborgs I Think"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3n9igJnSXtQ",
-        "picture": "https://i.ytimg.com/vi/3n9igJnSXtQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【3D LIVE】『Pleides』Ninomae Ina\u0026#39;nis 2024 Live #Pleides3D"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -408,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BGdtGE_o02k",
         "picture": "https://i.ytimg.com/vi/BGdtGE_o02k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735358400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ネタバレあり】FINAL FANTASY Ⅵ～新しい仲間に出会えるだろうか～【ホロライブ/ときのそら】"
     },
     {
