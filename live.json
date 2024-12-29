@@ -430,13 +430,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=thtTuMciYuE",
-        "picture": "https://i.ytimg.com/vi/thtTuMciYuE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6Rfl-u7Gw9I",
+        "picture": "https://i.ytimg.com/vi/6Rfl-u7Gw9I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Duck Detective: The Secret Salami≫ THE POWER OF MOOSE COMPELS YOU"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735520400,
+        "title": "≪Someone Stole MY LUNCH!≫ I Cannot Believe This Has Happened."
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
