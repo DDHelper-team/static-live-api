@@ -309,13 +309,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NBeZlrSqqIc",
-        "picture": "https://i.ytimg.com/vi/NBeZlrSqqIc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GcXVe-x44dw",
+        "picture": "https://i.ytimg.com/vi/GcXVe-x44dw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ダークソウル3 】DLC第2弾に挑戦するのら～～～！！！DARK SOULS Ⅲ ＃02【姫森ルーナ/ホロライブ】ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735477200,
+        "title": "忘年会んなああああ～～～い🍸✨【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -353,24 +353,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4mhZ8e3DKXw",
         "picture": "https://i.ytimg.com/vi/4mhZ8e3DKXw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735466400,
-        "title": "【＃ミリしらパワプロ杯】ホロ甲３チームとPK學院で試合！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DoIDomrM_jk",
-        "picture": "https://i.ytimg.com/vi/DoIDomrM_jk/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#8】キャプテン翼 RISE OF NEW CHAMPIONSやるしゅばああああああああああああ：Captain Tsubasa: Rise of New Champions【ネタバレあり】"
+        "title": "【＃ミリしらパワプロ杯】ホロ甲３チームとPK學院で試合！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -386,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=etNVg6-hXSk",
         "picture": "https://i.ytimg.com/vi/etNVg6-hXSk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735466400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【マリオカート8DX】ホロスタ全員でわちゃわちゃレース!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -408,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xQNzoV9F-P4",
         "picture": "https://i.ytimg.com/vi/xQNzoV9F-P4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735466400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【マリオカート8DX】年末全員コラボｷﾀー！【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -430,13 +419,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JdsCaaKuAQc",
         "picture": "https://i.ytimg.com/vi/JdsCaaKuAQc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735466400,
-        "title": "【マリオカート8DX】律可視点【律可/ホロスターズ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【マリオカート8DX】律可視点【律可/ホロスターズ】#ホロスタWinter2024"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
