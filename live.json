@@ -373,17 +373,6 @@
         "title": "【 #わため王決定戦 】角巻わため5周年企画！わため王は誰だ？！【角巻わため/ホロライブ４期生】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=etNVg6-hXSk",
-        "picture": "https://i.ytimg.com/vi/etNVg6-hXSk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【マリオカート8DX】ホロスタ全員でわちゃわちゃレース!!【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "islive": false,
@@ -393,17 +382,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735520400,
         "title": "≪Someone Stole MY LUNCH!≫ I Cannot Believe This Has Happened."
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xQNzoV9F-P4",
-        "picture": "https://i.ytimg.com/vi/xQNzoV9F-P4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【マリオカート8DX】年末全員コラボｷﾀー！【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -419,11 +397,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=JdsCaaKuAQc",
         "picture": "https://i.ytimg.com/vi/JdsCaaKuAQc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【マリオカート8DX】律可視点【律可/ホロスターズ】#ホロスタWinter2024"
     },
@@ -470,5 +448,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735479000,
         "title": "【 -`💬 雑談/ZATSU 】リアクト年末ライブ、終わってしまったのか【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_FCwoGY2Deo",
+        "picture": "https://i.ytimg.com/vi/_FCwoGY2Deo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735509600,
+        "title": "【CHAT】 Pleides Aftertalk + Short Chit Chat + ....Something Else?!"
     }
 ]
