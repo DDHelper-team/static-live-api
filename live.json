@@ -298,13 +298,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2Bp8r6Q0G3w",
-        "picture": "https://i.ytimg.com/vi/2Bp8r6Q0G3w/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oTOdzb2Qlr0",
+        "picture": "https://i.ytimg.com/vi/oTOdzb2Qlr0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【HOLIDAY SUPERCHAT READING】tidings of comfort and joy 🐾✨  【FUWAMOCO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735524000,
+        "title": "【WATCHALONG: THE PRINCESS SWITCH 2】our silly holiday romance movie tradition 🐾【MEMBERS ONLY】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -496,12 +496,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qHWZApdWaMk",
         "picture": "https://i.ytimg.com/vi/qHWZApdWaMk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735459200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#poe2 】最近很沉迷的遊戲~重練之後努力過第一章!!【#遊戲個人勢 / Fingla】"
     }
 ]
