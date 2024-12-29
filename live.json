@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "bedge | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -419,12 +419,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3AvmiR0KzMA",
         "picture": "https://i.ytimg.com/vi/3AvmiR0KzMA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735479000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`💬 雑談/ZATSU 】リアクト年末ライブ、終わってしまったのか【獅子神レオナ/Re:AcT】"
     },
     {
