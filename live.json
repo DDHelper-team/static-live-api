@@ -329,17 +329,6 @@
         "title": "【GeoGuessr】大神ミオ、初めてのゲッサーはアズちゃんと群馬観光です！【AZKi / 大神ミオ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vrUYaspMjvU",
-        "picture": "https://i.ytimg.com/vi/vrUYaspMjvU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MiSide：ミサイド】Anime Waifu Simulator here we go"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": false,
@@ -408,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8hHRxNEpCnU",
         "picture": "https://i.ytimg.com/vi/8hHRxNEpCnU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735473601,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】ゆるく探索しながら、ニウともしもし📞【緋月ゆい/ネオポルテ】"
     },
     {
