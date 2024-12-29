@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "bedge | !lavalamp !bwaa"
+        "title": "NOWAYING gm neuro | !lavalamp"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -373,17 +373,6 @@
         "title": "【＃世界で1番かわいい歌枠リレー】きらきら宝石系のかわいさ届けます！【 #TanZ 】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3AvmiR0KzMA",
-        "picture": "https://i.ytimg.com/vi/3AvmiR0KzMA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`💬 雑談/ZATSU 】リアクト年末ライブ、終わってしまったのか【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "islive": false,
@@ -437,5 +426,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Freetalk】ちょこめいとからのクズ男エピおかずに食べさせてもらいます【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Dksyk925HpQ",
+        "picture": "https://i.ytimg.com/vi/Dksyk925HpQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735563600,
+        "title": "【生日凸待】今天我生日 餅餅們快來祝我生日快樂 💜"
     }
 ]
