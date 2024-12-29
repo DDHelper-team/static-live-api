@@ -364,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=v_ifmPIxSP0",
         "picture": "https://i.ytimg.com/vi/v_ifmPIxSP0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735471800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #わため王決定戦 】角巻わため5周年企画！わため王は誰だ？！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -459,5 +459,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#poe2 】最近很沉迷的遊戲~重練之後努力過第一章!!【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3AvmiR0KzMA",
+        "picture": "https://i.ytimg.com/vi/3AvmiR0KzMA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735479000,
+        "title": "【 -`💬 雑談/ZATSU 】リアクト年末ライブ、終わってしまったのか【獅子神レオナ/Re:AcT】"
     }
 ]
