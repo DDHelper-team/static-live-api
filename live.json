@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "eepy ai | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -481,5 +481,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735560000,
         "title": "【VRchat】コミケお疲れ様でした＆今年最後の配信"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p0c3lugL3UQ",
+        "picture": "https://i.ytimg.com/vi/p0c3lugL3UQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735560000,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
     }
 ]
