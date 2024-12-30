@@ -309,12 +309,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wCcz-uFqaeA",
         "picture": "https://i.ytimg.com/vi/wCcz-uFqaeA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735531200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ELDEN RING】#32 今年のマレニアは今年のうちに！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
     },
     {
