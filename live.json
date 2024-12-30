@@ -402,7 +402,7 @@
         "picture": "https://i.ytimg.com/vi/7oATOkG7HAc/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735561800,
+        "timestamp": 1735563600,
         "title": "かまってくれる…？"
     },
     {
@@ -485,13 +485,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-TZGK5-45K4",
         "picture": "https://i.ytimg.com/vi/-TZGK5-45K4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735561800,
-        "title": "【歌枠】１０８曲歌う❕SINGING❕ ※サムネ準備中【ラプラス・ダークネス/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【歌枠】１０８曲歌う❕SINGING❕ 【ラプラス・ダークネス/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -503,5 +503,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735565400,
         "title": "【 Membership 】メンバーシップ限定納めしてみる。【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DBJyZ4RKG_o",
+        "picture": "https://i.ytimg.com/vi/DBJyZ4RKG_o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735567200,
+        "title": "【マリカ 1位耐久DAY2】2024年、1位になって年を越したい！！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
