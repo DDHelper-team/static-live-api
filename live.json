@@ -296,17 +296,6 @@
         "title": "【マリオカート8DX】律可視点【律可/ホロスターズ】#ホロスタWinter2024"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wCcz-uFqaeA",
-        "picture": "https://i.ytimg.com/vi/wCcz-uFqaeA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ELDEN RING】#32 今年のマレニアは今年のうちに！！！初見エルデンリング！！！！【天音かなた/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": true,
@@ -386,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yfYos-HaYLw",
         "picture": "https://i.ytimg.com/vi/yfYos-HaYLw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735567200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GeoGuessr】年末ジオゲッサー！2024年最後のゲス納め！【ホロライブ / AZKi】"
     },
     {
@@ -439,17 +428,6 @@
         "title": "【スーパーマリオブラザーズ2】年末に遊ぶにはもってこい！！【ホロライブ/ときのそら】"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wX1Lb1Z1H58",
-        "picture": "https://i.ytimg.com/vi/wX1Lb1Z1H58/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 忘年会 】忘年会が分からない人による忘年会【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -485,12 +463,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DBJyZ4RKG_o",
         "picture": "https://i.ytimg.com/vi/DBJyZ4RKG_o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735567200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【マリカ 1位耐久DAY2】2024年、1位になって年を越したい！！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -518,12 +496,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=idgSxzPr4KY",
         "picture": "https://i.ytimg.com/vi/idgSxzPr4KY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735567200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "雑談 - 焚火を見ながら2024年を振り返る【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -536,5 +514,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735651800,
         "title": "≪#holocountdown2024 - OFFCOLLAB WATCHALONG≫ Starting 2025 THE RIGHT WAY w/ @IRyS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Y17uuSruZVs",
+        "picture": "https://i.ytimg.com/vi/Y17uuSruZVs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735624800,
+        "title": "【時間未定】起きてから始まる年越し耐久【ホロライブ/夏色まつり】"
     }
 ]
