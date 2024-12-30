@@ -209,14 +209,14 @@
         "title": "【  WWE2K22  】闘え､アイドル🔥みっころね24に向けてホロファイター復活‼🔥新ファイター追加していくぜええええ🌙🏮【ホロライブ/さくらみこ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "We\u0026#39;re all trapped in a simulation (!!!!!) | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -430,12 +430,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=drGnCDUQH-g",
         "picture": "https://i.ytimg.com/vi/drGnCDUQH-g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735570800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 漢字でGO! 集英社マンガ祭 】沼りたくない沼りたくない沼りたくない【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -448,17 +448,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【マリカ 1位耐久DAY2】2024年、1位になって年を越したい！！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=J54Ob9zB9qU",
-        "picture": "https://i.ytimg.com/vi/J54Ob9zB9qU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 歌枠 】2024年もありがとうございました！個人枠ラスト！【 桃鈴ねね / hololive 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -503,5 +492,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735624800,
         "title": "【時間未定】起きてから始まる年越し耐久【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YkNaQNdwJsE",
+        "picture": "https://i.ytimg.com/vi/YkNaQNdwJsE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735610400,
+        "title": "【DARK SOULS: REMASTERED】UNGA BUNGA BIBOO!"
     }
 ]
