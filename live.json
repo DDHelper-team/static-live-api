@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JuOIe2UFlrk",
         "picture": "https://i.ytimg.com/vi/JuOIe2UFlrk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735549200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【一問一答】２０２４年最後のロボ子さんに１００の質問✨【ホロライブ/ロボ子さん】"
     },
     {
@@ -448,5 +448,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735563627,
         "title": "【歌枠】2024年ラスト歌枠🎤【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KDLimVFxggU",
+        "picture": "https://i.ytimg.com/vi/KDLimVFxggU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735563600,
+        "title": "配信予定～～～～～！！！2024が終わっちゃう！！告知ある！！【ホロライブ/紫咲シオン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4E3zHPh8FaI",
+        "picture": "https://i.ytimg.com/vi/4E3zHPh8FaI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735563600,
+        "title": "【縦歌枠】歌いおさめ🎤です！りはびり【風真いろは/ホロライブ】"
     }
 ]
