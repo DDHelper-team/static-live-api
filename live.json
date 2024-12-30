@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CbryMQHGCUQ",
         "picture": "https://i.ytimg.com/vi/CbryMQHGCUQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735560000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`💬 同時視聴 / WATCHALONG 】#リアクト年末フェス2024 昼の部『 ShowDown 』【獅子神レオナ/Re:AcT】"
     },
     {
@@ -441,34 +441,67 @@
     {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uv2-QvNx-jw",
         "picture": "https://i.ytimg.com/vi/uv2-QvNx-jw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735560000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VRchat】コミケお疲れ様でした＆今年最後の配信"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p0c3lugL3UQ",
         "picture": "https://i.ytimg.com/vi/p0c3lugL3UQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735560000,
-        "title": "【配信予定地】【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【スーパーマリオブラザーズ2】年末に遊ぶにはもってこい！！【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wX1Lb1Z1H58",
         "picture": "https://i.ytimg.com/vi/wX1Lb1Z1H58/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735560000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 忘年会 】忘年会が分からない人による忘年会【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kqoybkMlveo",
+        "picture": "https://i.ytimg.com/vi/kqoybkMlveo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735563600,
+        "title": "【SUGOROKU CASINO PARTY】beating the CPU using Pemaloe\u0026#39;s luck 😎✋【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-TZGK5-45K4",
+        "picture": "https://i.ytimg.com/vi/-TZGK5-45K4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735561800,
+        "title": "【歌枠】１０８曲歌う❕SINGING❕ ※サムネ準備中【ラプラス・ダークネス/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OPJqQ5pAWsI",
+        "picture": "https://i.ytimg.com/vi/OPJqQ5pAWsI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735565400,
+        "title": "【 Membership 】メンバーシップ限定納めしてみる。【鷹嶺ルイ/ホロライブ】"
     }
 ]
