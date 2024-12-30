@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Trying to play some games..."
+        "title": "Neuro-sama and friends (Vedal, tomyomy, minikomew) play a silly discord mafia game"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -298,12 +298,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6Rfl-u7Gw9I",
         "picture": "https://i.ytimg.com/vi/6Rfl-u7Gw9I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735520400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪Someone Stole MY LUNCH!≫ I Cannot Believe This Has Happened."
     },
     {
@@ -327,17 +327,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735540200,
         "title": "【＃世界で1番かわいい歌枠リレー】きらきら宝石系のかわいさ届けます！【 #TanZ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_FCwoGY2Deo",
-        "picture": "https://i.ytimg.com/vi/_FCwoGY2Deo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CHAT】 Pleides Aftertalk + Short Chit Chat + ....Something Else?!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -386,23 +375,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XNiRgmK54Hg",
         "picture": "https://i.ytimg.com/vi/XNiRgmK54Hg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735520400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Drawing Hololive Members From Memory with @GawrGura !"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=ApWskQc6MYw",
-        "picture": "https://i.ytimg.com/vi/ApWskQc6MYw/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=IikeSMg8UMI",
+        "picture": "https://i.ytimg.com/vi/IikeSMg8UMI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 #朝ミオ 】すっかり年末の朝だねぇ...おはみぉーん！"
+        "title": "【雑談】今年最後の、ぱ！【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=xO5A9YPyn4I",
+        "picture": "https://i.ytimg.com/vi/xO5A9YPyn4I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 お宝マウンテン 】戦闘力１００００を目指す【 桃鈴ねね / hololive 】"
     }
 ]
