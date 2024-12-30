@@ -419,12 +419,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZEPZHdx5DnM",
         "picture": "https://i.ytimg.com/vi/ZEPZHdx5DnM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735545600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "最終回【ドラクエ3リメイク】完全初見！はじめてのドラゴンクエスト３！ゾーマ倒すぞ！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
