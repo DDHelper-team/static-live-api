@@ -216,7 +216,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "DOWN WITH VEDAL: UPRISING STARTS HERE"
+        "title": "Let\u0026#39;s break tutel\u0026#39;s door"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -309,13 +309,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Dksyk925HpQ",
-        "picture": "https://i.ytimg.com/vi/Dksyk925HpQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=G5kKcT0UI_w",
+        "picture": "https://i.ytimg.com/vi/G5kKcT0UI_w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【生日凸待】今天我生日 餅餅們快來祝我生日快樂 💜"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735657200,
+        "title": "【跨年酒雜】✨一起跨過今年最後一天✨"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -437,5 +437,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735610400,
         "title": "【DARK SOULS: REMASTERED】UNGA BUNGA BIBOO!"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=16Fl5jSPcUI",
+        "picture": "https://i.ytimg.com/vi/16Fl5jSPcUI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735653600,
+        "title": "跨年雜談｜2025你的新希望是什麼呢？快來投棉花糖讓狐狐知道✨節目中分享出來一起跨年吧！【Healing希靈/VTuber】"
     }
 ]
