@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=REYHANr4reY",
         "picture": "https://i.ytimg.com/vi/REYHANr4reY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735642800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【日本語雑談 JAPANESE CHATTING】2024年のFUWAMOCO、成長できたのかな～？ 🐾  【FUWAMOCO】"
     },
     {
