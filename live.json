@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DjDrjnyibcY",
         "picture": "https://i.ytimg.com/vi/DjDrjnyibcY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735651800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪#holocountdown2024 - OFFCOLLAB WATCHALONG≫ Starting 2025 THE RIGHT WAY w/ @IRyS"
     },
     {
