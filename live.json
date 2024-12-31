@@ -297,17 +297,6 @@
         "title": "【跨年酒雜】✨一起跨過今年最後一天✨"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=p8m7iCeuxng",
-        "picture": "https://i.ytimg.com/vi/p8m7iCeuxng/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【筑前煮】毎年恒例、年末用の筑前煮をつくります【ホロライブ/ 大神ミオ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "islive": false,
@@ -470,5 +459,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Fall Guys】年末だしあそぼうよ【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Y17uuSruZVs",
+        "picture": "https://i.ytimg.com/vi/Y17uuSruZVs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【時間未定】起きてから始まる年越し耐久【ホロライブ/夏色まつり】"
     }
 ]
