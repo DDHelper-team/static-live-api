@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p8m7iCeuxng",
         "picture": "https://i.ytimg.com/vi/p8m7iCeuxng/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735610400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【筑前煮】毎年恒例、年末用の筑前煮をつくります【ホロライブ/ 大神ミオ】"
     },
     {
@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YkNaQNdwJsE",
         "picture": "https://i.ytimg.com/vi/YkNaQNdwJsE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735610400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS: REMASTERED】UNGA BUNGA BIBOO!"
     },
     {
@@ -381,7 +381,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "New Year\u0026#39;s stream at 11:59 tonight GMT"
+        "title": "Evil Neuro\u0026#39;s Song Writing Session"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -437,5 +437,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735646400,
         "title": "【2024大晦日】年越しは3期生と一緒！みんなで新年を迎えるぞ～！！！ぺこ！【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=k9CM55Iggz0",
+        "picture": "https://i.ytimg.com/vi/k9CM55Iggz0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735696800,
+        "title": "Wandering the End of the World(s)【VRChat】"
     }
 ]
