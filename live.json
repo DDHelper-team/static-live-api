@@ -419,13 +419,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Bn-Nc06nhnU",
-        "picture": "https://i.ytimg.com/vi/Bn-Nc06nhnU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=P7kJVSDGhR0",
+        "picture": "https://i.ytimg.com/vi/P7kJVSDGhR0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【年越】2024年振り返りしながら特製💖年越し●●を作る➡カウントダウンLIVE！一緒に年を越そう💖【ホロライブ/ロボ子さん】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735740000,
+        "title": "【あけおめ晩酌】今年の抱負を語りながらとりあえず一杯💕【ホロライブ/ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -492,5 +492,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【FREE TALK + Dono Reading】Last zatsudan for this year!! WELCOMING 2025!!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qdWI_l0AwhA",
+        "picture": "https://i.ytimg.com/vi/qdWI_l0AwhA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735750800,
+        "title": "【New Year!!】Highlights of 2024 \u0026amp; Goals for 2025! #kfp #キアライブ"
     }
 ]
