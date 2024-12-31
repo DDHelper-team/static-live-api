@@ -397,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BK4UbRl_FZQ",
         "picture": "https://i.ytimg.com/vi/BK4UbRl_FZQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735646400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【2024大晦日】年越しは3期生と一緒！みんなで新年を迎えるぞ～！！！ぺこ！【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】"
     },
     {
@@ -551,12 +551,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5L-q3ETAVc0",
         "picture": "https://i.ytimg.com/vi/5L-q3ETAVc0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735646400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】今年もありがとうございました！締めくくりの歌です！！！【#新人vtuber 】"
     },
     {
