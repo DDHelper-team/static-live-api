@@ -337,18 +337,18 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "VEDASMALL"
+        "title": "I\u0026#39;ll only title to that if I want to"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RQt_D6RdzpA",
-        "picture": "https://i.ytimg.com/vi/RQt_D6RdzpA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Cd4h3rWHJRg",
+        "picture": "https://i.ytimg.com/vi/Cd4h3rWHJRg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【hololive COUNTDOWN LIVE WATCHALONG 同時視聴】1st time in the countdown 🐾✨  【FUWAMOCO｜#holocountdown2024】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735713000,
+        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】ringing and singing in the new year ♪ #FWMCbeats 【UNARCHIVED アーカイブ無し】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -503,5 +503,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【FREE TALK 】New years talk \u0026amp; countdown ! あけましておめでとう🎍"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ivuLiT-W3_s",
+        "picture": "https://i.ytimg.com/vi/ivuLiT-W3_s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【FREE TALK + Dono Reading】Last zatsudan for this year!! WELCOMING 2025!!!!"
     }
 ]
