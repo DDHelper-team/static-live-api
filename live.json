@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=G5kKcT0UI_w",
         "picture": "https://i.ytimg.com/vi/G5kKcT0UI_w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735657200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【跨年酒雜】✨一起跨過今年最後一天✨"
     },
     {
@@ -348,7 +348,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "good night, bedtime is real | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -569,5 +569,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【歌枠】カウントダウン歌枠！！！-Midnight station -84 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Lxroov9i4KE",
+        "picture": "https://i.ytimg.com/vi/Lxroov9i4KE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735743600,
+        "title": "メンバーシップお知らせ詳細🌸かざま隊宿舎🍃【風真いろは/ホロライブ】"
     }
 ]
