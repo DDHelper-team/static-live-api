@@ -463,12 +463,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=S2QRUs6HKkc",
         "picture": "https://i.ytimg.com/vi/S2QRUs6HKkc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735641900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】2024年、歌い納めだ！！！！！！！【獅子神レオナ/Re:AcT】"
     },
     {
@@ -525,5 +525,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735650000,
         "title": "【年越し】今年もお世話になりました！！！一緒にカウントダウン【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UQENGt-ig9c",
+        "picture": "https://i.ytimg.com/vi/UQENGt-ig9c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735653600,
+        "title": "【Countdown】Watchalong hololive Countdown!!!【Moona Hoshinova】"
     }
 ]
