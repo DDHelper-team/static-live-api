@@ -321,11 +321,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=W9kjY0Mx56k",
         "picture": "https://i.ytimg.com/vi/W9kjY0Mx56k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【朝活雑談】2024年最後の雑談！今年の振り返りやすいちゃんライブ＆クリスマスの話など色々喋りつくそう🎶【白銀ノエル/ホロライブ】"
     },
@@ -381,7 +381,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Evil Neuro\u0026#39;s Song Writing Session"
+        "title": "good night, bedtime is real | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
