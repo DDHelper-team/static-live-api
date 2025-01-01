@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Cd4h3rWHJRg",
         "picture": "https://i.ytimg.com/vi/Cd4h3rWHJRg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735713000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】ringing and singing in the new year ♪ #FWMCbeats 【UNARCHIVED アーカイブ無し】"
     },
     {
@@ -419,12 +419,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zp1yV9gUJfM",
         "picture": "https://i.ytimg.com/vi/zp1yV9gUJfM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735713000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【NEW YEAR COUNTDOWN】lets look back on 2024【Dokibird】"
     },
     {
@@ -536,5 +536,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735714800,
         "title": "【新年のご挨拶】あけましておめでとうございます！！！！！！！【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TM2Cu-IGEgo",
+        "picture": "https://i.ytimg.com/vi/TM2Cu-IGEgo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735732800,
+        "title": "＃１【龍が如く極２】完全初見！会いたかったぜ桐生ちゃぁん！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
