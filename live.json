@@ -452,13 +452,13 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RR_21AtG5Lg",
         "picture": "https://i.ytimg.com/vi/RR_21AtG5Lg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735718400,
-        "title": "【誕生日（らしい）凸待ち】今日僕、誕生日なの？新春お年玉宝くじ会場※ギャンブラー歓迎【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#誕生日らしい凸待ち】今日僕、誕生日なの？新春お年玉宝くじ会場※ギャンブラー歓迎【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -470,17 +470,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735783200,
         "title": "Hands Up and Forfeit Your Life【Hitman】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VonWKw05tmE",
-        "picture": "https://i.ytimg.com/vi/VonWKw05tmE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【2025 NEW YEARS TWELVE HOUR PARTY】MONSTER HUNTER WORLD【PART 6】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
