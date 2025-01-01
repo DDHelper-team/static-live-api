@@ -441,12 +441,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hGoT2qMYNSs",
         "picture": "https://i.ytimg.com/vi/hGoT2qMYNSs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735707647,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】あけましておめでとうございます🎍🐍【緋月ゆい/ネオポルテ】"
     },
     {
@@ -514,5 +514,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735790400,
         "title": "【HoloEN + OW2】watch the carnage unfold, with friends, live reaction, not a single top 500 player"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8pC8eqA4t44",
+        "picture": "https://i.ytimg.com/vi/8pC8eqA4t44/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735711200,
+        "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
