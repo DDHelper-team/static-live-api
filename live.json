@@ -326,14 +326,14 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "good night | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=P7kJVSDGhR0",
-        "picture": "https://i.ytimg.com/vi/P7kJVSDGhR0/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=CFGOU6VdbH4",
+        "picture": "https://i.ytimg.com/vi/CFGOU6VdbH4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
@@ -450,17 +450,6 @@
         "title": "【新年のご挨拶】2025年あけましておめでとう！！🎍🌅✨【ホロライブ/紫咲シオン】"
     },
     {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ghmOWYAg-Xs",
-        "picture": "https://i.ytimg.com/vi/ghmOWYAg-Xs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#poe2 】新年快樂!! 元旦第一天也一起打遊戲~第二章GOGO【#遊戲個人勢 / Fingla】"
-    },
-    {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
         "islive": true,
@@ -503,5 +492,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735779600,
         "title": "【2024年】後編！ホロメンとの関係性変化を振り返る【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=C5NEek4kCiQ",
+        "picture": "https://i.ytimg.com/vi/C5NEek4kCiQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735772400,
+        "title": "【新年初朝活】あけましておめでとうイケメン【火威青】#hololiveDEV_IS #ReGLOSS"
     }
 ]
