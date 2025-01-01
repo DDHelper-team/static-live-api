@@ -319,7 +319,7 @@
         "title": "邊緣人的餐桌-特別篇｜要來拆大家送的禮物和吃好吃的！！【Healing希靈/VTuber】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -338,17 +338,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【NEW YEAR CHATTING】celebrate the 1st moments of 2025 together 🐾  【FUWAMOCO】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nQ9MWXCLrBo",
-        "picture": "https://i.ytimg.com/vi/nQ9MWXCLrBo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #姫森ルーナ新衣装 】新年一発目の新衣装お披露目しちゃうのら！！！お知らせあり！New Outfit【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -397,12 +386,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=w-n74_A4mWA",
         "picture": "https://i.ytimg.com/vi/w-n74_A4mWA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735732800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【正月】兎田家から新年のご挨拶！ぺこ！【ホロライブ/兎田ぺこら/ぺこらマミー】"
     },
     {
@@ -415,17 +404,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735740000,
         "title": "【TCG Card Shop Simulator】2025年の運気はどうだ？！！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Yb4_sL2mzWY",
-        "picture": "https://i.ytimg.com/vi/Yb4_sL2mzWY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【2024年】ホロメンとの関係性変化を振り返る【ホロライブ/宝鐘マリン】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -452,12 +430,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TM2Cu-IGEgo",
         "picture": "https://i.ytimg.com/vi/TM2Cu-IGEgo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735732800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "＃１【龍が如く極２】完全初見！会いたかったぜ桐生ちゃぁん！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -536,5 +514,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735804800,
         "title": "【筆おろし】今年も君の筆おろします。【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TsoUDihi0aU",
+        "picture": "https://i.ytimg.com/vi/TsoUDihi0aU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735790400,
+        "title": "【 ダークソウル3 】最終回！DLC第2弾に挑戦するのら～～～！！！DARK SOULS Ⅲ ＃03【姫森ルーナ/ホロライブ】ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iu03Lvuh5So",
+        "picture": "https://i.ytimg.com/vi/iu03Lvuh5So/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735779600,
+        "title": "【2024年】後編！ホロメンとの関係性変化を振り返る【ホロライブ/宝鐘マリン】"
     }
 ]
