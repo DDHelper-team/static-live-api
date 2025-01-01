@@ -310,13 +310,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CFGOU6VdbH4",
-        "picture": "https://i.ytimg.com/vi/CFGOU6VdbH4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=odpgKRG44Xg",
+        "picture": "https://i.ytimg.com/vi/odpgKRG44Xg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【あけおめ晩酌】今年の抱負を語りながらとりあえず一杯💕【ホロライブ/ロボ子さん】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735776000,
+        "title": "【宝くじ】カメラ付き📸年末ジャンボで夢をつかむぞおお！？？【ホロライブ/ロボ子さん】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -418,17 +418,6 @@
         "title": "【新年のご挨拶】2025年あけましておめでとう！！🎍🌅✨【ホロライブ/紫咲シオン】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1--SJ06eCWI",
-        "picture": "https://i.ytimg.com/vi/1--SJ06eCWI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`💬 雑談/ZATSU 】HAPPY NEW YEAR🎍✨【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "islive": false,
@@ -504,5 +493,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735808400,
         "title": "【謹賀新年】あけましておめでとうございます🎍【天音かなた/ホロライブ】"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": null
     }
 ]
