@@ -461,17 +461,6 @@
         "title": "＃１【龍が如く極２】完全初見！会いたかったぜ桐生ちゃぁん！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gz220Njtcuo",
-        "picture": "https://i.ytimg.com/vi/gz220Njtcuo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お正月】新年最初の歌枠をします！【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -536,5 +525,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735735500,
         "title": "【 -`💬 雑談/ZATSU 】HAPPY NEW YEAR🎍✨【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V-wOP_IPYEg",
+        "picture": "https://i.ytimg.com/vi/V-wOP_IPYEg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735804800,
+        "title": "【筆おろし】今年も君の筆おろします。【ホロライブ/夏色まつり】"
     }
 ]
