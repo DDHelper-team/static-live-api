@@ -310,13 +310,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ox-LR9OMzjA",
         "picture": "https://i.ytimg.com/vi/Ox-LR9OMzjA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735727400,
-        "title": "新年生日雜談｜要來拆大家送的禮物和吃好吃的！！【Healing希靈/VTuber】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "邊緣人的餐桌-特別篇｜要來拆大家送的禮物和吃好吃的！！【Healing希靈/VTuber】"
     },
     {
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "good night | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -558,5 +558,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#poe2 】新年快樂!! 元旦第一天也一起打遊戲~第二章GOGO【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1--SJ06eCWI",
+        "picture": "https://i.ytimg.com/vi/1--SJ06eCWI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735735500,
+        "title": "【 -`💬 雑談/ZATSU 】HAPPY NEW YEAR🎍✨【獅子神レオナ/Re:AcT】"
     }
 ]
