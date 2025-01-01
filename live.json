@@ -351,17 +351,6 @@
         "title": "【 #姫森ルーナ新衣装 】新年一発目の新衣装お披露目しちゃうのら！！！お知らせあり！New Outfit【姫森ルーナ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=k9CM55Iggz0",
-        "picture": "https://i.ytimg.com/vi/k9CM55Iggz0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Wandering the End of the World(s)【VRChat】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -514,5 +503,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 雑談 】あけましておめでとうございます！！！！【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RR_21AtG5Lg",
+        "picture": "https://i.ytimg.com/vi/RR_21AtG5Lg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735718400,
+        "title": "【誕生日（らしい）凸待ち】今日僕、誕生日なの？新春お年玉宝くじ会場※ギャンブラー歓迎【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hcNyPARPCcg",
+        "picture": "https://i.ytimg.com/vi/hcNyPARPCcg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735783200,
+        "title": "Hands Up and Forfeit Your Life【Hitman】"
     }
 ]
