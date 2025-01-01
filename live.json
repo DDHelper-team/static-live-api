@@ -364,13 +364,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=13BeKpEzGwg",
         "picture": "https://i.ytimg.com/vi/13BeKpEzGwg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735729200,
-        "title": "【】人徳凸待ちガチアポなし凸待ち（誰か来てくださいお願いします）【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#生スバル】人徳凸待ちガチアポなし凸待ちしゅばあああああああああ（誰か来てくださいお願いします）【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -450,17 +450,6 @@
         "title": "【HoloEN + OW2】watch the carnage unfold, with friends, live reaction, not a single top 500 player"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8pC8eqA4t44",
-        "picture": "https://i.ytimg.com/vi/8pC8eqA4t44/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 BIOHAZARD 7 #01 】はじめてのバイオハザード！ホラー、、ですか？？【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -503,28 +492,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735786800,
         "title": "【新春占い凸待ち】ビッグゴッドミオーンの占いの館2025年運勢を占う！【タロット】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8A28vN8pU58",
-        "picture": "https://i.ytimg.com/vi/8A28vN8pU58/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【あけおめ】今年もちょこ神様降臨！ちょこみくじするわよ【ホロライブ/癒月ちょこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=70smLJSc2W0",
-        "picture": "https://i.ytimg.com/vi/70smLJSc2W0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【お年玉】2025年新年のご挨拶【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
