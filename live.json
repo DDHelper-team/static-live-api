@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qdWI_l0AwhA",
         "picture": "https://i.ytimg.com/vi/qdWI_l0AwhA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735750800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【New Year!!】Highlights of 2024 \u0026amp; Goals for 2025! #kfp #キアライブ"
     },
     {
@@ -394,17 +394,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735786800,
         "title": "【新春占い凸待ち】ビッグゴッドミオーンの占いの館2025年運勢を占う！【タロット】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BBWf1ULtmkA",
-        "picture": "https://i.ytimg.com/vi/BBWf1ULtmkA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【BALATRO】NEW YEAR, NEW ADDICTION?? LET\u0026#39;S SEE WHAT BALATRO IS ALL ABOUT!!【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
@@ -502,6 +491,17 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "STREAM RESTARTING IN 2 MINUTES - STAY TUNED"
+        "title": "Neuro-sama The Catgirl"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=r0h4QkvhD5E",
+        "picture": "https://i.ytimg.com/vi/r0h4QkvhD5E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735777800,
+        "title": "【Path of Exile 2】chill mapping!【Kaela Kovalskia / hololiveID】"
     }
 ]
