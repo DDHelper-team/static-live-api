@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neuro become human along with Vedal"
+        "title": "Neuro and Vedal Take On Detroit: Become Human!"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=k9CM55Iggz0",
         "picture": "https://i.ytimg.com/vi/k9CM55Iggz0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735696800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Wandering the End of the World(s)【VRChat】"
     },
     {
@@ -386,24 +386,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lorxlqKOY9s",
         "picture": "https://i.ytimg.com/vi/lorxlqKOY9s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735696800,
-        "title": "【】2025年新年雑談！【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#生スバル】2025年新年雑談！しゅばあああああああああああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=w8EELruYz5Y",
-        "picture": "https://i.ytimg.com/vi/w8EELruYz5Y/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=ai-org8zigU",
+        "picture": "https://i.ytimg.com/vi/ai-org8zigU/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【2025 NEW YEARS TWELVE HOUR PARTY】PARTY ANIMALS 【PART 3】"
+        "title": "【2025 NEW YEARS TWELVE HOUR PARTY】STREET FIGHTER 6 【PART 4】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -470,5 +470,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735740000,
         "title": "【TCG Card Shop Simulator】2025年の運気はどうだ？！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hGoT2qMYNSs",
+        "picture": "https://i.ytimg.com/vi/hGoT2qMYNSs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735707647,
+        "title": "【雑談】あけましておめでとうございます🎍🐍【緋月ゆい/ネオポルテ】"
     }
 ]
