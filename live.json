@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=A_LbXB4JcSA",
         "picture": "https://i.ytimg.com/vi/A_LbXB4JcSA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735704000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゲーム福袋開封】2025年になったので福袋を開封しよう！【獅白ぼたん/ホロライブ】"
     },
     {
@@ -375,24 +375,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XuWYl42q23s",
         "picture": "https://i.ytimg.com/vi/XuWYl42q23s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735704000,
-        "title": "【#生スバル】お正月デトロイトやるしゅばあああああああああああああああああああああああ！！！！ / Detroit: Become Human【ホロライブ/大空スバル】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ai-org8zigU",
-        "picture": "https://i.ytimg.com/vi/ai-org8zigU/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【2025 NEW YEARS TWELVE HOUR PARTY】STREET FIGHTER 6 【PART 4】"
+        "title": "【#生スバル】お正月デトロイトやるしゅばあああああああああああああああああああああああ！！！！ / Detroit: Become Human【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -441,12 +430,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8FkcUOeAg9I",
         "picture": "https://i.ytimg.com/vi/8FkcUOeAg9I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735704000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "I\u0026#39;m sick, but I still want to try and enjoy New Years together | Yappa Yappa"
     },
     {
@@ -485,24 +474,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e3rcH7S3Ki0",
         "picture": "https://i.ytimg.com/vi/e3rcH7S3Ki0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735704000,
-        "title": "【Honor of Kings】NEW YEAR NEW WIN STREAKS WITH YOU! + NY Giveaway【Kaela Kovalskia / hololiveID】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5BSesoye2Kw",
-        "picture": "https://i.ytimg.com/vi/5BSesoye2Kw/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 雑談 】あけましておめでとうございます！！！！【 桃鈴ねね / hololive 】"
+        "title": "【Honor of Kings】NEW YEAR NEW WIN STREAKS WITH YOU! + NY Giveaway【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
@@ -525,5 +503,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735783200,
         "title": "Hands Up and Forfeit Your Life【Hitman】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=kS9mxH4FH0I",
+        "picture": "https://i.ytimg.com/vi/kS9mxH4FH0I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【2025 NEW YEARS TWELVE HOUR PARTY】CRAB GAME 【PART 5】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_29WRgdx_OI",
+        "picture": "https://i.ytimg.com/vi/_29WRgdx_OI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735790400,
+        "title": "【HoloEN + OW2】watch the carnage unfold, with friends, live reaction, not a single top 500 player"
     }
 ]
