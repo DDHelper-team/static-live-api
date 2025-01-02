@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Xz5WFrgsvQc",
         "picture": "https://i.ytimg.com/vi/Xz5WFrgsvQc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735851600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Learning Makeup with a Disembodied Head【Handcam】"
     },
     {
@@ -352,14 +352,14 @@
         "title": "≪MiSide≫ New Year. New Rizz"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "I have gained 142,000 subs and have broken the hype train record! I AM LEGEND"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -386,12 +386,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PTYCG-8J2YU",
         "picture": "https://i.ytimg.com/vi/PTYCG-8J2YU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735851600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FAR CRY 5】Starting off the year with VIOLENCE!"
     },
     {
