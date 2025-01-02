@@ -452,12 +452,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=r0h4QkvhD5E",
         "picture": "https://i.ytimg.com/vi/r0h4QkvhD5E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735777800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Path of Exile 2】chill mapping!【Kaela Kovalskia / hololiveID】"
     },
     {
