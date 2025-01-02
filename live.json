@@ -496,12 +496,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1lLurVvwhv8",
         "picture": "https://i.ytimg.com/vi/1lLurVvwhv8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735794025,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#57 | 完全初見！今年のガチャ運は果たして🎍【緋月ゆい/ネオポルテ】"
     }
 ]
