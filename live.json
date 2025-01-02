@@ -348,7 +348,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "Playing Detroit: Become Human with Vedal #SAVEUS"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -430,12 +430,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
         "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=My0Zm883qkY",
         "picture": "https://i.ytimg.com/vi/My0Zm883qkY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735858800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "kirin of the puddle what is your wisdom"
     }
 ]
