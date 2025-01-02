@@ -376,13 +376,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3XjeQOFsNEw",
-        "picture": "https://i.ytimg.com/vi/3XjeQOFsNEw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d7juvrWBUhI",
+        "picture": "https://i.ytimg.com/vi/d7juvrWBUhI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#2】お正月デトロイトやるしゅばあああああああああああああああああああああああ！！！！ / Detroit: Become Human【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735876800,
+        "title": "【#最終回】お正月デトロイトやるしゅばあああああああああああああああああああああああ！！！！ / Detroit: Become Human【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -414,7 +414,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "DANCE LIKE YOUR LIVES DEPEND ON IT! I\u0026#39;m not seeing enough movement..."
+        "title": "Preparing to beat the Ender Dragon!"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
@@ -452,12 +452,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LowlrfSxI18",
         "picture": "https://i.ytimg.com/vi/LowlrfSxI18/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735826400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 睡眠導入 】寝落ち推奨♡囁き、足音、風の音…気持ちいい音に癒されるまったり眠れるおさんぽデート♡【ゼルダの伝説 ティアーズ オブ ザ キングダム 】Whispering,RelaxSleeping"
     },
     {
@@ -481,5 +481,71 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735909200,
         "title": "【歌雜】多唱點中文日文英文，讓你知道我的厲害 🎵  *可點歌單的歌"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PTYCG-8J2YU",
+        "picture": "https://i.ytimg.com/vi/PTYCG-8J2YU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735851600,
+        "title": "【FAR CRY 5】Starting off the year with VIOLENCE!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MzFCDuzBuL0",
+        "picture": "https://i.ytimg.com/vi/MzFCDuzBuL0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735912800,
+        "title": "【 #姫森ルーナ5周年 】乾杯🍸５周年カウントダウンとお披露目するのらあああ！！！【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PL5TkclvJwY",
+        "picture": "https://i.ytimg.com/vi/PL5TkclvJwY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735916400,
+        "title": "ASMR｜寒冷夜晚你需要溫柔姊姊的舒眠哄睡❤️｜Oneechan Whispers to Sleep｜甘い添い寝【黑3DIO/KU100】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bfvg255NwSk",
+        "picture": "https://i.ytimg.com/vi/bfvg255NwSk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735905600,
+        "title": "＃２【龍が如く極２】完全初見！五章からいく！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=by9gvHbJGUc",
+        "picture": "https://i.ytimg.com/vi/by9gvHbJGUc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735873200,
+        "title": "【Alien Isolation】I am NOT expendable"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=HxvzXQQgBzs",
+        "picture": "https://i.ytimg.com/vi/HxvzXQQgBzs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【INSCRYPTION】act 4 - FINALE  #kfp #キアライブ"
     }
 ]
