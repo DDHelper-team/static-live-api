@@ -332,23 +332,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=u6m3Q6-bqX0",
         "picture": "https://i.ytimg.com/vi/u6m3Q6-bqX0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735873200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪MiSide≫ New Year. New Rizz"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Androids and Humans: Our Story"
+        "title": "twins eeping | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -415,5 +415,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Alien Isolation】I am NOT expendable"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7WaL3cHMaV4",
+        "picture": "https://i.ytimg.com/vi/7WaL3cHMaV4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735959600,
+        "title": "Helping Fund Your Gacha Addiction【Payday 2】"
     }
 ]
