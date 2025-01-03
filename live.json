@@ -419,12 +419,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aR16aAd0UIA",
         "picture": "https://i.ytimg.com/vi/aR16aAd0UIA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735884000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ネタバレあり】FINAL FANTASY Ⅵ～新しい仲間が増えました～【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ji4Oi_z_tWo",
+        "picture": "https://i.ytimg.com/vi/ji4Oi_z_tWo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735912800,
+        "title": "【雑談】あけました、おめでとう❕２０２５年初おしゃべりだよ【ラプラス・ダークネス/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4K3rIVYbyN4",
+        "picture": "https://i.ytimg.com/vi/4K3rIVYbyN4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735909200,
+        "title": "【新年歌枠】新年のご挨拶＆歌い初め！Happy New Year 2025 Singing Stream【ホロライブ / AZKi】"
     }
 ]
