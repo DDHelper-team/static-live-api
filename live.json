@@ -321,13 +321,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-zV8isLMzQ0",
-        "picture": "https://i.ytimg.com/vi/-zV8isLMzQ0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TsXKqAwtqxk",
+        "picture": "https://i.ytimg.com/vi/TsXKqAwtqxk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#スバおか】スバおか福袋大開封会やるしゅばああああああああああああああああああああああ！！！！【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735909200,
+        "title": "【#5】ジョジョの奇妙な冒険 ダイヤモンドは砕けない 同時視聴しゅばあああああああああああ！！！ :jojo part4 watching party【ホロライブ/大空スバル】"
     },
     {
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
@@ -375,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bfvg255NwSk",
         "picture": "https://i.ytimg.com/vi/bfvg255NwSk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735905600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "＃２【龍が如く極２】完全初見！五章からいく！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -419,13 +419,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sYwI0RTyDTE",
         "picture": "https://i.ytimg.com/vi/sYwI0RTyDTE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735905600,
-        "title": "【福袋】2025新春！福袋開封祭り！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【福袋】2025新春！伝説の100万円福袋開封祭り！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -463,12 +463,12 @@
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Gs-TzKRBaDM",
         "picture": "https://i.ytimg.com/vi/Gs-TzKRBaDM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735905600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】新年ゆったり歌枠！- ハニカムステーション！-164【HACHI 】"
     },
     {
@@ -492,5 +492,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735909200,
         "title": "【MemberOnly】2025年の初メン限！謹賀新年！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=23_0IR4b48U",
+        "picture": "https://i.ytimg.com/vi/23_0IR4b48U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735909200,
+        "title": "【#青マリお泊り】ママくゆの手料理おいしい回【火威青／宝鐘マリン 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
