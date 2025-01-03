@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MzFCDuzBuL0",
         "picture": "https://i.ytimg.com/vi/MzFCDuzBuL0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735912800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #姫森ルーナ5周年 】乾杯🍸５周年カウントダウンとお披露目するのらあああ！！！【姫森ルーナ/ホロライブ】"
     },
     {
@@ -397,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ji4Oi_z_tWo",
         "picture": "https://i.ytimg.com/vi/ji4Oi_z_tWo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735912800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】あけました、おめでとう❕２０２５年初おしゃべりだよ【ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -485,12 +485,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=m8ocqD5BsFE",
         "picture": "https://i.ytimg.com/vi/m8ocqD5BsFE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735912800,
-        "title": "【  】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Penguin Helper 】ペンギンを助けるゲームらしい🐧【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
