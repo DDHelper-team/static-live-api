@@ -474,12 +474,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BeHz1QW_4-w",
         "picture": "https://i.ytimg.com/vi/BeHz1QW_4-w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735907400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "雑談 - あけおめ ちょい歌 【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -503,5 +503,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735909200,
         "title": "【#青マリお泊り】ママくゆの手料理おいしい回【火威青／宝鐘マリン 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=m8ocqD5BsFE",
+        "picture": "https://i.ytimg.com/vi/m8ocqD5BsFE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735912800,
+        "title": "【  】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
