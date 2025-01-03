@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=d7juvrWBUhI",
         "picture": "https://i.ytimg.com/vi/d7juvrWBUhI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735876800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#最終回】お正月デトロイトやるしゅばあああああああああああああああああああああああ！！！！ / Detroit: Become Human【ホロライブ/大空スバル】"
     },
     {
@@ -341,7 +341,7 @@
         "title": "≪MiSide≫ New Year. New Rizz"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
