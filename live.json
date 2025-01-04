@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "eepy neuro... see you later! 2pm-4pm gmt | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -428,17 +428,6 @@
         "title": "【3.0 Reveal】new year new me, also let\u0026#39;s give out fortunes to EN girls 🙂‍↕️ #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=f1OMFhrhGkQ",
-        "picture": "https://i.ytimg.com/vi/f1OMFhrhGkQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ネタバレあり】FINAL FANTASY Ⅵ～敵が強すぎてやばい～【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -452,12 +441,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RJLGoKAFOfM",
         "picture": "https://i.ytimg.com/vi/RJLGoKAFOfM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735981200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 福袋 】人生初の福袋！一体何が入ってる？👀✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -492,5 +481,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736035200,
         "title": "【NEW YEAR Q\u0026amp;A CHATTING】you have questions, we (might) have answers 🐾  【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Toqi2m0HgJ8",
+        "picture": "https://i.ytimg.com/vi/Toqi2m0HgJ8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735992000,
+        "title": "【】ババドナ新年会【ホロライブ/大空スバル】"
     }
 ]
