@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "eepy neuro... see you later! 2pm-4pm gmt | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -354,12 +354,12 @@
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=tbq9ifkY4mQ",
-        "picture": "https://i.ytimg.com/vi/tbq9ifkY4mQ/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735995600,
-        "title": "【メン限】月イチみんなとまったり雑談！1月ここだけの話！【ホロライブ / AZKi】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -375,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7D8cVqG1O30",
         "picture": "https://i.ytimg.com/vi/7D8cVqG1O30/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735995600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "＃３【龍が如く極２】完全初見！十一章からいく！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -452,13 +452,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Toqi2m0HgJ8",
         "picture": "https://i.ytimg.com/vi/Toqi2m0HgJ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735995600,
-        "title": "【】ババドナ新年会【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ババドナ】ババドナ新年会やるしゅばあああああああああああああああああああああああああああ！！！！【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
@@ -485,34 +485,45 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mSXU_JXzh6w",
         "picture": "https://i.ytimg.com/vi/mSXU_JXzh6w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735995600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】新年初歌いえーい！🎍【獅子神レオナ/Re:AcT】"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lAGpMT5I97c",
         "picture": "https://i.ytimg.com/vi/lAGpMT5I97c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735995600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Liar\u0026#39;s Bar】LIAR LIAR LIAR!!!! all of these liars.... couldnt be me tsk tsk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LH0YfgRLHcM",
         "picture": "https://i.ytimg.com/vi/LH0YfgRLHcM/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【世界のアソビ大全51】五目ならべのルール覚えちゃおう！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nSge_iREdmA",
+        "picture": "https://i.ytimg.com/vi/nSge_iREdmA/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1735995600,
-        "title": "【世界のアソビ大全51】五目並べのルール覚えちゃおう！【ホロライブ/ときのそら】"
+        "timestamp": 1736082000,
+        "title": "【#紫咲シオン新衣装】最強可愛い新衣装お披露目しちゃうぞ～！！👀✨【ホロライブ/紫咲シオン】"
     }
 ]
