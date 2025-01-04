@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "eepy neuro... see you later! 2pm-4pm gmt | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -419,12 +419,23 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XTbrC7_5Zgs",
         "picture": "https://i.ytimg.com/vi/XTbrC7_5Zgs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735963232,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MiSide : ミサイド】彼女できた！！！！！！！！！！【緋月ゆい/ネオポルテ】※ネタバレ注意"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bh86IDwjZR8",
+        "picture": "https://i.ytimg.com/vi/bh86IDwjZR8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735992000,
+        "title": "【3.0 Reveal】new year new me, also let\u0026#39;s give out fortunes to EN girls 🙂‍↕️ #kfp #キアライブ"
     }
 ]
