@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7WaL3cHMaV4",
         "picture": "https://i.ytimg.com/vi/7WaL3cHMaV4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735959600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Helping Fund Your Gacha Addiction【Payday 2】"
     },
     {
@@ -415,17 +415,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735999200,
         "title": "【キャプテン翼 RISE OF NEW CHAMPIONS】サッカー人生はじめます！！！【角巻わため/ホロライブ４期生】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PZbievG6qNM",
-        "picture": "https://i.ytimg.com/vi/PZbievG6qNM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Just a short stream"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
