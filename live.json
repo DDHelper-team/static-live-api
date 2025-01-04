@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pjCB1FzrGV0",
         "picture": "https://i.ytimg.com/vi/pjCB1FzrGV0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735988400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #姫森ルーナ5周年 】６年目もよろしくなのらね！！！嬉しいも発表あるのら💓【姫森ルーナ/ホロライブ】"
     },
     {
