@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Nature watch with Vedal - Today we are just chatting"
+        "title": "An In-Depth Conversation Between Vedal and Neuro-sama (in Detroit: Become Human)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -360,17 +360,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735959600,
         "title": "Helping Fund Your Gacha Addiction【Payday 2】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "channellink": "https://www.youtube.com/channel/UCO_aKKYxn4tvrqPjcTzZ6EQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OFIVy79pgWc",
-        "picture": "https://i.ytimg.com/vi/OFIVy79pgWc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Faunwell! 🌿💚"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -426,5 +415,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735999200,
         "title": "【キャプテン翼 RISE OF NEW CHAMPIONS】サッカー人生はじめます！！！【角巻わため/ホロライブ４期生】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=PZbievG6qNM",
+        "picture": "https://i.ytimg.com/vi/PZbievG6qNM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "Just a short stream"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XTbrC7_5Zgs",
+        "picture": "https://i.ytimg.com/vi/XTbrC7_5Zgs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735963232,
+        "title": "【MiSide : ミサイド】彼女できた！！！！！！！！！！【緋月ゆい/ネオポルテ】※ネタバレ注意"
     }
 ]
