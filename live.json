@@ -353,13 +353,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CCV4TDo3mkY",
         "picture": "https://i.ytimg.com/vi/CCV4TDo3mkY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735984800,
-        "title": "【＃兎田ぺこら新衣装】ドキドキ新衣装お披露目きｔらあああああああああああああああああ！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【重大告知アリ】2025年最初の新衣装！めちゃカワ衣装お披露目する！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -430,13 +430,13 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RJLGoKAFOfM",
-        "picture": "https://i.ytimg.com/vi/RJLGoKAFOfM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=88SgTWrwouw",
+        "picture": "https://i.ytimg.com/vi/88SgTWrwouw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 福袋 】人生初の福袋！一体何が入ってる？👀✨【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735992000,
+        "title": "【 五目並べ レッツゴー 】もっと強くなりたい！！ガチ勝負の時は無言になるかもしれない【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -481,5 +481,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1735992000,
         "title": "【】ババドナ新年会【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LNHcBkqVVu4",
+        "picture": "https://i.ytimg.com/vi/LNHcBkqVVu4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736071200,
+        "title": "【3D整体】マリンが劇的変化!?新年早々から体のお悩みをスッキリ爽快!!!!!【#マリン船長の三十路式整体術】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TDN4maRTbBA",
+        "picture": "https://i.ytimg.com/vi/TDN4maRTbBA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1735992000,
+        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
     }
 ]
