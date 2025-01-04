@@ -463,12 +463,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bKbbt3s8OMg",
         "picture": "https://i.ytimg.com/vi/bKbbt3s8OMg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1735977600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNO】New year, same old addiction"
     }
 ]
