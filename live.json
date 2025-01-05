@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=STU_qAlCGtA",
         "picture": "https://i.ytimg.com/vi/STU_qAlCGtA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736077500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】２０２５初　雑　談【花咲みやび/ホロスターズ】"
     },
     {
