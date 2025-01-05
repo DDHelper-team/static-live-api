@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2TZzVMq-uyk",
         "picture": "https://i.ytimg.com/vi/2TZzVMq-uyk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736085600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【謹賀新年】ホロメン相関図JP編！2025年の関係性は一体どうなる！？【ホロライブ / AZKi】"
     },
     {
@@ -376,13 +376,13 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oc2y-TNCA-g",
         "picture": "https://i.ytimg.com/vi/oc2y-TNCA-g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736085600,
-        "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 歌枠 】椎名林檎\u0026amp;東京事変縛りの歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
