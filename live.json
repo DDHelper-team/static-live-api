@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RsK7izT8vnU",
         "picture": "https://i.ytimg.com/vi/RsK7izT8vnU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736078400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ふなあああああ(・o・🍬)【姫森ルーナ/ホロライブ】"
     },
     {
@@ -370,7 +370,7 @@
         "picture": "https://i.ytimg.com/vi/FTs607SsnF0/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1736078400,
+        "timestamp": 1736080200,
         "title": "【雑談】あけおめ２０２５！！！今年の目標でも決めますか！！！【百鬼あやめ/ホロライブ】"
     },
     {
