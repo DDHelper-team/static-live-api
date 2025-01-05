@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Vl3YvuvXGNc",
         "picture": "https://i.ytimg.com/vi/Vl3YvuvXGNc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736035200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【NEW YEAR Q\u0026amp;A CHATTING】you have questions, we (might) have answers 🐾  【FUWAMOCO】"
     },
     {
@@ -393,5 +393,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736078400,
         "title": "ふなあああああ(・o・🍬)【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=8KGPdwIhb6o",
+        "picture": "https://i.ytimg.com/vi/8KGPdwIhb6o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ゲリラ朝活】起きて、すごく短い配信だよ【火威青】#hololiveDEV_IS #ReGLOSS"
     }
 ]
