@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UvUxtwFVVGM",
         "picture": "https://i.ytimg.com/vi/UvUxtwFVVGM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736064000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【お宝マウンテン】ぺこらverのお宝マウンテンやってみる！！！！！【ホロライブ/大神ミオ】"
     },
     {
@@ -375,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o7cNdqLoNvQ",
         "picture": "https://i.ytimg.com/vi/o7cNdqLoNvQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736063400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 RAG×Re:AcT 】お正月企画に参加🎍🎍【獅子神レオナ/Re:AcT】"
     },
     {
