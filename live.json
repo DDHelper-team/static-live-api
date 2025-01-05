@@ -365,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FTs607SsnF0",
         "picture": "https://i.ytimg.com/vi/FTs607SsnF0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736080200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】あけおめ２０２５！！！今年の目標でも決めますか！！！【百鬼あやめ/ホロライブ】"
     },
     {
@@ -403,7 +403,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "evil is eeping! be back tomorrow, 2-3pm gmt | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
