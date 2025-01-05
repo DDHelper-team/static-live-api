@@ -363,7 +363,7 @@
         "title": "【Ballionaire】time to learn about the new BAL-【Kaela Kovalskia / hololiveID】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -393,5 +393,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736168400,
         "title": "【雜談】情緒價值，你知道這是什麼嗎? 🤔"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=xHPDSpTfnUw",
+        "picture": "https://i.ytimg.com/vi/xHPDSpTfnUw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Random】 WHAT IS SLEEP HAHAHA"
     }
 ]
