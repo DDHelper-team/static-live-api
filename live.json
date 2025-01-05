@@ -337,7 +337,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Chat has to keep streaming until I become the President of Evilland"
+        "title": "twin road trip!!!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -360,17 +360,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736168400,
         "title": "【雜談】情緒價值，你知道這是什麼嗎? 🤔"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xHPDSpTfnUw",
-        "picture": "https://i.ytimg.com/vi/xHPDSpTfnUw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Random】 WHAT IS SLEEP HAHAHA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -404,5 +393,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736128800,
         "title": "【PagiMoona】Selamat Pagi!!!【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BR9uPUIP3-M",
+        "picture": "https://i.ytimg.com/vi/BR9uPUIP3-M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736186400,
+        "title": "NO ONE MOURNS THE WICKED! W/ @holoen_erbloodflame | Wicked Watchalong"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FsyWPd1L95k",
+        "picture": "https://i.ytimg.com/vi/FsyWPd1L95k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736168400,
+        "title": "【キャプテン翼 RISE OF NEW CHAMPIONS】取られたら取ればいい！！！#2【角巻わため/ホロライブ４期生】※ネタバレあり"
     }
 ]
