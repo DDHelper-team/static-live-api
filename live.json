@@ -319,7 +319,7 @@
         "title": "【 新年のご挨拶 】2025年あけましておめでとう‼年越しを振り返りながら今年の目標決める☺【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BR9uPUIP3-M",
         "picture": "https://i.ytimg.com/vi/BR9uPUIP3-M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736186400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "NO ONE MOURNS THE WICKED! W/ @holoen_erbloodflame | Wicked Watchalong"
     },
     {
@@ -415,5 +415,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736251200,
         "title": "【Chained Together】#ホロ新春ゲーム祭2025 に向けてわためぇと鎖の練習する！！【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dz6VgIIbRS4",
+        "picture": "https://i.ytimg.com/vi/dz6VgIIbRS4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736222400,
+        "title": "【Alien Isolation】You Have My Sympathies"
     }
 ]
