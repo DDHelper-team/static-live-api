@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LSAXfelaPDM",
         "picture": "https://i.ytimg.com/vi/LSAXfelaPDM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736132400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Unicycle Pizza Time!】WHO STOLE MY DELIVERY BIKE?!【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -337,7 +337,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Someone deliver us a cooler, thanks."
+        "title": "Evil Neuro finally got Touhou, the cutest Deranged Psycho Shooter, stream soon. Follow and Subscribe."
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -415,5 +415,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736159400,
         "title": "塔羅占卜#84｜大眾占卜-今天來占卜一下2025上半年運勢吧🔮✨🦊【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8DkhjBh27j0",
+        "picture": "https://i.ytimg.com/vi/8DkhjBh27j0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736164800,
+        "title": "【コラボ】後輩となかよくなれるかな【ホロライブ/兎田ぺこら/虎金妃笑虎】"
     }
 ]
