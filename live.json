@@ -386,12 +386,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l1_Apyl_RSA",
         "picture": "https://i.ytimg.com/vi/l1_Apyl_RSA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736161200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "塔羅占卜#84｜大眾占卜-今天來占卜一下2025上半年運勢吧🔮✨🦊【Healing希靈/VTuber】"
     },
     {
@@ -408,12 +408,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jR7llufleU0",
         "picture": "https://i.ytimg.com/vi/jR7llufleU0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736161200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】たそまると対決⁉️マーヴィカで乗り回せ🏍️【緋月ゆい/ネオポルテ】"
     },
     {
@@ -430,24 +430,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BYQVnnVOwj4",
         "picture": "https://i.ytimg.com/vi/BYQVnnVOwj4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736161200,
-        "title": "【#ホロクラダイヤ発掘隊】ダイヤほりほり隊にはいりました。【ホロライブ/夏色まつり】"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=W_9Nk0vkELg",
-        "picture": "https://i.ytimg.com/vi/W_9Nk0vkELg/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【初マシュマロ】告知の告知がしたい！80万人様も目指してます！✨【轟はじめ/ReGLOSS】 #hololivedev_is"
+        "title": "【#ホロクラダイヤ発掘隊】ダイヤほりほり隊にはいりました。【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
