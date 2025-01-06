@@ -321,23 +321,23 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yJD-Jijz5Ck",
         "picture": "https://i.ytimg.com/vi/yJD-Jijz5Ck/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736121600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PEJUANG SENIN】#91 HAPPY NEW YEAR!【Kaela\u0026#39;s Monday Warrior】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Radiator-Less Drift Car Duo!"
+        "title": "cool, long drive."
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -360,17 +360,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736157600,
         "title": "【 魔界塔士Sa・Ga 】レトロゲーム『魔界塔士サ・ガ】』遊んでいくのら！！！＃１【姫森ルーナ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IdYAZ9n_ScA",
-        "picture": "https://i.ytimg.com/vi/IdYAZ9n_ScA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】ぱ！今年も朝活するぞ⛅️【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
@@ -404,5 +393,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736168400,
         "title": "【キャプテン翼 RISE OF NEW CHAMPIONS】取られたら取ればいい！！！#2【角巻わため/ホロライブ４期生】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=e_WVWOb-WVA",
+        "picture": "https://i.ytimg.com/vi/e_WVWOb-WVA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736193600,
+        "title": "Lego Tree Build But I\u0026#39;m Under Water【Handcam】"
     }
 ]
