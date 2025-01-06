@@ -342,13 +342,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=et6Fgr51dks",
         "picture": "https://i.ytimg.com/vi/et6Fgr51dks/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736157600,
-        "title": "【 魔界塔士Sa・Ga 】レトロゲーム『魔界塔士サ・ガ】』遊んでいくのら！！！＃１【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 魔界塔士Sa・Ga 】レトロゲーム『魔界塔士サ・ガ』で遊んでいくのら！！！＃１【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
@@ -431,12 +431,12 @@
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=R7SpxbBdTZY",
-        "picture": "https://i.ytimg.com/vi/R7SpxbBdTZY/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736157600,
-        "title": "【メン限同時視聴】宝鐘マリン1stライブ「Ahoy!! キミたちみんなパイレーツ♡」【ホロライブ/宝鐘マリン】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -452,12 +452,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=W_9Nk0vkELg",
         "picture": "https://i.ytimg.com/vi/W_9Nk0vkELg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736157600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【初マシュマロ】告知の告知がしたい！80万人様も目指してます！✨【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
