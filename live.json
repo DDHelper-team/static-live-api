@@ -337,7 +337,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "cool, long drive."
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -364,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=o8dyfX74bC0",
         "picture": "https://i.ytimg.com/vi/o8dyfX74bC0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736128800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PagiMoona】Selamat Pagi!!!【Moona Hoshinova】"
     },
     {
@@ -404,5 +404,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736193600,
         "title": "Lego Tree Build But I\u0026#39;m Under Water【Handcam】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=l1_Apyl_RSA",
+        "picture": "https://i.ytimg.com/vi/l1_Apyl_RSA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736159400,
+        "title": "塔羅占卜#84｜大眾占卜-今天來占卜一下2025上半年運勢吧🔮✨🦊【Healing希靈/VTuber】"
     }
 ]
