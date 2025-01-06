@@ -319,14 +319,14 @@
         "title": "【 新年のご挨拶 】2025年あけましておめでとう‼年越しを振り返りながら今年の目標決める☺【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "we\u0026#39;re aiming for 30k"
+        "title": "Chatting - Disneyland, Delivered Food, and More!"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e_WVWOb-WVA",
         "picture": "https://i.ytimg.com/vi/e_WVWOb-WVA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736193600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Lego Tree Build But I\u0026#39;m Under Water【Handcam】"
     },
     {
@@ -437,5 +437,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736262000,
         "title": "【KU100/ASMR】はむはむ♡ぎゅ～っ♡体温感じる密着吐息でお休み明けの心を暖める睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3xZy0c_2jko",
+        "picture": "https://i.ytimg.com/vi/3xZy0c_2jko/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736244000,
+        "title": "【 魔界塔士Sa・Ga 】最終回！レトロゲーム『魔界塔士サ・ガ』で遊んでいくのら！！！＃２【姫森ルーナ/ホロライブ】"
     }
 ]
