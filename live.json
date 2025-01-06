@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "the twins are sleeping! see you around 2-3pm gmt | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -386,12 +386,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xbydspYyT9M",
         "picture": "https://i.ytimg.com/vi/xbydspYyT9M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736172000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【謹賀新年】ホロメン相関図JP編！2025年の関係性は一体どうなる！？後半戦【ホロライブ / AZKi】"
     },
     {
@@ -439,17 +439,6 @@
         "title": "【雑談】もしかしてわたしオタクだと思われてなかった・・・？【ホロライブ/ときのそら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xX3USamIMqw",
-        "picture": "https://i.ytimg.com/vi/xX3USamIMqw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロクラダイヤ発掘隊 】ダイヤをたくさん掘るらしい・・💎お手伝いしよう✨【大神ミオ視点】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "islive": true,
@@ -470,5 +459,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736211600,
         "title": "≪Just Chatting≫ I can\u0026#39;t believe it\u0026#39;s already the 7th of Jan."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=XCPuLETsGes",
+        "picture": "https://i.ytimg.com/vi/XCPuLETsGes/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【CRUELTY】和製最恐級スプラッターホラー、屠殺場で生き残れ【ホロライブ/癒月ちょこ】"
     }
 ]
