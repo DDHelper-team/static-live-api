@@ -319,7 +319,7 @@
         "title": "【 新年のご挨拶 】2025年あけましておめでとう‼年越しを振り返りながら今年の目標決める☺【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -428,17 +428,6 @@
         "title": "【謹賀新年】ホロメン相関図JP編！2025年の関係性は一体どうなる！？後半戦【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "islive": false,
@@ -481,5 +470,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736163000,
         "title": "【M.M.M.】Monday Malam Malas : We\u0026#39;re back malasing again【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=lpdinW9rZzE",
+        "picture": "https://i.ytimg.com/vi/lpdinW9rZzE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【64万人耐久KARAOKE】こんなはずじゃなかった【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=YyGRGWa6-A4",
+        "picture": "https://i.ytimg.com/vi/YyGRGWa6-A4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Gomoku 五目並べ 】skill +1"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JZIn7Tmifro",
+        "picture": "https://i.ytimg.com/vi/JZIn7Tmifro/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736164800,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
     }
 ]
