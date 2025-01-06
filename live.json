@@ -364,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6DEEbkFerTk",
         "picture": "https://i.ytimg.com/vi/6DEEbkFerTk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736204400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Path of Exile 2】continue mapping!【Kaela Kovalskia / hololiveID】"
     },
     {
