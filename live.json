@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "the twins are sleeping! see you around 2-3pm gmt | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -459,5 +459,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736157600,
         "title": "【初マシュマロ】告知の告知がしたい！80万人様も目指してます！✨【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=c6t8zmfXY80",
+        "picture": "https://i.ytimg.com/vi/c6t8zmfXY80/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736163000,
+        "title": "【SEISO STREAM】I\u0026#39;M AN IDOL AFTERALL~!! EHE~!! HOW WAS YOUR NEW YEARS~?? ^0^【Kureiji Ollie】"
     }
 ]
