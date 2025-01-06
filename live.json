@@ -329,17 +329,6 @@
         "title": "good morning twins! | !lavalamp !bwaa"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=et6Fgr51dks",
-        "picture": "https://i.ytimg.com/vi/et6Fgr51dks/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 魔界塔士Sa・Ga 】レトロゲーム『魔界塔士サ・ガ』で遊んでいくのら！！！＃１【姫森ルーナ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
         "islive": false,
@@ -437,5 +426,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736244000,
         "title": "【そらミオ】新年のコラボ歌枠！！【ホロライブ/ときのそら/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6DEEbkFerTk",
+        "picture": "https://i.ytimg.com/vi/6DEEbkFerTk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736204400,
+        "title": "【Path of Exile 2】continue mapping!【Kaela Kovalskia / hololiveID】"
     }
 ]
