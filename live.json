@@ -397,24 +397,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8DkhjBh27j0",
         "picture": "https://i.ytimg.com/vi/8DkhjBh27j0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736164800,
-        "title": "【コラボ】後輩となかよくなれるかな【ホロライブ/兎田ぺこら/虎金妃笑虎】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jR7llufleU0",
-        "picture": "https://i.ytimg.com/vi/jR7llufleU0/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【原神】たそまると対決⁉️マーヴィカで乗り回せ🏍️【緋月ゆい/ネオポルテ】"
+        "title": "【コラボ】後輩となかよくなれるかな【ホロライブ/兎田ぺこら/虎金妃笑虎】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -485,13 +474,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JZIn7Tmifro",
         "picture": "https://i.ytimg.com/vi/JZIn7Tmifro/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736164800,
-        "title": "【配信予定地】【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】もしかしてわたしオタクだと思われてなかった・・・？【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
@@ -503,5 +492,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ねっこよ24 】後半戦一発目Start✨マシュマロ読んでく！【 桃鈴ねね / 博衣こより / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xX3USamIMqw",
+        "picture": "https://i.ytimg.com/vi/xX3USamIMqw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736166600,
+        "title": "【 #ホロクラダイヤ発掘隊 】ダイヤをたくさん掘るらしい・・💎お手伝いしよう✨【大神ミオ視点】"
     }
 ]
