@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "good night neuro! be back 2-3pm gmt | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
@@ -338,17 +338,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【そらミオ】新年のコラボ歌枠！！【ホロライブ/ときのそら/大神ミオ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6DEEbkFerTk",
-        "picture": "https://i.ytimg.com/vi/6DEEbkFerTk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Path of Exile 2】continue mapping!【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -408,34 +397,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5_PxSHEw3FA",
         "picture": "https://i.ytimg.com/vi/5_PxSHEw3FA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736247600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VSアソビ大全】負けられない、いや。負けれない戦いがここにはあると思うんです🔥 ＃ヴィヴィロボ【ホロライブ/ロボ子さん・綺々羅々ヴィヴィ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Hu8qVE1apFo",
         "picture": "https://i.ytimg.com/vi/Hu8qVE1apFo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736247600,
-        "title": "【24時間】天界弩級オシゴトロードのMVが流れ続けるだけの部屋【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【耐久】天界弩級オシゴトロードのMV☆24時間耐久【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tGQcVlfAK4Q",
         "picture": "https://i.ytimg.com/vi/tGQcVlfAK4Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736247600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "雜談｜新年抽紫南宮發財平安米+親簽實體拍立得【Healing希靈/VTuber】"
     },
     {
@@ -463,23 +452,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=r8bYEXkz7fI",
         "picture": "https://i.ytimg.com/vi/r8bYEXkz7fI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736247600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【アソビ大全】全CPUに勝つまで終われない！？ 五目並べ【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=JPj5mPFOj9Q",
         "picture": "https://i.ytimg.com/vi/JPj5mPFOj9Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736247600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】2025年だからダイヤ2025個集めるホロライブメンバーたち！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
