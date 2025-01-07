@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neurotopia (vedal tries to stop me)"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -470,5 +470,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736298000,
         "title": "Stuck in the apocolypse w/ @holoen_gigimurin  | SOMA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XJtT-jj56_8",
+        "picture": "https://i.ytimg.com/vi/XJtT-jj56_8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736334000,
+        "title": "【 プリコネR 】正月サレンをお迎えするのら！！！【姫森ルーナ/ホロライブ】"
     }
 ]
