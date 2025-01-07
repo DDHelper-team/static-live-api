@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Jp2AkWjYYYc",
         "picture": "https://i.ytimg.com/vi/Jp2AkWjYYYc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736244000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【そらミオ】新年のコラボ歌枠！！【ホロライブ/ときのそら/大神ミオ】"
     },
     {
@@ -375,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3xZy0c_2jko",
         "picture": "https://i.ytimg.com/vi/3xZy0c_2jko/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736244000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 魔界塔士Sa・Ga 】最終回！レトロゲーム『魔界塔士サ・ガ』で遊んでいくのら！！！＃２【姫森ルーナ/ホロライブ】"
     },
     {
@@ -470,5 +470,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736247600,
         "title": "【アソビ大全】全CPUに勝つまで終われない！？ 五目並べ【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JPj5mPFOj9Q",
+        "picture": "https://i.ytimg.com/vi/JPj5mPFOj9Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736247600,
+        "title": "【Minecraft】2025年だからダイヤ2025個集めるホロライブメンバーたち！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
