@@ -326,18 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Radiation Problem"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mXrS-ZEpe14",
-        "picture": "https://i.ytimg.com/vi/mXrS-ZEpe14/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Just Chatting≫ I can\u0026#39;t believe it\u0026#39;s already the 7th of Jan."
+        "title": "Good night from Evil!"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -448,5 +437,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736247600,
         "title": "【VSアソビ大全】負けられない、いや。負けれない戦いがここにはあると思うんです🔥 ＃ヴィヴィロボ【ホロライブ/ロボ子さん・綺々羅々ヴィヴィ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Hu8qVE1apFo",
+        "picture": "https://i.ytimg.com/vi/Hu8qVE1apFo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736247600,
+        "title": "【24時間】天界弩級オシゴトロードのMVが流れ続けるだけの部屋【天音かなた/ホロライブ】"
     }
 ]
