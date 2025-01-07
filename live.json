@@ -329,17 +329,6 @@
         "title": "good night neuro! be back 2-3pm gmt | !lavalamp !bwaa"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZLWkit0W-G4",
-        "picture": "https://i.ytimg.com/vi/ZLWkit0W-G4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【BLOODBORNE】BIBOO\u0026#39;S FIRST BLOODBORNE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": false,
@@ -375,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dz6VgIIbRS4",
         "picture": "https://i.ytimg.com/vi/dz6VgIIbRS4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736222400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Alien Isolation】You Have My Sympathies"
     },
     {
