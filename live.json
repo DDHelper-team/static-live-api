@@ -319,7 +319,7 @@
         "title": "【 新年のご挨拶 】2025年あけましておめでとう‼年越しを振り返りながら今年の目標決める☺【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -419,12 +419,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IbmMxsGfgzg",
         "picture": "https://i.ytimg.com/vi/IbmMxsGfgzg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736254800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロ新春ゲーム祭2025】スーパー マリオパーティ ジャンボリー！トワチームで練習するぞ！！！【ホロライブ / AZKi / 常闇トワ / 宝鐘マリン / 轟はじめ】"
     },
     {
@@ -463,12 +463,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AVTbP8oCqX0",
         "picture": "https://i.ytimg.com/vi/AVTbP8oCqX0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736254816,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#59 -世界任務編 | 完全初見！やり残したことが…⛓️【緋月ゆい/ネオポルテ】"
     },
     {
@@ -496,13 +496,13 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ckV13CcxBC0",
         "picture": "https://i.ytimg.com/vi/ckV13CcxBC0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736254800,
-        "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #ホロクラダイヤ発掘隊 】みんなでダイヤ2025個集めるぞおおお【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
@@ -518,12 +518,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y011cGsaTPY",
         "picture": "https://i.ytimg.com/vi/Y011cGsaTPY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736255700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ホロクラダイヤ発掘隊 】お手伝いしよう✨働きやすい環境つくり【大神ミオ視点】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ikAH22mRw_U",
+        "picture": "https://i.ytimg.com/vi/ikAH22mRw_U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736341200,
+        "title": "【雜談】什麼都聊~聊到你心坎裡~歐耶💘"
     }
 ]
