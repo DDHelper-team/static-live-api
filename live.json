@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Neurotopia"
+        "title": "Neurotopia (vedal tries to stop me)"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -459,5 +459,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736344800,
         "title": "【メンバー限定配信】開設4年10ヶ月目！企画会議をしよう！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oDkVvFIfqro",
+        "picture": "https://i.ytimg.com/vi/oDkVvFIfqro/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736298000,
+        "title": "Stuck in the apocolypse w/ @holoen_gigimurin  | SOMA"
     }
 ]
