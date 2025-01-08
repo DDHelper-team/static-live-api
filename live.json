@@ -351,17 +351,6 @@
         "title": "【 Content Warning 】バズるか死ぬか【 奏手イヅル / #ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=n22bQTmTVas",
-        "picture": "https://i.ytimg.com/vi/n22bQTmTVas/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "＃４【龍が如く極２】完全初見！十四章から本編最後まで駆け抜ける！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": true,
@@ -536,5 +525,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736341200,
         "title": "【ETS 2】Let\u0026#39;s Pray that the Game Doesn\u0026#39;t Crash【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=e6pWdqFeEQg",
+        "picture": "https://i.ytimg.com/vi/e6pWdqFeEQg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736373600,
+        "title": "【Coffee Caravan】 Did Somebody Say Pean- COFFEE?!"
     }
 ]
