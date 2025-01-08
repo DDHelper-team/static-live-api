@@ -474,23 +474,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dr_D-XA4VNU",
         "picture": "https://i.ytimg.com/vi/dr_D-XA4VNU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736323200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【大神】#3 新年にやる大神縁起よさそう【花咲みやび/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=g02JiVa7qIE",
-        "picture": "https://i.ytimg.com/vi/g02JiVa7qIE/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=eURa0vDeXj0",
+        "picture": "https://i.ytimg.com/vi/eURa0vDeXj0/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1736322300,
-        "title": "【メン限定】ろぼさー集合！MTまでゲリラバッジ創作お絵描きいいい【ホロライブ/ロボ子さん】"
+        "timestamp": 1736341200,
+        "title": "【THE EXIT 8】#ホロ新春ゲーム祭2025 TRAINING ARC!! CAN WE RTA EXIT 8??【Kureiji Ollie】"
     }
 ]
