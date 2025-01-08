@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VQidcgLL7BM",
         "picture": "https://i.ytimg.com/vi/VQidcgLL7BM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736330400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケカ福袋】✨300万✨の福袋開封するぞおおおおおおおお！！！！！！！！！！！！！！【ホロライブ/夏色まつり】"
     },
     {
