@@ -331,13 +331,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=v-bp0iJBYBI",
         "picture": "https://i.ytimg.com/vi/v-bp0iJBYBI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736334000,
-        "title": "【かなけん】最後の生配信！！【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】かなけん最後の生配信！！【天音かなた、沙花叉クロヱ、AZKi/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -397,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XJtT-jj56_8",
         "picture": "https://i.ytimg.com/vi/XJtT-jj56_8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736334000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 プリコネR 】正月サレンをお迎えするのら！！！【姫森ルーナ/ホロライブ】"
     },
     {
@@ -419,12 +419,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rvRJn7K8XtI",
         "picture": "https://i.ytimg.com/vi/rvRJn7K8XtI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736334000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Poly Bridge 3】見た目が頑丈ならとりあえず通れるやろ（物理）【獅白ぼたん/ホロライブ】"
     },
     {
