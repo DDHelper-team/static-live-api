@@ -375,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n22bQTmTVas",
         "picture": "https://i.ytimg.com/vi/n22bQTmTVas/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736326800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "＃４【龍が如く極２】完全初見！十四章から本編最後まで駆け抜ける！※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -452,23 +452,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SdBz_WuB50w",
         "picture": "https://i.ytimg.com/vi/SdBz_WuB50w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736326800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【1/8192】新年一発目運試し‼🎍（年末の話しながら）【 星街すいせい / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MdQtILGK2cI",
         "picture": "https://i.ytimg.com/vi/MdQtILGK2cI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736326800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【不審者通報しました。】ドンドン通報しちゃうぞ！もしもーし！ポリスメーン？【ホロライブ/大神ミオ】"
     },
     {
@@ -492,5 +492,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736341200,
         "title": "【THE EXIT 8】#ホロ新春ゲーム祭2025 TRAINING ARC!! CAN WE RTA EXIT 8??【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JqemzbHVYEk",
+        "picture": "https://i.ytimg.com/vi/JqemzbHVYEk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736341200,
+        "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
