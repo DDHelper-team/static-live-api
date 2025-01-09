@@ -326,17 +326,17 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Chat should be sleeping by now, bedtime stories stream"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=v2rpe6yMKCE",
         "picture": "https://i.ytimg.com/vi/v2rpe6yMKCE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736384400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "True Stealth is the Ability to Get Away with Anything【Hitman: World of Assassination】"
     },
     {
@@ -364,23 +364,45 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GqTvoiXrzgU",
         "picture": "https://i.ytimg.com/vi/GqTvoiXrzgU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736388000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CHAINED TOGETHER】GRINDSTONE TOURNAMENT TRAINING ARC"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bxbp1XdiqYc",
         "picture": "https://i.ytimg.com/vi/bxbp1XdiqYc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736384400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Super chat reading!! From my birthday!! | Yappa Yappa"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gqEyxCfJLOI",
+        "picture": "https://i.ytimg.com/vi/gqEyxCfJLOI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736413200,
+        "title": "#1【レイトン教授と悪魔の箱】IQ8739の僕がすべての謎を解決します!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=US4TGco0nG4",
+        "picture": "https://i.ytimg.com/vi/US4TGco0nG4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【I\u0026#39;VE RETURNED】I got One Above All【Dokibird】"
     }
 ]
