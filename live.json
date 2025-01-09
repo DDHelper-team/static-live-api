@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "The Road Trip To Disneyland will Never Be Forgotten"
+        "title": "Maybe Disneyland Isn\u0026#39;t Happening Today..."
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -384,17 +384,6 @@
         "title": "【GARTIC PHONE】First Advent Collab of the Year! + BIG ANNOUNCEMENT #holoadvent"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1dlgKhVV3Fc",
-        "picture": "https://i.ytimg.com/vi/1dlgKhVV3Fc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ホロクラダイヤ発掘隊】2025個のダイヤほりほり隊【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -448,5 +437,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736474400,
         "title": "ADVENT DRAWS + BIG ANNOUNCEMENT | Gartic Phone"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KOEujHI_xUc",
+        "picture": "https://i.ytimg.com/vi/KOEujHI_xUc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736460000,
+        "title": "【POE2】 What Do You Mean I\u0026#39;m Exiled? I Was Just Serving Coffee??"
     }
 ]
