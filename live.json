@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vTRFcsnooAA",
         "picture": "https://i.ytimg.com/vi/vTRFcsnooAA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736499600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MARVEL RIVALS】Season 1 Launch【Dokibird】"
     },
     {
@@ -492,5 +492,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736503200,
         "title": "【 -`🎙 歌枠/Singing 】今日は歌える気がするんだよね！！！！！【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=t08sryVRvrk",
+        "picture": "https://i.ytimg.com/vi/t08sryVRvrk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736514600,
+        "title": "【PICO PARK 2】KAEL-ELA OFFCOLLAB FOR AN HOUR!【Kaela Kovalskia / hololiveID】"
     }
 ]
