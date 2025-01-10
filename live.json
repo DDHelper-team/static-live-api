@@ -375,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=k_PILB9G5SQ",
         "picture": "https://i.ytimg.com/vi/k_PILB9G5SQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736517600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】第１２０回！わためぇ Night Fever!! Singing Stream🎤【角巻わため/ホロライブ４期生】"
     },
     {
@@ -463,12 +463,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4UVIwTubVno",
         "picture": "https://i.ytimg.com/vi/4UVIwTubVno/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736517600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 あつまれ どうぶつの森 】静かなる生活 開始【 奏手イヅル / ホロスターズ 】"
     },
     {
