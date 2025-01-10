@@ -326,18 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Evil Neuro\u0026#39;s UK Justice System"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Y35kQj2vfXg",
-        "picture": "https://i.ytimg.com/vi/Y35kQj2vfXg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ASMR雜談｜睡前說說話給放鬆下來擁有美好的夜晚❤️｜Earwaxing whispering｜あまあま耳かき、囁き【KU100／黑3DIO】"
+        "title": "Evil Neuro Desperately Needs a Harpoon"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -437,5 +426,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736557200,
         "title": "【DORAEMON DORAYAKI SHOP STORY】running my childhood bakery【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_PvPXz0UAdM",
+        "picture": "https://i.ytimg.com/vi/_PvPXz0UAdM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736596800,
+        "title": "【＃ホロライブじゃんけん王】優勝者は100万円！新春運試しじゃんけん大会！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vdiBHerbmLo",
+        "picture": "https://i.ytimg.com/vi/vdiBHerbmLo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736557200,
+        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     }
 ]
