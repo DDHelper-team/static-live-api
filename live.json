@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "good night!!! be back 2-3pm gmt | !lavalamp !bwaa"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -474,23 +474,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=AUusoZm0cfo",
         "picture": "https://i.ytimg.com/vi/AUusoZm0cfo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736503200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【カゲマス】遂に登場したラプラス・ダークネス本人です、それでは入手しましょうか＿＿＿＿【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】#陰の実力者になりたくて #カゲマス #pr"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iorPv7vTefE",
         "picture": "https://i.ytimg.com/vi/iorPv7vTefE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736503200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】今日は歌える気がするんだよね！！！！！【獅子神レオナ/Re:AcT】"
     },
     {
@@ -514,5 +514,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736510400,
         "title": "【メン限】『ハリー・ポッターとアズカバンの囚人』同時視聴会member ship only【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_byghWBFAPE",
+        "picture": "https://i.ytimg.com/vi/_byghWBFAPE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736589600,
+        "title": "【重大告知あり！】はじめの日！ホロ歌枠🎤✨【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=w8AQvVymmPQ",
+        "picture": "https://i.ytimg.com/vi/w8AQvVymmPQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736514000,
+        "title": "【 #ホロクラダイヤ発掘隊 】ダイヤ2025達成お祝い！エンドラ討伐に行く？！【大神ミオ視点】"
     }
 ]
