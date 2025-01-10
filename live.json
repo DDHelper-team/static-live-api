@@ -326,18 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Should I Play OSRS"
-    },
-    {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=l2mGuTNyeyo",
-        "picture": "https://i.ytimg.com/vi/l2mGuTNyeyo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌雜】有很多新歌? 還是唱唱老歌呢 🎵  *可點歌單的歌"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -375,12 +364,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qMupm5f6dZo",
         "picture": "https://i.ytimg.com/vi/qMupm5f6dZo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736528400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "So the moon, a cat, and a demon walk into hell... | Chained Together"
     },
     {
