@@ -326,18 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "good night neuro! back 2pm - 3pm gmt | read the pin | !lavalamp !bwaa"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iycEkuK8mjE",
-        "picture": "https://i.ytimg.com/vi/iycEkuK8mjE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "\u0026#39;You Live Like This?\u0026#39; But It\u0026#39;s You Asking ME That【Donation Handcam】"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -386,12 +375,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FphvzUQ_U9s",
         "picture": "https://i.ytimg.com/vi/FphvzUQ_U9s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736568000,
-        "title": "【ELDEN RING】#35 隠しボスとの熱き闘い！！初見エルデンリング！！！【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ELDEN RING】#35 本編最終回！？隠しボスとの熱き闘い！！初見エルデンリング！！！【天音かなた/ホロライブ】"
     }
 ]
