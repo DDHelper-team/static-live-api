@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xvHu0mbM318",
         "picture": "https://i.ytimg.com/vi/xvHu0mbM318/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736586000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【biohazard HD】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
