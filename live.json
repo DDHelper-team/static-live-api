@@ -430,12 +430,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SuGwIuM79a8",
         "picture": "https://i.ytimg.com/vi/SuGwIuM79a8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736633700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【POE2】 Return of the Hooded One (Purple)"
     }
 ]
