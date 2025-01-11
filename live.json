@@ -329,17 +329,6 @@
         "title": "good night neuro! back 2pm - 3pm gmt | read the pin | !lavalamp !bwaa"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_byghWBFAPE",
-        "picture": "https://i.ytimg.com/vi/_byghWBFAPE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【重大告知あり！】はじめの日！ホロ歌枠🎤✨【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "islive": true,
@@ -415,5 +404,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736604000,
         "title": "【アソビ大全】沙花叉おみゃえ負けたら「これからもず～っと大好きだよ」って言え＾＾【天音かなた＆沙花叉クロヱ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=a4EWdpBIb6s",
+        "picture": "https://i.ytimg.com/vi/a4EWdpBIb6s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736679600,
+        "title": "塔羅占卜#85｜2025想占什麼都來試試吧🔮✨🦊【Healing希靈/VTuber】"
     }
 ]
