@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_PvPXz0UAdM",
         "picture": "https://i.ytimg.com/vi/_PvPXz0UAdM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736596800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロライブじゃんけん王】優勝者は100万円！新春運試しじゃんけん大会！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -419,12 +419,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rMS5llMDijc",
         "picture": "https://i.ytimg.com/vi/rMS5llMDijc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736596800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Gold and Glory】WE ARE READY TO WINNNNNNNNNNNN 🗡️【holoh3ro】"
     }
 ]
