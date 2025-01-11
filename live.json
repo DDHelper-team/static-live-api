@@ -331,13 +331,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xvHu0mbM318",
-        "picture": "https://i.ytimg.com/vi/xvHu0mbM318/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mH8jQnRPUAo",
+        "picture": "https://i.ytimg.com/vi/mH8jQnRPUAo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【biohazard HD】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736672400,
+        "title": "【２】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
