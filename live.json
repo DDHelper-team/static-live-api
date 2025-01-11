@@ -319,14 +319,14 @@
         "title": "【 新年のご挨拶 】2025年あけましておめでとう‼年越しを振り返りながら今年の目標決める☺【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "good night neuro! back 2pm - 3pm gmt | read the pin | !lavalamp !bwaa"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -360,17 +360,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736604000,
         "title": "【キャプテン翼 RISE OF NEW CHAMPIONS】EPISODE OF NEW HERO編キックオフ！！#3【角巻わため/ホロライブ４期生】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KsLDa7rQ49g",
-        "picture": "https://i.ytimg.com/vi/KsLDa7rQ49g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 呪われたデジカメ | ホラゲ 】霊を撮影して写ったものがヤバそうなのら！！～Cursed Digicam【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -426,5 +415,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Gold and Glory】WE ARE READY TO WINNNNNNNNNNNN 🗡️【holoh3ro】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CjC6NEvsh9Q",
+        "picture": "https://i.ytimg.com/vi/CjC6NEvsh9Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736643600,
+        "title": "【GOD OF WAR 2018】boi time【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0l_2bWRw_Xw",
+        "picture": "https://i.ytimg.com/vi/0l_2bWRw_Xw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736686800,
+        "title": "【PLATE UP！】いらっしゃいませ、当店のシェフは一流ぞろいです【#ホロ新春ゲーム祭2025 練習会】#hololiveDEV_IS #ReGLOSS"
     }
 ]
