@@ -342,12 +342,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SbncULXUROM",
         "picture": "https://i.ytimg.com/vi/SbncULXUROM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736605800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【カウントダウン】ぺこらの誕生日をみんなで迎えよう！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
