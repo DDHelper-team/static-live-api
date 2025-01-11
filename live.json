@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_byghWBFAPE",
         "picture": "https://i.ytimg.com/vi/_byghWBFAPE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736589600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【重大告知あり！】はじめの日！ホロ歌枠🎤✨【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -375,12 +375,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KsLDa7rQ49g",
         "picture": "https://i.ytimg.com/vi/KsLDa7rQ49g/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 呪われたデジカメ | ホラゲ 】霊を撮影して写ったものがヤバそうなのら！！～Cursed Digicam【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-SR_N-7lFa0",
+        "picture": "https://i.ytimg.com/vi/-SR_N-7lFa0/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1736589600,
-        "title": "【】【姫森ルーナ/ホロライブ】"
+        "timestamp": 1736676000,
+        "title": "【マリオカート8DX】 #ホロ新春ゲーム祭り2025 チームに貢献するために！【ホロライブ/夏色まつり】"
     }
 ]
