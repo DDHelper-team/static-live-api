@@ -319,7 +319,7 @@
         "title": "【 新年のご挨拶 】2025年あけましておめでとう‼年越しを振り返りながら今年の目標決める☺【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -459,5 +459,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736686800,
         "title": "【雑談】早押し以外は全て捨てた男【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kmLBOT9Sz3Y",
+        "picture": "https://i.ytimg.com/vi/kmLBOT9Sz3Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736722800,
+        "title": "【MiSide】Do You Love Woman"
     }
 ]
