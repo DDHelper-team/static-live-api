@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "good night evil! be back 2-3 pm gmt"
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -353,12 +353,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0l_2bWRw_Xw",
         "picture": "https://i.ytimg.com/vi/0l_2bWRw_Xw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736686800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PLATE UP！】いらっしゃいませ、当店のシェフは一流ぞろいです【#ホロ新春ゲーム祭2025 練習会】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -375,13 +375,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uB6GxHc7PRc",
-        "picture": "https://i.ytimg.com/vi/uB6GxHc7PRc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4q1DdtjYIPs",
+        "picture": "https://i.ytimg.com/vi/4q1DdtjYIPs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#兎田ぺこら生誕祭2025】生誕３D LIVE！FEVER！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736687700,
+        "title": "【メンバー限定】アンコールライブ/Membersship only Encore LIVE ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
@@ -419,45 +419,45 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=I7lBpgv8D5M",
         "picture": "https://i.ytimg.com/vi/I7lBpgv8D5M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736686841,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【P.I.】身バレしたくない！！！！【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7M4JieUYiGo",
         "picture": "https://i.ytimg.com/vi/7M4JieUYiGo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736686800,
-        "title": "【】【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ホロ新春ゲーム祭】フォールガイズチーム練習やるしゅばああああああああああああああああ！！！！！: Fall Guys: Ultimate Knockout【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SexHqNki854",
         "picture": "https://i.ytimg.com/vi/SexHqNki854/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736686800,
-        "title": "【】【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "「ヴィジュアル系」のお歌に挑戦してみるのら～🎤🎶KARAOKE【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0BJX_fjH05Q",
         "picture": "https://i.ytimg.com/vi/0BJX_fjH05Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736686800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】早押し以外は全て捨てた男【花咲みやび/ホロスターズ】"
     },
     {
@@ -470,5 +470,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736722800,
         "title": "【MiSide】Do You Love Woman"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nsUfXjfKI-U",
+        "picture": "https://i.ytimg.com/vi/nsUfXjfKI-U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736773200,
+        "title": "【新年目標】新年新目標 一起來想想看 💘"
     }
 ]
