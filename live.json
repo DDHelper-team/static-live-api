@@ -340,17 +340,6 @@
         "title": "【 #朝ミオ 】月曜日だよ～～！おはみぉーん☀"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-SR_N-7lFa0",
-        "picture": "https://i.ytimg.com/vi/-SR_N-7lFa0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【マリオカート8DX】 #ホロ新春ゲーム祭り2025 チームに貢献するために！【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": true,
@@ -386,23 +375,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uB6GxHc7PRc",
         "picture": "https://i.ytimg.com/vi/uB6GxHc7PRc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736683200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#兎田ぺこら生誕祭2025】生誕３D LIVE！FEVER！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yKUg-79suSY",
         "picture": "https://i.ytimg.com/vi/yKUg-79suSY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736683200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Gold and Glory】GRINDING!! CARI ITEM BAGUS BARENG KITA HOLOH3RO!!!!"
     },
     {
