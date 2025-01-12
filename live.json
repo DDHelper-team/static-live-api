@@ -331,12 +331,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mH8jQnRPUAo",
         "picture": "https://i.ytimg.com/vi/mH8jQnRPUAo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736672400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【２】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
@@ -415,17 +415,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1736730000,
         "title": "Welcome to my house, @ShikiMiyoshino ! | Yappa Yappa"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RsSh3UegcO8",
-        "picture": "https://i.ytimg.com/vi/RsSh3UegcO8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ネタバレあり】FINAL FANTASY Ⅵ～もー！どこいっちゃったの～！？～【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
