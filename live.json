@@ -430,23 +430,23 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1aP_WYgXRTs",
         "picture": "https://i.ytimg.com/vi/1aP_WYgXRTs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736665200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OFF-COLLAB】Eating, snacking, eating, did I say eating? (and free talk)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uvn180bsYZ8",
         "picture": "https://i.ytimg.com/vi/uvn180bsYZ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736665200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロ新春ゲーム祭2025】マリオパーティジャンボリー！練習まにあえええええええええええ【#ホロライブ #ロボ子さん 】"
     }
 ]
