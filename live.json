@@ -441,12 +441,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=aPza1IpnD6k",
         "picture": "https://i.ytimg.com/vi/aPza1IpnD6k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736658000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 マリパ 】#ホロ新春ゲーム祭 の練習するぞー！！２【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
