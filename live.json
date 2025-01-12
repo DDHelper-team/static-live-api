@@ -354,11 +354,11 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=yKUg-79suSY",
         "picture": "https://i.ytimg.com/vi/yKUg-79suSY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Gold and Glory】GRINDING!! CARI ITEM BAGUS BARENG KITA HOLOH3RO!!!!"
     },
