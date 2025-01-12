@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": null
+        "title": "I love truckers FM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -368,7 +368,7 @@
         "link": "https://www.youtube.com/watch?v=CjC6NEvsh9Q",
         "picture": "https://i.ytimg.com/vi/CjC6NEvsh9Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1736643600,
         "title": "【GOD OF WAR 2018】boi time【Dokibird】"
     },
@@ -397,12 +397,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CJCUuIo8SKU",
         "picture": "https://i.ytimg.com/vi/CJCUuIo8SKU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1736640000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HITMAN World of Assassination】THE LONG JOURNEY FOR BLOODY SUIT BEGINS HERE..."
     },
     {
