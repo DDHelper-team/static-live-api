@@ -326,7 +326,7 @@
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "Getting Tire"
+        "title": "good night evil! be back 2-3 pm gmt"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -395,17 +395,6 @@
         "title": "【HITMAN World of Assassination】THE LONG JOURNEY FOR BLOODY SUIT BEGINS HERE..."
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EHQd5jiH42A",
-        "picture": "https://i.ytimg.com/vi/EHQd5jiH42A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】オリ曲の話とか最近の話！短め雑談【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -448,5 +437,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【GOD OF WAR 2018】boi time【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RsSh3UegcO8",
+        "picture": "https://i.ytimg.com/vi/RsSh3UegcO8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736656200,
+        "title": "【ネタバレあり】FINAL FANTASY Ⅵ～もー！どこいっちゃったの～！？～【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aPza1IpnD6k",
+        "picture": "https://i.ytimg.com/vi/aPza1IpnD6k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736658000,
+        "title": "【 マリパ 】#ホロ新春ゲーム祭 の練習するぞー！！２【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
