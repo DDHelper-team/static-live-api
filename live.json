@@ -332,13 +332,13 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=a4EWdpBIb6s",
-        "picture": "https://i.ytimg.com/vi/a4EWdpBIb6s/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FZPTOMNqC6s",
+        "picture": "https://i.ytimg.com/vi/FZPTOMNqC6s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "塔羅占卜#85｜2025想占什麼都來試試吧🔮✨🦊【Healing希靈/VTuber】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1736769600,
+        "title": "塔羅占卜特別篇｜貓貓魔女來幫狐狐占卜２０２５年運勢，結果究竟？FT. 千夜貓 @chiyaneko0730 🔮✨🦊【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
@@ -407,17 +407,6 @@
         "title": "「ヴィジュアル系」のお歌に挑戦してみるのら～🎤🎶KARAOKE【姫森ルーナ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0BJX_fjH05Q",
-        "picture": "https://i.ytimg.com/vi/0BJX_fjH05Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】早押し以外は全て捨てた男【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
         "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
         "islive": false,
@@ -451,14 +440,14 @@
         "title": "【Cursed Digicam | 呪われたデジカメ】SO UHH SHUTTER ISSUES??【Kureiji Ollie】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "stream will come back online around 3pm GMT | !lavalamp !bwaa"
+        "title": "good morning evil what\u0026#39;s up"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
