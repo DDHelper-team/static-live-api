@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y6oaEkshtfk",
         "picture": "https://i.ytimg.com/vi/y6oaEkshtfk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737237600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ECHO POINT NOVA】 Pew Pew Time w/ @holoen_gigimurin"
     },
     {
