@@ -57,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vBokIfnpSrE",
         "picture": "https://i.ytimg.com/vi/vBokIfnpSrE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737212400,
-        "title": "【PoE】初見【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【PoE】巷で大流行してるゲーム初見プレイ！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】Path of Exile 2"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -218,17 +218,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737237600,
         "title": "【ECHO POINT NOVA】 Pew Pew Time w/ @holoen_gigimurin"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0RG5AxPcRCQ",
-        "picture": "https://i.ytimg.com/vi/0RG5AxPcRCQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【呪われたデジカメ】はいチーズ……………📸【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
