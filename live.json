@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pB7VpWsjnPw",
         "picture": "https://i.ytimg.com/vi/pB7VpWsjnPw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737238500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KEEP ME COMPANY】maybe i\u0026#39;ll do some retail therapy【Dokibird】"
     }
 ]
