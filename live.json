@@ -57,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=G3ViWgIOcEo",
-        "picture": "https://i.ytimg.com/vi/G3ViWgIOcEo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vBokIfnpSrE",
+        "picture": "https://i.ytimg.com/vi/vBokIfnpSrE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【特定やめてね】兎田ぺこらの自宅をルームツアー🎶【ホロライブ/兎田ぺこら】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737212400,
+        "title": "【PoE】初見【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
