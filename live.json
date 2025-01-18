@@ -74,7 +74,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第83～88話【鷹嶺ルイ/ホロライブ】"
+        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第83～86話【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -295,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737259200,
         "title": "【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!!オーブ集める!!ロトシリーズ完走するぞー!!! part5 ※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ChCNTVq739I",
+        "picture": "https://i.ytimg.com/vi/ChCNTVq739I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737248400,
+        "title": "【Big Brain Academy】🧠 aaauuuuueeeeeeooo"
     }
 ]
