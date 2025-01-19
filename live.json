@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=21nhCxfYXiU",
-        "picture": "https://i.ytimg.com/vi/21nhCxfYXiU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【League of Legends】ヴィエゴになれ / アステル"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": true,
@@ -86,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737259200,
         "title": "【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!!オーブ集める!!ロトシリーズ完走するぞー!!! part5 ※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ChCNTVq739I",
-        "picture": "https://i.ytimg.com/vi/ChCNTVq739I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Big Brain Academy】🧠 aaauuuuueeeeeeooo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -185,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737262800,
         "title": "【DARK SOULS III】ついに呪術を手に入れたので大沼さんに自慢しに行く【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-Y8ksluDMvY",
+        "picture": "https://i.ytimg.com/vi/-Y8ksluDMvY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737277200,
+        "title": "【３】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     }
 ]
