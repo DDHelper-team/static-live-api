@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=W4RAQX-ho6o",
-        "picture": "https://i.ytimg.com/vi/W4RAQX-ho6o/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4-SCPz2KRY0",
+        "picture": "https://i.ytimg.com/vi/4-SCPz2KRY0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MISIDE】just want to be close friends with crazy cute girls 🐾 【FUWAMOCO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737331200,
+        "title": "【SUPERCHAT READING】chatting the night away 🐾✨  【FUWAMOCO】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -152,5 +152,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737291600,
         "title": "【 Fast Food Simulator 】ホロナルド開店‼ついにフル出勤６人で営業していくにぇ～～～‼🍟【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YX1583qszH4",
+        "picture": "https://i.ytimg.com/vi/YX1583qszH4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737273600,
+        "title": "【呪われたデジカメ 】モデル経験あります。360°自信あります！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
