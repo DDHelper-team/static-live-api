@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z9xgz87q-fQ",
         "picture": "https://i.ytimg.com/vi/Z9xgz87q-fQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737255600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 LEVEL DEVIL 】とんでもない鬼畜ゲーをプレイしてみるｗｗｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737302400,
         "title": "【Path Of Exile 2】i forgot EVERYTHING (new thumbnail later) #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jTp2kJw68hk",
+        "picture": "https://i.ytimg.com/vi/jTp2kJw68hk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737259200,
+        "title": "【ネタバレあり】FINAL FANTASY Ⅵ～新しい仲間だと！？～【ホロライブ/ときのそら】"
     }
 ]
