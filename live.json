@@ -88,17 +88,6 @@
         "title": "【HuniePop 2】IT\u0026#39;S HUNIEPOP\u0026#39;S 10TH ANNIVERSARY SO WE STREAMING【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PMqvXs4rGfM",
-        "picture": "https://i.ytimg.com/vi/PMqvXs4rGfM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【-`🎮 fast food simulator 】超有能店長とファーストフードのお店を経営する🍔🍟【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "islive": true,
@@ -141,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737325800,
         "title": "【 #朝ミオ 】月曜日だよ～～～！！！！おはみぉーん☀"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ULWmBb9Hq1w",
-        "picture": "https://i.ytimg.com/vi/ULWmBb9Hq1w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【呪われたデジカメ】霊を写すことができるカメラ…!?📷️【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
@@ -229,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737298800,
         "title": "【PoE】一歩踏み出す 二度と戻れぬ 三千世界の 血の海へ【ホロライブ/兎田ぺこら】Path of Exile 2"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oBfAzr_FYXQ",
+        "picture": "https://i.ytimg.com/vi/oBfAzr_FYXQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737331200,
+        "title": "【SUPER CHATting】The Cooler Biboo:"
     }
 ]
