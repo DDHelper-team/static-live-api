@@ -156,23 +156,34 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YX1583qszH4",
         "picture": "https://i.ytimg.com/vi/YX1583qszH4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737273600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【呪われたデジカメ 】モデル経験あります。360°自信あります！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tKT4BnES9uc",
         "picture": "https://i.ytimg.com/vi/tKT4BnES9uc/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【PoE】起床→巷で大流行してるゲーム初見プレイ！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】Path of Exile 2"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=A039JpMME9o",
+        "picture": "https://i.ytimg.com/vi/A039JpMME9o/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1737273600,
-        "title": "【PoE】21時まで巷で大流行してるゲーム初見プレイ！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】Path of Exile 2"
+        "timestamp": 1737280800,
+        "title": "【同時試聴】みんなと一緒に聴く！1st.ALBUM『FBKINGDOM “Blessing”』試聴\u0026amp;感想会【ホロライブ/白上フブキ】"
     }
 ]
