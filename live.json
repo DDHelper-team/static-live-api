@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=todbFvtW8-M",
         "picture": "https://i.ytimg.com/vi/todbFvtW8-M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737262800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARK SOULS III】ついに呪術を手に入れたので大沼さんに自慢しに行く【アルランディス/ホロスターズ】"
     },
     {
