@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bsnG68UZfuU",
         "picture": "https://i.ytimg.com/vi/bsnG68UZfuU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737248400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】おはまっするさんでー💪🌞💪ホロメンといっぱい会ったよ～！【白銀ノエル/ホロライブ】"
     },
     {
@@ -55,26 +55,15 @@
         "title": "【龍が如く0 誓いの場所】#04｜第五章「白への道」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y6oaEkshtfk",
-        "picture": "https://i.ytimg.com/vi/y6oaEkshtfk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ECHO POINT NOVA】 Pew Pew Time w/ @holoen_gigimurin"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rf6FhN71LkM",
         "picture": "https://i.ytimg.com/vi/rf6FhN71LkM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737244800,
-        "title": "【BLOODBORNE】WHAT A THRILL!"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【BLOODBORNE】QUITE THRILLING!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -112,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
         "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ChCNTVq739I",
         "picture": "https://i.ytimg.com/vi/ChCNTVq739I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737248400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Big Brain Academy】🧠 aaauuuuueeeeeeooo"
     },
     {
@@ -134,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=W4RAQX-ho6o",
         "picture": "https://i.ytimg.com/vi/W4RAQX-ho6o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737244800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MISIDE】just want to be close friends with crazy cute girls 🐾 【FUWAMOCO】"
     },
     {
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5UPnLvRJH6g",
         "picture": "https://i.ytimg.com/vi/5UPnLvRJH6g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737248400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Spooky Saturday is BACK! | Cursed Digicam"
     },
     {
@@ -196,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737255600,
         "title": "【 LEVEL DEVIL 】とんでもない鬼畜ゲーをプレイしてみるｗｗｗ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B5NV3Lo1FPI",
+        "picture": "https://i.ytimg.com/vi/B5NV3Lo1FPI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737302400,
+        "title": "【Path Of Exile 2】i forgot EVERYTHING (new thumbnail later) #kfp #キアライブ"
     }
 ]
