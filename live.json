@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iLrdKKWflyU",
         "picture": "https://i.ytimg.com/vi/iLrdKKWflyU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737297000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワールド】ゼノジーヴァ！ おおはらMENチーム #ドズル社狩猟祭 Part3【ホロライブ/アキ・ローゼンタール】"
     },
     {
