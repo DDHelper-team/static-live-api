@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EcdPjp0Hy5I",
         "picture": "https://i.ytimg.com/vi/EcdPjp0Hy5I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737325800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】月曜日だよ～～～！！！！おはみぉーん☀"
     },
     {
@@ -207,5 +207,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【朝活】幻のあさかつ第二弾Vol.2 新エディション【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=TYqpQW8b7g4",
+        "picture": "https://i.ytimg.com/vi/TYqpQW8b7g4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 朝Chill Songs 】作業用BGM / アステル"
     }
 ]
