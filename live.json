@@ -46,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MvsdlSYLKRU",
-        "picture": "https://i.ytimg.com/vi/MvsdlSYLKRU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TAXkBNlEpac",
+        "picture": "https://i.ytimg.com/vi/TAXkBNlEpac/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!!オーブ集める!!ロトシリーズ完走するぞー!!! part5 ※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737295200,
+        "title": "【雑談】色んなホロメンさんと…！なお話～する！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -110,17 +110,6 @@
         "title": "【Path Of Exile 2】i forgot EVERYTHING (new thumbnail later) #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jTp2kJw68hk",
-        "picture": "https://i.ytimg.com/vi/jTp2kJw68hk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ネタバレあり】FINAL FANTASY Ⅵ～新しい仲間だと！？～【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
@@ -134,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-Y8ksluDMvY",
         "picture": "https://i.ytimg.com/vi/-Y8ksluDMvY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737277200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【３】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
@@ -207,5 +196,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737295200,
         "title": "【HuniePop 2】IT\u0026#39;S HUNIEPOP\u0026#39;S 10TH ANNIVERSARY SO WE STREAMING【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=z5y7jpForAs",
+        "picture": "https://i.ytimg.com/vi/z5y7jpForAs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#poe2 】國際版昨天更新!! 但電法好像...被放過了?! 【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=PMqvXs4rGfM",
+        "picture": "https://i.ytimg.com/vi/PMqvXs4rGfM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737289800,
+        "title": "【-`🎮 fast food simulator 】超有能店長とファーストフードのお店を経営する🍔🍟【獅子神レオナ/Re:AcT】"
     }
 ]
