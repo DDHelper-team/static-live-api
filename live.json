@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hs87ZR5KgXs",
         "picture": "https://i.ytimg.com/vi/hs87ZR5KgXs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737291600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【完全初見】コードギアス 反逆のルルーシュ！アニメ同時試聴するぞ～～～！🌟【ホロライブ/赤井はあと】"
     },
     {
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VFhMUOVCfsQ",
         "picture": "https://i.ytimg.com/vi/VFhMUOVCfsQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737291600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ユニコーンオーバーロード】初見実況プレイ⚔️気になってたんです※ネタバレあり #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n17aO7SUXl8",
         "picture": "https://i.ytimg.com/vi/n17aO7SUXl8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737291600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#2【レイトン教授と悪魔の箱】IQ8739の僕がすべての謎を解決します!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -196,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737325800,
         "title": "【 #朝ミオ 】月曜日だよ～～～！！！！おはみぉーん☀"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ULWmBb9Hq1w",
+        "picture": "https://i.ytimg.com/vi/ULWmBb9Hq1w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737293400,
+        "title": "【呪われたデジカメ】霊を写すことができるカメラ…!?📷️【緋月ゆい/ネオポルテ】"
     }
 ]
