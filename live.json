@@ -44,17 +44,6 @@
         "title": "【週表】01/13~01/19💜"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7UIschW1mh4",
-        "picture": "https://i.ytimg.com/vi/7UIschW1mh4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【激ムズ！】鬼畜だけど “クセになる” 音ゲー！？-Geometry Dash-【ホロライブ/赤井はあと】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": true,
@@ -68,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hr2_GNzRvs0",
         "picture": "https://i.ytimg.com/vi/hr2_GNzRvs0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737370800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ドズル社狩猟祭】顔合わせ　3日目【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -123,23 +112,23 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MwqIpmTjUWk",
         "picture": "https://i.ytimg.com/vi/MwqIpmTjUWk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737370800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "塔羅占卜 #86｜歡迎來占卜自身能量來檢測看看吧🔮✨🦊【Healing希靈/VTuber】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GRAhZprQjSo",
         "picture": "https://i.ytimg.com/vi/GRAhZprQjSo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737370800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドンキーコングリターンズHD 】鬼畜裏ステージクリア耐久🔥🔥【 猫又おかゆ/ホロライブ】"
     },
     {
@@ -211,13 +200,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IvxIGQtd1hA",
         "picture": "https://i.ytimg.com/vi/IvxIGQtd1hA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737370800,
-        "title": "【ホロライブ共通テスト】ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ホロライブ共通テスト】ホロライブ愛No.1との呼び声が高いぺこーらが挑戦！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737378000,
         "title": "【メン限】病み上がりなのでバックイン・アクションをみんなとのんびり見る👀【ホロライブ/ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UpRArMBDrTc",
+        "picture": "https://i.ytimg.com/vi/UpRArMBDrTc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737457200,
+        "title": "【＃ホロペア】ホロペア以心伝心調査　検証：天音かなた＆戌神ころね【ホロライブ/白上フブキ】"
     }
 ]
