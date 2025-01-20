@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6G9iC-i91CI",
         "picture": "https://i.ytimg.com/vi/6G9iC-i91CI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737385200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】去年の８月から走り出したツアーが終わった...！！【角巻わため/ホロライブ４期生】"
     },
     {
