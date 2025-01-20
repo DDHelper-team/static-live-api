@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eQRQ_JVSa7g",
         "picture": "https://i.ytimg.com/vi/eQRQ_JVSa7g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737383400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワールド】武器と防具と揃えなきゃ！ おおはらMENチーム腕相撲 #ドズル社狩猟祭 Part4【ホロライブ/アキ・ローゼンタール】"
     },
     {
@@ -185,28 +185,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "『日本行雜談 』一邊修照片一邊聊聊到底都去日本做了什麼【久田はくぜん】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=S6lQiQDOOGc",
-        "picture": "https://i.ytimg.com/vi/S6lQiQDOOGc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 たんぼ 】愛犬と夜のたんぼ道を散歩する。【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vW-06vyWHvM",
-        "picture": "https://i.ytimg.com/vi/vW-06vyWHvM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ばんちょこ】ReGLOSS身体測定！ばんちょー診察いたします！【ホロライブ/癒月ちょこ/轟はじめ】"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
