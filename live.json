@@ -145,11 +145,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=W3Mw0gL9dIE",
         "picture": "https://i.ytimg.com/vi/W3Mw0gL9dIE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Fast Food Simulator】Legend Is Made Here With @GawrGura"
     },
