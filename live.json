@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EsfZ7Ny4aPA",
-        "picture": "https://i.ytimg.com/vi/EsfZ7Ny4aPA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wxWGLYKq18E",
+        "picture": "https://i.ytimg.com/vi/wxWGLYKq18E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Gang Beasts】ギャンビだ！！掴め、投げろ、勝ち残れ！！【 桃鈴ねね・雪花ラミィ・響咲リオナ・輪堂千速 /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737464400,
+        "title": "【 同時視聴｜映像あり】外れスキル《木の実マスター》一緒に見よう！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -220,17 +220,6 @@
         "title": "【歌枠】テンション上がる神曲歌枠！/Singing KARAOKE【ホロライブ/夏色まつり】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=tiZlm1kc3q0",
-        "picture": "https://i.ytimg.com/vi/tiZlm1kc3q0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737378000,
-        "title": "【メン限】病み上がりなのでバックイン・アクションをみんなとのんびり見る👀【ホロライブ/ロボ子さん】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": false,
@@ -244,24 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yICZFMWIllU",
         "picture": "https://i.ytimg.com/vi/yICZFMWIllU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737378000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チャンスは3回】初代マリオ、ノーコンテニューでクリアしてやるぜ！！！【戌神ころね/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=8h86ffAhGQY",
-        "picture": "https://i.ytimg.com/vi/8h86ffAhGQY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737378000,
-        "title": "【 メン限 】なにしよっかな～【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/@Hakuzen0025",
@@ -284,5 +262,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 たんぼ 】愛犬と夜のたんぼ道を散歩する。【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=vW-06vyWHvM",
+        "picture": "https://i.ytimg.com/vi/vW-06vyWHvM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ばんちょこ】ReGLOSS身体測定！ばんちょー診察いたします！【ホロライブ/癒月ちょこ/轟はじめ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p9ClZiedmW0",
+        "picture": "https://i.ytimg.com/vi/p9ClZiedmW0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737379800,
+        "title": "【スパチャ読み】100万人達成のときのスパチャを読み読みします！その②【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
