@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IrXQ6fABd54",
         "picture": "https://i.ytimg.com/vi/IrXQ6fABd54/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737340200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Marvel Rivals】time to grind for LORD CnD!! ✋【Kaela Kovalskia / hololiveID】"
     },
     {
