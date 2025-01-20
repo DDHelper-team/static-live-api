@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kDf2Mxdissg",
         "picture": "https://i.ytimg.com/vi/kDf2Mxdissg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737342000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Euro Truck Simulator 2】トワは運転手になるんや。大型運転手や～！！！【常闇トワ/ホロライブ】"
     }
 ]
