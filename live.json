@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kDf2Mxdissg",
-        "picture": "https://i.ytimg.com/vi/kDf2Mxdissg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LqwOfdecjDc",
+        "picture": "https://i.ytimg.com/vi/LqwOfdecjDc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Euro Truck Simulator 2】トワは運転手になるんや。大型運転手や～！！！【常闇トワ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737363600,
+        "title": "【 呪われたデジカメ 】呪われるな【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737370800,
         "title": "塔羅占卜 #86｜歡迎來占卜自身能量來檢測看看吧🔮✨🦊【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GRAhZprQjSo",
+        "picture": "https://i.ytimg.com/vi/GRAhZprQjSo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737370800,
+        "title": "【 ドンキーコングリターンズHD 】鬼畜裏ステージクリア耐久🔥🔥【 猫又おかゆ/ホロライブ】"
     }
 ]
