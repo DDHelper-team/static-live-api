@@ -77,17 +77,6 @@
         "title": "【#ドズル社狩猟祭】顔合わせ　3日目【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IrXQ6fABd54",
-        "picture": "https://i.ytimg.com/vi/IrXQ6fABd54/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals】time to grind for LORD CnD!! ✋【Kaela Kovalskia / hololiveID】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -251,5 +240,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Marvel Rivals】ホロスターズフルパ！！ / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WEp4Ig5bwCA",
+        "picture": "https://i.ytimg.com/vi/WEp4Ig5bwCA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737374400,
+        "title": "【歌枠】テンション上がる神曲歌枠！/Singing KARAOKE【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tiZlm1kc3q0",
+        "picture": "https://i.ytimg.com/vi/tiZlm1kc3q0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737378000,
+        "title": "【メン限】病み上がりなのでバックイン・アクションをみんなとのんびり見る👀【ホロライブ/ロボ子さん】"
     }
 ]
