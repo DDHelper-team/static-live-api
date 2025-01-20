@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=E4n9ZVYYtFI",
-        "picture": "https://i.ytimg.com/vi/E4n9ZVYYtFI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IrXQ6fABd54",
+        "picture": "https://i.ytimg.com/vi/IrXQ6fABd54/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PEJUANG SENIN】#92 OH HAU R U TUDEI【Kaela\u0026#39;s Monday Warrior】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737340200,
+        "title": "【Marvel Rivals】time to grind for LORD CnD!! ✋【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -178,12 +178,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Z9Kgq5DMb6s",
         "picture": "https://i.ytimg.com/vi/Z9Kgq5DMb6s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737338400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARKSOULS3】ノーデスクリアに向けて最適なルートを研究する　Part5【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kDf2Mxdissg",
+        "picture": "https://i.ytimg.com/vi/kDf2Mxdissg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737342000,
+        "title": "【Euro Truck Simulator 2】トワは運転手になるんや。大型運転手や～！！！【常闇トワ/ホロライブ】"
     }
 ]
