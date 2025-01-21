@@ -134,23 +134,23 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lEKyYsdPTe8",
         "picture": "https://i.ytimg.com/vi/lEKyYsdPTe8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737443700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Lively Chair Simulator】CHAOS.... everywhere【KOPR】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8SHHaMcubek",
         "picture": "https://i.ytimg.com/vi/8SHHaMcubek/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737443700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Lively Chair Simulator】menjadi kursi bersama KOPR【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -185,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737453600,
         "title": "【 呪われたデジカメ 】なんだコイツ!?!?!?!?!?!?!?!?!【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GT4Mr712hQk",
+        "picture": "https://i.ytimg.com/vi/GT4Mr712hQk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737464400,
+        "title": "【呪われたデジカメ】ホラゲー初め【ホロライブ / AZKi】"
     }
 ]
