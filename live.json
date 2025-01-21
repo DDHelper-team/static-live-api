@@ -46,23 +46,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UpRArMBDrTc",
-        "picture": "https://i.ytimg.com/vi/UpRArMBDrTc/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AH7_W07WnLc",
+        "picture": "https://i.ytimg.com/vi/AH7_W07WnLc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロペア】ホロペア以心伝心調査　検証：天音かなた＆戌神ころね【ホロライブ/白上フブキ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737464400,
+        "title": "【Fast Food Simulator】俺達が経営する最強のHAMBURGERショップ🍔その５【#ホロナルド】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oBpJ774BR2Q",
         "picture": "https://i.ytimg.com/vi/oBpJ774BR2Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737460800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 置忌配 】あなたの置き配、大丈夫ですか？【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tlQxZzAa7uA",
         "picture": "https://i.ytimg.com/vi/tlQxZzAa7uA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737460800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #かっこいい願望 】占って！ビッグゴッドミオーン先生！！【火威青/大神ミオ/風真いろは 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -189,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Di74vDweHRQ",
         "picture": "https://i.ytimg.com/vi/Di74vDweHRQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737460800,
-        "title": "【配信予定地】ゲーム実況【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ドンキーコング リターンズ HD】ドンキーは配信では初のゲームです。【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kuwNsn7-XhI",
         "picture": "https://i.ytimg.com/vi/kuwNsn7-XhI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737460832,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】ゆるく探索しながら、ニウともしもし②📞【緋月ゆい/ネオポルテ】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#shorts 】ゲリラ歌枠♪"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WSkH-lYbPdM",
+        "picture": "https://i.ytimg.com/vi/WSkH-lYbPdM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737462600,
+        "title": "【MiSide】話題の美少女ホラー！？やってみる！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
