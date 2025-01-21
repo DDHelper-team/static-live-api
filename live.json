@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LBS7fj8KpwI",
-        "picture": "https://i.ytimg.com/vi/LBS7fj8KpwI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jhJVGayDhmk",
+        "picture": "https://i.ytimg.com/vi/jhJVGayDhmk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く5 夢、叶えし者】初見で挑む『龍が如く5 夢、叶えし者』　13日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737457200,
+        "title": "【#Vtuberバトルロワイアル5】今回こそは生き残る男【夕刻ロベル/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -130,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737471600,
         "title": "ASMR雜談｜寒冷的夜晚睡前有你有我❤️｜Earwaxing whispering｜耳かき、囁き【KU100／黑3DIO】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lEKyYsdPTe8",
-        "picture": "https://i.ytimg.com/vi/lEKyYsdPTe8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Lively Chair Simulator】CHAOS.... everywhere【KOPR】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
