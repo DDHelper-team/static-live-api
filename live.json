@@ -156,12 +156,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yYvdliPE_Qk",
         "picture": "https://i.ytimg.com/vi/yYvdliPE_Qk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737429300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DARKSOULS3】カーサスの地下墓~ ノーデスクリアに向けて最適なルートを研究する　Part6【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dI5UGWBcz2Y",
+        "picture": "https://i.ytimg.com/vi/dI5UGWBcz2Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737432000,
+        "title": "Ouro Kronii: $KRONII CONFIRMED?! PRICE PREDICTION"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wNVpbfrEm-8",
+        "picture": "https://i.ytimg.com/vi/wNVpbfrEm-8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737471600,
+        "title": "ASMR雜談｜寒冷的夜晚睡前有你有我❤️｜Earwaxing whispering｜耳かき、囁き【KU100／黑3DIO】"
     }
 ]
