@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EwSbpwSrMH4",
-        "picture": "https://i.ytimg.com/vi/EwSbpwSrMH4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3JBmOdbzIt4",
+        "picture": "https://i.ytimg.com/vi/3JBmOdbzIt4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Tuning In the Next Episode of Hoarders【Crime Scene Cleaner】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737424800,
+        "title": "What to Do After Hololive【Fast Food Simulator】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -141,5 +141,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737453600,
         "title": "【 聖剣伝説FF外伝｜GB版 】レトロゲーム『聖剣伝説ファイナルファンタジー外伝』遊んでいくのら！！！ ＃２【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tlQxZzAa7uA",
+        "picture": "https://i.ytimg.com/vi/tlQxZzAa7uA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737460800,
+        "title": "【 #かっこいい願望 】占って！ビッグゴッドミオーン先生！！【火威青/大神ミオ/風真いろは 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yYvdliPE_Qk",
+        "picture": "https://i.ytimg.com/vi/yYvdliPE_Qk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737428400,
+        "title": "【DARKSOULS3】カーサスの地下墓~ ノーデスクリアに向けて最適なルートを研究する　Part6【岸堂天真/ホロスターズ】"
     }
 ]
