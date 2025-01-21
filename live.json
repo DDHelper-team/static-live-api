@@ -24,24 +24,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LBS7fj8KpwI",
         "picture": "https://i.ytimg.com/vi/LBS7fj8KpwI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737432000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く5 夢、叶えし者】初見で挑む『龍が如く5 夢、叶えし者』　13日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3JBmOdbzIt4",
-        "picture": "https://i.ytimg.com/vi/3JBmOdbzIt4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8ZfiBup1h3k",
+        "picture": "https://i.ytimg.com/vi/8ZfiBup1h3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "What to Do After Hololive【Fast Food Simulator】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737507600,
+        "title": "The Stealthiest Hitman is In Front of You【Hitman: World of Assassinations】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -88,17 +88,6 @@
         "title": "【FAST FOOD SIMULATOR COLLAB】I dare you to ask about our ice cream machine. #holoAdvent"
     },
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9Nen1nwp56E",
-        "picture": "https://i.ytimg.com/vi/9Nen1nwp56E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【FAST FOOD SIMULATOR COLLAB】return to the society of fries and burgers 🐾 #holoAdvent【FUWAMOCO】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": false,
@@ -119,17 +108,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737471600,
         "title": "【KU100/ASMR】熱々吐息＆奥まで届くゾクゾク耳かきで一緒に汗だくになろ？♡寝落ち推奨睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iSgW-of3s90",
-        "picture": "https://i.ytimg.com/vi/iSgW-of3s90/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "ADVENT\u0026#39;S WORKING TOGETHER~ | Fast Food Simulator"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -167,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dI5UGWBcz2Y",
         "picture": "https://i.ytimg.com/vi/dI5UGWBcz2Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737432000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Ouro Kronii: $KRONII CONFIRMED?! PRICE PREDICTION"
     },
     {
@@ -185,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737471600,
         "title": "ASMR雜談｜寒冷的夜晚睡前有你有我❤️｜Earwaxing whispering｜耳かき、囁き【KU100／黑3DIO】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lEKyYsdPTe8",
+        "picture": "https://i.ytimg.com/vi/lEKyYsdPTe8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737442800,
+        "title": "【Lively Chair Simulator】CHAOS.... everywhere【KOPR】"
     }
 ]
