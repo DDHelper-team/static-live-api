@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mYlvSp3jY3k",
         "picture": "https://i.ytimg.com/vi/mYlvSp3jY3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737471600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】熱々吐息＆奥まで届くゾクゾク耳かきで一緒に汗だくになろ？♡寝落ち推奨睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wNVpbfrEm-8",
         "picture": "https://i.ytimg.com/vi/wNVpbfrEm-8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737471600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR雜談｜寒冷的夜晚睡前有你有我❤️｜Earwaxing whispering｜耳かき、囁き【KU100／黑3DIO】"
     },
     {
@@ -284,5 +284,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【P.I.】生配信で住所特定されました…。【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=8RltM27lu0M",
+        "picture": "https://i.ytimg.com/vi/8RltM27lu0M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】ねこたつとヘンディーさんとダイヤランク上げ   / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=olYQU0xNYg8",
+        "picture": "https://i.ytimg.com/vi/olYQU0xNYg8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737558000,
+        "title": "【 ASMR 】癖になるエグい音😱Sleep Whispering/KU100【ホロライブ/赤井はあと】"
     }
 ]
