@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jhJVGayDhmk",
         "picture": "https://i.ytimg.com/vi/jhJVGayDhmk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737457200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#Vtuberバトルロワイアル5】今回こそは生き残る男【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UpRArMBDrTc",
         "picture": "https://i.ytimg.com/vi/UpRArMBDrTc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737457200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃ホロペア】ホロペア以心伝心調査　検証：天音かなた＆戌神ころね【ホロライブ/白上フブキ】"
     },
     {
@@ -196,5 +196,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737469800,
         "title": "3rdアルバム「新星目録」発売直前‼カウントダウン✨【 星街すいせい / ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Di74vDweHRQ",
+        "picture": "https://i.ytimg.com/vi/Di74vDweHRQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737460800,
+        "title": "【配信予定地】ゲーム実況【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=kuwNsn7-XhI",
+        "picture": "https://i.ytimg.com/vi/kuwNsn7-XhI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737460832,
+        "title": "【原神】ゆるく探索しながら、ニウともしもし②📞【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0SI55TdMVJI",
+        "picture": "https://i.ytimg.com/vi/0SI55TdMVJI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737511200,
+        "title": "Exposing the Lies of $KRONII Coin"
     }
 ]
