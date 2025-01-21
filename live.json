@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5jbqyfIOwc4",
         "picture": "https://i.ytimg.com/vi/5jbqyfIOwc4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737450000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【重大告知】マシュマロ１００本ノック！！！２個告知あり〼【ホロライブ / 大神ミオ】"
     },
     {
@@ -141,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Lively Chair Simulator】CHAOS.... everywhere【KOPR】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8SHHaMcubek",
-        "picture": "https://i.ytimg.com/vi/8SHHaMcubek/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Lively Chair Simulator】menjadi kursi bersama KOPR【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
