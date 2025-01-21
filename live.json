@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cNbohyNa1Y8",
         "picture": "https://i.ytimg.com/vi/cNbohyNa1Y8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737469800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "3rdアルバム「新星目録」発売直前‼カウントダウン✨【 星街すいせい / ホロライブ 】"
     },
     {
@@ -262,17 +262,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Papers, Please】入国審査官になったよ！！皆おいで～！！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hjbu2nkFwQo",
-        "picture": "https://i.ytimg.com/vi/hjbu2nkFwQo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【The Cabin Factory】怪奇！恐怖異変おったまげハウス！【影山シエン/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
