@@ -189,12 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zpmO5Lr1204",
         "picture": "https://i.ytimg.com/vi/zpmO5Lr1204/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737496800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#3【レイトン教授と悪魔の箱】IQ8739の僕がすべての謎を解決します!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=NeAhnW9JsCw",
+        "picture": "https://i.ytimg.com/vi/NeAhnW9JsCw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#139 1/22水曜日！チャンネル登録よろしくお願いします！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
