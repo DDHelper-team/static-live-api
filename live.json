@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ETbWoiB57og",
         "picture": "https://i.ytimg.com/vi/ETbWoiB57og/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737455400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワールド】転職活動！ おおはらMENチーム腕相撲 #ドズル社狩猟祭 Part5【ホロライブ/アキ・ローゼンタール】"
     },
     {
@@ -165,17 +165,6 @@
         "title": "【呪われたデジカメ】ホラゲー初め【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=9vaxfw1qFcY",
-        "picture": "https://i.ytimg.com/vi/9vaxfw1qFcY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1764428400,
-        "title": "【Free chat】幹部会の談話室【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -185,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737464400,
         "title": "【 Fast Food Simulator 】ホロナルド開店‼フル出勤６人で営業していくにぇ～～～‼🍟【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oPE-onPNUEU",
+        "picture": "https://i.ytimg.com/vi/oPE-onPNUEU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737464400,
+        "title": "【MARVEL RIVALS】YOUR LOCAL HERO READY TO YELL AT YOU【Kureiji Ollie】"
     }
 ]
