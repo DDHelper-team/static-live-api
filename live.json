@@ -266,12 +266,34 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WSkH-lYbPdM",
         "picture": "https://i.ytimg.com/vi/WSkH-lYbPdM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737462600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MiSide】話題の美少女ホラー！？やってみる！！【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AgMPCbMlpY8",
+        "picture": "https://i.ytimg.com/vi/AgMPCbMlpY8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737468000,
+        "title": "【メンバーシップ限定】睡眠導入ざつだん【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XeDO_ScLFCQ",
+        "picture": "https://i.ytimg.com/vi/XeDO_ScLFCQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737464400,
+        "title": "【Papers, Please】入国審査官になったよ！！皆おいで～！！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
