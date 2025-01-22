@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=O8CR5_fF0ps",
         "picture": "https://i.ytimg.com/vi/O8CR5_fF0ps/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737583200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Ender Magnolia】 Let\u0026#39;s Go Again! 【#1】"
     },
     {
@@ -152,5 +152,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737601200,
         "title": "【Fast Food Simulator】We\u0026#39;ll Be Fine【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vPpfTIaxEi8",
+        "picture": "https://i.ytimg.com/vi/vPpfTIaxEi8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737631800,
+        "title": "【 初出勤 】ホロナルドってなんですかぁ？ Fast Food Simulatorやるけどぉ研修から？バイト？えーだる～(笑)🍟"
     }
 ]
