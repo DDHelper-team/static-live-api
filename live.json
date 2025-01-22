@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=09qIUuUvUas",
         "picture": "https://i.ytimg.com/vi/09qIUuUvUas/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737522000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】スト6→15時から立川バレエ教室【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737597600,
         "title": "【HANDCAM】POKEMON TCG: PRISMATIC EVOLUTIONS PACK OPENING"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ufDsXgMI4zk",
+        "picture": "https://i.ytimg.com/vi/ufDsXgMI4zk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737543600,
+        "title": "【Thief Simulator 2】あなたの家の家財を売却させていただきます。怪盗F【ホロライブ/白上フブキ】"
     }
 ]
