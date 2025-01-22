@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=olYQU0xNYg8",
         "picture": "https://i.ytimg.com/vi/olYQU0xNYg8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737558000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ASMR 】癖になるエグい音😱Sleep Whispering/KU100【ホロライブ/赤井はあと】"
     },
     {
@@ -88,17 +88,6 @@
         "title": "【HANDCAM】POKEMON TCG: PRISMATIC EVOLUTIONS PACK OPENING"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Lsivt1Wll8U",
-        "picture": "https://i.ytimg.com/vi/Lsivt1Wll8U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Euro Truck Simulator 2 】道をどけええええ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": true,
@@ -108,28 +97,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 歌枠 】の～ぷらん歌枠はっじまっるよ～～【 猫又おかゆ/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JK417zyxs4g",
-        "picture": "https://i.ytimg.com/vi/JK417zyxs4g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ティアキン 】いざ最終回！ラスボスへ！ ゼルダの伝説ティアーズオブキングダム【ホロライブ/沙花叉クロヱ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AEWupPZJWLc",
-        "picture": "https://i.ytimg.com/vi/AEWupPZJWLc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドンキーコング リターンズ HD】どんなに苦しくてもやり遂げる#3【荒咬オウガ /ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -152,17 +119,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Gym Simulator 24 】MIKOZAP店長は店の為ライバル店を立ち退かせる！！！！！にぇ！！！【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_dThcsZigL8",
-        "picture": "https://i.ytimg.com/vi/_dThcsZigL8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals】solo rank -w-)7"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -196,17 +152,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】ホロ鯖！まだ見てないイタズラ、お手紙全部見る！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4dclpqmihSQ",
-        "picture": "https://i.ytimg.com/vi/4dclpqmihSQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雀魂】#1 | 0から始まる麻雀生活🀄【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -284,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737594000,
         "title": "【Demon\u0026#39;s Souls】easy souls? #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sWdfkxyIkJc",
+        "picture": "https://i.ytimg.com/vi/sWdfkxyIkJc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737594000,
+        "title": "≪Yakuza 4≫ AKIYAMA IS BACK #5【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V3ru8iOpRzs",
+        "picture": "https://i.ytimg.com/vi/V3ru8iOpRzs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737594000,
+        "title": "【Marvel Rivals】CnD spam continues -_-【Kaela Kovalskia / hololiveID】"
     }
 ]
