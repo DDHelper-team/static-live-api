@@ -24,23 +24,23 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8ZfiBup1h3k",
         "picture": "https://i.ytimg.com/vi/8ZfiBup1h3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737507600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "The Stealthiest Hitman is In Front of You【Hitman: World of Assassinations】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xNnTQXPi_kw",
         "picture": "https://i.ytimg.com/vi/xNnTQXPi_kw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737507600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DYNASTY WARRIORS ORIGINS】the 4th secret sworn brother【Dokibird】"
     },
     {
@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Mza9wpoqcbs",
         "picture": "https://i.ytimg.com/vi/Mza9wpoqcbs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737507600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪Yakuza 4≫ I have 2 hours to figure out what the f is going on. #4【SPOILER WARNING】"
     },
     {
@@ -154,37 +154,15 @@
         "title": "【Members Only Watchalong】Medalist Anime Watchalong Episodes 1-3"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jb2_MtMdWhk",
-        "picture": "https://i.ytimg.com/vi/jb2_MtMdWhk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Liars Bar 】its all lies"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RwsVtlRlaTc",
         "picture": "https://i.ytimg.com/vi/RwsVtlRlaTc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737507600,
-        "title": "Chatting and tea time w/ my sister probablyyy | Yappa Yappa"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NeAhnW9JsCw",
-        "picture": "https://i.ytimg.com/vi/NeAhnW9JsCw/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【OHAPOL】#139 1/22水曜日！チャンネル登録よろしくお願いします！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+        "title": "Chatting and tea time w/ my sister probablyyy | Yappa Yappa"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
