@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=i4wQu3AVG4s",
         "picture": "https://i.ytimg.com/vi/i4wQu3AVG4s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737549000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ドズル社狩猟祭】顔合わせ　5日目【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -135,12 +135,12 @@
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=sze_5XnmD9w",
-        "picture": "https://i.ytimg.com/vi/sze_5XnmD9w/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=QaGy1nHjRIQ",
+        "picture": "https://i.ytimg.com/vi/QaGy1nHjRIQ/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#ころリオ】祝★初コラボ！オフコラボで晩酌や～(^^)／▽☆▽＼(^^)【戌神ころね/響咲リオナ】"
+        "title": "【#ころリオ】祝★初コラボ！ぐるぐるするなや～(^^)／▽☆▽＼(^^)【戌神ころね/響咲リオナ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PsHJPagYWBY",
         "picture": "https://i.ytimg.com/vi/PsHJPagYWBY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737549000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#鳴潮 】2.0版本，園長要來面對了!! 【#遊戲個人勢 / Fingla】"
     },
     {
@@ -240,17 +240,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737550800,
         "title": "【 歌枠 】の～ぷらん歌枠はっじまっるよ～～【 猫又おかゆ/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=by8Msfz4O8w",
-        "picture": "https://i.ytimg.com/vi/by8Msfz4O8w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVED KARAOKE】WINDING DOWN FROM WORK WITH SOME GUERILLA KARAOKE!!【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
@@ -339,5 +328,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#ミオちょこ】今年の運勢ミオ様に占っていただきますっ！【ホロライブ/癒月ちょこ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TD8cXhAVy-E",
+        "picture": "https://i.ytimg.com/vi/TD8cXhAVy-E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737550800,
+        "title": "【ネタバレあり】ロマンシングで進めるロマンシング サガ2 リベンジオブザセブン～3～【ホロライブ/ときのそら】"
     }
 ]
