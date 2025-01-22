@@ -332,12 +332,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=j-xMoNsylRI",
         "picture": "https://i.ytimg.com/vi/j-xMoNsylRI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737541800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワールド】笛ピスト道へ！ おおはらMENチーム腕相撲 #ドズル社狩猟祭 Part6【ホロライブ/アキ・ローゼンタール】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ADDLk04SWiM",
+        "picture": "https://i.ytimg.com/vi/ADDLk04SWiM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737547200,
+        "title": "【 Gym Simulator 24 】MIKOZAP店長は店の為ライバル店を立ち退かせる！！！！！にぇ！！！【ホロライブ/さくらみこ】"
     }
 ]
