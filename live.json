@@ -33,17 +33,6 @@
         "title": "【 Fast Food Simulator 】4人でバイトいってきます【律可/奏手イヅル/アステル・レダ/影山シエン/ホロスターズ 】"
     },
     {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=YaLSRY3aO0A",
-        "picture": "https://i.ytimg.com/vi/YaLSRY3aO0A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雜談】過年前先減個肥嗎? 拜託告訴我妳們都怎麼瘦的!!"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": false,
@@ -99,17 +88,6 @@
         "title": "【HANDCAM】POKEMON TCG: PRISMATIC EVOLUTIONS PACK OPENING"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=b_BfvYfYSP0",
-        "picture": "https://i.ytimg.com/vi/b_BfvYfYSP0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Puzzle Together】HOLOID PUZZLE NIGHT!【 iofi / hololiveID 】"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": true,
@@ -119,17 +97,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Euro Truck Simulator 2 】道をどけええええ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PsHJPagYWBY",
-        "picture": "https://i.ytimg.com/vi/PsHJPagYWBY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#鳴潮 】2.0版本，園長要來面對了!! 【#遊戲個人勢 / Fingla】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -306,5 +273,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【📸カメラ有】ポケカ開封✨テラスタルフェスEXを開けていく㋒【#ホロライブ #ロボ子さん 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zRQlZaQaQVM",
+        "picture": "https://i.ytimg.com/vi/zRQlZaQaQVM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737594000,
+        "title": "【Demon\u0026#39;s Souls】easy souls? #calliolive"
     }
 ]
