@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1eB3ivZWxd0",
         "picture": "https://i.ytimg.com/vi/1eB3ivZWxd0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737554400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Fast Food Simulator 】4人でバイトいってきます【律可/奏手イヅル/アステル・レダ/影山シエン/ホロスターズ 】"
     },
     {
@@ -53,39 +53,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737558000,
         "title": "【 ASMR 】癖になるエグい音😱Sleep Whispering/KU100【ホロライブ/赤井はあと】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-uC4avYvjuk",
-        "picture": "https://i.ytimg.com/vi/-uC4avYvjuk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 鬼湧村 】「鬼迎えの儀式」がある廃村へ向かう。【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=ShmpfNOz0xs",
-        "picture": "https://i.ytimg.com/vi/ShmpfNOz0xs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737554400,
-        "title": "【 Fast Food Simulator 】過酷な飲食バイト【 奏手イヅル w/ アステル 影山シエン 律可 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=PnvTK7ecOhI",
-        "picture": "https://i.ytimg.com/vi/PnvTK7ecOhI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737554400,
-        "title": "【TCG Card Shop Simulator】今日は、カドショ店長！！【角巻わため/ホロライブ４期生】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -165,17 +132,6 @@
         "title": "【 Euro Truck Simulator 2 】道をどけええええ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=_LUxzrTv-ZA",
-        "picture": "https://i.ytimg.com/vi/_LUxzrTv-ZA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737554400,
-        "title": "【📸カメラ有】ポケカ開封✨テラスタルフェスEXを開けていく㋒【#ホロライブ #ロボ子さん 】"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
         "islive": true,
@@ -189,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lHx01NNtKfg",
         "picture": "https://i.ytimg.com/vi/lHx01NNtKfg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737554400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 歌枠 】の～ぷらん歌枠はっじまっるよ～～【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -284,5 +240,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】ホロ鯖！まだ見てないイタズラ、お手紙全部見る！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4dclpqmihSQ",
+        "picture": "https://i.ytimg.com/vi/4dclpqmihSQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737556204,
+        "title": "【雀魂】#1 | 0から始まる麻雀生活🀄【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=3xGdgJy5Dwk",
+        "picture": "https://i.ytimg.com/vi/3xGdgJy5Dwk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Fast Food Simulator】アットホームな職場には闇がある。 / アステル 奏手イヅル 影山シエン 律可"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=JyZTiDyossE",
+        "picture": "https://i.ytimg.com/vi/JyZTiDyossE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Fast Food Simulator】ホロスタバイト戦士共【影山シエン/律可/奏手イヅル/アステルレダ】"
     }
 ]
