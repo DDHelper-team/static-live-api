@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fji1fV6NWT0",
         "picture": "https://i.ytimg.com/vi/fji1fV6NWT0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737540000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドンキーコングリターンズHD】スーファミのドンキやったことありﾏｧｯｽﾙ！遊んでみよう～🦍🎶【白銀ノエル/ホロライブ】"
     },
     {
@@ -277,12 +277,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=by8Msfz4O8w",
         "picture": "https://i.ytimg.com/vi/by8Msfz4O8w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737540000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【UNARCHIVED KARAOKE】WINDING DOWN FROM WORK WITH SOME GUERILLA KARAOKE!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JK417zyxs4g",
+        "picture": "https://i.ytimg.com/vi/JK417zyxs4g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737547200,
+        "title": "【 ティアキン 】いざ最終回！ラスボスへ！ ゼルダの伝説ティアーズオブキングダム【ホロライブ/沙花叉クロヱ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JGdBPVRy30k",
+        "picture": "https://i.ytimg.com/vi/JGdBPVRy30k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737547200,
+        "title": "【MEMBER\u0026#39;S ONLY】hanging out tonight! #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=j2LVwdBPuqY",
+        "picture": "https://i.ytimg.com/vi/j2LVwdBPuqY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737543615,
+        "title": "【VALORANT】久しぶりだね、1期生✋️【緋月ゆい/ネオポルテ】"
     }
 ]
