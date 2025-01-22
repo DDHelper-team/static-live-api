@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8ZfiBup1h3k",
-        "picture": "https://i.ytimg.com/vi/8ZfiBup1h3k/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VT7_GyetrIE",
+        "picture": "https://i.ytimg.com/vi/VT7_GyetrIE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "The Stealthiest Hitman is In Front of You【Hitman: World of Assassinations】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737601200,
+        "title": "Firing Up the Grill After Setting the Last Place On Fire【Fast Food Simulator】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -163,5 +163,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【DARKSOULS3】冷たい谷のイルシール~ ノーデスクリアに向けて最適なルートを研究する　Part7【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fji1fV6NWT0",
+        "picture": "https://i.ytimg.com/vi/fji1fV6NWT0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737540000,
+        "title": "【ドンキーコングリターンズHD】スーファミのドンキやったことありﾏｧｯｽﾙ！遊んでみよう～🦍🎶【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=sze_5XnmD9w",
+        "picture": "https://i.ytimg.com/vi/sze_5XnmD9w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737547200,
+        "title": "【#ころリオ】祝★初コラボ！オフコラボで晩酌や～(^^)／▽☆▽＼(^^)【戌神ころね/響咲リオナ】"
     }
 ]
