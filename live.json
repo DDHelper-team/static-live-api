@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cmm15ZFVcKM",
-        "picture": "https://i.ytimg.com/vi/cmm15ZFVcKM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2K5Fj9ZENA8",
+        "picture": "https://i.ytimg.com/vi/2K5Fj9ZENA8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CURSED DIGICAM｜呪われたデジカメ】3 2 1... say \u0026quot;boo!\u0026quot; to the ghosts 🐾 【FUWAMOCO】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737684000,
+        "title": "【LIAR\u0026#39;S BAR with DOGGY PACK 視聴者参加型】you\u0026#39;re the liar aren\u0026#39;t you 🐾 【MEMBERS ONLY】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -97,17 +97,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Demon\u0026#39;s Souls】easy souls? #calliolive"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=V3ru8iOpRzs",
-        "picture": "https://i.ytimg.com/vi/V3ru8iOpRzs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals】CnD spam continues -_-【Kaela Kovalskia / hololiveID】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -185,5 +174,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ルマ島】救急隊同期でCHILL🏝️w/ロベルさん、たそまる【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JO1qwwrRpZU",
+        "picture": "https://i.ytimg.com/vi/JO1qwwrRpZU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737633600,
+        "title": "【 Fast Food Simulator 】ホロナルド開店‼今日はキッザニア回･･･⁉新人４人くるにぇ～～！🍟【ホロライブ/さくらみこ】"
     }
 ]
