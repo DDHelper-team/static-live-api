@@ -211,12 +211,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GC9uFa3OWjs",
         "picture": "https://i.ytimg.com/vi/GC9uFa3OWjs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737667800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINCRAFT HELLO KITTY \u0026amp; FRIENDS DLC】AHHHHHHHH【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=x9UgHXhjjQM",
+        "picture": "https://i.ytimg.com/vi/x9UgHXhjjQM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 朝活 】みんなにおはよう言いつつうちの子たちの様子見る会【 桃鈴ねね / hololive 】"
     }
 ]
