@@ -66,17 +66,6 @@
         "title": "【HANDCAM】POKEMON TCG: PRISMATIC EVOLUTIONS PACK OPENING"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=O8CR5_fF0ps",
-        "picture": "https://i.ytimg.com/vi/O8CR5_fF0ps/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Ender Magnolia】 Let\u0026#39;s Go Again! 【#1】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -101,34 +90,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zRQlZaQaQVM",
         "picture": "https://i.ytimg.com/vi/zRQlZaQaQVM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737594000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Demon\u0026#39;s Souls】easy souls? #calliolive"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sWdfkxyIkJc",
         "picture": "https://i.ytimg.com/vi/sWdfkxyIkJc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737594000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪Yakuza 4≫ AKIYAMA IS BACK #5【SPOILER WARNING】"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=V3ru8iOpRzs",
         "picture": "https://i.ytimg.com/vi/V3ru8iOpRzs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737594000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Marvel Rivals】CnD spam continues -_-【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -174,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737633600,
         "title": "【 はいしにょてい 】サムネまだナルド【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uR7_8tbNG3A",
+        "picture": "https://i.ytimg.com/vi/uR7_8tbNG3A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737626400,
+        "title": "【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！【姫森ルーナ/ホロライブ】"
     }
 ]
