@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-jDyV9vW8WA",
-        "picture": "https://i.ytimg.com/vi/-jDyV9vW8WA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qz0bFD4VCPY",
+        "picture": "https://i.ytimg.com/vi/qz0bFD4VCPY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【出張占い🔮】ロボタールの今年の運勢をビッグゴッドミオーン先生に占ってもらう＞＜【#ホロライブ  #ロボミオタール 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737669600,
+        "title": "【朝活】おはよう☀mgmg～Eat Time❣早起きできたかにゃ？(⩌⩊⩌)【#ホロライブ #ロボ子さん 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qY2AZUh3jyE",
         "picture": "https://i.ytimg.com/vi/qY2AZUh3jyE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737630900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワールド】HR50そして練習！ おおはらMENチーム腕相撲 #ドズル社狩猟祭 Part7【ホロライブ/アキ・ローゼンタール】"
     },
     {
