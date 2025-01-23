@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qz0bFD4VCPY",
         "picture": "https://i.ytimg.com/vi/qz0bFD4VCPY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737669600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活】おはよう☀mgmg～Eat Time❣早起きできたかにゃ？(⩌⩊⩌)【#ホロライブ #ロボ子さん 】"
     },
     {
@@ -229,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 朝活 】みんなにおはよう言いつつうちの子たちの様子見る会【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=xTmo2-Ohf7o",
+        "picture": "https://i.ytimg.com/vi/xTmo2-Ohf7o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#140 1/24金曜日！最近のオフやコラボやぁ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
