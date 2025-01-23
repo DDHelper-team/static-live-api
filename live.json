@@ -165,17 +165,6 @@
         "title": "【100% Orange Juice】game for good friends!! #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=djWEAwxpzAA",
-        "picture": "https://i.ytimg.com/vi/djWEAwxpzAA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【五目並べ レッツゴー】極めろ五目の世界を！！【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": true,
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737676800,
         "title": "【Euro Truck Simulator 2】起きられたら自分のトラック買うために働く🚗【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iPKsL9n6jcs",
+        "picture": "https://i.ytimg.com/vi/iPKsL9n6jcs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737684000,
+        "title": "【Path of Exile 2】oh look! who\u0026#39;s back to the grind.....【Kaela Kovalskia / hololiveID】"
     }
 ]
