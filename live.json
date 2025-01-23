@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fCUYqjA7idA",
         "picture": "https://i.ytimg.com/vi/fCUYqjA7idA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737637200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#AZロケ 振り返り】#あずいろ 小豆島へ行ってきました！【ホロライブ / AZKi / 風真いろは】"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Loq3NZw_4D8",
         "picture": "https://i.ytimg.com/vi/Loq3NZw_4D8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737637200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Farming Simulator 25】農業、はじめます。【ホロライブ/大神ミオ】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LKhQqvbe0OM",
         "picture": "https://i.ytimg.com/vi/LKhQqvbe0OM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737637200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HuniePop 2】*DRINKS SMOOTHIE RIZZFULLY* ISLAND VACATION WOO!!!【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OtLDBE1RoEo",
         "picture": "https://i.ytimg.com/vi/OtLDBE1RoEo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737637200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】しゃべりたすぎる【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=a97GVLbmNqI",
         "picture": "https://i.ytimg.com/vi/a97GVLbmNqI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737637200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ホロライブ共通テスト】2025年版！！ねね、一緒にとこー！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -310,12 +310,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=djWEAwxpzAA",
         "picture": "https://i.ytimg.com/vi/djWEAwxpzAA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737637200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【五目並べ レッツゴー】極めろ五目の世界を！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=XAcPvWES3Gk",
+        "picture": "https://i.ytimg.com/vi/XAcPvWES3Gk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Farming Simulator 25】ミオファームで農業はじめました。【ホロライブ/白上フブキ】"
     }
 ]
