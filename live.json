@@ -35,24 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ludJtmg22kQ",
         "picture": "https://i.ytimg.com/vi/ludJtmg22kQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737662400,
-        "title": "【FAST FOOD SIMULATOR】Look at me. From now on... You. Are. Mine. #kfp #キアライブ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LKhQqvbe0OM",
-        "picture": "https://i.ytimg.com/vi/LKhQqvbe0OM/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【HuniePop 2】*DRINKS SMOOTHIE RIZZFULLY* ISLAND VACATION WOO!!!【Pavolia Reine/hololiveID 2nd gen】"
+        "title": "【FAST FOOD SIMULATOR】Look at me. From now on... You. Are. Mine. #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -196,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737709200,
         "title": "【 #ほしちゃま 】宇宙１かわいいコンビでカラオケ～～～！🌟❤️‍🔥【ホロライブ/赤井はあと/にじさんじ/星川サラ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5BAr1f-BQQA",
+        "picture": "https://i.ytimg.com/vi/5BAr1f-BQQA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737723600,
+        "title": "【 同時視聴/Watchalong 】『ハリーポッターと賢者の石』視聴会。未履修おかゆにハリポタを布教！【 #ホロハリポタ布教部 /ホロライブ】"
     }
 ]
