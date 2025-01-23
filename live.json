@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jQMwxsPjKvU",
         "picture": "https://i.ytimg.com/vi/jQMwxsPjKvU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737604800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ルマ島】昼からチルする【夕刻ロベル/藍沢エマ/緋月ゆい】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VmFGsf38Qtk",
         "picture": "https://i.ytimg.com/vi/VmFGsf38Qtk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737604815,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ルマ島】救急隊同期でCHILL🏝️w/ロベルさん、たそまる【緋月ゆい/ネオポルテ】"
     }
 ]
