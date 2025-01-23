@@ -11,17 +11,6 @@
         "title": "【ルマ島】昼からチルする【夕刻ロベル/藍沢エマ/緋月ゆい】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=nrIFlemU-2s",
-        "picture": "https://i.ytimg.com/vi/nrIFlemU-2s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737619200,
-        "title": "【はじめての】揚げ物「ポテト🍟」料理に大大大挑戦⁉💥【たたかい】"
-    },
-    {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
         "islive": false,
@@ -174,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737637200,
         "title": "【Farming Simulator 25】農業、はじめます。【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=eStbcKwj7AA",
+        "picture": "https://i.ytimg.com/vi/eStbcKwj7AA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【League of Legends】第二回 #増永塾JG講座 / アステル しゃるる³"
     }
 ]
