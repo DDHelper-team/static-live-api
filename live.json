@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cNAqroD776c",
         "picture": "https://i.ytimg.com/vi/cNAqroD776c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737635400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "真·三國無雙 起源｜大漢甲文！吾去脫他衣【Healing希靈/VTuber】"
     },
     {
