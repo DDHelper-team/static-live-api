@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VT7_GyetrIE",
         "picture": "https://i.ytimg.com/vi/VT7_GyetrIE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737601200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Firing Up the Grill After Setting the Last Place On Fire【Fast Food Simulator】"
     },
     {
@@ -99,17 +99,6 @@
         "title": "【Demon\u0026#39;s Souls】easy souls? #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=sWdfkxyIkJc",
-        "picture": "https://i.ytimg.com/vi/sWdfkxyIkJc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Yakuza 4≫ AKIYAMA IS BACK #5【SPOILER WARNING】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -123,23 +112,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pqwYk4_Dk3k",
         "picture": "https://i.ytimg.com/vi/pqwYk4_Dk3k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737601200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fast Food Simulator】THE FOOD IS FAST AF【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ckCajTLd9J8",
         "picture": "https://i.ytimg.com/vi/ckCajTLd9J8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737601200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fast Food Simulator】We\u0026#39;ll Be Fine【 iofi / hololiveID 】"
     },
     {
@@ -174,5 +163,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737626400,
         "title": "【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HUgl1SYoM28",
+        "picture": "https://i.ytimg.com/vi/HUgl1SYoM28/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737633600,
+        "title": "【Fast Food Simulator】弱小バーガー店ついに開店！！！！【#かなころ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VmFGsf38Qtk",
+        "picture": "https://i.ytimg.com/vi/VmFGsf38Qtk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737604815,
+        "title": "【ルマ島】救急隊同期でCHILL🏝️w/ロベルさん、たそまる【緋月ゆい/ネオポルテ】"
     }
 ]
