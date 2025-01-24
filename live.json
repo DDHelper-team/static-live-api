@@ -2,13 +2,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=kFhE6_napNo",
-        "picture": "https://i.ytimg.com/vi/kFhE6_napNo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cwSK9WyIh1U",
+        "picture": "https://i.ytimg.com/vi/cwSK9WyIh1U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【みんなのリズム天国】久々リズ天！メダル取りに行くぞ～！！【 雪花ラミィ /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737777600,
+        "title": "【龍が如く0 誓いの場所】#05｜第八章「争奪戦」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -35,23 +35,23 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3g0jqh09548",
         "picture": "https://i.ytimg.com/vi/3g0jqh09548/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #1【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1vXfftNWf0s",
         "picture": "https://i.ytimg.com/vi/1vXfftNWf0s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃塩シャチ 対談】最後の塩シャチ！二人で語ろう！！【ホロライブ/紫咲シオン】"
     },
     {
@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8ZPV_d0icPk",
         "picture": "https://i.ytimg.com/vi/8ZPV_d0icPk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【弾き語り歌枠】いったん歌ってみる【律可/ホロスターズ 】#りつすた"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=U0dKK2_YlbA",
         "picture": "https://i.ytimg.com/vi/U0dKK2_YlbA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Inside the Backrooms】今日こそ下水からふーたんと脱出する！！！！！！！！！ LOCKING IN TO CLEAR SEWERAGE 【hololive ID | Anya】"
     },
     {
@@ -209,17 +209,6 @@
         "title": "【 👻呪われたデジカメ】ノリでカメラ回したらえ、え、えええええええええ；；；【#ホロライブ #ロボ子さん 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ulrj112kRO0",
-        "picture": "https://i.ytimg.com/vi/Ulrj112kRO0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【失踪した友人の部屋に残されていたゲーム】不気味すぎると噂のゲームプレイしてみる…。【ホロライブ/癒月ちょこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-dDMstfFwzc",
         "picture": "https://i.ytimg.com/vi/-dDMstfFwzc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#04【inside the backrooms】リベンジ下水道【不知火フレア/Anya/ホロライブ】"
     },
     {
@@ -262,17 +251,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737799200,
         "title": "【CHAINED TOGETHER】we\u0026#39;re never apart anyways so let\u0026#39;s climb to the top together 🐾【FUWAMOCO】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=QWIPisprSZo",
-        "picture": "https://i.ytimg.com/vi/QWIPisprSZo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
-        "title": "【メン限】『ハリー・ポッターと炎のゴブレット』同時視聴会 member ship only【百鬼あやめ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -293,29 +271,29 @@
         "picture": "https://i.ytimg.com/vi/K9IccjZT6uE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "timestamp": 1737720900,
         "title": "【 超土下座 】超土下座する超謎ゲーを調査するぜ！！！！！！！！！【#みこちの謎ゲー発掘調査隊】"
     },
     {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Qnz0J95sst0",
         "picture": "https://i.ytimg.com/vi/Qnz0J95sst0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】のんびり歌枠！- ハニカムステーション！-165【HACHI 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2CPj5xuTpxs",
         "picture": "https://i.ytimg.com/vi/2CPj5xuTpxs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【呪われたデジカメ】見～～～～～～つけた( ◠‿◠ )  #ホロスターズホラゲリレー   / アステル"
     }
 ]
