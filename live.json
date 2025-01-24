@@ -253,17 +253,6 @@
         "title": "【 👻呪われたデジカメ】ノリでカメラ回したらえ、え、えええええええええ；；；【#ホロライブ #ロボ子さん 】"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WIXIK9r2vkA",
-        "picture": "https://i.ytimg.com/vi/WIXIK9r2vkA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】特技はスライディング土下座＆生誕ライブ続報あります～！【儒烏風亭らでん #ReGLOSS 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "islive": true,
@@ -328,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737799200,
         "title": "【CHAINED TOGETHER】we\u0026#39;re never apart anyways so let\u0026#39;s climb to the top together 🐾【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QWIPisprSZo",
+        "picture": "https://i.ytimg.com/vi/QWIPisprSZo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737720000,
+        "title": "【メン限】『ハリー・ポッターと炎のゴブレット』同時視聴会 member ship only【百鬼あやめ/ホロライブ】"
     }
 ]
