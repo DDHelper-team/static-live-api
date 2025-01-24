@@ -182,7 +182,7 @@
         "link": "https://www.youtube.com/watch?v=ULwNicHNg3M",
         "picture": "https://i.ytimg.com/vi/ULwNicHNg3M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1737710100,
         "title": "【ストリートファイター6】久々にしゃがむンゴ【アルランディス/ホロスターズ】"
     },
@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WIXIK9r2vkA",
         "picture": "https://i.ytimg.com/vi/WIXIK9r2vkA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737710100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】特技はスライディング土下座＆生誕ライブ続報あります～！【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -306,5 +306,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【失踪した友人の部屋に残されていたゲーム】不気味すぎると噂のゲームプレイしてみる…。【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zBn-EiyA6g8",
+        "picture": "https://i.ytimg.com/vi/zBn-EiyA6g8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737716400,
+        "title": "【MemberOnly】最近のホロメンと出掛けた話【天音かなた/ホロライブ】"
     }
 ]
