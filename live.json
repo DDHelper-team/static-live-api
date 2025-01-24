@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=2K5Fj9ZENA8",
-        "picture": "https://i.ytimg.com/vi/2K5Fj9ZENA8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737684000,
-        "title": "【LIAR\u0026#39;S BAR with DOGGY PACK 視聴者参加型】you\u0026#39;re the liar aren\u0026#39;t you 🐾 【MEMBERS ONLY】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -121,25 +110,14 @@
         "title": "【弾き語り歌枠】いったん歌ってみる【律可/ホロスターズ 】#りつすた"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=o8G56_4PF-4",
-        "picture": "https://i.ytimg.com/vi/o8G56_4PF-4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Euro Truck Simulator 2】起きられたら自分のトラック買うために働く🚗【常闇トワ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iPKsL9n6jcs",
         "picture": "https://i.ytimg.com/vi/iPKsL9n6jcs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737684000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Path of Exile 2】oh look! who\u0026#39;s back to the grind.....【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -196,5 +174,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737716400,
         "title": "【ころさんとコラボ】ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fIQb-l7_Il8",
+        "picture": "https://i.ytimg.com/vi/fIQb-l7_Il8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737756000,
+        "title": "Hunting for a Husband in the Sand【My Time at Sandrock】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_mWrdRsaV2g",
+        "picture": "https://i.ytimg.com/vi/_mWrdRsaV2g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737723600,
+        "title": "【グノーシア】私は人狼ゲーム、第三陣営で本領発揮する女 #4【一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
