@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rdvcv5d8hIA",
         "picture": "https://i.ytimg.com/vi/rdvcv5d8hIA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737721800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#鳴潮 】2.0版本續跑劇情~放假了呀!!!! 【#遊戲個人勢 / Fingla】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=K9IccjZT6uE",
         "picture": "https://i.ytimg.com/vi/K9IccjZT6uE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737720900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 超土下座 】超土下座する超謎ゲーを調査するぜ！！！！！！！！！【#みこちの謎ゲー発掘調査隊】"
     },
     {
@@ -295,5 +295,60 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【呪われたデジカメ】見～～～～～～つけた( ◠‿◠ )  #ホロスターズホラゲリレー   / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uQynDdLLQyI",
+        "picture": "https://i.ytimg.com/vi/uQynDdLLQyI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737795600,
+        "title": "【４】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WltH_LIavu8",
+        "picture": "https://i.ytimg.com/vi/WltH_LIavu8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737766800,
+        "title": "≪Yakuza 4≫ THIS IS THE YAKUZA 4 #7【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ugnrMab9lEw",
+        "picture": "https://i.ytimg.com/vi/ugnrMab9lEw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737766800,
+        "title": "【ドンキーコングリターンズHD】クリア耐久🔥スーファミのドンキやったことありﾏｧｯｽﾙ！遊んでみよう～🦍🎶【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FPxxfqqj1ZY",
+        "picture": "https://i.ytimg.com/vi/FPxxfqqj1ZY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737723600,
+        "title": "【歌枠 / Singing】リクエストルーレット歌枠！！！！【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1ZccyjsPsKM",
+        "picture": "https://i.ytimg.com/vi/1ZccyjsPsKM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737723600,
+        "title": "#5【Ace Attorney: Spirit of Justice】IT\u0026#39;S RAYFA TIME (SPOILERS!)【Pavolia Reine/holoID 2ndgen】"
     }
 ]
