@@ -143,17 +143,6 @@
         "title": "【呪われたデジカメ】#ホロスターズホラゲリレー　の巻【律可/ホロスターズ 】#りつすた"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CgeitBEbzYA",
-        "picture": "https://i.ytimg.com/vi/CgeitBEbzYA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【League of Legends】メイカカスタム！！ / アステル"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737766800,
         "title": "【SYNDUALITY ECHO OF ADA】Exclusive Dokibird Cosmetic!【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XLQPaQvMUeE",
+        "picture": "https://i.ytimg.com/vi/XLQPaQvMUeE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737796500,
+        "title": "【モンハンワールド】いよいよ大会本番だ！ おおはらMEN #チーム腕相撲WIN #ドズル社狩猟祭 Part9【ホロライブ/アキ・ローゼンタール】"
     }
 ]
