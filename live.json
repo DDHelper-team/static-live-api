@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rTEsZyFngII",
         "picture": "https://i.ytimg.com/vi/rTEsZyFngII/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737709200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ほしちゃま 】宇宙１かわいいコンビでカラオケ～～～！🌟❤️‍🔥【ホロライブ/赤井はあと/にじさんじ/星川サラ】"
     },
     {
@@ -284,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737792000,
         "title": "【 👻呪われたデジカメ】ノリでカメラ回したらえ、え、えええええええええ；；；【#ホロライブ #ロボ子さん 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WIXIK9r2vkA",
+        "picture": "https://i.ytimg.com/vi/WIXIK9r2vkA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737710100,
+        "title": "【雑談】特技はスライディング土下座＆生誕ライブ続報あります～！【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Ulrj112kRO0",
+        "picture": "https://i.ytimg.com/vi/Ulrj112kRO0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【失踪した友人の部屋に残されていたゲーム】不気味すぎると噂のゲームプレイしてみる…。【ホロライブ/癒月ちょこ】"
     }
 ]
