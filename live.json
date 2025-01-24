@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=83mXnaDJPe4",
         "picture": "https://i.ytimg.com/vi/83mXnaDJPe4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737754200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#141 1/25土曜日！おはぽるドドド！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
