@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fJYevljGMGQ",
         "picture": "https://i.ytimg.com/vi/fJYevljGMGQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737716400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ドズル社狩猟祭】顔合わせ　7日目【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9KS8nQ0B2GA",
         "picture": "https://i.ytimg.com/vi/9KS8nQ0B2GA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737716400,
-        "title": "【ころさんとコラボ】ぺこ！【ホロライブ/兎田ぺこら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ぺっころね】鬼太郎のサバイバルゲームきたあああ！２人で協力わんぺこ！【ノロイカゴ ゲゲゲの夜】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GMzV286K3HU",
         "picture": "https://i.ytimg.com/vi/GMzV286K3HU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737716400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ぺっころね】鬼太郎のサバイバルゲームきたあああ！２人で協力ぺこわん！【ノロイカゴ ゲゲゲの夜】"
     },
     {
@@ -328,5 +328,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【モンハンワールド】最後の練習日！ おおはらMENチーム腕相撲 #ドズル社狩猟祭 Part8【ホロライブ/アキ・ローゼンタール】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=K9IccjZT6uE",
+        "picture": "https://i.ytimg.com/vi/K9IccjZT6uE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737720000,
+        "title": "【 超土下座 】超土下座する超謎ゲーを調査するぜ！！！！！！！！！【#みこちの謎ゲー発掘調査隊】"
     }
 ]
