@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RG_lhoTX2Ok",
         "picture": "https://i.ytimg.com/vi/RG_lhoTX2Ok/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737730800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR｜絕頂睡眠溫柔貼貼放鬆掏耳❤️｜Oneechan Whispers to Sleep｜甘い添い寝 耳かき【黑3DIO/KU100】"
     },
     {
@@ -317,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737731700,
         "title": "【KU100/ASMR】囁きと落ちつく呼吸音…むにっと柔らかな感触で意識がまどろむ、寝落ち推奨睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hp8WFX9e-BI",
+        "picture": "https://i.ytimg.com/vi/hp8WFX9e-BI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737810000,
+        "title": "【呪われたデジカメ】#ホロスターズホラゲリレー　の巻【律可/ホロスターズ 】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=CgeitBEbzYA",
+        "picture": "https://i.ytimg.com/vi/CgeitBEbzYA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【League of Legends】メイカカスタム！！ / アステル"
     }
 ]
