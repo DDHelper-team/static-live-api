@@ -66,17 +66,6 @@
         "title": "【100% Orange Juice】game for good friends!! #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yWhKGB0CZaU",
-        "picture": "https://i.ytimg.com/vi/yWhKGB0CZaU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Yakuza 4≫ Please Kiryu. We need HELP. #6【SPOILER WARNING】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "islive": false,
@@ -196,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737723600,
         "title": "【グノーシア】私は人狼ゲーム、第三陣営で本領発揮する女 #4【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ULwNicHNg3M",
+        "picture": "https://i.ytimg.com/vi/ULwNicHNg3M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737705600,
+        "title": "【ストリートファイター6】久々にしゃがむンゴ【アルランディス/ホロスターズ】"
     }
 ]
