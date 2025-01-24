@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=D8qd4juVewQ",
-        "picture": "https://i.ytimg.com/vi/D8qd4juVewQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7JyMxK34_5A",
+        "picture": "https://i.ytimg.com/vi/7JyMxK34_5A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #にじホロ麻雀 】麻雀でにじホロ女子会🀄💗～椎名さん＆フレンさん＆マリリシャ＆こよ！～【博衣こより視点/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737770400,
+        "title": "【ロマサガ2リメイク】難易度オリジナル完全初見！ロマンシングサガ2 リベンジオブザセブン最終回・・・か！？？ #10 【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ykj_wWPJziI",
         "picture": "https://i.ytimg.com/vi/Ykj_wWPJziI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737731700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】囁きと落ちつく呼吸音…むにっと柔らかな感触で意識がまどろむ、寝落ち推奨睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
