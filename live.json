@@ -22,17 +22,6 @@
         "title": "【#ドズル社狩猟祭】顔合わせ　7日目【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3g0jqh09548",
-        "picture": "https://i.ytimg.com/vi/3g0jqh09548/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #1【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -101,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9ze5g7auMMQ",
-        "picture": "https://i.ytimg.com/vi/9ze5g7auMMQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OSTQx_kxEfw",
+        "picture": "https://i.ytimg.com/vi/OSTQx_kxEfw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 あつまれ どうぶつの森 】雑談しつつ森【 奏手イヅル / ホロスターズ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737804600,
+        "title": "呪われたデジカメ をやる【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -229,5 +218,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737777600,
         "title": "【 ゼノブレイド 】完全初見で参る参る～～ #04【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tYF4iGQaaW8",
+        "picture": "https://i.ytimg.com/vi/tYF4iGQaaW8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737788400,
+        "title": "【キミガシネ】完全初見！多数決デスゲーム...！わし、生き残ってみせる。【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=O6_SBysfOo8",
+        "picture": "https://i.ytimg.com/vi/O6_SBysfOo8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737763200,
+        "title": "【Marvel Rivals】yolooooooooooooooo【GRAONDSTONE】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=G6PxpwgVS7c",
+        "picture": "https://i.ytimg.com/vi/G6PxpwgVS7c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737774000,
+        "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨久々のドラ10！真の姿になった町へ…！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     }
 ]
