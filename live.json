@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UC3R_IT_Aqw",
         "picture": "https://i.ytimg.com/vi/UC3R_IT_Aqw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737817200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 首都高バトル 】お　ま　た　せ【角巻わため/ホロライブ４期生】※ネタバレあり"
     },
     {
@@ -64,17 +64,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737856800,
         "title": "【Alien: Isolation】vorp? @holoen_gigimurin  #calliolive"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yq_ovjnCCKQ",
-        "picture": "https://i.ytimg.com/vi/yq_ovjnCCKQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ドズル社狩猟祭】本番【夕刻ロベル/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
