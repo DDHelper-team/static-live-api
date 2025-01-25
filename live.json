@@ -1,16 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cwSK9WyIh1U",
-        "picture": "https://i.ytimg.com/vi/cwSK9WyIh1U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く0 誓いの場所】#05｜第八章「争奪戦」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "islive": false,
@@ -46,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=beLpRfbsm8g",
         "picture": "https://i.ytimg.com/vi/beLpRfbsm8g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737792000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 👻呪われたデジカメ】ノリでカメラ回したらえ、え、えええええええええ；；；【#ホロライブ #ロボ子さん 】"
     },
     {
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zmHJrfdhSb8",
         "picture": "https://i.ytimg.com/vi/zmHJrfdhSb8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737792000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Project Zomboid】can zombies feel pain btw?"
     }
 ]
