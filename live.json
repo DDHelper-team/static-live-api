@@ -55,17 +55,6 @@
         "title": "【呪われたデジカメ】#ホロスターズホラゲリレー　の巻【律可/ホロスターズ 】#りつすた"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tYF4iGQaaW8",
-        "picture": "https://i.ytimg.com/vi/tYF4iGQaaW8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【キミガシネ】完全初見！多数決デスゲーム...！わし、生き残ってみせる。【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -328,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737813600,
         "title": "【Thief Simulator 2】警察に捕まりたくないので見逃してください。怪盗F【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Lp2ZNGhVHRw",
+        "picture": "https://i.ytimg.com/vi/Lp2ZNGhVHRw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737871200,
+        "title": "【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】"
     }
 ]
