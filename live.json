@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zYMU-HV8Wa0",
         "picture": "https://i.ytimg.com/vi/zYMU-HV8Wa0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737799200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】ハチロクでGT-Rを破った富士山のルーキー、今日も登頂する！！！【博衣こより/ホロライブ】"
     },
     {
@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ajHtwrw3pZo",
         "picture": "https://i.ytimg.com/vi/ajHtwrw3pZo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737799200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【CHAINED TOGETHER】we\u0026#39;re never apart anyways so let\u0026#39;s climb to the top together 🐾【FUWAMOCO】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UEii0s81TE4",
         "picture": "https://i.ytimg.com/vi/UEii0s81TE4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737799200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第87～93話【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -238,8 +238,8 @@
         "picture": "https://i.ytimg.com/vi/2EvfAOeBESg/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1737799200,
-        "title": "【 首都高バトル 】サムネまだ？！？！？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+        "timestamp": 1737802800,
+        "title": "【 首都高バトル 】運転？！？！やってみよう【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=b42K7-a1-z4",
         "picture": "https://i.ytimg.com/vi/b42K7-a1-z4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737799200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【あつまれ どうぶつの森】日給10万ベルのバイト探してます【花咲みやび/ホロスターズ】"
     },
     {
@@ -284,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737808200,
         "title": "【#houseflipper 】新遊戲！新春第一天連假，讓我們一起透過房地產成為有錢人！【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vaZHKhBqHFQ",
+        "picture": "https://i.ytimg.com/vi/vaZHKhBqHFQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737885600,
+        "title": "【Lair\u0026#39;s Bar】まぁネ、騙し合いなんてね、そんなね #LIVEUNION【HACHI  焔魔るり 瀬戸乃とと 水瀬凪】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6cAFletcmno",
+        "picture": "https://i.ytimg.com/vi/6cAFletcmno/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737810000,
+        "title": "【メン限同時視聴】逆転裁判【荒咬オウガ /ホロスターズ】"
     }
 ]
