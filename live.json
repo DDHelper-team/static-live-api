@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uQynDdLLQyI",
         "picture": "https://i.ytimg.com/vi/uQynDdLLQyI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737795600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【４】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737799200,
         "title": "【あつまれ どうぶつの森】日給10万ベルのバイト探してます【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ffHjtywZ7wk",
+        "picture": "https://i.ytimg.com/vi/ffHjtywZ7wk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737837000,
+        "title": "【NEEDY STREAMER OVERLOAD: TYPING OF THE NET】love forever【Dokibird】"
     }
 ]
