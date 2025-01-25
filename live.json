@@ -220,17 +220,6 @@
         "title": "【 #大神ミオ新衣装 】新衣装、お披露目します。【 ホロライブ/ 大神ミオ 】"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LyTSFP1OzEo",
-        "picture": "https://i.ytimg.com/vi/LyTSFP1OzEo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】新衣装でいっぱい歌います🎤#緋月ゆい生誕祭2025【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "islive": true,
@@ -284,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737860400,
         "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨久々のドラ10！真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ndl3bAK26r4",
+        "picture": "https://i.ytimg.com/vi/ndl3bAK26r4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737849600,
+        "title": "【UNARCHIVED KARAOKE】EDGY SINGING TIME"
     }
 ]
