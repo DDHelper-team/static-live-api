@@ -55,25 +55,14 @@
         "title": "【呪われたデジカメ】#ホロスターズホラゲリレー　の巻【律可/ホロスターズ 】#りつすた"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UEii0s81TE4",
-        "picture": "https://i.ytimg.com/vi/UEii0s81TE4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第87～93話【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ydXC6ziZ4Uo",
         "picture": "https://i.ytimg.com/vi/ydXC6ziZ4Uo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737813600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #2【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -130,17 +119,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737889200,
         "title": "【#銀雪歌枠リレー】 冬の宝石があなたに冬を届けます【 #TanZ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QvbJv1IWJQo",
-        "picture": "https://i.ytimg.com/vi/QvbJv1IWJQo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【占いの館】ビッグゴッドミオーン先生出張！！2025年の運勢を占ってください🔮【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
@@ -310,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ms9hRvHR8n0",
         "picture": "https://i.ytimg.com/vi/Ms9hRvHR8n0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737813600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Thief Simulator 2】警察に捕まりたくないので見逃してください。怪盗F【ホロライブ/白上フブキ】"
     },
     {
@@ -339,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737864000,
         "title": "【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!! ロトシリーズ完走するぞー!!! part7 ※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pdjCuN6TKjw",
+        "picture": "https://i.ytimg.com/vi/pdjCuN6TKjw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737860400,
+        "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨久々のドラ10！真のアラハギーロ王国とセレドの町の解決へ！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     }
 ]
