@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cjjIU5xHgp8",
         "picture": "https://i.ytimg.com/vi/cjjIU5xHgp8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737806400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Unrailed 2: Back on Track】#ちはわたふれあーにゃ で線路作り！！！ 【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
@@ -200,11 +200,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=KjjJgpgRlqQ",
         "picture": "https://i.ytimg.com/vi/KjjJgpgRlqQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 告知あり 】最後の雑談！みんなありがとうとか裏話とか【ホロライブ/沙花叉クロヱ】"
     },
@@ -267,12 +267,12 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=4D8e3gh0rJo",
-        "picture": "https://i.ytimg.com/vi/4D8e3gh0rJo/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=C8o8hfdaQlE",
+        "picture": "https://i.ytimg.com/vi/C8o8hfdaQlE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【マリカ8DX】一時間以内に1位を取れなかったら21時からカービィ64クリア耐久！ぺこ！【ホロライブ/兎田ぺこら】"
+        "title": "【クリア耐久】はじめてのカービィ６４！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=59o_SzVd8xY",
         "picture": "https://i.ytimg.com/vi/59o_SzVd8xY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737806400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ホロライブバレンタイン ～Message for You～】味覚も嗅覚も最強なんで！！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -339,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737891000,
         "title": "塔羅占卜#87｜農曆年前最後一次占卜該安太歲的快去安🔮✨🦊【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B-0Wg8b8emI",
+        "picture": "https://i.ytimg.com/vi/B-0Wg8b8emI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737853200,
+        "title": "【朝活雑談】おはまっするさんでー💪🌞💪今日もお喋りいっぱいしよ～！！【白銀ノエル/ホロライブ】"
     }
 ]
