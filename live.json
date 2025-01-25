@@ -110,17 +110,6 @@
         "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第87～93話【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GXnl3FyUBYg",
-        "picture": "https://i.ytimg.com/vi/GXnl3FyUBYg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドラゴンクエストIIIリメイク】ドラクエIII初プレイ!!!オーブ集める!!ロトシリーズ完走するぞー!!! part6 ※ネタバレあり"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -220,17 +209,6 @@
         "title": "【メンバー限定】みんなで一緒に映画見よう会　ついに2025最初の1月編【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zmHJrfdhSb8",
-        "picture": "https://i.ytimg.com/vi/zmHJrfdhSb8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Project Zomboid】can zombies feel pain btw?"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": false,
@@ -306,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737810000,
         "title": "【メン限同時視聴】逆転裁判【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4D8e3gh0rJo",
+        "picture": "https://i.ytimg.com/vi/4D8e3gh0rJo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737802800,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YZBfcGnpIhE",
+        "picture": "https://i.ytimg.com/vi/YZBfcGnpIhE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737864000,
+        "title": "【 ゼノブレイド 】完全初見で参る参る～～ #05【 猫又おかゆ/ホロライブ 】"
     }
 ]
