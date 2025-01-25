@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OSTQx_kxEfw",
         "picture": "https://i.ytimg.com/vi/OSTQx_kxEfw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737804600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "呪われたデジカメ をやる【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -64,17 +64,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【CHAINED TOGETHER】we\u0026#39;re never apart anyways so let\u0026#39;s climb to the top together 🐾【FUWAMOCO】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uQynDdLLQyI",
-        "picture": "https://i.ytimg.com/vi/uQynDdLLQyI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【４】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737810000,
         "title": "【HONOR OF KINGS】LETS GET THAT MVP!! JANGAN BAN ANGELA KU BANG-【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AThmjYg2ez0",
+        "picture": "https://i.ytimg.com/vi/AThmjYg2ez0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737891000,
+        "title": "塔羅占卜#87｜農曆年前最後一次占卜該安太歲的快去安🔮✨🦊【Healing希靈/VTuber】"
     }
 ]
