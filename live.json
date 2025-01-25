@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=G6PxpwgVS7c",
-        "picture": "https://i.ytimg.com/vi/G6PxpwgVS7c/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UEii0s81TE4",
+        "picture": "https://i.ytimg.com/vi/UEii0s81TE4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ドラクエⅩ ver.2 】完全初見。オフライン版✨久々のドラ10！真の姿になった町へ…！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737799200,
+        "title": "【 同時視聴/Watchalong 】『ドラゴンクエスト ダイの大冒険(2020)』第87～93話【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -240,5 +240,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Project Zomboid】can zombies feel pain btw?"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2EvfAOeBESg",
+        "picture": "https://i.ytimg.com/vi/2EvfAOeBESg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737799200,
+        "title": "【 首都高バトル 】サムネまだ？！？！？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
