@@ -88,17 +88,6 @@
         "title": "【４】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WltH_LIavu8",
-        "picture": "https://i.ytimg.com/vi/WltH_LIavu8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Yakuza 4≫ THIS IS THE YAKUZA 4 #7【SPOILER WARNING】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": true,
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737802800,
         "title": "【メンバー限定】みんなで一緒に映画見よう会　ついに2025最初の1月編【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zmHJrfdhSb8",
+        "picture": "https://i.ytimg.com/vi/zmHJrfdhSb8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737792000,
+        "title": "【Project Zomboid】can zombies feel pain btw?"
     }
 ]
