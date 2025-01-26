@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DI1JGq2Yk_g",
         "picture": "https://i.ytimg.com/vi/DI1JGq2Yk_g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737930600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】１月最後のおはみぉーん☀月曜日だよ～！"
     },
     {
