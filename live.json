@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7s5TrrxrFQQ",
         "picture": "https://i.ytimg.com/vi/7s5TrrxrFQQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737928800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活】おはよう☀mgmg～Eat Time❣朝マックが食べたい月曜日！！！【#ホロライブ #ロボ子さん 】"
     },
     {
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xtSE-KNMzuM",
         "picture": "https://i.ytimg.com/vi/xtSE-KNMzuM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737928844,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】おはよ～～～う！！！【緋月ゆい/ネオポルテ】"
     },
     {
@@ -160,7 +160,7 @@
         "link": "https://www.youtube.com/watch?v=9W7XPTtmX8s",
         "picture": "https://i.ytimg.com/vi/9W7XPTtmX8s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1737928800,
         "title": "【花岸れいでぃお】第70回！足が冷たくて仕方がない朝【岸堂天真/花咲みやび/ホロスターズ】"
     },
@@ -174,5 +174,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737976500,
         "title": "【メンバー限定】いちゃいちゃASMR【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fIQb-l7_Il8",
+        "picture": "https://i.ytimg.com/vi/fIQb-l7_Il8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738015200,
+        "title": "Hunting for a Husband in the Sand【My Time at Sandrock】"
     }
 ]
