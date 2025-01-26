@@ -44,17 +44,6 @@
         "title": "【 告知あり 】最後の雑談！みんなありがとうとか裏話とか【ホロライブ/沙花叉クロヱ】"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ffHjtywZ7wk",
-        "picture": "https://i.ytimg.com/vi/ffHjtywZ7wk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【NEEDY STREAMER OVERLOAD: TYPING OF THE NET】love forever【Dokibird】"
-    },
-    {
         "channel": "https://youtube.com/@HACHIVSinger",
         "channellink": "https://www.youtube.com/@HACHIVSinger",
         "islive": false,
@@ -75,17 +64,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737864000,
         "title": "【 ゼノブレイド 】完全初見で参る参る～～ #05【 猫又おかゆ/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MB8NcOeduBQ",
-        "picture": "https://i.ytimg.com/vi/MB8NcOeduBQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fallout: New Vegas】FINAL DECISIONS. The last one before (one day) DLC? #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -134,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Lp2ZNGhVHRw",
         "picture": "https://i.ytimg.com/vi/Lp2ZNGhVHRw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737871200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃２【姫森ルーナ/ホロライブ】"
     },
     {
@@ -189,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iBNwKFCeBYM",
-        "picture": "https://i.ytimg.com/vi/iBNwKFCeBYM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nnARkvHjSoY",
+        "picture": "https://i.ytimg.com/vi/nnARkvHjSoY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【League of Legends】早朝の視聴者参加型LoL / アステル"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737867600,
+        "title": "【MiSide -ミサイド-】ガチで女絡みいらん卍 一途極み乙女   / アステル"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -207,5 +185,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737864000,
         "title": "【Tokyo Xtreme Racer】RACING THE STREETS OF TOKYO"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=z94nvi5doO8",
+        "picture": "https://i.ytimg.com/vi/z94nvi5doO8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737892800,
+        "title": "【 おうち3D 】初おうち3Dの最強天才中学生【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=pC5Z9CPRe94",
+        "picture": "https://i.ytimg.com/vi/pC5Z9CPRe94/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737943200,
+        "title": "【FWMC MINECRAFT JOURNEY】fluffy return to our mining journey 🐾【FUWAWA POV】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LddP-sL02jU",
+        "picture": "https://i.ytimg.com/vi/LddP-sL02jU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737950400,
+        "title": "【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】"
     }
 ]
