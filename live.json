@@ -88,17 +88,6 @@
         "title": "Hunting for a Husband in the Sand【My Time at Sandrock】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-Hve0zHrK_I",
-        "picture": "https://i.ytimg.com/vi/-Hve0zHrK_I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【M.M.M. / Monday Morning Malas】I am back !!!!【Ayunda Risu】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -152,5 +141,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737979200,
         "title": "【 Fast Food Simulator 】#ホロナルド 出勤3回目にしてナイトメアチャレンジ【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OreQfS4LH2g",
+        "picture": "https://i.ytimg.com/vi/OreQfS4LH2g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737979200,
+        "title": "【 #ホロナルド 】ナイトメアに挑戦する...？耐えられるのか、大神ミオ【大神ミオ視点】"
     }
 ]
