@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=948hEeRfJcE",
         "picture": "https://i.ytimg.com/vi/948hEeRfJcE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737972000,
-        "title": "【 首都高バトル 】ぶっとばすぜベイべ～～！🚗🚙【 猫又おかゆ/ホロライブ 】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 首都高バトル 】ぶっとばすぜベイべ～～！🚗🚙【 猫又おかゆ/ホロライブ 】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -42,17 +42,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737979200,
         "title": "【#ロベルないとめあ】新年あけましておめでとうの挨拶をする我々【夕刻ロベル/神楽めあ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZauljbGNM70",
-        "picture": "https://i.ytimg.com/vi/ZauljbGNM70/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 料理 】人生はじめての「ポテト🍟」揚げるぞおおおお～～～！🌟【ホロライブ/赤井はあと】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -101,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mJQ4wEkb0vs",
         "picture": "https://i.ytimg.com/vi/mJQ4wEkb0vs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737972000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 信長の野望・創造 】初めての「信長の野望」で遊んでみるのら！！！＃３【姫森ルーナ/ホロライブ】"
     },
     {
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Y68ClBJdIyE",
         "picture": "https://i.ytimg.com/vi/Y68ClBJdIyE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737972000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【占いの館】ビッグゴッドミオーン先生！ねっこよの2025年を占ってください！！！🔮✨ #大ねっこよ神 【大神ミオ・桃鈴ねね・博衣こより/ホロライブ】"
     },
     {
@@ -207,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1737979200,
         "title": "【 Fast Food Simulator 】ホロナルド開店‼みんなで悪夢でも客の帰らない店にするぜ！！！！！🍟【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_YRhzET4LWk",
+        "picture": "https://i.ytimg.com/vi/_YRhzET4LWk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737979200,
+        "title": "【Fast Food Simulator】ナイトメアチャレンジいくぞおおおお！！！🍔🍟✨【百鬼あやめ/ホロライブ】"
     }
 ]
