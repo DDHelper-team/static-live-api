@@ -44,17 +44,6 @@
         "title": "【 #朝こよ 】1月最後の火曜日の朝も！朝こよ～☀ #217 【博衣こより/hololive】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZxwlOfpMOLw",
-        "picture": "https://i.ytimg.com/vi/ZxwlOfpMOLw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Senin Produktif】YAP YAP YAP AND DRAW【 iofi / hololiveID 】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": false,
@@ -141,5 +130,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738065600,
         "title": "ノロイカゴ ゲゲゲの夜 を 4人でやる【 奏手イヅル w/ アステル 影山シエン 律可 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BiDQFMyLXj0",
+        "picture": "https://i.ytimg.com/vi/BiDQFMyLXj0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738065600,
+        "title": "【 DEBUG DEADLINE 】異常バグを見つけたらすぐに報告せよ！【 領国つかさ / すぺしゃりて 】"
     }
 ]
