@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=LddP-sL02jU",
-        "picture": "https://i.ytimg.com/vi/LddP-sL02jU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=L4r1WkzMiHI",
+        "picture": "https://i.ytimg.com/vi/L4r1WkzMiHI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737979200,
+        "title": "【#ロベルないとめあ】新年あけましておめでとうの挨拶をする我々【夕刻ロベル/神楽めあ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
@@ -156,12 +156,34 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=T4tyP1lqd_E",
         "picture": "https://i.ytimg.com/vi/T4tyP1lqd_E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737968400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 歌枠 / 縦型 】60万人目指して歌うよー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yLvC_n27C3A",
+        "picture": "https://i.ytimg.com/vi/yLvC_n27C3A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737979200,
+        "title": "【 Fast Food Simulator 】#ホロナルド ナイトメアモード完全攻略へ・・・。【鷹嶺ルイ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BG1PWioWy6g",
+        "picture": "https://i.ytimg.com/vi/BG1PWioWy6g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1737975600,
+        "title": "【#ぺこマリweek】ぺこらの指示でマリンは初のスーパーマリオブラザーズクリアできるか？【ホロライブ/宝鐘マリン】"
     }
 ]
