@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LddP-sL02jU",
         "picture": "https://i.ytimg.com/vi/LddP-sL02jU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737950400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】"
     },
     {
