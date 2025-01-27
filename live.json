@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=L4r1WkzMiHI",
-        "picture": "https://i.ytimg.com/vi/L4r1WkzMiHI/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=bG1udsLQddw",
+        "picture": "https://i.ytimg.com/vi/bG1udsLQddw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ロベルないとめあ】新年あけましておめでとうの挨拶をする我々【夕刻ロベル/神楽めあ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738036800,
+        "title": "【雑談】1月がもう少しで終わるらしいぞ【夕刻ロベル/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738069200,
         "title": "【 #ドラクエ3リメイク  】オーブ１つでもほしいんだ！俺は！ #6 【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=P3M3IjCtWPs",
+        "picture": "https://i.ytimg.com/vi/P3M3IjCtWPs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738063800,
+        "title": "【公式依頼!?】ホロカに使う○○を制作します！【ホロライブ/夏色まつり】"
     }
 ]
