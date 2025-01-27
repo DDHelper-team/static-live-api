@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZxwlOfpMOLw",
         "picture": "https://i.ytimg.com/vi/ZxwlOfpMOLw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737986400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Senin Produktif】YAP YAP YAP AND DRAW【 iofi / hololiveID 】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NUwh7XQruwc",
         "picture": "https://i.ytimg.com/vi/NUwh7XQruwc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737986422,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fast Food Simulator】夜勤で呼ばれました🍔【緋月ゆい/ネオポルテ】"
     },
     {
