@@ -1,27 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7s5TrrxrFQQ",
-        "picture": "https://i.ytimg.com/vi/7s5TrrxrFQQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【朝活】おはよう☀mgmg～Eat Time❣朝マックが食べたい月曜日！！！【#ホロライブ #ロボ子さん 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=A83EWFnaZXc",
-        "picture": "https://i.ytimg.com/vi/A83EWFnaZXc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737939600,
-        "title": "Member\u0026#39;s Only- Playing Bass! #calliolive"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "channellink": "https://www.youtube.com/channel/UCIBY1ollUsauvVi4hW4cumw",
         "islive": false,
@@ -68,13 +46,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=pC5Z9CPRe94",
-        "picture": "https://i.ytimg.com/vi/pC5Z9CPRe94/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=VaDggu24LRw",
+        "picture": "https://i.ytimg.com/vi/VaDggu24LRw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737943200,
-        "title": "【FWMC MINECRAFT JOURNEY】fluffy return to our mining journey 🐾【FUWAWA POV】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【FWMC MINECRAFT JOURNEY】fuzzy return to our mining journey 🐾【MOCOCO POV】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -88,25 +66,14 @@
         "title": "【MiSide : ミサイド】美少女ホラーって聞きました【夕刻ロベル/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xtSE-KNMzuM",
-        "picture": "https://i.ytimg.com/vi/xtSE-KNMzuM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】おはよ～～～う！！！【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UDmZPMEBM60",
         "picture": "https://i.ytimg.com/vi/UDmZPMEBM60/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1737939600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MARVEL RIVALS】I\u0026#39;m Doobing Out【Dokibird】"
     },
     {
