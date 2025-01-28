@@ -297,17 +297,6 @@
         "title": "#02 【 The Forest  】 #フレアイリス でキャンプ！るんるん❤【不知火フレア/IRyS/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QMjM1bqdnwI",
-        "picture": "https://i.ytimg.com/vi/QMjM1bqdnwI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 呪われたデジカメ 】ふふふたりならここここわくねえええしｨ…？！【 桃鈴ねね / hololive 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": true,
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738065600,
         "title": "【首都高バトル】ネタバレあり ハンコンで遊ぶゴールド免許オウガ【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=OAyPkdMPlww",
+        "picture": "https://i.ytimg.com/vi/OAyPkdMPlww/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738065600,
+        "title": "【漢字でGO! 集英社マンガ祭】偏りがすごい自信があるけど、勘もいい自信があります【ホロライブ/ときのそら】"
     }
 ]
