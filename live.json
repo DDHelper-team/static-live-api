@@ -176,17 +176,6 @@
         "title": "【Tokyo Xtreme Racer】DEJA VU!!!!!! NGEEEENG【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=k8gTkP-sXq4",
-        "picture": "https://i.ytimg.com/vi/k8gTkP-sXq4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 首都高バトル 】免許？知らん！走るぜ！！！！！！！！！【ホロライブ/雪花ラミィ】※ネタバレあり"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "islive": false,
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738065600,
         "title": "【The Forest】ふーたんとキャンプだ！#2 Camping amongst Carnivores w/ Flare"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oWJDh7rIKPs",
+        "picture": "https://i.ytimg.com/vi/oWJDh7rIKPs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738069200,
+        "title": "【MINECRAFT - SOLO】DESIGNING AND PLANNING WHAT TO BUILD【Kureiji Ollie】"
     }
 ]
