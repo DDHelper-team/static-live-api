@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Die9xpbswFU",
         "picture": "https://i.ytimg.com/vi/Die9xpbswFU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738098000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【COLLAB】 MORE CHAOS WITH @holoen_ceciliaimmergreen 【STRANGER OF PARADISE】 ※SPOILER WARNING"
     },
     {
