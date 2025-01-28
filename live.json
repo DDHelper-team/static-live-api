@@ -13,13 +13,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bG1udsLQddw",
-        "picture": "https://i.ytimg.com/vi/bG1udsLQddw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DVjxCECKzHs",
+        "picture": "https://i.ytimg.com/vi/DVjxCECKzHs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】1月がもう少しで終わるらしいぞ【夕刻ロベル/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738051200,
+        "title": "【Cursed Digicam | 呪われたデジカメ】恐ろしいなぁ【夕刻ロベル/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -207,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738054800,
         "title": "【 首都高バトル 】免許？知らん！走るぜ！！！！！！！！！【ホロライブ/雪花ラミィ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=t9SuZtO5XYk",
+        "picture": "https://i.ytimg.com/vi/t9SuZtO5XYk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738065600,
+        "title": "【Farming Simulator 25】フブミオ農場は、発展途上【ホロライブ/大神ミオ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RI_Dj9iYlfM",
+        "picture": "https://i.ytimg.com/vi/RI_Dj9iYlfM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738065600,
+        "title": "【Farming Simulator 25】ミオファームで農業はじめました。 その２【ホロライブ/白上フブキ】"
     }
 ]
