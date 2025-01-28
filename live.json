@@ -51,18 +51,18 @@
         "picture": "https://i.ytimg.com/vi/ylPFgwiB5p4/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1738069200,
-        "title": "【 マリパジャンボリー 】マリオでバチバチジャンボリいいいいいいいい【ホロライブ /ロボ子さん 】"
+        "timestamp": 1738071000,
+        "title": "【 #ホロマリパジャンボリー  】マリオでバチバチジャンボリいいいいいいいい【ホロライブ /ロボ子さん 】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=03q7LxmQ7Gw",
         "picture": "https://i.ytimg.com/vi/03q7LxmQ7Gw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738069200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ドラクエ3リメイク  】オーブ１つでもほしいんだ！俺は！ #6 【#新人vtuber 】"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QefW6SMNIPw",
         "picture": "https://i.ytimg.com/vi/QefW6SMNIPw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738069200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Tokyo Xtreme Racer】DEJA VU!!!!!! NGEEEENG【 iofi / hololiveID 】"
     },
     {
@@ -198,17 +198,6 @@
         "title": "【Project Zomboid】*rips every single zombies clothes*"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wATqcMpd9bQ",
-        "picture": "https://i.ytimg.com/vi/wATqcMpd9bQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Fast Food Simulator 】自分、ワンオペですが対抗馬行けます。編【 星街すいせい / ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "islive": true,
@@ -234,12 +223,12 @@
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=BLO76tTbisc",
-        "picture": "https://i.ytimg.com/vi/BLO76tTbisc/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738069200,
-        "title": "【MemberOnly／メン限】寝る前に！ゆるゆるおしゃべりしたいなあ🐹💖🐮【白銀ノエル/ホロライブ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nsaUvLrHcRU",
         "picture": "https://i.ytimg.com/vi/nsaUvLrHcRU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738069200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "tadaimaaaaaaaaa【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oWJDh7rIKPs",
         "picture": "https://i.ytimg.com/vi/oWJDh7rIKPs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738069200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT - SOLO】DESIGNING AND PLANNING WHAT TO BUILD【Kureiji Ollie】"
     },
     {
