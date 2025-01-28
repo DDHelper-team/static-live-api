@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=P3M3IjCtWPs",
-        "picture": "https://i.ytimg.com/vi/P3M3IjCtWPs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZunoqvjsyKQ",
+        "picture": "https://i.ytimg.com/vi/ZunoqvjsyKQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【公式依頼!?】ホロカに使う○○を制作します！【ホロライブ/夏色まつり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738134000,
+        "title": "【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお！！！Day2【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -90,35 +90,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZiSvxnVbby8",
         "picture": "https://i.ytimg.com/vi/ZiSvxnVbby8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ノロイカゴ ゲゲゲの夜 を 4人でやる【 奏手イヅル w/ アステル 影山シエン 律可 】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BiDQFMyLXj0",
         "picture": "https://i.ytimg.com/vi/BiDQFMyLXj0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
-        "title": "【 DEBUG DEADLINE 】異常バグを見つけたらすぐに報告せよ！【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dAieXF8AMO4",
-        "picture": "https://i.ytimg.com/vi/dAieXF8AMO4/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【#ししろんの47ラーメンツアー】今回は北海道スペシャルの巻！主要都市でのラーメン巡りとご当地グルメと観光もたっぷりご紹介の第9回目【獅白ぼたん/ホロライブ】"
+        "title": "【 DEBUG DEADLINE 】異常バグを見つけたらすぐに報告せよ！【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -134,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ujJPt4LIbPc",
         "picture": "https://i.ytimg.com/vi/ujJPt4LIbPc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #ポルーナ 】某M店にアルバイトに行ってみるのら！！！Fast Food Simulator【姫森ルーナ/ホロライブ】"
     },
     {
@@ -178,24 +167,24 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=t9SuZtO5XYk",
         "picture": "https://i.ytimg.com/vi/t9SuZtO5XYk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Farming Simulator 25】フブミオ農場は、発展途上【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RI_Dj9iYlfM",
         "picture": "https://i.ytimg.com/vi/RI_Dj9iYlfM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
-        "title": "【Farming Simulator 25】ミオファームで農業はじめました。 その２【ホロライブ/白上フブキ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Farming Simulator 25】フブミオファームで農業はじめました。 その２【ホロライブ/白上フブキ】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
@@ -222,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SFOokacS5yY",
         "picture": "https://i.ytimg.com/vi/SFOokacS5yY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ノロイカゴ ゲゲゲの夜】4人でやるゲゲゲ【律可/奏手イヅル/アステル・レダ/影山シエン/ホロスターズ 】#りつすた"
     },
     {
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DTf3As6HGT4",
         "picture": "https://i.ytimg.com/vi/DTf3As6HGT4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【オフコラボ】誰もいないマリンハウスに潜入！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Gt2l95Vpw8k",
         "picture": "https://i.ytimg.com/vi/Gt2l95Vpw8k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#02 【 The Forest  】 #フレアイリス でキャンプ！るんるん❤【不知火フレア/IRyS/ホロライブ】"
     },
     {
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_OBcePfdyXQ",
         "picture": "https://i.ytimg.com/vi/_OBcePfdyXQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【The Forest】ふーたんとキャンプだ！#2 Camping amongst Carnivores w/ Flare"
     },
     {
@@ -343,45 +332,78 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6tHNVN6B6Dk",
         "picture": "https://i.ytimg.com/vi/6tHNVN6B6Dk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】ネタバレあり ハンコンで遊ぶゴールド免許オウガ【荒咬オウガ /ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OAyPkdMPlww",
         "picture": "https://i.ytimg.com/vi/OAyPkdMPlww/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【漢字でGO! 集英社マンガ祭】偏りがすごい自信があるけど、勘もいい自信があります【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hwWCMbf5fzM",
         "picture": "https://i.ytimg.com/vi/hwWCMbf5fzM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ノロイカゴ ゲゲゲの夜】みんなが安心して暮らせる世界へ。   / アステル 奏手イヅル 律可 影山シエン"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jq-WaP1NvMM",
         "picture": "https://i.ytimg.com/vi/jq-WaP1NvMM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738065600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fast Food Simulator】ハンバーガー屋🍔の僻地！！！！ポルーナルドへようこそ！！！！ #ポルカ公演中 【尾丸ポルカ視点/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7HugG-j93BM",
+        "picture": "https://i.ytimg.com/vi/7HugG-j93BM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738112400,
+        "title": "≪NEW COVER PRE-RELEASE≫ we did a thing w/ @NinomaeInanis"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FwGyOuan0Xw",
+        "picture": "https://i.ytimg.com/vi/FwGyOuan0Xw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738152000,
+        "title": "【MiSide】How Many More Mitas Will We Encounter? 【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=nRsXCjjtUFI",
+        "picture": "https://i.ytimg.com/vi/nRsXCjjtUFI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ノロイカゴ ゲゲゲの夜】おい鬼太郎！！4人でマルチするぞ鬼太郎！！【影山シエン/律可/奏手イヅル/アステルレダ】"
     }
 ]
