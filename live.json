@@ -44,17 +44,6 @@
         "title": "【GYM SIMULATOR 24】let\u0026#39;s get physical and feel the burn 🐾【FUWAMOCO】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ylPFgwiB5p4",
-        "picture": "https://i.ytimg.com/vi/ylPFgwiB5p4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロマリパジャンボリー  】マリオでバチバチジャンボリいいいいいいいい【ホロライブ /ロボ子さん 】"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -154,17 +143,6 @@
         "title": "【The Forest】ふーたんとキャンプだ！#2 Camping amongst Carnivores w/ Flare"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oWJDh7rIKPs",
-        "picture": "https://i.ytimg.com/vi/oWJDh7rIKPs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MINECRAFT - SOLO】DESIGNING AND PLANNING WHAT TO BUILD【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": true,
@@ -222,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=m_WB0UX47bU",
         "picture": "https://i.ytimg.com/vi/m_WB0UX47bU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738080000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Tokyo Extreme Racer】Ngeng【Moona Hoshinova】"
     },
     {
@@ -240,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738152000,
         "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #3【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LJnkBMDdWIs",
+        "picture": "https://i.ytimg.com/vi/LJnkBMDdWIs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738137600,
+        "title": "【鬼難度】宇宙飛行士テストに挑戦！！！？90分でクリアすべし🔥【ホロライブ/赤井はあと】"
     }
 ]
