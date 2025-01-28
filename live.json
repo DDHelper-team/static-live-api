@@ -211,24 +211,24 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yeouBPLsXHk",
         "picture": "https://i.ytimg.com/vi/yeouBPLsXHk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738058400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Project Zomboid】*rips every single zombies clothes*"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wATqcMpd9bQ",
         "picture": "https://i.ytimg.com/vi/wATqcMpd9bQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738058400,
-        "title": "わんおぺ【 星街すいせい / ホロライブ 】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Fast Food Simulator 】自分、ワンオペですが対抗馬行けます。編【 星街すいせい / ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=178RP4jc8sI",
         "picture": "https://i.ytimg.com/vi/178RP4jc8sI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738058400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ELDEN RING DLC】#03 どんどん先へゆく＾＾！！初見エルデンリング！！！【天音かなた/ホロライブ】"
     },
     {
@@ -288,12 +288,34 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6SLfruQ1WUw",
         "picture": "https://i.ytimg.com/vi/6SLfruQ1WUw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738058400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケカ新弾開封】バトルパートナーズ12BOX(1カートン)開封！リーリエこいいいい！！！【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Gt2l95Vpw8k",
+        "picture": "https://i.ytimg.com/vi/Gt2l95Vpw8k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738065600,
+        "title": "#02 【 The Forest  】 #フレアイリス でキャンプ！るんるん❤【不知火フレア/IRyS/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=QMjM1bqdnwI",
+        "picture": "https://i.ytimg.com/vi/QMjM1bqdnwI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 呪われたデジカメ 】ふふふたりならここここわくねえええしｨ…？！【 桃鈴ねね / hololive 】"
     }
 ]
