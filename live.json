@@ -57,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=03q7LxmQ7Gw",
-        "picture": "https://i.ytimg.com/vi/03q7LxmQ7Gw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oMD6KEKIxVg",
+        "picture": "https://i.ytimg.com/vi/oMD6KEKIxVg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ドラクエ3リメイク  】オーブ１つでもほしいんだ！俺は！ #6 【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738152000,
+        "title": "【歌枠 / Singing】初見さん20人耐久歌枠！！！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -88,17 +88,6 @@
         "title": "【KU100/ASMR】両側からはむっ♡両耳ゼロ距離囁き＆あまあま吐息が脳に響く♡睡眠導入耳責めASMR♡【 #かりめあ 】EarCleaning,Whispering,RelaxSleeping"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ujJPt4LIbPc",
-        "picture": "https://i.ytimg.com/vi/ujJPt4LIbPc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ポルーナ 】某M店にアルバイトに行ってみるのら！！！Fast Food Simulator【姫森ルーナ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -119,17 +108,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738090800,
         "title": "【DOOM】all my doomposting lead me to this #kfp #キアライブ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QefW6SMNIPw",
-        "picture": "https://i.ytimg.com/vi/QefW6SMNIPw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Tokyo Xtreme Racer】DEJA VU!!!!!! NGEEEENG【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -209,17 +187,6 @@
         "title": "真·三國無雙 起源｜要找集團加入了嗎？情歸何處？【Healing希靈/VTuber】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6tHNVN6B6Dk",
-        "picture": "https://i.ytimg.com/vi/6tHNVN6B6Dk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【首都高バトル】ネタバレあり ハンコンで遊ぶゴールド免許オウガ【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": true,
@@ -229,17 +196,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【漢字でGO! 集英社マンガ祭】偏りがすごい自信があるけど、勘もいい自信があります【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jq-WaP1NvMM",
-        "picture": "https://i.ytimg.com/vi/jq-WaP1NvMM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fast Food Simulator】ハンバーガー屋🍔の僻地！！！！ポルーナルドへようこそ！！！！ #ポルカ公演中 【尾丸ポルカ視点/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -284,5 +240,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738153800,
         "title": "P.I. をやる【 奏手イヅル / #ホロスターズホラゲリレー 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=m_WB0UX47bU",
+        "picture": "https://i.ytimg.com/vi/m_WB0UX47bU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738080000,
+        "title": "【Tokyo Extreme Racer】Ngeng【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LUeCC9PwbeM",
+        "picture": "https://i.ytimg.com/vi/LUeCC9PwbeM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738152000,
+        "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #3【 領国つかさ / すぺしゃりて 】"
     }
 ]
