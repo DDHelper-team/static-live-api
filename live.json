@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DVjxCECKzHs",
         "picture": "https://i.ytimg.com/vi/DVjxCECKzHs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738051200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Cursed Digicam | 呪われたデジカメ】恐ろしいなぁ【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -251,5 +251,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738065600,
         "title": "【ノロイカゴ ゲゲゲの夜】4人でやるゲゲゲ【律可/奏手イヅル/アステル・レダ/影山シエン/ホロスターズ 】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=178RP4jc8sI",
+        "picture": "https://i.ytimg.com/vi/178RP4jc8sI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738058400,
+        "title": "【ELDEN RING DLC】#03 どんどん先へゆく＾＾！！初見エルデンリング！！！【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BLO76tTbisc",
+        "picture": "https://i.ytimg.com/vi/BLO76tTbisc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738069200,
+        "title": "【MemberOnly／メン限】寝る前に！ゆるゆるおしゃべりしたいなあ🐹💖🐮【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DTf3As6HGT4",
+        "picture": "https://i.ytimg.com/vi/DTf3As6HGT4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738065600,
+        "title": "【オフコラボ】誰もいないマリンハウスに潜入！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
