@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bG1udsLQddw",
         "picture": "https://i.ytimg.com/vi/bG1udsLQddw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738036800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】1月がもう少しで終わるらしいぞ【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mLLV7p3qMOo",
         "picture": "https://i.ytimg.com/vi/mLLV7p3qMOo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738036800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#64 | 完全初見！ナタのピンチを救うには…🔥【緋月ゆい/ネオポルテ】"
     },
     {
@@ -196,5 +196,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738090800,
         "title": "【DOOM】all my doomposting lead me to this #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QefW6SMNIPw",
+        "picture": "https://i.ytimg.com/vi/QefW6SMNIPw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738069200,
+        "title": "【Tokyo Xtreme Racer】DEJA VU!!!!!! NGEEEENG【 iofi / hololiveID 】"
     }
 ]
