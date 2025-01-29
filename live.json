@@ -106,7 +106,7 @@
         "picture": "https://i.ytimg.com/vi/CF5Z9MwoRoM/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1738159200,
+        "timestamp": 1738220400,
         "title": "【首都高バトル】曲がってえええええええええええええええええええええ【#ホロライブ #ロボ子さん 】"
     },
     {
@@ -273,5 +273,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ノロイカゴ ゲゲゲの夜】妖怪が徘徊する呪いの領域にソロで挑め！！！【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=qP1AH-Xarqw",
+        "picture": "https://i.ytimg.com/vi/qP1AH-Xarqw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【あつまれどうぶつの森】新たに始まるあつ森ライフ #02【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=3X2mSprFIR0",
+        "picture": "https://i.ytimg.com/vi/3X2mSprFIR0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 構ってください 】ちょっと雑談【 桃鈴ねね / hololive 】"
     }
 ]
