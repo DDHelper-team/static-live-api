@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uuGn8Vfefqo",
         "picture": "https://i.ytimg.com/vi/uuGn8Vfefqo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738116900,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GYM SIMULATOR 24】let\u0026#39;s get physical and feel the burn 🐾【FUWAMOCO】"
     },
     {
@@ -185,5 +185,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738152000,
         "title": "【＃ホロライブ正解は一年後】１年後に答えが分かります！！！【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jTfHKJM5SdM",
+        "picture": "https://i.ytimg.com/vi/jTfHKJM5SdM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738123200,
+        "title": "【Superchat Catchup】REEEEEEEEEEEEEEEEEEad"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q6SFhUVRLK0",
+        "picture": "https://i.ytimg.com/vi/Q6SFhUVRLK0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738141200,
+        "title": "【首都高バトル】車の申し子の兄をもつ妹の運転を見よ【白銀ノエル/ホロライブ】"
     }
 ]
