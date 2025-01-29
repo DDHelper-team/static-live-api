@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8a3d-nsjdec",
         "picture": "https://i.ytimg.com/vi/8a3d-nsjdec/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738144800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】人生初のハンコンGET！！180で爆走するぞおおお！！！【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
@@ -187,25 +187,14 @@
         "title": "【ノロイカゴ ゲゲゲの夜】??????????????????????【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=V7v0yHOemBc",
-        "picture": "https://i.ytimg.com/vi/V7v0yHOemBc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals】Let\u0026#39;s Go Level Up !!!【Ayunda Risu】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4ViNCbtyW_E",
         "picture": "https://i.ytimg.com/vi/4ViNCbtyW_E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738144800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドンキーコング トロピカルフリーズ 】クリア耐久🍌三🍌三🍌三【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -222,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xgjFQJrDj40",
         "picture": "https://i.ytimg.com/vi/xgjFQJrDj40/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738144800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Thief Simulator 2】森のリゾートで大泥棒フィナーレ！！！。怪盗F【ホロライブ/白上フブキ】"
     },
     {
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738148400,
         "title": "#3【 あつまれどうぶつの森 】施設が増えた【律可/ホロスターズ 】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=RCB09XpzKQ4",
+        "picture": "https://i.ytimg.com/vi/RCB09XpzKQ4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【マリカ】もう無理・・マリカしよ・・ブオォォォン！！"
     }
 ]
