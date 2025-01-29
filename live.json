@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NpYTz9-nkmQ",
         "picture": "https://i.ytimg.com/vi/NpYTz9-nkmQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738155600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】ポテチと紅茶と愛で育つ角巻わためです！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -157,12 +157,12 @@
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=ibkrhHf8ooc",
-        "picture": "https://i.ytimg.com/vi/ibkrhHf8ooc/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=d5yLwLQEVyI",
+        "picture": "https://i.ytimg.com/vi/d5yLwLQEVyI/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【ノロイカゴ ゲゲゲの夜】??????????????????????【 iofi / hololiveID 】"
+        "title": "【 BALATRO 】Airani twopair fifteen【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -201,12 +201,12 @@
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=dKAufiAnsN0",
-        "picture": "https://i.ytimg.com/vi/dKAufiAnsN0/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738155600,
-        "title": "【メンバー限定】今日はのんびりお話しよう～【 雪花ラミィ /ホロライブ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eDcEgDwlKKo",
         "picture": "https://i.ytimg.com/vi/eDcEgDwlKKo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738155600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】ReGLOSSの運転担当の僕とドライブデート…するよね？？？？？？？？？？？【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738159208,
         "title": "【首都高バトル】ぶっ飛ばすぜベイベー！！！【緋月ゆい/ネオポルテ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=rhGwEnyhMsY",
+        "picture": "https://i.ytimg.com/vi/rhGwEnyhMsY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ノロイカゴ ゲゲゲの夜】妖怪が徘徊する呪いの領域にソロで挑め！！！【ホロライブ/白上フブキ】"
     }
 ]
