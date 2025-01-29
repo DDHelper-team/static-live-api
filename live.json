@@ -79,11 +79,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=68gG5ZJpnJQ",
         "picture": "https://i.ytimg.com/vi/68gG5ZJpnJQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Fast Food Simulator】バーガー庶民にNEWメンバーが……！？🍔🍔  【天音かなた/ホロライブ】"
     },
@@ -110,17 +110,6 @@
         "title": "【首都高バトル】曲がってえええええええええええええええええええええ【#ホロライブ #ロボ子さん 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gAc5YcoaI8o",
-        "picture": "https://i.ytimg.com/vi/gAc5YcoaI8o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【＃ホロライブ正解は一年後】１年後に答えが分かります！！！【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン/尾丸ポルカ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": true,
@@ -134,24 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=0MeP9huAU74",
         "picture": "https://i.ytimg.com/vi/0MeP9huAU74/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【ころね支店】バーガー庶民に新人アルバイトきたああああ！！！🍔 【Fast Food Simulator】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rO01lxQ0B58",
-        "picture": "https://i.ytimg.com/vi/rO01lxQ0B58/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Fast Food Simulator】新人アルバイト初出勤 #バーガー庶民【ホロライブ / AZKi / 戌神ころね / 天音かなた】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
