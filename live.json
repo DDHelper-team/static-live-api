@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZunoqvjsyKQ",
         "picture": "https://i.ytimg.com/vi/ZunoqvjsyKQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738134000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#夏色まつり150万人耐久】150万人まで歌うぞおおおおおおおおおおお！！！Day2【ホロライブ/夏色まつり】"
     },
     {
@@ -229,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738152000,
         "title": "【ノロイカゴ ゲゲゲの夜】??????????????????????【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V7v0yHOemBc",
+        "picture": "https://i.ytimg.com/vi/V7v0yHOemBc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738137600,
+        "title": "【Marvel Rivals】Let\u0026#39;s Go Level Up !!!【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4ViNCbtyW_E",
+        "picture": "https://i.ytimg.com/vi/4ViNCbtyW_E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738144800,
+        "title": "【 ドンキーコング トロピカルフリーズ 】クリア耐久🍌三🍌三🍌三【 猫又おかゆ/ホロライブ 】"
     }
 ]
