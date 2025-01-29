@@ -13,11 +13,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=I2j3jVnlWI4",
         "picture": "https://i.ytimg.com/vi/I2j3jVnlWI4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【龍が如く6 命の詩。】初見で挑む『龍が如く6 命の詩。』　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
@@ -53,17 +53,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【MiSide】How Many More Mitas Will We Encounter? 【hololive ID 2nd Generation | Anya Melfissa】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y5eK2b0vHRs",
-        "picture": "https://i.ytimg.com/vi/y5eK2b0vHRs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "P.I. をやる【 奏手イヅル / #ホロスターズホラゲリレー 】"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
