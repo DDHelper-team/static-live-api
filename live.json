@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y5eK2b0vHRs",
         "picture": "https://i.ytimg.com/vi/y5eK2b0vHRs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738153800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "P.I. をやる【 奏手イヅル / #ホロスターズホラゲリレー 】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_g19GXN7rM8",
         "picture": "https://i.ytimg.com/vi/_g19GXN7rM8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738153800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】tidying up and closing the forge. til next time! 👋【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -284,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738162800,
         "title": "【Big Brain Academy: Brain vs Brain】🧠...... (no thoughts)"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SB2P7l-9Kr0",
+        "picture": "https://i.ytimg.com/vi/SB2P7l-9Kr0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738159246,
+        "title": "【歌枠】チルしよう【轟はじめ/ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gOVmxI5CEUI",
+        "picture": "https://i.ytimg.com/vi/gOVmxI5CEUI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738159208,
+        "title": "【首都高バトル】ぶっ飛ばすぜベイベー！！！【緋月ゆい/ネオポルテ】※ネタバレあり"
     }
 ]
