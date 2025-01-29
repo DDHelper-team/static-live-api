@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7HugG-j93BM",
         "picture": "https://i.ytimg.com/vi/7HugG-j93BM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738112400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪NEW COVER PRE-RELEASE≫ we did a thing w/ @NinomaeInanis"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
         "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NhmiChHf56Q",
         "picture": "https://i.ytimg.com/vi/NhmiChHf56Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738112400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Tokyo Xtreme Racer 】I Believe in Stutututu Supremacy"
     },
     {
@@ -185,5 +185,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738159200,
         "title": "【首都高バトル】曲がってえええええええええええええええええええええ【#ホロライブ #ロボ子さん 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gAc5YcoaI8o",
+        "picture": "https://i.ytimg.com/vi/gAc5YcoaI8o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738152000,
+        "title": "【＃ホロライブ正解は一年後】１年後に答えが分かります！！！【ホロライブ/兎田ぺこら/不知火フレア/白銀ノエル/宝鐘マリン】"
     }
 ]
