@@ -244,23 +244,23 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SB2P7l-9Kr0",
         "picture": "https://i.ytimg.com/vi/SB2P7l-9Kr0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738159246,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】チルしよう【轟はじめ/ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gOVmxI5CEUI",
         "picture": "https://i.ytimg.com/vi/gOVmxI5CEUI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738159208,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】ぶっ飛ばすぜベイベー！！！【緋月ゆい/ネオポルテ】※ネタバレあり"
     },
     {
