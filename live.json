@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oMD6KEKIxVg",
-        "picture": "https://i.ytimg.com/vi/oMD6KEKIxVg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hIswnW148gI",
+        "picture": "https://i.ytimg.com/vi/hIswnW148gI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠 / Singing】初見さん20人耐久歌枠！！！！【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738242000,
+        "title": "【 #首都高バトル  】車は好きだけどカートゲームは苦手な僕が首都高を攻めます！！！ 【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jmfjzd158Lc",
         "picture": "https://i.ytimg.com/vi/jmfjzd158Lc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738162800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Big Brain Academy: Brain vs Brain】🧠...... (no thoughts)"
     },
     {
