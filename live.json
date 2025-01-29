@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LJnkBMDdWIs",
         "picture": "https://i.ytimg.com/vi/LJnkBMDdWIs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738137600,
-        "title": "【鬼難度】宇宙飛行士テストに挑戦！！！？90分でクリアすべし🔥【ホロライブ/赤井はあと】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 挑戦 】宇　宙　飛　行　士　テ　ス　ト  ✍【するぞおおお！！！！？】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=V7v0yHOemBc",
         "picture": "https://i.ytimg.com/vi/V7v0yHOemBc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738137600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Marvel Rivals】Let\u0026#39;s Go Level Up !!!【Ayunda Risu】"
     },
     {
