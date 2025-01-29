@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gEabX5QX69g",
         "picture": "https://i.ytimg.com/vi/gEabX5QX69g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738126800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドラゴンボールZ ドッカンバトル】ネタバレあり ドッカンバトル10周年おめでとうございます【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738144800,
         "title": "【首都高バトル】人生初のハンコンGET！！180で爆走するぞおおお！！！【博衣こより/ホロライブ】【ネタバレあり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0MeP9huAU74",
+        "picture": "https://i.ytimg.com/vi/0MeP9huAU74/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738148400,
+        "title": "【ころね支店】バーガー庶民に新人アルバイトきたああああ！！！🍔 【Fast Food Simulator】"
     }
 ]
