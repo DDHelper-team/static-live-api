@@ -198,17 +198,6 @@
         "title": "【Big Brain Academy: Brain vs Brain】🧠...... (no thoughts)"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SB2P7l-9Kr0",
-        "picture": "https://i.ytimg.com/vi/SB2P7l-9Kr0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】チルしよう【轟はじめ/ReGLOSS】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -242,17 +231,6 @@
         "title": "【あつまれどうぶつの森】新たに始まるあつ森ライフ #02【影山シエン/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=3X2mSprFIR0",
-        "picture": "https://i.ytimg.com/vi/3X2mSprFIR0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 構ってください 】ちょっと雑談【 桃鈴ねね / hololive 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": false,
@@ -262,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738209600,
         "title": "【Terraria - ゆかそ】久しぶりの我々のテラリア【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=drzWrI8PrE8",
+        "picture": "https://i.ytimg.com/vi/drzWrI8PrE8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738234800,
+        "title": "【 OCCULT 】この3人ならきっと笑顔で逃げ切れるって話【アルランディス/ホロスターズ】"
     }
 ]
