@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zX0vbqAxqq8",
         "picture": "https://i.ytimg.com/vi/zX0vbqAxqq8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738360800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Glyphica: Typing Survival】 Type, Clickity Clackity, Survive"
     },
     {
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738414800,
         "title": "【 新アクセお披露目 】アクセ見て欲しいし、動画も見て欲しい！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xEsz-M4J3bE",
+        "picture": "https://i.ytimg.com/vi/xEsz-M4J3bE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738393200,
+        "title": "【FUWAMOCO BIRTHDAY COUNTDOWN】moments before our big BAU BAU day 🐾 #FWMCbday25"
     }
 ]
