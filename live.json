@@ -231,17 +231,6 @@
         "title": "【首都高バトル】AZKiと首都高ドライブしよ？飛ばすよ？【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KNlZwA8VeqE",
-        "picture": "https://i.ytimg.com/vi/KNlZwA8VeqE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 P.I. 】身バレしたら死？！やってみる！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -317,5 +306,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #桃鈴ねね新衣装 】いろんなパターンありますゆえゆっくりしていってね！！！【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Gurv8Ui_Fcs",
+        "picture": "https://i.ytimg.com/vi/Gurv8Ui_Fcs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738328400,
+        "title": "【MemberOnly/Fall Guys】リスナー参加型で「Fall Guys」で遊ぶぞ！【不知火フレア/ホロライブ】"
     }
 ]
