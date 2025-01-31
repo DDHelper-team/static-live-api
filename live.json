@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7XMbroLVeRA",
         "picture": "https://i.ytimg.com/vi/7XMbroLVeRA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738339200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Tales of Arise】To The End of the DLC!!!! No more eepy!!!  #kfp #キアライブ"
     },
     {
@@ -189,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=VN1Fw-FOc1w",
-        "picture": "https://i.ytimg.com/vi/VN1Fw-FOc1w/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Byg2M132uks",
+        "picture": "https://i.ytimg.com/vi/Byg2M132uks/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【首都高バトル】ぶんぶんぶーん！北見の新生児！期待のニュージェネレーション※ネタバレあり【轟はじめ/ReGLOSS】 #hololivedev_is"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738414800,
+        "title": "【キミガシネ】完全初見！デスゲームの途中から！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
