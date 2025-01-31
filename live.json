@@ -99,17 +99,6 @@
         "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：橘ひなの様～【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1RzS_Yj5rz0",
-        "picture": "https://i.ytimg.com/vi/1RzS_Yj5rz0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【年賀状(相関図？)2025】まだギリギリセーフ...？！ホロメン(JP)に年賀状だ～！！！【白銀ノエル/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Zgw4-_z5wwU",
         "picture": "https://i.ytimg.com/vi/Zgw4-_z5wwU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738326600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】カラオケJOYSOUND for STREAMERを試してみましょう👉【獅子神レオナ/Re:AcT】"
     },
     {
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738332035,
         "title": "【原神】#65 | 完全初見！海灯祭イベント行ってみたい🏮【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JuiKJRKk0ME",
+        "picture": "https://i.ytimg.com/vi/JuiKJRKk0ME/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738329300,
+        "title": "【I dont Fall】just one big zenloss to end the stream 🤞【Kaela Kovalskia / hololiveID】"
     }
 ]
