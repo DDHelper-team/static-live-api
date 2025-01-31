@@ -222,12 +222,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dfZtRMsQru0",
         "picture": "https://i.ytimg.com/vi/dfZtRMsQru0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738305000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 首都高バトル 】昼間？知らん！走るぜ！！！！！！！！！【ホロライブ/雪花ラミィ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4cDY7wnPhgc",
+        "picture": "https://i.ytimg.com/vi/4cDY7wnPhgc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738321200,
+        "title": "【IDOL MANAGER】NO BANKRUPT, YES IDOLS【Kureiji Ollie】"
     }
 ]
