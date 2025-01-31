@@ -198,17 +198,6 @@
         "title": "【キミガシネ】完全初見！デスゲームの途中から！！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=97-4eXFIw_M",
-        "picture": "https://i.ytimg.com/vi/97-4eXFIw_M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【KU100/ASMR】熱々吐息としっとり耳はむで体温上昇♡汗だくになるほど温まる寝落ち推奨睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": true,
@@ -240,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738371600,
         "title": "I\u0026#39;m home~ | Yappa Yappa"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mlKqehS1ebI",
+        "picture": "https://i.ytimg.com/vi/mlKqehS1ebI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738404000,
+        "title": "【P.I.】住所を特定されないようにライブ配信をするゲーム【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5-33ZrUUMPw",
+        "picture": "https://i.ytimg.com/vi/5-33ZrUUMPw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738382400,
+        "title": "【 ゼノブレイド 】完全初見で参る参る～～ #06【 猫又おかゆ/ホロライブ 】"
     }
 ]
