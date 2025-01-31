@@ -99,17 +99,6 @@
         "title": "【対談コラボ】#ディスコードショッキング ～今月のゲスト：橘ひなの様～【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Gp0W4Frr4_k",
-        "picture": "https://i.ytimg.com/vi/Gp0W4Frr4_k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】REJECT FIGHT NIGHT Round5 OFFLINE（RFN5） のミラー配信！【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": true,
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738328400,
         "title": "【MemberOnly/Fall Guys】リスナー参加型で「Fall Guys」で遊ぶぞ！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iLfxNZns_PM",
+        "picture": "https://i.ytimg.com/vi/iLfxNZns_PM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738324800,
+        "title": "【歌枠】のんびり歌枠！- ハニカムステーション！-166【HACHI 】"
     }
 ]
