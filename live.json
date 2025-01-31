@@ -88,17 +88,6 @@
         "title": "【Doom 2016】sup demons it\u0026#39;s your boy (again) #calliolive"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tAobgMifWgY",
-        "picture": "https://i.ytimg.com/vi/tAobgMifWgY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 角巻わため 2nd Live「わためぇ Night Fever!! in TOKYO GARDEN THEATER」 】１周年記念！Blu-ray同時視聴しよう！【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": true,
@@ -251,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738382400,
         "title": "【Poppy Playtime: Chapter 4】I don\u0026#39;t like playing with Yarn"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wFLqcyiBWq8",
+        "picture": "https://i.ytimg.com/vi/wFLqcyiBWq8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738404000,
+        "title": "ポーカー実力の鷹嶺と運だけのラプラス【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】"
     }
 ]
