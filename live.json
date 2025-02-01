@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5-33ZrUUMPw",
         "picture": "https://i.ytimg.com/vi/5-33ZrUUMPw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738382400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ゼノブレイド 】完全初見で参る参る～～ #06【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=e5Avtn5w5iQ",
         "picture": "https://i.ytimg.com/vi/e5Avtn5w5iQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738382400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Poppy Playtime: Chapter 4】I don\u0026#39;t like playing with Yarn"
     },
     {
@@ -277,12 +277,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pE4ZgUKoIh0",
         "picture": "https://i.ytimg.com/vi/pE4ZgUKoIh0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738382400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ネタバレあり】FINAL FANTASY Ⅵ～多分今日で最終回～【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dNKNtKgSPz8",
+        "picture": "https://i.ytimg.com/vi/dNKNtKgSPz8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738386000,
+        "title": "【龍が如く0 誓いの場所】#06｜第十二章「欲望の巣窟」～桐生ちゃん＆真島の兄さんでブチかましていくぞッ！！※配信内容にネタバレを含みます【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=k5HM4m2Blkc",
+        "picture": "https://i.ytimg.com/vi/k5HM4m2Blkc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738409400,
+        "title": "【逆凸】ぺこマリのアポ無し逆凸耐久！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eq8FfFPBi0o",
+        "picture": "https://i.ytimg.com/vi/eq8FfFPBi0o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738400400,
+        "title": "【Honor of Kings】GRANDMASTER WHEN?【 iofi / hololiveID 】"
     }
 ]
