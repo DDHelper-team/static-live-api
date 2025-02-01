@@ -101,22 +101,22 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jCJVTVoRYZ0",
-        "picture": "https://i.ytimg.com/vi/jCJVTVoRYZ0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oAfQCU_z_Rs",
+        "picture": "https://i.ytimg.com/vi/oAfQCU_z_Rs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ＃エムホールデム 】いよいよ本戦！！にじさんじ×ぶいすぽっ!×ホロライブの中で優勝者はでるのか⁉【鷹嶺ルイ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738418400,
+        "title": "【 poppy playtime 4 】遂にリリース…この化け物はなに⁉命がけの追いかけっこがまた始まる。【鷹嶺ルイ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=wFLqcyiBWq8",
         "picture": "https://i.ytimg.com/vi/wFLqcyiBWq8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "ポーカー実力の鷹嶺と運だけのラプラス【ラプラス・ダークネス/鷹嶺ルイ/ホロライブ】"
     },
@@ -196,17 +196,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Fast Food Simulator】仲間が増えました!?🍔【緋月ゆい/ネオポルテ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NlktYjXZWUE",
-        "picture": "https://i.ytimg.com/vi/NlktYjXZWUE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【５】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
