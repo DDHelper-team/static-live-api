@@ -209,28 +209,6 @@
         "title": "【５】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bFgIWeR5N5s",
-        "picture": "https://i.ytimg.com/vi/bFgIWeR5N5s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ホロスタボドゲ部】まだ見ぬボドゲを開拓しよう！【岸堂天真/花咲みやび/奏手イヅル/羽継烏有/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=AO9vvWmU6jY",
-        "picture": "https://i.ytimg.com/vi/AO9vvWmU6jY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1738415400,
-        "title": "【メン限】月イチみんなとまったり雑談！2月ここだけの話！※枠取り直し【ホロライブ / AZKi】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": false,
@@ -306,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738472400,
         "title": "【Raft】第3回2月に入ってもチルチルしたい者たちの集まり【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=S5yPuqq2PLA",
+        "picture": "https://i.ytimg.com/vi/S5yPuqq2PLA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738501200,
+        "title": "【PUBG MOBILE】PUBG MOBILEとコラボ！？まつりボイスでいざドン勝へ！【ホロライブ/夏色まつり】"
     }
 ]
