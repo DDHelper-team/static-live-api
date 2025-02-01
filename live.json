@@ -255,24 +255,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QpQ4BDcf3Ac",
-        "picture": "https://i.ytimg.com/vi/QpQ4BDcf3Ac/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zmKiKTJm-Yc",
+        "picture": "https://i.ytimg.com/vi/zmKiKTJm-Yc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談/FreeTalk】今年は外にめちゃくちゃ出てる【ホロライブ/アキ・ローゼンタール】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=6pnmP5kcOi8",
-        "picture": "https://i.ytimg.com/vi/6pnmP5kcOi8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【While We Wait Here】会話の選択で結末が変わるー。世界が終わる日までレストランを経営するホラーゲーム【ホロライブ/癒月ちょこ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738486800,
+        "title": "【リアル凸待ち！】節分だ！太巻きだ！オフコラボだ！【ホロライブ/アキ・ローゼンタール】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
