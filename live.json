@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_o_mtN68KEg",
         "picture": "https://i.ytimg.com/vi/_o_mtN68KEg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738398600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【チラ見せ】Hoshimachi Suisei 日本武道館 Live \u0026quot;SuperNova\u0026quot;"
     },
     {
@@ -255,13 +255,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fdpaKbk07Sw",
-        "picture": "https://i.ytimg.com/vi/fdpaKbk07Sw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=XYztoXM9Xiw",
+        "picture": "https://i.ytimg.com/vi/XYztoXM9Xiw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【首都高バトル】隙は見せるな食われちゃうぞぉおおおお！！！※ストーリーネタバレあり【ホロライブ/白上フブキ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738399500,
+        "title": "【同時視聴】Hoshimachi Suisei 日本武道館 Live \u0026quot;SuperNova\u0026quot;　輝くすいを応援する！【#かけめぐるほしまち】"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
