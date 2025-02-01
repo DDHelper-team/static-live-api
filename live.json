@@ -132,17 +132,6 @@
         "title": "【3D LIVE CONCERT 生誕ライブ】FUWAMOCO birthday party night 🎂🐾 【#FWMCbday25】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aCqVKSkzShM",
-        "picture": "https://i.ytimg.com/vi/aCqVKSkzShM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 モンハンダブルクロス 】世界はモンハンへの熱を高めつつあるのら～～！！！MHXX【姫森ルーナ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -306,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738458000,
         "title": "≪Glyphica: Typing Survival≫ warming up them fingies"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_RJFC806-Mw",
+        "picture": "https://i.ytimg.com/vi/_RJFC806-Mw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738450800,
+        "title": "【朝活】お仕事前にちょっとだけ【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
