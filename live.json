@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4jKn8L8KxvE",
         "picture": "https://i.ytimg.com/vi/4jKn8L8KxvE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738499400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6 】 こねこねしな～～い！！！しませ～～ん！！！【ホロライブ /ロボ子さん 】"
     },
     {
@@ -134,24 +134,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ERSHp1HBasE",
         "picture": "https://i.ytimg.com/vi/ERSHp1HBasE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1738497600,
-        "title": "【朗報】恵方巻食べて告知【最高】【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OUHgcGhCqic",
-        "picture": "https://i.ytimg.com/vi/OUHgcGhCqic/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【首都高バトル】最 速 伝 説【獅白ぼたん/ホロライブ】"
+        "title": "【朗報】恵方巻食べて告知【最高】【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -196,17 +185,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【アフタートーク】日本武道館のステージに立ったぞ‼‼‼‼【ホロライブ / 星街すいせい】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5yfMmxNMLHo",
-        "picture": "https://i.ytimg.com/vi/5yfMmxNMLHo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【呪われたデジカメ】え、何が写るの？大丈夫そ？【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -350,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738501200,
         "title": "【Marvel Rivals】Let\u0026#39;s go play !!! with @KaelaKovalskia 【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Q2BdtEHzCCU",
+        "picture": "https://i.ytimg.com/vi/Q2BdtEHzCCU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738501200,
+        "title": "【Marvel Rivals】I BROUGHT THE REAL SQUIRREL GURL【hololiveID】"
     }
 ]
