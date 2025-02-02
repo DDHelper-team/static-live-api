@@ -132,17 +132,6 @@
         "title": "【Minecraft】新ホロ鯖前に現在のホロ鯖みにいこう！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TeaBJUhcGBc",
-        "picture": "https://i.ytimg.com/vi/TeaBJUhcGBc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ゼノブレイド 】完全初見で参る参る～～ #07【 猫又おかゆ/ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "islive": false,
@@ -306,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738501200,
         "title": "【失踪した友人の部屋に残されていたゲーム】モキュメンタリー臭のするホラーゲームだな！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=p3Un8KfMRcs",
+        "picture": "https://i.ytimg.com/vi/p3Un8KfMRcs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738576800,
+        "title": "【Fast Food Simulator】まっとうな飲食の経験ですか？ないです、ね【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q62YpF5ec7Q",
+        "picture": "https://i.ytimg.com/vi/q62YpF5ec7Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738504800,
+        "title": "配信予定～～～～～！！！こんばんはぁ～・・えへ【ホロライブ/紫咲シオン】"
     }
 ]
