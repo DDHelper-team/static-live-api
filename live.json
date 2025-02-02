@@ -132,17 +132,6 @@
         "title": "【 #朝ミオ 】月曜日だよ！２月だよ！おはみぉーん！"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ERSHp1HBasE",
-        "picture": "https://i.ytimg.com/vi/ERSHp1HBasE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【朗報】恵方巻食べて告知【最高】【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -211,11 +200,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=-0m317RcMQQ",
         "picture": "https://i.ytimg.com/vi/-0m317RcMQQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【ノロイカゴ ゲゲゲの夜】ソロを極める　難易度のむずかしいへの挑戦！！【ホロライブ/白上フブキ】"
     },
