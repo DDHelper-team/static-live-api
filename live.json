@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3OyCSkQ0ztQ",
         "picture": "https://i.ytimg.com/vi/3OyCSkQ0ztQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738486800,
-        "title": "【Minecraft】新ホロ鯖前に旧ホロ鯖みにいこう！【白銀ノエル/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】新ホロ鯖前に現在のホロ鯖みにいこう！【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -152,17 +152,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 ゼノブレイド 】完全初見で参る参る～～ #07【 猫又おかゆ/ホロライブ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dlRjTS3gfcw",
-        "picture": "https://i.ytimg.com/vi/dlRjTS3gfcw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【良いお知らせ】喋ります📣【風真いろは/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -178,23 +167,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=O4pVITaoVF4",
         "picture": "https://i.ytimg.com/vi/O4pVITaoVF4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738486800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【６】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zmKiKTJm-Yc",
         "picture": "https://i.ytimg.com/vi/zmKiKTJm-Yc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738486800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【リアル凸待ち！】節分だ！太巻きだ！オフコラボだ！【ホロライブ/アキ・ローゼンタール】"
     },
     {
@@ -321,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PDRWzV1i49U",
         "picture": "https://i.ytimg.com/vi/PDRWzV1i49U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738486800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【大神】#最終回 ついにエンディングまで走るぞ!!【花咲みやび/ホロスターズ】"
     },
     {
