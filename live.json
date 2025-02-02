@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_3TOryQEGzE",
         "picture": "https://i.ytimg.com/vi/_3TOryQEGzE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738483200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【VRChat - KOREAN CLASS】DAEGU DIALECT?! 대구 사투리 알려주세요!! w/ @GreatMoonAroma @제갈금자 【Kureiji Ollie】"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "channellink": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dlRjTS3gfcw",
         "picture": "https://i.ytimg.com/vi/dlRjTS3gfcw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738483200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【良いお知らせ】喋ります📣【風真いろは/ホロライブ】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738486800,
         "title": "【大神】#最終回 ついにエンディングまで走るぞ!!【花咲みやび/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-0m317RcMQQ",
+        "picture": "https://i.ytimg.com/vi/-0m317RcMQQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738501200,
+        "title": "【ノロイカゴ ゲゲゲの夜】ソロを極める　難易度のむずかしいへの挑戦！！【ホロライブ/白上フブキ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5Sn8UNKsa10",
+        "picture": "https://i.ytimg.com/vi/5Sn8UNKsa10/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738501200,
+        "title": "【失踪した友人の部屋に残されていたゲーム】モキュメンタリー臭のするホラーゲームだな！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
