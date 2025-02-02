@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ouQF2A1l_cI",
         "picture": "https://i.ytimg.com/vi/ouQF2A1l_cI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738465200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【3D LIVE CONCERT 生誕ライブ】FUWAMOCO birthday party night 🎂🐾 【#FWMCbday25】"
     },
     {
@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HxjDVnEWur8",
-        "picture": "https://i.ytimg.com/vi/HxjDVnEWur8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3OyCSkQ0ztQ",
+        "picture": "https://i.ytimg.com/vi/3OyCSkQ0ztQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【朝活雑談】おはまっするさんでー💪🌞💪今日は雑談＋プロフィールを書きたいの巻！【白銀ノエル/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738486800,
+        "title": "【Minecraft】新ホロ鯖前に旧ホロ鯖みにいこう！【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -220,17 +220,6 @@
         "title": "【リアル凸待ち！】節分だ！太巻きだ！オフコラボだ！【ホロライブ/アキ・ローゼンタール】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=zRK4XJh-u8Y",
-        "picture": "https://i.ytimg.com/vi/zRK4XJh-u8Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Glyphica: Typing Survival≫ warming up them fingies"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": false,
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=M_FyANFZHro",
         "picture": "https://i.ytimg.com/vi/M_FyANFZHro/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738465200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【昼の歌枠】昼なのでポジティブになれる系の歌多め【岸堂天真/ホロスターズ】"
     },
     {
