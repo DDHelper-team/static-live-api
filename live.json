@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HxjDVnEWur8",
         "picture": "https://i.ytimg.com/vi/HxjDVnEWur8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738458000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】おはまっするさんでー💪🌞💪今日は雑談＋プロフィールを書きたいの巻！【白銀ノエル/ホロライブ】"
     },
     {
@@ -222,24 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zRK4XJh-u8Y",
         "picture": "https://i.ytimg.com/vi/zRK4XJh-u8Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738458000,
-        "title": "≪Glyphica: Typing Survival≫ warming up them fingies"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_RJFC806-Mw",
-        "picture": "https://i.ytimg.com/vi/_RJFC806-Mw/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【朝活】お仕事前にちょっとだけ【火威青 】#hololiveDEV_IS #ReGLOSS"
+        "title": "≪Glyphica: Typing Survival≫ warming up them fingies"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
