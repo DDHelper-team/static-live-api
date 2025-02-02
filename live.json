@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KUydJqIgBXs",
         "picture": "https://i.ytimg.com/vi/KUydJqIgBXs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738472400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Raft】第3回2月に入ってもチルチルしたい者たちの集まり【アルランディス/ホロスターズ】"
     },
     {
@@ -231,17 +231,6 @@
         "title": "【朗報】恵方巻食べて告知【最高】【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=M_FyANFZHro",
-        "picture": "https://i.ytimg.com/vi/M_FyANFZHro/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【昼の歌枠】昼なのでポジティブになれる系の歌多め【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -266,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NR7zzAJlYN4",
         "picture": "https://i.ytimg.com/vi/NR7zzAJlYN4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738472400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 TrickShot Simulator 】雨が降るまで雨乞いをすれば、失敗するわけがないんです【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -306,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738512000,
         "title": "【GUERILLA STREAM】I got food poisoning【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5rd1fl-oGl0",
+        "picture": "https://i.ytimg.com/vi/5rd1fl-oGl0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738490400,
+        "title": "【アフタートーク】日本武道館のステージに立ったぞ‼‼‼‼【ホロライブ / 星街すいせい】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1GQlbYUZA00",
+        "picture": "https://i.ytimg.com/vi/1GQlbYUZA00/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738474200,
+        "title": "【ネタバレあり】首都高バトル～今日もかわいい車を作っていく。～【ホロライブ/ときのそら】"
     }
 ]
