@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
         "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=set_fCDhJgs",
         "picture": "https://i.ytimg.com/vi/set_fCDhJgs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738537200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Keep Talking and Nobody Explodes 】 The Vtuber to Bomb Diffuser Pipeline is Real"
     },
     {
