@@ -55,17 +55,6 @@
         "title": "【首都高バトル】なんか足元にあるバー踏めばいいことだけ知ってる！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=f4K54Fc-ghM",
-        "picture": "https://i.ytimg.com/vi/f4K54Fc-ghM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #こよすう 】初タイマンコラボ！こよすうはあるのか！？？？～マシュマロ＆相性診断～【博衣こより・水宮枢/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -149,7 +138,7 @@
         "link": "https://www.youtube.com/watch?v=ERSHp1HBasE",
         "picture": "https://i.ytimg.com/vi/ERSHp1HBasE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1738497600,
         "title": "【朗報】恵方巻食べて告知【最高】【 領国つかさ / すぺしゃりて 】"
     },
@@ -178,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=G-opUl6JG3Y",
         "picture": "https://i.ytimg.com/vi/G-opUl6JG3Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738497600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【アソビ大全】ぺこら軍 VS マリン軍！ガチンコ対決！ぺこ！【ホロライブ/兎田ぺこら/宝鐘マリン】"
     },
     {
@@ -200,11 +189,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=5rd1fl-oGl0",
         "picture": "https://i.ytimg.com/vi/5rd1fl-oGl0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【アフタートーク】日本武道館のステージに立ったぞ‼‼‼‼【ホロライブ / 星街すいせい】"
     },
@@ -233,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PDRWzV1i49U",
-        "picture": "https://i.ytimg.com/vi/PDRWzV1i49U/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UNvxqGIoWKY",
+        "picture": "https://i.ytimg.com/vi/UNvxqGIoWKY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【大神】#最終回 ついにエンディングまで走るぞ!!【花咲みやび/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738501200,
+        "title": "【P.I.】【花咲みやび/ホロスターズ】配信してたら住所特定されちゃった!!【#ホロスターズホラゲリレー】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=f_bw-ZTD2H0",
         "picture": "https://i.ytimg.com/vi/f_bw-ZTD2H0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738497600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】ネタバレあり ハンコンで遊ぶゴールド免許オウガ　#4【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -350,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738504800,
         "title": "#4【 あつまれどうぶつの森 】新しいやつらがくる【律可/ホロスターズ 】#りつすた"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=N_ncOe3yPEU",
+        "picture": "https://i.ytimg.com/vi/N_ncOe3yPEU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738501200,
+        "title": "【Marvel Rivals】Let\u0026#39;s go play !!! with @KaelaKovalskia 【Ayunda Risu】"
     }
 ]
