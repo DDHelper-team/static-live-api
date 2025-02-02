@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=O4pVITaoVF4",
-        "picture": "https://i.ytimg.com/vi/O4pVITaoVF4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zPf9MK-SZRk",
+        "picture": "https://i.ytimg.com/vi/zPf9MK-SZRk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【６】初代バイオハザードを初見でプレイ！【ホロライブ/大神ミオ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738535400,
+        "title": "【 #朝ミオ 】月曜日だよ！２月だよ！おはみぉーん！"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -299,12 +299,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "channellink": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=55boWU5nWys",
         "picture": "https://i.ytimg.com/vi/55boWU5nWys/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1738494000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【節分】みんなと一緒に恵方巻食べる！！！！！！【百鬼あやめ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=f_bw-ZTD2H0",
+        "picture": "https://i.ytimg.com/vi/f_bw-ZTD2H0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738497600,
+        "title": "【首都高バトル】ネタバレあり ハンコンで遊ぶゴールド免許オウガ　#4【荒咬オウガ /ホロスターズ】"
     }
 ]
