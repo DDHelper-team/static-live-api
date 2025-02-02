@@ -251,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738540800,
         "title": "【TOKYO XTREME RACER】Not a scratch."
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=xUD7yN6xKF0",
+        "picture": "https://i.ytimg.com/vi/xUD7yN6xKF0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Poppy Playtime: Chapter 4】POPPY PLAYTIME FOR FIRST STREAM IN 2025!!!"
     }
 ]
