@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=L9-32I-VEms",
         "picture": "https://i.ytimg.com/vi/L9-32I-VEms/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738512000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【GUERILLA STREAM】I got food poisoning【Dokibird】"
     },
     {
@@ -220,39 +220,6 @@
         "title": "#4【 あつまれどうぶつの森 】新しいやつらがくる【律可/ホロスターズ 】#りつすた"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=N_ncOe3yPEU",
-        "picture": "https://i.ytimg.com/vi/N_ncOe3yPEU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals】Let\u0026#39;s go play !!! with @KaelaKovalskia 【Ayunda Risu】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Q2BdtEHzCCU",
-        "picture": "https://i.ytimg.com/vi/Q2BdtEHzCCU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals】I BROUGHT THE REAL SQUIRREL GURL【hololiveID】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=m0gRhr_EhgE",
-        "picture": "https://i.ytimg.com/vi/m0gRhr_EhgE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Sudocats】ねこちゃんの数独！？趣味は数独のわたしがまったり遊ぶ【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -264,14 +231,25 @@
         "title": "【歌枠 / Singing】青春を取り戻せ！HoneyWorks限定歌枠！！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/@KoboKanaeru",
-        "channellink": "https://www.youtube.com/@KoboKanaeru",
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=xUD7yN6xKF0",
-        "picture": "https://i.ytimg.com/vi/xUD7yN6xKF0/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=z3aDCTcKWro",
+        "picture": "https://i.ytimg.com/vi/z3aDCTcKWro/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1738512000,
-        "title": "【Poppy Playtime: Chapter 4】POPPY PLAYTIME FOR FIRST STREAM IN 2025!!!"
+        "timestamp": 1738573200,
+        "title": "【Minecraft】0から始まる新ホロ鯖！早速上陸だあああ！！【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gJLgKAYxnl4",
+        "picture": "https://i.ytimg.com/vi/gJLgKAYxnl4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738540800,
+        "title": "【TOKYO XTREME RACER】Not a scratch."
     }
 ]
