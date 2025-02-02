@@ -113,12 +113,12 @@
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=4jKn8L8KxvE",
-        "picture": "https://i.ytimg.com/vi/4jKn8L8KxvE/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=q7qe-BhVCzM",
+        "picture": "https://i.ytimg.com/vi/q7qe-BhVCzM/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1738479600,
-        "title": "【スト6 】 こねこねしな～～い！！！しませ～～ん！！！【ホロライブ /ロボ子さん 】"
+        "timestamp": 1738490400,
+        "title": "【Member Only】ろぼちゃの日曜むーびー❣🎬映画『デイ・シフト』 同時視聴🍿"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -328,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738501200,
         "title": "【 Maid Cafe on Electric Street 】Welcome back, master【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=8sGTheD69tQ",
+        "picture": "https://i.ytimg.com/vi/8sGTheD69tQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Cookie Clicker】Silent Peafowl Radio - Cookies to Relax and Study to【Pavolia Reine/holoID 2ndgen】"
     }
 ]
