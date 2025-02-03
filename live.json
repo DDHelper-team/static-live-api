@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=69xwHZuIEWo",
         "picture": "https://i.ytimg.com/vi/69xwHZuIEWo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1738587600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Stardew Valley 】PART1：夜のまったり農業始動！🐣🐮【常闇トワ/ホロライブ】"
     },
     {
