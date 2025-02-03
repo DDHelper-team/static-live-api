@@ -187,17 +187,6 @@
         "title": "【蔥鴨拜年】來聊聊過年都去哪裡玩了呢~還有買了什麼，然後還要搜刮大家的紅包嘿嘿嘿"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gI-o54e3LIk",
-        "picture": "https://i.ytimg.com/vi/gI-o54e3LIk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PEJUANG SENIN】#93 wait- its February already!!!【Kaela\u0026#39;s Monday Warrior】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=rxA8DFawCz0",
         "picture": "https://i.ytimg.com/vi/rxA8DFawCz0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738549800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【M.M.M. / Monday Morning Malas】Good Morning !!【Ayunda Risu】"
     },
     {
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738634400,
         "title": "【Ender Magnolia】Starting Over | #1​"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2E2-Zpp_f9I",
+        "picture": "https://i.ytimg.com/vi/2E2-Zpp_f9I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738584000,
+        "title": "【アソビ大全】画力と引き換えにゲームセンスを失った女たち【火威青×しぐれうい】#hololiveDEV_IS #ReGLOSS"
     }
 ]
