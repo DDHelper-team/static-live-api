@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CSWpWmFqqpo",
         "picture": "https://i.ytimg.com/vi/CSWpWmFqqpo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738566000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【じゃんつの -Janken Horn-】３人で遊んでみるぞー！！！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ln8KMdYnagI",
         "picture": "https://i.ytimg.com/vi/Ln8KMdYnagI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738566000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【じゃんつの -Janken Horn-】バカタレでじゃんけんバトルするぞっ！✊✌✋【不知火フレア/バカタレ共/ホロライブ】"
     },
     {
@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738591200,
         "title": "【MINECRAFT - HOLOLIVE NEW SERVER】FIRST DIVE!! LET\u0026#39;S START BY TERRAFORMING!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CF5Z9MwoRoM",
+        "picture": "https://i.ytimg.com/vi/CF5Z9MwoRoM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738652400,
+        "title": "【首都高バトル】曲がってえええええええええええええええええええええ※ネタバレあり【#ホロライブ #ロボ子さん 】"
     }
 ]
