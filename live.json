@@ -79,24 +79,13 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dmWn3PqgORo",
         "picture": "https://i.ytimg.com/vi/dmWn3PqgORo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738548000,
-        "title": "【FUWAMOCO 3D BIRTHDAY LIVE AFTERPARTY】continuing the birthday fun behind the scenes 🐾 #FWMCbday25"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TY_FKkdJ9u4",
-        "picture": "https://i.ytimg.com/vi/TY_FKkdJ9u4/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【朝活】おはよう☀mgmg～Eat Time❣最近健康生活が止まりません【#ホロライブ #ロボ子さん 】"
+        "title": "【FUWAMOCO 3D BIRTHDAY LIVE AFTERPARTY】continuing the birthday fun behind the scenes 🐾 #FWMCbday25"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -220,17 +209,6 @@
         "title": "【 Minecraft 】新ホロ鯖上陸❗️ランドマークみんなで作るぜ！協力者募集してみる！！！！にぇ！！！！！【ホロライブ/さくらみこ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=set_fCDhJgs",
-        "picture": "https://i.ytimg.com/vi/set_fCDhJgs/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Keep Talking and Nobody Explodes 】 The Vtuber to Bomb Diffuser Pipeline is Real"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "islive": false,
@@ -317,5 +295,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738598400,
         "title": "【MINECRAFT】new world, new server!!!! adventure awaits!! #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rxA8DFawCz0",
+        "picture": "https://i.ytimg.com/vi/rxA8DFawCz0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738549800,
+        "title": "【M.M.M. / Monday Morning Malas】Good Morning !!【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jofTrZlMNBo",
+        "picture": "https://i.ytimg.com/vi/jofTrZlMNBo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738634400,
+        "title": "【Ender Magnolia】Starting Over | #1​"
     }
 ]
