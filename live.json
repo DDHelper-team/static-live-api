@@ -288,13 +288,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y4-s4DaC_C0",
         "picture": "https://i.ytimg.com/vi/y4-s4DaC_C0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738580400,
-        "title": "【Mincraft】今日から新サーバーだ！！遊んでみよう！！【ホロライブ/ときのそら】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】今日から新サーバーだ！！遊んでみよう！！【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -394,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738584000,
         "title": "【Tokyo Xtreme Racer】i\u0026#39;m a safe driver. trust me."
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=f5QgEZjH53Y",
+        "picture": "https://i.ytimg.com/vi/f5QgEZjH53Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738666800,
+        "title": "【 #らでん生誕祭2025 】初！生誕ライブ～ここで出会ったのもなにかのご縁～【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
