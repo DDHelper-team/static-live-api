@@ -387,12 +387,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y4YpQC2E73c",
         "picture": "https://i.ytimg.com/vi/y4YpQC2E73c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738593000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】寝起き雑談縦型配信 #shorts【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -409,23 +409,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=16QjMlK7WQs",
         "picture": "https://i.ytimg.com/vi/16QjMlK7WQs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738593000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Farming Simulator 25】深夜のまったりフブミオ農場【ホロライブ/大神ミオ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BkFETxSqAHQ",
         "picture": "https://i.ytimg.com/vi/BkFETxSqAHQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738592100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】holo new server?!【Moona Hoshinova】"
     }
 ]
