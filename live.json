@@ -132,17 +132,6 @@
         "title": "【Minecraft】0から始まる新ホロ鯖！早速上陸だあああ！！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rVYFUKQGIYI",
-        "picture": "https://i.ytimg.com/vi/rVYFUKQGIYI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】新ホロ鯖上陸❗️ランドマークみんなで作るぜ！協力者募集してみる！！！！にぇ！！！！！【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": false,
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7KFwnRmPTtI",
         "picture": "https://i.ytimg.com/vi/7KFwnRmPTtI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738599300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT】new world, new server!!!! adventure awaits!! #kfp #キアライブ"
     },
     {
@@ -277,13 +266,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=GkVRVPmcpS8",
-        "picture": "https://i.ytimg.com/vi/GkVRVPmcpS8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hHyh5RgXeBY",
+        "picture": "https://i.ytimg.com/vi/hHyh5RgXeBY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪Midnight Monday Radio≫ Episode 12 #shorts ​"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738630800,
+        "title": "≪MINECRAFT≫ NEW SERVER. NEW DIRT SHED. LETS GO!!!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -361,5 +350,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Minecraft 】新ホロ鯖に青くゆは入れるのか！？【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "channellink": "https://www.youtube.com/channel/UCoSrY_IQQVpmIRZ9Xf-y93g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ALdqozsw3sw",
+        "picture": "https://i.ytimg.com/vi/ALdqozsw3sw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738630800,
+        "title": "【Kingdom Come: Deliverance】get up, lazy man. or im gonna rub dirt in your eyes"
     }
 ]
