@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=CF5Z9MwoRoM",
         "picture": "https://i.ytimg.com/vi/CF5Z9MwoRoM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738652400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】曲がってえええええええええええええええええええええ※ネタバレあり【#ホロライブ #ロボ子さん 】"
     },
     {
@@ -317,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738659600,
         "title": "【Minecraft】新ホロ鯖にやってきた！【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=CbQ1ogDdeNk",
+        "picture": "https://i.ytimg.com/vi/CbQ1ogDdeNk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738674000,
+        "title": "【Project Zomboid】Will we survive?【Moona Hoshinova】"
     }
 ]
