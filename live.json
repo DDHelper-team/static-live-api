@@ -220,17 +220,6 @@
         "title": "【Minecraft】whats the plan for todayyyyyyy? 😲【Graondstone】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=l18uVi47z3E",
-        "picture": "https://i.ytimg.com/vi/l18uVi47z3E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】NEW DAY, NEW WORLD【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -328,5 +317,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738674000,
         "title": "【Project Zomboid】Will we survive?【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=D_saW-15_r8",
+        "picture": "https://i.ytimg.com/vi/D_saW-15_r8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738659607,
+        "title": "【APEX】よちよちぺっくすで初コラボ🔫w/倉持めるとさん、うおうお【緋月ゆい/ネオポルテ】"
     }
 ]
