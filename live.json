@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5G1t5FH0f1c",
         "picture": "https://i.ytimg.com/vi/5G1t5FH0f1c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738638000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT NEW WORLD SERVER】MAKING OUR MARK!!"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fq4HIXPXlRU",
         "picture": "https://i.ytimg.com/vi/fq4HIXPXlRU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738638000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】whats the plan for todayyyyyyy? 😲【Graondstone】"
     },
     {
@@ -273,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738643400,
         "title": "【Monster Hunter World: Iceborne】君を倒さないと受付嬢が未来に帰れないんだ…！【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=TzwiU-jnDoo",
+        "picture": "https://i.ytimg.com/vi/TzwiU-jnDoo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【MINECRAFT - HOLOLIVE NEW SERVER】TIME TO FABULOUSIFY THE BASE CAVE!!【Kureiji Ollie】"
     }
 ]
