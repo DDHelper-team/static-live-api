@@ -438,5 +438,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【歌枠】カラオケすぞ！！-Midnight station -85 【HACHI】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FoGMzARHlRE",
+        "picture": "https://i.ytimg.com/vi/FoGMzARHlRE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738749600,
+        "title": "【 ノロイカゴ ゲゲゲの夜 】ま～～ルイがいるから大丈夫っしょネ😸【 猫又おかゆ視点/#ねこたか 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=li_IjiFsjBA",
+        "picture": "https://i.ytimg.com/vi/li_IjiFsjBA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738705800,
+        "title": "【CAPCOMミラー配信】カプコンスポットライト+モンスターハンターワイルズ ショーケース公認ミラー！【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BzuEed3N6hg",
+        "picture": "https://i.ytimg.com/vi/BzuEed3N6hg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738706400,
+        "title": "【CAPCOMミラー配信】みんなで同時視聴するぞ!! モンスターハンターワイルズ ショーケース＋カプコンスポットライト【#ホロスターズホラゲリレー】"
     }
 ]
