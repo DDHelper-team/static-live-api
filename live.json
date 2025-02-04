@@ -187,17 +187,6 @@
         "title": "【 #ヘブバン3周年 】3周年記念特別ストーリーをプレイ！！ガチャも引くぞ～！！【雪花ラミィ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bBMRsDqsIZc",
-        "picture": "https://i.ytimg.com/vi/bBMRsDqsIZc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】新鯖でなんかする！【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
         "islive": true,
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738670400,
         "title": "【 Stardew Valley 】1年目春その2：お金がなさすぎる！カバンくれ！【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qHEqQf0Il-o",
+        "picture": "https://i.ytimg.com/vi/qHEqQf0Il-o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738659600,
+        "title": "【 Minecraft 】新ホロ鯖初上陸！！フブさんと作りたいものがあるのでまずは装備整えるぞ！！！【鷹嶺ルイ/ホロライブ】"
     }
 ]
