@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bBMRsDqsIZc",
         "picture": "https://i.ytimg.com/vi/bBMRsDqsIZc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738641600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】新鯖でなんかする！【ホロライブ/夏色まつり】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=b3mdlg7YJ0Q",
         "picture": "https://i.ytimg.com/vi/b3mdlg7YJ0Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738641600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Poppy Playtime: Chapter 4】Playtime isn\u0026#39;t over yet"
     },
     {
@@ -229,17 +229,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】whats the plan for todayyyyyyy? 😲【Graondstone】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SqPsem7gVWQ",
-        "picture": "https://i.ytimg.com/vi/SqPsem7gVWQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Here to explore the new world! | Minecraft"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -295,5 +284,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 Minecraft 】新ホロ鯖に仮拠点を作る！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wWDmz3rDlT4",
+        "picture": "https://i.ytimg.com/vi/wWDmz3rDlT4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738668600,
+        "title": "Poppy Playtime をやる chapter 4【 奏手イヅル / #ホロスターズ 】"
     }
 ]
