@@ -110,17 +110,6 @@
         "title": "【歌枠 / Singing】青春を取り戻せ！HoneyWorks限定歌枠！！！【#新人vtuber 】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HZnP3_pfTjY",
-        "picture": "https://i.ytimg.com/vi/HZnP3_pfTjY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "What Your Pizza is REALLY Made Out of 【Crime Scene Cleaner】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -134,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jofTrZlMNBo",
         "picture": "https://i.ytimg.com/vi/jofTrZlMNBo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738634400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Ender Magnolia】Starting Over | #1​"
     },
     {
@@ -251,5 +240,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "Here to explore the new world! | Minecraft"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=l18uVi47z3E",
+        "picture": "https://i.ytimg.com/vi/l18uVi47z3E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】NEW DAY, NEW WORLD【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cYnOj-12Rmo",
+        "picture": "https://i.ytimg.com/vi/cYnOj-12Rmo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738717200,
+        "title": "Revenge Arc with Extra Ducks Stuffed Up Your Quacks【Hitman: World of Assassinations】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u5XYDvMAm74",
+        "picture": "https://i.ytimg.com/vi/u5XYDvMAm74/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738643400,
+        "title": "【Monster Hunter World: Iceborne】君を倒さないと受付嬢が未来に帰れないんだ…！【アルランディス/ホロスターズ】"
     }
 ]
