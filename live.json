@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=jofTrZlMNBo",
-        "picture": "https://i.ytimg.com/vi/jofTrZlMNBo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gX0SKqQ1lR4",
+        "picture": "https://i.ytimg.com/vi/gX0SKqQ1lR4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Ender Magnolia】Starting Over | #1​"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738720800,
+        "title": "【Signalis】Perish Please | #2"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
@@ -350,5 +350,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738670400,
         "title": "【  はいしんよてち！ 】やるじぇ～～～い！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=hfw_YTCq0fo",
+        "picture": "https://i.ytimg.com/vi/hfw_YTCq0fo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ちょこっとクッキング】いちか襲来！悪魔の手料理召し上がれ！【ホロライブ/癒月ちょこ/宗谷いちか】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=HRQ8YlSyWlI",
+        "picture": "https://i.ytimg.com/vi/HRQ8YlSyWlI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738670400,
+        "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
