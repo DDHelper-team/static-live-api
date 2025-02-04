@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dO_d8VuMPsg",
         "picture": "https://i.ytimg.com/vi/dO_d8VuMPsg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738711800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンスターハンター：ワールド】※視聴者参加型 ワイルズに向けてイチから姫プだ！！！！！！！！！   / アステル"
     },
     {
