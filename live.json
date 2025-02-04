@@ -209,17 +209,6 @@
         "title": "【Project Zomboid】omg finally i\u0026#39;m not alone 🥺"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1lcHEkTrqjw",
-        "picture": "https://i.ytimg.com/vi/1lcHEkTrqjw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】男3人でGQuuuuuuX見てきた感想会【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "islive": true,
@@ -471,5 +460,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#papersplease 】請給過路費！邊聊聊大家過年做了什麼呀~【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "channellink": "https://www.youtube.com/@necomakarin",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uWaBJMd52yM",
+        "picture": "https://i.ytimg.com/vi/uWaBJMd52yM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738681200,
+        "title": "【KU100/ASMR】むぎゅっと包まれてはむっと愛される♡熱々吐息で汗だくに…♡寝落ち推奨睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
+    },
+    {
+        "channel": "https://youtube.com/@HACHIVSinger",
+        "channellink": "https://www.youtube.com/@HACHIVSinger",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ct9qfIAueAI",
+        "picture": "https://i.ytimg.com/vi/Ct9qfIAueAI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738681200,
+        "title": "【歌枠】カラオケすぞ！！-Midnight station -85 【HACHI】"
     }
 ]
