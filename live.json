@@ -176,17 +176,6 @@
         "title": "【 #ヘブバン3周年 】3周年記念特別ストーリーをプレイ！！ガチャも引くぞ～！！【雪花ラミィ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fq4HIXPXlRU",
-        "picture": "https://i.ytimg.com/vi/fq4HIXPXlRU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】whats the plan for todayyyyyyy? 😲【Graondstone】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wWDmz3rDlT4",
         "picture": "https://i.ytimg.com/vi/wWDmz3rDlT4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738668600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Poppy Playtime をやる chapter 4【 奏手イヅル / #ホロスターズ 】"
     },
     {
@@ -262,17 +251,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738674000,
         "title": "【Project Zomboid】Will we survive?【Moona Hoshinova】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=D_saW-15_r8",
-        "picture": "https://i.ytimg.com/vi/D_saW-15_r8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】よちよちぺっくすで初コラボ🔫w/倉持めるとさん、うおうお【緋月ゆい/ネオポルテ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -383,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738670400,
         "title": "【Minecraft】今日はサーバーをおしゃれにしたい【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=e41VBd7sLz0",
+        "picture": "https://i.ytimg.com/vi/e41VBd7sLz0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738674000,
+        "title": "【 首都高バトル 】ペーパーMTゴールド免許持ちがぶちかますぜぇ～～～↑↑↑【不知火フレア/バカタレ共/ホロライブ】"
     }
 ]
