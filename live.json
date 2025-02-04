@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8PBsEGodURE",
         "picture": "https://i.ytimg.com/vi/8PBsEGodURE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738677600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 首都高バトル 】深夜ドライブ。ライバルたちの関係性を知りたいヲタク。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -361,17 +361,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Project Zomboid】We can survive this for sure 【Ayunda Risu】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=KTmmXMahkDY",
-        "picture": "https://i.ytimg.com/vi/KTmmXMahkDY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【マリカ】昔、同級生に「マリカ」っていう美人な子がいました。"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
