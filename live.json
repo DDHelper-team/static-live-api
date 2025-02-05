@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=McMCdtMqKZI",
         "picture": "https://i.ytimg.com/vi/McMCdtMqKZI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738753200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】新鮮なホロ鯖だ～！！【獅白ぼたん/ホロライブ】"
     },
     {
@@ -409,12 +409,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xYrKwsVdXyA",
         "picture": "https://i.ytimg.com/vi/xYrKwsVdXyA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738753200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【APEX】ちゅなとボドカさんとフルパ！！   / アステル 猫汰つな³ ボドカ³"
     },
     {
@@ -471,5 +471,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738756800,
         "title": "【 Minecraft 】新ホロ鯖上陸❗️みんなで色々つくるうううう！！！！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AeQ0Zq92emE",
+        "picture": "https://i.ytimg.com/vi/AeQ0Zq92emE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738760400,
+        "title": "【振り返り配信】#らでん生誕祭2025 ライブの映像を見つつ酒を飲む配信【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
