@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cYnOj-12Rmo",
         "picture": "https://i.ytimg.com/vi/cYnOj-12Rmo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738717200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Revenge Arc with Extra Ducks Stuffed Up Your Quacks【Hitman: World of Assassinations】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9hADwEYOf4g",
         "picture": "https://i.ytimg.com/vi/9hADwEYOf4g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738717200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪BAE THEATRE≫ Dramatic Reading of A Midsummer Night\u0026#39;s Dream (1595) w/ @holoen_gigimurin"
     },
     {
@@ -251,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738720800,
         "title": "【MINECRAFT NEW WORLD SERVER】BACK TO WORK!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=tfNL4xXSN1E",
+        "picture": "https://i.ytimg.com/vi/tfNL4xXSN1E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Minecraft 】木こりと釜戸とねねと樹液と【 桃鈴ねね / hololive 】"
     }
 ]
