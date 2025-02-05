@@ -376,12 +376,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jVDrDhxRO2Y",
         "picture": "https://i.ytimg.com/vi/jVDrDhxRO2Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738764000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#02 【 首都高バトル 】ペーパーMTゴールド免許持ちがぶちかますぜぇ～～～↑↑↑【不知火フレア/バカタレ共/ホロライブ】"
     },
     {
@@ -431,12 +431,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oaQfN41XdNc",
         "picture": "https://i.ytimg.com/vi/oaQfN41XdNc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738764037,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【原神】#66 -部族見聞編 | 完全初見！こだまの子に向かう🔥【緋月ゆい/ネオポルテ】"
     },
     {
