@@ -143,17 +143,6 @@
         "title": "【 #Vtuber甲子園2025 】パワプロ栄冠ナイン！ホロライブ高校育成始動！！！ #1 【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IQqhGdc62vk",
-        "picture": "https://i.ytimg.com/vi/IQqhGdc62vk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 3D雑談 】最強天才中学生の有難い3D雑談【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": true,
@@ -449,5 +438,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【告知】ホロスタ○○、開幕！！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=APf-Vg-mhqA",
+        "picture": "https://i.ytimg.com/vi/APf-Vg-mhqA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738803600,
+        "title": "≪MINECRAFT≫ Gacha."
     }
 ]
