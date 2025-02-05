@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iK05P7v-2zw",
         "picture": "https://i.ytimg.com/vi/iK05P7v-2zw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738738800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】木こりのラミィ、再誕！！！！！まったり作業マイクラ【 雪花ラミィ /ホロライブ】"
     },
     {
