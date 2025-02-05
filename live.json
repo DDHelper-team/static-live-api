@@ -198,17 +198,6 @@
         "title": "【 ノロイカゴ ゲゲゲの夜 】ま～～ルイがいるから大丈夫っしょネ😸【 猫又おかゆ視点/#ねこたか 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=dO_d8VuMPsg",
-        "picture": "https://i.ytimg.com/vi/dO_d8VuMPsg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【モンスターハンター：ワールド】※視聴者参加型 ワイルズに向けてイチから姫プだ！！！！！！！！！   / アステル"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": true,
@@ -244,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pOYkTf0kuSI",
         "picture": "https://i.ytimg.com/vi/pOYkTf0kuSI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738746000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】0から始まる新ホロ鯖！ダイヤ装備にしたり建築用の粘土集めたりフリーダム！【白銀ノエル/ホロライブ】"
     },
     {
@@ -321,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=kbsYgiJOb2E",
         "picture": "https://i.ytimg.com/vi/kbsYgiJOb2E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738746000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ストリートファイター6】不知火舞【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -372,5 +361,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738760400,
         "title": "【Marvel Rivals】ASSEMBLEEEE!!!!!!!!!!!!【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=knE_3O0YtO4",
+        "picture": "https://i.ytimg.com/vi/knE_3O0YtO4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738832400,
+        "title": "【台本制作】俺の考える最強のホロメンシチュエーションボイス#1【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=MjcnhjNgurQ",
+        "picture": "https://i.ytimg.com/vi/MjcnhjNgurQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Minecraft 】木こりと釜戸とねねと樹液と２【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NpkgJdVKOL8",
+        "picture": "https://i.ytimg.com/vi/NpkgJdVKOL8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738760400,
+        "title": "【Marvel Rivals】My Friends Will Guide Me (I Hope)【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JUre0uF74mk",
+        "picture": "https://i.ytimg.com/vi/JUre0uF74mk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738760400,
+        "title": "【Minecraft】新ホロ鯖にやってきた！橋つくったり、釣りしたり【ホロライブ / AZKi】"
     }
 ]
