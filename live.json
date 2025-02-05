@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=yP5WcHCs8CQ",
         "picture": "https://i.ytimg.com/vi/yP5WcHCs8CQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738792800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】 LF NEW HOME"
     },
     {
@@ -251,5 +251,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【OHAPOL】#144 2/6木曜日！ほぼ週一と化した朝活ですが #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=gwWVwJ7Vuf8",
+        "picture": "https://i.ytimg.com/vi/gwWVwJ7Vuf8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談】寝起き雑談縦型配信 #shorts【荒咬オウガ /ホロスターズ】"
     }
 ]
