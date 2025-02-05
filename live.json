@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cYnOj-12Rmo",
-        "picture": "https://i.ytimg.com/vi/cYnOj-12Rmo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0adGoCv289A",
+        "picture": "https://i.ytimg.com/vi/0adGoCv289A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Revenge Arc with Extra Ducks Stuffed Up Your Quacks【Hitman: World of Assassinations】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738803600,
+        "title": "Anime Girl Gives You an EARFUL【Unarchived Karaoke in VRChat】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -174,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738756800,
         "title": "【 3D雑談 】最強天才中学生の有難い3D雑談【 領国つかさ / すぺしゃりて 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9hADwEYOf4g",
-        "picture": "https://i.ytimg.com/vi/9hADwEYOf4g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪BAE THEATRE≫ Dramatic Reading of A Midsummer Night\u0026#39;s Dream (1595) w/ @holoen_gigimurin"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -295,5 +284,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738735200,
         "title": "【MINECRAFT NEW WORLD SERVER】最　恐　計　画　‼LET\u0026#39;SGOOOOO!!!🌟【ホロライブ/赤井はあと】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Yjpnst5dZpw",
+        "picture": "https://i.ytimg.com/vi/Yjpnst5dZpw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738731600,
+        "title": "【UNO】UNOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO with friends!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DRVJ4WUOvF4",
+        "picture": "https://i.ytimg.com/vi/DRVJ4WUOvF4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738756800,
+        "title": "【ストリートファイター6】新アクト！新ランク区分！そして舞！21:00からガイル村【アルランディス/ホロスターズ】"
     }
 ]
