@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ktoY9lgg3I8",
         "picture": "https://i.ytimg.com/vi/ktoY9lgg3I8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738762200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】夜に聞きたいうた、まったり歌います【 ホロライブ / 大神ミオ 】"
     },
     {
