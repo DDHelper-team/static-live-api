@@ -165,17 +165,6 @@
         "title": "【Minecraft】0から始まる新ホロ鯖！ダイヤ装備にしたり建築用の粘土集めたりフリーダム！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DRVJ4WUOvF4",
-        "picture": "https://i.ytimg.com/vi/DRVJ4WUOvF4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】新アクト！新ランク区分！そして舞！inガイル村【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
         "islive": false,
@@ -317,5 +306,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738800000,
         "title": "【CYBERPUNK 2077】Wake the beep up, Samurai 【DLC】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RPfUnumzLa0",
+        "picture": "https://i.ytimg.com/vi/RPfUnumzLa0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738848600,
+        "title": "ファミレスを享受せよ【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yP5WcHCs8CQ",
+        "picture": "https://i.ytimg.com/vi/yP5WcHCs8CQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738792800,
+        "title": "【Minecraft】 LF NEW HOME"
     }
 ]
