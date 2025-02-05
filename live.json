@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4TEXuJWDhJY",
         "picture": "https://i.ytimg.com/vi/4TEXuJWDhJY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738798200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】新ホロ鯖で素材を探す！【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
