@@ -233,12 +233,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=H4yRNVySPeM",
         "picture": "https://i.ytimg.com/vi/H4yRNVySPeM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738827000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT - HOLOLIVE NEW SERVER】LET\u0026#39;S GET SOME DIAMOND ARMOR!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QLILn9MDumU",
+        "picture": "https://i.ytimg.com/vi/QLILn9MDumU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738836000,
+        "title": "【Minecraft】ペールガーデンに行きたぁい！！【 雪花ラミィ /ホロライブ】"
     }
 ]
