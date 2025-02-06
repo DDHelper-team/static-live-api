@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Kc3A7YAso4M",
         "picture": "https://i.ytimg.com/vi/Kc3A7YAso4M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738850400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】大きな噴水の素材を集めて作りたい！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -405,5 +405,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738890000,
         "title": "≪Thank Goodness You\u0026#39;re Here≫ RAT KOKO!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ehtrGrXxatY",
+        "picture": "https://i.ytimg.com/vi/ehtrGrXxatY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】Chill and helping friends【Moona Hoshinova】"
     }
 ]
