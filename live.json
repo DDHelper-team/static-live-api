@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bRfITia7v4o",
         "picture": "https://i.ytimg.com/vi/bRfITia7v4o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738836000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】釣りしたり建材集めたりなどなどです😸【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HAIRweJ99kI",
         "picture": "https://i.ytimg.com/vi/HAIRweJ99kI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738836000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】新ホロ鯖⛏拠点作り？冒険？なんでもやる～！✨【博衣こより/ホロライブ】"
     },
     {
@@ -228,17 +228,17 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【MINECRAFT - HOLOLIVE NEW SERVER】LET\u0026#39;S GET SOME DIAMOND ARMOR!!【Kureiji Ollie】"
+        "title": "【MINECRAFT - HOLOLIVE NEW SERVER】DECORATING AROUND THE ID CAVE!!【Kureiji Ollie】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QLILn9MDumU",
         "picture": "https://i.ytimg.com/vi/QLILn9MDumU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738836000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】ペールガーデンに行きたぁい！！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -317,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738846800,
         "title": "#2【OMUSUBI】Horror Adventure! I Did Not Forget the Rice Balls...【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=muyQj-Ayk1U",
+        "picture": "https://i.ytimg.com/vi/muyQj-Ayk1U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738843200,
+        "title": "【 Stardew Valley 】1年目春その3：お金欲しい！【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ONpGmC5hOG8",
+        "picture": "https://i.ytimg.com/vi/ONpGmC5hOG8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738846800,
+        "title": "【 #らでんの推し語り 】第二夜：やきもの編（特別協力：伝統工芸 青山スクエア様）【儒烏風亭らでん #ReGLOSS 】"
     }
 ]
