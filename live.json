@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=knE_3O0YtO4",
-        "picture": "https://i.ytimg.com/vi/knE_3O0YtO4/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=qQzNYGr8ZCU",
+        "picture": "https://i.ytimg.com/vi/qQzNYGr8ZCU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738832400,
-        "title": "【台本制作】俺の考える最強のホロメンシチュエーションボイス#1【ホロライブ/夏色まつり】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Minecraft 】みこちからの依頼！マグマハウス作るぞ＾＾【ホロライブ/夏色まつり】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -255,12 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QWy9jOH-oe8",
         "picture": "https://i.ytimg.com/vi/QWy9jOH-oe8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738832400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト６】2か月ぶりにスト6を再開します！目指せ High Master!!【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Kc3A7YAso4M",
+        "picture": "https://i.ytimg.com/vi/Kc3A7YAso4M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738850400,
+        "title": "【 Minecraft 】大きな噴水の素材を集めて作りたい！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】"
     }
 ]
