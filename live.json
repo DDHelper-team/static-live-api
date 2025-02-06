@@ -231,28 +231,6 @@
         "title": "【#生スバル】おさんぽスバルしゅばああああああああああああああああああああああああああああ / MINE CRAFT【ホロライブ/大空スバル】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=NT8qkpRFjM4",
-        "picture": "https://i.ytimg.com/vi/NT8qkpRFjM4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "#2【OMUSUBI】Horror Adventure! I Did Not Forget the Rice Balls...【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=muyQj-Ayk1U",
-        "picture": "https://i.ytimg.com/vi/muyQj-Ayk1U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Stardew Valley 】1年目春その3：お金欲しい！【常闇トワ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "islive": true,
@@ -262,17 +240,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】今週はマイクラウィーク！！【ホロライブ/ときのそら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1B47JcXW3qU",
-        "picture": "https://i.ytimg.com/vi/1B47JcXW3qU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Unrailed 2:バック・オン・トラック】unplanの原点、ここに【影山シエン/花咲みやび/アルランディス/律可】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -372,5 +339,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738872000,
         "title": "【Minecraft】so many things, too little time.【Kaela Kovalskia / hololiveID】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1HSXfLRKZ9s",
+        "picture": "https://i.ytimg.com/vi/1HSXfLRKZ9s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738922400,
+        "title": "【 MHWilds | OBT2 】モンハンワイルズのオープンベータ２で遊ぶのら～～～！！！【姫森ルーナ/ホロライブ】"
     }
 ]
