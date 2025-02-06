@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6vFcLfvMRy8",
         "picture": "https://i.ytimg.com/vi/6vFcLfvMRy8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738814400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Cooking Simulator VR】Woman In The Kitchen"
     },
     {
