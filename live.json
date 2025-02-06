@@ -255,12 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IZjur5NCg4o",
         "picture": "https://i.ytimg.com/vi/IZjur5NCg4o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738879200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Ender Magnolia】 Down Down Down... 【#2】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0hMWZZPNpxs",
+        "picture": "https://i.ytimg.com/vi/0hMWZZPNpxs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738922400,
+        "title": "【 EP開封 】「WHAT A MESS!!!」の実物をみんなに見せたい！！！【角巻わため/ホロライブ４期生】"
     }
 ]
