@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
         "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Zm-QZKI_3oo",
         "picture": "https://i.ytimg.com/vi/Zm-QZKI_3oo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738875600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活ASMR】朝じゃよ～！【タッピング/耳塞ぎ】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738893600,
         "title": "5 stack for holoLeague | League of Legends"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IZjur5NCg4o",
+        "picture": "https://i.ytimg.com/vi/IZjur5NCg4o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738879200,
+        "title": "【Ender Magnolia】 Down Down Down... 【#2】"
     }
 ]
