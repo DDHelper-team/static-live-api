@@ -209,17 +209,6 @@
         "title": "【League of Legends】LET\u0026#39;S GO EVERYONE!!!【 iofi / hololiveID 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "channellink": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Zm-QZKI_3oo",
-        "picture": "https://i.ytimg.com/vi/Zm-QZKI_3oo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【朝活ASMR】朝じゃよ～！【タッピング/耳塞ぎ】"
-    },
-    {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
         "islive": false,
@@ -262,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738922400,
         "title": "【 EP開封 】「WHAT A MESS!!!」の実物をみんなに見せたい！！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=P5ZQCcuKDuA",
+        "picture": "https://i.ytimg.com/vi/P5ZQCcuKDuA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738944000,
+        "title": "【STELLAR BLADE】We are Nier the end (actually idk, are we?) #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SClvbUFJqXM",
+        "picture": "https://i.ytimg.com/vi/SClvbUFJqXM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738929600,
+        "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #5【 領国つかさ / すぺしゃりて 】"
     }
 ]
