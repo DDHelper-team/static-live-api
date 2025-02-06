@@ -165,17 +165,6 @@
         "title": "Stuffing My Face With Potentially Ominous Foods【Tea Party Handcam】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=HAIRweJ99kI",
-        "picture": "https://i.ytimg.com/vi/HAIRweJ99kI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】新ホロ鯖⛏拠点作り？冒険？なんでもやる～！✨【博衣こより/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "islive": true,
@@ -264,17 +253,6 @@
         "title": "【Minecraft】Risukarta project continues【Ayunda Risu】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=4IHQpX0BajU",
-        "picture": "https://i.ytimg.com/vi/4IHQpX0BajU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】ねねさんのおしゃれな建設【 桃鈴ねね / hololive 】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": false,
@@ -328,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738922400,
         "title": "【 MHWilds | OBT2 】モンハンワイルズのオープンベータ２で遊ぶのら～～～！！！【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=h3mFiN3qh0E",
+        "picture": "https://i.ytimg.com/vi/h3mFiN3qh0E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738922400,
+        "title": "【モンハンワイルズ】オープンベータ第2回きちゃああ！！！アルシュベルド＆ゲリョスいってみよう！【博衣こより視点/ホロライブ】"
     }
 ]
