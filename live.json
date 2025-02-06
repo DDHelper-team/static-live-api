@@ -319,17 +319,6 @@
         "title": "【Minecraft】完全ゲリラ！0から始まる新ホロ鯖！建築用の粘土集めたりフリーダム！【白銀ノエル/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Ah-e0zf_Pdk",
-        "picture": "https://i.ytimg.com/vi/Ah-e0zf_Pdk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【🔴LiveCam】2/6夜のMinecraftホロ鯖のようす/定点ライブカメラ【尾丸ポルカ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -405,5 +394,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】Chill and helping friends【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qrv7qaKDbc8",
+        "picture": "https://i.ytimg.com/vi/qrv7qaKDbc8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738872000,
+        "title": "【Minecraft】so many things, too little time.【Kaela Kovalskia / hololiveID】"
     }
 ]
