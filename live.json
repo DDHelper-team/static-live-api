@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=muyQj-Ayk1U",
         "picture": "https://i.ytimg.com/vi/muyQj-Ayk1U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738845000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Stardew Valley 】1年目春その3：お金欲しい！【常闇トワ/ホロライブ】"
     },
     {
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=leRPEvsBXGg",
         "picture": "https://i.ytimg.com/vi/leRPEvsBXGg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738845000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】完全ゲリラ！0から始まる新ホロ鯖！建築用の粘土集めたりフリーダム！【白銀ノエル/ホロライブ】"
     },
     {
@@ -372,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738929600,
         "title": "【 #コラボ配信  】心を通じ合わせて同じ答えが出せる？ぶいかふぇで仲良くなったし余裕でしょ！ 【#新人vtuber 】#TanZ #鏡愛しゅくり #桃川うさぴ #日向ぽかり #ゆいまるちゃん"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QV3QSHsrT8k",
+        "picture": "https://i.ytimg.com/vi/QV3QSHsrT8k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738846800,
+        "title": "【MINECRAFT - HOLOLIVE NEW SERVER】FOR REAL LOOK FOR DIAMONDS【Kureiji Ollie】"
     }
 ]
