@@ -167,23 +167,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n1PmI9tx7nA",
         "picture": "https://i.ytimg.com/vi/n1PmI9tx7nA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738846800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 懐メロ 】突然歌いたくなったのら～～～🎤(・o・🍬)【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-OMiORrHaEw",
         "picture": "https://i.ytimg.com/vi/-OMiORrHaEw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738846800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】ラムジェット作るためにがんばるぞお！！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -218,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】新ホロ鯖⛏拠点作り？冒険？なんでもやる～！✨【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QLILn9MDumU",
-        "picture": "https://i.ytimg.com/vi/QLILn9MDumU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】ペールガーデンに行きたぁい！！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NT8qkpRFjM4",
         "picture": "https://i.ytimg.com/vi/NT8qkpRFjM4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738846800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#2【OMUSUBI】Horror Adventure! I Did Not Forget the Rice Balls...【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ONpGmC5hOG8",
         "picture": "https://i.ytimg.com/vi/ONpGmC5hOG8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738846800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #らでんの推し語り 】第二夜：やきもの編（特別協力：伝統工芸 青山スクエア様）【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -376,12 +365,56 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QV3QSHsrT8k",
         "picture": "https://i.ytimg.com/vi/QV3QSHsrT8k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738846800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT - HOLOLIVE NEW SERVER】FOR REAL LOOK FOR DIAMONDS【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Ams7Z3c5m7w",
+        "picture": "https://i.ytimg.com/vi/Ams7Z3c5m7w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738848600,
+        "title": "【Minecraft】Risukarta project continues【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=4IHQpX0BajU",
+        "picture": "https://i.ytimg.com/vi/4IHQpX0BajU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Minecraft 】ねねさんのおしゃれな建設【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=FxS_QkYD7yE",
+        "picture": "https://i.ytimg.com/vi/FxS_QkYD7yE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738933200,
+        "title": "【歌雜】好久沒唱~該來當一回愛豆了🎵  *可點歌單的歌"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=y3tQHDOY7Gk",
+        "picture": "https://i.ytimg.com/vi/y3tQHDOY7Gk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738890000,
+        "title": "≪Thank Goodness You\u0026#39;re Here≫ RAT KOKO!!"
     }
 ]
