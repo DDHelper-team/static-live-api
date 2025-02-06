@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8_z4AKrsG-w",
         "picture": "https://i.ytimg.com/vi/8_z4AKrsG-w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738839600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】その日ぐらしのししろってぃ【獅白ぼたん/ホロライブ】"
     },
     {
@@ -220,17 +220,6 @@
         "title": "【Minecraft】新ホロ鯖⛏拠点作り？冒険？なんでもやる～！✨【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=H4yRNVySPeM",
-        "picture": "https://i.ytimg.com/vi/H4yRNVySPeM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MINECRAFT - HOLOLIVE NEW SERVER】DECORATING AROUND THE ID CAVE!!【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": true,
@@ -253,17 +242,6 @@
         "title": "【Minecraft】新ホロ鯖にやってきた！あず木こり、整地したり！【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QWy9jOH-oe8",
-        "picture": "https://i.ytimg.com/vi/QWy9jOH-oe8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】2か月ぶりにスト6を再開します！目指せ High Master!!【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -277,23 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y6cX_Bnmx3o",
         "picture": "https://i.ytimg.com/vi/y6cX_Bnmx3o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738839600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】新ホロ鯖遊ぶぞおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_6HTAQg9H_8",
         "picture": "https://i.ytimg.com/vi/_6HTAQg9H_8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738839600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】初上陸！！なにする～！？！？【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -343,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-eWD-ASFWOU",
         "picture": "https://i.ytimg.com/vi/-eWD-ASFWOU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738839600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】今週はマイクラウィーク！！【ホロライブ/ときのそら】"
     }
 ]
