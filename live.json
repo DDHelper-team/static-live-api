@@ -110,28 +110,6 @@
         "title": "【首都高バトル】曲がってえええええええええええええええええええええ※ネタバレあり【#ホロライブ #ロボ子さん 】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=hIh9jeH1xMA",
-        "picture": "https://i.ytimg.com/vi/hIh9jeH1xMA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738890000,
-        "title": "Stuffing My Face With Potentially Ominous Foods【Tea Party Handcam】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Kc3A7YAso4M",
-        "picture": "https://i.ytimg.com/vi/Kc3A7YAso4M/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】大きな噴水の素材を集めて作りたい！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -156,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y3tQHDOY7Gk",
         "picture": "https://i.ytimg.com/vi/y3tQHDOY7Gk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738890000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪Thank Goodness You\u0026#39;re Here≫ RAT KOKO!!"
     },
     {
@@ -231,17 +209,6 @@
         "title": "5 stack for holoLeague | League of Legends"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IZjur5NCg4o",
-        "picture": "https://i.ytimg.com/vi/IZjur5NCg4o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Ender Magnolia】 Down Down Down... 【#2】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "islive": false,
@@ -284,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738900800,
         "title": "【Anime Watchalong】Death Note: Nostalgia Dive With Sally"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=82sVzqkv-9o",
+        "picture": "https://i.ytimg.com/vi/82sVzqkv-9o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738972800,
+        "title": "【WHITE ALBUM ENDURANCE 耐久】rewinding time to reach the path to true love 🐾 【FUWAMOCO】"
     }
 ]
