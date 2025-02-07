@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BfrtJZRCA0A",
         "picture": "https://i.ytimg.com/vi/BfrtJZRCA0A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738931400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎮 MHWilds / OBT 】モンハンワイルズのオープンベータやるぞー！！！😎✨【獅子神レオナ/Re:AcT】"
     },
     {
@@ -350,5 +350,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738933200,
         "title": "【首都高バトル】ネタバレあり ハンコンで遊ぶゴールド免許オウガ　#5【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=eGNQ_yJed9g",
+        "picture": "https://i.ytimg.com/vi/eGNQ_yJed9g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738935040,
+        "title": "【Fast Food Simulator】そ、ろで限界を超えろ🍔【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=UpEqbjckvEU",
+        "picture": "https://i.ytimg.com/vi/UpEqbjckvEU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738933200,
+        "title": "【モンハンワイルズ 】前回参加できなかった2度目のオープンβきたぁ！【不知火フレア/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LzAB-C-xp4w",
+        "picture": "https://i.ytimg.com/vi/LzAB-C-xp4w/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738933200,
+        "title": "【Minecraft】突発でちょこっと遊ぶ！【ホロライブ/ときのそら】"
     }
 ]
