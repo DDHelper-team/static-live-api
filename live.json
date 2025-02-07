@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FxS_QkYD7yE",
         "picture": "https://i.ytimg.com/vi/FxS_QkYD7yE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738933200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌雜】好久沒唱~該來當一回愛豆了🎵  *可點歌單的歌"
     },
     {
@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=NNJ609JqvLg",
         "picture": "https://i.ytimg.com/vi/NNJ609JqvLg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738933200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#7】ジョジョの奇妙な冒険 ダイヤモンドは砕けない 同時視聴しゅばあああああああああああ！！！ :jojo part4 watching party【ホロライブ/大空スバル】"
     },
     {
@@ -256,12 +256,12 @@
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=GpC-D54OPVQ",
-        "picture": "https://i.ytimg.com/vi/GpC-D54OPVQ/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=LvZKZFm_7QE",
+        "picture": "https://i.ytimg.com/vi/LvZKZFm_7QE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 #みこち鯛焼き 】情報解禁\u0026amp;告知🎉動画もあり⁉今年も鯛焼きだあああああにぇ！！！！！【ホロライブ/さくらみこ】"
+        "title": "【 Minecraft 】やることいっぱいにぇ～～～～～～～～～～い！【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -343,12 +343,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jFKNv3tKCCs",
         "picture": "https://i.ytimg.com/vi/jFKNv3tKCCs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738933200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【首都高バトル】ネタバレあり ハンコンで遊ぶゴールド免許オウガ　#5【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -365,23 +365,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UpEqbjckvEU",
         "picture": "https://i.ytimg.com/vi/UpEqbjckvEU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738933200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズ 】前回参加できなかった2度目のオープンβきたぁ！【不知火フレア/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LzAB-C-xp4w",
         "picture": "https://i.ytimg.com/vi/LzAB-C-xp4w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738933200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】突発でちょこっと遊ぶ！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6xWTiQf3k6E",
+        "picture": "https://i.ytimg.com/vi/6xWTiQf3k6E/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738972800,
+        "title": "【MONSTER HUNTER WILDS OPEN BETA】WE MUST TRAIN FOR RELEASE!!"
     }
 ]
