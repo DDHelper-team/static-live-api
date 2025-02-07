@@ -145,24 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=P5ZQCcuKDuA",
         "picture": "https://i.ytimg.com/vi/P5ZQCcuKDuA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738947600,
-        "title": "【STELLAR BLADE】We are Nier the end (actually idk, are we?) #kfp #キアライブ"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SClvbUFJqXM",
-        "picture": "https://i.ytimg.com/vi/SClvbUFJqXM/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #5【 領国つかさ / すぺしゃりて 】"
+        "title": "【STELLAR BLADE】We are Nier the end (actually idk, are we?) #kfp #キアライブ"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
@@ -174,17 +163,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738972800,
         "title": "【WHITE ALBUM ENDURANCE 耐久】rewinding time to reach the path to true love 🐾 【FUWAMOCO】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aLU9gSQWrQE",
-        "picture": "https://i.ytimg.com/vi/aLU9gSQWrQE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Monster Hunter World: Iceborne】君を倒した先のワイルズで俺は片手を握るんだっ!!【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
