@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SKu9uLJgj7c",
-        "picture": "https://i.ytimg.com/vi/SKu9uLJgj7c/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qPSRNELR1E0",
+        "picture": "https://i.ytimg.com/vi/qPSRNELR1E0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #コラボ配信  】心を通じ合わせて同じ答えが出せる？ぶいかふぇで仲良くなったし余裕でしょ！ 【#新人vtuber 】#TanZ #鏡愛しゅくり #桃川うさぴ #日向ぽかり #ゆいまるちゃん"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1739005200,
+        "title": "【歌枠 / Singing】400名様に同時に会いたい！！来れる！！？【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HovOgARmXbs",
         "picture": "https://i.ytimg.com/vi/HovOgARmXbs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738935000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 あつまれ どうぶつの森 】 冬眠導入の森【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -354,12 +354,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eGNQ_yJed9g",
         "picture": "https://i.ytimg.com/vi/eGNQ_yJed9g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1738935040,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Fast Food Simulator】そ、ろで限界を超えろ🍔【緋月ゆい/ネオポルテ】"
     },
     {
@@ -394,5 +394,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1738972800,
         "title": "【MONSTER HUNTER WILDS OPEN BETA】WE MUST TRAIN FOR RELEASE!!"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=idcS0YdY3dM",
+        "picture": "https://i.ytimg.com/vi/idcS0YdY3dM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738936800,
+        "title": "【メンバーシップ限定】キミといっしょになにか観たいですが…はたして！？【ホロライブ/宝鐘マリン】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=D5G93zlQqKo",
+        "picture": "https://i.ytimg.com/vi/D5G93zlQqKo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1738936800,
+        "title": "【 Minecraft 】木木木木木木木木木木木木【 猫又おかゆ/ホロライブ 】"
     }
 ]
