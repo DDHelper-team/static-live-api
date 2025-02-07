@@ -385,17 +385,6 @@
         "title": "【MONSTER HUNTER WILDS OPEN BETA】WE MUST TRAIN FOR RELEASE!!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "channellink": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -405,5 +394,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【 Minecraft 】木木木木木木木木木木木木【 猫又おかゆ/ホロライブ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=tjbvpr5im7c",
+        "picture": "https://i.ytimg.com/vi/tjbvpr5im7c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 Minecraft 】人間の温かみが恋しい【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
