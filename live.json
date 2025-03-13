@@ -165,17 +165,6 @@
         "title": "【 STREET FIGHTER 6】チーム1顔合わせ！！【アキロゼ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=X_bZgz4XXB0",
-        "picture": "https://i.ytimg.com/vi/X_bZgz4XXB0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】小さい声なら歌っていいよね？練習しよう！！【ホロライブ/ときのそら】"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
         "islive": true,
@@ -255,12 +244,45 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xguaFWSUdxs",
         "picture": "https://i.ytimg.com/vi/xguaFWSUdxs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741875300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【寝落ち推奨／囁き歌枠】眠くなる囁きでおはなししたり、まったり歌ったり【雑談】Singing and Talking in Whispers."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dXC6IGZWwfk",
+        "picture": "https://i.ytimg.com/vi/dXC6IGZWwfk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741878000,
+        "title": "【超高画質モンスターハンターワイルズ】HR170  視聴者参加型防具フルコンプの旅  #ランス   / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=mlIkPH0ehaE",
+        "picture": "https://i.ytimg.com/vi/mlIkPH0ehaE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741914000,
+        "title": "【#KROW4IT】It\u0026#39;s My Birthday But Not Really"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=y7qyRVchLG0",
+        "picture": "https://i.ytimg.com/vi/y7qyRVchLG0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741932000,
+        "title": "【Minecraft】it\u0026#39;s Grind time!【Moona Hoshinova】"
     }
 ]
