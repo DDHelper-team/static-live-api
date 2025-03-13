@@ -132,17 +132,6 @@
         "title": "【】はじまっちゃま～～～～～～～～～～～！【ホロライブ/赤井はあと】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1qOB2hTvEX8",
-        "picture": "https://i.ytimg.com/vi/1qOB2hTvEX8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ポケモン不思議のダンジョン 救助隊DX】ポケモンになっちゃう！？メインストーリークリアを目指すポケダン！【ホロライブ/白上フブキ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
         "islive": true,
@@ -200,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ckoa_lPvKto",
         "picture": "https://i.ytimg.com/vi/ckoa_lPvKto/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741869000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#魔物獵人荒野 】#05 想湊齊黑蝕龍四件套 （可能會有劇透）【#遊戲個人勢 / Fingla】"
     },
     {
@@ -266,12 +255,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=v5RFP9GMb7s",
         "picture": "https://i.ytimg.com/vi/v5RFP9GMb7s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741870800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Potion Craft 】鉱石採取できるようになりたい...！狼のお薬屋さん！【 ホロライブ / 大神ミオ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6cXc-uNXpxs",
+        "picture": "https://i.ytimg.com/vi/6cXc-uNXpxs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741872600,
+        "title": "【 モンハンワイルズ 】HR120！褒めろっ！なのら(・o・🍬)【姫森ルーナ/ホロライブ】"
     }
 ]
