@@ -176,17 +176,6 @@
         "title": "【CHAT】 TEMARI MV Release Party!!!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=eF_1fsNbl0Q",
-        "picture": "https://i.ytimg.com/vi/eF_1fsNbl0Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals】THE RIVALS NEVER STOP w/ @MoonaHoshinova 【Ayunda Risu】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "islive": true,
@@ -255,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QtsugwBRdfQ",
         "picture": "https://i.ytimg.com/vi/QtsugwBRdfQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741852800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Otsu Fes】Aftertalk!! Free Talk!!"
     },
     {
@@ -273,5 +262,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1741863600,
         "title": "【POPPY PLAY TIME】イヅルの超おすすめホラゲをやってみるぞ【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "channellink": "https://www.youtube.com/@VestiaZeta",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-agBx4yMSQ0",
+        "picture": "https://i.ytimg.com/vi/-agBx4yMSQ0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741864500,
+        "title": "Monster Hunter Wilds... I have returned..."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cz9t8i0ppxw",
+        "picture": "https://i.ytimg.com/vi/cz9t8i0ppxw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741854600,
+        "title": "【#CuriousTune3D Post-Talk】3D Birthday Live Post-Talk! 生誕祭ライブ振り返り！ 【hololive | Anya Melfissa】"
     }
 ]
