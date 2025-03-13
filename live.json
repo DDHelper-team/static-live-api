@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cFP5AQ6AUwE",
         "picture": "https://i.ytimg.com/vi/cFP5AQ6AUwE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741897800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】I CAN\u0026#39;T WAIT FOR THE CHARACTER CUSTOMIZATION"
     },
     {
@@ -209,7 +209,7 @@
         "title": "【 Minecraft 】新ホロ鯖！\u0026quot;んな電鉄\u0026quot;水中トンネルを施工するのら！！！＃４【姫森ルーナ/ホロライブ】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
