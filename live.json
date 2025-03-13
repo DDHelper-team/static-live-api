@@ -277,12 +277,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cz9t8i0ppxw",
         "picture": "https://i.ytimg.com/vi/cz9t8i0ppxw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741854600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#CuriousTune3D Post-Talk】3D Birthday Live Post-Talk! 生誕祭ライブ振り返り！ 【hololive | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jKjjLzWv0Ko",
+        "picture": "https://i.ytimg.com/vi/jKjjLzWv0Ko/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741867200,
+        "title": "はじめてのポケモンスタジオム金銀やってみたい"
     }
 ]
