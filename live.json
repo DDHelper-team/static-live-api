@@ -154,17 +154,6 @@
         "title": "【CHAT】 TEMARI MV Release Party!!!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qpqMS39HdYI",
-        "picture": "https://i.ytimg.com/vi/qpqMS39HdYI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Monster Hunter Wilds】HIGH RANK LETS GO"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "islive": false,
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1741870800,
         "title": "【メン限/MemberOnly】ホロメン曲を1時間で覚えられるかな！？#5【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4YOmRQbSBZ4",
+        "picture": "https://i.ytimg.com/vi/4YOmRQbSBZ4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741863300,
+        "title": "【 STREET FIGHTER 6】チーム1顔合わせ！！【アキロゼ/ホロライブ】"
     }
 ]
