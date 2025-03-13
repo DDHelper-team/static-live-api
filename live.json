@@ -132,28 +132,6 @@
         "title": "【】はじまっちゃま～～～～～～～～～～～！【ホロライブ/赤井はあと】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gWN_jtS4AyY",
-        "picture": "https://i.ytimg.com/vi/gWN_jtS4AyY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【POPPY PLAY TIME】イヅルの超おすすめホラゲをやってみるぞ【岸堂天真/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-agBx4yMSQ0",
-        "picture": "https://i.ytimg.com/vi/-agBx4yMSQ0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Monster Hunter Wilds... I have returned..."
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": true,
@@ -244,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EY-7TxnlFjw",
         "picture": "https://i.ytimg.com/vi/EY-7TxnlFjw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741872600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【都市伝説解体センター】※ネタバレ注意！新作ゲーム！解体は第三話「辺獄への階段」突入【尾丸ポルカ/ホロライブ】"
     },
     {
@@ -273,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1741939200,
         "title": "【電脳戦機バーチャロン マスターピース】みんなで遊ぶ！！電脳戦機バーチャロンオフコラボ！！！【ホロライブ/白上フブキ/大空スバル/鷹嶺ルイ/一条莉々華】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=N5Wl6HgOiuI",
+        "picture": "https://i.ytimg.com/vi/N5Wl6HgOiuI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741881600,
+        "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 2【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
