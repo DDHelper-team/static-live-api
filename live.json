@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BuDjdTfYE3U",
         "picture": "https://i.ytimg.com/vi/BuDjdTfYE3U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741870800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ  】角巻わため、狩猟解禁！！！！！！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -130,17 +130,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1741878000,
         "title": "【】はじまっちゃま～～～～～～～～～～～！【ホロライブ/赤井はあと】"
-    },
-    {
-        "channel": "https://www.youtube.com/@KoboKanaeru",
-        "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QtsugwBRdfQ",
-        "picture": "https://i.ytimg.com/vi/QtsugwBRdfQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Otsu Fes】Aftertalk!! Free Talk!!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
@@ -198,17 +187,6 @@
         "title": "【#魔物獵人荒野 】#05 想湊齊黑蝕龍四件套 （可能會有劇透）【#遊戲個人勢 / Fingla】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=mU4P7of7pQc",
-        "picture": "https://i.ytimg.com/vi/mU4P7of7pQc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741870800,
-        "title": "【メン限/MemberOnly】ホロメン曲を1時間で覚えられるかな！？#5【ホロライブ / AZKi】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "islive": true,
@@ -242,17 +220,6 @@
         "title": "【 Minecraft 】 助 け て く だ さ い 。【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=q5L4Aso65Qc",
-        "picture": "https://i.ytimg.com/vi/q5L4Aso65Qc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741870800,
-        "title": "【MemberOnly/甘々雑談】１日早いけどホワイトデーの約束❤覚えてる…？【不知火フレア/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "islive": true,
@@ -266,12 +233,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6cXc-uNXpxs",
         "picture": "https://i.ytimg.com/vi/6cXc-uNXpxs/maxresdefault_live.jpg",
         "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 モンハンワイルズ 】HR120！褒めろっ！なのらああああああ！！！(・o・🍬)【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EY-7TxnlFjw",
+        "picture": "https://i.ytimg.com/vi/EY-7TxnlFjw/maxresdefault_live.jpg",
+        "platform": "youtube",
         "status": "READY_TO_LIVE",
         "timestamp": 1741872600,
-        "title": "【 モンハンワイルズ 】HR120！褒めろっ！なのら(・o・🍬)【姫森ルーナ/ホロライブ】"
+        "title": "【都市伝説解体センター】※ネタバレ注意！新作ゲーム！解体は第三話「辺獄への階段」突入【尾丸ポルカ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6sfL6YCyXWA",
+        "picture": "https://i.ytimg.com/vi/6sfL6YCyXWA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741957200,
+        "title": "【歌回】犬夜叉歌回 你們喜歡哪個角色？  *可點歌單的歌，但最後才會唱"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AnhxVnLpGR0",
+        "picture": "https://i.ytimg.com/vi/AnhxVnLpGR0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741939200,
+        "title": "【電脳戦機バーチャロン マスターピース】みんなで遊ぶ！！電脳戦機バーチャロンオフコラボ！！！【ホロライブ/白上フブキ/大空スバル/鷹嶺ルイ/一条莉々華】"
     }
 ]
