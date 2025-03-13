@@ -176,17 +176,6 @@
         "title": "【Marvel Rivals】Push rank bisa gak ya?【Moona Hoshinova】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=vqRoYU1yHxY",
-        "picture": "https://i.ytimg.com/vi/vqRoYU1yHxY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MINECRAFT - HOLOLIVE NEW SERVER】JUST GOING TO WANDER AROUND THE SERVER~【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "islive": true,
@@ -295,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1741874400,
         "title": "【メンバー限定】寝る前にのんびりお話【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ckoa_lPvKto",
+        "picture": "https://i.ytimg.com/vi/ckoa_lPvKto/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1741869000,
+        "title": "【#魔物獵人荒野 】#05 想湊齊黑蝕龍四件套 （可能會有劇透）【#遊戲個人勢 / Fingla】"
     }
 ]
