@@ -101,23 +101,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y7qyRVchLG0",
         "picture": "https://i.ytimg.com/vi/y7qyRVchLG0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741932000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】it\u0026#39;s Grind time!【Moona Hoshinova】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=12vWnwE_vdM",
         "picture": "https://i.ytimg.com/vi/12vWnwE_vdM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1741924800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　3日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
