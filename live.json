@@ -143,17 +143,6 @@
         "title": "【FRAGPUNK】hero shooter with CARDS【Dokibird】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gUxu68KrWh8",
-        "picture": "https://i.ytimg.com/vi/gUxu68KrWh8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MARVEL RIVALS】DIBS ON GROOT OR LUNA SNOW【Kureiji Ollie】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742137200,
         "title": "【6th Fes Free Chat】Moom at Fes!! 🦉 #hololivefesEXPO25"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qy0UEWRbwSM",
+        "picture": "https://i.ytimg.com/vi/qy0UEWRbwSM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742119200,
+        "title": "「これは赤ん坊ですか？」「いいえ、バケツです」-The Stanley Parable: Ultra Deluxe【獅白ぼたん/ホロライブ】"
     }
 ]
