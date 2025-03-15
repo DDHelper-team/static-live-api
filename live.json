@@ -2,12 +2,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oViGdUxZSwc",
         "picture": "https://i.ytimg.com/vi/oViGdUxZSwc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742007600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラゴンクエスト11S 】完全初見。ドラクエ1から始めていよいよ11の冒険だ～✨✨✨【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -66,17 +66,6 @@
         "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RZISTNcvoTQ",
-        "picture": "https://i.ytimg.com/vi/RZISTNcvoTQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "islive": false,
@@ -123,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MwQjdofBaqk",
         "picture": "https://i.ytimg.com/vi/MwQjdofBaqk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742007600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】The GRIND"
     },
     {
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742040000,
         "title": "【#イオそら】Otsukare 6th Fes and EXPO! With Sora-neesan【  iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=7lk4T8uE7MY",
+        "picture": "https://i.ytimg.com/vi/7lk4T8uE7MY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742032800,
+        "title": "【#新生活大祭り】HP学園電撃入学！さくらみこ、いきなりのサヨナラ！？【ホロライブ／さくらみこ／白上フブキ】"
     }
 ]
