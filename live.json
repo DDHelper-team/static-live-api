@@ -24,13 +24,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=pD7cJd3gS_M",
         "picture": "https://i.ytimg.com/vi/pD7cJd3gS_M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742047200,
-        "title": "【 モンハンワイルズ 】はあちゃま、狩猟解禁！！？キャラクリだああああああああ‼️🌟【ホロライブ/赤井はあと】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 モンハンワイルズ 】はあちゃま、狩猟解禁！！？人生初めてのモンハンだああああああ‼️🌟【ホロライブ/赤井はあと】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -46,35 +46,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=JL2zOVg8-60",
-        "picture": "https://i.ytimg.com/vi/JL2zOVg8-60/maxresdefault_live.jpg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=hPTF6BmpeTA",
+        "picture": "https://i.ytimg.com/vi/hPTF6BmpeTA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742047200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【作業用BGM】第5回 #ゴリレバ 定期深夜Chillラジオ【天音かなた、雪花ラミィ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aN7_jJkiDFc",
-        "picture": "https://i.ytimg.com/vi/aN7_jJkiDFc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 PUBG MOBILE 】ReGLOSSとコラボ中？！トンカツが食べたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=00LzQrlqHwE",
-        "picture": "https://i.ytimg.com/vi/00LzQrlqHwE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PUBG MOBILE】ReGLOSSのボイスカードが実装！？ドン勝つ目指す！【轟はじめ/ReGLOSS】#PR ＃PUBGモバイル"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
@@ -121,17 +99,6 @@
         "title": "【モンハンワイルズ】怖いもの知らずのハンター４人で挑む！！！　え、今日は裸？【#ホロモンハン部】"
     },
     {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AcCARPOWTM0",
-        "picture": "https://i.ytimg.com/vi/AcCARPOWTM0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PUBG MOBILE】コラボでドン活という名のシャンコをする！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -174,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Marvel Rivals】which hero is suitable for me??  🤔🤔🤔"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xrHSxNRus_o",
-        "picture": "https://i.ytimg.com/vi/xrHSxNRus_o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【PUBG MOBILE】りりらでん枠✨ReGLOSSで初のPUBGだあああ～！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
