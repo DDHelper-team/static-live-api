@@ -110,17 +110,6 @@
         "title": "【FRAGPUNK】hero shooter with CARDS【Dokibird】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=hUAKegTf2zI",
-        "picture": "https://i.ytimg.com/vi/hUAKegTf2zI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】今日は集まれるメンツで顔合わせ！ #V最協第一幕【アルランディス/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
@@ -189,12 +178,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oTQGzlP_ZcU",
         "picture": "https://i.ytimg.com/vi/oTQGzlP_ZcU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742058000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#6【Ace Attorney: Spirit of Justice】THE BAD GUYS AREN\u0026#39;T BAD? (SPOILERS!)【Pavolia Reine/holoID 2ndgen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=VEpK0h6tGwM",
+        "picture": "https://i.ytimg.com/vi/VEpK0h6tGwM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742133600,
+        "title": "【Monster Hunter Wilds】Character Creating berapa jam ya?【Moona Hoshinova】"
     }
 ]
