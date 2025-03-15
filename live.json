@@ -143,17 +143,6 @@
         "title": "配信予定～～～～！！！最強無敵シオンちゃん！！【ホロライブ/紫咲シオン】"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CQp2V-ueTZk",
-        "picture": "https://i.ytimg.com/vi/CQp2V-ueTZk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Monster Hunter Wilds】 Morning Hunt"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "islive": true,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742029200,
         "title": "【ポケモンエメラルド】完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cM3wPYfpdB0",
+        "picture": "https://i.ytimg.com/vi/cM3wPYfpdB0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742043600,
+        "title": "【ゆる怖】キーワード怪談【荒咬オウガ /ホロスターズ】"
     }
 ]
