@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=FVJ6T3VWOxU",
         "picture": "https://i.ytimg.com/vi/FVJ6T3VWOxU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742018400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト6】#ししもんくん 作っていくぞい～！【獅白ぼたん/ホロライブ】"
     },
     {
@@ -244,12 +244,23 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7Sm1KPBIFpM",
         "picture": "https://i.ytimg.com/vi/7Sm1KPBIFpM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742018403,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼンレスゾーンゼロ】#2 | 完全初見！戦闘気持ち良すぎる神ゲー🔫【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xrHSxNRus_o",
+        "picture": "https://i.ytimg.com/vi/xrHSxNRus_o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742043600,
+        "title": "【PUBG MOBILE】りりらでん枠✨ReGLOSSで初のPUBGだあああ～！【一条莉々華/hololive DEV_IS　ReGLOSS】"
     }
 ]
