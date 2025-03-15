@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_T0_RREIt-I",
         "picture": "https://i.ytimg.com/vi/_T0_RREIt-I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742050800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#hololivefesEXPO25】I DID MY BEST!【  iofi / hololiveID 】"
     },
     {
@@ -130,17 +130,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ド★初見】ポケットモンスター（緑）クリアまでいけるかな！？【戌神ころね】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UxmCLuFCZIg",
-        "picture": "https://i.ytimg.com/vi/UxmCLuFCZIg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【モンハンワイルズ 】ギャルでいくモンハン‼️とりまHR40⏫️✋️ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -262,5 +251,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談!!】最近いろいろ発表されてついていけてません！！【 アステル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "channellink": "https://www.youtube.com/@Leona_Shishigami",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yWnIdDN7K4A",
+        "picture": "https://i.ytimg.com/vi/yWnIdDN7K4A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742052600,
+        "title": "【 -`🎙 歌枠/Singing 】ねえ、もう寝るの？【獅子神レオナ/Re:AcT】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hWg0x0x6bHo",
+        "picture": "https://i.ytimg.com/vi/hWg0x0x6bHo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742137200,
+        "title": "【6th Fes Free Chat】Moom at Fes!! 🦉 #hololivefesEXPO25"
     }
 ]
