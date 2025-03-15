@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7lk4T8uE7MY",
         "picture": "https://i.ytimg.com/vi/7lk4T8uE7MY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742032800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#新生活大祭り】HP学園電撃入学！さくらみこ、いきなりのサヨナラ！？【ホロライブ／さくらみこ／白上フブキ】"
     },
     {
