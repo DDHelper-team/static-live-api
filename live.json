@@ -231,17 +231,6 @@
         "title": "【Monster Hunter Wilds】KOBOKERZ LEND ME YOUR POWER!!! (again)"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=yuGYGfK4dPk",
-        "picture": "https://i.ytimg.com/vi/yuGYGfK4dPk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "da sleepy"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
         "islive": true,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742043600,
         "title": "【PUBG MOBILE】りりらでん枠✨ReGLOSSで初のPUBGだあああ～！【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=31cYxgzqXz0",
+        "picture": "https://i.ytimg.com/vi/31cYxgzqXz0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742043600,
+        "title": "【多分22時】ポケモン緑やる！？！？！？！？！？"
     }
 ]
