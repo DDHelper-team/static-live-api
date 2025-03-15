@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MwQjdofBaqk",
-        "picture": "https://i.ytimg.com/vi/MwQjdofBaqk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=V0plPBgyqPs",
+        "picture": "https://i.ytimg.com/vi/V0plPBgyqPs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Monster Hunter Wilds】The GRIND"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742094000,
+        "title": "【3D LIVE - HOPE UPON A STAR 】IRyS 2025 BIRTHDAY LIVE #IRySBDay2025"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
@@ -119,17 +119,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742043600,
         "title": "配信予定～～～～！！！最強無敵シオンちゃん！！【ホロライブ/紫咲シオン】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=me_2O_hm4Is",
-        "picture": "https://i.ytimg.com/vi/me_2O_hm4Is/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【超高画質モンスターハンターワイルズ】HR200  視聴者参加型 防具フルコンプの旅 朝活編  #ランス   / アステル"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
