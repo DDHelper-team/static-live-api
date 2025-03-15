@@ -121,24 +121,13 @@
         "title": "【ポケモンエメラルド】完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cM3wPYfpdB0",
-        "picture": "https://i.ytimg.com/vi/cM3wPYfpdB0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゆる怖】キーワード怪談【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "channellink": "https://www.youtube.com/@KoboKanaeru",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=Isah0TBuH3Q",
         "picture": "https://i.ytimg.com/vi/Isah0TBuH3Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Marvel Rivals】which hero is suitable for me??  🤔🤔🤔"
     },
@@ -152,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ド★初見】ポケットモンスター（緑）クリアまでいけるかな！？【戌神ころね】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qm8oqYq22ZA",
-        "picture": "https://i.ytimg.com/vi/qm8oqYq22ZA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター６】#V最協第一幕　ソロ練！【律可/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
@@ -273,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742086800,
         "title": "【朝活雑談】おはまっするさんで～🌞✨【白銀ノエル/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jXTOrE7-OCM",
+        "picture": "https://i.ytimg.com/vi/jXTOrE7-OCM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742097600,
+        "title": "【 ゼノブレイド2 】完全初見✦ のんびり冒険はじめます #08【 猫又おかゆ/ホロライブ 】"
     }
 ]
