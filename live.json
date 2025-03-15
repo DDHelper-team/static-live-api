@@ -101,13 +101,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qViHJByUhSg",
-        "picture": "https://i.ytimg.com/vi/qViHJByUhSg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_T0_RREIt-I",
+        "picture": "https://i.ytimg.com/vi/_T0_RREIt-I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#イオそら】Otsukare 6th Fes and EXPO! With Sora-neesan【  iofi / hololiveID 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742050800,
+        "title": "【#hololivefesEXPO25】I DID MY BEST!【  iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -306,5 +306,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【モンハンワイルズ】演奏会会場はコチラ。それゆけ！ #ホロモンハン部 【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Wm9sRdkGNmA",
+        "picture": "https://i.ytimg.com/vi/Wm9sRdkGNmA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742086800,
+        "title": "【朝活雑談】おはまっするさんで～🌞✨【白銀ノエル/ホロライブ】"
     }
 ]
