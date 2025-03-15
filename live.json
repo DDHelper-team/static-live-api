@@ -57,13 +57,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Hn7ZIr5R-3U",
         "picture": "https://i.ytimg.com/vi/Hn7ZIr5R-3U/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742011200,
-        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ELDEN RING DLC】#08 ようこそボニ村へ！なまえは可愛いぞ！！！初見エルデンリング！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nIbNNFlkhqc",
         "picture": "https://i.ytimg.com/vi/nIbNNFlkhqc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742011200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【グノーシア】大分進んできた特記事項をガンガン埋めていくっっ！ #8【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GB9XqX6pc9M",
         "picture": "https://i.ytimg.com/vi/GB9XqX6pc9M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742011200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ゼノブレイド2 】完全初見✦ のんびり冒険はじめます #07【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -163,17 +163,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【超高画質モンスターハンターワイルズ】HR200  視聴者参加型 防具フルコンプの旅 朝活編  #ランス   / アステル"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=F5bor3sOzzA",
-        "picture": "https://i.ytimg.com/vi/F5bor3sOzzA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【モンハンワイルズ】超じっくり進めるワイルズ生活 5日目"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -218,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742043600,
         "title": "【PUBG MOBILE】コラボでドン活という名のシャンコをする！！！【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zyGv3U4sZ0Q",
+        "picture": "https://i.ytimg.com/vi/zyGv3U4sZ0Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742097600,
+        "title": "【】龍が如く７：yakuza7【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5zQ6l38mMaw",
+        "picture": "https://i.ytimg.com/vi/5zQ6l38mMaw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742029200,
+        "title": "【ポケモンエメラルド】完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
