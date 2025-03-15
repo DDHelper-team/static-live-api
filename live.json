@@ -110,17 +110,6 @@
         "title": "【PUBG MOBILE】ReGLOSSのボイスカードが実装！？ドン勝つ目指す！【轟はじめ/ReGLOSS】#PR ＃PUBGモバイル"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=SaI28xHjz7Y",
-        "picture": "https://i.ytimg.com/vi/SaI28xHjz7Y/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Office lady makes you dinner after a long day | Yappa yappa"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
         "islive": false,
@@ -189,12 +178,45 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QYJQTYKymEI",
         "picture": "https://i.ytimg.com/vi/QYJQTYKymEI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742001300,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "singin\u0026#39; la la la la la la la now everyone is singin\u0026#39; la"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=F5bor3sOzzA",
+        "picture": "https://i.ytimg.com/vi/F5bor3sOzzA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【モンハンワイルズ】超じっくり進めるワイルズ生活 5日目"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZKEtRWPv5qk",
+        "picture": "https://i.ytimg.com/vi/ZKEtRWPv5qk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742043600,
+        "title": "【 Minecraft 】今日は深夜の釣り日和～～【 ホロライブ / 大神ミオ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=qViHJByUhSg",
+        "picture": "https://i.ytimg.com/vi/qViHJByUhSg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742040000,
+        "title": "【#イオそら】Otsukare 6th Fes and EXPO! With Sora-neesan【  iofi / hololiveID 】"
     }
 ]
