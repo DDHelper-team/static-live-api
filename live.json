@@ -88,25 +88,14 @@
         "title": "【3D LIVE - HOPE UPON A STAR 】IRyS 2025 BIRTHDAY LIVE #IRySBDay2025"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
-        "link": null,
-        "picture": null,
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null,
-        "title": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZKEtRWPv5qk",
         "picture": "https://i.ytimg.com/vi/ZKEtRWPv5qk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742045400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】今日は深夜の釣り日和～～【 ホロライブ / 大神ミオ 】"
     },
     {
@@ -317,16 +306,5 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【モンハンワイルズ】演奏会会場はコチラ。それゆけ！ #ホロモンハン部 【アキロゼ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7FYrat0nxKM",
-        "picture": "https://i.ytimg.com/vi/7FYrat0nxKM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Marvel Rivals collab】WOOOOOOO"
     }
 ]
