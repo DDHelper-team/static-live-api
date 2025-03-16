@@ -57,34 +57,34 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=31cYxgzqXz0",
-        "picture": "https://i.ytimg.com/vi/31cYxgzqXz0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cdrmGrs_ymg",
+        "picture": "https://i.ytimg.com/vi/cdrmGrs_ymg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ド★初見】ポケットモンスター（緑）クリアまでいけるかな！？【戌神ころね】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742097600,
+        "title": "#2【ド★初見】ポケットモンスター（緑）遊びます【戌神ころね】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=gxUHOgCPuEg",
         "picture": "https://i.ytimg.com/vi/gxUHOgCPuEg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742083200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FRAGPUNK】hero shooter with CARDS【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Wm9sRdkGNmA",
         "picture": "https://i.ytimg.com/vi/Wm9sRdkGNmA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742086800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】おはまっするさんで～🌞✨【白銀ノエル/ホロライブ】"
     },
     {
@@ -154,17 +154,6 @@
         "title": "【ウィンヒロ】WIND BREAKERの ゲームアプリがでたぞ！！どんな感じが遊んでみよう！【不知火フレア/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=OygA6Fv5Lro",
-        "picture": "https://i.ytimg.com/vi/OygA6Fv5Lro/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MONSTER HUNTER WILDS】TEMPERED HUNTING"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
         "islive": false,
@@ -174,5 +163,60 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742094000,
         "title": "【 雑談 】横浜に行ってきました～！【音乃瀬奏・ときのそら・儒烏風亭らでん】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4Him-dPaGe4",
+        "picture": "https://i.ytimg.com/vi/4Him-dPaGe4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742144400,
+        "title": "Listening to Viewers\u0026#39; Annonymous Sins【Confession Stream】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=S2VApXJEczM",
+        "picture": "https://i.ytimg.com/vi/S2VApXJEczM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742119200,
+        "title": "【ストリートファイター6】シュウジさんが俺を最強へ導く #V最協第一幕【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=tfouMNnLbKg",
+        "picture": "https://i.ytimg.com/vi/tfouMNnLbKg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【モンハンワイルズ】超じっくり進めるワイルズ生活 6日目"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3gO-Nu1KQDM",
+        "picture": "https://i.ytimg.com/vi/3gO-Nu1KQDM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742133600,
+        "title": "【 モンハンワイルズ  】見ていてね、わためハンターが何をやるのかを！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=giaKCF6T5VU",
+        "picture": "https://i.ytimg.com/vi/giaKCF6T5VU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742119200,
+        "title": "【麻雀一番街】第6回HP麻雀杯今度こそ優勝！【アキロゼ/ホロライブ】"
     }
 ]
