@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=odTjti_z5dQ",
         "picture": "https://i.ytimg.com/vi/odTjti_z5dQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742126400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#みこスバモンハン】3日目！！！みこちとモンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bPZM-OfXBII",
         "picture": "https://i.ytimg.com/vi/bPZM-OfXBII/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742126400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ 】みこスバモンハン成長物語！！！！！！！！～DAY3～【ホロライブ/さくらみこ/大空スバル】"
     },
     {
@@ -209,17 +209,6 @@
         "title": "【Minecraft】新ホロ鯖で釣りきち。【ホロライブ / AZKi】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=W_26yJ-Tasw",
-        "picture": "https://i.ytimg.com/vi/W_26yJ-Tasw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #ホロライ部 】みんなの推し活を抜き打ちチェック‼【 桃鈴ねね / hololive 】"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": true,
@@ -262,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742131800,
         "title": "【UNARCHIVED KARAOKE】SINGING TIME !【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=qXBvHMb9YqI",
+        "picture": "https://i.ytimg.com/vi/qXBvHMb9YqI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【＃影山シエン新衣装2025 】ようやくこの衣装に袖を通す日が来たか・・・【影山シエン/ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DPl8hH6m1vI",
+        "picture": "https://i.ytimg.com/vi/DPl8hH6m1vI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742164200,
+        "title": "【 #朝ミオ 】月曜日だよ～！！！おはみぉーん！"
     }
 ]
