@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=nYV0_ibYbFY",
         "picture": "https://i.ytimg.com/vi/nYV0_ibYbFY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742122800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ウィンヒロ】WIND BREAKERの ゲームアプリがでたぞ！！どんな感じが遊んでみよう！【不知火フレア/ホロライブ】"
     },
     {
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=V_BG1cTmX5M",
         "picture": "https://i.ytimg.com/vi/V_BG1cTmX5M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742122800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 -`🎮 モンハンワイルズ/MHWilds 】粉塵の調合分が足りません。【獅子神レオナ/Re:AcT】"
     },
     {
@@ -251,5 +251,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #ホロライ部 】みんなの推し活を抜き打ちチェック‼【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=dYbbXnTo4GM",
+        "picture": "https://i.ytimg.com/vi/dYbbXnTo4GM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "塔羅占卜#92｜下週就要春分了四季占卜有需要可以先考慮一下喔🔮✨🦊【Healing希靈/VTuber】"
     }
 ]
