@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9LXfxiSQ4Vc",
         "picture": "https://i.ytimg.com/vi/9LXfxiSQ4Vc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742108400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ 】ストーリー進めてます！よちよちガンランス！【 ホロライブ / 大神ミオ 】"
     },
     {
@@ -251,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742173200,
         "title": "【NEW MINECRAFT SERVER】mindcrab with morbi #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=txVQtO072y8",
+        "picture": "https://i.ytimg.com/vi/txVQtO072y8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742194800,
+        "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　4日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     }
 ]
