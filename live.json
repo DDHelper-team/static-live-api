@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4Him-dPaGe4",
         "picture": "https://i.ytimg.com/vi/4Him-dPaGe4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742144400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Listening to Viewers\u0026#39; Annonymous Sins【Confession Stream】"
     },
     {
@@ -64,17 +64,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742194800,
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　4日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=aASVW-khiXw",
-        "picture": "https://i.ytimg.com/vi/aASVW-khiXw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】新ホロ鯖で釣りきち。【ホロライブ / AZKi】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -167,12 +156,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8bovzciiMcQ",
         "picture": "https://i.ytimg.com/vi/8bovzciiMcQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742144400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Marvel Rivals】LETS HOP ON !【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=WZ5FmnUtlOU",
+        "picture": "https://i.ytimg.com/vi/WZ5FmnUtlOU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742162458,
+        "title": "【雑談】おはよ！⛅️【緋月ゆい/ネオポルテ】"
     }
 ]
