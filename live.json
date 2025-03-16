@@ -187,17 +187,6 @@
         "title": "【 #朝ミオ 】月曜日だよ～！！！おはみぉーん！"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=l2n1geytCKo",
-        "picture": "https://i.ytimg.com/vi/l2n1geytCKo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "リスナーさんの飯ツイ見て腹を空かせる。【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742173200,
         "title": "【Unarchived Rebroadcast】OffCollab singing in Japan with ERB!!! #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=VEpK0h6tGwM",
+        "picture": "https://i.ytimg.com/vi/VEpK0h6tGwM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Monster Hunter Wilds】Character Creating berapa jam ya?【Moona Hoshinova】"
     }
 ]
