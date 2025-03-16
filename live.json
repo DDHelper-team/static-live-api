@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=WZ5FmnUtlOU",
         "picture": "https://i.ytimg.com/vi/WZ5FmnUtlOU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742162458,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】おはよ！⛅️【緋月ゆい/ネオポルテ】"
     },
     {
