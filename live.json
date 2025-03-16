@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KPPrCCFqNgM",
         "picture": "https://i.ytimg.com/vi/KPPrCCFqNgM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742115600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケモンエメラルド】完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
