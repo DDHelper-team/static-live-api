@@ -44,17 +44,6 @@
         "title": "【PHASMOPHOBIA】solo, sick, and scared out of my wits 🐾 【MOCOCO SOLO】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=73BJzWyzMo4",
-        "picture": "https://i.ytimg.com/vi/73BJzWyzMo4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Potion Craft】ｺﾎﾟｺﾎﾟ煮出す男【 奏手イヅル / ホロスターズ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "islive": true,
@@ -196,5 +185,15 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742299200,
         "title": "【Monster Hunter Wilds】Full Party lets go! みんなと上位ランク！"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "islive": true,
+        "link": "https://www.twitch.tv/vedal987",
+        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "platform": "twitch",
+        "status": "LIVE",
+        "title": "the trolley problem w/ @sinder"
     }
 ]
