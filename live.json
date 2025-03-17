@@ -121,17 +121,6 @@
         "title": "【重大告知】ホロライブゲーマーズから重大発表です！！！！"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=pB3e3SzBjJ8",
-        "picture": "https://i.ytimg.com/vi/pB3e3SzBjJ8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】リオナとゾンビピグリントラップつくるぞ～！！！！！金だ金だ金だ～！！！【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "islive": true,
@@ -174,17 +163,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#28【影山シエン/ホロスターズ 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=oarFzUQdUO0",
-        "picture": "https://i.ytimg.com/vi/oarFzUQdUO0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】久々にお散歩しよう！【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
@@ -273,5 +251,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742270400,
         "title": "【 Minecraft 】ゲームセンターを作るぞ！【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kutsukiCh",
+        "channellink": "https://www.youtube.com/@kutsukiCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=RAhnS0AVm7Y",
+        "picture": "https://i.ytimg.com/vi/RAhnS0AVm7Y/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742299200,
+        "title": "【雜談】你 鼻塞了嗎? 天氣好冷一起來圍爐取暖🔥【玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #雜談"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EBWjIj-rQ3o",
+        "picture": "https://i.ytimg.com/vi/EBWjIj-rQ3o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742266800,
+        "title": "≪NieR Replicant ver.1.22474487139…≫ i lived... FIRST TIME PLAYTHROUGH! #5【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=W6qn77VNBnc",
+        "picture": "https://i.ytimg.com/vi/W6qn77VNBnc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742252400,
+        "title": "【MONSTER HUNTER WILDS】LEARNING ALL WEAPONS TO HUNT TEMPERED ARKVELD 14 TIMES【PART 2】"
     }
 ]
