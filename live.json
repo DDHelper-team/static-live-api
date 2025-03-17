@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3s_fvXcCnC0",
         "picture": "https://i.ytimg.com/vi/3s_fvXcCnC0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742220000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】I AM HOME! Character Customization Arc?【 iofi / hololiveID 】"
     },
     {
@@ -218,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ストリートファイター6】昨日の敵は今日の友 #V最協第一幕【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=rbL3tvfcYNE",
-        "picture": "https://i.ytimg.com/vi/rbL3tvfcYNE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 雑談 】最強天才中学生の無軌道雑談【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
