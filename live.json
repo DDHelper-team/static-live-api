@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=txVQtO072y8",
         "picture": "https://i.ytimg.com/vi/txVQtO072y8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742194800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　4日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -42,17 +42,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742216400,
         "title": "【ポケモンSV】はじめてのポケモン！バイオレットやってみる！【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=83BqRnEPnnE",
-        "picture": "https://i.ytimg.com/vi/83BqRnEPnnE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MONSTER HUNTER WILDS】LEARNING ALL WEAPONS TO HUNT TEMPERED ARKVELD 14 TIMES"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -152,5 +141,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742205600,
         "title": "【ポケモンSV ゼロの秘宝】こよのポケモン実況が帰ってきた！！！DLCいくぞ～～～！！！✊✨【博衣こより/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=gCKf6sK9eRs",
+        "picture": "https://i.ytimg.com/vi/gCKf6sK9eRs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【MINECRAFT - HOLOLIVE NEW SERVER】SHORT STREAM!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Drtytq81zRU",
+        "picture": "https://i.ytimg.com/vi/Drtytq81zRU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742202000,
+        "title": "【鬼チャレンジ】スーパーマリオブラザーズでノーワープノーセーブで残機ゼロになったら即終了！！【一条莉々華/hololive DEV_IS ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xaMolk8zOp4",
+        "picture": "https://i.ytimg.com/vi/xaMolk8zOp4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742202000,
+        "title": "【Underground Blossom】過去と未来へ旅をして秘密を解き明かせ 【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=iIIdDBu8-QU",
+        "picture": "https://i.ytimg.com/vi/iIIdDBu8-QU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742205600,
+        "title": "【モンハンワイルズ】人生初モンハン！！！！！初心者ハンター！【ホロライブ / AZKi】"
     }
 ]
