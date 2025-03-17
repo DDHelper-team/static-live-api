@@ -154,17 +154,6 @@
         "title": "#3【ド★初見】ポケットモンスター（緑）遊びます【戌神ころね】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=xhKgulrl950",
-        "picture": "https://i.ytimg.com/vi/xhKgulrl950/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 部屋訪問 】今年もみんなの部屋を見に行くぜぇええええええええ！！🌸🏠【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
         "islive": false,
@@ -273,5 +262,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ポケモンエメラルド】番外編！ミロカロス進化させるぞ！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cbhN0ATuphg",
+        "picture": "https://i.ytimg.com/vi/cbhN0ATuphg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742270400,
+        "title": "【 Minecraft 】ゲームセンターを作るぞ！【ホロライブ/夏色まつり】"
     }
 ]
