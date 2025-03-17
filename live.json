@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7oJvIG7FNtU",
         "picture": "https://i.ytimg.com/vi/7oJvIG7FNtU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742175000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Unarchived Rebroadcast】OffCollab singing in Japan with ERB!!! #kfp #キアライブ"
     },
     {
