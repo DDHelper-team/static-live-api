@@ -112,13 +112,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CTQP8l3adZQ",
-        "picture": "https://i.ytimg.com/vi/CTQP8l3adZQ/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3s_fvXcCnC0",
+        "picture": "https://i.ytimg.com/vi/3s_fvXcCnC0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Honor of Kings】NEW SEASON WRYYYYYYY【 iofi / hololiveID 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742220000,
+        "title": "【Monster Hunter Wilds】I AM HOME! Character Customization Arc?【 iofi / hololiveID 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -262,5 +262,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#28【影山シエン/ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oarFzUQdUO0",
+        "picture": "https://i.ytimg.com/vi/oarFzUQdUO0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742212800,
+        "title": "【配信予定地】【ホロライブ/ときのそら】"
     }
 ]
