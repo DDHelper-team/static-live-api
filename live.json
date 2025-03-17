@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=W6qn77VNBnc",
         "picture": "https://i.ytimg.com/vi/W6qn77VNBnc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742252400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MONSTER HUNTER WILDS】LEARNING ALL WEAPONS TO HUNT TEMPERED ARKVELD 14 TIMES【PART 2】"
     },
     {
