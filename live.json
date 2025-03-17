@@ -162,5 +162,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": null
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=33RSpTQbx6U",
+        "picture": "https://i.ytimg.com/vi/33RSpTQbx6U/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742266800,
+        "title": "【AmiAmi】 March Special Featuring @IRyS !!"
     }
 ]
