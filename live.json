@@ -167,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=g6guTqdHuno",
-        "picture": "https://i.ytimg.com/vi/g6guTqdHuno/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6SjMo6hujUk",
+        "picture": "https://i.ytimg.com/vi/6SjMo6hujUk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 That\u0026#39;s not my Neighbor 】ムムム...！怪しいヤツを見極めるお仕事！【 ホロライブ / 大神ミオ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742284800,
+        "title": "【重大告知】ホロライブゲーマーズから重大発表です！！！！"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -273,5 +273,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742212800,
         "title": "【配信予定地】【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=MomMW-sO9_I",
+        "picture": "https://i.ytimg.com/vi/MomMW-sO9_I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742294700,
+        "title": "【マクドナルド】#ティロリミックス 同時視聴しながらバーチャルポテト食べる！【VRChat】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EDgIek7PMcs",
+        "picture": "https://i.ytimg.com/vi/EDgIek7PMcs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742209200,
+        "title": "【ストリートファイター6】昨日の敵は今日の友 #V最協第一幕【アルランディス/ホロスターズ】"
     }
 ]
