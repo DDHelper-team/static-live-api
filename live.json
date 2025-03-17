@@ -134,24 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZDYbRzv-3ZE",
         "picture": "https://i.ytimg.com/vi/ZDYbRzv-3ZE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742205600,
-        "title": "【ポケモンSV ゼロの秘宝】こよのポケモン実況が帰ってきた！！！DLCいくぞ～～～！！！✊✨【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Drtytq81zRU",
-        "picture": "https://i.ytimg.com/vi/Drtytq81zRU/maxresdefault_live.jpg",
-        "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【鬼チャレンジ】スーパーマリオブラザーズでノーワープノーセーブで残機ゼロになったら即終了！！【一条莉々華/hololive DEV_IS ReGLOSS】"
+        "title": "【ポケモンSV ゼロの秘宝】こよのポケモン実況が帰ってきた！！！DLCいくぞ～～～！！！✊✨【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -167,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iIIdDBu8-QU",
         "picture": "https://i.ytimg.com/vi/iIIdDBu8-QU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742205600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズ】人生初モンハン！！！！！初心者ハンター！【ホロライブ / AZKi】"
     },
     {
@@ -251,5 +240,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742212800,
         "title": "【 部屋訪問 】今年もみんなの部屋を見に行くぜぇええええええええ！！🌸🏠【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gcot8fNlkgk",
+        "picture": "https://i.ytimg.com/vi/gcot8fNlkgk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742292000,
+        "title": "【#ガレ展 】サントリー美術館さんのエミール・ガレ展に潜入！特別映像たっぷり\u0026amp;食レポ\u0026amp;解説でお届けします！【儒烏風亭らでん #ReGLOSS 】#PR"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=HLykUphz2kE",
+        "picture": "https://i.ytimg.com/vi/HLykUphz2kE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ツイステ】サバナクロー寮にいそうな奴がプレイするツイステッドワンダーランド#28【影山シエン/ホロスターズ 】"
     }
 ]
