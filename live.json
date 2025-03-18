@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MomMW-sO9_I",
         "picture": "https://i.ytimg.com/vi/MomMW-sO9_I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742294700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【マクドナルド】#ティロリミックス 同時視聴しながらバーチャルポテト食べる！【VRChat】"
     },
     {
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742295600,
         "title": "【モンハンワイルズ】人生初モンハン！！！！！初心者ハンター！#2【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "channellink": "https://www.youtube.com/@FinglaGrowl",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=gZW9KGv3ug0",
+        "picture": "https://i.ytimg.com/vi/gZW9KGv3ug0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742302800,
+        "title": "【#heavyrain 】#01 找到方法可以玩了!!! 讓我們來回顧經典~【#遊戲個人勢 / Fingla】"
     }
 ]
