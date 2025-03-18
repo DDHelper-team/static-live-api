@@ -13,12 +13,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BJYiTgM7Gy8",
         "picture": "https://i.ytimg.com/vi/BJYiTgM7Gy8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742263200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Stuck in a Room with the Devilish Diva【Escape Simulator】"
     },
     {
@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KQDR8LDAsjk",
         "picture": "https://i.ytimg.com/vi/KQDR8LDAsjk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742263200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Can WE make it OUT?! | Escape Simulator"
     },
     {
@@ -163,5 +163,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742302800,
         "title": "【 Minecraft 】今日こそネザライト掘らなくちゃっ！！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SVPt2gUezzU",
+        "picture": "https://i.ytimg.com/vi/SVPt2gUezzU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742288400,
+        "title": "【Minecraft】0から始まる新ホロ鯖！！！太陽神殿計画発動！素材あつめ頑張ろおお🌞【白銀ノエル/ホロライブ】"
     }
 ]
