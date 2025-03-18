@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5StMNCPLmJs",
         "picture": "https://i.ytimg.com/vi/5StMNCPLmJs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742283000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【A GAME ABOUT DIGGING A HOLE】 HOW BIG??? 【Kureiji Ollie】"
     },
     {
@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742292000,
         "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0k6ILU0Krj8",
+        "picture": "https://i.ytimg.com/vi/0k6ILU0Krj8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742292000,
+        "title": "【ポケットモンスター青】完全所見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
     }
 ]
