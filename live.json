@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cbhN0ATuphg",
         "picture": "https://i.ytimg.com/vi/cbhN0ATuphg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742277600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】ゲームセンターを作るぞ！【ホロライブ/夏色まつり】"
     },
     {
@@ -174,5 +174,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742302800,
         "title": "＃２【ポケモンSV】はじめてのポケモン！いよいよ冒険の旅に出る！【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=L-h7b2QCP1o",
+        "picture": "https://i.ytimg.com/vi/L-h7b2QCP1o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742284800,
+        "title": "【Monster Hunter Wilds】MonHun Brainrot be like【 iofi / hololiveID 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=F-W3UIjSM18",
+        "picture": "https://i.ytimg.com/vi/F-W3UIjSM18/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742286600,
+        "title": "【ストリートファイター６】#V最協第一幕　ボンちゃんさんコーチング！#2【律可/ボンちゃん/ホロスターズ】"
     }
 ]
