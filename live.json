@@ -110,17 +110,6 @@
         "title": "＃２【ポケモンSV】はじめてのポケモン！いよいよ冒険の旅に出る！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=F-W3UIjSM18",
-        "picture": "https://i.ytimg.com/vi/F-W3UIjSM18/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター６】#V最協第一幕　ボンちゃんさんコーチング！#2【律可/ボンちゃん/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
@@ -145,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lWESBbpBclU",
-        "picture": "https://i.ytimg.com/vi/lWESBbpBclU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Lvnu_lAcdxI",
+        "picture": "https://i.ytimg.com/vi/Lvnu_lAcdxI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 逆再生キング 】新作！マイクを使ってお題と逆再生の声を出すゲームで高得点を目指せ！！！！！！！【ホロライブ/さくらみこ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742299200,
+        "title": "【 Minecraft 】新ホロ鯖🌱ワンパンチャレンジをしたりいろいろしたいぜ！！！！！！【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -240,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742302800,
         "title": "【#heavyrain 】#01 找到方法可以玩了!!! 讓我們來回顧經典~【#遊戲個人勢 / Fingla】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=8Ojyus2Oiiw",
+        "picture": "https://i.ytimg.com/vi/8Ojyus2Oiiw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742301000,
+        "title": "【ドンキーコング リターンズ HD】今日こそクリアだ！！【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hakuzen0025",
+        "channellink": "https://www.youtube.com/@Hakuzen0025",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Xtgv_mwyQlg",
+        "picture": "https://i.ytimg.com/vi/Xtgv_mwyQlg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742299200,
+        "title": "『復健歌回』兩週不見甚是想念【久田はくぜん🦊】"
     }
 ]
