@@ -24,12 +24,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6SjMo6hujUk",
         "picture": "https://i.ytimg.com/vi/6SjMo6hujUk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742284800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【重大告知】ホロライブゲーマーズから重大発表です！！！！"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "channellink": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=L-h7b2QCP1o",
         "picture": "https://i.ytimg.com/vi/L-h7b2QCP1o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742284800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】MonHun Brainrot be like【 iofi / hololiveID 】"
     },
     {
@@ -251,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742292000,
         "title": "【ポケットモンスター青】完全所見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=x2tSa4oN4Vg",
+        "picture": "https://i.ytimg.com/vi/x2tSa4oN4Vg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742346000,
+        "title": "【R.E.P.O】team brawlpro is back【Dokibird】"
     }
 ]
