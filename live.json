@@ -13,23 +13,23 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mUxuAcensBs",
-        "picture": "https://i.ytimg.com/vi/mUxuAcensBs/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BJYiTgM7Gy8",
+        "picture": "https://i.ytimg.com/vi/BJYiTgM7Gy8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "I\u0026#39;m a Rotten Girl Cleaning Rotten Deeds【Crime Scene Cleaner】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742263200,
+        "title": "Stuck in a Room with the Devilish Diva【Escape Simulator】"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "channellink": "https://www.youtube.com/@FUWAMOCOch",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Sxx4UW3XKnc",
         "picture": "https://i.ytimg.com/vi/Sxx4UW3XKnc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742259600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【PHASMOPHOBIA】solo, sick, and scared out of my wits 🐾 【MOCOCO SOLO】"
     },
     {
