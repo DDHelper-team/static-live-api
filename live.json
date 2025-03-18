@@ -275,17 +275,6 @@
         "title": "【未解決事件は終わらせないといけないから】この事件すべて解決します!!【花咲みやび/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PERDo3vpjxE",
-        "picture": "https://i.ytimg.com/vi/PERDo3vpjxE/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 七日参り 】夢が叶うと言われているお参りへ【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "islive": false,
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742346000,
         "title": "≪NieR Replicant ver.1.22474487139…≫ ROUTE B.. FIRST TIME PLAYTHROUGH! #6【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3VGi1-HNq9A",
+        "picture": "https://i.ytimg.com/vi/3VGi1-HNq9A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742364000,
+        "title": "【モンハンワイルズ】人生はじめてのモンハン生活！！！！！！！強くなる！！！#2【ホロライブ/赤井はあと】"
     }
 ]
