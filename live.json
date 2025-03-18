@@ -156,12 +156,23 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jN6hWtq3nqE",
         "picture": "https://i.ytimg.com/vi/jN6hWtq3nqE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742340642,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雀魂】#8 | 0から始まる麻雀生活🀄【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "channellink": "https://www.youtube.com/@KosekiBijou",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=csPbPe0-fB8",
+        "picture": "https://i.ytimg.com/vi/csPbPe0-fB8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742349600,
+        "title": "【PHASMOPHOBIA COLLAB】The calmest, most relaxing ghost hunts ever."
     }
 ]
