@@ -187,13 +187,24 @@
         "title": "【 #猫又おかゆ新衣装2025 】ちょっぴり●●●な衣装です😸💜【 猫又おかゆ/ホロライブ 】"
     },
     {
-        "avatar": null,
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
         "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
         "platform": "twitch",
         "status": "LIVE",
-        "title": "evil stream"
+        "title": null
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lS9e43gkaLA",
+        "picture": "https://i.ytimg.com/vi/lS9e43gkaLA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742389200,
+        "title": "今日はお酒を呑みたい気分……なのらね🍸(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】"
     }
 ]
