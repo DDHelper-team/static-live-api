@@ -66,17 +66,6 @@
         "title": "【主題雜談】兼職4年Vtuber 是怎麼一步步走過來的心路歷程分享"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=cbhN0ATuphg",
-        "picture": "https://i.ytimg.com/vi/cbhN0ATuphg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】ゲームセンターを作るぞ！【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/@kutsukiCh",
         "channellink": "https://www.youtube.com/@kutsukiCh",
         "islive": false,
@@ -86,17 +75,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742299200,
         "title": "【雜談】你 鼻塞了嗎? 天氣好冷一起來圍爐取暖🔥【玖月蕾希/玖月レイシ】#台灣vtuber #vtuber #初見歡迎 #雜談"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=EBWjIj-rQ3o",
-        "picture": "https://i.ytimg.com/vi/EBWjIj-rQ3o/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "≪NieR Replicant ver.1.22474487139…≫ i lived... FIRST TIME PLAYTHROUGH! #5【SPOILER WARNING】"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -189,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F-W3UIjSM18",
         "picture": "https://i.ytimg.com/vi/F-W3UIjSM18/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742286600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター６】#V最協第一幕　ボンちゃんさんコーチング！#2【律可/ボンちゃん/ホロスターズ】"
     },
     {
@@ -262,5 +240,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742346000,
         "title": "【R.E.P.O】team brawlpro is back【Dokibird】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4eHIKHsbCEg",
+        "picture": "https://i.ytimg.com/vi/4eHIKHsbCEg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742299200,
+        "title": "【#生スバル】おさんぽスバルしゅばああああああああああああああああああああああああああああ / MINE CRAFT【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AzHLp6tD8mo",
+        "picture": "https://i.ytimg.com/vi/AzHLp6tD8mo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742299200,
+        "title": "【モンハンワイルズ 】#ホロモンハン部  上位進める！！！！！！　※ネタバレ注意【常闇トワ/ホロライブ】"
     }
 ]
