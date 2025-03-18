@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dNevG9u2QDE",
         "picture": "https://i.ytimg.com/vi/dNevG9u2QDE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742302800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】今日こそネザライト掘らなくちゃっ！！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -75,17 +75,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】0から始まる新ホロ鯖！！！太陽神殿計画発動！素材あつめ頑張ろおお🌞【白銀ノエル/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=C9vp7UmLADg",
-        "picture": "https://i.ytimg.com/vi/C9vp7UmLADg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #にゃんぐこーん 】こんにちは、姉妹ですよ🍙🌽【 まさかの告知アリ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
@@ -146,12 +135,12 @@
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=0k6ILU0Krj8",
-        "picture": "https://i.ytimg.com/vi/0k6ILU0Krj8/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=stLOLARyATw",
+        "picture": "https://i.ytimg.com/vi/stLOLARyATw/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【ポケットモンスター青】#01｜完全初見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
+        "title": "【ポケットモンスター青】#01｜完全初見！ポケモン初代をプレイ！！（枠変え）【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -328,5 +317,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742310000,
         "title": "【Monster Hunter Wilds】WIIIIIIIIIIIIIIIIIIIIIIII【Moona Hoshinova】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GYpWKigcXfA",
+        "picture": "https://i.ytimg.com/vi/GYpWKigcXfA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742349600,
+        "title": "【EVERHOOD 2】the TRIPPIEST RHYTHM GAME EVER is BACK!? #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fvn_oKykb9s",
+        "picture": "https://i.ytimg.com/vi/fvn_oKykb9s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742346000,
+        "title": "≪NieR Replicant ver.1.22474487139…≫ ROUTE B.. FIRST TIME PLAYTHROUGH! #6【SPOILER WARNING】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=8su5y3qBh74",
+        "picture": "https://i.ytimg.com/vi/8su5y3qBh74/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#ちょこっとクッキング】本日は至高の中華料理作らせていただきます!【ホロライブ/癒月ちょこ/周防パトラ/でびでび・でびる/鷹宮リオン】"
     }
 ]
