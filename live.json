@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=q8D6-zMrtJ8",
         "picture": "https://i.ytimg.com/vi/q8D6-zMrtJ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742374800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ 】ストーリー進めてます！よちよちガンランス！【 ホロライブ / 大神ミオ 】"
     },
     {
@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=PWlGr0qO6p0",
         "picture": "https://i.ytimg.com/vi/PWlGr0qO6p0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742374800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター６】#V最協第一幕　ボンちゃんさんコーチング！#３【律可/ボンちゃん/ホロスターズ】"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-PzH9JAO2Rc",
         "picture": "https://i.ytimg.com/vi/-PzH9JAO2Rc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742374800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケットモンスター青】#02｜完全初見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -273,5 +273,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【A GAME ABOUT DIGGING A HOLE】 I AM SHOVEL 【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9L__xGpkcL4",
+        "picture": "https://i.ytimg.com/vi/9L__xGpkcL4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742428800,
+        "title": "【THAT\u0026#39;S NOT MY NEIGHBOR】here for the milkman【Dokibird】"
     }
 ]
