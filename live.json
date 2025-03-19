@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=3VGi1-HNq9A",
         "picture": "https://i.ytimg.com/vi/3VGi1-HNq9A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742364000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズ】人生はじめてのモンハン生活！！！！！！！強くなる！！！#2【ホロライブ/赤井はあと】"
     },
     {
@@ -229,5 +229,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742374800,
         "title": "【ポケットモンスター青】#02｜完全初見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=3ppOXZLqn_Q",
+        "picture": "https://i.ytimg.com/vi/3ppOXZLqn_Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742380200,
+        "title": "【STREET FIGHTER 6】V最協チーム本当の顔合わせ！　→　コーチング【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6GkTbm8gYJo",
+        "picture": "https://i.ytimg.com/vi/6GkTbm8gYJo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742385600,
+        "title": "【Minecraft】建築案が難航してるので　遊びに全振りする！！　ウィザスケの頭欲しい！【ホロライブ/白上フブキ】"
     }
 ]
