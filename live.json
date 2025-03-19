@@ -28,7 +28,7 @@
         "link": "https://www.youtube.com/watch?v=_7Zx6qFbekI",
         "picture": "https://i.ytimg.com/vi/_7Zx6qFbekI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1742378400,
         "title": "【スト６】V最チームれんしゅー❕🔥【ラプラス・ダークネス/ホロライブ】"
     },
@@ -73,7 +73,7 @@
         "picture": "https://i.ytimg.com/vi/n_wOow2whcE/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1742378400,
+        "timestamp": 1742380200,
         "title": "【ストリートファイター6】ついに集いしサイキョウの仲間 #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PWlGr0qO6p0",
-        "picture": "https://i.ytimg.com/vi/PWlGr0qO6p0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_56C-IyFEs8",
+        "picture": "https://i.ytimg.com/vi/_56C-IyFEs8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター６】#V最協第一幕　ボンちゃんさんコーチング！#３【律可/ボンちゃん/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742385600,
+        "title": "【ストリートファイター６】#V最協第一幕　team練再び！【律可/ボンちゃん/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=deWLaAxYM-Q",
         "picture": "https://i.ytimg.com/vi/deWLaAxYM-Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742378400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケモンエメラルド】完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
