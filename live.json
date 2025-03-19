@@ -154,17 +154,6 @@
         "title": "【ストリートファイター６】#V最協第一幕　ボンちゃんさんコーチング！#３【律可/ボンちゃん/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FEKqGOEetBg",
-        "picture": "https://i.ytimg.com/vi/FEKqGOEetBg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Potion Craft】歯を痛めてしまってな？薬が欲しいんじゃよ。Part2【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": false,
@@ -244,12 +233,34 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EuyhCnQ-6-I",
         "picture": "https://i.ytimg.com/vi/EuyhCnQ-6-I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742371200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【A Game About Digging a Hole】We\u0026#39;re going down !【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ppLrjZ-dATg",
+        "picture": "https://i.ytimg.com/vi/ppLrjZ-dATg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742385618,
+        "title": "【APEX】1ヶ月ぶりに帰還 w/てとち、あむちゃ【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=g1R0T5gq188",
+        "picture": "https://i.ytimg.com/vi/g1R0T5gq188/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【  ポケモンSV 】ねねと虫パ！！DLC#3【 桃鈴ねね / hololive 】"
     }
 ]
