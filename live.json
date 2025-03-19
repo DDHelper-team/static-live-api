@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=E93sPaxGAR4",
         "picture": "https://i.ytimg.com/vi/E93sPaxGAR4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742356800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　5日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
