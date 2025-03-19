@@ -211,12 +211,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "channellink": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Gt8WMnHPcNI",
         "picture": "https://i.ytimg.com/vi/Gt8WMnHPcNI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742402700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】SUDDEN COLLAB ?????? I am just creating character tho【Ayunda Risu】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DRxpzZSQm7A",
+        "picture": "https://i.ytimg.com/vi/DRxpzZSQm7A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742468400,
+        "title": "【ストリートファイター6】ギ　ャ　ラ　ク　シ　ー　ア　テ　ン　ド #V最協第一幕【アルランディス/ホロスターズ】"
     }
 ]
