@@ -77,17 +77,6 @@
         "title": "今日はお酒を呑みたい気分……なのらね🍸(・o・🍬) ～高級クラブルーナ【姫森ルーナ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=WnHx0O5FiyU",
-        "picture": "https://i.ytimg.com/vi/WnHx0O5FiyU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #今夜は語りあいたい 】トークバラエティ今夜は語りあいたい！～競馬好きVtuber～【鷹嶺ルイ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": false,
@@ -95,7 +84,7 @@
         "picture": "https://i.ytimg.com/vi/sKE1TmeY2cs/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1742389200,
+        "timestamp": 1742392800,
         "title": "【Potion Craft】ｸﾞﾂｸﾞﾂ煮詰める男【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -112,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KI4UKg3Kcg4",
         "picture": "https://i.ytimg.com/vi/KI4UKg3Kcg4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742389200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ 】みこスバモンハン成長物語！！！！！！！！～DAY4～【ホロライブ/さくらみこ/大空スバル】"
     },
     {
@@ -156,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EzNrEqw_l6k",
         "picture": "https://i.ytimg.com/vi/EzNrEqw_l6k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742389200,
-        "title": "【#みこスバモンハン】3日目！！！みこちとモンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#みこスバモンハン】4日目！！！みこちとモンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -222,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BKSwKWu_EtM",
         "picture": "https://i.ytimg.com/vi/BKSwKWu_EtM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742389200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "リスナーさんの飯ツイ見て腹を空かせる。part2【花咲みやび/ホロスターズ】"
     },
     {
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742396400,
         "title": "【モンハンワイルズ】猛者たちとはじめてのモンハンコラボだ・・・！！！🌟【#ホロライブ１期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Tsfd7nzFhG8",
+        "picture": "https://i.ytimg.com/vi/Tsfd7nzFhG8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742475600,
+        "title": "【主題雜談】惡劣健身房 遇到哪些事情一起來分享"
     }
 ]
