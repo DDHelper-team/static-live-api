@@ -99,17 +99,6 @@
         "title": "【 #今夜は語りあいたい 】トークバラエティ今夜は語りあいたい！～競馬好きVtuber～【鷹嶺ルイ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=q8D6-zMrtJ8",
-        "picture": "https://i.ytimg.com/vi/q8D6-zMrtJ8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 モンハンワイルズ 】ストーリー進めてます！よちよちガンランス！【 ホロライブ / 大神ミオ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "islive": false,
@@ -152,17 +141,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ポケモンエメラルド】完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-PzH9JAO2Rc",
-        "picture": "https://i.ytimg.com/vi/-PzH9JAO2Rc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ポケットモンスター青】#02｜完全初見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -273,5 +251,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【スト６】V最チームれんしゅー❕🔥【ラプラス・ダークネス/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cegFnfICWNk",
+        "picture": "https://i.ytimg.com/vi/cegFnfICWNk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742461200,
+        "title": "＃３【ポケモンSV】はじめてのポケモン！まだ見ぬ世界へ！【轟はじめ/ReGLOSS】 #hololivedev_is"
     }
 ]
