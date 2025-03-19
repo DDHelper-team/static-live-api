@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sKE1TmeY2cs",
         "picture": "https://i.ytimg.com/vi/sKE1TmeY2cs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742392800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Potion Craft】ｸﾞﾂｸﾞﾂ煮詰める男【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vRkzBrAxGLA",
         "picture": "https://i.ytimg.com/vi/vRkzBrAxGLA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1742391000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #APEX 】リスナーさん参加○！APEXプレイ！【#新人vtuber 】"
     },
     {
