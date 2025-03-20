@@ -143,17 +143,6 @@
         "title": "≪Misty Mountain Gaming DICE COLLAB!≫ WE PLAY DICE!"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=W04qNzJQMac",
-        "picture": "https://i.ytimg.com/vi/W04qNzJQMac/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 STREET FIGHTER 6】村長と練習するぞ！！！！【アキロゼ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@HiodoshiAo",
         "channellink": "https://www.youtube.com/@HiodoshiAo",
         "islive": false,
@@ -174,5 +163,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 7【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fpX1Z-4pMqk",
+        "picture": "https://i.ytimg.com/vi/fpX1Z-4pMqk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742515200,
+        "title": "【DEATH\u0026#39;S DOOR】crow souls-like??【Dokibird】"
     }
 ]
