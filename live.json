@@ -99,17 +99,6 @@
         "title": "【A Game About Digging A Hole】スゴイ宝物が埋まってると噂の穴を掘るゲームやるぞ！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5j8kn3BZlRw",
-        "picture": "https://i.ytimg.com/vi/5j8kn3BZlRw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
@@ -229,5 +218,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742554800,
         "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LwxNtnti7RY",
+        "picture": "https://i.ytimg.com/vi/LwxNtnti7RY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742486400,
+        "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 7【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=i5YJTfZvUy0",
+        "picture": "https://i.ytimg.com/vi/i5YJTfZvUy0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Potion Craft】今日もポーションをこねくり回す！【岸堂天真/ホロスターズ】"
     }
 ]
