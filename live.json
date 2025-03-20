@@ -57,12 +57,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=dh-LV4mG6Ww",
         "picture": "https://i.ytimg.com/vi/dh-LV4mG6Ww/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742450400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 隻狼 】２周目！別エンディングを目指して『SEKIRO: SHADOWS DIE TWICE』参るのらっ！⚔(・o・🍬) ＃２【姫森ルーナ/ホロライブ】ネタバレあり"
     },
     {
@@ -174,17 +174,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742461200,
         "title": "【 holo8 】麺屋ぼたんがオープンしたと聞いて【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qoC0mnebaso",
-        "picture": "https://i.ytimg.com/vi/qoC0mnebaso/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【MONSTER HUNTER WILDS】 A Few Hunts...."
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
