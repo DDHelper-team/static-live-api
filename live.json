@@ -44,17 +44,6 @@
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　6日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bNvkrJdI0Wg",
-        "picture": "https://i.ytimg.com/vi/bNvkrJdI0Wg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 3D配信 】みんなが駆けつけてくれましたああああ🔥🔥✦【 #おかゆセカンドわかり手GP/ホロライブ 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": true,
@@ -72,7 +61,7 @@
         "link": "https://www.youtube.com/watch?v=pACaV7gymZM",
         "picture": "https://i.ytimg.com/vi/pACaV7gymZM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1742468400,
         "title": "【 #ホロスタメデュラ 】4人で進む美容すごろく？！【奏手イヅル/アステル・レダ/花咲みやび/岸堂天真】"
     },
@@ -134,23 +123,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DRxpzZSQm7A",
         "picture": "https://i.ytimg.com/vi/DRxpzZSQm7A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742468400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】ギ　ャ　ラ　ク　シ　ー　ア　テ　ン　ド #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5pRQyD6VWwk",
         "picture": "https://i.ytimg.com/vi/5pRQyD6VWwk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742468400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #角巻わため新衣装2025 】今回の衣装は弾け飛びそう...？！告知もあるよ！NEW OUTFIT🐏✨【角巻わため/ホロライブ４期生】"
     },
     {
@@ -209,17 +198,6 @@
         "title": "【朝活】おはよう☀mgmg～Eat Time❣最近沢山寝て療養してましたボクの声をきけえ！(⩌⩊⩌)【#ホロライブ #ロボ子さん 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=djXN0eVF_mQ",
-        "picture": "https://i.ytimg.com/vi/djXN0eVF_mQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Monster Hunter Wilds】Pew pew【Moona Hoshinova】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "islive": true,
@@ -233,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-8ZHJa24LJ4",
         "picture": "https://i.ytimg.com/vi/-8ZHJa24LJ4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742468400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【hololive OCG】明日発売‼ホロカ第３弾 12BOX開封✨サイン入りSECカード当てるにぇええええ‼【ホロライブ/さくらみこ】"
     },
     {
@@ -295,5 +273,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742472000,
         "title": "【STREET FIGHTER 6】すこしだけ！でも！練習～～～！！！【常闇トワ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Miox3riNfV8",
+        "picture": "https://i.ytimg.com/vi/Miox3riNfV8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742472000,
+        "title": "【 #にじホロ交流戦 】初めてのプロスピ⚾１年目新入生ガチャだああ！！！！【天音かなた/ホロライブ】"
     }
 ]
