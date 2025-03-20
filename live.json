@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=djXN0eVF_mQ",
         "picture": "https://i.ytimg.com/vi/djXN0eVF_mQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742454000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】Pew pew【Moona Hoshinova】"
     }
 ]
