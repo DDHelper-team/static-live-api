@@ -46,12 +46,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bNvkrJdI0Wg",
         "picture": "https://i.ytimg.com/vi/bNvkrJdI0Wg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742464800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 3D配信 】みんなが駆けつけてくれましたああああ🔥🔥✦【 #おかゆセカンドわかり手GP/ホロライブ 】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=zhGzT6Asahk",
         "picture": "https://i.ytimg.com/vi/zhGzT6Asahk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742464800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【同時視聴】サッカー日本代表 VS バーレーン戦 みんなで見よう！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -189,23 +189,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=UiujyM6uVlo",
-        "picture": "https://i.ytimg.com/vi/UiujyM6uVlo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Yx0Q5qcEJ-g",
+        "picture": "https://i.ytimg.com/vi/Yx0Q5qcEJ-g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ポケットモンスター青】#03｜完全初見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742551200,
+        "title": "【  #雪花ラミィ新衣装 】重大告知あり！新しいラミィを見に来てね！！ 【 雪花ラミィ /ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KpR0WL-rwH8",
         "picture": "https://i.ytimg.com/vi/KpR0WL-rwH8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742464800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズ】人生初モンハン！！！！！ガンランスで行く初心者ハンター！#3【ホロライブ / AZKi】"
     },
     {
@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cavEH1e-rDQ",
         "picture": "https://i.ytimg.com/vi/cavEH1e-rDQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742464800,
-        "title": "nanisuruno~【ホロライブ / 星街すいせい】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Minecraft】村開発中！ブランチマイニング回⛏✨【ホロライブ / 星街すいせい】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -251,5 +251,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742468400,
         "title": "【hololive OCG】明日発売‼ホロカ第３弾 12BOX開封✨サイン入りSECカード当てるにぇええええ‼【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ORW7im6_gnc",
+        "picture": "https://i.ytimg.com/vi/ORW7im6_gnc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【MISIDE】おもしれー女、攻略してあげます・・・カァ【影山シエン/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=nWag8H5EuZU",
+        "picture": "https://i.ytimg.com/vi/nWag8H5EuZU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742551200,
+        "title": "【歌枠 / Singing】高めの目標にみんなと挑むぞー！！同接410人耐久歌枠！！！【#新人vtuber 】"
     }
 ]
