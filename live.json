@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Tsfd7nzFhG8",
         "picture": "https://i.ytimg.com/vi/Tsfd7nzFhG8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742475600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【主題雜談】惡劣健身房 遇到哪些事情一起來分享"
     },
     {
@@ -240,17 +240,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 #にじホロ交流戦 】初めてのプロスピ⚾１年目新入生ガチャだああ！！！！【天音かなた/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8VADsSaa6zQ",
-        "picture": "https://i.ytimg.com/vi/8VADsSaa6zQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ドーナツの穴】サイコパスかどうか、今日明らかにしましょう。【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
