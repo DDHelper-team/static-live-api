@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_lOe6yk2RaI",
         "picture": "https://i.ytimg.com/vi/_lOe6yk2RaI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742439600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラゴンクエスト11S 】完全初見。ｴｯﾎｴｯﾎ…ウマレースで優勝したからご褒美もらいにいかないと…【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qoC0mnebaso",
         "picture": "https://i.ytimg.com/vi/qoC0mnebaso/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742439600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MONSTER HUNTER WILDS】 A Few Hunts...."
     },
     {
@@ -218,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742443200,
         "title": "【ゼンレスゾーンゼロ】#5 | 完全初見！ンナンナンンナアア!!!🔫【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5j8kn3BZlRw",
+        "picture": "https://i.ytimg.com/vi/5j8kn3BZlRw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742479200,
+        "title": "【ASMR】春分の日🌸愛情たっぷり♡お耳も心もポカポカ満たされながら夢の世界へ...【白銀ノエル/ホロライブ】"
     }
 ]
