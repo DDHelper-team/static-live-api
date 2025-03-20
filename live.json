@@ -88,17 +88,6 @@
         "title": "【ストリートファイター6】ギ　ャ　ラ　ク　シ　ー　ア　テ　ン　ド #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5pRQyD6VWwk",
-        "picture": "https://i.ytimg.com/vi/5pRQyD6VWwk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #角巻わため新衣装2025 】今回の衣装は弾け飛びそう...？！告知もあるよ！NEW OUTFIT🐏✨【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": true,
@@ -156,11 +145,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "channellink": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=ORW7im6_gnc",
         "picture": "https://i.ytimg.com/vi/ORW7im6_gnc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【MISIDE】おもしれー女、攻略してあげます・・・カァ【影山シエン/ホロスターズ】"
     },
@@ -178,13 +167,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=MVx_2lL5Wrc",
         "picture": "https://i.ytimg.com/vi/MVx_2lL5Wrc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742482800,
-        "title": "配信予定～～～～！！！夜更かし短め配信！(予定)【ホロライブ/紫咲シオン】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【お宝マウンテン】久しぶりにいっちょ行きますか…【ホロライブ/紫咲シオン】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -198,17 +187,6 @@
         "title": "【 #にじホロ交流戦 】初めてのプロスピ⚾１年目新入生ガチャだああ！！！！【天音かなた/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=AZEg41n1P7A",
-        "picture": "https://i.ytimg.com/vi/AZEg41n1P7A/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #11【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "islive": false,
@@ -218,17 +196,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742526000,
         "title": "≪Misty Mountain Gaming DICE COLLAB!≫ WE PLAY DICE!"
-    },
-    {
-        "channel": "https://www.youtube.com/@HiodoshiAo",
-        "channellink": "https://www.youtube.com/@HiodoshiAo",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZN5Kzx-yOjM",
-        "picture": "https://i.ytimg.com/vi/ZN5Kzx-yOjM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ゲリラ】アーカイブメン限【火威青 】#hololiveDEV_IS #ReGLOSS"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -251,5 +218,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "塔羅占卜#93｜春分四季占卜看看你到夏至之前的能量如何？🔮✨🦊【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HiodoshiAo",
+        "channellink": "https://www.youtube.com/@HiodoshiAo",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=tdds71h4qdQ",
+        "picture": "https://i.ytimg.com/vi/tdds71h4qdQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742554800,
+        "title": "この予定地…イケメンすぎる【火威青 】#hololiveDEV_IS #ReGLOSS"
     }
 ]
