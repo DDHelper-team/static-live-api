@@ -35,13 +35,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Mq6ta40O9W0",
-        "picture": "https://i.ytimg.com/vi/Mq6ta40O9W0/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=h_TnEqj6HjQ",
+        "picture": "https://i.ytimg.com/vi/h_TnEqj6HjQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　6日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742529600,
+        "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　7日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -64,17 +64,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【Monster Hunter Wilds】PUSH RANK MONHUN!【 iofi / hololiveID 】"
-    },
-    {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Tsfd7nzFhG8",
-        "picture": "https://i.ytimg.com/vi/Tsfd7nzFhG8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【主題雜談】惡劣健身房 遇到哪些事情一起來分享"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
