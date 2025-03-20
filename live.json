@@ -35,12 +35,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Mq6ta40O9W0",
         "picture": "https://i.ytimg.com/vi/Mq6ta40O9W0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742443200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　6日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=y-CYuNxqLIw",
         "picture": "https://i.ytimg.com/vi/y-CYuNxqLIw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742443200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ゼンレスゾーンゼロ】#5 | 完全初見！ンナンナンンナアア!!!🔫【緋月ゆい/ネオポルテ】"
     },
     {
