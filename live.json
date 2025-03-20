@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cegFnfICWNk",
         "picture": "https://i.ytimg.com/vi/cegFnfICWNk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742461200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "＃３【ポケモンSV】はじめてのポケモン！まだ見ぬ世界へ！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=40QJ7266ZQY",
         "picture": "https://i.ytimg.com/vi/40QJ7266ZQY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742461200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 holo8 】麺屋ぼたんがオープンしたと聞いて【獅白ぼたん/ホロライブ】"
     },
     {
@@ -218,17 +218,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742464800,
         "title": "【モンハンワイルズ】人生初モンハン！！！！！ガンランスで行く初心者ハンター！#3【ホロライブ / AZKi】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qIG_RVni73Q",
-        "picture": "https://i.ytimg.com/vi/qIG_RVni73Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】のんびり整地とインフラ整備♪【ホロライブ/ときのそら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
