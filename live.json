@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fpX1Z-4pMqk",
         "picture": "https://i.ytimg.com/vi/fpX1Z-4pMqk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742515200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DEATH\u0026#39;S DOOR】crow souls-like??【Dokibird】"
     },
     {
@@ -173,5 +173,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "DISNEYLAND WITH THE TWINS @chrchie @btmc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6e1nOOvVwck",
+        "picture": "https://i.ytimg.com/vi/6e1nOOvVwck/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742526033,
+        "title": "【ゼンレスゾーンゼロ】#6 | 完全初見！\u0026quot;レイン\u0026quot;を探して🔍️【緋月ゆい/ネオポルテ】"
     }
 ]
