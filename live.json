@@ -198,17 +198,6 @@
         "title": "【SOLO LIVE】Watching My 2nd Solo Live with YOU! #CalliMoire"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=8Ed5yDAUNQo",
-        "picture": "https://i.ytimg.com/vi/8Ed5yDAUNQo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 8【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -218,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742605200,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xfytN0o247I",
+        "picture": "https://i.ytimg.com/vi/xfytN0o247I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742644800,
+        "title": "【 モンハンワイルズ  】モンハンの世界でおでけけだ！楽しみだな！【角巻わため/ホロライブ４期生】"
     }
 ]
