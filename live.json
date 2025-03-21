@@ -101,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
         "channellink": "https://www.youtube.com/channel/UC1CfXB_kRs3C-zaeTG3oGyg",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=Em3zfzz-vow",
         "picture": "https://i.ytimg.com/vi/Em3zfzz-vow/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "ガチ寝 A S M R　※No archive"
     },
