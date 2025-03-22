@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "channellink": "https://www.youtube.com/@KaelaKovalskia",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GP6vreeU3WA",
         "picture": "https://i.ytimg.com/vi/GP6vreeU3WA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742652000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Blood Typers】back to the horror game... BUT TYPING【Kaela Kovalskia / hololiveID】"
     },
     {
@@ -288,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KSg8dCEHhq0",
         "picture": "https://i.ytimg.com/vi/KSg8dCEHhq0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742652000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【HOLORUN】 RUN RUN RUN RUN RUNNING RUN 【Kureiji Ollie】"
     }
 ]
