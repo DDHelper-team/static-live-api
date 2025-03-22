@@ -110,17 +110,6 @@
         "title": "【TOMATO FUNKIN\u0026#39;】FNF dokibird fan mod!【Dokibird】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=h8TA8o_bSw8",
-        "picture": "https://i.ytimg.com/vi/h8TA8o_bSw8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】新ホロ鯖で海底遺跡へ！すいちゃんからのクエスト攻略せよ【ホロライブ / AZKi】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "islive": false,
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742706000,
         "title": "【歌枠 / Singing】100曲歌いきるってまじで言ってる？【#新人vtuber 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SYAh0xY0ZrM",
+        "picture": "https://i.ytimg.com/vi/SYAh0xY0ZrM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742698800,
+        "title": "【Pokemon Snap】SNAP! It\u0026#39;s the N64 version :o"
     }
 ]
