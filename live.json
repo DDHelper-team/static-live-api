@@ -90,24 +90,24 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "channellink": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=icnDajsoxb0",
         "picture": "https://i.ytimg.com/vi/icnDajsoxb0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742641200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#星街すいせい7周年企画】学校へ行ってみよう！🏫～あなたの願い叶えます✨～【ホロライブ / 星街すいせい】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CiP3Kjs1C6M",
-        "picture": "https://i.ytimg.com/vi/CiP3Kjs1C6M/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yxBvZSYXIyc",
+        "picture": "https://i.ytimg.com/vi/yxBvZSYXIyc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#ししろんの47ラーメンツアー】小麦三昧なラーメンに昆布水の旨味あふれるつけ麺、すっきり名水ご当地ラーメンにご当地店舗のラーメンも！第11回目【獅白ぼたん/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742644800,
+        "title": "【モンハンワイルズ】ししわたワイルズ －上手に焼けました－【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -249,7 +249,7 @@
         "picture": "https://i.ytimg.com/vi/5JsRt37Oy9o/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1742641200,
+        "timestamp": 1742644800,
         "title": "【ストリートファイター6】チュートリアルで挫折した男【奏手イヅル  アステル 影山シエン 律可】"
     },
     {
