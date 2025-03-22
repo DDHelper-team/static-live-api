@@ -79,12 +79,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=XlS-LfbmBFk",
         "picture": "https://i.ytimg.com/vi/XlS-LfbmBFk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742612400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪カラオケ・KARAOKE≫ recovering these lungs"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_2mcqBMms38",
         "picture": "https://i.ytimg.com/vi/_2mcqBMms38/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742612400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラゴンクエスト11S 】完全初見。シルビア姐さんを愛でる会始めます。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VYYtZSSC1_E",
         "picture": "https://i.ytimg.com/vi/VYYtZSSC1_E/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742612400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SOLO LIVE】Watching My 2nd Solo Live with YOU! #CalliMoire"
     },
     {
@@ -229,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742623200,
         "title": "【 モンハンワイルズ 】初心者ハンターの成り上がり！【ホロライブ/ ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=7-d30h5Trwc",
+        "picture": "https://i.ytimg.com/vi/7-d30h5Trwc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Hello Kitty Island Adventure】i need this vacation so bad #kfp #キアライブ"
     }
 ]
