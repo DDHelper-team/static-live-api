@@ -134,13 +134,13 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vN-OYrs-X98",
         "picture": "https://i.ytimg.com/vi/vN-OYrs-X98/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742601600,
-        "title": "Can my illness be cured? | Yappa yappa"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "Can my illness be cured?"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=9zhbMvAMyPY",
         "picture": "https://i.ytimg.com/vi/9zhbMvAMyPY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742605200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
     },
     {
@@ -207,17 +207,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742644800,
         "title": "【 モンハンワイルズ  】モンハンの世界でおでけけだ！楽しみだな！【角巻わため/ホロライブ４期生】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1f11zSCWEMI",
-        "picture": "https://i.ytimg.com/vi/1f11zSCWEMI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#149 3/22土曜日！おはよおおおお！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
