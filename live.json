@@ -240,5 +240,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Hello Kitty Island Adventure】i need this vacation so bad #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "channellink": "https://www.youtube.com/@IchijouRirika",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=q-wlgfJdHmM",
+        "picture": "https://i.ytimg.com/vi/q-wlgfJdHmM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742616000,
+        "title": "【ポケポケ】参加型で勝負！シャイニングハイ情報きちゃ！ Pokémon Trading Card Game Pocket【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ieOowFpZ1Qs",
+        "picture": "https://i.ytimg.com/vi/ieOowFpZ1Qs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742630400,
+        "title": "【歌枠】いろいろ歌いたい～～～！【 ホロライブ / 大神ミオ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "channellink": "https://www.youtube.com/@OtonoseKanade",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=AIHEojKBiTw",
+        "picture": "https://i.ytimg.com/vi/AIHEojKBiTw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742623200,
+        "title": "【 はいしにょてい 】【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     }
 ]
