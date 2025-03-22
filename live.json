@@ -300,11 +300,22 @@
         "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
         "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
         "islive": true,
-        "link": "https://www.youtube.com/watch?v=kfAdt5wISLQ",
-        "picture": "https://i.ytimg.com/vi/kfAdt5wISLQ/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=-gpM5bp-eac",
+        "picture": "https://i.ytimg.com/vi/-gpM5bp-eac/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【  ポケモンクリスタル 】完全初見‼ねねとクリスタルと古いポケモン‼【 桃鈴ねね / hololive 】"
+        "title": "【 Minecraft 】あ～～～～～～～～あｗ【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KSg8dCEHhq0",
+        "picture": "https://i.ytimg.com/vi/KSg8dCEHhq0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742652000,
+        "title": "【HOLORUN】 RUN RUN RUN RUN RUNNING RUN 【Kureiji Ollie】"
     }
 ]
