@@ -116,7 +116,7 @@
         "link": "https://www.youtube.com/watch?v=Ufs1TFdi014",
         "picture": "https://i.ytimg.com/vi/Ufs1TFdi014/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1742626800,
         "title": "配信予定"
     },
@@ -262,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742648400,
         "title": "【メンバー限定】みんなで一緒に映画見よう会　花粉撲滅３月編【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=fMav3dwPGDg",
+        "picture": "https://i.ytimg.com/vi/fMav3dwPGDg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742644800,
+        "title": "【STREET FIGHTER 6】ササモさんコーチングその2【常闇トワ/ホロライブ】"
     }
 ]
