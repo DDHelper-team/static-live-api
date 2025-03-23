@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_pSEk5PdRTY",
         "picture": "https://i.ytimg.com/vi/_pSEk5PdRTY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742731200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#みこスバモンハン】5日目！！！みこちとモンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】"
     },
     {
@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=C2H5_rwrAdI",
         "picture": "https://i.ytimg.com/vi/C2H5_rwrAdI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742731200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ 】みこスバモンハン成長物語！！！！！！！！～DAY5～【ホロライブ/さくらみこ/大空スバル】"
     },
     {
@@ -207,17 +207,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】どっきり大成功～～～！！みたい？？？✨箱庭作りペールガーデンゾーンやりたい！【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=M4keWr4QLWY",
-        "picture": "https://i.ytimg.com/vi/M4keWr4QLWY/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【  ポケモンクリスタル 】完全初見‼ねねとクリスタルと古いポケモン‼#1【 桃鈴ねね / hololive 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
@@ -233,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=vIQIBciNARw",
         "picture": "https://i.ytimg.com/vi/vIQIBciNARw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742731200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ツーポイントミュージアム】お化け屋敷を発展させていく#2【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -273,5 +262,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Potion Craft】おなか痛いから胃腸薬のポーションをクラフトする！【岸堂天真/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aOhX00Wa5oA",
+        "picture": "https://i.ytimg.com/vi/aOhX00Wa5oA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742817600,
+        "title": "【モンスターハンターワイルズ】ねぽらぼで一狩り行くぞ！！！【 雪花ラミィ /ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=esdClApzQlo",
+        "picture": "https://i.ytimg.com/vi/esdClApzQlo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742734800,
+        "title": "【ドーナツの穴】あなたの意見も聞かせてくださいってゲーム【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=78_leLToVII",
+        "picture": "https://i.ytimg.com/vi/78_leLToVII/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 歓喜 】はじめての添い寝、始めます♡【 領国つかさ / すぺしゃりて 】"
     }
 ]
