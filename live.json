@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=tpiej-1YBN8",
-        "picture": "https://i.ytimg.com/vi/tpiej-1YBN8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=_pSEk5PdRTY",
+        "picture": "https://i.ytimg.com/vi/_pSEk5PdRTY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#3】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742731200,
+        "title": "【#みこスバモンハン】5日目！！！みこちとモンハンワイルズやるしゅばああああああああああああああああああああ！！！！/ MONSTER HUNTER WILDS【ホロライブ/大空スバル】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -295,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742734800,
         "title": "【雑談＆お礼】明日から3日ほど配信お休みなので、その前にお喋り！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=prpgE2PdhhQ",
+        "picture": "https://i.ytimg.com/vi/prpgE2PdhhQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742727600,
+        "title": "【STREET FIGHTER 6】れじぇんだすとぶいさいのれんしゅ【常闇トワ/ホロライブ】"
     }
 ]
