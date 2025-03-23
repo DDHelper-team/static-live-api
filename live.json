@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lSxFgAhcxKs",
         "picture": "https://i.ytimg.com/vi/lSxFgAhcxKs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742713200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【シャニソン】俺は765プロの面々を手に入れるし、MVのチェックだってする【夕刻ロベル/ホロスターズ】"
     },
     {
