@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=xqhKzx5K1QI",
         "picture": "https://i.ytimg.com/vi/xqhKzx5K1QI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742742000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR｜姊姊的呼呼吐息給你滿滿療癒❤️｜Oneechan Whispers to Sleep｜甘い添い寝 耳かき 采耳【黑3DIO/KU100】"
     },
     {
@@ -240,17 +240,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742817600,
         "title": "【モンスターハンターワイルズ】ねぽらぼで一狩り行くぞ！！！【 雪花ラミィ /ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=78_leLToVII",
-        "picture": "https://i.ytimg.com/vi/78_leLToVII/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 歓喜 】はじめての添い寝、始めます♡【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4iGCwxHuHqc",
         "picture": "https://i.ytimg.com/vi/4iGCwxHuHqc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742742000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】ずーっと両耳いじりでゾクゾクが止まらない…っ♡囁き少なめで集中できる睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742788800,
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　8日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0yTaNq_PE9k",
+        "picture": "https://i.ytimg.com/vi/0yTaNq_PE9k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742796000,
+        "title": "【ストリートファイター6】さぁガイル村の時間だ!!!DAY1 #ガイル村WIN  #LEGENDUS 【アルランディス/ホロスターズ】"
     }
 ]
