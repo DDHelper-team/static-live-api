@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tpiej-1YBN8",
         "picture": "https://i.ytimg.com/vi/tpiej-1YBN8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742702400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#3】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】"
     },
     {
@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=t4ArcLOEyII",
         "picture": "https://i.ytimg.com/vi/t4ArcLOEyII/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742702400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ゼノブレイド2 】完全初見✦ のんびり冒険はじめます #10【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -204,7 +204,7 @@
         "link": "https://www.youtube.com/watch?v=RIkt0KDqwbg",
         "picture": "https://i.ytimg.com/vi/RIkt0KDqwbg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1742702400,
         "title": "【＃４】ポケモン不思議のダンジョン 救助隊DX【ホロライブ/白上フブキ】"
     },
