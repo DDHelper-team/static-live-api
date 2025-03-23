@@ -110,17 +110,6 @@
         "title": "＃６【キミガシネ】完全初見！最終章の途中から！あの人は本物なのか...！？【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=lrvT4QT9sAw",
-        "picture": "https://i.ytimg.com/vi/lrvT4QT9sAw/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "GIGABYTEのマザボとAMDのCPUを使って『モンハンワイルズ』の設定をどんどん上げていきながらプレイする配信【獅白ぼたん/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": true,
@@ -273,5 +262,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742731200,
         "title": "【ツーポイントミュージアム】お化け屋敷を発展させていく#2【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "channellink": "https://www.youtube.com/@HealingCh",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xqhKzx5K1QI",
+        "picture": "https://i.ytimg.com/vi/xqhKzx5K1QI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742742000,
+        "title": "ASMR｜姊姊的呼呼吐息給你滿滿療癒❤️｜Oneechan Whispers to Sleep｜甘い添い寝 耳かき 采耳【黑3DIO/KU100】"
     }
 ]
