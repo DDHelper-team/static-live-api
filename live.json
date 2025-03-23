@@ -88,17 +88,6 @@
         "title": "【 ゼノブレイド2 】完全初見✦ のんびり冒険はじめます #10【 猫又おかゆ/ホロライブ 】"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iSTSoCGTAzQ",
-        "picture": "https://i.ytimg.com/vi/iSTSoCGTAzQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "＃６【キミガシネ】完全初見！最終章の途中から！あの人は本物なのか...！？【轟はじめ/ReGLOSS】 #hololivedev_is"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": true,
@@ -295,5 +284,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 歓喜 】はじめての添い寝、始めます♡【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YRaUl1l2dAc",
+        "picture": "https://i.ytimg.com/vi/YRaUl1l2dAc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742769000,
+        "title": "【 #朝ミオ 】月曜日だよ～！！！おはみぉーん！"
     }
 ]
