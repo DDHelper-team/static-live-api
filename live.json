@@ -101,23 +101,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SjBJzdpYH50",
         "picture": "https://i.ytimg.com/vi/SjBJzdpYH50/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742688000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【TOMATO FUNKIN\u0026#39;】FNF dokibird fan mod!【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hZ75b6vLH9c",
         "picture": "https://i.ytimg.com/vi/hZ75b6vLH9c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742691600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【朝活雑談】引っ越し間近！！おはまっするさんで～🌞✨【白銀ノエル/ホロライブ】"
     },
     {
@@ -198,17 +198,6 @@
         "title": "GIGABYTEのマザボとAMDのCPUを使って『モンハンワイルズ』の設定をどんどん上げていきながらプレイする配信【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Sc4ns9aolmg",
-        "picture": "https://i.ytimg.com/vi/Sc4ns9aolmg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【UNARCHIVED KARAOKE】09999999999999999999999999999998(my cat wrote this stream title)"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -242,14 +231,14 @@
         "title": "【＃４】ポケモン不思議のダンジョン 救助隊DX【ホロライブ/白上フブキ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=m18ScXKhXBE",
-        "picture": "https://i.ytimg.com/vi/m18ScXKhXBE/maxresdefault_live.jpg",
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=a6WdQnJaQNk",
+        "picture": "https://i.ytimg.com/vi/a6WdQnJaQNk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【OHAPOL】#150 3/23日曜日！おい150回だぞおおおYAGOOO見てくれ！！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742724000,
+        "title": "【ポケモンエメラルド】いざ四天王戦！完全初見でいく人生縛りの旅！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
