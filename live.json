@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BbYhZIZls8s",
         "picture": "https://i.ytimg.com/vi/BbYhZIZls8s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742734804,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#緋月ゆい3周年】4年目も変わらず、歌っていきたい🎤【緋月ゆい/ネオポルテ】"
     },
     {
@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sBpvHdxRIpQ",
         "picture": "https://i.ytimg.com/vi/sBpvHdxRIpQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742734800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談＆お礼】明日から3日ほど配信お休みなので、その前にお喋り！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=esdClApzQlo",
         "picture": "https://i.ytimg.com/vi/esdClApzQlo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742734800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ドーナツの穴】あなたの意見も聞かせてくださいってゲーム【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -295,5 +295,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742769000,
         "title": "【 #朝ミオ 】月曜日だよ～！！！おはみぉーん！"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=D9rwYOA5US8",
+        "picture": "https://i.ytimg.com/vi/D9rwYOA5US8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 STREET FIGHTER 6】V最とレジェンダスにむけて練習【アキロゼ/ホロライブ】"
     }
 ]
