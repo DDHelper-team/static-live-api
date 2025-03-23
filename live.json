@@ -11,17 +11,6 @@
         "title": "【Marvel Rivals】which hero is suitable for me??  🤔🤔🤔"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TQOwH3u2FPo",
-        "picture": "https://i.ytimg.com/vi/TQOwH3u2FPo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "BRICK【Monster Hunter Wilds with Iofi \u0026amp; Jurard】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "channellink": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "islive": false,
@@ -112,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7mF63a6xvkY",
         "picture": "https://i.ytimg.com/vi/7mF63a6xvkY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742706000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケットモンスター青】#04｜完全初見！ポケモン初代をプレイ！！【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -178,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=cKkI3BTTbB4",
         "picture": "https://i.ytimg.com/vi/cKkI3BTTbB4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742706000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】100曲歌いきるってまじで言ってる？【#新人vtuber 】"
     },
     {
@@ -262,5 +251,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742720400,
         "title": "【ストリートファイター6】7日中4日間大会＆5日間スクリム男の感謝のカスタム【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0LiiaV5pEzk",
+        "picture": "https://i.ytimg.com/vi/0LiiaV5pEzk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742707800,
+        "title": "【Minecraft】木に魅入られたそらは今日も植林地を求める【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=omRFBHl3TrA",
+        "picture": "https://i.ytimg.com/vi/omRFBHl3TrA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742709600,
+        "title": "【 モンハンワイルズ 】初心者ハンターの成り上がり！ヘヴィボウガンをぶっぱにゃaaaaaaaす！！！！【ホロライブ/ ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YCuvJXsYiaY",
+        "picture": "https://i.ytimg.com/vi/YCuvJXsYiaY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742709600,
+        "title": "【holo8】The hololive Office Has Never Been This Scary 今日のホロオフィス、何か様子がおかしい…。 【holoID | Anya Melfissa】"
     }
 ]
