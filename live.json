@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=YRaUl1l2dAc",
         "picture": "https://i.ytimg.com/vi/YRaUl1l2dAc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742769000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #朝ミオ 】月曜日だよ～！！！おはみぉーん！"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=OHajSQWXOTk",
         "picture": "https://i.ytimg.com/vi/OHajSQWXOTk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742768100,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【雑談】おはよおおお⛅️【緋月ゆい/ネオポルテ】"
     }
 ]
