@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Q2_OU0R65ZQ",
         "picture": "https://i.ytimg.com/vi/Q2_OU0R65ZQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742698800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラゴンクエスト11S 】完全初見。感情がおいつかないよ・・・・・・・・・。【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SYAh0xY0ZrM",
         "picture": "https://i.ytimg.com/vi/SYAh0xY0ZrM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742698800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Pokemon Snap】SNAP! It\u0026#39;s the N64 version :o"
     },
     {
@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742709600,
         "title": "【 ポケモンSV 】はじめてのポケモン！冒険だー！！#02【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BBka4-DkUuU",
+        "picture": "https://i.ytimg.com/vi/BBka4-DkUuU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742785200,
+        "title": "【LAST KARAOKE】Mori and Milky\u0026#39;s Final Collab! #calliolive"
     }
 ]
