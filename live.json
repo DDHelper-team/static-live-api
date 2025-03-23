@@ -255,12 +255,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0LiiaV5pEzk",
         "picture": "https://i.ytimg.com/vi/0LiiaV5pEzk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742707800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】木に魅入られたそらは今日も植林地を求める【ホロライブ/ときのそら】"
     },
     {
@@ -284,5 +284,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742709600,
         "title": "【holo8】The hololive Office Has Never Been This Scary 今日のホロオフィス、何か様子がおかしい…。 【holoID | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=zIDgyROejoY",
+        "picture": "https://i.ytimg.com/vi/zIDgyROejoY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742716800,
+        "title": "【 hololive OCG 】ホロカ開封！！！キラキラサインカード欲しい✦【 ホロライブ / 大神ミオ 】"
     }
 ]
