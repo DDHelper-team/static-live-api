@@ -222,11 +222,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=yUKYTaC6Lng",
         "picture": "https://i.ytimg.com/vi/yUKYTaC6Lng/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【ストリートファイター６】#V最協第一幕　スクリム1日目【律可/叶/因幡はねる/ラプラス・ダークネス/ホロスターズ】"
     },
