@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "channellink": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=r0mfgOOa3cQ",
         "picture": "https://i.ytimg.com/vi/r0mfgOOa3cQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742810400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 麻雀格闘倶楽部Sp 】ガチャも！視聴者のみんなと対戦も！！！たくさん遊ぶ！【 ホロライブ / 大神ミオ 】"
     },
     {
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4YW59Q4CeZg",
         "picture": "https://i.ytimg.com/vi/4YW59Q4CeZg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742810400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズ】人生初モンハン！！！！！ガンランスで行く初心者ハンター！#4【ホロライブ / AZKi】"
     },
     {
