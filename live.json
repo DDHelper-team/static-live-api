@@ -154,17 +154,6 @@
         "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず：スクリムDAY1　#V最協第一幕 【常闇トワ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2oyk8GJJtQc",
-        "picture": "https://i.ytimg.com/vi/2oyk8GJJtQc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Minecraft】0から始まる新ホロ鯖！！！太陽神殿計画発動！素材あつめ頑張ろおお🌞【白銀ノエル/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "islive": true,
@@ -317,5 +306,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【League of Legends】日韓戦チーム練習！！ / アステル 夕陽リリ³ 鷹宮リオン³ 千燈ゆうひ³ 歌衣メイカ³"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0Vm_cUsqKOM",
+        "picture": "https://i.ytimg.com/vi/0Vm_cUsqKOM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742907600,
+        "title": "#５【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2DkRmRKJnsU",
+        "picture": "https://i.ytimg.com/vi/2DkRmRKJnsU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742853600,
+        "title": "【花岸れいでぃお】第74回！１時間拡大スペシャル！【岸堂天真/花咲みやび/ホロスターズ】"
     }
 ]
