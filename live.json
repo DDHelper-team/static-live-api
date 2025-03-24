@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BBka4-DkUuU",
-        "picture": "https://i.ytimg.com/vi/BBka4-DkUuU/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0IH0GW0saHA",
+        "picture": "https://i.ytimg.com/vi/0IH0GW0saHA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【LAST KARAOKE】Mori and Milky\u0026#39;s Final Collab! #calliolive"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742868000,
+        "title": "【KARAOKE】Singing...! With an Announcement!? #calliolive"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
