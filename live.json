@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bXMv8KGt6hw",
         "picture": "https://i.ytimg.com/vi/bXMv8KGt6hw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742821200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト６】スクリム１日目！🔥#V最協第一幕【ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ol5SZCljXfY",
         "picture": "https://i.ytimg.com/vi/ol5SZCljXfY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742821200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#４【ポケモンSV】はじめてのポケモン！ストーリーを進めてく！【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -222,12 +222,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5FRF6fP9ZOw",
         "picture": "https://i.ytimg.com/vi/5FRF6fP9ZOw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742821200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【重大告知】歌うから何の告知かわからないふりを続けてどうぞ【不知火フレア/ホロライブ】"
     },
     {
@@ -299,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4TkqOqMxyDI",
         "picture": "https://i.ytimg.com/vi/4TkqOqMxyDI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742821200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#heavyrain 】#03 雨快要滿了!! 伊森~~快救救你的孩子【#遊戲個人勢 / Fingla】"
     },
     {
@@ -341,17 +341,6 @@
         "title": "【Hello Kitty Island Adventure】かわいいみんなとアイランド生活！【ホロライブ/ときのそら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FTaxBD-hziU",
-        "picture": "https://i.ytimg.com/vi/FTaxBD-hziU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【🏠オフコラボ】注文の多い料理店💕ルイっ！ごーーはーーんっ！！byふぶろぼ【ホロライブ　##るいろぼこーん  】"
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
         "islive": false,
@@ -383,5 +372,49 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "電車除靈少女｜美少女除個靈做個鄉里活動也是很正常的吧【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=xlAYXXFfglo",
+        "picture": "https://i.ytimg.com/vi/xlAYXXFfglo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742823000,
+        "title": "和階堂真の事件簿 やる ※ﾈﾀﾊﾞﾚあり【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=bMJmli1YsN4",
+        "picture": "https://i.ytimg.com/vi/bMJmli1YsN4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 STREET FIGHTER 6】V最スクリム1日目！VSチーム2【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "channellink": "https://www.youtube.com/@kamonegi1230",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=37m_4hcn0s4",
+        "picture": "https://i.ytimg.com/vi/37m_4hcn0s4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742907600,
+        "title": "【企劃】頻道健檢 你的頻道也需要幫忙嗎?"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "channellink": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yUKYTaC6Lng",
+        "picture": "https://i.ytimg.com/vi/yUKYTaC6Lng/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742823000,
+        "title": "【ストリートファイター６】#V最協第一幕　スクリム1日目【律可/叶/因幡はねる/ラプラス・ダークネス/ホロスターズ】"
     }
 ]
