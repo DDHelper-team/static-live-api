@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0yTaNq_PE9k",
-        "picture": "https://i.ytimg.com/vi/0yTaNq_PE9k/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=aq3OS5DF1Iw",
+        "picture": "https://i.ytimg.com/vi/aq3OS5DF1Iw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ストリートファイター6】Red Bull LEGENDUS SF6 最強道場決定戦　さぁガイル村の時間だ!!!DAY1 #ガイル村WIN  #LEGENDUS 【アルランディス/ホロスターズ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742823000,
+        "title": "【ストリートファイター6】スクリムDAY1今日はれんくんチームと！ #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -240,17 +240,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Minecraft】0から始まる新ホロ鯖！！！太陽神殿計画発動！素材あつめ頑張ろおお🌞【白銀ノエル/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=K9OSvViu4K4",
-        "picture": "https://i.ytimg.com/vi/K9OSvViu4K4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Red Bull LEGENDUS SF6 最強道場決定戦 】ガイル村でいくぞ～～～！#ガイル村WIN 【アキロゼ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
