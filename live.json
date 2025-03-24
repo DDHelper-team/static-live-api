@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6BfzpTaUfT8",
         "picture": "https://i.ytimg.com/vi/6BfzpTaUfT8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742850000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "We Yearn for the Pickle Mines【Galaxy Burger ft. @holoen_erbloodflame 】"
     },
     {
@@ -229,17 +229,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Crime Scene Cleaner】証拠隠滅クリア耐久！すべてお掃除いたします！【ホロライブ/癒月ちょこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=IQbwnkiL2NM",
-        "picture": "https://i.ytimg.com/vi/IQbwnkiL2NM/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 9【Pavolia Reine/hololiveID 2nd gen】"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
