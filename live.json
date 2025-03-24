@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5r1ANRkuXPQ",
         "picture": "https://i.ytimg.com/vi/5r1ANRkuXPQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742788800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【龍が如く7 光と闇の行方】初見で挑む『龍が如く7 光と闇の行方』　8日目【夕刻ロベル/ホロスターズ】※ネタバレあり"
     },
     {
@@ -207,5 +207,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742810400,
         "title": "【 麻雀格闘倶楽部Sp 】ガチャも！視聴者のみんなと対戦も！！！たくさん遊ぶ！【 ホロライブ / 大神ミオ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=77Q-YGzAzGA",
+        "picture": "https://i.ytimg.com/vi/77Q-YGzAzGA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742860800,
+        "title": "【Monster Hunter Wilds】Playing with nerissa and raora!!【Moona Hoshinova】"
     }
 ]
