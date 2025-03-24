@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RvsAsowLjaE",
-        "picture": "https://i.ytimg.com/vi/RvsAsowLjaE/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EpCA1ZXOx-k",
+        "picture": "https://i.ytimg.com/vi/EpCA1ZXOx-k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ポケモンSV】魔境なランクマに挑戦だああああ！！！環境全然把握できてない初心者です！🔰3時間チャレンジ！！【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742853600,
+        "title": "【 #朝こよ 】今年度最後の火曜日の朝も！朝こよ～☀ #225 【博衣こより/hololive】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
@@ -350,5 +350,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【Crime Scene Cleaner】証拠隠滅クリア耐久！すべてお掃除いたします！【ホロライブ/癒月ちょこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IQbwnkiL2NM",
+        "picture": "https://i.ytimg.com/vi/IQbwnkiL2NM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742832000,
+        "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 9【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=d2jblw3ww0k",
+        "picture": "https://i.ytimg.com/vi/d2jblw3ww0k/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": null,
+        "timestamp": 1742828400,
+        "title": "【League of Legends】日韓戦チーム練習！！ / アステル 夕陽リリ³ 鷹宮リオン³ 千燈ゆうひ³ 歌衣メイカ³"
     }
 ]
