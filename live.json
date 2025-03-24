@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=bXMv8KGt6hw",
-        "picture": "https://i.ytimg.com/vi/bXMv8KGt6hw/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DLkMPlrti30",
+        "picture": "https://i.ytimg.com/vi/DLkMPlrti30/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】明日の練習#V最協第一幕【ラプラス・ダークネス/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742904000,
+        "title": "【スト６】スクリム２日目！🔥#V最協第一幕【ラプラス・ダークネス/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=22lYqe3WvJw",
         "picture": "https://i.ytimg.com/vi/22lYqe3WvJw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742835600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【inZOI】new realistic life simulator!!!! #kfp #キアライブ"
     },
     {
