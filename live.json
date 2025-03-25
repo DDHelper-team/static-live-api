@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=77Q-YGzAzGA",
         "picture": "https://i.ytimg.com/vi/77Q-YGzAzGA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742860800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】Playing with nerissa and raora!!【Moona Hoshinova】"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=2wI7qdbgI7I",
         "picture": "https://i.ytimg.com/vi/2wI7qdbgI7I/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742860800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "HAVE NO FEAR, V3LVET\u0026#39;S HERE! | Monster Hunter Wilds"
     },
     {
@@ -209,17 +209,6 @@
         "title": "#５【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2DkRmRKJnsU",
-        "picture": "https://i.ytimg.com/vi/2DkRmRKJnsU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【花岸れいでぃお】第74回！１時間拡大スペシャル！【岸堂天真/花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
         "islive": false,
@@ -240,5 +229,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【BLOODBORNE】Kos, or as some say, Koseki"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=cwh4GxQx8bQ",
+        "picture": "https://i.ytimg.com/vi/cwh4GxQx8bQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742878800,
+        "title": "【ストリートファイター6】Red Bull LEGENDUS SF6 最強道場決定戦　優勝旗持ち帰るぞ!!決勝戦1 #ガイル村WIN  #LEGENDUS 【アルランディス/ホロスターズ】"
     }
 ]
