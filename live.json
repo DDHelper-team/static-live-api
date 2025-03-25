@@ -266,13 +266,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QT_3k9yn8Hc",
         "picture": "https://i.ytimg.com/vi/QT_3k9yn8Hc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742943600,
-        "title": "【STREAM】 Most Likely a Chatting Stream...."
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【CHAT】 Most Likely a Chatting Stream...."
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
