@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0IH0GW0saHA",
         "picture": "https://i.ytimg.com/vi/0IH0GW0saHA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742868000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KARAOKE】Singing...! With an Announcement!? #calliolive"
     },
     {
@@ -97,17 +97,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742896800,
         "title": "【はいしんよていち】こよーーーーーーーーーーーッ！！！！！【博衣こより/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=77Q-YGzAzGA",
-        "picture": "https://i.ytimg.com/vi/77Q-YGzAzGA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Monster Hunter Wilds】Playing with nerissa and raora!!【Moona Hoshinova】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -163,17 +152,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【ストリートファイター６】#V最協第一幕　スクリム1日目【律可/叶/因幡はねる/ラプラス・ダークネス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=2wI7qdbgI7I",
-        "picture": "https://i.ytimg.com/vi/2wI7qdbgI7I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "HAVE NO FEAR, V3LVET\u0026#39;S HERE! | Monster Hunter Wilds"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
@@ -240,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742878800,
         "title": "【ストリートファイター6】Red Bull LEGENDUS SF6 最強道場決定戦　優勝旗持ち帰るぞ!!決勝戦1 #ガイル村WIN  #LEGENDUS 【アルランディス/ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6nBiXvDO9tw",
+        "picture": "https://i.ytimg.com/vi/6nBiXvDO9tw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742886000,
+        "title": "【ストリートファイター6】久しぶりに触る→18時から対戦会【夕刻ロベル/ホロスターズ】"
     }
 ]
