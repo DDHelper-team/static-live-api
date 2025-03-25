@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IYgqy0GvRag",
         "picture": "https://i.ytimg.com/vi/IYgqy0GvRag/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742916600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 #モンハンワイルズ   】片手剣で討伐すっぞ！！#3 【#新人vtuber 】"
     },
     {
