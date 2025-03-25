@@ -209,17 +209,6 @@
         "title": "【＃にじホロ交流戦】はじめてのプロスピ！ぺこ学、育成開始ぺこ！１年目夏～ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CiPy__ZzOXk",
-        "picture": "https://i.ytimg.com/vi/CiPy__ZzOXk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CAPCOMミラー配信】「モンスターハンターワイルズ ショーケース」 ミラー配信【荒咬オウガ /ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": true,
@@ -284,17 +273,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742914800,
         "title": "【inZOI】ooohh!! let\u0026#39;s make a character in inzoi!【Moona Hoshinova】"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=PRzstG5yh0k",
-        "picture": "https://i.ytimg.com/vi/PRzstG5yh0k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`🎮 #CAPCOMミラー配信 】待ってた！みんなで一緒に最新情報チェック！モンスターハンターワイルズ ショーケース公認ミラー配信😎✨【獅子神レオナ/Re:AcT】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -372,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742954400,
         "title": "【MYRIAD DEATH】They Made a Game About Me?! #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=vp1RKih7bcc",
+        "picture": "https://i.ytimg.com/vi/vp1RKih7bcc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742918400,
+        "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 10【Pavolia Reine/hololiveID 2nd gen】"
     }
 ]
