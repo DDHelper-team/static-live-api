@@ -310,12 +310,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tXtb14bkK28",
         "picture": "https://i.ytimg.com/vi/tXtb14bkK28/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1742882400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "納得いくまで歌います ※99％の確率で消えるアーカイブ"
     },
     {
