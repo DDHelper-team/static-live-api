@@ -287,12 +287,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GZl7NMCa0TY",
         "picture": "https://i.ytimg.com/vi/GZl7NMCa0TY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742938200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OHAPOL】#151 3/26水曜日！151のおもいで～～ #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
