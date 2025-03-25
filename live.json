@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6nBiXvDO9tw",
         "picture": "https://i.ytimg.com/vi/6nBiXvDO9tw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742886000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】久しぶりに触る→18時から対戦会【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fOvws0vIZu8",
         "picture": "https://i.ytimg.com/vi/fOvws0vIZu8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742886000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】Red Bull LEGENDUS SF6 最強道場決定戦決勝：立川バレエ教室vsガイル村　【常闇トワ/ホロライブ】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742896800,
         "title": "【 リズダム 】みこ実装⁉ベネッセさんから特別問題･･⁉ 目指せ100点余裕だにぇ！！！！！！！【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TH5EJsrSeRo",
+        "picture": "https://i.ytimg.com/vi/TH5EJsrSeRo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742900400,
+        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZjRomJkgfQw",
+        "picture": "https://i.ytimg.com/vi/ZjRomJkgfQw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742904000,
+        "title": "【Minecraft】わたしの理想のギルド作り！続き！！【ホロライブ/ときのそら/KuraijiOllie】"
     }
 ]
