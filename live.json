@@ -233,13 +233,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fOvws0vIZu8",
-        "picture": "https://i.ytimg.com/vi/fOvws0vIZu8/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=LaqTpxpUNfU",
+        "picture": "https://i.ytimg.com/vi/LaqTpxpUNfU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6】Red Bull LEGENDUS SF6 最強道場決定戦決勝：立川バレエ教室vsガイル村　【常闇トワ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742907600,
+        "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず：スクリムDAY2　#V最協第一幕 【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8Wwp5J3AVe0",
         "picture": "https://i.ytimg.com/vi/8Wwp5J3AVe0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742893200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ストリートファイター6】ななスタスト6対戦会【荒咬オウガ /ホロスターズ】"
     },
     {
@@ -350,5 +350,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742904000,
         "title": "【Minecraft】わたしの理想のギルド作り！続き！！【ホロライブ/ときのそら/KuraijiOllie】"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "channellink": "https://www.youtube.com/@JuufuuteiRaden",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jDTIzYrN35M",
+        "picture": "https://i.ytimg.com/vi/jDTIzYrN35M/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742907600,
+        "title": "【Pokémon LEGENDS アルセウス】その①いざ新たな旅へ！！【儒烏風亭らでん #ReGLOSS 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "channellink": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Gjo1FuS06tg",
+        "picture": "https://i.ytimg.com/vi/Gjo1FuS06tg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742914800,
+        "title": "【inZOI】ooohh!! let\u0026#39;s make a character in inzoi!【Moona Hoshinova】"
     }
 ]
