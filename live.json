@@ -112,23 +112,23 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=9bBmbRtv5pM",
-        "picture": "https://i.ytimg.com/vi/9bBmbRtv5pM/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=5hmFIO7Z5tQ",
+        "picture": "https://i.ytimg.com/vi/5hmFIO7Z5tQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#Z3TAVERSARY】See? I\u0026#39;m a real secret agent【Zeta\u0026#39;s 3rd Anniversary】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742913000,
+        "title": "【Free Chat \u0026amp; Donation Reading】 Post-talk about New Costume, Break It Down, Song Cover 【#Z3TAVERSARY】"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=37m_4hcn0s4",
         "picture": "https://i.ytimg.com/vi/37m_4hcn0s4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742907600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【企劃】頻道健檢 你的頻道也需要幫忙嗎?"
     },
     {
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0Vm_cUsqKOM",
         "picture": "https://i.ytimg.com/vi/0Vm_cUsqKOM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742907600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#５【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=C7nG43KSV0k",
         "picture": "https://i.ytimg.com/vi/C7nG43KSV0k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742906400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【＃にじホロ交流戦】はじめてのプロスピ！ぺこ学、育成開始ぺこ！１年目夏～ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -277,23 +277,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=ZjRomJkgfQw",
         "picture": "https://i.ytimg.com/vi/ZjRomJkgfQw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742907600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Minecraft】わたしの理想のギルド作り！続き！！【ホロライブ/ときのそら/KuraijiOllie】"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jDTIzYrN35M",
         "picture": "https://i.ytimg.com/vi/jDTIzYrN35M/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742907600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Pokémon LEGENDS アルセウス】その①いざ新たな旅へ！！【儒烏風亭らでん #ReGLOSS 】"
     },
     {
@@ -321,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4azMT8TYmS4",
         "picture": "https://i.ytimg.com/vi/4azMT8TYmS4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742907600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT - HOLOLIVE NEW SERVER】CONTINUING THE GUILD!!【Kureiji Ollie】"
     },
     {
@@ -339,5 +339,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742992200,
         "title": "【REDEBUT STREAM】I\u0026#39;M POSSIBLE!! KAELLO~ TO THE FORGE NOW! 🔨【#Ka3volution】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=1wOtD2N4668",
+        "picture": "https://i.ytimg.com/vi/1wOtD2N4668/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742994000,
+        "title": "【Haunted Property | 心霊物件】A Totally Normal New Apartment, Yup! 【hololive ID | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=hwbehU-sAyk",
+        "picture": "https://i.ytimg.com/vi/hwbehU-sAyk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742910900,
+        "title": "【 STREET FIGHTER 6】#V最協第一幕 スクリム2日目VSチーム3【アキロゼ/ホロライブ】"
     }
 ]
