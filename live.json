@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wS0n1QkLXQI",
         "picture": "https://i.ytimg.com/vi/wS0n1QkLXQI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742889600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#07【モンハンワイルズ】上位クエスト！脳筋ハンマー！！待望の「モンスターハンターワイルズ」やっていくよ～！！！【白銀ノエル/ホロライブ】"
     },
     {
