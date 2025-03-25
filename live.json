@@ -79,13 +79,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Cr3l6y0u7dg",
-        "picture": "https://i.ytimg.com/vi/Cr3l6y0u7dg/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Sl7b0G8liHY",
+        "picture": "https://i.ytimg.com/vi/Sl7b0G8liHY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【初代ポケモン】ピカチュウ版！バッジ3個目からいくよおおおお！！！ #2 【博衣こより/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742910600,
+        "title": "【CAPCOMミラー配信】「モンスターハンターワイルズ ショーケース」を一緒に観よう！【博衣こより/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
@@ -200,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=LaqTpxpUNfU",
         "picture": "https://i.ytimg.com/vi/LaqTpxpUNfU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742907600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず：スクリムDAY2　#V最協第一幕 【常闇トワ/ホロライブ】"
     },
     {
@@ -251,17 +251,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 モンハンワイルズ 】HR206！褒め褒めろっ！✨アプデ情報も見るのらあああ！！！(・o・🍬)【姫森ルーナ/ホロライブ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=N-_ok858mS0",
-        "picture": "https://i.ytimg.com/vi/N-_ok858mS0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ポケモンルビー 】金コイ色違い＆１匹縛りで最強のポケモンマスターを目指す【ホロライブ/さくらみこ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -361,5 +350,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742910900,
         "title": "【 STREET FIGHTER 6】#V最協第一幕 スクリム2日目VSチーム3【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=imhs06MuQn4",
+        "picture": "https://i.ytimg.com/vi/imhs06MuQn4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742910300,
+        "title": "【CAPCOMミラー配信】ついにアップデート情報解禁！！！！タマミツネさん、高難易度クエスト！！！  #ランス   / アステル"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=-0bOqfsnQ7Q",
+        "picture": "https://i.ytimg.com/vi/-0bOqfsnQ7Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742990400,
+        "title": "【アソビ大全】懐かしの ＃ハバババ で仲良く真剣勝負するぞ！！🌙🏴‍☠️【ホロライブ/紫咲シオン/宝鐘マリン】"
     }
 ]
