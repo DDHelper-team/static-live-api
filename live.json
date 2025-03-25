@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=37m_4hcn0s4",
-        "picture": "https://i.ytimg.com/vi/37m_4hcn0s4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=KOwZzOkMPes",
+        "picture": "https://i.ytimg.com/vi/KOwZzOkMPes/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【企劃】頻道健檢 你的頻道也需要幫忙嗎?"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742994000,
+        "title": "【雜談】最近做了什麼大事? 分享給我聽聽吧"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -319,17 +319,6 @@
         "title": "【 STREET FIGHTER 6】#V最協第一幕 スクリム2日目VSチーム3【アキロゼ/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=imhs06MuQn4",
-        "picture": "https://i.ytimg.com/vi/imhs06MuQn4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CAPCOMミラー配信】ついにアップデート情報解禁！！！！タマミツネさん、高難易度クエスト！！！  #ランス   / アステル"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "islive": false,
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742918400,
         "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 10【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uPd_Tkj5zxI",
+        "picture": "https://i.ytimg.com/vi/uPd_Tkj5zxI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742936400,
+        "title": "【ibb \u0026amp; obb】 two smol beans with @NanashiMumei ! #kfp #キアライブ"
     }
 ]
