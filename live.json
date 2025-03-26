@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=BxUPysdh--o",
         "picture": "https://i.ytimg.com/vi/BxUPysdh--o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1743017400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DEATH\u0026#39;S DOOR】We finish game today!【Dokibird】"
     },
     {
