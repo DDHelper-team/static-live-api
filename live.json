@@ -68,13 +68,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=5rhRHDb4iO4",
-        "picture": "https://i.ytimg.com/vi/5rhRHDb4iO4/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=u6mTlKQCY78",
+        "picture": "https://i.ytimg.com/vi/u6mTlKQCY78/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト６】スクリム３日目！🔥#V最協第一幕【ラプラス・ダークネス/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743076800,
+        "title": "【スト６】スクリム４日目！🔥#V最協第一幕【ラプラス・ダークネス/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=QqZFfT-mgSI",
         "picture": "https://i.ytimg.com/vi/QqZFfT-mgSI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743001200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Alicemare 】童話×絵本×ホラー：記憶喪失の主人公と辿る物語【 領国つかさ / すぺしゃりて 】"
     },
     {
@@ -251,17 +251,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【 ポケモンルビー 】みこちと金コイ伝説～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=FwjXldb3aXU",
-        "picture": "https://i.ytimg.com/vi/FwjXldb3aXU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ツーポイントミュージアム】博物館広くなりすぎ　#3【荒咬オウガ /ホロスターズ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
