@@ -94,7 +94,7 @@
         "link": "https://www.youtube.com/watch?v=AjwIazuu8gg",
         "picture": "https://i.ytimg.com/vi/AjwIazuu8gg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "timestamp": 1743030000,
         "title": "Whip It Out! Rating Your Clocks 🕒 with @OuroKronii"
     },
@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=umqoaWBJJs8",
         "picture": "https://i.ytimg.com/vi/umqoaWBJJs8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743030000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【INZOI】A rock but in HD"
     },
     {
@@ -196,16 +196,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743073200,
         "title": "【Delta Force】マルチの他にキャンペーンモード追加されたとか？いろいろ遊びたい！【獅白ぼたん/ホロライブ】"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "Assassin\u0026#39;s Creed: Shadows #ad | !acs"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
