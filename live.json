@@ -178,13 +178,13 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MJcRMjCr1mo",
-        "picture": "https://i.ytimg.com/vi/MJcRMjCr1mo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QqZFfT-mgSI",
+        "picture": "https://i.ytimg.com/vi/QqZFfT-mgSI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 雑談 】最強天才GOD中学生の無軌道雑談【 領国つかさ / すぺしゃりて 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743001200,
+        "title": "【 Alicemare 】童話×絵本×ホラー：記憶喪失の主人公と辿る物語【 領国つかさ / すぺしゃりて 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l6bAvRGPsQ8",
         "picture": "https://i.ytimg.com/vi/l6bAvRGPsQ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742996700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【INZOI】 I WANT TO BE RTX TOOOOO!!【Kureiji Ollie】"
     },
     {
