@@ -88,17 +88,6 @@
         "title": "【ポケポケ】ポケポケ新パック「シャイニングハイ」開封じゃああ！！！！！色違い最高！！【博衣こより/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=AjwIazuu8gg",
-        "picture": "https://i.ytimg.com/vi/AjwIazuu8gg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1743030000,
-        "title": "Whip It Out! Rating Your Clocks 🕒 with @OuroKronii"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
         "islive": false,
@@ -207,5 +196,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743076800,
         "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #12【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=blMVcgIfyjQ",
+        "picture": "https://i.ytimg.com/vi/blMVcgIfyjQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743083700,
+        "title": "【WATCHALONG】Nintendo Direct! IF TWILIGHT PRINCESS I EAT HAT (in the near future) #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=x7SibKQUfwY",
+        "picture": "https://i.ytimg.com/vi/x7SibKQUfwY/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743062400,
+        "title": "【 Minecraft 】新ホロ鯖！\u0026quot;んな電鉄\u0026quot;水中トンネルの建設を進めていくのら！！！＃６【姫森ルーナ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=AjwIazuu8gg",
+        "picture": "https://i.ytimg.com/vi/AjwIazuu8gg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "Whip It Out! Rating Your Clocks 🕒 with @OuroKronii"
     }
 ]
