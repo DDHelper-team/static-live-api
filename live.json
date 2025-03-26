@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6De5K4MPv5Q",
         "picture": "https://i.ytimg.com/vi/6De5K4MPv5Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742954400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MYRIAD DEATH】They Made a Game About Me?! #calliolive"
     },
     {
@@ -242,17 +242,6 @@
         "title": "【心霊物件】格安アパートで始まるあなたとの新生活❤【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=QT_3k9yn8Hc",
-        "picture": "https://i.ytimg.com/vi/QT_3k9yn8Hc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【CHAT】 Most Likely a Chatting Stream...."
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
         "islive": false,
@@ -262,5 +251,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742990400,
         "title": "四週年雜談｜啥！居然四年了！！這是一隻老狐狸【Healing希靈/VTuber】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "channellink": "https://www.youtube.com/@Dokibird",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=BxUPysdh--o",
+        "picture": "https://i.ytimg.com/vi/BxUPysdh--o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743017400,
+        "title": "【DEATH\u0026#39;S DOOR】We finish game today!【Dokibird】"
     }
 ]
