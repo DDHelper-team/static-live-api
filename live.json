@@ -189,12 +189,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=fRiW9HvTt74",
         "picture": "https://i.ytimg.com/vi/fRiW9HvTt74/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1742983200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 電脳戦機バーチャロン 】初めてのバーチャロンで遊んでみるのら！！！電脳戦機バーチャロン マスターピース 1995～2001【姫森ルーナ/ホロライブ】"
     },
     {
@@ -282,8 +282,8 @@
         "picture": "https://i.ytimg.com/vi/YjIGk_xgwpo/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1742983200,
-        "title": "【nosh-ナッシュ】かなたそなにする【天音かなた/ホロライブ】"
+        "timestamp": 1742986800,
+        "title": "【nosh-ナッシュ】俺の選んだBEST3ガチ忖度無しで決めるぞおおお！！！！！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -361,5 +361,49 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742994000,
         "title": "【 holo8 - ホロハチ - 】日常編コンプ！ホロライブ事務所の異変をGUESS！【ホロライブ / AZKi】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=NYn8atBxuBE",
+        "picture": "https://i.ytimg.com/vi/NYn8atBxuBE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742994000,
+        "title": "【Hello Kitty Island Adventure】夜にまったりポムちゃんを探したいのそら【ホロライブ/ときのそら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=dgEB2-FXHW8",
+        "picture": "https://i.ytimg.com/vi/dgEB2-FXHW8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742997600,
+        "title": "【 モンハンワイルズ　＃３ 】初心者ハンターの成り上がり！素材をくださいいいいい【ホロライブ/ ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=2LDhfEcrq5o",
+        "picture": "https://i.ytimg.com/vi/2LDhfEcrq5o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742986800,
+        "title": "【 ポケモンルビー 】みこちと金コイ伝説～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channellink": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=DqObfwi5m6s",
+        "picture": "https://i.ytimg.com/vi/DqObfwi5m6s/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【#りっちしょこら】今回のゲストは大神ミオ様⚡今宵もご堪能あれ！【ホロライブ/癒月ちょこ/鷹嶺ルイ/大神ミオ】"
     }
 ]
