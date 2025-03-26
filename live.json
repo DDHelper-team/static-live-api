@@ -308,17 +308,6 @@
         "title": "【OFF COLLAB】KARAOKE 歌枠 w/ @ShiranuiFlare ！告知あり！！！AND ANNOUNCEMENTS"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=71v6CDc8Rjg",
-        "picture": "https://i.ytimg.com/vi/71v6CDc8Rjg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【League of Legends】日韓戦チーム練習！！ / アステル 夕陽リリ³ 鷹宮リオン³ 千燈ゆうひ³ 歌衣メイカ³"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "islive": false,
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1742994000,
         "title": "【INZOI】 I WANT TO BE RTX TOOOOO!!【Kureiji Ollie】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=SndluSOEx6c",
+        "picture": "https://i.ytimg.com/vi/SndluSOEx6c/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1742994000,
+        "title": "【 holo8 - ホロハチ - 】日常編コンプ！ホロライブ事務所の異変をGUESS！【ホロライブ / AZKi】"
     }
 ]
