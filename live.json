@@ -88,17 +88,6 @@
         "title": "【ストリートファイター６】#V最協第一幕　スクリム1日目【律可/叶/因幡はねる/ラプラス・ダークネス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=g2k88VcU3js",
-        "picture": "https://i.ytimg.com/vi/g2k88VcU3js/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #12【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -130,17 +119,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743120000,
         "title": "Transferring Cramps to the Loser【Super Smash Bros. Ultimate with @MachinaXFlayon 】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "channellink": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=y63ENWK-hqU",
-        "picture": "https://i.ytimg.com/vi/y63ENWK-hqU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】なんかラジオみたいなトーク　第6回【荒咬オウガ  アール/Aru】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -321,12 +299,23 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6ij06_5mQlE",
         "picture": "https://i.ytimg.com/vi/6ij06_5mQlE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743091200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 12【Pavolia Reine/hololiveID 2nd gen】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "channellink": "https://www.youtube.com/@TanZ1001",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=-M2-_WYN7EA",
+        "picture": "https://i.ytimg.com/vi/-M2-_WYN7EA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 #モンハンワイルズ   】アプデくるからやらなきゃ！#4 【#新人vtuber 】"
     }
 ]
