@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=-M2-_WYN7EA",
-        "picture": "https://i.ytimg.com/vi/-M2-_WYN7EA/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=uc69nJvPzrk",
+        "picture": "https://i.ytimg.com/vi/uc69nJvPzrk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 #モンハンワイルズ   】アプデくるからやらなきゃ！#4 【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743163200,
+        "title": "【歌枠 / Singing】あいうえお順歌枠！前編！【#新人vtuber 】"
     }
 ]
