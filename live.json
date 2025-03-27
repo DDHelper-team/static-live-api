@@ -99,17 +99,6 @@
         "title": "【inZOI】lets actually play the game alright #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=mqh_elUR-uQ",
-        "picture": "https://i.ytimg.com/vi/mqh_elUR-uQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 モンハンワイルズ  】明日はバカタレサーカスでモンハンなので整える！【角巻わため/ホロライブ４期生】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -261,5 +250,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743129000,
         "title": "Important Announcement - Nanashi Mumei"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=SbTfzva-0bo",
+        "picture": "https://i.ytimg.com/vi/SbTfzva-0bo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【OHAPOL】#152 3/28金曜日！今週おわっちまう #ポルカ公演中 【尾丸ポルカ/ホロライブ】"
     }
 ]
