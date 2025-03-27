@@ -123,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=mqh_elUR-uQ",
         "picture": "https://i.ytimg.com/vi/mqh_elUR-uQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": null,
-        "timestamp": 1743084000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ  】明日はバカタレサーカスでモンハンなので整える！【角巻わため/ホロライブ４期生】"
     },
     {
@@ -187,17 +187,6 @@
         "title": "【 Liar\u0026#39;s Bar 】命がけの騙しあいゲームがはじまる・・・！【 #にゃんたかーとらっく /ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=rG96I4Q2HZo",
-        "picture": "https://i.ytimg.com/vi/rG96I4Q2HZo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1743220800,
-        "title": "【inZOI】I Don\u0026#39;t Want to Be a REAL Girl.... #calliolive"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "islive": true,
@@ -229,17 +218,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【同時視聴】Nintendo Direct 2025.3.27を一緒に見よう！！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ZA7cJgZ0Q1Q",
-        "picture": "https://i.ytimg.com/vi/ZA7cJgZ0Q1Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "歌とはビッグバンインパクトである説"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -350,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743159600,
         "title": "【メンバー限定/Member only】SSRB総会 3月号【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "channellink": "https://www.youtube.com/@KaelaKovalskia",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=B4gXl1Gahg4",
+        "picture": "https://i.ytimg.com/vi/B4gXl1Gahg4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743087600,
+        "title": "【POST TALK \u0026amp; DONATION READING】discussing behind the scenes 😂🔨【#Ka3volution】"
     }
 ]
