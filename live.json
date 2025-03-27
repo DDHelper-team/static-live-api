@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=l4U9IpjGZ3o",
         "picture": "https://i.ytimg.com/vi/l4U9IpjGZ3o/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743071400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】スクリムDAY4 本日は22時から乾殿チームと千羽師匠チーム #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
@@ -273,17 +273,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談】風邪からやっと復活！おかえりください！【ホロライブ/夏色まつり】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RoofVB8lZG8",
-        "picture": "https://i.ytimg.com/vi/RoofVB8lZG8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠】引っ越し前にノリノリ歌枠しちゃおうぜッッ🔥【白銀ノエル/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "channellink": "https://www.youtube.com/@TodorokiHajime",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=McZ-5YxmfQg",
         "picture": "https://i.ytimg.com/vi/McZ-5YxmfQg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743071400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "#７【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is"
     },
     {
@@ -372,5 +361,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ポケモンファイアレッド】#02 ハナダシティでマサキを探せ！完全初見！初代リメイク版！！ / FRLG【天音かなた/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=ZA7cJgZ0Q1Q",
+        "picture": "https://i.ytimg.com/vi/ZA7cJgZ0Q1Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "歌とはビッグバンインパクトである説"
     }
 ]
