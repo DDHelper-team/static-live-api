@@ -253,17 +253,6 @@
         "title": "【ストリートファイター6】スクリムDAY4 本日は22時から乾殿チームと千羽師匠チーム #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=wZv6XIaKN9E",
-        "picture": "https://i.ytimg.com/vi/wZv6XIaKN9E/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "２時間だけ歌練習！ アーカイブなし！"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RoofVB8lZG8",
         "picture": "https://i.ytimg.com/vi/RoofVB8lZG8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743066000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠】引っ越し前にノリノリ歌枠しちゃおうぜッッ🔥【白銀ノエル/ホロライブ】"
     },
     {
@@ -310,12 +299,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=TEjplLpS14c",
         "picture": "https://i.ytimg.com/vi/TEjplLpS14c/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743066000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケポケ】シャイニングハイむくぞー！！新弾でデッキ組めるかなー？ Pokémon Trading Card Game Pocket【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
@@ -339,5 +328,38 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743073200,
         "title": "【#生スバル】手書き切り抜き鑑賞会やるしゅばあああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4quujCCFB20",
+        "picture": "https://i.ytimg.com/vi/4quujCCFB20/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743076800,
+        "title": "【 ポケモンルビー 】みこちと金コイ伝説２日目～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=YjC3b-wbvIA",
+        "picture": "https://i.ytimg.com/vi/YjC3b-wbvIA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743069600,
+        "title": "【MONSTER HUNTER WILDS】 A Few More Hunts...."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=QPfQoOAAD5o",
+        "picture": "https://i.ytimg.com/vi/QPfQoOAAD5o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743069600,
+        "title": "【ポケモンエメラルド】金ダツラをクリアします！！！ぺこ！【ホロライブ/兎田ぺこら】"
     }
 ]
