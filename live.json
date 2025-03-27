@@ -90,12 +90,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=VOJMFgOqSdk",
         "picture": "https://i.ytimg.com/vi/VOJMFgOqSdk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743096600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【inZOI】lets actually play the game alright #kfp #キアライブ"
     },
     {
