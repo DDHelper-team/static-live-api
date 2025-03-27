@@ -178,12 +178,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=x7SibKQUfwY",
         "picture": "https://i.ytimg.com/vi/x7SibKQUfwY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743062400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】新ホロ鯖！\u0026quot;んな電鉄\u0026quot;水中トンネルの建設を進めていくのら！！！＃６【姫森ルーナ/ホロライブ】"
     },
     {
@@ -317,5 +317,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743066000,
         "title": "【ポケポケ】シャイニングハイむくぞー！！新弾でデッキ組めるかなー？ Pokémon Trading Card Game Pocket【一条莉々華/hololive DEV_IS　ReGLOSS】"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "channellink": "https://www.youtube.com/@TodorokiHajime",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=McZ-5YxmfQg",
+        "picture": "https://i.ytimg.com/vi/McZ-5YxmfQg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743071400,
+        "title": "#７【ポケモンSV】はじめてのポケモン！ばんちょーの大冒険【轟はじめ/ReGLOSS】 #hololivedev_is"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=t9MHW4V4ZBM",
+        "picture": "https://i.ytimg.com/vi/t9MHW4V4ZBM/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743073200,
+        "title": "【#生スバル】手書き切り抜き鑑賞会やるしゅばあああああああああああああああああああああああ！！！！！【ホロライブ/大空スバル】"
     }
 ]
