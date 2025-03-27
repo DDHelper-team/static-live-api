@@ -176,17 +176,6 @@
         "title": "【雜談】平常是我陪你們 今天換你們陪我 分享一下你最近遇到的好事吧"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=CpedkJ_87rI",
-        "picture": "https://i.ytimg.com/vi/CpedkJ_87rI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 STREET FIGHTER 6】チーム名は「ひいろうず」#V最協第一幕 スクリム4日目VSチーム5＆6【アキロゼ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
@@ -207,17 +196,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【POST TALK \u0026amp; DONATION READING】discussing behind the scenes 😂🔨【#Ka3volution】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=1fnc9PdLD3s",
-        "picture": "https://i.ytimg.com/vi/1fnc9PdLD3s/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【League of Legends】セグカップ！！！！！練習！！！！ / アステル 夕陽リリ³ 鷹宮リオン³ 千燈ゆうひ³ 歌衣メイカ³"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -286,7 +264,7 @@
         "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #13【 領国つかさ / すぺしゃりて 】"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "avatar": null,
         "channel": "https://www.twitch.tv/vedal987",
         "islive": true,
         "link": "https://www.twitch.tv/vedal987",
@@ -294,5 +272,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "title": "neuro stream"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=4qCfplhCk6A",
+        "picture": "https://i.ytimg.com/vi/4qCfplhCk6A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743129000,
+        "title": "Important Announcement - Nanashi Mumei"
     }
 ]
