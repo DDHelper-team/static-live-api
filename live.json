@@ -244,12 +244,45 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=hzdA8g_tQAg",
         "picture": "https://i.ytimg.com/vi/hzdA8g_tQAg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743134400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "just a lil chat"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Cs_MFPINA_Q",
+        "picture": "https://i.ytimg.com/vi/Cs_MFPINA_Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743138040,
+        "title": "【原神】#76 | 完全初見！みんなヴァレサちゃん引いた？💞【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=rG96I4Q2HZo",
+        "picture": "https://i.ytimg.com/vi/rG96I4Q2HZo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743220800,
+        "title": "【inZOI】I Don\u0026#39;t Want to Be a REAL Girl.... #calliolive"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=f3UviINB9Z0",
+        "picture": "https://i.ytimg.com/vi/f3UviINB9Z0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743166800,
+        "title": "【 本音と建前 】素直な気持ちを伝える…ってコト！？なのら(・o・🍬) 【姫森ルーナ/ホロライブ】"
     }
 ]
