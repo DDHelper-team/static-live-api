@@ -442,12 +442,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=EkyrF8mMYQA",
         "picture": "https://i.ytimg.com/vi/EkyrF8mMYQA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743169500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6】チーム名は「ひいろうず」#V最協第一幕 スクリム最終日VSチーム7＆8【アキロゼ/ホロライブ】"
     },
     {
