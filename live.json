@@ -409,11 +409,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
         "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=JN_mOlwzn_4",
         "picture": "https://i.ytimg.com/vi/JN_mOlwzn_4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【雑談歌枠】明日のライブに向けて最後の気合！【 桃鈴ねね / hololive 】"
     },
