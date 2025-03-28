@@ -90,13 +90,13 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Q32Om1RAa1c",
-        "picture": "https://i.ytimg.com/vi/Q32Om1RAa1c/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZfYHI3Fy_1Q",
+        "picture": "https://i.ytimg.com/vi/ZfYHI3Fy_1Q/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "Transferring Cramps to the Loser【Super Smash Bros. Ultimate with @MachinaXFlayon 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743210000,
+        "title": "Totally Platonic Hangout with Beebs【VRChat - Epilogue Ch 2】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -165,17 +165,6 @@
         "title": "ASMR｜讓姐姐陪伴你睡眠❤️給你一晚好眠｜Oneechan Whispers to Sleep｜甘い添い寝 耳かき 采耳【黑3DIO/KU100】"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=fxP0ZODEOXk",
-        "picture": "https://i.ytimg.com/vi/fxP0ZODEOXk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "can I get uuuuuuuuuuuuuuuuuuuuh | Yappa yappa"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": false,
@@ -211,12 +200,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4qCfplhCk6A",
         "picture": "https://i.ytimg.com/vi/4qCfplhCk6A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743129000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "Important Announcement - Nanashi Mumei"
     },
     {
@@ -240,5 +229,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743163200,
         "title": "【 モンハンワイルズ  】バカタレサーカスのみんなにお世話してもらう羊！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6lnaeKXBKiE",
+        "picture": "https://i.ytimg.com/vi/6lnaeKXBKiE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743213600,
+        "title": "【クロノトリガー】完全初見★ドラクエとFFスタッフがタッグを組んだ神作、遂にやらせていただきます！！！ #2 【博衣こより/ホロライブ】【ネタバレあり】"
     }
 ]
