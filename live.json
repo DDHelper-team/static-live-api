@@ -220,17 +220,6 @@
         "title": "【 Minecraft 】ゲームセンターを作るぞ！【ホロライブ/夏色まつり】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "channellink": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=BnJ0uWtWlIc",
-        "picture": "https://i.ytimg.com/vi/BnJ0uWtWlIc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【POKEMON SHIELD】MIDNIGHT POKEMON CHANNEL... 13【Pavolia Reine/hololiveID 2nd gen】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": false,
@@ -317,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743264000,
         "title": "【STELLAR BLADE】Wawa Blade Weekend!! TO THE FINALE! #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=c92tsO5Qv5o",
+        "picture": "https://i.ytimg.com/vi/c92tsO5Qv5o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743202800,
+        "title": "#2【DEATH STRANDING】早朝にも配達してえらいねぇ～!!【花咲みやび/ホロスターズ】"
     }
 ]
