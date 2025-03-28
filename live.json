@@ -407,17 +407,6 @@
         "title": "【MINECRAFT - HOLOLIVE NEW SERVER】TERRAFORMING? MAKE A HOUSE? COMFY STREAM INCOMING!!【Kureiji Ollie】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JN_mOlwzn_4",
-        "picture": "https://i.ytimg.com/vi/JN_mOlwzn_4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談歌枠】明日のライブに向けて最後の気合！【 桃鈴ねね / hololive 】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": false,
@@ -438,5 +427,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743170400,
         "title": "【ポケポケ】ポケポケ新パック「シャイニングハイ」色違いほしいいいいいいい！！Pokémon Trading Card Game Pocket【ホロライブ/ ロボ子さん】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=JN_mOlwzn_4",
+        "picture": "https://i.ytimg.com/vi/JN_mOlwzn_4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【雑談歌枠】明日のライブに向けて最後の気合！【 桃鈴ねね / hololive 】"
     }
 ]
