@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_Y9zhfXjs0k",
         "picture": "https://i.ytimg.com/vi/_Y9zhfXjs0k/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ディズニーロルカナ】ロルカナ第2弾を開封!!【花咲みやび/ホロスターズ】"
     },
     {
@@ -145,13 +145,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=RC7pU_jB-0A",
-        "picture": "https://i.ytimg.com/vi/RC7pU_jB-0A/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0xisDgIXbbk",
+        "picture": "https://i.ytimg.com/vi/0xisDgIXbbk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 同時視聴 】開幕戦⚾✦ 横浜VS中日一緒に見よう～～～！🔥😸【 猫又おかゆ/ホロライブ 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743220800,
+        "title": "【 ゼノブレイド2 】クリア後のDLC🎮 黄金の国イーラを遊ぶ #01【 猫又おかゆ/ホロライブ 】"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=f3UviINB9Z0",
         "picture": "https://i.ytimg.com/vi/f3UviINB9Z0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 本音と建前 】素直な気持ちを伝える…ってコト！？なのら(・o・🍬) 【姫森ルーナ/ホロライブ】"
     },
     {
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=feghh-mCSm0",
         "picture": "https://i.ytimg.com/vi/feghh-mCSm0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#5】日常 同時視聴 / NICHIJOU watching party【ホロライブ/大空スバル】"
     },
     {
@@ -332,23 +332,23 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=qtEICvXdrhk",
         "picture": "https://i.ytimg.com/vi/qtEICvXdrhk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743165900,
-        "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず：スクリムDAY3　#V最協第一幕 【常闇トワ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず：スクリム最終日　#V最協第一幕 【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iVDmXJyLue4",
         "picture": "https://i.ytimg.com/vi/iVDmXJyLue4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【MINECRAFT - HOLOLIVE NEW SERVER】TERRAFORMING? MAKE A HOUSE? COMFY STREAM INCOMING!!【Kureiji Ollie】"
     },
     {
@@ -385,17 +385,6 @@
         "title": "【雑談歌枠】明日のライブに向けて最後の気合！【 桃鈴ねね / hololive 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Vuhcz-sCKKU",
-        "picture": "https://i.ytimg.com/vi/Vuhcz-sCKKU/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【APEX】100年ぶりのFPS、ガードってありますか...?  / アステル 猫汰つな³ ハセシン³"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": true,
@@ -420,23 +409,45 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "channellink": "https://www.youtube.com/@JuufuuteiRaden",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=uTOLWlsDbuc",
         "picture": "https://i.ytimg.com/vi/uTOLWlsDbuc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Pokémon LEGENDS アルセウス】その③ストーリ進める（たぶん）【儒烏風亭らでん #ReGLOSS 】"
     },
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=UhJNBBSrxBI",
         "picture": "https://i.ytimg.com/vi/UhJNBBSrxBI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Monster Hunter Wilds】 Night Hunt"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Un_m9xA3fjs",
+        "picture": "https://i.ytimg.com/vi/Un_m9xA3fjs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 DARK SOULS REMASTERED 】完全初見だけど最強プレイを見せてやるｗ #13【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=EkyrF8mMYQA",
+        "picture": "https://i.ytimg.com/vi/EkyrF8mMYQA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743169500,
+        "title": "【 STREET FIGHTER 6】チーム名は「ひいろうず」#V最協第一幕 スクリム最終日VSチーム7＆8【アキロゼ/ホロライブ】"
     }
 ]
