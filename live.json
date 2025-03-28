@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_ByhhvybCeI",
         "picture": "https://i.ytimg.com/vi/_ByhhvybCeI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
-        "title": "【雜談】平常是我陪你們 今天換你們陪我 分享一下你最近遇到的好事吧"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【台規宣導】人不犯我我不犯人 人若犯我我犯你到底 溫柔只留給對我溫柔的人"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -294,7 +294,7 @@
         "platform": "youtube",
         "status": "LIVE",
         "timestamp": null,
-        "title": "【ポケモンエメラルド】１６連勝から～金ダツラをクリア配信！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
+        "title": "【ポケモンエメラルド】金ダツラをクリア配信！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -398,12 +398,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7YuSDUsN2sQ",
         "picture": "https://i.ytimg.com/vi/7YuSDUsN2sQ/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743166800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 あつまれ どうぶつの森 】 英雄の帰還する森【 奏手イヅル / ホロスターズ 】"
     },
     {
@@ -449,5 +449,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743169500,
         "title": "【 STREET FIGHTER 6】チーム名は「ひいろうず」#V最協第一幕 スクリム最終日VSチーム7＆8【アキロゼ/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=PlS8ZE3pWWo",
+        "picture": "https://i.ytimg.com/vi/PlS8ZE3pWWo/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】続 怖い話はもうおしまい  / アステル 猫汰つな³ ハセシン³"
     }
 ]
