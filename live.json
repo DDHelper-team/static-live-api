@@ -231,17 +231,6 @@
         "title": "【クロノトリガー】完全初見★ドラクエとFFスタッフがタッグを組んだ神作、遂にやらせていただきます！！！ #2 【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Cs_MFPINA_Q",
-        "picture": "https://i.ytimg.com/vi/Cs_MFPINA_Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【原神】#76 | 完全初見！みんなヴァレサちゃん引いた？💞【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "channellink": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "islive": false,
@@ -299,12 +288,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "channellink": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=tSqAenEjnMM",
         "picture": "https://i.ytimg.com/vi/tSqAenEjnMM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743156000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【モンハンワイルズ】人生初モンハン！！！！！ガンランスで行く初心者ハンター！#5【ホロライブ / AZKi】※ネタバレあり"
     },
     {
@@ -328,17 +317,6 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743163200,
         "title": "【モンハンワイルズ】様子のおかしいモンハン狩猟を見たことがあるか！？…ってハンターはだいたい様子がおかしい説【＃バカタレサーカス】"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=DTi5QgKptz8",
-        "picture": "https://i.ytimg.com/vi/DTi5QgKptz8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【逆再生キング】わたくし、王になりたいと思います【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
@@ -383,5 +361,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743163200,
         "title": "【 Foundation 】領主となって人口１万人の国を作る！#２【 ホロライブ / 大神ミオ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wu42ExuPvVA",
+        "picture": "https://i.ytimg.com/vi/wu42ExuPvVA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743170400,
+        "title": "【メンバー限定】寝る前にのんびりお話（アレルギーで喉やられてます）【 雪花ラミィ /ホロライブ】"
     }
 ]
