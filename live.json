@@ -112,12 +112,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=eNiKMyFeqrg",
         "picture": "https://i.ytimg.com/vi/eNiKMyFeqrg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743159600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【実食】DELIPICKSさんの「フレンチシェフが贈るここにしかない冷凍弁当」を実食レポ！！【夕刻ロベル/ホロスターズ】"
     },
     {
@@ -146,12 +146,12 @@
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=sp6oXODmDjE",
-        "picture": "https://i.ytimg.com/vi/sp6oXODmDjE/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=VKzTYEBsImc",
+        "picture": "https://i.ytimg.com/vi/VKzTYEBsImc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743159600,
-        "title": "【メンバー限定/Member only】SSRB総会 3月号【獅白ぼたん/ホロライブ】"
+        "status": null,
+        "timestamp": 1767105300,
+        "title": "✨獅白ぼたんメンバーシップ特典について（SHISHIRO BOTAN’s Membership）"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=igyQt83-wps",
         "picture": "https://i.ytimg.com/vi/igyQt83-wps/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743159600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【#ときのそら_KeepShinin】インターネットサイン会会場！【ホロライブ/ときのそら】"
     },
     {
@@ -319,17 +319,6 @@
         "title": "【モンハンワイルズ】様子のおかしいモンハン狩猟を見たことがあるか！？…ってハンターはだいたい様子がおかしい説【＃バカタレサーカス】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=k0hYkHjJF1U",
-        "picture": "https://i.ytimg.com/vi/k0hYkHjJF1U/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【POPPY PLAY TIME】すべての恐怖を警戒する騎士【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "islive": false,
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Ps171KyYV5w",
         "picture": "https://i.ytimg.com/vi/Ps171KyYV5w/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743159600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケモンエメラルド】１６連勝から～金ダツラをクリア配信！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
     },
     {
@@ -438,5 +427,27 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【雑談歌枠】明日のライブに向けて最後の気合！【 桃鈴ねね / hololive 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=Vuhcz-sCKKU",
+        "picture": "https://i.ytimg.com/vi/Vuhcz-sCKKU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【APEX】100年ぶりのFPS、ガードってありますか...?  / アステル 猫汰つな³ ハセシン³"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ghvGvWZhN7A",
+        "picture": "https://i.ytimg.com/vi/ghvGvWZhN7A/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743161400,
+        "title": "【ストリートファイター6】スクリムDAY5 お腹痛いンゴ #V最協第一幕【アルランディス/ホロスターズ】"
     }
 ]
