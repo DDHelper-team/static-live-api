@@ -167,12 +167,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=RC7pU_jB-0A",
         "picture": "https://i.ytimg.com/vi/RC7pU_jB-0A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743152400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 同時視聴 】開幕戦⚾✦ 横浜VS中日一緒に見よう～～～！🔥😸【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -332,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "channellink": "https://www.youtube.com/@IchijouRirika",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DTi5QgKptz8",
         "picture": "https://i.ytimg.com/vi/DTi5QgKptz8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743152400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【逆再生キング】わたくし、王になりたいと思います【一条莉々華/hololive DEV_IS　ReGLOSS】"
     },
     {
