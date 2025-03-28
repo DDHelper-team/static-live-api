@@ -286,17 +286,6 @@
         "title": "【MINECRAFT: STORY MODE】lost media recovered【Dokibird】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Rb7cgCvkOhI",
-        "picture": "https://i.ytimg.com/vi/Rb7cgCvkOhI/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【Chillquarium】Talking"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "channellink": "https://www.youtube.com/@FinglaGrowl",
         "islive": false,
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743228000,
         "title": "【Tokyo Xtreme Racer | 首都高バトル】TOKYO HERE I COME! 【hololive ID 2nd Generation | Anya Melfissa】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=oDbg2_XrBZw",
+        "picture": "https://i.ytimg.com/vi/oDbg2_XrBZw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743163200,
+        "title": "【モンハンワイルズ】様子のおかしいモンハン狩猟を見たことがあるか！？…ってハンターはだいたい様子がおかしい説【＃バカタレサーカス】"
     }
 ]
