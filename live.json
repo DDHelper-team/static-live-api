@@ -286,16 +286,6 @@
         "title": "【Signalis】Perish Please | #2"
     },
     {
-        "avatar": null,
-        "channel": "https://www.twitch.tv/vedal987",
-        "islive": true,
-        "link": "https://www.twitch.tv/vedal987",
-        "picture": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "platform": "twitch",
-        "status": "LIVE",
-        "title": "twin stream"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "channellink": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "islive": false,
@@ -316,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743213600,
         "title": "【OH HI】Moom Q\u0026amp;A !! ~"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IR6aC2r6zE0",
+        "picture": "https://i.ytimg.com/vi/IR6aC2r6zE0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743264000,
+        "title": "【STELLAR BLADE】Wawa Blade Weekend!! TO THE FINALE! #kfp #キアライブ"
     }
 ]
