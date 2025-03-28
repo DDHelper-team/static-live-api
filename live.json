@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uc69nJvPzrk",
-        "picture": "https://i.ytimg.com/vi/uc69nJvPzrk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=n3noF8cloB4",
+        "picture": "https://i.ytimg.com/vi/n3noF8cloB4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【歌枠 / Singing】あいうえお順歌枠！前編！【#新人vtuber 】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743238800,
+        "title": "【歌枠 / Singing】リクエストルーレット歌枠！！【#新人vtuber 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
@@ -311,12 +311,12 @@
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=wu42ExuPvVA",
-        "picture": "https://i.ytimg.com/vi/wu42ExuPvVA/maxresdefault_live.jpg",
+        "link": null,
+        "picture": null,
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743170400,
-        "title": "【メンバー限定】寝る前にのんびりお話（アレルギーで喉やられてます）【 雪花ラミィ /ホロライブ】"
+        "status": null,
+        "timestamp": null,
+        "title": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -365,12 +365,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iGBhgxlNBfU",
         "picture": "https://i.ytimg.com/vi/iGBhgxlNBfU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743170400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケポケ】ポケポケ新パック「シャイニングハイ」色違いほしいいいいいいい！！Pokémon Trading Card Game Pocket【ホロライブ/ ロボ子さん】"
     },
     {
@@ -449,5 +449,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【APEX】続 怖い話はもうおしまい  / アステル 猫汰つな³ ハセシン³"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=52QhZIKuTBA",
+        "picture": "https://i.ytimg.com/vi/52QhZIKuTBA/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743220800,
+        "title": "【 Minecraft 】ゲームセンターを作るぞ！【ホロライブ/夏色まつり】"
     }
 ]
