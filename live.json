@@ -110,17 +110,6 @@
         "title": "【MONSTER HUNTER WILDS】 A Few More Hunts...."
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "channellink": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_Y9zhfXjs0k",
-        "picture": "https://i.ytimg.com/vi/_Y9zhfXjs0k/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ディズニーロルカナ】ロルカナ第2弾を開封!!【花咲みやび/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "channellink": "https://www.youtube.com/@kamonegi1230",
         "islive": true,
@@ -134,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=8PbQlvo0-k4",
         "picture": "https://i.ytimg.com/vi/8PbQlvo0-k4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743174000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "ASMR｜讓姐姐陪伴你睡眠❤️給你一晚好眠｜Oneechan Whispers to Sleep｜甘い添い寝 耳かき 采耳【黑3DIO/KU100】"
     },
     {
@@ -341,6 +330,17 @@
         "title": "【MINECRAFT - HOLOLIVE NEW SERVER】TERRAFORMING? MAKE A HOUSE? COMFY STREAM INCOMING!!【Kureiji Ollie】"
     },
     {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=JN_mOlwzn_4",
+        "picture": "https://i.ytimg.com/vi/JN_mOlwzn_4/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": null,
+        "title": "【雑談歌枠】明日のライブに向けて最後の気合！【 桃鈴ねね / hololive 】"
+    },
+    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "channellink": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "islive": true,
@@ -361,17 +361,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ポケポケ】ポケポケ新パック「シャイニングハイ」色違いほしいいいいいいい！！Pokémon Trading Card Game Pocket【ホロライブ/ ロボ子さん】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "channellink": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=JN_mOlwzn_4",
-        "picture": "https://i.ytimg.com/vi/JN_mOlwzn_4/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": null,
-        "title": "【雑談歌枠】明日のライブに向けて最後の気合！【 桃鈴ねね / hololive 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -442,12 +431,12 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "channellink": "https://www.youtube.com/@necomakarin",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=5Q_YNtQn-kM",
         "picture": "https://i.ytimg.com/vi/5Q_YNtQn-kM/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743174000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【KU100/ASMR】しっとりはむはむと甘い囁きで疲れがスッキリほぐれる♡癒しの睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,RelaxSleeping"
     },
     {
