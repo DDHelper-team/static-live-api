@@ -198,26 +198,15 @@
         "title": "【 Foundation 】領主となって人口１万人の国を作る！#２【 ホロライブ / 大神ミオ 】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=iISIcvYS67c",
-        "picture": "https://i.ytimg.com/vi/iISIcvYS67c/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 ポケモンルビー 】みこちと金コイ伝説３日目～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=qtEICvXdrhk",
-        "picture": "https://i.ytimg.com/vi/qtEICvXdrhk/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wMm82Mk6KQ8",
+        "picture": "https://i.ytimg.com/vi/wMm82Mk6KQ8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず：スクリム最終日　#V最協第一幕 【常闇トワ/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743220800,
+        "title": "【STREET FIGHTER 6】いんぱくと☆ふれんず 予選！やるぞ🔥　#1NFWIN　#V最協第一幕 【常闇トワ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -251,17 +240,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【ストリートファイター6】スクリムDAY5 お腹痛いンゴ #V最協第一幕【アルランディス/ホロスターズ】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=7YuSDUsN2sQ",
-        "picture": "https://i.ytimg.com/vi/7YuSDUsN2sQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 あつまれ どうぶつの森 】 英雄の帰還する森【 奏手イヅル / ホロスターズ 】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -328,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743210000,
         "title": "【】おはスバ【ホロライブ/大空スバル】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=IzcnndFe1F0",
+        "picture": "https://i.ytimg.com/vi/IzcnndFe1F0/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743238800,
+        "title": "【】【姫森ルーナ/ホロライブ】"
     }
 ]
