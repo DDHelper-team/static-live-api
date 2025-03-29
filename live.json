@@ -244,12 +244,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_jRiRK_Aizo",
         "picture": "https://i.ytimg.com/vi/_jRiRK_Aizo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743256800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 モンハンワイルズ　＃４ 】夜更かしハンターは上位へ行く！参加型もできるかなああ？？【ホロライブ/ ロボ子さん】"
     },
     {
