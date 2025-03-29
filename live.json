@@ -101,12 +101,12 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "channellink": "https://www.youtube.com/@TanZ1001",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=n3noF8cloB4",
         "picture": "https://i.ytimg.com/vi/n3noF8cloB4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743238800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【歌枠 / Singing】リクエストルーレット歌枠！！【#新人vtuber 】"
     },
     {
@@ -165,17 +165,6 @@
         "title": "【ストリートファイター6】Vtuber最協決定戦 Ver.STREETFIGHTER 6 いんぱくと☆ふれんず 勝つぞ!!! #1NFWIN #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=52QhZIKuTBA",
-        "picture": "https://i.ytimg.com/vi/52QhZIKuTBA/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Minecraft 】ゲームセンターを作るぞ！【ホロライブ/夏色まつり】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "islive": true,
@@ -200,13 +189,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=IzcnndFe1F0",
         "picture": "https://i.ytimg.com/vi/IzcnndFe1F0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743238800,
-        "title": "【】【姫森ルーナ/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【 心霊物件 | ホラゲ 】格安アパートで始まる新生活。何も起きないはずがなく…なのら👻【姫森ルーナ/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743249600,
         "title": "【ポケモン】第２回 色違いミュウをGETできる『ふるびたかいず』を求めて中古カセットでガチャ！！ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "channellink": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=N_VESXA_oRs",
+        "picture": "https://i.ytimg.com/vi/N_VESXA_oRs/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【お宝マウンテン】自己最高得点を目指して！7か月ぶりにプレイするダッ💪✨【白銀ノエル/ホロライブ】"
     }
 ]
