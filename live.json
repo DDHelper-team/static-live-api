@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=Wyxl7tHr2aY",
         "picture": "https://i.ytimg.com/vi/Wyxl7tHr2aY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743217200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ドラゴンクエスト11S 】完全初見。海底に出発だ・・・！！！【鷹嶺ルイ/ホロライブ】※ネタバレあり"
     },
     {
