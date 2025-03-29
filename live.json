@@ -176,17 +176,6 @@
         "title": "【#5】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=gWociYqIfOo",
-        "picture": "https://i.ytimg.com/vi/gWociYqIfOo/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 STREET FIGHTER 6】#ひいろうずWIN 1日目応援よろしく！！！！！#V最協第一幕 【アキロゼ/ホロライブ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "islive": false,
@@ -365,12 +354,34 @@
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=jmWbRzlD9e4",
         "picture": "https://i.ytimg.com/vi/jmWbRzlD9e4/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743260400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 つか通 】深夜のラジオ部屋お披露目！wktk！【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "channellink": "https://www.youtube.com/@FUWAMOCOch",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Po7u4Gapaso",
+        "picture": "https://i.ytimg.com/vi/Po7u4Gapaso/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743345900,
+        "title": "【AWAY FOR DEMON DOG DUTIES】ruffian + fwmc support group freechat 🐾  【FUWAMOCO】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channellink": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=vuR8u0IuVv8",
+        "picture": "https://i.ytimg.com/vi/vuR8u0IuVv8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【League of Legends】セグカップ！！！！！最終練習！！！！ / アステル 夕陽リリ³ 鷹宮リオン³ 千燈ゆうひ³ 歌衣メイカ³"
     }
 ]
