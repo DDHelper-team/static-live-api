@@ -88,17 +88,6 @@
         "title": "【ストリートファイター６】#V最協第一幕　スクリム1日目【律可/叶/因幡はねる/ラプラス・ダークネス/ホロスターズ】"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "channellink": "https://www.youtube.com/@ShioriNovella",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=ZfYHI3Fy_1Q",
-        "picture": "https://i.ytimg.com/vi/ZfYHI3Fy_1Q/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743210000,
-        "title": "Totally Platonic Hangout with Beebs【VRChat - Epilogue Ch 2】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "channellink": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "islive": false,
@@ -134,12 +123,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "channellink": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6lnaeKXBKiE",
         "picture": "https://i.ytimg.com/vi/6lnaeKXBKiE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743213600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【クロノトリガー】完全初見★ドラクエとFFスタッフがタッグを組んだ神作、遂にやらせていただきます！！！ #2 【博衣こより/ホロライブ】【ネタバレあり】"
     },
     {
@@ -233,13 +222,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "channellink": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=MApEM6jmlec",
-        "picture": "https://i.ytimg.com/vi/MApEM6jmlec/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=G1u7cli_xkI",
+        "picture": "https://i.ytimg.com/vi/G1u7cli_xkI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743220800,
+        "title": "【#4】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -288,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=7vxLfdBqFac",
         "picture": "https://i.ytimg.com/vi/7vxLfdBqFac/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743213600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OH HI】Moom Q\u0026amp;A !! ~"
     },
     {
@@ -339,5 +328,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743249600,
         "title": "【＃１】金コイキングだけで進むキタカミの里：前編・碧の仮面【ポケットモンスターゴールドコイキング】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=wZaDIay7Rfw",
+        "picture": "https://i.ytimg.com/vi/wZaDIay7Rfw/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743249600,
+        "title": "【 TETRIS 99 】視聴者参加型で最強テトリスを行う。【 領国つかさ / すぺしゃりて 】"
     }
 ]
