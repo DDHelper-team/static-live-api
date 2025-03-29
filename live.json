@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GafTlyQrZHk",
         "picture": "https://i.ytimg.com/vi/GafTlyQrZHk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743228000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Tokyo Xtreme Racer | 首都高バトル】TOKYO HERE I COME! 【hololive ID 2nd Generation | Anya Melfissa】"
     },
     {
@@ -299,12 +299,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "channellink": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=r2-AyMqKvyU",
         "picture": "https://i.ytimg.com/vi/r2-AyMqKvyU/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743228000,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Terraria - ゆかそ】ゆるすぎる昼【 奏手イヅル / ホロスターズ 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=U7qm1L8Bu2I",
+        "picture": "https://i.ytimg.com/vi/U7qm1L8Bu2I/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743249600,
+        "title": "【 ポケモンルビー 】みこちと金コイ伝説４日目～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】"
     }
 ]
