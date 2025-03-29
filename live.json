@@ -253,17 +253,6 @@
         "title": "members zatsu -- life updates and story times"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "channellink": "https://www.youtube.com/@Leona_Shishigami",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=JSTJuvNXg8I",
-        "picture": "https://i.ytimg.com/vi/JSTJuvNXg8I/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】春はもうすぐそこ。【獅子神レオナ/Re:AcT】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "islive": false,
@@ -383,5 +372,16 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【League of Legends】セグカップ！！！！！最終練習！！！！ / アステル 夕陽リリ³ 鷹宮リオン³ 千燈ゆうひ³ 歌衣メイカ³"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=yYOUmPxt0kI",
+        "picture": "https://i.ytimg.com/vi/yYOUmPxt0kI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743307200,
+        "title": "【モンハンワイルズ】#​​​​​かなころ で共にストーリーして狩りに行くぞ！！！！ / MONSTER HUNTER WILDS【天音かなた/ホロライブ】"
     }
 ]
