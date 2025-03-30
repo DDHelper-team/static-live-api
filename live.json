@@ -123,13 +123,13 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "channellink": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GEckT_dXSC8",
         "picture": "https://i.ytimg.com/vi/GEckT_dXSC8/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743314400,
-        "title": "【Supadonoeading】CATCHING UP TO A BUNCH! Part 1?! #shorts【hololive ID | Anya Melfissa】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【Supadonoreading】CATCHING UP TO A BUNCH! Part 1?! #shorts【hololive ID | Anya Melfissa】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -174,17 +174,6 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "【#5】龍が如く７やるしゅばあああああああああああああああああああああああああああああああ！！！！！：yakuza7【※ネタバレあり】"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=ZUXeS1hT4cc",
-        "picture": "https://i.ytimg.com/vi/ZUXeS1hT4cc/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743314400,
-        "title": "【 隻狼 | SEKIRO 】２周目最終回かも！？別エンディングを目指して『SEKIRO: SHADOWS DIE TWICE』参るのらっ！⚔(・o・🍬) ＃２【姫森ルーナ/ホロライブ】ネタバレあり"
     },
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
@@ -310,23 +299,23 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=sQ-ZM-jllLo",
         "picture": "https://i.ytimg.com/vi/sQ-ZM-jllLo/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743314400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "channellink": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=4o3hZ6OTLiw",
         "picture": "https://i.ytimg.com/vi/4o3hZ6OTLiw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743314400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ポケットモンスター青】#06｜完全初見！ポケモン初代をプレイ！！～ふたごじま～【 雪花ラミィ /ホロライブ】"
     },
     {
@@ -343,12 +332,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=GvvJ2xOfxug",
         "picture": "https://i.ytimg.com/vi/GvvJ2xOfxug/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743314400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6】#ひいろうずWIN 2日目ラスト応援よろしく！！！！！#V最協第一幕 【アキロゼ/ホロライブ】"
     },
     {
@@ -361,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743336000,
         "title": "【 Five Nights at Freddy\u0026#39;s 】深夜のピザ屋を警備するバイト始めました。【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "channellink": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Dz9JqqDmPx8",
+        "picture": "https://i.ytimg.com/vi/Dz9JqqDmPx8/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743316200,
+        "title": "【】配信予定地【ホロライブ/ときのそら】"
     }
 ]
