@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=-ITmHaSMFAY",
         "picture": "https://i.ytimg.com/vi/-ITmHaSMFAY/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743292800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": ":D"
     },
     {
@@ -288,23 +288,23 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "channellink": "https://www.youtube.com/@Dokibird",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=lyOlXXumivk",
         "picture": "https://i.ytimg.com/vi/lyOlXXumivk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743292800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【SEAMAN】grow my child【Dokibird】"
     },
     {
         "channel": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
         "channellink": "https://www.youtube.com/channel/UC3n5uGu18FoCy23ggWWp8tA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_5EYVTNbKUA",
         "picture": "https://i.ytimg.com/vi/_5EYVTNbKUA/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743296400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【OVERWATCH 2】I\u0026#39;m The Graduation Girl, You Have To Watch Me Play This Game​"
     },
     {
@@ -339,5 +339,38 @@
         "status": "LIVE",
         "timestamp": null,
         "title": "Novelites Bloom So Beautifully【Ender Magnolia: Bloom in the Mist】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=0Y5mnK5jxfk",
+        "picture": "https://i.ytimg.com/vi/0Y5mnK5jxfk/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743346800,
+        "title": "【STELLAR BLADE】The Good End. (incoming \u0026quot;are we the baddies?\u0026quot;) #kfp #キアライブ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channellink": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=lez_LaD2kZI",
+        "picture": "https://i.ytimg.com/vi/lez_LaD2kZI/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743321600,
+        "title": "【Member Only】ろぼちゃの日曜むーびー❣🎬映画『スカイスクレイパー』 同時視聴🍿"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "channellink": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=Aa4q-d-JmrU",
+        "picture": "https://i.ytimg.com/vi/Aa4q-d-JmrU/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743339600,
+        "title": "【メン限💗ASMR】今月もおつかれさま👂️甘えんぼさんのためのASMR🛌💤囁き・マッサージ・耳ふー【尾丸ポルカ】"
     }
 ]
