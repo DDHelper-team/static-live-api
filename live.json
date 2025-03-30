@@ -123,11 +123,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
         "channellink": "https://www.youtube.com/channel/UCXTpFs_3PqI41qX2d9tL2Rw",
-        "islive": true,
+        "islive": false,
         "link": "https://www.youtube.com/watch?v=1Itzd3i2G6g",
         "picture": "https://i.ytimg.com/vi/1Itzd3i2G6g/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "timestamp": null,
         "title": "【凸待ち】告知あり！アポなし凸待ち！誰か来てくれるかなっ？【ホロライブ/紫咲シオン】"
     },
@@ -306,5 +306,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743343200,
         "title": "【FreeTalk】深夜雑談【荒咬オウガ /ホロスターズ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "channellink": "https://www.youtube.com/@NerissaRavencroft",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=DpVH46Vx6Hg",
+        "picture": "https://i.ytimg.com/vi/DpVH46Vx6Hg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743379200,
+        "title": "So, it\u0026#39;s like the sims? | inZOI"
     }
 ]
