@@ -145,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=0Y5mnK5jxfk",
         "picture": "https://i.ytimg.com/vi/0Y5mnK5jxfk/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743350400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STELLAR BLADE】The Good End. (incoming \u0026quot;are we the baddies?\u0026quot;) #kfp #キアライブ"
     },
     {
