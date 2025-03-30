@@ -156,12 +156,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "channellink": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=KvcGOEfvTAI",
         "picture": "https://i.ytimg.com/vi/KvcGOEfvTAI/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743312600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 高松宮記念 】 かつぞかつぞ！！！絶対かつぞおおおおおおおおおおおおお！！！【鷹嶺ルイ/ホロライブ】"
     },
     {
@@ -332,12 +332,23 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "channellink": "https://www.youtube.com/@VestiaZeta",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=wGImij1_NWs",
         "picture": "https://i.ytimg.com/vi/wGImij1_NWs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743312600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Blood Typers】 I\u0026#39;m a keyboard destroyer EZ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "channellink": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=GvvJ2xOfxug",
+        "picture": "https://i.ytimg.com/vi/GvvJ2xOfxug/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743314400,
+        "title": "【 STREET FIGHTER 6】#ひいろうずWIN 2日目ラスト応援よろしく！！！！！#V最協第一幕 【アキロゼ/ホロライブ】"
     }
 ]
