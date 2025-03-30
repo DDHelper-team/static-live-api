@@ -68,12 +68,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "channellink": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=bp3ErBLsTqc",
         "picture": "https://i.ytimg.com/vi/bp3ErBLsTqc/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743311700,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【スト６】愛のために闘う！！！！！🔥#V最協第一幕【ラプラス・ダークネス/ホロライブ】"
     },
     {
@@ -134,12 +134,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "channellink": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=04lqRFLgtLs",
         "picture": "https://i.ytimg.com/vi/04lqRFLgtLs/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743310800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】WINNERS、やれること、やる。　#1NFWIN　#V最協第一幕 【常闇トワ/ホロライブ】"
     },
     {
@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=iILWnzw0NTE",
         "picture": "https://i.ytimg.com/vi/iILWnzw0NTE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743310800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【ストリートファイター6】Vtuber最協決定戦 Ver.STREETFIGHTER 6 いんぱくと☆ふれんず 本戦IKZ！ #1NFWIN #V最協第一幕【アルランディス/ホロスターズ】"
     },
     {
@@ -315,7 +315,7 @@
         "picture": "https://i.ytimg.com/vi/sQ-ZM-jllLo/maxresdefault_live.jpg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "timestamp": 1743310800,
+        "timestamp": 1743314400,
         "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.0　※ネタバレあり※ 【ホロライブ/白上フブキ】"
     },
     {
