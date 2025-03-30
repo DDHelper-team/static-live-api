@@ -143,17 +143,6 @@
         "title": "【STELLAR BLADE】The Good End. (incoming \u0026quot;are we the baddies?\u0026quot;) #kfp #キアライブ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=Cyv-mQO7cI8",
-        "picture": "https://i.ytimg.com/vi/Cyv-mQO7cI8/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ポケモン】色違いのミュウ捕まえるぞ！！！！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "islive": false,
@@ -229,5 +218,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743440400,
         "title": "【STREAM SCHEDULE/スケジュール】11.25-12.01"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=TsO5pr6-70g",
+        "picture": "https://i.ytimg.com/vi/TsO5pr6-70g/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743372926,
+        "title": "【雑談】おはやう～⛅️【緋月ゆい/ネオポルテ】"
     }
 ]
