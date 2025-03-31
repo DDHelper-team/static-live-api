@@ -266,12 +266,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=1Hm_wDQBWys",
         "picture": "https://i.ytimg.com/vi/1Hm_wDQBWys/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743415200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft / ホロ鯖 】2週間ぶりのマイクラ⁉😸【 猫又おかゆ/ホロライブ 】"
     },
     {
@@ -310,13 +310,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "channellink": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=_d2kWI4Updg",
         "picture": "https://i.ytimg.com/vi/_d2kWI4Updg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743415200,
-        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】"
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【逆再生キング】逆再生で遊んでいた僕に隙はない！！！！【天音かなた/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
