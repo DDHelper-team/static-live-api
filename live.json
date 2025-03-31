@@ -156,13 +156,13 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "channellink": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=_3fYia7bNKo",
-        "picture": "https://i.ytimg.com/vi/_3fYia7bNKo/maxresdefault_live.jpg",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=--IQkyEKuuw",
+        "picture": "https://i.ytimg.com/vi/--IQkyEKuuw/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【スト6】#ししもんくん 作っていくぞい～！【獅白ぼたん/ホロライブ】"
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743505200,
+        "title": "【告知】第3回獅白杯、やります！ #獅白杯3rd 【獅白ぼたん/ホロライブ】"
     },
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
