@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "channellink": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=oS9Cf9jJq5Y",
         "picture": "https://i.ytimg.com/vi/oS9Cf9jJq5Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743394500,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "≪カラオケ・unarchived≫someone pick her up she may be lost"
     },
     {
