@@ -240,5 +240,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743394500,
         "title": "≪カラオケ・unarchived≫someone pick her up she may be lost"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channellink": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=lcb9XBv5j2o",
+        "picture": "https://i.ytimg.com/vi/lcb9XBv5j2o/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "【ストリートファイター6】ちょっとだけスト6やる【夕刻ロベル/ホロスターズ】"
     }
 ]
