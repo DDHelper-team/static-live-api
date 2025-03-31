@@ -211,12 +211,12 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "channellink": "https://www.youtube.com/@HealingCh",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=HdsdQJREp6Y",
         "picture": "https://i.ytimg.com/vi/HdsdQJREp6Y/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743418800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "水族館不會跳舞-恐怖解謎RPG｜迷失恐怖的水族館【Healing希靈/VTuber】"
     },
     {
@@ -245,12 +245,12 @@
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "islive": false,
-        "link": "https://www.youtube.com/watch?v=p2qI_Tw-2Bg",
-        "picture": "https://i.ytimg.com/vi/p2qI_Tw-2Bg/maxresdefault_live.jpg",
+        "link": "https://www.youtube.com/watch?v=rKMhl43RHo0",
+        "picture": "https://i.ytimg.com/vi/rKMhl43RHo0/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743418800,
-        "title": "【メン限】月末定期フブキングダム総会　ASMRなのか！？ひそひそ企画会議！！！！【 #フブキングダム総会】"
+        "status": null,
+        "timestamp": 1801321200,
+        "title": "ＦｒｅｅＴａｌｋ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -308,17 +308,6 @@
         "title": "【逆再生キング】逆再生で遊んでいた僕に隙はない！！！！【天音かなた/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "channellink": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=nvMKLOsJc0w",
-        "picture": "https://i.ytimg.com/vi/nvMKLOsJc0w/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【モンハンワイルズ】親知らずを抜いて3時間経過したモンハン【岸堂天真/ホロスターズ】"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "channellink": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "islive": false,
@@ -332,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "channellink": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=F9YA2dTYlzE",
         "picture": "https://i.ytimg.com/vi/F9YA2dTYlzE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743418800,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 ポケモンルビー 】みこちと金コイ伝説６日目～最弱からみんなで最強に育てる旅～【ホロライブ/さくらみこ】"
     },
     {
@@ -372,5 +361,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743422400,
         "title": "【ホロぐら視聴会】ぺこーら、ちゃんと上手くなってるよね？？？ぺこ！【ホロライブ/兎田ぺこら】"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=6nB5XR6HwjE",
+        "picture": "https://i.ytimg.com/vi/6nB5XR6HwjE/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743429611,
+        "title": "【DAVE THE DIVER】おすし屋さん経営します🍣【緋月ゆい/ネオポルテ】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "channellink": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=9U8kkvJwRms",
+        "picture": "https://i.ytimg.com/vi/9U8kkvJwRms/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743505200,
+        "title": "【 #ラムダック3D重大告知 】3Dでうそ発見器！わたしたち...ついにあじまります？！【角巻わため/ホロライブ４期生】"
     }
 ]
