@@ -121,17 +121,6 @@
         "title": "【OVERWATCH 2】I\u0026#39;m The Graduation Girl, You Have To Watch Me Play This Game​"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "channellink": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=0Y5mnK5jxfk",
-        "picture": "https://i.ytimg.com/vi/0Y5mnK5jxfk/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【STELLAR BLADE】The Good End. (incoming \u0026quot;are we the baddies?\u0026quot;) #kfp #キアライブ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "channellink": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "islive": false,
@@ -156,12 +145,12 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "channellink": "https://www.youtube.com/@NerissaRavencroft",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=DpVH46Vx6Hg",
         "picture": "https://i.ytimg.com/vi/DpVH46Vx6Hg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743379200,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "So, it\u0026#39;s like the sims? | inZOI"
     },
     {
@@ -198,17 +187,6 @@
         "title": "【STREAM SCHEDULE/スケジュール】11.25-12.01"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=TsO5pr6-70g",
-        "picture": "https://i.ytimg.com/vi/TsO5pr6-70g/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【雑談】おはやう～⛅️【緋月ゆい/ネオポルテ】"
-    },
-    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "channellink": "https://www.youtube.com/@KosekiBijou",
         "islive": true,
@@ -229,5 +207,27 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743426000,
         "title": "【スト6】#ししもんくん 作っていくぞい～！【獅白ぼたん/ホロライブ】"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ezg_3rVbmxQ",
+        "picture": "https://i.ytimg.com/vi/ezg_3rVbmxQ/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743422400,
+        "title": "【 Five Nights at Freddy\u0026#39;s 】深夜のピザ屋を警備するバイト始めました。#2【 領国つかさ / すぺしゃりて 】"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "channellink": "https://www.youtube.com/@ShioriNovella",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=ZfYHI3Fy_1Q",
+        "picture": "https://i.ytimg.com/vi/ZfYHI3Fy_1Q/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743469200,
+        "title": "Totally Platonic Hangout with Beebs【VRChat - Epilogue Ch 2】"
     }
 ]
