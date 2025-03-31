@@ -165,17 +165,6 @@
         "title": "【スト6】#ししもんくん 作っていくぞい～！【獅白ぼたん/ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "channellink": "https://www.youtube.com/@tsukasa_ryogoku",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=ezg_3rVbmxQ",
-        "picture": "https://i.ytimg.com/vi/ezg_3rVbmxQ/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【 Five Nights at Freddy\u0026#39;s 】深夜のピザ屋を警備するバイト始めました。#2【 領国つかさ / すぺしゃりて 】"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "channellink": "https://www.youtube.com/@ShioriNovella",
         "islive": false,
@@ -286,25 +275,14 @@
         "title": "【 #朝こよ 】エイプリルフールSp！？火曜日の朝は朝こよ～☀ #226 【博衣こより/hololive】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "channellink": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "islive": true,
-        "link": "https://www.youtube.com/watch?v=uTOIu5jUxdg",
-        "picture": "https://i.ytimg.com/vi/uTOIu5jUxdg/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "timestamp": null,
-        "title": "【ホロぐら視聴会】ぺこーら、ちゃんと上手くなってるよね？？？ぺこ！【ホロライブ/兎田ぺこら】"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "channellink": "https://www.youtube.com/@Hizuki_Yui_",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=6nB5XR6HwjE",
         "picture": "https://i.ytimg.com/vi/6nB5XR6HwjE/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743429611,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【DAVE THE DIVER】おすし屋さん経営します🍣【緋月ゆい/ネオポルテ】"
     },
     {
@@ -343,12 +321,12 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "channellink": "https://www.youtube.com/@OtonoseKanade",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=SmjRX54fB-A",
         "picture": "https://i.ytimg.com/vi/SmjRX54fB-A/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743429600,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 Minecraft 】ネザライトをほりほりしながらライブの話もしたり【音乃瀬奏】#hololiveDEV_IS #ReGLOSS"
     },
     {
@@ -372,5 +350,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743498000,
         "title": "【お披露目】新3Dついに公開⁉【ホロライブ/夏色まつり】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "channellink": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "islive": false,
+        "link": "https://www.youtube.com/watch?v=jB49KiOQLrc",
+        "picture": "https://i.ytimg.com/vi/jB49KiOQLrc/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "timestamp": 1743505200,
+        "title": "【AMIMIR】I WILL BE CATCHING SOME Zs【Kureiji Ollie】"
     }
 ]
