@@ -242,17 +242,6 @@
         "title": "【#ReGLOSS3Dライブ】見てくれてありがとう！！振り返りするよーー🌸 【一条莉々華/hololive DEV_IS #ReGLOSS #ホロライブ】"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "channellink": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "islive": false,
-        "link": "https://www.youtube.com/watch?v=rKMhl43RHo0",
-        "picture": "https://i.ytimg.com/vi/rKMhl43RHo0/maxresdefault_live.jpg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": 1801321200,
-        "title": "ＦｒｅｅＴａｌｋ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "channellink": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "islive": true,
@@ -383,5 +372,16 @@
         "status": "READY_TO_LIVE",
         "timestamp": 1743505200,
         "title": "【 #ラムダック3D重大告知 】3Dでうそ発見器！わたしたち...ついにあじまります？！【角巻わため/ホロライブ４期生】"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channellink": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "islive": true,
+        "link": "https://www.youtube.com/watch?v=99j8B9dTcsg",
+        "picture": "https://i.ytimg.com/vi/99j8B9dTcsg/maxresdefault_live.jpg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "timestamp": null,
+        "title": "💎"
     }
 ]
