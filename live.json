@@ -277,12 +277,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "channellink": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=h-2SsiZjmMg",
         "picture": "https://i.ytimg.com/vi/h-2SsiZjmMg/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743476400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【Ender Magnolia】Yay Pain | #2"
     },
     {
