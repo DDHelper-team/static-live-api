@@ -233,12 +233,12 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "channellink": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "islive": false,
+        "islive": true,
         "link": "https://www.youtube.com/watch?v=p5zbr89Pv0s",
         "picture": "https://i.ytimg.com/vi/p5zbr89Pv0s/maxresdefault_live.jpg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "timestamp": 1743584400,
+        "status": "LIVE",
+        "timestamp": null,
         "title": "【 BLEACH Rebirth of Souls 】あまり強い言葉を遣うなよ 弱く見えるぞ なのらあああああ！！！(・o・🍬)【姫森ルーナ/ホロライブ】"
     },
     {
