@@ -2,7 +2,7 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "thumbnail": "https://i.ytimg.com/vi/PmLvupsVxiY/maxresdefault_live.jpg",
         "timestamp": 1757772000,
         "title": "【 ウマ娘 プリティーダービー 】約4年ぶり…久々にウマ娘を育てマス。【鷹嶺ルイ/ホロライブ】",
@@ -173,9 +173,9 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qExwvwykzsU/maxresdefault_live.jpg",
-        "timestamp": 1757772000,
+        "timestamp": null,
         "title": "【Fond Memories After Talk】Answering your questions and breakdown !!!",
         "video_id": "qExwvwykzsU"
     },
@@ -272,9 +272,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pgRpMR_lpw8/maxresdefault_live.jpg",
-        "timestamp": 1757772000,
+        "timestamp": null,
         "title": "【雀魂】放銃したら罰ゲームりべんじ！？？？🀄DREAM MATCH 🀄雀魂下剋上リーグ【ホロライブ/アキロゼ】",
         "video_id": "pgRpMR_lpw8"
     },
