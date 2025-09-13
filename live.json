@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Nwo5fvkDa3E/maxresdefault_live.jpg",
-        "timestamp": 1757758200,
+        "timestamp": null,
         "title": "【 #2025鬼語迴響怪談接力】住到怪奇社區讓你脊背發涼你能撐到第幾個？【希靈 FT. 周默】#台灣VTUBER #中文v",
         "video_id": "Nwo5fvkDa3E"
     },
@@ -74,20 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DWuvly5vOpQ/maxresdefault_live.jpg",
-        "timestamp": 1757757600,
+        "timestamp": null,
         "title": "【5 YEAR ANNIVERSARY】Who\u0026#39;s Callin\u0026#39;? Celebrating 5 Years! With Merch Release ✨#Kiara5Years",
         "video_id": "DWuvly5vOpQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oHwCzeNME00/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#11【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
-        "video_id": "oHwCzeNME00"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
@@ -205,5 +196,23 @@
         "timestamp": 1757768400,
         "title": "【GeoGuessr】香川県MAPでうどん屋出たら即終了【ホロライブ / AZKi】",
         "video_id": "m3WGVnpTNog"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KILFPkZopo4/maxresdefault_live.jpg",
+        "timestamp": 1757768400,
+        "title": "【メンバー限定】イラスト描く【荒咬オウガ /ホロスターズ】",
+        "video_id": "KILFPkZopo4"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7vhGeZzK6fE/maxresdefault_live.jpg",
+        "timestamp": 1757768400,
+        "title": "【DOOM: The Dark Ages】DOOM doko?",
+        "video_id": "7vhGeZzK6fE"
     }
 ]
