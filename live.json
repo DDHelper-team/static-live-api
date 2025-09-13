@@ -144,12 +144,6 @@
         "video_id": "m3WGVnpTNog"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null
-    },
-    {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "platform": "youtube",
         "status": "LIVE",
@@ -170,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RKU3XSBCE3I/maxresdefault_live.jpg",
-        "timestamp": 1757770200,
+        "timestamp": null,
         "title": "#3【Ace Attorney Investigations】Case 3! A Bigger Mystery Awaits (SPOILERS!)【Pavolia Reine/holoID】",
         "video_id": "RKU3XSBCE3I"
     },
@@ -184,15 +178,6 @@
         "timestamp": 1757770200,
         "title": "【Fond Memories After Talk】Answering your questions and breakdown !!!",
         "video_id": "qExwvwykzsU"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yK9j-KQ7pJA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 R.E.P.O. 】協力型ホラゲでお友達と金稼ぎせよ！【 領国つかさ / すぺしゃりて 】",
-        "video_id": "yK9j-KQ7pJA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -247,5 +232,41 @@
         "timestamp": 1757854800,
         "title": "【 #高級クラブルーナ｜メンバー限定 】３ヶ月ぶりの晩酌！なのら！！！🥃(・o・🍬)【姫森ルーナ/ホロライブ】",
         "video_id": "-ogX0gTiffA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9FltsLFPwXw/maxresdefault_live.jpg",
+        "timestamp": 1757811600,
+        "title": "≪YAKUZA 5≫ LOCK IN ... First Playthrough!! #9 【SPOILER WARNING】",
+        "video_id": "9FltsLFPwXw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Cq-AUniEPSU/maxresdefault_live.jpg",
+        "timestamp": 1757822400,
+        "title": "#12【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
+        "video_id": "Cq-AUniEPSU"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/442lIw0uB7M/maxresdefault_live.jpg",
+        "timestamp": 1757808000,
+        "title": "【SLEEPING DOGS】Shaolin Soccer【Dokibird】",
+        "video_id": "442lIw0uB7M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lTooksmeogk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VERTICAL KARAOKE / 縦型歌枠】Guerilla Singing :D ゲリラ歌枠！",
+        "video_id": "lTooksmeogk"
     }
 ]
