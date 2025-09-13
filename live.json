@@ -180,15 +180,6 @@
         "video_id": "tueUz2VOIEo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bWTJohxM4wA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "i need vodka (umamusume: pretty derby)",
-        "video_id": "bWTJohxM4wA"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +196,14 @@
         "timestamp": null,
         "title": "#5【Hollow Knight: Silksong】待望の続編！シルクと歌に支配された古代のムシ王国【律可/ホロスターズ 】#りつすた",
         "video_id": "P3rsFRwZVQQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FLDNXQIoEpI/maxresdefault_live.jpg",
+        "timestamp": 1757764800,
+        "title": "【クロノトリガー】#07 完全初見！太陽石、ほこり高き騎士の魂、虹色に輝くもの…【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
+        "video_id": "FLDNXQIoEpI"
     }
 ]
