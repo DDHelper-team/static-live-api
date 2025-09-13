@@ -38,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/q5ViOKHmlHw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Cities: Skylines】かなタウンの渋滞問題を解決する！！！！【天音かなた/ホロライブ】",
-        "video_id": "q5ViOKHmlHw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iI42tEidAQg/maxresdefault_live.jpg",
+        "timestamp": 1757822400,
+        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
+        "video_id": "iI42tEidAQg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -205,5 +205,23 @@
         "timestamp": 1757840400,
         "title": "＃2【LOST JUDGMENT：裁かれざる記憶】初見でいくロストジャッジメント【轟はじめ/ReGLOSS】※ネタバレあり",
         "video_id": "HF6lGWSjwJ4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ryXxPyQBv-M/maxresdefault_live.jpg",
+        "timestamp": 1757761200,
+        "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
+        "video_id": "ryXxPyQBv-M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/m3WGVnpTNog/maxresdefault_live.jpg",
+        "timestamp": 1757768400,
+        "title": "【GeoGuessr】香川県MAPでうどん屋出たら即終了【ホロライブ / AZKi】",
+        "video_id": "m3WGVnpTNog"
     }
 ]
