@@ -90,15 +90,6 @@
         "video_id": "smrMuN26M0Q"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JurnWxpGut8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Drawing 】Let\u0026#39;s Learn the Basics of Digital Art, Canvas Sizes, Layers etc【 iofi / hololiveID 】",
-        "video_id": "JurnWxpGut8"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
         "status": "LIVE",
@@ -268,5 +259,23 @@
         "timestamp": null,
         "title": "【 ウマ娘 プリティーダービー 】約4年ぶり…久々にウマ娘を育てマス。【鷹嶺ルイ/ホロライブ】",
         "video_id": "PmLvupsVxiY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E9KOsKAf5qQ/maxresdefault_live.jpg",
+        "timestamp": 1757811600,
+        "title": "【朝活雑談】今週も生きててえらいッ✨おはまっするさんでーッッ🌞✨【白銀ノエル/ホロライブ】",
+        "video_id": "E9KOsKAf5qQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z1Y_CsRhsaQ/maxresdefault_live.jpg",
+        "timestamp": 1757811000,
+        "title": "【アーカイブなし】異世界転生したらドゲンジャーズだった件 10話ミラー配信【荒咬オウガ ホロスターズ】",
+        "video_id": "Z1Y_CsRhsaQ"
     }
 ]
