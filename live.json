@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/PmLvupsVxiY/maxresdefault_live.jpg",
-        "timestamp": 1757772000,
-        "title": "【 ウマ娘 プリティーダービー 】約4年ぶり…久々にウマ娘を育てマス。【鷹嶺ルイ/ホロライブ】",
-        "video_id": "PmLvupsVxiY"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -286,5 +277,14 @@
         "timestamp": 1757818800,
         "title": "【 とっとこハム太郎３らぶらぶ大冒険でちゅ♡ 】はむはー！！！ラブレターの行方は…？ ＃２【ホロライブ/ ロボ子さん】",
         "video_id": "IyEr2Naq2SA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PmLvupsVxiY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ウマ娘 プリティーダービー 】約4年ぶり…久々にウマ娘を育てマス。【鷹嶺ルイ/ホロライブ】",
+        "video_id": "PmLvupsVxiY"
     }
 ]
