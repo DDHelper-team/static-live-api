@@ -135,15 +135,6 @@
         "video_id": "gp6sEpUhGN0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OTBK1HFbPVE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPOILER WARNING | Little Nightmares II】Final Episode! Will We Escape? Or...【hololive ID | Anya】",
-        "video_id": "OTBK1HFbPVE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -173,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tueUz2VOIEo/maxresdefault_live.jpg",
-        "timestamp": 1757754000,
+        "timestamp": null,
         "title": "【龍が如く 極】#2 11/20 Side story【 iofi / hololiveID 】",
         "video_id": "tueUz2VOIEo"
     },
@@ -205,5 +196,14 @@
         "timestamp": 1757764800,
         "title": "【クロノトリガー】#07 完全初見！太陽石、ほこり高き騎士の魂、虹色に輝くもの…【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
         "video_id": "FLDNXQIoEpI"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HF6lGWSjwJ4/maxresdefault_live.jpg",
+        "timestamp": 1757840400,
+        "title": "＃2【LOST JUDGMENT：裁かれざる記憶】初見でいくロストジャッジメント【轟はじめ/ReGLOSS】※ネタバレあり",
+        "video_id": "HF6lGWSjwJ4"
     }
 ]
