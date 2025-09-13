@@ -135,12 +135,6 @@
         "video_id": "w4dgql_5Rzk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": null,
-        "timestamp": null
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -220,15 +214,6 @@
         "timestamp": 1768597200,
         "title": "【hololive 6th fes. \u0026amp; EXPO】応援してね!! I\u0026#39;LL DO MY BEST✨️ #HoloLiveFesEXPO25【Kureiji Ollie】",
         "video_id": "lGr_kZmjskI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/xbJ8tbA_Phw/maxresdefault_live.jpg",
-        "timestamp": 1720278000,
-        "title": "ねっ子控室-Free chat-",
-        "video_id": "xbJ8tbA_Phw"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
@@ -312,15 +297,6 @@
         "video_id": "Ga8mKSg1ffc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/-tMd6H-IxcA/maxresdefault_live.jpg",
-        "timestamp": 1680360900,
-        "title": "フリーチャット",
-        "video_id": "-tMd6H-IxcA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -355,5 +331,14 @@
         "timestamp": null,
         "title": "【スタバレマルチ】みんなで農場再建！w/ 日向まる, 小柳ロウ, アルランディス, 水無瀬, おなつのにびたし【 奏手イヅル / ホロスターズ 】",
         "video_id": "Gnrr4GbQ3o0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tueUz2VOIEo/maxresdefault_live.jpg",
+        "timestamp": 1757754000,
+        "title": "【龍が如く 極】#2 11/20 Side story【 iofi / hololiveID 】",
+        "video_id": "tueUz2VOIEo"
     }
 ]
