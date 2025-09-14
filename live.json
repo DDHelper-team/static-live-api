@@ -27,15 +27,6 @@
         "video_id": "IOEssMPygCI"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4g9JyWS9YAQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Anime Girls Panic Learning Chess 【Chess Lesson with Advent | #AdVSJus Chess】",
-        "video_id": "4g9JyWS9YAQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9FltsLFPwXw/maxresdefault_live.jpg",
-        "timestamp": 1757812500,
+        "timestamp": null,
         "title": "≪YAKUZA 5≫ LOCK IN ... First Playthrough!! #9 【SPOILER WARNING】",
         "video_id": "9FltsLFPwXw"
     },
@@ -144,24 +135,6 @@
         "video_id": "E9KOsKAf5qQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Z1Y_CsRhsaQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【アーカイブなし】異世界転生したらドゲンジャーズだった件 10話ミラー配信【荒咬オウガ ホロスターズ】",
-        "video_id": "Z1Y_CsRhsaQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/C1Y3nS5E9FA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ツイステ】第6章 part1「冥府の番人」初めてのディズニーツイステッドワンダーランド!!【花咲みやび/ホロスターズ】",
-        "video_id": "C1Y3nS5E9FA"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -196,5 +169,14 @@
         "timestamp": 1757822400,
         "title": "【スタバレマルチ】2日目 公民館を目指せ w/ 日向まる, 小柳ロウ, アルランディス, 水無瀬, おなつのにびたし【 奏手イヅル / ホロスターズ 】",
         "video_id": "h1GUwm6pzTY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/czvQNaevBo4/maxresdefault_live.jpg",
+        "timestamp": 1757836800,
+        "title": "【 HoloCure 】さらにハードモードをクリアしたい狼【 ホロライブ / 大神ミオ 】",
+        "video_id": "czvQNaevBo4"
     }
 ]
