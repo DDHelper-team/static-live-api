@@ -30,8 +30,8 @@
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1wKnH82FA8E/hqdefault_live.jpg",
-        "timestamp": 1757818800,
+        "thumbnail": "https://i.ytimg.com/vi/1wKnH82FA8E/maxresdefault_live.jpg",
+        "timestamp": 1757847600,
         "title": "【着せ恋アニメ映像付き！】アーカイブなし！「その着せ替え人形は恋をする」同時視聴会【ホロライブ/宝鐘マリン】",
         "video_id": "1wKnH82FA8E"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gp6sEpUhGN0/maxresdefault_live.jpg",
-        "timestamp": 1757818800,
+        "timestamp": null,
         "title": "【FF6】ついにファイナルファンタジー6を初見で始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "gp6sEpUhGN0"
     },
@@ -112,7 +112,7 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IyEr2Naq2SA/maxresdefault_live.jpg",
-        "timestamp": 1757818800,
+        "timestamp": 1757833200,
         "title": "【 とっとこハム太郎３らぶらぶ大冒険でちゅ♡ 】はむはー！！！ラブレターの行方は…？ ＃２【ホロライブ/ ロボ子さん】",
         "video_id": "IyEr2Naq2SA"
     },
@@ -124,15 +124,6 @@
         "timestamp": 1757827800,
         "title": "【 ローズステークス 】次なる最強クイーンが決まる⁉【鷹嶺ルイ/ホロライブ】",
         "video_id": "s5qx7nhiGUE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/E9KOsKAf5qQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活雑談】今週も生きててえらいッ✨おはまっするさんでーッッ🌞✨【白銀ノエル/ホロライブ】",
-        "video_id": "E9KOsKAf5qQ"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -178,5 +169,23 @@
         "timestamp": 1757836800,
         "title": "【 HoloCure 】さらにハードモードをクリアしたい狼【 ホロライブ / 大神ミオ 】",
         "video_id": "czvQNaevBo4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gwDA6kIJ86Q/maxresdefault_live.jpg",
+        "timestamp": 1757905200,
+        "title": "【 #ホロライブ甲子園2025 】こんこよ高校1年目秋大会２回戦！勝って中堅に行きたい・・・！！！【博衣こより/ホロライブ】",
+        "video_id": "gwDA6kIJ86Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VROleOqGNkE/maxresdefault_live.jpg",
+        "timestamp": 1757840400,
+        "title": "【Onigiri Shop Simulator】鬼のワンオペおにぎり屋さん🍙【ホロライブ/夏色まつり】",
+        "video_id": "VROleOqGNkE"
     }
 ]
