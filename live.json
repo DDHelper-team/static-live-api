@@ -137,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KW9vLauxiuc/maxresdefault_live.jpg",
-        "timestamp": 1757836800,
+        "timestamp": null,
         "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #03【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
         "video_id": "KW9vLauxiuc"
     },
@@ -155,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/czvQNaevBo4/maxresdefault_live.jpg",
-        "timestamp": 1757836800,
+        "timestamp": null,
         "title": "【 HoloCure 】さらにハードモードをクリアしたい狼【 ホロライブ / 大神ミオ 】",
         "video_id": "czvQNaevBo4"
     },
@@ -191,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dtSBiaEL2-A/maxresdefault_live.jpg",
-        "timestamp": 1757836800,
+        "timestamp": null,
         "title": "【龍が如く 極】#3 23/75 Side story【 iofi / hololiveID 】",
         "video_id": "dtSBiaEL2-A"
     },
@@ -232,5 +232,14 @@
         "timestamp": 1757854800,
         "title": "【８番出口】新異変、ゲスしてみせましょう【ホロライブ / AZKi】",
         "video_id": "qSlAZ5qTJkY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EbE9PaD7l9I/maxresdefault_live.jpg",
+        "timestamp": 1757851200,
+        "title": "【クロノトリガー】#08 完全初見！ついに最終回！？黒の夢の続きから！【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
+        "video_id": "EbE9PaD7l9I"
     }
 ]
