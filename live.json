@@ -72,15 +72,6 @@
         "video_id": "Cq-AUniEPSU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/IyEr2Naq2SA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 とっとこハム太郎３  ＃２ 】 遊園地でらぶらぶ大冒険でちゅ♡【ホロライブ/ ロボ子さん】",
-        "video_id": "IyEr2Naq2SA"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "LIVE",
@@ -223,5 +214,14 @@
         "timestamp": 1757854800,
         "title": "【雑談枠】ふわっと飲みながらのんびり見てくださいのやつ【律可/ホロスターズ 】#りつすた",
         "video_id": "1TBp47RIdTo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IvGXuPr-qtA/maxresdefault_live.jpg",
+        "timestamp": 1757926800,
+        "title": "【スト6】#あじゅフェス 敬老杯本番【夕刻ロベル/ホロスターズ】",
+        "video_id": "IvGXuPr-qtA"
     }
 ]
