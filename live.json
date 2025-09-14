@@ -9,15 +9,6 @@
         "video_id": "PltU3E91lzU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jiMFdDNH_LQ/maxresdefault_live.jpg",
-        "timestamp": 1757851200,
-        "title": "【MemberOnly】「」映画同時視聴 #かなたんロードショー 【天音かなた/ホロライブ】",
-        "video_id": "jiMFdDNH_LQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "platform": "youtube",
         "status": "LIVE",
@@ -61,15 +52,6 @@
         "timestamp": null,
         "title": "【雑談】2周年ライブどうだったー！？！！最近レッスン尽くしでゲーム発掘できてなかったから、色々教えて🎵【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "o0aEg03bbOc"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/I2fOZS5daP4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #Re_KMKL 】㊗７周年!!今年は3Dで歌っちゃうぞー！✨7th Anniversary✨【 獅子神レオナ/夢川かなう/Re:AcT】",
-        "video_id": "I2fOZS5daP4"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
@@ -137,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EbE9PaD7l9I/maxresdefault_live.jpg",
-        "timestamp": 1757851200,
+        "timestamp": null,
         "title": "【クロノトリガー】#08 完全初見！ついに最終回！？黒の夢の続きから！【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
         "video_id": "EbE9PaD7l9I"
     },
@@ -187,5 +169,32 @@
         "timestamp": 1757862000,
         "title": "【Party Animals】Zecretary Let\u0026#39;s fightooo!! いっしょにあそぼ〜！",
         "video_id": "JLF79IOubNQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JnncOMMe2Ks/maxresdefault_live.jpg",
+        "timestamp": 1757937600,
+        "title": "【】【ホロライブ/大空スバル】",
+        "video_id": "JnncOMMe2Ks"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u-LSJVxGzTw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 8番出口 】噂の8番出口に向かいます。何かあったら助けてください。【 領国つかさ / すぺしゃりて 】",
+        "video_id": "u-LSJVxGzTw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6OD3BCSYswI/maxresdefault_live.jpg",
+        "timestamp": 1757854800,
+        "title": "【雀魂】東南戦の戦い方ってなんだ？🀄DREAM MATCH 🀄雀魂下剋上リーグ【ホロライブ/アキロゼ】",
+        "video_id": "6OD3BCSYswI"
     }
 ]
