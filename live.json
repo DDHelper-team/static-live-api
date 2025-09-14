@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JLF79IOubNQ/maxresdefault_live.jpg",
-        "timestamp": 1757862000,
+        "timestamp": null,
         "title": "【Party Animals】Zecretary Let\u0026#39;s fightooo!! いっしょにあそぼ〜！",
         "video_id": "JLF79IOubNQ"
     },
@@ -169,5 +169,23 @@
         "timestamp": null,
         "title": "【PEAK】 深夜のchill登山。【白上フブキ/ホロライブ】",
         "video_id": "ntz32oXmvCw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WHcApxr5heQ/maxresdefault_live.jpg",
+        "timestamp": 1757905200,
+        "title": "【Prison Escape Simulator: Dig Out】Digging Out of Trouble",
+        "video_id": "WHcApxr5heQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ymGppl2_T8Y/maxresdefault_live.jpg",
+        "timestamp": 1757948400,
+        "title": "ASMR｜貼近心跳的呢喃❤️溫柔耳朵按摩陪你入睡｜heartbeat、Gentle ear massage to help you sleep｜心音、優しい耳マッサージ 【黑3DIO/KU100】",
+        "video_id": "ymGppl2_T8Y"
     }
 ]
