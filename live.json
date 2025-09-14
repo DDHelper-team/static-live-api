@@ -101,20 +101,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IyEr2Naq2SA/maxresdefault_live.jpg",
-        "timestamp": 1757833200,
-        "title": "【 とっとこハム太郎３らぶらぶ大冒険でちゅ♡ 】はむはー！！！ラブレターの行方は…？ ＃２【ホロライブ/ ロボ子さん】",
+        "timestamp": null,
+        "title": "【 とっとこハム太郎３  ＃２ 】 遊園地でらぶらぶ大冒険でちゅ♡【ホロライブ/ ロボ子さん】",
         "video_id": "IyEr2Naq2SA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s5qx7nhiGUE/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/p9hvMqwO-6c/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【 ローズステークス 】次なる最強クイーンが決まる⁉【鷹嶺ルイ/ホロライブ】",
-        "video_id": "s5qx7nhiGUE"
+        "title": "【 龍が如く0 】第7章～！！真島さんパートきちゃああああああああ：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+        "video_id": "p9hvMqwO-6c"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -223,5 +223,14 @@
         "timestamp": 1757903400,
         "title": "【TCG CARD SHOP SIMULATOR】新店２日目✨️ゴッドパックください！god packs only for these demon dogs 🐾【FUWAMOCO】",
         "video_id": "nYd_ijtM12M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qSlAZ5qTJkY/maxresdefault_live.jpg",
+        "timestamp": 1757854800,
+        "title": "【８番出口】新異変、ゲスしてみせましょう【ホロライブ / AZKi】",
+        "video_id": "qSlAZ5qTJkY"
     }
 ]
