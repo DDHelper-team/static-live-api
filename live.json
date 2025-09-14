@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iI42tEidAQg/maxresdefault_live.jpg",
-        "timestamp": 1757826000,
+        "timestamp": null,
         "title": "【Cities: Skylines】かな田空港爆誕！！！！【天音かなた/ホロライブ】",
         "video_id": "iI42tEidAQg"
     },
@@ -205,5 +205,14 @@
         "timestamp": 1757847600,
         "title": "【#ホロライブ甲子園2025】桜咲高校１年目‼⚾秋大会勝ち抜いていくぞ！！！！！！！！【ホロライブ/さくらみこ】",
         "video_id": "lC4N0sfR55o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uB2RPQSot04/maxresdefault_live.jpg",
+        "timestamp": 1757829600,
+        "title": "【Is This Seat Taken?】Aww, Look At You Guys Sitting Beside Each Other!【hololive ID | Anya Melfissa】",
+        "video_id": "uB2RPQSot04"
     }
 ]
