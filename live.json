@@ -11,20 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iI42tEidAQg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Cities: Skylines】かな田空港爆誕！！！！【天音かなた/ホロライブ】",
-        "video_id": "iI42tEidAQg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/IOEssMPygCI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#3】ナルティメットストーム３するしゅばあああああああああああああああああああああ！！！！！【※ネタバレあり】",
-        "video_id": "IOEssMPygCI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jiMFdDNH_LQ/maxresdefault_live.jpg",
+        "timestamp": 1757851200,
+        "title": "【MemberOnly】「」映画同時視聴 #かなたんロードショー 【天音かなた/ホロライブ】",
+        "video_id": "jiMFdDNH_LQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
@@ -56,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HF6lGWSjwJ4/maxresdefault_live.jpg",
-        "timestamp": 1757840400,
+        "timestamp": null,
         "title": "＃2【LOST JUDGMENT：裁かれざる記憶】初見でいくロストジャッジメント【轟はじめ/ReGLOSS】※ネタバレあり",
         "video_id": "HF6lGWSjwJ4"
     },
@@ -173,7 +164,7 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "thumbnail": "https://i.ytimg.com/vi/VROleOqGNkE/maxresdefault_live.jpg",
         "timestamp": 1757840400,
         "title": "【Onigiri Shop Simulator】鬼のワンオペおにぎり屋さん🍙【ホロライブ/夏色まつり】",
@@ -241,5 +232,14 @@
         "timestamp": 1757851200,
         "title": "【クロノトリガー】#08 完全初見！ついに最終回！？黒の夢の続きから！【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
         "video_id": "EbE9PaD7l9I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Jc09uIZQCUc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 Liar\u0026#39;s Bar 】心理戦でねねに勝てるやついりゅ？ｗ【 桃鈴ねね / hololive 】",
+        "video_id": "Jc09uIZQCUc"
     }
 ]
