@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/o0aEg03bbOc/maxresdefault_live.jpg",
-        "timestamp": 1757844000,
+        "timestamp": null,
         "title": "【雑談】2周年ライブどうだったー！？！！最近レッスン尽くしでゲーム発掘できてなかったから、色々教えて🎵【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "o0aEg03bbOc"
     },
@@ -146,10 +146,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BJwDHbYeBws/maxresdefault_live.jpg",
-        "timestamp": 1757844000,
-        "title": "配信予定【獅白ぼたん/ホロライブ】",
+        "timestamp": null,
+        "title": "【TCG Card Shop Simulator】ほう、1000万越えのカードですか【獅白ぼたん/ホロライブ】",
         "video_id": "BJwDHbYeBws"
     },
     {
@@ -214,5 +214,14 @@
         "timestamp": 1757854831,
         "title": "【おにぎり屋さんシミュレーター】おむすびころりん🍙【緋月ゆい/ネオポルテ】",
         "video_id": "x87JROEiaYk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1TBp47RIdTo/maxresdefault_live.jpg",
+        "timestamp": 1757854800,
+        "title": "【雑談枠】ふわっと飲みながらのんびり見てくださいのやつ【律可/ホロスターズ 】#りつすた",
+        "video_id": "1TBp47RIdTo"
     }
 ]
