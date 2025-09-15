@@ -81,15 +81,6 @@
         "video_id": "gwge1K8054c"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/E6uw_uBlPaU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【禁足地 - 青鬼の窟 -】決して踏み入れてはならない禁忌の場所ー。クリア目指す！？【ホロライブ/癒月ちょこ】",
-        "video_id": "E6uw_uBlPaU"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,14 @@
         "timestamp": 1757991600,
         "title": "【Fit Boxing feat. HATSUNE MIKU】BOXING in Studio Selfbooth 3D!!",
         "video_id": "BtRo31JES2U"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1757960130.3868213,
+        "title": "DEV STREAM - WAR"
     }
 ]
