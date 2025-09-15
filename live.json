@@ -110,20 +110,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NUcqPRn_1Xk/maxresdefault_live.jpg",
-        "timestamp": 1757947200,
+        "timestamp": null,
         "title": "『ダメだと分かっていて止められなかった💕』～ホロライブ深夜ラジオ～ アキちょこナイトパレット第5回 #アキちょこナイパレ",
         "video_id": "NUcqPRn_1Xk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QEEbrNWfjXQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VRChat】色々お披露目！3Dで動いちゃう？！ASMRにも挑戦だ～～～👀💡【白銀ノエル/ホロライブ】",
-        "video_id": "QEEbrNWfjXQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -180,15 +171,6 @@
         "video_id": "YoKewyudodI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/txmglPhW_zk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Dread Flats/凶寓】 見知らぬ婆さんと狼と狐と大絶叫。#フブミオ【白上フブキ/大神ミオ/ホロライブ】",
-        "video_id": "txmglPhW_zk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -232,5 +214,14 @@
         "timestamp": null,
         "title": "【ゴブリン・ノーム・ホーン】ゴブリンになってみた【尾丸ポルカ/ホロライブ】",
         "video_id": "ctocZZML_c8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vxA7wP5q0cQ/maxresdefault_live.jpg",
+        "timestamp": 1758009600,
+        "title": "【 Minecraft 】新ホロ鯖アプデ後！\u0026quot;んな電鉄\u0026quot; ガタンッゴトンッの旅なのら！！！＃１２【姫森ルーナ/ホロライブ】",
+        "video_id": "vxA7wP5q0cQ"
     }
 ]
