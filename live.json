@@ -81,15 +81,6 @@
         "video_id": "NFbLiV8JB4s"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ctocZZML_c8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ゴブリン・ノーム・ホーン】ゴブリンになってみた【尾丸ポルカ/ホロライブ】",
-        "video_id": "ctocZZML_c8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,32 @@
         "timestamp": null,
         "title": "【禁足地 - 青鬼の窟 -】決して踏み入れてはならない禁忌の場所ー。クリア目指す！？【ホロライブ/癒月ちょこ】",
         "video_id": "E6uw_uBlPaU"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lMUAek9U6jM/maxresdefault_live.jpg",
+        "timestamp": 1758031200,
+        "title": "【定期雑談】祝日明けって仕事いや～～ってなるよねえ…話そ～～！✨#7【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "lMUAek9U6jM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lMUAek9U6jM/maxresdefault_live.jpg",
+        "timestamp": 1758031200,
+        "title": "【定期雑談】祝日明けって仕事いや～～ってなるよねえ…話そ～～！✨#7【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "lMUAek9U6jM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BtRo31JES2U/maxresdefault_live.jpg",
+        "timestamp": 1757991600,
+        "title": "【Fit Boxing feat. HATSUNE MIKU】BOXING in Studio Selfbooth 3D!!",
+        "video_id": "BtRo31JES2U"
     }
 ]
