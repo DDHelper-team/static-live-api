@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YoKewyudodI/maxresdefault_live.jpg",
-        "timestamp": 1757977200,
+        "timestamp": null,
         "title": "【Inacademy: Drawing】Part 1!! A Few Feedback + Finishing Art For a Cover!",
         "video_id": "YoKewyudodI"
     },
@@ -99,11 +99,12 @@
         "video_id": "BtRo31JES2U"
     },
     {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1757976608.3052106,
+        "timestamp": 1757977925.9691026,
         "title": "DEV STREAM - WAR"
     },
     {
