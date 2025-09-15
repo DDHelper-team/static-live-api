@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yflhaVXyDr4/maxresdefault_live.jpg",
-        "timestamp": 1757916000,
+        "timestamp": null,
         "title": "【 エースコンバット5｜PS2版 】クリア耐久！初めての『 ACE COMBAT 5 』に挑戦してみるのら！！！ THE UNSUNG WAR ＃４ 最終回【姫森ルーナ/ホロライブ】",
         "video_id": "yflhaVXyDr4"
     },
@@ -171,15 +171,6 @@
         "video_id": "_ByC1NlFHN8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UhOcS5qmreU/maxresdefault_live.jpg",
-        "timestamp": 1757916000,
-        "title": "Sea Of Thieves with AREA15 IKZZZZZ !!!!!",
-        "video_id": "UhOcS5qmreU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
         "status": "LIVE",
@@ -196,15 +187,6 @@
         "timestamp": 1757941200,
         "title": "【VRChat】色々お披露目！3Dで動いちゃう？！ASMRにも挑戦だ～～～👀💡【白銀ノエル/ホロライブ】",
         "video_id": "QEEbrNWfjXQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/K8oKdwas3Lg/maxresdefault_live.jpg",
-        "timestamp": 1757916000,
-        "title": "【Sea of Thieves】Time to sail again!!【Moona | holoID】",
-        "video_id": "K8oKdwas3Lg"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
@@ -234,15 +216,6 @@
         "video_id": "aoz2aQM2mcw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DXppwowHp-A/maxresdefault_live.jpg",
-        "timestamp": 1757916000,
-        "title": "【Sea of Thieves】AHOY EVERYONE!【 iofi / hololiveID 】",
-        "video_id": "DXppwowHp-A"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -259,5 +232,14 @@
         "timestamp": 1757937600,
         "title": "【雑談配信 / talk】JST20時の告知見てくれたかーーー！？【#新人vtuber 】",
         "video_id": "8T8PxxBfTP8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ThnGk-9qC0U/maxresdefault_live.jpg",
+        "timestamp": 1757937600,
+        "title": "【R.E.P.O.】予言しよう。僕は必ず、何かを壊す。【天音かなた/ホロライブ】",
+        "video_id": "ThnGk-9qC0U"
     }
 ]
