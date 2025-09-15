@@ -47,11 +47,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JnncOMMe2Ks/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#生スバル】７周年前夜祭？！旧マネ新マネの大空スバル引継ぎ計画書！📗✏【ホロライブ/大空スバル】",
-        "video_id": "JnncOMMe2Ks"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AAkHUuow3Wk/maxresdefault_live.jpg",
+        "timestamp": 1758024000,
+        "title": "【】新衣装大発表会【ホロライブ/大空スバル】",
+        "video_id": "AAkHUuow3Wk"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -189,15 +189,6 @@
         "video_id": "qQ7b7KcNkq4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oODzpWHIha0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #hololiveMeet 】hololive Meet at Taipei 魔フィア感想会【荒咬オウガ 影山シエン/ホロスターズ】",
-        "video_id": "oODzpWHIha0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
         "status": "LIVE",
@@ -227,18 +218,18 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QWIlfgnc9g8/maxresdefault_live.jpg",
-        "timestamp": 1757943057,
+        "timestamp": null,
         "title": "【ゼルダの伝説 ティアーズ オブ ザ キングダム】#14 | 完全初見！最後の賢者を探しに⚔【緋月ゆい/ネオポルテ】",
         "video_id": "QWIlfgnc9g8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QWIlfgnc9g8/maxresdefault_live.jpg",
-        "timestamp": 1757943057,
+        "timestamp": null,
         "title": "【ゼルダの伝説 ティアーズ オブ ザ キングダム】#14 | 完全初見！最後の賢者を探しに⚔【緋月ゆい/ネオポルテ】",
         "video_id": "QWIlfgnc9g8"
     },
