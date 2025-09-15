@@ -101,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DTHNgKCp_XY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 セントライト記念 】絶対あてる！！！！！！！！！！！！！【鷹嶺ルイ/ホロライブ】",
-        "video_id": "DTHNgKCp_XY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2rcPQJ-X9Is/maxresdefault_live.jpg",
+        "timestamp": 1757944800,
+        "title": "【 ウマ娘 プリティーダービー 】オルフェーヴルを3冠ウマ娘に…‼ガチャもひく✨【鷹嶺ルイ/ホロライブ】",
+        "video_id": "2rcPQJ-X9Is"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
@@ -268,5 +268,50 @@
         "timestamp": null,
         "title": "【Sea of Thieves】AHOY EVERYONE!【 iofi / hololiveID 】",
         "video_id": "DXppwowHp-A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qQ7b7KcNkq4/maxresdefault_live.jpg",
+        "timestamp": 1757941200,
+        "title": "【Hollow Knight: Silksong】coba dulu... kalo cupu .............",
+        "video_id": "qQ7b7KcNkq4"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qQ7b7KcNkq4/maxresdefault_live.jpg",
+        "timestamp": 1757941200,
+        "title": "【Hollow Knight: Silksong】coba dulu... kalo cupu .............",
+        "video_id": "qQ7b7KcNkq4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oODzpWHIha0/maxresdefault_live.jpg",
+        "timestamp": 1757937600,
+        "title": "【 #hololiveMeet 】hololive Meet at Taipei 魔フィア感想会【荒咬オウガ 影山シエン/ホロスターズ】",
+        "video_id": "oODzpWHIha0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IHPK53jdLkQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【世界樹の迷宮】古き名作ダンジョンRPG、やらせていただきます。Part1【岸堂天真/ホロスターズ】",
+        "video_id": "IHPK53jdLkQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2sfVp-ZCEQk/maxresdefault_live.jpg",
+        "timestamp": 1757930400,
+        "title": "【Onigiri Shop Simulator】今日の営業が最後になります🍙【ホロライブ/夏色まつり】",
+        "video_id": "2sfVp-ZCEQk"
     }
 ]
