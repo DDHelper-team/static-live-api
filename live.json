@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0JQRdPegyd4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #朝こよ 】㊗250回！ホロメンからのお祝いも🎉火曜日の朝は朝こよ～～～！☀ #250 【博衣こより/hololive】",
-        "video_id": "0JQRdPegyd4"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5BoNSBqGjLc/maxresdefault_live.jpg",
+        "timestamp": 1758016800,
+        "title": "【Fantasy map simulator】ホロライブ戦わせてみるテスト【博衣こより/ホロライブ】",
+        "video_id": "5BoNSBqGjLc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -104,7 +104,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1757977925.9691026,
+        "timestamp": 1757978584.9706154,
         "title": "DEV STREAM - WAR"
     },
     {
@@ -124,5 +124,23 @@
         "timestamp": 1757984400,
         "title": "【Hollow Knight: Silksong】WITH THE POWER OF SOUP WE\u0026#39;LL GET TO ACT 3!!",
         "video_id": "ztEdwzbkPRU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/adMdzX25cPE/maxresdefault_live.jpg",
+        "timestamp": 1757984400,
+        "title": "【Hollow Knight: Silksong】 WE\u0026#39;RE SO BACK | #1",
+        "video_id": "adMdzX25cPE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JmKWSN9VZU4/maxresdefault_live.jpg",
+        "timestamp": 1758013200,
+        "title": "【雀魂】2週目！ぜったい勝つぞ～～！！！！🀄DREAM MATCH 🀄雀魂下剋上リーグ【ホロライブ/アキロゼ】",
+        "video_id": "JmKWSN9VZU4"
     }
 ]
