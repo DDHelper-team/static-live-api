@@ -11,10 +11,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AAkHUuow3Wk/maxresdefault_live.jpg",
-        "timestamp": 1758024000,
-        "title": "【】新衣装大発表会【ホロライブ/大空スバル】",
+        "timestamp": null,
+        "title": "【 #大空スバル７周年 】新衣装大発表会＆重大告知大発表会しゅば～～！！！！！：NEW OUTFIT💛【ホロライブ/大空スバル】",
         "video_id": "AAkHUuow3Wk"
     },
     {
@@ -216,15 +216,6 @@
         "video_id": "Se4paq4IPSQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7HBJZ-fHviU/maxresdefault_live.jpg",
-        "timestamp": 1758024000,
-        "title": "【メンバー限定/Memberonly】まったり【常闇トワ/ホロライブ】",
-        "video_id": "7HBJZ-fHviU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -259,5 +250,14 @@
         "timestamp": 1758031200,
         "title": "【Blood Lily Ghoststories】Occult Club Girls \u0026amp; A Needy Female Ghost【Pavolia Reine/hololiveID 2ndgen】",
         "video_id": "DKVvbVvmDPM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Rn7Hm8DHR3A/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雀魂】 DREAM MATCH 雀魂下剋上リーグ２週目　リラックスして打ち込むぞ！　w/ V.I.P/西村歩乃果/多井隆晴/アキロゼ　【ホロライブ/ ロボ子さん】",
+        "video_id": "Rn7Hm8DHR3A"
     }
 ]
