@@ -171,15 +171,6 @@
         "video_id": "MZPOyiVGjYM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2kr-Grbb0I8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ストリートファイター6】#サガット祭り チーム練習【荒咬オウガ /ホロスターズ】",
-        "video_id": "2kr-Grbb0I8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
         "status": "LIVE",
@@ -268,5 +259,23 @@
         "timestamp": null,
         "title": "【 UNDERTALE 】完全初見！アンダーテイルって何？？？【 桃鈴ねね / hololive 】",
         "video_id": "0gTK7DkfqzY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lO-Nty8hmd4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#ういちょこ】たこ焼き名人降臨🐙たこ焼きオフコラボっ！【ホロライブ/癒月ちょこ/しぐれうい】",
+        "video_id": "lO-Nty8hmd4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Se4paq4IPSQ/maxresdefault_live.jpg",
+        "timestamp": 1758027600,
+        "title": "【 はいしんよてち！】ソウルキャリバーよてい！！！！！！！⚔【ホロライブ/さくらみこ】",
+        "video_id": "Se4paq4IPSQ"
     }
 ]
