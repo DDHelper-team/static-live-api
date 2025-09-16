@@ -164,18 +164,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-s74Tm-ornI/maxresdefault_live.jpg",
-        "timestamp": 1758006000,
+        "timestamp": null,
         "title": "【BURGER Shot】yeeting burgers instead of flipping it cos why not🍔",
         "video_id": "-s74Tm-ornI"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-s74Tm-ornI/maxresdefault_live.jpg",
-        "timestamp": 1758006000,
+        "timestamp": null,
         "title": "【BURGER Shot】yeeting burgers instead of flipping it cos why not🍔",
         "video_id": "-s74Tm-ornI"
     },
@@ -191,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ynleh1D91q8/maxresdefault_live.jpg",
-        "timestamp": 1758006000,
+        "timestamp": null,
         "title": "【TCG Card Shop Simulator】目指せ1000万！カドショ経営でどえらい高額カード出したい！！【白銀ノエル/ホロライブ】",
         "video_id": "ynleh1D91q8"
     },
@@ -218,10 +218,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2kr-Grbb0I8/maxresdefault_live.jpg",
-        "timestamp": 1758006000,
+        "timestamp": null,
         "title": "【ストリートファイター6】#サガット祭り チーム練習【荒咬オウガ /ホロスターズ】",
         "video_id": "2kr-Grbb0I8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZZirXWnNIMo/maxresdefault_live.jpg",
+        "timestamp": 1758007800,
+        "title": "#6【Hollow Knight: Silksong】呪いENDに挑戦【律可/ホロスターズ 】#りつすた",
+        "video_id": "ZZirXWnNIMo"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kkSGmJJjuxY/maxresdefault_live.jpg",
+        "timestamp": 1758067200,
+        "title": "【SILKSONG】pay to sit【Dokibird】",
+        "video_id": "kkSGmJJjuxY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kkSGmJJjuxY/maxresdefault_live.jpg",
+        "timestamp": 1758067200,
+        "title": "【SILKSONG】pay to sit【Dokibird】",
+        "video_id": "kkSGmJJjuxY"
     }
 ]
