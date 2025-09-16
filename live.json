@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5BoNSBqGjLc/maxresdefault_live.jpg",
-        "timestamp": 1758016800,
+        "timestamp": null,
         "title": "【Fantasy map simulator】ホロライブ戦わせてみるテスト【博衣こより/ホロライブ】",
         "video_id": "5BoNSBqGjLc"
     },
@@ -20,10 +20,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Bfc9zbJcq5o/maxresdefault_live.jpg",
-        "timestamp": 1758016800,
-        "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
+        "timestamp": null,
+        "title": "【PowerWash Simulator】きったなっ！！大丈夫？綺麗にしてくね？【天音かなた/ホロライブ】",
         "video_id": "Bfc9zbJcq5o"
     },
     {
@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gwge1K8054c/maxresdefault_live.jpg",
-        "timestamp": 1758016800,
+        "timestamp": null,
         "title": "【#ロベルないとめあ】久しぶりに喋る我々【夕刻ロベル/神楽めあ】",
         "video_id": "gwge1K8054c"
     },
@@ -137,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IOlxSBxpRxQ/maxresdefault_live.jpg",
-        "timestamp": 1758016800,
+        "timestamp": null,
         "title": "【DEATH NOTE Killer Within】この日のために死神の目5個交換してきました【アルランディス/ホロスターズ】",
         "video_id": "IOlxSBxpRxQ"
     },
@@ -209,10 +209,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC5CwaMl1eIgY8h02uZw7u8A",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qlb-40wX0mM/maxresdefault_live.jpg",
-        "timestamp": 1758016800,
-        "title": "【TCG Card Shop Simulator 】【ホロライブ / 星街すいせい】",
+        "timestamp": null,
+        "title": "【TCG Card Shop Simulator 】開　業　し　ま　す【ホロライブ / 星街すいせい】",
         "video_id": "qlb-40wX0mM"
     },
     {
@@ -232,15 +232,6 @@
         "timestamp": 1758070800,
         "title": "【DONKEY KONG COUNTRY 2】finally getting to the end of the banana barrel 🍌【FUWAMOCO｜スーパードンキーコング2】",
         "video_id": "Orwr6bkBlBE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0gTK7DkfqzY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 UNDERTALE 】完全初見！アンダーテイルって何？？？【 桃鈴ねね / hololive 】",
-        "video_id": "0gTK7DkfqzY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -263,10 +254,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/isVqsF9hrQU/maxresdefault_live.jpg",
-        "timestamp": 1758016800,
+        "timestamp": null,
         "title": "【 雀魂】 DREAM MATCH 雀魂下剋上リーグ２週目　リラックスして打ち込むぞ！　w/ V.I.P/西村歩乃果/多井隆晴/アキロゼ　【ホロライブ/ ロボ子さん】",
         "video_id": "isVqsF9hrQU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0gTK7DkfqzY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 UNDERTALE 】完全初見！アンダーテイルって何？？？【 桃鈴ねね / hololive 】",
+        "video_id": "0gTK7DkfqzY"
     }
 ]
