@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BtRo31JES2U/maxresdefault_live.jpg",
-        "timestamp": 1757991600,
+        "timestamp": null,
         "title": "【Fit Boxing feat. HATSUNE MIKU】BOXING in Studio Selfbooth 3D!!",
         "video_id": "BtRo31JES2U"
     },
@@ -151,5 +151,14 @@
         "timestamp": 1758067200,
         "title": "【VRCHAT】Thank You!! Anniversary After Party and Reading Your Messages!! #calliolive",
         "video_id": "LypevHw4vRc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VhvkEhGEjXw/maxresdefault_live.jpg",
+        "timestamp": 1758020400,
+        "title": "【 #ホロライブ甲子園2025】2年目春！！新入生入学！！！ここで一発逆転しないとまずい！！！【ホロライブ/宝鐘マリン】",
+        "video_id": "VhvkEhGEjXw"
     }
 ]
