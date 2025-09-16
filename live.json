@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VhvkEhGEjXw/maxresdefault_live.jpg",
-        "timestamp": 1758020400,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025】2年目春！！新入生入学！！！ここで一発逆転しないとまずい！！！【ホロライブ/宝鐘マリン】",
         "video_id": "VhvkEhGEjXw"
     },
@@ -126,15 +126,6 @@
         "video_id": "IOlxSBxpRxQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ynleh1D91q8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【TCG Card Shop Simulator】目指せ1000万！カドショ経営でどえらい高額カード出したい！！【白銀ノエル/ホロライブ】",
-        "video_id": "ynleh1D91q8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -146,10 +137,10 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MZPOyiVGjYM/maxresdefault_live.jpg",
-        "timestamp": 1758020400,
-        "title": "【】はいしんうおていち【】",
+        "timestamp": null,
+        "title": "【Manny\u0026#39;s/マニーズ】無人島にファーストフード店が現れるらしい【戌神ころね】",
         "video_id": "MZPOyiVGjYM"
     },
     {
@@ -218,10 +209,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/smn0sjvDMXE/maxresdefault_live.jpg",
-        "timestamp": 1758020400,
-        "title": "【クリア耐久】　星のカービィ64　条件付きで巻き戻しながら00%目指す！　【ホロライブ/白上フブキ】",
+        "timestamp": null,
+        "title": "【クリア耐久】　星のカービィ64　条件付きで巻き戻しながら100%目指す！　【ホロライブ/白上フブキ】",
         "video_id": "smn0sjvDMXE"
     },
     {
@@ -259,5 +250,32 @@
         "timestamp": 1758027600,
         "title": "【 はいしんよてち！】ソウルキャリバーよてい！！！！！！！⚔【ホロライブ/さくらみこ】",
         "video_id": "Se4paq4IPSQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7HBJZ-fHviU/maxresdefault_live.jpg",
+        "timestamp": 1758024000,
+        "title": "【メンバー限定/Memberonly】まったり【常闇トワ/ホロライブ】",
+        "video_id": "7HBJZ-fHviU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GMNtKLvYpQI/maxresdefault_live.jpg",
+        "timestamp": 1758106800,
+        "title": "雜談｜聊聊靈媒蘇菲亞的一段經歷，原來鬼和人一樣太老實也會遭殃【Healing希靈/VTuber】",
+        "video_id": "GMNtKLvYpQI"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GMNtKLvYpQI/maxresdefault_live.jpg",
+        "timestamp": 1758106800,
+        "title": "雜談｜聊聊靈媒蘇菲亞的一段經歷，原來鬼和人一樣太老實也會遭殃【Healing希靈/VTuber】",
+        "video_id": "GMNtKLvYpQI"
     }
 ]
