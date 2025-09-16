@@ -36,15 +36,6 @@
         "video_id": "vxA7wP5q0cQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gwge1K8054c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ロベルないとめあ】久しぶりに喋る我々【夕刻ロベル/神楽めあ】",
-        "video_id": "gwge1K8054c"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -286,5 +277,14 @@
         "timestamp": 1758027600,
         "title": "【No, I\u0026#39;m not a Human】人間か、それ以外か。  / アステル",
         "video_id": "54clf6qeqRc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DKVvbVvmDPM/maxresdefault_live.jpg",
+        "timestamp": 1758031200,
+        "title": "【Blood Lily Ghoststories】Occult Club Girls \u0026amp; A Needy Female Ghost【Pavolia Reine/hololiveID 2ndgen】",
+        "video_id": "DKVvbVvmDPM"
     }
 ]
