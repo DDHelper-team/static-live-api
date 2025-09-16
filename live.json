@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AAkHUuow3Wk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #大空スバル７周年 】新衣装大発表会＆重大告知大発表会しゅば～～！！！！！：NEW OUTFIT💛【ホロライブ/大空スバル】",
-        "video_id": "AAkHUuow3Wk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
         "status": "LIVE",
@@ -110,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/q82ttsyxahU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#7【Hollow Knight: Silksong】真ENDに挑戦【律可/ホロスターズ 】#りつすた",
-        "video_id": "q82ttsyxahU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TjCfDsevGAM/maxresdefault_live.jpg",
+        "timestamp": 1758031200,
+        "title": "【Mage Arena】自分の声で戦う新感覚魔法バトル開幕【律可/ホロスターズ 】#りつすた",
+        "video_id": "TjCfDsevGAM"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -180,15 +171,6 @@
         "video_id": "smn0sjvDMXE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0gTK7DkfqzY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 UNDERTALE 】完全初見！アンダーテイルって何？？？【 桃鈴ねね / hololive 】",
-        "video_id": "0gTK7DkfqzY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
         "status": "LIVE",
@@ -220,7 +202,7 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/54clf6qeqRc/maxresdefault_live.jpg",
-        "timestamp": 1758027600,
+        "timestamp": 1758031200,
         "title": "【No, I\u0026#39;m not a Human】人間か、それ以外か。  / アステル",
         "video_id": "54clf6qeqRc"
     },
@@ -277,5 +259,32 @@
         "timestamp": 1758114000,
         "title": "【雜談】輕鬆聊天 歡迎初見的觀眾 一起加入我們吧",
         "video_id": "VD4b6OolxRA"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/frB90RDhkqE/maxresdefault_live.jpg",
+        "timestamp": 1758031236,
+        "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#1 | 右も左もわからない牧場ライフ🐮【緋月ゆい/ネオポルテ】",
+        "video_id": "frB90RDhkqE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/frB90RDhkqE/maxresdefault_live.jpg",
+        "timestamp": 1758031236,
+        "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#1 | 右も左もわからない牧場ライフ🐮【緋月ゆい/ネオポルテ】",
+        "video_id": "frB90RDhkqE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/K6YFqZXwPJY/maxresdefault_live.jpg",
+        "timestamp": 1758031200,
+        "title": "【Mage Arena】バトルの鍵は「発音」!!唱えて魔法バトル!!【花咲みやび/ホロスターズ】",
+        "video_id": "K6YFqZXwPJY"
     }
 ]
