@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5BoNSBqGjLc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Fantasy map simulator】ホロライブ戦わせてみるテスト【博衣こより/ホロライブ】",
-        "video_id": "5BoNSBqGjLc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "LIVE",
@@ -43,15 +34,6 @@
         "timestamp": 1758031200,
         "title": "【定期雑談】祝日明けって仕事いや～～ってなるよねえ…話そ～～！✨#7【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "lMUAek9U6jM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JmKWSN9VZU4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雀魂】2週目！ぜったい勝つぞ～～！！！！🀄DREAM MATCH 🀄雀魂下剋上リーグ【ホロライブ/アキロゼ】",
-        "video_id": "JmKWSN9VZU4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -110,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QjkiX3rdZKY/maxresdefault_live.jpg",
-        "timestamp": 1758027600,
+        "timestamp": null,
         "title": "【晩酌】一週間企画2日目！のどかさんと酔っ払っぴ本音トーク！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "QjkiX3rdZKY"
     },
@@ -182,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VxbO61fuLYE/maxresdefault_live.jpg",
-        "timestamp": 1758027600,
+        "timestamp": null,
         "title": "WATCHALONG FD3 with @AiraniIofifteen @JurardTRexford @Octavio_en",
         "video_id": "VxbO61fuLYE"
     },
@@ -209,10 +191,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Se4paq4IPSQ/maxresdefault_live.jpg",
-        "timestamp": 1758027600,
-        "title": "【 はいしんよてち！】ソウルキャリバーよてい！！！！！！！⚔【ホロライブ/さくらみこ】",
+        "timestamp": null,
+        "title": "【 ソウルキャリバーⅥ】さぁ、カオスなコスプレ大会はじまりにぇ！！！！⚔【ホロライブ/さくらみこ】",
         "video_id": "Se4paq4IPSQ"
     },
     {
@@ -252,12 +234,48 @@
         "video_id": "DKVvbVvmDPM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Rn7Hm8DHR3A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雀魂】 DREAM MATCH 雀魂下剋上リーグ２週目　リラックスして打ち込むぞ！　w/ V.I.P/西村歩乃果/多井隆晴/アキロゼ　【ホロライブ/ ロボ子さん】",
-        "video_id": "Rn7Hm8DHR3A"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ktSyBTQzeHA/maxresdefault_live.jpg",
+        "timestamp": 1758031200,
+        "title": "【 はいしにょてい 】一瞬で終わらす【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "ktSyBTQzeHA"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ktSyBTQzeHA/maxresdefault_live.jpg",
+        "timestamp": 1758031200,
+        "title": "【 はいしにょてい 】一瞬で終わらす【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "ktSyBTQzeHA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YxLE_AXMEuk/maxresdefault_live.jpg",
+        "timestamp": 1758103200,
+        "title": "【#あずいろ3Dカラオケ】重大告知あり！あずいろ結成3周年！？歌うよ～～！！！【ホロライブ / AZKi / 風真いろは】",
+        "video_id": "YxLE_AXMEuk"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VD4b6OolxRA/maxresdefault_live.jpg",
+        "timestamp": 1758114000,
+        "title": "【雜談】輕鬆聊天 歡迎初見的觀眾 一起加入我們吧",
+        "video_id": "VD4b6OolxRA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VD4b6OolxRA/maxresdefault_live.jpg",
+        "timestamp": 1758114000,
+        "title": "【雜談】輕鬆聊天 歡迎初見的觀眾 一起加入我們吧",
+        "video_id": "VD4b6OolxRA"
     }
 ]
