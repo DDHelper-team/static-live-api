@@ -191,10 +191,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rpQWt7E6t8k/maxresdefault_live.jpg",
-        "timestamp": 1758096000,
+        "timestamp": null,
         "title": "【LOL】ｽｸﾘﾑ！助っ人サポ~ LTK ST Next ~【 奏手イヅル 】",
         "video_id": "rpQWt7E6t8k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z3WPseO7N4s/maxresdefault_live.jpg",
+        "timestamp": 1758103200,
+        "title": "【LTK Watch party】もう全員MVPでよくないか？って毎回思うよね。  #LTK  #均衡の守人 / アステル",
+        "video_id": "Z3WPseO7N4s"
     }
 ]
