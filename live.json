@@ -167,7 +167,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1758138114.9531558,
+        "timestamp": 1758138770.0036845,
         "title": "KARAOKE!!! YAY!!!"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oNTZku_JLd4/maxresdefault_live.jpg",
+        "timestamp": 1758153600,
+        "title": "I have time, hello! | Chatting",
+        "video_id": "oNTZku_JLd4"
     }
 ]
