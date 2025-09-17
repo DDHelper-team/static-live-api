@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Orwr6bkBlBE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DONKEY KONG COUNTRY 2】finally getting to the end of the banana barrel 🍌【FUWAMOCO｜スーパードンキーコング2】",
-        "video_id": "Orwr6bkBlBE"
-    },
-    {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Orwr6bkBlBE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DONKEY KONG COUNTRY 2】finally getting to the end of the banana barrel 🍌【FUWAMOCO｜スーパードンキーコング2】",
-        "video_id": "Orwr6bkBlBE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +187,14 @@
         "timestamp": 1773496800,
         "title": "【Schedule \u0026amp; Chat】Weekly Kroniicles ⏳",
         "video_id": "6GZ5XGzRY-g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fJDeyLCNQBw/maxresdefault_live.jpg",
+        "timestamp": 1758103200,
+        "title": "＃4【 7 Days to Die 】1日欠席した今はどうなったのか【 律可/ホロスターズ 】#りつすた",
+        "video_id": "fJDeyLCNQBw"
     }
 ]
