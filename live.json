@@ -92,10 +92,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k5kWbY06LfU/maxresdefault_live.jpg",
-        "timestamp": 1758196800,
-        "title": "【 歌枠 】L\u0026#39;Arc〜en〜Ciel (ラルク) をふわふわ歌うのら～！！！🎵 ～ KARAOKE【姫森ルーナ/ホロライブ】",
+        "timestamp": null,
+        "title": "【 歌枠 】L\u0026#39;Arc〜en〜Ciel (ラルク) をふなふな歌うのら～！！！🎵 ～ KARAOKE【姫森ルーナ/ホロライブ】",
         "video_id": "k5kWbY06LfU"
     },
     {
@@ -146,18 +146,18 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kuD119mCvtw/maxresdefault_live.jpg",
-        "timestamp": 1758196800,
+        "timestamp": null,
         "title": "【Cheese Rolling】relax, just take it cheesy (with Anya)",
         "video_id": "kuD119mCvtw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kuD119mCvtw/maxresdefault_live.jpg",
-        "timestamp": 1758196800,
+        "timestamp": null,
         "title": "【Cheese Rolling】relax, just take it cheesy (with Anya)",
         "video_id": "kuD119mCvtw"
     },
@@ -173,18 +173,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TP10YeMp49s/maxresdefault_live.jpg",
-        "timestamp": 1758196800,
+        "timestamp": null,
         "title": "【#5】スーパードンキーコング２：Donkey Kong Country 2: Diddy\u0026#39;s Kong Quest【ホロライブ/大空スバル】",
         "video_id": "TP10YeMp49s"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uVY072bGXb0/maxresdefault_live.jpg",
-        "timestamp": 1758196800,
+        "timestamp": null,
         "title": "【Cheese Rolling】Cheese.【hololive ID 2nd Generation | Anya Melfissa】",
         "video_id": "uVY072bGXb0"
     },
@@ -205,5 +205,14 @@
         "timestamp": 1758204000,
         "title": "【メンバー限定】秘密のお話し会しよ？【雪花ラミィ /ホロライブ】",
         "video_id": "8PGWEkHS8-E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ahsSIPGxBEM/maxresdefault_live.jpg",
+        "timestamp": 1758200400,
+        "title": "【おにぎり屋さんシミュレーター】本日開店します🍙おにぎり🍙にぎるよ【尾丸ポルカ/ホロライブ】",
+        "video_id": "ahsSIPGxBEM"
     }
 ]
