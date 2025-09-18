@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TyZSlYjk9J8/maxresdefault_live.jpg",
-        "timestamp": 1758229200,
+        "timestamp": null,
         "title": "What I Want for Christmas Is 【Cronos: The New Dawn】",
         "video_id": "TyZSlYjk9J8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TyZSlYjk9J8/maxresdefault_live.jpg",
-        "timestamp": 1758229200,
+        "timestamp": null,
         "title": "What I Want for Christmas Is 【Cronos: The New Dawn】",
         "video_id": "TyZSlYjk9J8"
     },
@@ -61,15 +61,6 @@
         "timestamp": 1758236400,
         "title": "【Hollow Knight: Silksong】ACT 3 START!",
         "video_id": "qEm54Zo-FLs"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5OKivKga_YM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Onigiri Shop Simulator 】深夜営業のおにぎり屋さんはじめます。【鷹嶺ルイ/ホロライブ】",
-        "video_id": "5OKivKga_YM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -135,24 +126,6 @@
         "video_id": "YXI2vwzlsKg"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0_cFYG3NOqw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#3 | 夏が来ましたよ🎐【緋月ゆい/ネオポルテ】",
-        "video_id": "0_cFYG3NOqw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0_cFYG3NOqw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#3 | 夏が来ましたよ🎐【緋月ゆい/ネオポルテ】",
-        "video_id": "0_cFYG3NOqw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -187,5 +160,14 @@
         "timestamp": 1758283200,
         "title": "【 PEAK】ビンボンをもって生き残りたい【ホロライブ/ ロボ子さん】",
         "video_id": "cZxlliuL2wE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CiRmEmbTLTk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【OHAPOL】#180 9/19金曜日！もう9月後半戦か？ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+        "video_id": "CiRmEmbTLTk"
     }
 ]
