@@ -9,24 +9,6 @@
         "video_id": "Twt6_8h9g9Y"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/d6E9LIHS3OU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "No One Can Hear You Scream in Here 【Cronos: The New Dawn】",
-        "video_id": "d6E9LIHS3OU"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/d6E9LIHS3OU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "No One Can Hear You Scream in Here 【Cronos: The New Dawn】",
-        "video_id": "d6E9LIHS3OU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -47,10 +29,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/r7cAijjIey8/maxresdefault_live.jpg",
-        "timestamp": 1758157200,
-        "title": "【FREETALK】 GETTING THAT MONSTER ACTION w/@holoen_gigimurin  【Kureiji Ollie】",
+        "timestamp": null,
+        "title": "【MONSTER CON】 GETTING THAT MONSTER ACTION w/@holoen_gigimurin  【Kureiji Ollie】",
         "video_id": "r7cAijjIey8"
     },
     {
@@ -128,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oNTZku_JLd4/maxresdefault_live.jpg",
-        "timestamp": 1758153600,
+        "timestamp": null,
         "title": "I have time, hello! | Chatting",
         "video_id": "oNTZku_JLd4"
     },
@@ -160,5 +142,23 @@
         "timestamp": 1758214800,
         "title": "【Elden Ring Nightrein】carry me kfp (first time! play with me!) #kfp #キアライブ",
         "video_id": "CoXvekcXEF0"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TyZSlYjk9J8/maxresdefault_live.jpg",
+        "timestamp": 1758229200,
+        "title": "What I Want for Christmas Is 【Cronos: The New Dawn】",
+        "video_id": "TyZSlYjk9J8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TyZSlYjk9J8/maxresdefault_live.jpg",
+        "timestamp": 1758229200,
+        "title": "What I Want for Christmas Is 【Cronos: The New Dawn】",
+        "video_id": "TyZSlYjk9J8"
     }
 ]
