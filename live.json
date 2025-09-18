@@ -81,15 +81,6 @@
         "video_id": "49aVLLzwm5s"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xf5GL08qsaE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Bum Simulator】Ah, Yes... Just Like the Old Days【hololive ID 2nd Generation | Anya Melfissa】",
-        "video_id": "xf5GL08qsaE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -187,5 +178,14 @@
         "timestamp": 1758196800,
         "title": "【Cheese Rolling】relax, just take it cheesy (with Anya)",
         "video_id": "kuD119mCvtw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Y9xkw50a4TU/maxresdefault_live.jpg",
+        "timestamp": 1758184200,
+        "title": "#8【Hollow Knight: Silksong】真ENDに挑戦【律可/ホロスターズ 】#りつすた",
+        "video_id": "Y9xkw50a4TU"
     }
 ]
