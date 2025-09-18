@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CoXvekcXEF0/maxresdefault_live.jpg",
-        "timestamp": 1758216600,
+        "timestamp": null,
         "title": "【Elden Ring Nightrein】carry me kfp (first time! play with me!) #kfp #キアライブ",
         "video_id": "CoXvekcXEF0"
     },
@@ -187,23 +187,5 @@
         "timestamp": null,
         "title": "【 STREET FIGHTER 6】常闇祭チーム顔合わせ練習会！【アキロゼ/ホロライブ】",
         "video_id": "2I5GungkPHQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k26Mf1yY25c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】夜、チルタイム。【 獅子神レオナ/Re:AcT】",
-        "video_id": "k26Mf1yY25c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k26Mf1yY25c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】夜、チルタイム。【 獅子神レオナ/Re:AcT】",
-        "video_id": "k26Mf1yY25c"
     }
 ]
