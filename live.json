@@ -9,15 +9,6 @@
         "video_id": "GkCd-TJs-e0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/u9PsYhi3QH8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARCHIVED KARAOKE PLS WORK】 PART 2??? 【Kureiji Ollie】",
-        "video_id": "u9PsYhi3QH8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -182,10 +173,37 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Y9xkw50a4TU/maxresdefault_live.jpg",
-        "timestamp": 1758184200,
+        "timestamp": null,
         "title": "#8【Hollow Knight: Silksong】真ENDに挑戦【律可/ホロスターズ 】#りつすた",
         "video_id": "Y9xkw50a4TU"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oq_Qsdbf4bI/maxresdefault_live.jpg",
+        "timestamp": 1758186000,
+        "title": "【ホロアース】らでんが降臨！！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "oq_Qsdbf4bI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oq_Qsdbf4bI/maxresdefault_live.jpg",
+        "timestamp": 1758186000,
+        "title": "【ホロアース】らでんが降臨！！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "oq_Qsdbf4bI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TP10YeMp49s/maxresdefault_live.jpg",
+        "timestamp": 1758196800,
+        "title": "【#5】スーパードンキーコング２：Donkey Kong Country 2: Diddy\u0026#39;s Kong Quest【ホロライブ/大空スバル】",
+        "video_id": "TP10YeMp49s"
     }
 ]
