@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0bj8ak2MvQo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 トワと神樹の祈り子たち 】トワ様こんにちは！！ホロライブのトワ様です！【常闇トワ/ホロライブ】",
-        "video_id": "0bj8ak2MvQo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G2BYmzFbUxc/maxresdefault_live.jpg",
+        "timestamp": 1758276000,
+        "title": "【 第五回 / #ホロステ 】- 常闇トワpresents -🎀ホロソングステーション【常闇トワ/ホロライブ】",
+        "video_id": "G2BYmzFbUxc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -29,20 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uWcSGNdbcb8/maxresdefault_live.jpg",
-        "timestamp": 1758200400,
+        "timestamp": null,
         "title": "【逆凸】一週間企画4日目！夜中にいきなり『今からオフコラボ』しようと電話したら何人来てくれるのか？ぺこ！【ホロライブ/兎田ぺこら/ラプラスダークネス】",
         "video_id": "uWcSGNdbcb8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-wViR5EE2YE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【案件】新作リップルアイランドを発売前にテストプレイするぞ！【戌神ころね】 #サンソフト #リップルアイランド",
-        "video_id": "-wViR5EE2YE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
@@ -128,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QMcHreKI_Tg/maxresdefault_live.jpg",
-        "timestamp": 1758200400,
+        "timestamp": null,
         "title": "【 Troublemaker 2: Beyond Dream 】PARAKACUK KEMBALI GENGS 😎【 iofi / hololiveID 】",
         "video_id": "QMcHreKI_Tg"
     },
@@ -191,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/c31GW4sadHU/maxresdefault_live.jpg",
-        "timestamp": 1758200400,
+        "timestamp": null,
         "title": "DINKUM IS BACK ???? WOW w/ @sammybollivienn",
         "video_id": "c31GW4sadHU"
     },
@@ -209,10 +200,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ahsSIPGxBEM/maxresdefault_live.jpg",
-        "timestamp": 1758200400,
+        "timestamp": null,
         "title": "【おにぎり屋さんシミュレーター】本日開店します🍙おにぎり🍙にぎるよ【尾丸ポルカ/ホロライブ】",
         "video_id": "ahsSIPGxBEM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HdJck4ZSQQc/maxresdefault_live.jpg",
+        "timestamp": 1758254400,
+        "title": "【おにぎり屋さんシミュレーター】俺、おにぎり屋さんになる【夕刻ロベル/ホロスターズ】",
+        "video_id": "HdJck4ZSQQc"
     }
 ]
