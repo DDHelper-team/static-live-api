@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3gIDM0LbZi8/maxresdefault_live.jpg",
-        "timestamp": 1758295800,
+        "timestamp": null,
         "title": "【KU100/ASMR】ダメに、なろ？♡愛されすぎちゃう濃厚耳ちゅー＆にゅる耳はむで脳がバグるっ♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "3gIDM0LbZi8"
     },
@@ -286,5 +286,23 @@
         "timestamp": null,
         "title": "【世界樹の迷宮】ボスがなぜか無限沸きしてくる神ゲー・・・　Part5【岸堂天真/ホロスターズ】",
         "video_id": "izwrvtHXOMs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yd1GsvFMYXI/maxresdefault_live.jpg",
+        "timestamp": 1758337200,
+        "title": "【FF6】ついにファイナルファンタジー6を初見で始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "yd1GsvFMYXI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5iM1kcG5s1c/maxresdefault_live.jpg",
+        "timestamp": 1758330000,
+        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "5iM1kcG5s1c"
     }
 ]
