@@ -189,13 +189,11 @@
         "video_id": "xI0D2vatwrw"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1758318310.3384628,
-        "title": "STREAM ENDS AFTER 5 PERFECT SCORES w/ @filian GEOGUESSR"
+        "timestamp": 1758319620.123686
     },
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -218,10 +216,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9SndC3jdSq4/maxresdefault_live.jpg",
-        "timestamp": 1758319200,
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Jlyh9i34BiE/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "#01【 牧場物語 Let\u0026#39;s！風のグランドバザール 】　初めての牧場物語 🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-        "video_id": "9SndC3jdSq4"
+        "video_id": "Jlyh9i34BiE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s_pC7QbwD8o/maxresdefault_live.jpg",
+        "timestamp": 1758381300,
+        "title": "【HOLLOW KNIGHT: SILKSONG】deja vu (act 2 here i come) #kfp #キアライブ",
+        "video_id": "s_pC7QbwD8o"
     }
 ]
