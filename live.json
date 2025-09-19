@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IPx1F7YSUh4/maxresdefault_live.jpg",
-        "timestamp": 1758286800,
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6 】#常闇祭 前日！視聴者のみんなと対戦会！【常闇トワ/ホロライブ】",
         "video_id": "IPx1F7YSUh4"
     },
@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jeI9VGqelf0/maxresdefault_live.jpg",
-        "timestamp": 1758286800,
+        "timestamp": null,
         "title": "【#OlliEyesOnMe】 FEAST YOUR EYES UPON THE UNDEAD MAIDEN🕯️🌹🖤 【Kureiji Ollie】",
         "video_id": "jeI9VGqelf0"
     },
@@ -171,15 +171,6 @@
         "video_id": "dga5vg1XGxs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jZvPHe8vxeY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ドスパラ×まがまがーず】ドスパラ先生のPC専門学校！まがまがーずの魔改造！？【雪花ラミィ・桃鈴ねね/ホロライブ】",
-        "video_id": "jZvPHe8vxeY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -277,5 +268,50 @@
         "timestamp": 1758290400,
         "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#4 | バザールは計画的に✏【緋月ゆい/ネオポルテ】",
         "video_id": "lnwA-myh-gI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zdGGpLp7Z_g/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive OCG】本日発売！ホロカ第五弾 開封！12BOXでサイン入りSECカード当てたい！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "zdGGpLp7Z_g"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/x_XuKAIzaD0/maxresdefault_live.jpg",
+        "timestamp": 1758290400,
+        "title": "【 雑談？ 】アーカイブはメン限になるかも何故かというと声が小さいから【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "x_XuKAIzaD0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/x_XuKAIzaD0/maxresdefault_live.jpg",
+        "timestamp": 1758290400,
+        "title": "【 雑談？ 】アーカイブはメン限になるかも何故かというと声が小さいから【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "x_XuKAIzaD0"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Mupgsfqi_Do/maxresdefault_live.jpg",
+        "timestamp": 1758290400,
+        "title": "【雑談】蛍石採掘体験に行ってきた！！in岐阜【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "Mupgsfqi_Do"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Mupgsfqi_Do/maxresdefault_live.jpg",
+        "timestamp": 1758290400,
+        "title": "【雑談】蛍石採掘体験に行ってきた！！in岐阜【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "Mupgsfqi_Do"
     }
 ]
