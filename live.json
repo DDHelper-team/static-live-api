@@ -126,15 +126,6 @@
         "video_id": "x8tecx-1evk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4ix7525X1cE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Chrono Gear: Warden of Time】 Time Doesn\u0026#39;t Stop | #2",
-        "video_id": "4ix7525X1cE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -241,5 +232,14 @@
         "timestamp": 1758279600,
         "title": "【#ホロライブ甲子園2025】桜咲高校１年目‼⚾合宿＆新入生ガチャで春迎えるぞ！！！！！！【ホロライブ/さくらみこ】",
         "video_id": "a8kNK7MYgyc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/U1Nf2TjlQ_Q/maxresdefault_live.jpg",
+        "timestamp": 1758279600,
+        "title": "【FALLGUYS】#ホロスタ大運動会 前哨戦ともいえる【 奏手イヅル 】",
+        "video_id": "U1Nf2TjlQ_Q"
     }
 ]
