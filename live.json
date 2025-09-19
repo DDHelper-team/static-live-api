@@ -11,29 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kaMz11Ds3bY/maxresdefault_live.jpg",
-        "timestamp": 1758243600,
+        "timestamp": null,
         "title": "【METAL GEAR SOLID Δ: SNAKE EATER】I go sneaky neaky neaky neaky neaky neaky #calliolive",
         "video_id": "kaMz11Ds3bY"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TyZSlYjk9J8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "What I Want for Christmas Is 【Cronos: The New Dawn】",
-        "video_id": "TyZSlYjk9J8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TyZSlYjk9J8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "What I Want for Christmas Is 【Cronos: The New Dawn】",
-        "video_id": "TyZSlYjk9J8"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -101,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Pt4s_W1d-Mw/maxresdefault_live.jpg",
-        "timestamp": 1758240000,
+        "timestamp": null,
         "title": "【WATERPARK SIMULATOR】removing the ladder【Dokibird】",
         "video_id": "Pt4s_W1d-Mw"
     },
@@ -128,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Pt4s_W1d-Mw/maxresdefault_live.jpg",
-        "timestamp": 1758240000,
+        "timestamp": null,
         "title": "【WATERPARK SIMULATOR】removing the ladder【Dokibird】",
         "video_id": "Pt4s_W1d-Mw"
     },
@@ -160,5 +142,50 @@
         "timestamp": 1758272400,
         "title": "【 手描き切り抜き鑑賞会 】忙しくしていた理由が少し分かるかも？な告知します☺【鷹嶺ルイ/ホロライブ】",
         "video_id": "x8tecx-1evk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4ix7525X1cE/maxresdefault_live.jpg",
+        "timestamp": 1758245400,
+        "title": "【Chrono Gear: Warden of Time】 Time Doesn\u0026#39;t Stop | #2",
+        "video_id": "4ix7525X1cE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/K31ST63FzUU/maxresdefault_live.jpg",
+        "timestamp": 1758279600,
+        "title": "【Fall Guys】100億年ぶりのホロスタ全員集合!!【花咲みやび/ホロスターズ】#ホロスターズ大運動会",
+        "video_id": "K31ST63FzUU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3E9hFnjEPKU/maxresdefault_live.jpg",
+        "timestamp": 1758279600,
+        "title": "【料理】一週間企画5日目！ぺこら宅でオフコラボ！フレアに手料理を振る舞う！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "3E9hFnjEPKU"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ws_b2QILP9Y/maxresdefault_live.jpg",
+        "timestamp": 1758283200,
+        "title": "【Little Witch in the Woods】今夜はまったりチルナイト♡【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "ws_b2QILP9Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ws_b2QILP9Y/maxresdefault_live.jpg",
+        "timestamp": 1758283200,
+        "title": "【Little Witch in the Woods】今夜はまったりチルナイト♡【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "ws_b2QILP9Y"
     }
 ]
