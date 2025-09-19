@@ -54,15 +54,6 @@
         "video_id": "3gIDM0LbZi8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cZxlliuL2wE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 PEAK】ふぶきいいいいい！！ビンボンをもって生き残りたい！byポルカ＆ろぼこ【ホロライブ/ ロボ子さん】",
-        "video_id": "cZxlliuL2wE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
         "status": "LIVE",
@@ -198,24 +189,6 @@
         "video_id": "xI0D2vatwrw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ovsvilY4ZbU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PEAK】ロボット、きつね、フェネック、登山。 #ホロPEAK 【尾丸ポルカ視点/ホロライブ】",
-        "video_id": "ovsvilY4ZbU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/87YalBjTGcQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PEAK】 え？？ロボ子しぇんぱいもポルカも人形持って行くのガチですか？？？　#ホロPEAK【白上フブキ/ホロライブ】",
-        "video_id": "87YalBjTGcQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
         "status": "LIVE",
@@ -304,5 +277,14 @@
         "timestamp": 1758330000,
         "title": "≪Dinkum≫ Taking Gigi to the Outback",
         "video_id": "KS8NIVwaU0w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uaRDqK-dDcI/maxresdefault_live.jpg",
+        "timestamp": 1758340800,
+        "title": "#13【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
+        "video_id": "uaRDqK-dDcI"
     }
 ]
