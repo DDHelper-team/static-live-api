@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/i0l8A_u5mSI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#4【Ace Attorney Investigations】Starting Ch4! With a new companion (SPOILERS!)【Pavolia Reine/holoID】",
-        "video_id": "i0l8A_u5mSI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
         "status": "LIVE",
@@ -223,5 +214,23 @@
         "timestamp": 1758423600,
         "title": "【FF6】ファイナルファンタジー6を初見で始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "I73QCHRLb28"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RkabmL9VAEU/maxresdefault_live.jpg",
+        "timestamp": 1758434400,
+        "title": "#9【Hollow Knight: Silksong】ファイナルラストだと思う【律可/ホロスターズ 】#りつすた",
+        "video_id": "RkabmL9VAEU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MwM-uYjwH10/maxresdefault_live.jpg",
+        "timestamp": 1758423600,
+        "title": "【Keep Digging】ねぽらぼで昼間から穴掘るか！！！！！【ねぽらぼ/ホロライブ】",
+        "video_id": "MwM-uYjwH10"
     }
 ]
