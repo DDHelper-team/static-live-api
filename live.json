@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/B1U-qaHH-XM/maxresdefault_live.jpg",
-        "timestamp": 1758339000,
+        "timestamp": null,
         "title": "【ストリートファイター6】#常闇祭 だ！やれんのか！俺やれんのか！？【アルランディス/ホロスターズ】",
         "video_id": "B1U-qaHH-XM"
     },
@@ -180,15 +180,6 @@
         "video_id": "ZceDvNF7vaM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Jlyh9i34BiE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#01【 牧場物語 Let\u0026#39;s！風のグランドバザール 】　初めての牧場物語 🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
-        "video_id": "Jlyh9i34BiE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -277,5 +268,14 @@
         "timestamp": 1758366000,
         "title": "【 #ホロライブ甲子園2025】2年目夏！！大会2回戦から！！！この夏を終わらせるな！【ホロライブ/宝鐘マリン】",
         "video_id": "VUEbmSrAawc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0c94IyQiJa0/maxresdefault_live.jpg",
+        "timestamp": 1758339000,
+        "title": "【Members Only】Typing Peacefully?【Glyphica: Typing Survival】",
+        "video_id": "0c94IyQiJa0"
     }
 ]
