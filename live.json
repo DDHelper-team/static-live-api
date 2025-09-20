@@ -135,24 +135,6 @@
         "video_id": "VUEbmSrAawc"
     },
     {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VAg5HUiKLNM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#重返未來1999 】2週年！第15關開始~好期待NAUTIKA的變身!!!【#ゲーム個人勢 / Fingla】",
-        "video_id": "VAg5HUiKLNM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VAg5HUiKLNM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#重返未來1999 】2週年！第15關開始~好期待NAUTIKA的變身!!!【#ゲーム個人勢 / Fingla】",
-        "video_id": "VAg5HUiKLNM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -245,10 +227,19 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/n2o-eXQRG5U/maxresdefault_live.jpg",
-        "timestamp": 1758371400,
+        "timestamp": null,
         "title": "【ツイステ】第7章 part1「深淵の支配者」初めてのディズニーツイステッドワンダーランド!!【花咲みやび/ホロスターズ】",
         "video_id": "n2o-eXQRG5U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8xOZZWy18hA/maxresdefault_live.jpg",
+        "timestamp": 1758457800,
+        "title": "【VRchat】ぶいちゃのスクショを撮りたい",
+        "video_id": "8xOZZWy18hA"
     }
 ]
