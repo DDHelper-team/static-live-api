@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_PQIyjJURv4/maxresdefault_live.jpg",
-        "timestamp": 1758376800,
+        "timestamp": null,
         "title": "【 ウマ娘 プリティーダービー 】新ガチャひいてからストーリーみていくぞ👀✨【鷹嶺ルイ/ホロライブ】",
         "video_id": "_PQIyjJURv4"
     },
@@ -99,15 +99,6 @@
         "video_id": "rlcOuhUr6Sw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UFxXsCAZbT0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 STAR WARS™ バトルフロント™ II 】スター・ウォーズの世界に飛び込むのら！！！【姫森ルーナ/ホロライブ】",
-        "video_id": "UFxXsCAZbT0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "platform": "youtube",
         "status": "LIVE",
@@ -119,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9kpt3dsk92A/maxresdefault_live.jpg",
-        "timestamp": 1758376800,
+        "timestamp": null,
         "title": "【 あつまれ どうぶつの森 】 眠れない人のため、ゆるい森【 奏手イヅル / ホロスターズ 】",
         "video_id": "9kpt3dsk92A"
     },
@@ -241,5 +232,14 @@
         "timestamp": null,
         "title": "BERMAYN MAYN w/ @sammybollivienn",
         "video_id": "tFIC1HMrTiw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YmsSXBH_jas/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【No, I\u0026#39;m not a Human】深夜の怪しい訪問者。-入れていいのは人間だけ。【ホロライブ/癒月ちょこ】",
+        "video_id": "YmsSXBH_jas"
     }
 ]
