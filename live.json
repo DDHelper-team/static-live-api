@@ -56,18 +56,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IM9eo1WBQHE/maxresdefault_live.jpg",
-        "timestamp": 1758369600,
+        "timestamp": null,
         "title": "【QQQbeats!!!】　視聴者参加で対決！？協力！？一緒に遊んじゃいましょぉおおお！！！　【ホロライブ/白上フブキ】",
         "video_id": "IM9eo1WBQHE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SMgktyBOeWw/maxresdefault_live.jpg",
-        "timestamp": 1758369600,
+        "timestamp": null,
         "title": "【プレゼン】一週間企画6日目！ぼたんちゃんとおすすめゲームプレゼン会！ぺこ！【ホロライブ/兎田ぺこら/獅白ぼたん】",
         "video_id": "SMgktyBOeWw"
     },
@@ -162,15 +162,6 @@
         "video_id": "9kpt3dsk92A"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AFxbi6oC93g/maxresdefault_live.jpg",
-        "timestamp": 1758369600,
-        "title": "【member\u0026#39;s only】hanging out late into the night! #calliolive",
-        "video_id": "AFxbi6oC93g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -187,15 +178,6 @@
         "timestamp": 1758373200,
         "title": "【マリオカートワールド】当選したSwitch2で遊ぶ！はじめてのマリワ！！！【ホロライブ / AZKi】",
         "video_id": "y9H71H5aY4k"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/n2o-eXQRG5U/maxresdefault_live.jpg",
-        "timestamp": 1758369600,
-        "title": "【ツイステ】第7章 part1「深淵の支配者」初めてのディズニーツイステッドワンダーランド!!【花咲みやび/ホロスターズ】",
-        "video_id": "n2o-eXQRG5U"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -227,9 +209,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/u3iZMt-On0Y/maxresdefault_live.jpg",
-        "timestamp": 1758369600,
+        "timestamp": null,
         "title": "【緊急マリパ】緊急でマリパ遊んでくれる人募集したらパーティできるのか！？？？？？？？【ホロライブ/さくらみこ】",
         "video_id": "u3iZMt-On0Y"
     },
@@ -250,5 +232,23 @@
         "timestamp": 1758454200,
         "title": "塔羅占卜#111 ｜喔喔喔喔!!再過幾天就要看秋分能量了啊啊啊🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "hzwlQ5sILIs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k782jlT9o0g/maxresdefault_live.jpg",
+        "timestamp": 1758415800,
+        "title": "【アーカイブなし】異世界転生したらドゲンジャーズだった件 11話ミラー配信【荒咬オウガ ホロスターズ】",
+        "video_id": "k782jlT9o0g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n2o-eXQRG5U/maxresdefault_live.jpg",
+        "timestamp": 1758371400,
+        "title": "【ツイステ】第7章 part1「深淵の支配者」初めてのディズニーツイステッドワンダーランド!!【花咲みやび/ホロスターズ】",
+        "video_id": "n2o-eXQRG5U"
     }
 ]
