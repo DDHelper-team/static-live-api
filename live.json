@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KS8NIVwaU0w/maxresdefault_live.jpg",
-        "timestamp": 1758330000,
+        "timestamp": null,
         "title": "≪Dinkum≫ Taking Gigi to the Outback",
         "video_id": "KS8NIVwaU0w"
     },
@@ -153,15 +153,6 @@
         "video_id": "yd1GsvFMYXI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5iM1kcG5s1c/maxresdefault_live.jpg",
-        "timestamp": 1758330000,
-        "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
-        "video_id": "5iM1kcG5s1c"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,33 +160,6 @@
         "timestamp": 1758339900,
         "title": "【 STREET FIGHTER 6】常闇祭本番！どこまでいけるのか！？/w.だいだら,RiskivzyAt\u0026#39;z【アキロゼ/ホロライブ】",
         "video_id": "5SnCcnPijjs"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xI0D2vatwrw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SILKSONG】awoooooo【Dokibird】",
-        "video_id": "xI0D2vatwrw"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xI0D2vatwrw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SILKSONG】awoooooo【Dokibird】",
-        "video_id": "xI0D2vatwrw"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1758325508.675568,
-        "title": "STREAM ENDS AFTER 5 PERFECT SCORES w/ @filian GEOGUESSR"
     },
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -232,5 +196,68 @@
         "timestamp": 1758381300,
         "title": "【HOLLOW KNIGHT: SILKSONG】deja vu (act 2 here i come) #kfp #キアライブ",
         "video_id": "s_pC7QbwD8o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rlcOuhUr6Sw/maxresdefault_live.jpg",
+        "timestamp": 1758412800,
+        "title": "【DOGGY PACK 2 YEAR CHATTING】BAUtime is rough but time together is a treat 🐾✨ 【MEMBERS ONLY】",
+        "video_id": "rlcOuhUr6Sw"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rlcOuhUr6Sw/maxresdefault_live.jpg",
+        "timestamp": 1758412800,
+        "title": "【DOGGY PACK 2 YEAR CHATTING】BAUtime is rough but time together is a treat 🐾✨ 【MEMBERS ONLY】",
+        "video_id": "rlcOuhUr6Sw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rUt46ZVpV80/maxresdefault_live.jpg",
+        "timestamp": 1758333600,
+        "title": "【 牧場物語 Let\u0026#39;s！風のグランドバザール 】#３ こんな金欠になることある？？【獅子神レオナ/Re:AcT】",
+        "video_id": "rUt46ZVpV80"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lsIZo6EFSA0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】ソロ修行【緋月ゆい/ネオポルテ】",
+        "video_id": "lsIZo6EFSA0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lsIZo6EFSA0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】ソロ修行【緋月ゆい/ネオポルテ】",
+        "video_id": "lsIZo6EFSA0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rUt46ZVpV80/maxresdefault_live.jpg",
+        "timestamp": 1758333600,
+        "title": "【 牧場物語 Let\u0026#39;s！風のグランドバザール 】#３ こんな金欠になることある？？【獅子神レオナ/Re:AcT】",
+        "video_id": "rUt46ZVpV80"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UFxXsCAZbT0/maxresdefault_live.jpg",
+        "timestamp": 1758362400,
+        "title": "【 STAR WARS™ バトルフロント™ II 】スター・ウォーズの世界に飛び込むのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "UFxXsCAZbT0"
     }
 ]
