@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kGkMI4XCCWY/maxresdefault_live.jpg",
-        "timestamp": 1758448800,
+        "timestamp": null,
         "title": "【企画告知】ついに始動する企画はっぴょーーーーをします！！！【角巻わため/ホロライブ４期生】",
         "video_id": "kGkMI4XCCWY"
     },
@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_vEP5eI2gSA/maxresdefault_live.jpg",
-        "timestamp": 1758448800,
+        "timestamp": null,
         "title": "【ストリートファイター6】#サガット祭り  有限会社ぺろんタイガー コノカイシャノタメニハタラキマス🤖【アルランディス/ホロスターズ】",
         "video_id": "_vEP5eI2gSA"
     },
@@ -164,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HntsV_YX05k/maxresdefault_live.jpg",
-        "timestamp": 1758448800,
+        "timestamp": null,
         "title": "【ストリートファイター6】#サガット祭り　†虎ブルDarkness†【荒咬オウガ /ホロスターズ】",
         "video_id": "HntsV_YX05k"
     },
@@ -223,5 +223,32 @@
         "timestamp": 1758459600,
         "title": "【雑談】大運動会前にお話しよ！【花咲みやび/ホロスターズ】",
         "video_id": "7DgYJDvuamA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1QdQeQ31wO0/maxresdefault_live.jpg",
+        "timestamp": 1758535200,
+        "title": "【新衣装】遂に！！１年ぶりに自分でデザイン考えましたぞ #ラプ様新衣装お披露目【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "1QdQeQ31wO0"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n5PUhsScJbg/maxresdefault_live.jpg",
+        "timestamp": 1758535200,
+        "title": "【 #ホロライブ甲子園2025 】限界条高校、2年目の夏はどうなる…！？！！#6【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "n5PUhsScJbg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n5PUhsScJbg/maxresdefault_live.jpg",
+        "timestamp": 1758535200,
+        "title": "【 #ホロライブ甲子園2025 】限界条高校、2年目の夏はどうなる…！？！！#6【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "n5PUhsScJbg"
     }
 ]
