@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AkcGtZ7Gd9s/maxresdefault_live.jpg",
-        "timestamp": 1758466800,
+        "timestamp": null,
         "title": "【ASMR】深夜のお耳まっさーじ💝あまあまお姉さんに甘えたいお年頃なの？…仕方ないなぁ💜お試し全体公開➡メンバー限定　【ホロライブ/ ロボ子さん】",
         "video_id": "AkcGtZ7Gd9s"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/R0KFXF6qplE/maxresdefault_live.jpg",
-        "timestamp": 1758466800,
+        "timestamp": null,
         "title": "【THE WITCHER 3】a long long journey ahead of us! #kfp #キアライブ",
         "video_id": "R0KFXF6qplE"
     },
@@ -180,15 +180,6 @@
         "video_id": "jBhkmsl86u4"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0MHqDhuC3Eo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雑魚 】お知らせをさせてください。【 領国つかさ / すぺしゃりて 】",
-        "video_id": "0MHqDhuC3Eo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +205,23 @@
         "timestamp": 1758535200,
         "title": "【 TCG Card Shop Simulator 】目指せ高額カード1000万なのら！！！【姫森ルーナ/ホロライブ】",
         "video_id": "Mn1ZXjx1q90"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_7OUE2xsu70/maxresdefault_live.jpg",
+        "timestamp": 1758553200,
+        "title": "【FUWAMOCO MORNING】episode 173 🐾 #FWMCMORNING",
+        "video_id": "_7OUE2xsu70"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_7OUE2xsu70/maxresdefault_live.jpg",
+        "timestamp": 1758553200,
+        "title": "【FUWAMOCO MORNING】episode 173 🐾 #FWMCMORNING",
+        "video_id": "_7OUE2xsu70"
     }
 ]
