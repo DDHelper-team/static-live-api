@@ -11,29 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_Cz0lBRoLBc/maxresdefault_live.jpg",
-        "timestamp": 1758459600,
+        "timestamp": null,
         "title": "【雑談＆お礼】１週間とてもバタバタだった...！ただいま！【角巻わため/ホロライブ４期生】",
         "video_id": "_Cz0lBRoLBc"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hzwlQ5sILIs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "塔羅占卜#111 ｜喔喔喔喔!!再過幾天就要看秋分能量了啊啊啊🔮✨🦊【Healing希靈/VTuber】",
-        "video_id": "hzwlQ5sILIs"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hzwlQ5sILIs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "塔羅占卜#111 ｜喔喔喔喔!!再過幾天就要看秋分能量了啊啊啊🔮✨🦊【Healing希靈/VTuber】",
-        "video_id": "hzwlQ5sILIs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
@@ -47,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WBFlk4EqMz0/maxresdefault_live.jpg",
-        "timestamp": 1758459600,
+        "timestamp": null,
         "title": "【VRChat】リベンジ回！色々お披露目！3Dで動いちゃう？！新たな機材でASMR再挑戦👀💡【白銀ノエル/ホロライブ】",
         "video_id": "WBFlk4EqMz0"
     },
@@ -137,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7DgYJDvuamA/maxresdefault_live.jpg",
-        "timestamp": 1758459600,
+        "timestamp": null,
         "title": "【雑談】大運動会前にお話しよ！【花咲みやび/ホロスターズ】",
         "video_id": "7DgYJDvuamA"
     },
@@ -216,15 +198,6 @@
         "video_id": "y7d8zL_FpjI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/u8Uc2eE-xWo/maxresdefault_live.jpg",
-        "timestamp": 1758459600,
-        "title": "【スプラトゥーン3/サーモンラン】二人で仲良くビッグラン🐟【不知火フレア/ホロライブ】",
-        "video_id": "u8Uc2eE-xWo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -232,5 +205,14 @@
         "timestamp": 1758535200,
         "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
         "video_id": "axFuZn-Z8j0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9T8Y7lyZ3Qg/maxresdefault_live.jpg",
+        "timestamp": 1758461400,
+        "title": "【ホロの花札】２０勝するまで終われない花札！🔥VSリスナー🔥かかってこぉおい！！【白上フブキ/ホロライブ】",
+        "video_id": "9T8Y7lyZ3Qg"
     }
 ]
