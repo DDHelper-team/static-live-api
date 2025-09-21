@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/GLGXOAZPc6Y/maxresdefault_live.jpg",
-        "timestamp": 1758492000,
+        "timestamp": null,
         "title": "WILL MY FANTASY COME TRUE? EL CONDOR PASA PLEASE COME HOME (umamusume: pretty derby)",
         "video_id": "GLGXOAZPc6Y"
     },
@@ -137,18 +137,18 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AB0fE9uXiDE/maxresdefault_live.jpg",
-        "timestamp": 1758492050,
+        "timestamp": null,
         "title": "【雑談】おはよ！秋は来ましたか🍂【緋月ゆい/ネオポルテ】",
         "video_id": "AB0fE9uXiDE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AB0fE9uXiDE/maxresdefault_live.jpg",
-        "timestamp": 1758492050,
+        "timestamp": null,
         "title": "【雑談】おはよ！秋は来ましたか🍂【緋月ゆい/ネオポルテ】",
         "video_id": "AB0fE9uXiDE"
     },
@@ -160,5 +160,14 @@
         "timestamp": 1758546000,
         "title": "【 Minecraft 】スロット制作開始！！！- ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
         "video_id": "V5iUdyh9iz4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ooVxaqNNrz4/maxresdefault_live.jpg",
+        "timestamp": 1758542400,
+        "title": "【GIRLSTALK】Talking about some girls called MYTH! #kfp #キアライブ",
+        "video_id": "ooVxaqNNrz4"
     }
 ]
