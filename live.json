@@ -144,15 +144,6 @@
         "video_id": "5-um81cgAhw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4uwiAljDW50/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SEKIRO: SHADOWS DIE TWICE】Overcoming Trauma (finally)",
-        "video_id": "4uwiAljDW50"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +214,14 @@
         "timestamp": 1758456000,
         "title": "【#ホロライブ甲子園2025】桜咲高校２年目春‼⚾負けるな！夏大会へ挑むにぇ～！！！！！！【ホロライブ/さくらみこ】",
         "video_id": "Uf5IPItH1vQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7DgYJDvuamA/maxresdefault_live.jpg",
+        "timestamp": 1758459600,
+        "title": "【雑談】大運動会前にお話しよ！【花咲みやび/ホロスターズ】",
+        "video_id": "7DgYJDvuamA"
     }
 ]
