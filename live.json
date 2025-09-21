@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MwM-uYjwH10/maxresdefault_live.jpg",
-        "timestamp": 1758425400,
+        "timestamp": null,
         "title": "【PEAK】ねぽらぼで昼間から山登るか！！！！！【ねぽらぼ/ホロライブ】",
         "video_id": "MwM-uYjwH10"
     },
@@ -216,14 +216,6 @@
         "video_id": "R0KFXF6qplE"
     },
     {
-        "channel": "https://www.twitch.tv/vedal987",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1758424903.7400255,
-        "title": "EVIL VISITS JAPAN w/ @robcdee"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -253,10 +245,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aYWBeKXPTZA/maxresdefault_live.jpg",
-        "timestamp": 1758425400,
+        "timestamp": null,
         "title": "【PEAK】ねぽらぼ登山！！！！！！！やまのぼれ～  #ねぽらぼ 【尾丸ポルカ視点/ホロライブ】",
         "video_id": "aYWBeKXPTZA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/34tAVXFbDj0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 PEAK 】ししろん体調だいじょうぶ～！？ねぽらで山昇る！【 桃鈴ねね / hololive 】#ねぽらぼ",
+        "video_id": "34tAVXFbDj0"
     }
 ]
