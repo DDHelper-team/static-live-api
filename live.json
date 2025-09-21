@@ -27,24 +27,6 @@
         "video_id": "0jrVq6uCC60"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rlcOuhUr6Sw/maxresdefault_live.jpg",
-        "timestamp": 1758412800,
-        "title": "【DOGGY PACK 2 YEAR CHATTING】BAUtime is rough but time together is a treat 🐾✨ 【MEMBERS ONLY】",
-        "video_id": "rlcOuhUr6Sw"
-    },
-    {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rlcOuhUr6Sw/maxresdefault_live.jpg",
-        "timestamp": 1758412800,
-        "title": "【DOGGY PACK 2 YEAR CHATTING】BAUtime is rough but time together is a treat 🐾✨ 【MEMBERS ONLY】",
-        "video_id": "rlcOuhUr6Sw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -56,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JOhOdrS-bmE/maxresdefault_live.jpg",
-        "timestamp": 1758416400,
+        "timestamp": null,
         "title": "【SLEEPING DOGS】Out of the Dark【Dokibird】",
         "video_id": "JOhOdrS-bmE"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JOhOdrS-bmE/maxresdefault_live.jpg",
-        "timestamp": 1758416400,
+        "timestamp": null,
         "title": "【SLEEPING DOGS】Out of the Dark【Dokibird】",
         "video_id": "JOhOdrS-bmE"
     },
@@ -101,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k782jlT9o0g/maxresdefault_live.jpg",
-        "timestamp": 1758415800,
+        "timestamp": null,
         "title": "【アーカイブなし】異世界転生したらドゲンジャーズだった件 11話ミラー配信【荒咬オウガ ホロスターズ】",
         "video_id": "k782jlT9o0g"
     },
@@ -241,5 +223,23 @@
         "timestamp": 1758466800,
         "title": "【THE WITCHER 3】a long long journey ahead of us! #kfp #キアライブ",
         "video_id": "R0KFXF6qplE"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1758417013.3895104,
+        "title": "EVIL VISITS JAPAN w/ @robcdee"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/adS4wn24ank/maxresdefault_live.jpg",
+        "timestamp": 1758502800,
+        "title": "【hololive TCG】THE STREAM WHERE MORI CALLIOPE PULLS A SIGNED CARD FINALLY. #calliolive",
+        "video_id": "adS4wn24ank"
     }
 ]
