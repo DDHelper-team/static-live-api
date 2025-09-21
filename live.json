@@ -18,15 +18,6 @@
         "video_id": "_Cz0lBRoLBc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WBFlk4EqMz0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VRChat】リベンジ回！色々お披露目！3Dで動いちゃう？！新たな機材でASMR再挑戦👀💡【白銀ノエル/ホロライブ】",
-        "video_id": "WBFlk4EqMz0"
-    },
-    {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +196,14 @@
         "timestamp": 1758549600,
         "title": "【凸待ち】 #ゴリレバ 定期深夜Chillラジオ特別回｜凸待ちするぞ！！【天音かなた・雪花ラミィ /ホロライブ】",
         "video_id": "pkteQcVldio"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GLGXOAZPc6Y/maxresdefault_live.jpg",
+        "timestamp": 1758492000,
+        "title": "WILL MY FANTASY COME TRUE? EL CONDOR PASA PLEASE COME HOME (umamusume: pretty derby)",
+        "video_id": "GLGXOAZPc6Y"
     }
 ]
