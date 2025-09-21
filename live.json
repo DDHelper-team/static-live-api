@@ -81,15 +81,6 @@
         "video_id": "Uf5IPItH1vQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7DgYJDvuamA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】大運動会前にお話しよ！【花咲みやび/ホロスターズ】",
-        "video_id": "7DgYJDvuamA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +214,14 @@
         "timestamp": 1758553200,
         "title": "【FUWAMOCO MORNING】episode 173 🐾 #FWMCMORNING",
         "video_id": "_7OUE2xsu70"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5u98eWFa7m8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【世界樹の迷宮】第4層に到達してしまった+十神天魔教十+　Part6【岸堂天真/ホロスターズ】",
+        "video_id": "5u98eWFa7m8"
     }
 ]
