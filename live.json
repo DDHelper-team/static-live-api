@@ -31,7 +31,7 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jAWd_CsWt58/maxresdefault_live.jpg",
-        "timestamp": 1758423600,
+        "timestamp": 1758427200,
         "title": "≪OFF COLLAB≫ hololive 3rd Concert All for One WATCHALONG!",
         "video_id": "jAWd_CsWt58"
     },
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/I73QCHRLb28/maxresdefault_live.jpg",
-        "timestamp": 1758423600,
+        "timestamp": null,
         "title": "【FF6】ファイナルファンタジー6を初見で始める！！！！！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "I73QCHRLb28"
     },
@@ -148,8 +148,8 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MwM-uYjwH10/maxresdefault_live.jpg",
-        "timestamp": 1758423600,
-        "title": "【Keep Digging】ねぽらぼで昼間から穴掘るか！！！！！【ねぽらぼ/ホロライブ】",
+        "timestamp": 1758425400,
+        "title": "【PEAK】ねぽらぼで昼間から山登るか！！！！！【ねぽらぼ/ホロライブ】",
         "video_id": "MwM-uYjwH10"
     },
     {
@@ -216,12 +216,11 @@
         "video_id": "R0KFXF6qplE"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1758422268.3872283,
+        "timestamp": 1758424903.7400255,
         "title": "EVIL VISITS JAPAN w/ @robcdee"
     },
     {
@@ -250,5 +249,14 @@
         "timestamp": 1758432600,
         "title": "【 オールカマー＆神戸新聞杯 】勝って来週のG1に勢いをつける！！！！！【鷹嶺ルイ/ホロライブ】",
         "video_id": "WKFOM7VCFHg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aYWBeKXPTZA/maxresdefault_live.jpg",
+        "timestamp": 1758425400,
+        "title": "【PEAK】ねぽらぼ登山！！！！！！！やまのぼれ～  #ねぽらぼ 【尾丸ポルカ視点/ホロライブ】",
+        "video_id": "aYWBeKXPTZA"
     }
 ]
