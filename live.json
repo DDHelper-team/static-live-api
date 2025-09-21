@@ -81,15 +81,6 @@
         "video_id": "hzwlQ5sILIs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k782jlT9o0g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【アーカイブなし】異世界転生したらドゲンジャーズだった件 11話ミラー配信【荒咬オウガ ホロスターズ】",
-        "video_id": "k782jlT9o0g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -230,7 +221,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1758417013.3895104,
+        "timestamp": 1758422268.3872283,
         "title": "EVIL VISITS JAPAN w/ @robcdee"
     },
     {
@@ -241,5 +232,23 @@
         "timestamp": 1758502800,
         "title": "【hololive TCG】THE STREAM WHERE MORI CALLIOPE PULLS A SIGNED CARD FINALLY. #calliolive",
         "video_id": "adS4wn24ank"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HntsV_YX05k/maxresdefault_live.jpg",
+        "timestamp": 1758448800,
+        "title": "【ストリートファイター6】#サガット祭り　†虎ブルDarkness†【荒咬オウガ /ホロスターズ】",
+        "video_id": "HntsV_YX05k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WKFOM7VCFHg/maxresdefault_live.jpg",
+        "timestamp": 1758432600,
+        "title": "【 オールカマー＆神戸新聞杯 】勝って来週のG1に勢いをつける！！！！！【鷹嶺ルイ/ホロライブ】",
+        "video_id": "WKFOM7VCFHg"
     }
 ]
