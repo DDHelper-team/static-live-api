@@ -126,24 +126,6 @@
         "video_id": "1CDFEN4CGLw"
     },
     {
-        "channel": "https://www.youtube.com/@VestiaZeta",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3ErpqMO4JTU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Little Witch in the Woods】Hohoho~🧹",
-        "video_id": "3ErpqMO4JTU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3ErpqMO4JTU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Little Witch in the Woods】Hohoho~🧹",
-        "video_id": "3ErpqMO4JTU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -209,18 +191,18 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/havsTSjVs30/maxresdefault_live.jpg",
-        "timestamp": 1758547800,
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】涼しくなってきたような【 獅子神レオナ/Re:AcT】",
         "video_id": "havsTSjVs30"
     },
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/havsTSjVs30/maxresdefault_live.jpg",
-        "timestamp": 1758547800,
+        "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】涼しくなってきたような【 獅子神レオナ/Re:AcT】",
         "video_id": "havsTSjVs30"
     },
@@ -241,5 +223,14 @@
         "timestamp": 1758628800,
         "title": "【＃１】SILENT HILL f：ネタバレあり【白上フブキ/ホロライブ】",
         "video_id": "euewW5O-3Gs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SyFYOWSmFSg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "こんばんは📶ちょっとだけおはなし【風真いろは/ホロライブ】",
+        "video_id": "SyFYOWSmFSg"
     }
 ]
