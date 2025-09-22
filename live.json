@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/adS4wn24ank/maxresdefault_live.jpg",
-        "timestamp": 1758502800,
+        "timestamp": null,
         "title": "【hololive TCG】THE STREAM WHERE MORI CALLIOPE PULLS A SIGNED CARD FINALLY. #calliolive",
         "video_id": "adS4wn24ank"
     },
@@ -52,15 +52,6 @@
         "timestamp": 1758535200,
         "title": "【 #ホロライブ甲子園2025 】限界条高校、2年目の夏はどうなる…！？！！#6【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "n5PUhsScJbg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/y7d8zL_FpjI/maxresdefault_live.jpg",
-        "timestamp": 1758502800,
-        "title": "≪YAKUZA 5≫ It\u0026#39;s been a long ride ... First Playthrough FINALE!! #11 【SPOILER WARNING】",
-        "video_id": "y7d8zL_FpjI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
@@ -126,24 +117,6 @@
         "video_id": "UmC98cFxXJk"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AB0fE9uXiDE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！秋は来ましたか🍂【緋月ゆい/ネオポルテ】",
-        "video_id": "AB0fE9uXiDE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AB0fE9uXiDE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！秋は来ましたか🍂【緋月ゆい/ネオポルテ】",
-        "video_id": "AB0fE9uXiDE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -162,24 +135,6 @@
         "video_id": "ooVxaqNNrz4"
     },
     {
-        "channel": "https://www.youtube.com/@ShioriNovella",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NTErQ-snPko/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Sleepy Eepy Merchant【Story of Seasons: Grand Bazaar】SPOILERS",
-        "video_id": "NTErQ-snPko"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NTErQ-snPko/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Sleepy Eepy Merchant【Story of Seasons: Grand Bazaar】SPOILERS",
-        "video_id": "NTErQ-snPko"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -187,5 +142,14 @@
         "timestamp": 1758549600,
         "title": "3Dで1時間拡張版！今日のテーマ『母性を感じた瞬間💕』 アキちょこナイトパレット第6回 ～ホロライブ深夜ラジオ～",
         "video_id": "mLF8QZzlYgE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6ECJaa9vO1U/maxresdefault_live.jpg",
+        "timestamp": 1758542400,
+        "title": "【#ロボ子さん降臨祭】#ホロアース のセカイにはろーぼー！！！【ホロライブ/ ロボ子さん】",
+        "video_id": "6ECJaa9vO1U"
     }
 ]
