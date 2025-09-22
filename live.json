@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/V5iUdyh9iz4/maxresdefault_live.jpg",
-        "timestamp": 1758546000,
+        "timestamp": null,
         "title": "【 Minecraft 】スロット制作開始！！！- ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
         "video_id": "V5iUdyh9iz4"
     },
@@ -108,29 +108,20 @@
         "video_id": "mLF8QZzlYgE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6ECJaa9vO1U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ロボ子さん降臨祭】#ホロアース のセカイにはろーぼー！！！【ホロライブ/ ロボ子さん】",
-        "video_id": "6ECJaa9vO1U"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/z8C63mLmLOE/maxresdefault_live.jpg",
-        "timestamp": 1758546000,
+        "timestamp": null,
         "title": "【アニソン花火】アニメクラシックスって知ってる！？今日はみんなで花火鑑賞しよーっ！！🎆✨【必見！！】",
         "video_id": "z8C63mLmLOE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1CDFEN4CGLw/maxresdefault_live.jpg",
-        "timestamp": 1758546000,
+        "timestamp": null,
         "title": "【DDLC】完全初見！ドキドキ文芸部に入部します！【ホロライブ / AZKi】",
         "video_id": "1CDFEN4CGLw"
     },
@@ -189,29 +180,11 @@
         "video_id": "Fh-tc3vkm44"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/x_ZcHFcylkE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロの花札】#フブポル VSリスナー　どっちが多くリスナーに勝てるかの勝率勝負！！【白上フブキ/尾丸ポルカ/ホロライブ】",
-        "video_id": "x_ZcHFcylkE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SRPb4mbOQ88/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロの花札】#フブポル VSリスナー 10本勝負🎴座員に勝ってフブキにも勝つ！参加型🎴【白上フブキ/尾丸ポルカ/ホロライブ】",
-        "video_id": "SRPb4mbOQ88"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uGNsmDmZziw/maxresdefault_live.jpg",
-        "timestamp": 1758546000,
+        "timestamp": null,
         "title": "【 No, I\u0026#39;m not a Human 】おまえ人間じゃねぇ！化け物だ！！絶対に入れない･･･にぇ！！！【ホロライブ/さくらみこ】",
         "video_id": "uGNsmDmZziw"
     },
@@ -250,5 +223,23 @@
         "timestamp": 1758547800,
         "title": "【 -`🎙 歌枠/Singing 】涼しくなってきたような【 獅子神レオナ/Re:AcT】",
         "video_id": "havsTSjVs30"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Nfl3c0QYmPY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【FANTASY LIFE i: The Girl Who Steals Time】hello, let\u0026#39;s do our regular grind【hololive】",
+        "video_id": "Nfl3c0QYmPY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/euewW5O-3Gs/maxresdefault_live.jpg",
+        "timestamp": 1758628800,
+        "title": "【＃１】SILENT HILL f：ネタバレあり【白上フブキ/ホロライブ】",
+        "video_id": "euewW5O-3Gs"
     }
 ]
