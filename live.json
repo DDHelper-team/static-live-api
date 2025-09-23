@@ -81,24 +81,6 @@
         "video_id": "10WJ3wl1wBU"
     },
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/J64I01tPzkQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#shorts 】ゲリラ配信！少し歌う！はなそ！ #vtuber",
-        "video_id": "J64I01tPzkQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/J64I01tPzkQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#shorts 】ゲリラ配信！少し歌う！はなそ！ #vtuber",
-        "video_id": "J64I01tPzkQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +88,14 @@
         "timestamp": 1758708000,
         "title": "【 UNDERTALE 】10周年記念に「アンダーテール」で遊んでみるのら！！！ 【姫森ルーナ/ホロライブ】",
         "video_id": "onbrKL4G9j0"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/z2MPFnjBV5w/maxresdefault_live.jpg",
+        "timestamp": 1758672000,
+        "title": "Going for a swim with my girlies 💙 | Darkwater",
+        "video_id": "z2MPFnjBV5w"
     }
 ]
