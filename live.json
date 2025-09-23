@@ -18,15 +18,6 @@
         "video_id": "XsfmiJ8PAEE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qsakJuA7zCU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#2【No Sleep For Kaname Date】Time to SEEK A WAY OUT【Pavolia Reine/hololiveID 2ndgen】",
-        "video_id": "qsakJuA7zCU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +88,14 @@
         "timestamp": 1758672000,
         "title": "Going for a swim with my girlies 💙 | Darkwater",
         "video_id": "z2MPFnjBV5w"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1758652152.8152525,
+        "title": "Neuro-sama\u0026#39;s plan to repeatedly dunk on Evil in long drawn out narrative arcs"
     }
 ]
