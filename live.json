@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4dWw6EHi8Cg/maxresdefault_live.jpg",
-        "timestamp": 1758592800,
+        "timestamp": null,
         "title": "#04【UNDERTALE】㊗10周年㊗ Pルート！完全初見！みんな大好きな名作「UNDERTALE」を遊ぶよ～✨【白銀ノエル/ホロライブ】",
         "video_id": "4dWw6EHi8Cg"
     },
@@ -160,5 +160,23 @@
         "timestamp": 1758618000,
         "title": "【雀魂】３週目！ラスト試合予定！1位とりたい！🀄DREAM MATCH 🀄雀魂下剋上リーグ【ホロライブ/アキロゼ】",
         "video_id": "SxSAc2P-t_c"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XsfmiJ8PAEE/maxresdefault_live.jpg",
+        "timestamp": 1758657600,
+        "title": "Welcome to (Not) Heavenly Host 【SILENT HILL f: SPOILERS】",
+        "video_id": "XsfmiJ8PAEE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XsfmiJ8PAEE/maxresdefault_live.jpg",
+        "timestamp": 1758657600,
+        "title": "Welcome to (Not) Heavenly Host 【SILENT HILL f: SPOILERS】",
+        "video_id": "XsfmiJ8PAEE"
     }
 ]
