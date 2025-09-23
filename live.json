@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/euewW5O-3Gs/maxresdefault_live.jpg",
-        "timestamp": 1758628800,
+        "timestamp": null,
         "title": "【＃１】SILENT HILL f：ネタバレあり【白上フブキ/ホロライブ】",
         "video_id": "euewW5O-3Gs"
     },
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yHx9-xigq0o/maxresdefault_live.jpg",
-        "timestamp": 1758628800,
+        "timestamp": null,
         "title": "んなっ！赤たんが産まれたのら～(・o・🍬)【姫森ルーナ/ホロライブ】",
         "video_id": "yHx9-xigq0o"
     },
@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qN1k5nxrwtc/maxresdefault_live.jpg",
-        "timestamp": 1758628800,
+        "timestamp": null,
         "title": "【Waterpark Simulator】まだまだ夏はこれから！最高のプールを運営する！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "qN1k5nxrwtc"
     },
@@ -151,15 +151,6 @@
         "timestamp": null,
         "title": "【Minecraft】配信予定地！#マイクラ肝試し2025 観光したり釣りしたり✨【風真いろは/ホロライブ】",
         "video_id": "ZLxlu3beLwc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pswIMlzprjE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【凶寓 Dread Flats】3日住めば150万貰える、いわく付きのマンション！？【天音かなた/ホロライブ】",
-        "video_id": "pswIMlzprjE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
@@ -200,19 +191,19 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gNVoRqn3pFA/maxresdefault_live.jpg",
-        "timestamp": 1758628800,
+        "timestamp": null,
         "title": "【 同時視聴 】常闇トワ 1stソロライブ \u0026quot;Break your ×××\u0026quot; of ABEMA【常闇トワ/ホロライブ】",
         "video_id": "gNVoRqn3pFA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rAFos7wFojA/maxresdefault_live.jpg",
-        "timestamp": 1758628800,
-        "title": "【】【ホロライブ/大空スバル】",
+        "timestamp": null,
+        "title": "【#生スバル】製品版きたあああああああああああああああ！！！！No, I\u0026#39;m not a Human【ホロライブ/大空スバル】※ネタバレ有",
         "video_id": "rAFos7wFojA"
     },
     {
@@ -236,10 +227,19 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AZFt3vXH89Q/maxresdefault_live.jpg",
-        "timestamp": 1758628800,
-        "title": "【 はいしんよてち！】【ホロライブ/さくらみこ】",
+        "timestamp": null,
+        "title": "【耐久】苦手な神経衰弱３５回勝つまで終われまてん！？！！！！！！！【ホロライブ/さくらみこ】",
         "video_id": "AZFt3vXH89Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PHrZ_dRSy_4/maxresdefault_live.jpg",
+        "timestamp": 1758715200,
+        "title": "【 3D LIVE 】Lapis Lazuli / 重大告知アリ！【 #鷹嶺ルイ重大告知LIVE 】",
+        "video_id": "PHrZ_dRSy_4"
     }
 ]
