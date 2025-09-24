@@ -182,18 +182,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KdsExeawTTs/maxresdefault_live.jpg",
-        "timestamp": 1758720600,
+        "timestamp": null,
         "title": "【歌枠】きっとチルく聴けます♫【緋月ゆい/ネオポルテ】",
         "video_id": "KdsExeawTTs"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KdsExeawTTs/maxresdefault_live.jpg",
-        "timestamp": 1758720600,
+        "timestamp": null,
         "title": "【歌枠】きっとチルく聴けます♫【緋月ゆい/ネオポルテ】",
         "video_id": "KdsExeawTTs"
     },
@@ -304,5 +304,32 @@
         "timestamp": null,
         "title": "【#shorts 】ゲリラ配信！キラキラを届けます✨ #vtuber",
         "video_id": "cvLm3YDtzAk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n376P4wMvag/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】大運動会お疲れンゴ【影山シエン/ホロスターズ】",
+        "video_id": "n376P4wMvag"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7j6V7xwUcBs/maxresdefault_live.jpg",
+        "timestamp": 1758722400,
+        "title": "🍒足の裏筋肉痛 雑談 【 奏手イヅル 】",
+        "video_id": "7j6V7xwUcBs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v4USQPJLHOE/maxresdefault_live.jpg",
+        "timestamp": 1758722400,
+        "title": "【スパチャ読み】2周年でいただいたスパチャを読み読みタイム【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "v4USQPJLHOE"
     }
 ]
