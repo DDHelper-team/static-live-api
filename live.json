@@ -272,19 +272,28 @@
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F-7vG3TpntE/maxresdefault_live.jpg",
-        "timestamp": 1758707100,
+        "timestamp": null,
         "title": "【Whisper of The House】finally we play some chill gameeeeeeeeee",
         "video_id": "F-7vG3TpntE"
     },
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F-7vG3TpntE/maxresdefault_live.jpg",
-        "timestamp": 1758707100,
+        "timestamp": null,
         "title": "【Whisper of The House】finally we play some chill gameeeeeeeeee",
         "video_id": "F-7vG3TpntE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2ST9IavNy84/maxresdefault_live.jpg",
+        "timestamp": 1758718800,
+        "title": "【】【ホロライブ/大空スバル】",
+        "video_id": "2ST9IavNy84"
     }
 ]
