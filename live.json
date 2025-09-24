@@ -261,15 +261,6 @@
         "video_id": "cvLm3YDtzAk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/n376P4wMvag/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】大運動会お疲れンゴ【影山シエン/ホロスターズ】",
-        "video_id": "n376P4wMvag"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -313,5 +304,14 @@
         "timestamp": 1758765600,
         "title": "≪Just Chatting≫ sleepy talks",
         "video_id": "nJQzIBTsiKA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/05LaO1CP11U/maxresdefault_live.jpg",
+        "timestamp": 1758776400,
+        "title": "【Omega Crafter】チル部でお昼からチルをする【夕刻ロベル/ホロスターズ】",
+        "video_id": "05LaO1CP11U"
     }
 ]
