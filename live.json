@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/L6rhLxC480A/maxresdefault_live.jpg",
-        "timestamp": 1758711600,
+        "timestamp": null,
         "title": "【overcooked2】 マシュマロ焼けんのかって聞いてんの!!w/鬼ぴ【アルランディス/ホロスターズ】",
         "video_id": "L6rhLxC480A"
     },
@@ -93,26 +93,26 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nf19JojNrg0/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/kwOAs-PNbjs/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【ゴッデスオーダー】ぺこーら実装!? いきなりホロライブコラボ中のドット絵アクションで遊ぶ！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "nf19JojNrg0"
+        "title": "【魔法少女ノ魔女裁判】少女たちに紛れた「殺人犯の魔女」を処刑するデスゲームやってみる。ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "kwOAs-PNbjs"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d2qgPirWllk/maxresdefault_live.jpg",
-        "timestamp": 1758711600,
+        "timestamp": null,
         "title": "塔羅占卜#112 ｜秋分占卜未來三個月的能量趨勢🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "d2qgPirWllk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d2qgPirWllk/maxresdefault_live.jpg",
-        "timestamp": 1758711600,
+        "timestamp": null,
         "title": "塔羅占卜#112 ｜秋分占卜未來三個月的能量趨勢🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "d2qgPirWllk"
     },
@@ -155,18 +155,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/o8rZAhARXAc/maxresdefault_live.jpg",
-        "timestamp": 1758711600,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025】2年目夏！！夏合宿と甲子園初戦で狙え育成上振れ！！【ホロライブ/宝鐘マリン】",
         "video_id": "o8rZAhARXAc"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_p0828ivKrA/maxresdefault_live.jpg",
-        "timestamp": 1758711600,
+        "timestamp": null,
         "title": "【#OMEN_HyperX_TGS2025】TGS直前の日本HPさんに殴り込みじゃあああああ【百鬼あやめ/常闇トワ/獅白ぼたん/ラプラス・ダークネス/ホロライブ】",
         "video_id": "_p0828ivKrA"
     },
@@ -313,5 +313,14 @@
         "timestamp": 1758718800,
         "title": "【 #みこスバ 】【ホロライブ/さくらみこ】",
         "video_id": "vkBdd6cxqPs"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PgVezEyesmI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 心霊スポットへ！ 】心霊スポット巡礼ツアー！？背後には気を付けて！【 領国つかさ / すぺしゃりて 】",
+        "video_id": "PgVezEyesmI"
     }
 ]
