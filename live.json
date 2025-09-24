@@ -2,10 +2,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/fAMJYt4rN-w/maxresdefault_live.jpg",
-        "timestamp": 1758682800,
-        "title": "【GODDESS ORDER】Launch Party!! Mori and Pekora on a Crazy Adventure?! #calliolive #GoddessOrder",
+        "timestamp": null,
+        "title": "【GODDESS ORDER】Launch Party!! Mori and Pekora on a Crazy Adventure?! #calliolive #GoddessOrder #PR",
         "video_id": "fAMJYt4rN-w"
     },
     {
@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/10WJ3wl1wBU/maxresdefault_live.jpg",
-        "timestamp": 1758682800,
+        "timestamp": null,
         "title": "【ミラー配信】龍が如くスタジオの最新情報が来る…！『RGG SUMMIT 2025』を一緒に見ようぜ【夕刻ロベル/ホロスターズ】",
         "video_id": "10WJ3wl1wBU"
     },
@@ -106,5 +106,41 @@
         "timestamp": 1758726000,
         "title": "#03【 牧場物語 Let\u0026#39;s！風のグランドバザール 】　遂に夏が来るぞ～🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
         "video_id": "tKL_91rb_yA"
+    },
+    {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0a6ojttHXx0/maxresdefault_live.jpg",
+        "timestamp": 1758684600,
+        "title": "【Reel it! Ocean Fishing】no thoughts head empty just feesh",
+        "video_id": "0a6ojttHXx0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0a6ojttHXx0/maxresdefault_live.jpg",
+        "timestamp": 1758684600,
+        "title": "【Reel it! Ocean Fishing】no thoughts head empty just feesh",
+        "video_id": "0a6ojttHXx0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HZHMPVmyEkI/maxresdefault_live.jpg",
+        "timestamp": 1758744000,
+        "title": "Into the Mountains 【SILENT HILL f: SPOILERS】",
+        "video_id": "HZHMPVmyEkI"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HZHMPVmyEkI/maxresdefault_live.jpg",
+        "timestamp": 1758744000,
+        "title": "Into the Mountains 【SILENT HILL f: SPOILERS】",
+        "video_id": "HZHMPVmyEkI"
     }
 ]
