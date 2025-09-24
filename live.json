@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fAMJYt4rN-w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GODDESS ORDER】Launch Party!! Mori and Pekora on a Crazy Adventure?! #calliolive #GoddessOrder #PR",
-        "video_id": "fAMJYt4rN-w"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -29,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jiEewCrZycs/maxresdefault_live.jpg",
-        "timestamp": 1758690000,
+        "timestamp": null,
         "title": "【No, I\u0026#39;m not a Human】人間以外を家に入れてはいけないゲームをやる【夕刻ロベル/ホロスターズ】",
         "video_id": "jiEewCrZycs"
     },
