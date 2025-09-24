@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/onbrKL4G9j0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 UNDERTALE 】10周年記念に「アンダーテール」で遊んでみるのら！！！ 【姫森ルーナ/ホロライブ】",
-        "video_id": "onbrKL4G9j0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "LIVE",
@@ -108,24 +99,6 @@
         "video_id": "5X9XKESKGuc"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uqn-nOZeOBc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【-`🎮 R.E.P.O.】このメンバーでどこまで進めますか！！！【獅子神レオナ/Re:AcT】",
-        "video_id": "uqn-nOZeOBc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uqn-nOZeOBc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【-`🎮 R.E.P.O.】このメンバーでどこまで進めますか！！！【獅子神レオナ/Re:AcT】",
-        "video_id": "uqn-nOZeOBc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -178,5 +151,21 @@
         "timestamp": 1758801600,
         "title": "【#不知火フレア新衣装】ビジュアルメンテから初めての新衣装✨重大告知も！【不知火フレア/ホロライブ】",
         "video_id": "AtlVzviQM0g"
+    },
+    {
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1758737562.01142
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/h_et1JZQyS4/maxresdefault_live.jpg",
+        "timestamp": 1758794400,
+        "title": "【 UNDERTALE 】10周年記念に「アンダーテール」で遊んでみるのら！！！(Pルート) ＃２【姫森ルーナ/ホロライブ】",
+        "video_id": "h_et1JZQyS4"
     }
 ]
