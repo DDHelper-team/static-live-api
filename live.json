@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PHrZ_dRSy_4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 3D LIVE 】Lapis Lazuli / 重大告知アリ！【 #鷹嶺ルイ重大告知LIVE 】",
-        "video_id": "PHrZ_dRSy_4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -209,9 +200,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Jkx5f90icKM/maxresdefault_live.jpg",
-        "timestamp": 1758718800,
+        "timestamp": null,
         "title": "【DDLC】完全初見！ドキドキ文芸部に入部します！#3【ホロライブ / AZKi】",
         "video_id": "Jkx5f90icKM"
     },
@@ -236,10 +227,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2ST9IavNy84/maxresdefault_live.jpg",
-        "timestamp": 1758718800,
-        "title": "【】【ホロライブ/大空スバル】",
+        "timestamp": null,
+        "title": "【#みこスバ】💣２人で爆弾解除するしゅばあああああああああああ！！！！！！：Keep Talking and Nobody Explodes【ホロライブ/大空スバル】",
         "video_id": "2ST9IavNy84"
     },
     {
@@ -254,10 +245,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/vkBdd6cxqPs/maxresdefault_live.jpg",
-        "timestamp": 1758718800,
-        "title": "【 #みこスバ 】【ホロライブ/さくらみこ】",
+        "timestamp": null,
+        "title": "【 #みこスバ 】お互いに爆弾解除⁉💣 みこのいのち、おまえにたくした・・・にぇ！！！！！！Keep Talking and Nobody Explodes【ホロライブ/さくらみこ】",
         "video_id": "vkBdd6cxqPs"
     },
     {
@@ -286,5 +277,32 @@
         "timestamp": 1758722400,
         "title": "【-`🎮 R.E.P.O.】このメンバーでどこまで進めますか！！！【獅子神レオナ/Re:AcT】",
         "video_id": "uqn-nOZeOBc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KAZ_IMvEHgA/maxresdefault_live.jpg",
+        "timestamp": 1758722400,
+        "title": "【FreeTalk】運動会お疲れ様【荒咬オウガ /ホロスターズ】",
+        "video_id": "KAZ_IMvEHgA"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cvLm3YDtzAk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#shorts 】ゲリラ配信！キラキラを届けます✨ #vtuber",
+        "video_id": "cvLm3YDtzAk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cvLm3YDtzAk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#shorts 】ゲリラ配信！キラキラを届けます✨ #vtuber",
+        "video_id": "cvLm3YDtzAk"
     }
 ]
