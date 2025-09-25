@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dHj1VWeDJaM/maxresdefault_live.jpg",
-        "timestamp": 1758794400,
+        "timestamp": null,
         "title": "【#あずのど】トーク＆歌枠！のどかちゃんと最後の3Dコラボ！【ホロライブ / AZKi / 春先のどか】",
         "video_id": "dHj1VWeDJaM"
     },
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/h_et1JZQyS4/maxresdefault_live.jpg",
-        "timestamp": 1758794400,
+        "timestamp": null,
         "title": "【 UNDERTALE 】10周年記念に「アンダーテール」で遊んでみるのら！！！(Pルート) ＃２【姫森ルーナ/ホロライブ】",
         "video_id": "h_et1JZQyS4"
     },
@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9e4VrUtSvMU/maxresdefault_live.jpg",
-        "timestamp": 1758794700,
+        "timestamp": null,
         "title": "【ゴッデスオーダー】 ドット絵がKAWAII新作爽快アクションRPGゴッデスオーダーで遊ぶ！【白上フブキ/ホロライブ】",
         "video_id": "9e4VrUtSvMU"
     },
@@ -115,15 +115,6 @@
         "timestamp": null,
         "title": "【Omega Crafter】久々に3人集まった！w/たそ、ロベルさん【緋月ゆい/ネオポルテ】",
         "video_id": "VHf1GuyyLIE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/swp9Tvfun8M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#02 のんびり牧場生活を始めよう【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
-        "video_id": "swp9Tvfun8M"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -196,5 +187,23 @@
         "timestamp": 1758798000,
         "title": "【Donation Reading】and free talk! 💬",
         "video_id": "23DSPvaEsLs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oAaUBR0FQ-Y/maxresdefault_live.jpg",
+        "timestamp": 1758880800,
+        "title": "※高熱のためおやすみします、ごめんなさい…！【 #ホロライブ甲子園2025 】限界条高校、今度こそ甲子園に行きたいです！！！#7【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "oAaUBR0FQ-Y"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oAaUBR0FQ-Y/maxresdefault_live.jpg",
+        "timestamp": 1758880800,
+        "title": "※高熱のためおやすみします、ごめんなさい…！【 #ホロライブ甲子園2025 】限界条高校、今度こそ甲子園に行きたいです！！！#7【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "oAaUBR0FQ-Y"
     }
 ]
