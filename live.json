@@ -99,15 +99,6 @@
         "video_id": "PT9IB-sfNls"
     },
     {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ijsDKYm0CwY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#天月麻雀 】不知道為何被推坑的麻將？今天應該是日麻復健...【#ゲーム個人勢 / Fingla】",
-        "video_id": "ijsDKYm0CwY"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -209,9 +200,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/q9J8CI_Uh4U/maxresdefault_live.jpg",
-        "timestamp": 1758900600,
+        "timestamp": null,
         "title": "【HoloCure】ガチ恋メンツを増やすぞ👊✨️久々にホロキュア～💕【尾丸ポルカ/ホロライブ】",
         "video_id": "q9J8CI_Uh4U"
     },
@@ -241,5 +232,23 @@
         "timestamp": 1758963600,
         "title": "＃６【LOST JUDGMENT：裁かれざる記憶】初見でいくロストジャッジメント【轟はじめ/ReGLOSS】※ネタバレあり",
         "video_id": "tGq-QJVmGJY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_FNkLJW55FQ/maxresdefault_live.jpg",
+        "timestamp": 1758960000,
+        "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #06【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
+        "video_id": "_FNkLJW55FQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_FNkLJW55FQ/maxresdefault_live.jpg",
+        "timestamp": 1758960000,
+        "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #06【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
+        "video_id": "_FNkLJW55FQ"
     }
 ]
