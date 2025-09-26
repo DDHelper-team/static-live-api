@@ -54,15 +54,6 @@
         "video_id": "Gm0zI6V0AJA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7vv9H6AWD0w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Castlevania: Symphony of the Night】raging over this iconic game, really #calliolive",
-        "video_id": "7vv9H6AWD0w"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "platform": "youtube",
         "status": "LIVE",
@@ -209,9 +200,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5RD_bUWC4Lo/maxresdefault_live.jpg",
-        "timestamp": 1758875400,
+        "timestamp": null,
         "title": "【 雑談-Freetalk- 】お久しぶりに！！　#Towavel を見る会🌈【常闇トワ/ホロライブ】",
         "video_id": "5RD_bUWC4Lo"
     },
@@ -250,5 +241,23 @@
         "timestamp": null,
         "title": "【雑談】秋だ！逃がすな！！【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "nJcGBOMyad8"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E1vdj20LsRQ/maxresdefault_live.jpg",
+        "timestamp": 1758931200,
+        "title": "【SILKSONG】Beastfly rematch time【Dokibird】",
+        "video_id": "E1vdj20LsRQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E1vdj20LsRQ/maxresdefault_live.jpg",
+        "timestamp": 1758931200,
+        "title": "【SILKSONG】Beastfly rematch time【Dokibird】",
+        "video_id": "E1vdj20LsRQ"
     }
 ]
