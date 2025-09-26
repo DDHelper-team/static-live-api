@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kx9k0lq51y4/maxresdefault_live.jpg",
-        "timestamp": 1758848400,
+        "timestamp": null,
         "title": "【Hollow Knight: Silksong】 War Cry GRAAAA | #4",
         "video_id": "kx9k0lq51y4"
     },
@@ -119,18 +119,18 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/L_ZKEo4y6YE/maxresdefault_live.jpg",
-        "timestamp": 1758844800,
+        "timestamp": null,
         "title": "【GIRLS\u0026#39; FRONTLINE 2: EXILIUM】MOAR girls【Dokibird】",
         "video_id": "L_ZKEo4y6YE"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/L_ZKEo4y6YE/maxresdefault_live.jpg",
-        "timestamp": 1758844800,
+        "timestamp": null,
         "title": "【GIRLS\u0026#39; FRONTLINE 2: EXILIUM】MOAR girls【Dokibird】",
         "video_id": "L_ZKEo4y6YE"
     },
@@ -151,5 +151,50 @@
         "timestamp": 1758891600,
         "title": "【 Minecraft 】スロット制作続き！！！- ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
         "video_id": "6d0qJlXHnsw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EhRFuNrmv9o/maxresdefault_live.jpg",
+        "timestamp": 1758884400,
+        "title": "【#夕刻ロベル生誕祭2025】はっぴーばーすでい俺！ぷちお披露目もあったり色々とあるぞ！【夕刻ロベル/ホロスターズ】",
+        "video_id": "EhRFuNrmv9o"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mw7pjRJWwS8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】プラチナを駆け上がれるのか。【緋月ゆい/ネオポルテ】",
+        "video_id": "mw7pjRJWwS8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mw7pjRJWwS8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】プラチナを駆け上がれるのか。【緋月ゆい/ネオポルテ】",
+        "video_id": "mw7pjRJWwS8"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VN270zv9a8s/maxresdefault_live.jpg",
+        "timestamp": 1758934800,
+        "title": "【SILENT HILL F】when they cry in the final field of red higanbana 🐾【SPOILER WARNING｜FUWAMOCO】",
+        "video_id": "VN270zv9a8s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VN270zv9a8s/maxresdefault_live.jpg",
+        "timestamp": 1758934800,
+        "title": "【SILENT HILL F】when they cry in the final field of red higanbana 🐾【SPOILER WARNING｜FUWAMOCO】",
+        "video_id": "VN270zv9a8s"
     }
 ]
