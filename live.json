@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7vv9H6AWD0w/maxresdefault_live.jpg",
-        "timestamp": 1758852000,
+        "timestamp": null,
         "title": "【Castlevania: Symphony of the Night】raging over this iconic game, really #calliolive",
         "video_id": "7vv9H6AWD0w"
     },
@@ -196,5 +196,50 @@
         "timestamp": 1758934800,
         "title": "【SILENT HILL F】when they cry in the final field of red higanbana 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "VN270zv9a8s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PTQyG8uLMSM/maxresdefault_live.jpg",
+        "timestamp": 1758880800,
+        "title": "【 Keep Digging 】おまえらとルンルン穴掘り【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
+        "video_id": "PTQyG8uLMSM"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/x817isnogSQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【HANDCAM】BIBOO LUCK PLS? hololive Official Card Game: ENCHANT REGALIA PACK OPENING",
+        "video_id": "x817isnogSQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/x817isnogSQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【HANDCAM】BIBOO LUCK PLS? hololive Official Card Game: ENCHANT REGALIA PACK OPENING",
+        "video_id": "x817isnogSQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PTQyG8uLMSM/maxresdefault_live.jpg",
+        "timestamp": 1758880800,
+        "title": "【 Keep Digging 】おまえらとルンルン穴掘り【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
+        "video_id": "PTQyG8uLMSM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6_iF7uoBQ2w/maxresdefault_live.jpg",
+        "timestamp": 1758895200,
+        "title": "【 定期雑談 】色々な裏話や秘話をはなしちゃうぞい！みんなと撮った写真もみせる☺ #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
+        "video_id": "6_iF7uoBQ2w"
     }
 ]
