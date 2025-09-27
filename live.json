@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/L9lH7K2kYG8/maxresdefault_live.jpg",
-        "timestamp": 1758934800,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！！！！！ / OHASHUBA！！！FREE TALK【ホロライブ/大空スバル】",
         "video_id": "L9lH7K2kYG8"
     },
@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VN270zv9a8s/maxresdefault_live.jpg",
-        "timestamp": 1758934800,
+        "timestamp": null,
         "title": "【SILENT HILL F】when they cry in the final field of red higanbana 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "VN270zv9a8s"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VN270zv9a8s/maxresdefault_live.jpg",
-        "timestamp": 1758934800,
+        "timestamp": null,
         "title": "【SILENT HILL F】when they cry in the final field of red higanbana 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "VN270zv9a8s"
     },
@@ -83,18 +83,18 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/E1vdj20LsRQ/maxresdefault_live.jpg",
-        "timestamp": 1758931200,
+        "timestamp": null,
         "title": "【SILKSONG】Beastfly rematch time【Dokibird】",
         "video_id": "E1vdj20LsRQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/E1vdj20LsRQ/maxresdefault_live.jpg",
-        "timestamp": 1758931200,
+        "timestamp": null,
         "title": "【SILKSONG】Beastfly rematch time【Dokibird】",
         "video_id": "E1vdj20LsRQ"
     },
@@ -225,15 +225,6 @@
         "video_id": "qvzrpY1FSlk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U5ChVNgq5ig/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】ぐっどもーにんぐ朝活！！【不知火フレア/ホロライブ】",
-        "video_id": "U5ChVNgq5ig"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -259,5 +250,14 @@
         "timestamp": 1758985200,
         "title": "【THE WITCHER 3】wanna play some gwent? #kfp #キアライブ",
         "video_id": "NdHSyORfp0I"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ub9_vBd6N30/maxresdefault_live.jpg",
+        "timestamp": 1759017600,
+        "title": "Meet My Father! | Mr. Ravencroft Debut Q\u0026amp;A",
+        "video_id": "ub9_vBd6N30"
     }
 ]
