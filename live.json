@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LVlTv9KV7tU/maxresdefault_live.jpg",
-        "timestamp": 1758938400,
+        "timestamp": null,
         "title": "【義賊探偵ノスリ】うたわれるものスピンオフ！クリアまで一気にやるよ～～～！！✨【博衣こより/ホロライブ】",
         "video_id": "LVlTv9KV7tU"
     },
@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DP6r8MAvpXs/maxresdefault_live.jpg",
-        "timestamp": 1758938400,
+        "timestamp": null,
         "title": "≪MINECRAFT≫ NEKO ISLAND LETS GO!! #マイクラ肝試し2025",
         "video_id": "DP6r8MAvpXs"
     },
@@ -218,27 +218,27 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qvzrpY1FSlk/maxresdefault_live.jpg",
-        "timestamp": 1758938400,
+        "timestamp": null,
         "title": "【MINECRAFT】Test of Courage in Minecraft? ;o",
         "video_id": "qvzrpY1FSlk"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oLSSy9wpVkA/maxresdefault_live.jpg",
-        "timestamp": 1758938400,
+        "timestamp": null,
         "title": "【MINECRAFT】Minecraft is indeed a horror game... #マイクラ肝試し2025",
         "video_id": "oLSSy9wpVkA"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oLSSy9wpVkA/maxresdefault_live.jpg",
-        "timestamp": 1758938400,
+        "timestamp": null,
         "title": "【MINECRAFT】Minecraft is indeed a horror game... #マイクラ肝試し2025",
         "video_id": "oLSSy9wpVkA"
     },
@@ -259,5 +259,23 @@
         "timestamp": 1759017600,
         "title": "Meet My Father! | Mr. Ravencroft Debut Q\u0026amp;A",
         "video_id": "ub9_vBd6N30"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XNASHfDb-es/maxresdefault_live.jpg",
+        "timestamp": 1758949200,
+        "title": "【おにぎり屋さんシミュレーター】わかった！俺がおにぎりになる【アルランディス/ホロスターズ】",
+        "video_id": "XNASHfDb-es"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uvVMTekKvTw/maxresdefault_live.jpg",
+        "timestamp": 1758970800,
+        "title": "【#マイクラ肝試し2025】今年もやってきた！IRySとお散歩するぞ！【不知火フレア/ホロライブ】",
+        "video_id": "uvVMTekKvTw"
     }
 ]
