@@ -92,18 +92,18 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jYwQv-TColc/maxresdefault_live.jpg",
-        "timestamp": 1758974400,
+        "timestamp": null,
         "title": "【 #リアクト2dayslive歌枠リレー 】最後までいっしょに盛り上がろう🎉\u0026amp;閉会式【 獅子神レオナ/Re:AcT】",
         "video_id": "jYwQv-TColc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jYwQv-TColc/maxresdefault_live.jpg",
-        "timestamp": 1758974400,
+        "timestamp": null,
         "title": "【 #リアクト2dayslive歌枠リレー 】最後までいっしょに盛り上がろう🎉\u0026amp;閉会式【 獅子神レオナ/Re:AcT】",
         "video_id": "jYwQv-TColc"
     },
@@ -273,10 +273,10 @@
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s6tpAMgYvgU/maxresdefault_live.jpg",
-        "timestamp": 1758974400,
-        "title": "【メンバー限定配信】みんなで選んだ映画見ようぜ配信～9月編～【アルランディス/ホロスターズ】",
-        "video_id": "s6tpAMgYvgU"
+        "thumbnail": "https://i.ytimg.com/vi/r-uyECh2_Oo/maxresdefault_live.jpg",
+        "timestamp": 1759032000,
+        "title": "【ホロカ/hololive OCG】カメラ付き！大量のBOX開封で新弾のアキロゼさんデッキをつくりたいんじゃい！【アルランディス/ホロスターズ】",
+        "video_id": "r-uyECh2_Oo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -295,15 +295,6 @@
         "timestamp": null,
         "title": "【SILENT HILL f】First time ever ※Spoilers!",
         "video_id": "6IbCal1-HRI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EWVvtbK56KM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 歌枠】 NO　ARCHIVE 【ホロライブ/ ロボ子さん 】",
-        "video_id": "EWVvtbK56KM"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -326,9 +317,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/05orFhrpri0/maxresdefault_live.jpg",
-        "timestamp": 1758974400,
+        "timestamp": null,
         "title": "【Baby Steps】111歳ニート、頂上への道を歩き始める。2日目ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "05orFhrpri0"
     },
@@ -340,5 +331,32 @@
         "timestamp": 1759021200,
         "title": "【SLEEPING DOGS】Kung Fu Hustle【Dokibird】",
         "video_id": "ufJH1FH0MOs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GXLtw9lav50/maxresdefault_live.jpg",
+        "timestamp": 1759021200,
+        "title": "【AmiAmi】Final WAHmbassadorship Stream!!!!",
+        "video_id": "GXLtw9lav50"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Un01Knc7TOQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【世界樹の迷宮】最終回かもしれない！第5層を踏破する　Part8【岸堂天真/ホロスターズ】",
+        "video_id": "Un01Knc7TOQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/doBN5Q7_CfQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#シエんぼ】ホロスタとあたなるの紫組雑談！【影山シエン/ヨシヅキ参謀】",
+        "video_id": "doBN5Q7_CfQ"
     }
 ]
