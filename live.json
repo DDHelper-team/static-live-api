@@ -191,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8HKBjzRT1Qw/maxresdefault_live.jpg",
-        "timestamp": 1758952800,
+        "timestamp": null,
         "title": "【運命のトリガー∥TGS2025】スペシャルステージだし勝ちたい！w/1tappy,ズズ,ととみっくす【アキロゼ/ホロライブ】",
         "video_id": "8HKBjzRT1Qw"
     },
@@ -295,5 +295,14 @@
         "timestamp": 1758996000,
         "title": "Getting Judged For My Browser History【Hollow Knight: Silksong】",
         "video_id": "ReNPs64EIcI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G7lOu6VJa2Y/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "#13【ELDEN RING NIGHTREIGN】深度４～の地獄編【律可/ホロスターズ 】※ネタばれ注意",
+        "video_id": "G7lOu6VJa2Y"
     }
 ]
