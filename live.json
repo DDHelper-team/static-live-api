@@ -227,9 +227,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XNASHfDb-es/maxresdefault_live.jpg",
-        "timestamp": 1758949200,
+        "timestamp": null,
         "title": "【おにぎり屋さんシミュレーター】わかった！俺がおにぎりになる【アルランディス/ホロスターズ】",
         "video_id": "XNASHfDb-es"
     },
@@ -245,18 +245,18 @@
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FZNOIOYE6Vk/maxresdefault_live.jpg",
-        "timestamp": 1758950100,
+        "timestamp": null,
         "title": "【Witchy Business】i love checking out new indie game ☝️🤓",
         "video_id": "FZNOIOYE6Vk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FZNOIOYE6Vk/maxresdefault_live.jpg",
-        "timestamp": 1758950100,
+        "timestamp": null,
         "title": "【Witchy Business】i love checking out new indie game ☝️🤓",
         "video_id": "FZNOIOYE6Vk"
     },
@@ -268,5 +268,14 @@
         "timestamp": 1758960000,
         "title": "【 みんなのリズム天国 】ハイレベルクリアを目指す！！！【 ホロライブ / 大神ミオ 】",
         "video_id": "wAGzmkzHb-U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GZ6ZESeWnrU/maxresdefault_live.jpg",
+        "timestamp": 1758963600,
+        "title": "【歌枠】休日の夕方にるんるん歌っちゃう🎶【白銀ノエル/ホロライブ】",
+        "video_id": "GZ6ZESeWnrU"
     }
 ]
