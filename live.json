@@ -198,15 +198,6 @@
         "video_id": "ub9_vBd6N30"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XNASHfDb-es/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【おにぎり屋さんシミュレーター】わかった！俺がおにぎりになる【アルランディス/ホロスターズ】",
-        "video_id": "XNASHfDb-es"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -313,5 +304,23 @@
         "timestamp": 1759035600,
         "title": "【#返校 】總得有人得返校，記得教師節放假多麼得來不易【#ゲーム個人勢 / Fingla】",
         "video_id": "1nz6jPLmCPE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L4nGjSiixTE/maxresdefault_live.jpg",
+        "timestamp": 1758970800,
+        "title": "SILENT HILL f｜恐怖？！不存在的！因為我是ＪＫ戰神【Healing希靈/VTuber】",
+        "video_id": "L4nGjSiixTE"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L4nGjSiixTE/maxresdefault_live.jpg",
+        "timestamp": 1758970800,
+        "title": "SILENT HILL f｜恐怖？！不存在的！因為我是ＪＫ戰神【Healing希靈/VTuber】",
+        "video_id": "L4nGjSiixTE"
     }
 ]
