@@ -189,15 +189,6 @@
         "video_id": "uvVMTekKvTw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GZ6ZESeWnrU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】休日の夕方にるんるん歌っちゃう🎶【白銀ノエル/ホロライブ】",
-        "video_id": "GZ6ZESeWnrU"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -313,5 +304,14 @@
         "timestamp": null,
         "title": "【 歌枠】 NO　ARCHIVE 【ホロライブ/ ロボ子さん 】",
         "video_id": "EWVvtbK56KM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/unn-ToRVk0k/maxresdefault_live.jpg",
+        "timestamp": 1758978000,
+        "title": "【逆凸】#miComet アポなし⁉逆凸いきます！！！！！！告知アリ【ホロライブ/さくらみこ/星街すいせい】",
+        "video_id": "unn-ToRVk0k"
     }
 ]
