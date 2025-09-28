@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1nz6jPLmCPE/maxresdefault_live.jpg",
-        "timestamp": 1759033800,
+        "timestamp": null,
         "title": "【#返校 】總得有人得返校，記得教師節放假多麼得來不易【#ゲーム個人勢 / Fingla】",
         "video_id": "1nz6jPLmCPE"
     },
@@ -142,15 +142,6 @@
         "timestamp": null,
         "title": "#16【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
         "video_id": "94q3dHH_eIY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TY9QxsGki_4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロスタEN】Everglow 同時視聴【荒咬オウガ /ホロスターズ】",
-        "video_id": "TY9QxsGki_4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -259,5 +250,23 @@
         "timestamp": 1759064400,
         "title": "【amongus】amongus #calliolive",
         "video_id": "td-n9s8C0cs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/M9S4lwFl0xE/maxresdefault_live.jpg",
+        "timestamp": 1759053600,
+        "title": "【 #ホロライブ甲子園2025】2年目夏！！甲子園2戦目から！！性格ガチャいきます。【ホロライブ/宝鐘マリン】",
+        "video_id": "M9S4lwFl0xE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IgCzJLp2VqQ/maxresdefault_live.jpg",
+        "timestamp": 1759057200,
+        "title": "【ホロライブ縛り歌枠】ソロライブゲスト発表あり！ / SINGING HOLOLIVE SONG!!!【ホロライブ / AZKi】",
+        "video_id": "IgCzJLp2VqQ"
     }
 ]
