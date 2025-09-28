@@ -36,33 +36,6 @@
         "video_id": "B97QLAf50sY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kIsrEx4rJ2A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【70万人記念✨定期雑談】月曜日から長めのお仕事なので振替実施！！✨#8【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "kIsrEx4rJ2A"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kIsrEx4rJ2A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【70万人記念✨定期雑談】月曜日から長めのお仕事なので振替実施！！✨#8【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "kIsrEx4rJ2A"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pzszlW7m4eA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Alien: Isolation | ホラゲ 】エイリアンから逃げて宇宙船を脱出するのらあああ(；o；🍬) ＃２【姫森ルーナ/ホロライブ】",
-        "video_id": "pzszlW7m4eA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "platform": "youtube",
         "status": "LIVE",
@@ -128,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZsKedYIg7RM/maxresdefault_live.jpg",
-        "timestamp": 1759073400,
+        "timestamp": null,
         "title": "風真いろはの #ねるまえらじお 📻❣ おためしチラ見せ👀アーカイブメン限【メンバー限定】",
         "video_id": "ZsKedYIg7RM"
     },
@@ -214,5 +187,23 @@
         "timestamp": 1759158000,
         "title": "ASMR｜睡前輕輕掏耳溫柔安撫心靈幫助放鬆入睡｜Gentle Ear Cleaning Before Bed 💤 ｜就寢前の優しい耳かき💤心を癒してリラックス安眠へ【黑3DIO/KU100】",
         "video_id": "tJiaVchHQXo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kEtDcS6Df60/maxresdefault_live.jpg",
+        "timestamp": 1759096800,
+        "title": "【花岸れいでぃお】第86回！運動会、お、お疲れさまでした・・・!!!【岸堂天真/花咲みやび/ホロスターズ】",
+        "video_id": "kEtDcS6Df60"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G-tTZKWM7Eg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【テスト歌枠】真夜中の滅びのバーストストリーム📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "G-tTZKWM7Eg"
     }
 ]
