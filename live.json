@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1nz6jPLmCPE/maxresdefault_live.jpg",
-        "timestamp": 1759035600,
+        "timestamp": null,
         "title": "【#返校 】總得有人得返校，記得教師節放假多麼得來不易【#ゲーム個人勢 / Fingla】",
         "video_id": "1nz6jPLmCPE"
     },
@@ -268,5 +268,14 @@
         "timestamp": 1759057200,
         "title": "【ホロライブ縛り歌枠】ソロライブゲスト発表あり！ / SINGING HOLOLIVE SONG!!!【ホロライブ / AZKi】",
         "video_id": "IgCzJLp2VqQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9ybSgLgloVs/maxresdefault_live.jpg",
+        "timestamp": 1759104000,
+        "title": "【Cookie Run: Kingdom】 NEW COOKIES YUMMY ✨ #sponsored",
+        "video_id": "9ybSgLgloVs"
     }
 ]
