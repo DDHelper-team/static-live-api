@@ -108,15 +108,6 @@
         "video_id": "UXpT46amTvc"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1759180064.352656,
-        "title": "SLIGHTLY EXPERIMENTAL DEV STREAM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "LIVE",
@@ -124,5 +115,14 @@
         "timestamp": null,
         "title": "【No, I\u0026#39;m not a Human】開けて？？？？？？？？？？？？【白上フブキ/ホロライブ】",
         "video_id": "kL4fqewKFsc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/91kxRXWCV-U/maxresdefault_live.jpg",
+        "timestamp": 1759222800,
+        "title": "【モンハンワイルズ】親の顏より見たオメガに会いに行く。【花咲みやび/ホロスターズ】",
+        "video_id": "91kxRXWCV-U"
     }
 ]
