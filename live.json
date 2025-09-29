@@ -27,15 +27,6 @@
         "video_id": "YcLb5YyEdck"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9ybSgLgloVs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Cookie Run: Kingdom】 NEW COOKIES YUMMY ✨ #sponsored",
-        "video_id": "9ybSgLgloVs"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -155,19 +146,28 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tCVCrEV1Z4o/maxresdefault_live.jpg",
-        "timestamp": 1759115700,
+        "timestamp": null,
         "title": "【CloverPit】been waiting quite long for this one! lets check it~",
         "video_id": "tCVCrEV1Z4o"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tCVCrEV1Z4o/maxresdefault_live.jpg",
-        "timestamp": 1759115700,
+        "timestamp": null,
         "title": "【CloverPit】been waiting quite long for this one! lets check it~",
         "video_id": "tCVCrEV1Z4o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/i9F0HC_n95s/maxresdefault_live.jpg",
+        "timestamp": 1759129200,
+        "title": "【Is This Seat Taken?】Assigning Seats to People Once More【hololive ID 2nd Generation | Anya Melfissa】",
+        "video_id": "i9F0HC_n95s"
     }
 ]
