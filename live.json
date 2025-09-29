@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YcLb5YyEdck/maxresdefault_live.jpg",
-        "timestamp": 1759140000,
+        "timestamp": null,
         "title": "【 SILENT HILL f 】「うるサイレントヒルf」クリアまでいくぞ！！！！！狐面助手くん、こよは抗う！！！ #4 【博衣こより/ホロライブ】※ネタバレを含みます",
         "video_id": "YcLb5YyEdck"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cCWduqAyLig/maxresdefault_live.jpg",
-        "timestamp": 1759140000,
+        "timestamp": null,
         "title": "【 モンハンワイルズ 】HR278！超高難度『零式オメガ』をソロ討伐できるのらか？！？！【姫森ルーナ/ホロライブ】",
         "video_id": "cCWduqAyLig"
     },
@@ -223,5 +223,14 @@
         "timestamp": null,
         "title": "【RATATAN】オトとリズムで戦うゲーム、ラタタン！【岸堂天真/ホロスターズ】",
         "video_id": "txOeFo4vsHE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/F0ELKPbnXNw/maxresdefault_live.jpg",
+        "timestamp": 1759150800,
+        "title": "【 雀魂】練習じゃ～い🀄DREAM MATCH 雀魂下剋上リーグ【ホロライブ/ ロボ子さん】",
+        "video_id": "F0ELKPbnXNw"
     }
 ]
