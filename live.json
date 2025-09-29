@@ -36,24 +36,6 @@
         "video_id": "V6WsKyuSwG8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tJiaVchHQXo/maxresdefault_live.jpg",
-        "timestamp": 1759158000,
-        "title": "ASMR｜睡前輕輕掏耳溫柔安撫心靈幫助放鬆入睡｜Gentle Ear Cleaning Before Bed 💤 ｜就寢前の優しい耳かき💤心を癒してリラックス安眠へ【黑3DIO/KU100】",
-        "video_id": "tJiaVchHQXo"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tJiaVchHQXo/maxresdefault_live.jpg",
-        "timestamp": 1759158000,
-        "title": "ASMR｜睡前輕輕掏耳溫柔安撫心靈幫助放鬆入睡｜Gentle Ear Cleaning Before Bed 💤 ｜就寢前の優しい耳かき💤心を癒してリラックス安眠へ【黑3DIO/KU100】",
-        "video_id": "tJiaVchHQXo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
         "status": "LIVE",
@@ -65,7 +47,7 @@
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "thumbnail": "https://i.ytimg.com/vi/iPBdAsMkWPo/maxresdefault_live.jpg",
         "timestamp": 1759150800,
         "title": "你看過6位數的V皮嗎？ #蔥鴨嘎嘎",
@@ -74,7 +56,7 @@
     {
         "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "thumbnail": "https://i.ytimg.com/vi/iPBdAsMkWPo/maxresdefault_live.jpg",
         "timestamp": 1759150800,
         "title": "你看過6位數的V皮嗎？ #蔥鴨嘎嘎",
@@ -110,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZJ_KJ0loJE8/maxresdefault_live.jpg",
-        "timestamp": 1759150800,
+        "timestamp": null,
         "title": "【Among Us 3D 】飲酒！？あもあす３D #3Dじぐお村　【律可/ホロスターズ 】",
         "video_id": "ZJ_KJ0loJE8"
     },
@@ -171,20 +153,11 @@
         "video_id": "AcuAKHL469M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/txOeFo4vsHE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RATATAN】オトとリズムで戦うゲーム、ラタタン！【岸堂天真/ホロスターズ】",
-        "video_id": "txOeFo4vsHE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F0ELKPbnXNw/maxresdefault_live.jpg",
-        "timestamp": 1759150800,
+        "timestamp": null,
         "title": "【 雀魂】練習じゃ～い🀄DREAM MATCH 雀魂下剋上リーグ【ホロライブ/ ロボ子さん】",
         "video_id": "F0ELKPbnXNw"
     },
@@ -236,10 +209,19 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k15dkO5-9Sg/maxresdefault_live.jpg",
-        "timestamp": 1759150800,
+        "timestamp": null,
         "title": "お掃除するぞ",
         "video_id": "k15dkO5-9Sg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OA1KZaAMFBY/maxresdefault_live.jpg",
+        "timestamp": 1759152000,
+        "title": "【CloverPit】 I HOPE YOUTUBE DOESN\u0026#39;T DEMONETIZE THIS 【Kureiji Ollie】",
+        "video_id": "OA1KZaAMFBY"
     }
 ]
