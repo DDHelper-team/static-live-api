@@ -173,20 +173,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CCySevKbz5E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#返校 】來破另一個結局，從第四章開始【#ゲーム個人勢 / Fingla】",
-        "video_id": "CCySevKbz5E"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QaqIZycy1PI/maxresdefault_live.jpg",
+        "timestamp": 1759143600,
+        "title": "【#cyberpunk2077 】06 把握連假！繼續當街頭小混虎！【#ゲーム個人勢 / Fingla】",
+        "video_id": "QaqIZycy1PI"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CCySevKbz5E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#返校 】來破另一個結局，從第四章開始【#ゲーム個人勢 / Fingla】",
-        "video_id": "CCySevKbz5E"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QaqIZycy1PI/maxresdefault_live.jpg",
+        "timestamp": 1759143600,
+        "title": "【#cyberpunk2077 】06 把握連假！繼續當街頭小混虎！【#ゲーム個人勢 / Fingla】",
+        "video_id": "QaqIZycy1PI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -214,5 +214,14 @@
         "timestamp": 1759147200,
         "title": "【#ホロライブ甲子園2025】桜咲高校２年目夏‼⚾甲子園大会へ挑むにぇ～！！！！！！【ホロライブ/さくらみこ】",
         "video_id": "AcuAKHL469M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/txOeFo4vsHE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【RATATAN】オトとリズムで戦うゲーム、ラタタン！【岸堂天真/ホロスターズ】",
+        "video_id": "txOeFo4vsHE"
     }
 ]
