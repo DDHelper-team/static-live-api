@@ -117,29 +117,11 @@
         "video_id": "GHk0GDxB08k"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uAMDJlgdLdk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SILENT HILL f】It\u0026#39;s ok, the cute girl always survives",
-        "video_id": "uAMDJlgdLdk"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uAMDJlgdLdk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SILENT HILL f】It\u0026#39;s ok, the cute girl always survives",
-        "video_id": "uAMDJlgdLdk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aF4faZy_FO0/maxresdefault_live.jpg",
-        "timestamp": 1759118400,
+        "timestamp": null,
         "title": "【モンスターハンターワイルズ】流石にFF14コラボを堪能しに行く男【夕刻ロベル/ホロスターズ】",
         "video_id": "aF4faZy_FO0"
     },
@@ -178,5 +160,14 @@
         "timestamp": 1759190400,
         "title": "Potentially the end of the bone... | Old School RuneScape",
         "video_id": "e9sGwDFTEJU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZJ_KJ0loJE8/maxresdefault_live.jpg",
+        "timestamp": 1759150800,
+        "title": "【Among Us 3D 】飲酒！？あもあす３D #3Dじぐお村　【律可/ホロスターズ 】",
+        "video_id": "ZJ_KJ0loJE8"
     }
 ]
