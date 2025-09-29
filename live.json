@@ -45,15 +45,6 @@
         "video_id": "e9sGwDFTEJU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZJ_KJ0loJE8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Among Us 3D 】飲酒！？あもあす３D #3Dじぐお村　【律可/ホロスターズ 】",
-        "video_id": "ZJ_KJ0loJE8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
         "status": "LIVE",
@@ -74,11 +65,11 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PCqixk8tkb8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 CloverPit 】遂に出た！！命がけギャンブルゲーの完全版で遊ぶよ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "PCqixk8tkb8"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/87x7LEiTMl0/maxresdefault_live.jpg",
+        "timestamp": 1759230000,
+        "title": "【 nosh 】おいしい宅配弁当をうめうめして食レポに挑戦！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "87x7LEiTMl0"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -92,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PCqixk8tkb8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 CloverPit 】遂に出た！！命がけギャンブルゲーの完全版で遊ぶよ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "PCqixk8tkb8"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/87x7LEiTMl0/maxresdefault_live.jpg",
+        "timestamp": 1759230000,
+        "title": "【 nosh 】おいしい宅配弁当をうめうめして食レポに挑戦！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "87x7LEiTMl0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCetzkIRn7voCG930wFzpvXA",
@@ -124,5 +115,23 @@
         "timestamp": null,
         "title": "【CloverPit】 I HOPE YOUTUBE DOESN\u0026#39;T DEMONETIZE THIS 【Kureiji Ollie】",
         "video_id": "OA1KZaAMFBY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DicGPa0PXVw/maxresdefault_live.jpg",
+        "timestamp": 1759186800,
+        "title": "【SILENT HILL f】SANITY CHECK:",
+        "video_id": "DicGPa0PXVw"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DicGPa0PXVw/maxresdefault_live.jpg",
+        "timestamp": 1759186800,
+        "title": "【SILENT HILL f】SANITY CHECK:",
+        "video_id": "DicGPa0PXVw"
     }
 ]
