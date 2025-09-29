@@ -126,15 +126,6 @@
         "video_id": "aF4faZy_FO0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/i9F0HC_n95s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Is This Seat Taken?】Assigning Seats to People Once More【hololive ID 2nd Generation | Anya Melfissa】",
-        "video_id": "i9F0HC_n95s"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +205,14 @@
         "timestamp": 1759147200,
         "title": "【ゴブリン・ノーム・ホーン】ノーンホームでおうちのないゴブリンの話かと思ったら角がない話でした【アルランディス/ホロスターズ】",
         "video_id": "SeZKuNzy49k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AcuAKHL469M/maxresdefault_live.jpg",
+        "timestamp": 1759147200,
+        "title": "【#ホロライブ甲子園2025】桜咲高校２年目夏‼⚾甲子園大会へ挑むにぇ～！！！！！！【ホロライブ/さくらみこ】",
+        "video_id": "AcuAKHL469M"
     }
 ]
