@@ -180,13 +180,6 @@
         "video_id": "z19_de3HKco"
     },
     {
-        "channel": "https://www.twitch.tv/vedal987",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1759262935.7621891
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -194,5 +187,14 @@
         "timestamp": 1759291200,
         "title": "【CloverPit】Gacha Addict of 10+ Years Wins Big on Stream (REAL NOT CLICKBAIT)【holoID | Anya Melfissa】",
         "video_id": "oE0p0lYJfQs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bwDns4IzXRg/maxresdefault_live.jpg",
+        "timestamp": 1759309200,
+        "title": "【 GTA5 MADTOWN 】この街でやりたいことがある【律可/ホロスターズ 】",
+        "video_id": "bwDns4IzXRg"
     }
 ]
