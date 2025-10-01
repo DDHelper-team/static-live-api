@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kJgs622sztA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#マイクラ肝試し2025】釣り釣り~🎣高得点狙いたいですね✨【風真いろは/ホロライブ】",
-        "video_id": "kJgs622sztA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sTpBRaYHAGk/maxresdefault_live.jpg",
+        "timestamp": 1759402800,
+        "title": "【配信予定地】つぎはココ✨コラボです！【風真いろは/ホロライブ】",
+        "video_id": "sTpBRaYHAGk"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -88,15 +88,6 @@
         "timestamp": 1759330800,
         "title": "【 Minecraft 】スロット制作完成まで！！！- ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
         "video_id": "k3IJPw3lDQU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/89njDwMap8A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【凶寓 / Dread Flats】ししらみは3日住めば150万円もらえる物件に泊まるようです【獅白ぼたん・雪花ラミィ/ホロライブ】",
-        "video_id": "89njDwMap8A"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -225,29 +216,20 @@
         "video_id": "yt_rJmQtdvM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gqug4-sTVoQ/maxresdefault_live.jpg",
-        "timestamp": 1759327200,
-        "title": "【 Membership 】ひみつのおはなし【鷹嶺ルイ/ホロライブ】",
-        "video_id": "gqug4-sTVoQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KkyhuVmNJVI/maxresdefault_live.jpg",
-        "timestamp": 1759327200,
+        "timestamp": null,
         "title": "【スパチャ読み②】2周年でいただいたスパチャを読み読みタイム【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "KkyhuVmNJVI"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KkyhuVmNJVI/maxresdefault_live.jpg",
-        "timestamp": 1759327200,
+        "timestamp": null,
         "title": "【スパチャ読み②】2周年でいただいたスパチャを読み読みタイム【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "KkyhuVmNJVI"
     },
@@ -281,9 +263,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xzMfGfm_w9U/maxresdefault_live.jpg",
-        "timestamp": 1759327200,
+        "timestamp": null,
         "title": "Cleaning Cleaning",
         "video_id": "xzMfGfm_w9U"
     }
