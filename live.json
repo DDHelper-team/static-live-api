@@ -20,18 +20,18 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0L5X0TZYyKw/maxresdefault_live.jpg",
-        "timestamp": 1759352400,
+        "timestamp": null,
         "title": "Fire, Fire, Light the Fire!【Cronos: The New Dawn】",
         "video_id": "0L5X0TZYyKw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0L5X0TZYyKw/maxresdefault_live.jpg",
-        "timestamp": 1759352400,
+        "timestamp": null,
         "title": "Fire, Fire, Light the Fire!【Cronos: The New Dawn】",
         "video_id": "0L5X0TZYyKw"
     },
@@ -146,10 +146,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/fPiYKItxdz8/maxresdefault_live.jpg",
-        "timestamp": 1759352400,
+        "timestamp": null,
         "title": "【朝活ASMR】朝じゃよ～！おはようなのじゃ【タッピング/耳塞ぎ】",
         "video_id": "fPiYKItxdz8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3VLxY9kVrDA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【OHAPOL】#183 10/2木曜日！これは私の推理だが、10月がはじまったのではないか？ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
+        "video_id": "3VLxY9kVrDA"
     }
 ]
