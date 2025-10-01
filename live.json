@@ -18,15 +18,6 @@
         "video_id": "WubP90C6KlY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9O2b2VROFoA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#2】ゼルダの伝説 神々のトライフォース：The Legend of Zelda: A Link to the Past【ホロライブ/大空スバル】",
-        "video_id": "9O2b2VROFoA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -43,15 +34,6 @@
         "timestamp": null,
         "title": "【GTA5 MADTOWN】街に来た　1日目【夕刻ロベル/ホロスターズ】",
         "video_id": "YgJ1AE3tVdg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MaaXS4jfBiE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Prison Escape Simulator: Dig Out 】さて、刑務所からの脱出工事を始めるのらね！！！【姫森ルーナ/ホロライブ】",
-        "video_id": "MaaXS4jfBiE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -93,10 +75,10 @@
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/O9ev5UQr3EU/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/tLgzAG5LlGs/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【GTA5 MADTOWN S2】今日から始まる街暮らし【アルランディス/ホロスターズ】",
-        "video_id": "O9ev5UQr3EU"
+        "title": "【Keep Digging  キープディギング】穴を掘るのはこの男ー!!【アルランディス/ホロスターズ】",
+        "video_id": "tLgzAG5LlGs"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -207,15 +189,6 @@
         "video_id": "tJiaVchHQXo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3kiaS62dJgc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ニコニコさん】都市伝説の笑顔の男からの脱出ー。【ホロライブ/癒月ちょこ】",
-        "video_id": "3kiaS62dJgc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -223,5 +196,14 @@
         "timestamp": null,
         "title": "【おにぎり屋さんシミュレーター】かつて偉いテニスプレイヤーは言いました。お米を食べろと。 / アステル",
         "video_id": "_q2neGr917o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ONzKmsZMr0o/maxresdefault_live.jpg",
+        "timestamp": 1759399200,
+        "title": "【 体験版 】新作「デジモンストーリー タイムストレンジャー」で選ばれし子どもになるのら！！！Digimon Story Time Stranger【姫森ルーナ/ホロライブ】",
+        "video_id": "ONzKmsZMr0o"
     }
 ]
