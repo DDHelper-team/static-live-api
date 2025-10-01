@@ -119,18 +119,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Dm8ze1g8-AA/maxresdefault_live.jpg",
-        "timestamp": 1759359600,
+        "timestamp": null,
         "title": "【SILENT HILL f】WHAT DOES THE FOX SAY?",
         "video_id": "Dm8ze1g8-AA"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Dm8ze1g8-AA/maxresdefault_live.jpg",
-        "timestamp": 1759359600,
+        "timestamp": null,
         "title": "【SILENT HILL f】WHAT DOES THE FOX SAY?",
         "video_id": "Dm8ze1g8-AA"
     },
@@ -142,24 +142,6 @@
         "timestamp": 1759366800,
         "title": "【Superchat Catchup】Oh That\u0026#39;s A Lot",
         "video_id": "AsoM2dXq19c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fPiYKItxdz8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活ASMR】朝じゃよ～！おはようなのじゃ【タッピング/耳塞ぎ】",
-        "video_id": "fPiYKItxdz8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3VLxY9kVrDA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【OHAPOL】#183 10/2木曜日！これは私の推理だが、10月がはじまったのではないか？ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-        "video_id": "3VLxY9kVrDA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -187,5 +169,14 @@
         "timestamp": 1759363200,
         "title": "【Inacademy: Drawing】Full Feeback Stream!!!",
         "video_id": "KRiNBzIrvqU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/360Y9ba70hg/maxresdefault_live.jpg",
+        "timestamp": 1759413600,
+        "title": "#03【 牧場物語 Let\u0026#39;s！風のグランドバザール 】　ちるしに来たのに生きるのに必死🐄✨ ※ネタバレあり【ホロライブ/ロボ子さん】",
+        "video_id": "360Y9ba70hg"
     }
 ]
