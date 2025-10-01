@@ -27,24 +27,6 @@
         "video_id": "k3IJPw3lDQU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YgJ1AE3tVdg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GTA5 MADTOWN】街に来た　1日目【夕刻ロベル/ホロスターズ】",
-        "video_id": "YgJ1AE3tVdg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dz_tFFYTiak/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GTA5│MAD TOWN】ついに上陸！マッドタウンいってみるよ！【アキロゼ/ホロライブ】",
-        "video_id": "dz_tFFYTiak"
-    },
-    {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,10 +74,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gnuHKxe3Ces/maxresdefault_live.jpg",
-        "timestamp": 1759341600,
-        "title": "【HANDCAM】sharpening my knives with an expensive little tool (NOT sponsored)",
+        "timestamp": null,
+        "title": "【HANDCAM】sharpening my knives with an expensive little tool (ASMR)",
         "video_id": "gnuHKxe3Ces"
     },
     {
@@ -106,15 +88,6 @@
         "timestamp": 1759392000,
         "title": "【崩壊：スターレイル】完全初見！推しキャラ見つけたい！【ホロライブ/夏色まつり】",
         "video_id": "nh5u-5FHdOg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/x_otm1of1AA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#MADTOWN 10/01 ゆるっと見て回るやつ【 奏手イヅル 】",
-        "video_id": "x_otm1of1AA"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -187,5 +160,12 @@
         "timestamp": 1759359600,
         "title": "【SILENT HILL f】WHAT DOES THE FOX SAY?",
         "video_id": "Dm8ze1g8-AA"
+    },
+    {
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1759342534.0947342
     }
 ]
