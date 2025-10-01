@@ -144,15 +144,6 @@
         "video_id": "Dm8ze1g8-AA"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1759350396.768878,
-        "title": "EVIL IS DOING KARAOKE!!!!"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -160,5 +151,23 @@
         "timestamp": null,
         "title": "【みんなで推理】みんなで推理inオワ軍【アルランディス/ホロスターズ】",
         "video_id": "Ciq7dqT93aA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AsoM2dXq19c/maxresdefault_live.jpg",
+        "timestamp": 1759366800,
+        "title": "【Superchat Catchup】Oh That\u0026#39;s A Lot",
+        "video_id": "AsoM2dXq19c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fPiYKItxdz8/maxresdefault_live.jpg",
+        "timestamp": 1759352400,
+        "title": "【朝活ASMR】朝じゃよ～！おはようなのじゃ【タッピング/耳塞ぎ】",
+        "video_id": "fPiYKItxdz8"
     }
 ]
