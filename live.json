@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YgJ1AE3tVdg/maxresdefault_live.jpg",
-        "timestamp": 1759309200,
+        "timestamp": null,
         "title": "【GTA5 MADTOWN】街に来た　1日目【夕刻ロベル/ホロスターズ】",
         "video_id": "YgJ1AE3tVdg"
     },
@@ -146,18 +146,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bwDns4IzXRg/maxresdefault_live.jpg",
-        "timestamp": 1759309200,
-        "title": "【 GTA5 MADTOWN 】この街でやりたいことがある【律可/ホロスターズ 】",
+        "timestamp": null,
+        "title": "#MADTOWN【 GTA5 MADTOWN 】この街でやりたいことがある【律可/ホロスターズ 】",
         "video_id": "bwDns4IzXRg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dz_tFFYTiak/maxresdefault_live.jpg",
-        "timestamp": 1759309200,
+        "timestamp": null,
         "title": "【GTA5│MAD TOWN】ついに上陸！マッドタウンいってみるよ！【アキロゼ/ホロライブ】",
         "video_id": "dz_tFFYTiak"
     },
@@ -182,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/O9ev5UQr3EU/maxresdefault_live.jpg",
-        "timestamp": 1759309200,
+        "timestamp": null,
         "title": "【GTA5 MADTOWN S2】今日から始まる街暮らし【アルランディス/ホロスターズ】",
         "video_id": "O9ev5UQr3EU"
     },
@@ -209,9 +209,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FzxLq0cSeSc/maxresdefault_live.jpg",
-        "timestamp": 1759309200,
+        "timestamp": null,
         "title": "【 SILENT HILL f 】「うるサイレントヒルf」全ED回収したい！！！ #5 【博衣こより/ホロライブ】※ネタバレを含みます",
         "video_id": "FzxLq0cSeSc"
     },
@@ -232,5 +232,14 @@
         "timestamp": 1759323600,
         "title": "【メン限】月イチみんなとまったり雑談！10月ここだけの話！【ホロライブ / AZKi】",
         "video_id": "B2fnI1VDVIM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iWzS9GKzG3k/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 TCG Card Shop Simulator 】初日から大儲けで笑い止まらん侍になる！ｗ【 桃鈴ねね / hololive 】",
+        "video_id": "iWzS9GKzG3k"
     }
 ]
