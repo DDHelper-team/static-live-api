@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0zc0-QYwlmQ/maxresdefault_live.jpg",
-        "timestamp": 1759318200,
+        "timestamp": null,
         "title": "10月SC點心抽獎｜中秋月餅❤️茉莉奶綠廣式月餅、玫瑰蜜酥、柚子香檸酥【Healing希靈/VTuber】",
         "video_id": "0zc0-QYwlmQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0zc0-QYwlmQ/maxresdefault_live.jpg",
-        "timestamp": 1759318200,
+        "timestamp": null,
         "title": "10月SC點心抽獎｜中秋月餅❤️茉莉奶綠廣式月餅、玫瑰蜜酥、柚子香檸酥【Healing希靈/VTuber】",
         "video_id": "0zc0-QYwlmQ"
     },
@@ -295,5 +295,14 @@
         "timestamp": 1759323600,
         "title": "【ストリートファイター6】タイガーマリーザ【荒咬オウガ /ホロスターズ】",
         "video_id": "yt_rJmQtdvM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gqug4-sTVoQ/maxresdefault_live.jpg",
+        "timestamp": 1759327200,
+        "title": "【 Membership 】ひみつのおはなし【鷹嶺ルイ/ホロライブ】",
+        "video_id": "gqug4-sTVoQ"
     }
 ]
