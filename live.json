@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/D9ff2vAAMO8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Movie Watchalong】 War of the Worlds (2025) Watchalong With @holoen_raorapanthera",
-        "video_id": "D9ff2vAAMO8"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -56,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HFJ8526th18/maxresdefault_live.jpg",
-        "timestamp": 1759291200,
+        "timestamp": null,
         "title": "SILENT HILL f｜午餐開心台 打打怪吃個午餐【Healing希靈/VTuber】",
         "video_id": "HFJ8526th18"
     },
@@ -164,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oE0p0lYJfQs/maxresdefault_live.jpg",
-        "timestamp": 1759291200,
+        "timestamp": null,
         "title": "【CloverPit】Gacha Addict of 10+ Years Wins Big on Stream (REAL NOT CLICKBAIT)【holoID | Anya Melfissa】",
         "video_id": "oE0p0lYJfQs"
     },
@@ -223,5 +214,41 @@
         "timestamp": 1759294800,
         "title": "【Clover Pits】My Luck = 0",
         "video_id": "zQAqbAFjEB0"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0L5X0TZYyKw/maxresdefault_live.jpg",
+        "timestamp": 1759352400,
+        "title": "Fire, Fire, Light the Fire!【Cronos: The New Dawn】",
+        "video_id": "0L5X0TZYyKw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0L5X0TZYyKw/maxresdefault_live.jpg",
+        "timestamp": 1759352400,
+        "title": "Fire, Fire, Light the Fire!【Cronos: The New Dawn】",
+        "video_id": "0L5X0TZYyKw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O9ev5UQr3EU/maxresdefault_live.jpg",
+        "timestamp": 1759309200,
+        "title": "【GTA5 MADTOWN S2】今日から始まる街暮らし【アルランディス/ホロスターズ】",
+        "video_id": "O9ev5UQr3EU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kyAHxboZQDY/maxresdefault_live.jpg",
+        "timestamp": 1759312800,
+        "title": "【CloverPit】命懸けのスロットで大儲けして生き残りたい！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "kyAHxboZQDY"
     }
 ]
