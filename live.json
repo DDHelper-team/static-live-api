@@ -21,8 +21,8 @@
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EZV5mIuQkiY/hqdefault_live.jpg",
-        "timestamp": 1759387302.9422827,
+        "thumbnail": "https://i.ytimg.com/vi/EZV5mIuQkiY/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【ELDEN RING】brother lover killer, mori calliope (final) #calliolive",
         "video_id": "EZV5mIuQkiY"
     },
@@ -93,8 +93,8 @@
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AsoM2dXq19c/hqdefault_live.jpg",
-        "timestamp": 1759387308.6151881,
+        "thumbnail": "https://i.ytimg.com/vi/AsoM2dXq19c/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【Superchat Catchup】Oh That\u0026#39;s A Lot",
         "video_id": "AsoM2dXq19c"
     },
@@ -254,9 +254,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xbJ8tbA_Phw/hqdefault_live.jpg",
-        "timestamp": 1720249200,
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/xbJ8tbA_Phw/maxresdefault_live.jpg",
+        "timestamp": 1720278000,
         "title": "ねっ子控室-Free chat-",
         "video_id": "xbJ8tbA_Phw"
     },
@@ -272,9 +272,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VfOmAbSU4R0/hqdefault_live.jpg",
-        "timestamp": 1677222000,
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/VfOmAbSU4R0/maxresdefault_live.jpg",
+        "timestamp": 1677250800,
         "title": "【フリーチャット(Freechat)】部下達のアジト、概要が書いてる場所【影山シエン/ホロスターズ】",
         "video_id": "VfOmAbSU4R0"
     },
@@ -290,11 +290,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U76vp6NjWjQ/hqdefault.jpg",
-        "timestamp": 1759338000,
-        "title": "≪Bae Bash: The Chaos Collection≫ insert spiderman meme #4wardwithBae",
-        "video_id": "U76vp6NjWjQ"
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/197OEpjj8RI/maxresdefault_live.jpg",
+        "timestamp": 1819720800,
+        "title": "≪FREE CHAT/VSPACER CHAT≫ WAZZUP!",
+        "video_id": "197OEpjj8RI"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -308,11 +308,8 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HSvJ9Jha4xM/hqdefault.jpg",
-        "timestamp": 1759346100,
-        "title": "【誰が勇者を育てたか】謎の育成×スロットゲームを初めて見る【岸堂天真/ホロスターズ】",
-        "video_id": "HSvJ9Jha4xM"
+        "status": null,
+        "timestamp": null
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -335,9 +332,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-tMd6H-IxcA/hqdefault_live.jpg",
-        "timestamp": 1680332100,
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/-tMd6H-IxcA/maxresdefault_live.jpg",
+        "timestamp": 1680360900,
         "title": "フリーチャット",
         "video_id": "-tMd6H-IxcA"
     },
@@ -394,5 +391,14 @@
         "timestamp": 1807772340,
         "title": "フリーチャット◆FreeChat",
         "video_id": "4aEVLYEyDvg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vt1_0fovCCI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#03 のんびり牧場生活を始めよう【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
+        "video_id": "vt1_0fovCCI"
     }
 ]
