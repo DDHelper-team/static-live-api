@@ -36,24 +36,6 @@
         "video_id": "Q4xV4HehxX4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yrzq-wAT7Jw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GTA5 MADTOWN】スーパー店員の男　2日目【夕刻ロベル/ホロスターズ】",
-        "video_id": "yrzq-wAT7Jw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hpXrbdcuMTk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GTA5 MADTOWN S2】今日も気合い入れてプール清掃していくんでヨロシクｩ!!【アルランディス/ホロスターズ】",
-        "video_id": "hpXrbdcuMTk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -81,42 +63,6 @@
         "video_id": "k8mKv03tFgs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jITpevpR5hE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GTA5│MAD TOWN】卍お金稼いだりの珍道中卍【アキロゼ/ホロライブ】",
-        "video_id": "jITpevpR5hE"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JMfvEZuD8Zw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 CloverPit 】ドハマりのギャンブルゲーやっていくよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "JMfvEZuD8Zw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JMfvEZuD8Zw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 CloverPit 】ドハマりのギャンブルゲーやっていくよん【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "JMfvEZuD8Zw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5x8-h4rqV4w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#MADTOWN 10/02 チルくスーパー店員【 奏手イヅル 】",
-        "video_id": "5x8-h4rqV4w"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +88,13 @@
         "timestamp": 1759482000,
         "title": "【歌枠】お久しぶりに歌います！告知もあります！【 ホロライブ / 大神ミオ 】",
         "video_id": "1yfF2u7osas"
+    },
+    {
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1759429602.2307038,
+        "title": "super evil stream (very evil)"
     }
 ]
