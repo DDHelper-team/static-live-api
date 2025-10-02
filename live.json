@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JePEmaYUAPo/maxresdefault_live.jpg",
-        "timestamp": 1759410000,
-        "title": "【】【ホロライブ/大空スバル】",
+        "timestamp": null,
+        "title": "【#生スバル】🍔 デスバーガー ：DEATH BURGER🍔【ホロライブ/大空スバル】",
         "video_id": "JePEmaYUAPo"
     },
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/03NZzrVR7tk/maxresdefault_live.jpg",
-        "timestamp": 1759410000,
+        "timestamp": null,
         "title": "【GeoGuessr】ジモゲッサー！リオナちゃんと一緒に高知をGUESS！【ホロライブ / AZKi / 響咲リオナ】",
         "video_id": "03NZzrVR7tk"
     },
@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/a4GW_BAr_pE/maxresdefault_live.jpg",
-        "timestamp": 1759410000,
+        "timestamp": null,
         "title": "【Megabonk】3Dヴァンサバと噂のゲームやってみる！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "a4GW_BAr_pE"
     },
@@ -250,5 +250,32 @@
         "timestamp": 1759410000,
         "title": "【 -`🎙 歌枠/Singing 】ライブまであと少し・・・！？【 獅子神レオナ/Re:AcT】",
         "video_id": "_23Dcdv_pbw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0VD4fKHhQJA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【あおげ！焼きさんま】この時間に七輪でさんまを焼く【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "0VD4fKHhQJA"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0VD4fKHhQJA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【あおげ！焼きさんま】この時間に七輪でさんまを焼く【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "0VD4fKHhQJA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fIhrp5CN0WQ/maxresdefault_live.jpg",
+        "timestamp": 1759417200,
+        "title": "【歌枠 / karaoke】うおｗ / アステル",
+        "video_id": "fIhrp5CN0WQ"
     }
 ]
