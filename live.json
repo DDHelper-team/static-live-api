@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nh5u-5FHdOg/maxresdefault_live.jpg",
-        "timestamp": 1759392000,
+        "timestamp": null,
         "title": "【崩壊：スターレイル】完全初見！推しキャラ見つけたい！【ホロライブ/夏色まつり】",
         "video_id": "nh5u-5FHdOg"
     },
@@ -153,15 +153,6 @@
         "video_id": "TOoQJYPJoqw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fIhrp5CN0WQ/maxresdefault_live.jpg",
-        "timestamp": 1759392000,
-        "title": "【歌枠 / karaoke】うおｗ / アステル",
-        "video_id": "fIhrp5CN0WQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
         "status": "LIVE",
@@ -214,5 +205,32 @@
         "timestamp": null,
         "title": "【牧場物語 Let\u0026#39;s！風のグランドバザール】#03 のんびり牧場生活を始めよう【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
         "video_id": "vt1_0fovCCI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k8mKv03tFgs/maxresdefault_live.jpg",
+        "timestamp": 1759465800,
+        "title": "【METAL GEAR SOLID Δ: SNAKE EATER】one last sneak (part 2 of 2) #calliolive",
+        "video_id": "k8mKv03tFgs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/H86CewhP7Fc/maxresdefault_live.jpg",
+        "timestamp": 1759402800,
+        "title": "【Minecraft】#マイクラ肝試し2025  過去マップ散策の旅！【白上フブキ/尾丸ポルカ/風真いろは/ホロライブ】",
+        "video_id": "H86CewhP7Fc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DHsN2rHxcLA/maxresdefault_live.jpg",
+        "timestamp": 1759402800,
+        "title": "きょうは　ころねの　おたんじょうび（異変）",
+        "video_id": "DHsN2rHxcLA"
     }
 ]
