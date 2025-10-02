@@ -95,7 +95,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1759430260.447792,
+        "timestamp": 1759430917.8888896,
         "title": "super evil stream (very evil)"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ikSFSQkmspw/maxresdefault_live.jpg",
+        "timestamp": 1759460400,
+        "title": "【SEKIRO: SHADOWS DIE TWICE】That Monkey is MINE TO SLAY",
+        "video_id": "ikSFSQkmspw"
     }
 ]
