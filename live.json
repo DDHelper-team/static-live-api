@@ -108,20 +108,11 @@
         "video_id": "360Y9ba70hg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jITpevpR5hE/maxresdefault_live.jpg",
-        "timestamp": 1759395600,
-        "title": "【GTA5│MAD TOWN】卍お金稼いだりの珍道中卍【アキロゼ/ホロライブ】",
-        "video_id": "jITpevpR5hE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yrzq-wAT7Jw/maxresdefault_live.jpg",
-        "timestamp": 1759395600,
+        "timestamp": null,
         "title": "【GTA5 MADTOWN】スーパー店員の男　2日目【夕刻ロベル/ホロスターズ】",
         "video_id": "yrzq-wAT7Jw"
     },
@@ -137,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hpXrbdcuMTk/maxresdefault_live.jpg",
-        "timestamp": 1759395600,
+        "timestamp": null,
         "title": "【GTA5 MADTOWN S2】今日も気合い入れてプール清掃していくんでヨロシクｩ!!【アルランディス/ホロスターズ】",
         "video_id": "hpXrbdcuMTk"
     },
@@ -232,5 +223,14 @@
         "timestamp": 1759402800,
         "title": "きょうは　ころねの　おたんじょうび（異変）",
         "video_id": "DHsN2rHxcLA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8SnLvWQZVyc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 TCG Card Shop Simulator 】2日目！とりあえず１００万こーーい！‼！【 桃鈴ねね / hololive 】",
+        "video_id": "8SnLvWQZVyc"
     }
 ]
