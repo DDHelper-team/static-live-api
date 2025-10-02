@@ -86,7 +86,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1759433547.3024778,
+        "timestamp": 1759434205.197395,
         "title": "super evil stream (very evil)"
     },
     {
@@ -97,5 +97,14 @@
         "timestamp": 1759460400,
         "title": "【SEKIRO: SHADOWS DIE TWICE】That Monkey is MINE TO SLAY",
         "video_id": "ikSFSQkmspw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/15_uQvAkBVA/maxresdefault_live.jpg",
+        "timestamp": 1759496400,
+        "title": "【GTA5│MAD TOWN】ほしい車と兼業シスター珍道中【アキロゼ/ホロライブ】",
+        "video_id": "15_uQvAkBVA"
     }
 ]
