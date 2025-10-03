@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NcJWoCM-lk4/maxresdefault_live.jpg",
-        "timestamp": 1759462200,
+        "timestamp": null,
         "title": "【Waterpark Simulator】The Safest Waterpark to Ever Exist【hololive ID | Anya Melfissa】",
         "video_id": "NcJWoCM-lk4"
     },
@@ -160,5 +160,14 @@
         "timestamp": 1759464000,
         "title": "【Easy Delivery Co.】winter roads take me home~",
         "video_id": "kjhSqt_rgGU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/e4ZPKibb-bY/maxresdefault_live.jpg",
+        "timestamp": 1759482000,
+        "title": "【hololive OCG】新弾ホロカ開封12BOX！サイン引きたい～～～！エンチャントレガリア【尾丸ポルカ/ホロライブ】",
+        "video_id": "e4ZPKibb-bY"
     }
 ]
