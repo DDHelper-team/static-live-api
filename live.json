@@ -209,18 +209,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6QPAUY6DLr0/maxresdefault_live.jpg",
-        "timestamp": 1759471252,
+        "timestamp": null,
         "title": "【アイドルと〇〇しちゃダメですか？】アイドルのマネージャーになりました🎤【緋月ゆい/ネオポルテ】",
         "video_id": "6QPAUY6DLr0"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6QPAUY6DLr0/maxresdefault_live.jpg",
-        "timestamp": 1759471252,
+        "timestamp": null,
         "title": "【アイドルと〇〇しちゃダメですか？】アイドルのマネージャーになりました🎤【緋月ゆい/ネオポルテ】",
         "video_id": "6QPAUY6DLr0"
     },
@@ -259,5 +259,14 @@
         "timestamp": 1759514400,
         "title": "Deliver Us From Sin【Cronos: The New Dawn】",
         "video_id": "o38IniunNFM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FjrSl8hoUXk/maxresdefault_live.jpg",
+        "timestamp": 1759557600,
+        "title": "【崩壊：スターレイル】完全初見！パーティー見直したり～！【ホロライブ/夏色まつり】",
+        "video_id": "FjrSl8hoUXk"
     }
 ]
