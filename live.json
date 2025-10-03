@@ -227,9 +227,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3BzOg6M4r68/maxresdefault_live.jpg",
-        "timestamp": 1759496400,
+        "timestamp": null,
         "title": "【SILENT HILL f】Silent Hill, Japan (SPOILER WARNING)【Pavolia Reine/hololiveID 2ndgen】",
         "video_id": "3BzOg6M4r68"
     },
@@ -272,10 +272,46 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MBv4hhMiBPw/maxresdefault_live.jpg",
-        "timestamp": 1759496400,
+        "timestamp": null,
         "title": "【GTA5 MADTOWN】スーパー店員の男　3日目【夕刻ロベル/ホロスターズ】",
         "video_id": "MBv4hhMiBPw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UDSeWiouZ5A/maxresdefault_live.jpg",
+        "timestamp": 1759500000,
+        "title": "【SILENT HILL f】#2  Midnight comedy ※Spoilers!",
+        "video_id": "UDSeWiouZ5A"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UDSeWiouZ5A/maxresdefault_live.jpg",
+        "timestamp": 1759500000,
+        "title": "【SILENT HILL f】#2  Midnight comedy ※Spoilers!",
+        "video_id": "UDSeWiouZ5A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8ZMd24aUOzw/maxresdefault_live.jpg",
+        "timestamp": 1759575600,
+        "title": "Let\u0026#39;s Race to Victory! Sonic Racing: CrossWorlds SEA Grand Prix Tournament",
+        "video_id": "8ZMd24aUOzw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7a67DIkBg1c/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ゴブリン・ノーム・ホーン 】エモノ発見！ｲｸｿﾞｰ！【影山シエン/ホロスターズ】",
+        "video_id": "7a67DIkBg1c"
     }
 ]
