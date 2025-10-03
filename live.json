@@ -216,15 +216,6 @@
         "video_id": "flHk99rORj0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AYDgLQKxSF4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 あつまれ どうぶつの森 】 自分自身を寝かしつける森【 奏手イヅル / ホロスターズ 】",
-        "video_id": "AYDgLQKxSF4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -259,5 +250,23 @@
         "timestamp": 1759590000,
         "title": "【THE WITCHER 3】gwentbrainrot #kfp #キアライブ",
         "video_id": "U_b97wu2Ou8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UOrINdIpCUU/maxresdefault_live.jpg",
+        "timestamp": 1759564800,
+        "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #08【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
+        "video_id": "UOrINdIpCUU"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UOrINdIpCUU/maxresdefault_live.jpg",
+        "timestamp": 1759564800,
+        "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #08【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
+        "video_id": "UOrINdIpCUU"
     }
 ]
