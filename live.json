@@ -137,27 +137,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9KK9y69mwqM/maxresdefault_live.jpg",
-        "timestamp": 1759464000,
+        "timestamp": null,
         "title": "【Whisper of The House】Cozy Gaming Time, Have a Nice Lunch! 【 iofi / hololiveID 】",
         "video_id": "9KK9y69mwqM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kjhSqt_rgGU/maxresdefault_live.jpg",
-        "timestamp": 1759464000,
+        "timestamp": null,
         "title": "【Easy Delivery Co.】winter roads take me home~",
         "video_id": "kjhSqt_rgGU"
     },
     {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kjhSqt_rgGU/maxresdefault_live.jpg",
-        "timestamp": 1759464000,
+        "timestamp": null,
         "title": "【Easy Delivery Co.】winter roads take me home~",
         "video_id": "kjhSqt_rgGU"
     },
@@ -169,5 +169,32 @@
         "timestamp": 1759482000,
         "title": "【hololive OCG】新弾ホロカ開封12BOX！サイン引きたい～～～！エンチャントレガリア【尾丸ポルカ/ホロライブ】",
         "video_id": "e4ZPKibb-bY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7c5Id8Z8KAY/maxresdefault_live.jpg",
+        "timestamp": 1759539600,
+        "title": "【SILKSONG】Let\u0026#39;s try and get to Act 3【Dokibird】",
+        "video_id": "7c5Id8Z8KAY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7c5Id8Z8KAY/maxresdefault_live.jpg",
+        "timestamp": 1759539600,
+        "title": "【SILKSONG】Let\u0026#39;s try and get to Act 3【Dokibird】",
+        "video_id": "7c5Id8Z8KAY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1gLXB8LxA3w/maxresdefault_live.jpg",
+        "timestamp": 1759465800,
+        "title": "【ツイステ】第7章 part4「深淵の支配者」初めてのディズニーツイステッドワンダーランド!!【花咲みやび/ホロスターズ】",
+        "video_id": "1gLXB8LxA3w"
     }
 ]
