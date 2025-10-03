@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/f5YRB_2Du5I/maxresdefault_live.jpg",
-        "timestamp": 1759471200,
-        "title": "【 CloverPit 】負けたらさっきの倍かけて勝てばいい。【ホロライブ/夏色まつり】",
-        "video_id": "f5YRB_2Du5I"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -198,15 +189,6 @@
         "video_id": "1gLXB8LxA3w"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cSWXbT9QUWc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BABY STEPS】がんばれ、１歩踏み出すんだ！【岸堂天真/ホロスターズ】",
-        "video_id": "cSWXbT9QUWc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -241,5 +223,23 @@
         "timestamp": 1759471252,
         "title": "【アイドルと〇〇しちゃダメですか？】アイドルのマネージャーになりました🎤【緋月ゆい/ネオポルテ】",
         "video_id": "6QPAUY6DLr0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wEcFQ-9SQDo/maxresdefault_live.jpg",
+        "timestamp": 1759485600,
+        "title": "【ホロライブ オフィシャルカードゲーム】ホロカ開封【荒咬オウガ /ホロスターズ】",
+        "video_id": "wEcFQ-9SQDo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4Fv3Uj_F3rs/maxresdefault_live.jpg",
+        "timestamp": 1759539600,
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "4Fv3Uj_F3rs"
     }
 ]
