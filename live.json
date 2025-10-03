@@ -137,11 +137,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wuJ2PjRdO2E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 定期雑談 】10月最初の定期雑談！！！ #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
-        "video_id": "wuJ2PjRdO2E"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RMP4WkjY7Y8/maxresdefault_live.jpg",
+        "timestamp": 1759546800,
+        "title": "【 龍が如く0 】いざ蒼天堀へ。：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+        "video_id": "RMP4WkjY7Y8"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -178,15 +178,6 @@
         "timestamp": 1759550408,
         "title": "【ペルソナ３ リロード】#1 | 完全初見！ペルソナッ！！！カッ！！！【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "mV5GfnDncGY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3BzOg6M4r68/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SILENT HILL f】Silent Hill, Japan (SPOILER WARNING)【Pavolia Reine/hololiveID 2ndgen】",
-        "video_id": "3BzOg6M4r68"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -286,5 +277,14 @@
         "timestamp": 1759550400,
         "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
         "video_id": "_r-2oGZ72mI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/itcgmb8pP5M/maxresdefault_live.jpg",
+        "timestamp": 1759539600,
+        "title": "【デジモンストーリー タイムストレンジャー】⚠ネタバレ注意⚠ 今プレイ時間１０時間くらいなんですけど、まだ序盤ってマジですか？ / アステル",
+        "video_id": "itcgmb8pP5M"
     }
 ]
