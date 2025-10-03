@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1yfF2u7osas/maxresdefault_live.jpg",
-        "timestamp": 1759482000,
+        "timestamp": null,
         "title": "【歌枠】お久しぶりに歌います！告知もあります！【 ホロライブ / 大神ミオ 】",
         "video_id": "1yfF2u7osas"
     },
@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/e4ZPKibb-bY/maxresdefault_live.jpg",
-        "timestamp": 1759482000,
+        "timestamp": null,
         "title": "【hololive OCG】新弾ホロカ開封12BOX！サイン引きたい～～～！エンチャントレガリア【尾丸ポルカ/ホロライブ】",
         "video_id": "e4ZPKibb-bY"
     },
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/slTf9BG1RcM/maxresdefault_live.jpg",
-        "timestamp": 1759482000,
+        "timestamp": null,
         "title": "【GTA5 #MADTOWN S2】速い車！でかい車！何よりお金！！【アルランディス/ホロスターズ】",
         "video_id": "slTf9BG1RcM"
     },
@@ -207,15 +207,6 @@
         "video_id": "MDwkJVqui_M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5Zi2RHGCH_w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 TCG Card Shop Simulator 】3日目！欲が止まらないカドショ店長ねね【 桃鈴ねね / hololive 】",
-        "video_id": "5Zi2RHGCH_w"
-    },
-    {
         "channel": "https://www.youtube.com/@KaelaKovalskia",
         "platform": "youtube",
         "status": "LIVE",
@@ -241,5 +232,41 @@
         "timestamp": 1759489200,
         "title": "#MADTOWN【 GTA5 MADTOWN 】Ritunes music barの日常2話目【律可/ホロスターズ 】",
         "video_id": "-kPmNasvK7g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wuJ2PjRdO2E/maxresdefault_live.jpg",
+        "timestamp": 1759500000,
+        "title": "【 定期雑談 】10月最初の定期雑談！！！ #もう金ルイ 【鷹嶺ルイ/ホロライブ】",
+        "video_id": "wuJ2PjRdO2E"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gEvluCmUyVE/maxresdefault_live.jpg",
+        "timestamp": 1759568400,
+        "title": "＃７【LOST JUDGMENT：DLC】海藤正治の事件簿を初見プレイ！【轟はじめ/ReGLOSS】※ネタバレあり",
+        "video_id": "gEvluCmUyVE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gEvluCmUyVE/maxresdefault_live.jpg",
+        "timestamp": 1759568400,
+        "title": "＃７【LOST JUDGMENT：DLC】海藤正治の事件簿を初見プレイ！【轟はじめ/ReGLOSS】※ネタバレあり",
+        "video_id": "gEvluCmUyVE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yE07UgK5Aqg/maxresdefault_live.jpg",
+        "timestamp": 1759485600,
+        "title": "【次回ライブも決定！】ときのそら 8th Anniversary Party「Starry Bl∞min\u0026#39;」感想会！【ときのそら/ホロライブ】",
+        "video_id": "yE07UgK5Aqg"
     }
 ]
