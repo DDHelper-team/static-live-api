@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k8mKv03tFgs/maxresdefault_live.jpg",
-        "timestamp": 1759465800,
+        "timestamp": null,
         "title": "【METAL GEAR SOLID Δ: SNAKE EATER】one last sneak (part 2 of 2) #calliolive",
         "video_id": "k8mKv03tFgs"
     },
@@ -196,5 +196,23 @@
         "timestamp": 1759465800,
         "title": "【ツイステ】第7章 part4「深淵の支配者」初めてのディズニーツイステッドワンダーランド!!【花咲みやび/ホロスターズ】",
         "video_id": "1gLXB8LxA3w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cSWXbT9QUWc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【BABY STEPS】がんばれ、１歩踏み出すんだ！【岸堂天真/ホロスターズ】",
+        "video_id": "cSWXbT9QUWc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/slTf9BG1RcM/maxresdefault_live.jpg",
+        "timestamp": 1759482000,
+        "title": "【GTA5 #MADTOWN S2】速い車！でかい車！何よりお金！！【アルランディス/ホロスターズ】",
+        "video_id": "slTf9BG1RcM"
     }
 ]
