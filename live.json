@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QnTGmprNbJo/maxresdefault_live.jpg",
-        "timestamp": 1759485600,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025 】みんなでBBQ（ベースボールクイズ）で遊ぼう！⚾✨【さくらみこ・宝鐘マリン・一条莉々華・博衣こより/ホロライブ】",
         "video_id": "QnTGmprNbJo"
     },
@@ -36,22 +36,13 @@
         "video_id": "k8mKv03tFgs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1yfF2u7osas/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】お久しぶりに歌います！告知もあります！【 ホロライブ / 大神ミオ 】",
-        "video_id": "1yfF2u7osas"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ikSFSQkmspw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SEKIRO: SHADOWS DIE TWICE】That Monkey is MINE TO SLAY",
-        "video_id": "ikSFSQkmspw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7tetcpqE8Dw/maxresdefault_live.jpg",
+        "timestamp": 1759546800,
+        "title": "【PROMISE COLLAB】2nd Anniversary Celebrations + Big Announcements! #Promise2U",
+        "video_id": "7tetcpqE8Dw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
@@ -146,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wEcFQ-9SQDo/maxresdefault_live.jpg",
-        "timestamp": 1759485600,
+        "timestamp": null,
         "title": "【ホロライブ オフィシャルカードゲーム】ホロカ開封【荒咬オウガ /ホロスターズ】",
         "video_id": "wEcFQ-9SQDo"
     },
@@ -263,9 +254,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yE07UgK5Aqg/maxresdefault_live.jpg",
-        "timestamp": 1759485600,
+        "timestamp": null,
         "title": "【次回ライブも決定！】ときのそら 8th Anniversary Party「Starry Bl∞min\u0026#39;」感想会！【ときのそら/ホロライブ】",
         "video_id": "yE07UgK5Aqg"
     },
@@ -304,5 +295,14 @@
         "timestamp": 1759492800,
         "title": "【 アソビ大全 】新衣装ペアでフブミオVSmiComet 🔥チーム戦アソビ大全対決⁉【#フブミオみこめっと】",
         "video_id": "hzLWva-Igt0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NmTx-AgLQfg/maxresdefault_live.jpg",
+        "timestamp": 1759572000,
+        "title": "【配信予定地】次の配信はこちらです✌【風真いろは/ホロライブ】",
+        "video_id": "NmTx-AgLQfg"
     }
 ]
