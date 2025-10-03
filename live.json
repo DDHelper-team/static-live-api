@@ -45,15 +45,6 @@
         "video_id": "7tetcpqE8Dw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/15_uQvAkBVA/maxresdefault_live.jpg",
-        "timestamp": 1759496400,
-        "title": "【GTA5│MAD TOWN】ほしい車と兼業シスター珍道中【アキロゼ/ホロライブ】",
-        "video_id": "15_uQvAkBVA"
-    },
-    {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -65,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SdIwxfRJji0/maxresdefault_live.jpg",
-        "timestamp": 1759496400,
+        "timestamp": null,
         "title": "【ネタバレあり】3発売前に『LITTLE NIGHTMARES 2/リトルナイトメア2』を初プレイ！【角巻わため/ホロライブ４期生】",
         "video_id": "SdIwxfRJji0"
     },
@@ -313,5 +304,14 @@
         "timestamp": null,
         "title": "【ゴブリン・ノーム・ホーン 】エモノ発見！ｲｸｿﾞｰ！【影山シエン/ホロスターズ】",
         "video_id": "7a67DIkBg1c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/15_uQvAkBVA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【GTA5│MAD TOWN】ほしい車と兼業シスター珍道中【アキロゼ/ホロライブ】",
+        "video_id": "15_uQvAkBVA"
     }
 ]
