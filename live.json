@@ -216,15 +216,6 @@
         "video_id": "2AmXcQFNc7M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/FjrSl8hoUXk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【崩壊：スターレイル】完全初見！パーティー見直したり～！【ホロライブ/夏色まつり】",
-        "video_id": "FjrSl8hoUXk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
         "status": "LIVE",
@@ -313,5 +304,14 @@
         "timestamp": 1759629600,
         "title": "【FFT】ファイナルファンタジータクティクス楽しすぎる！リマスターで完全初見プレイ✨ #2 【博衣こより/ホロライブ】",
         "video_id": "JOx725aerAI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8VUtXi3G_TY/maxresdefault_live.jpg",
+        "timestamp": 1759633200,
+        "title": "【FF7】初代ファイナルファンタジー7の世界にいくぞ！FINAL FANTASY VII！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "8VUtXi3G_TY"
     }
 ]
