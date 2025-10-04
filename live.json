@@ -171,15 +171,6 @@
         "video_id": "_r-2oGZ72mI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/itcgmb8pP5M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【デジモンストーリー タイムストレンジャー】⚠ネタバレ注意⚠ 今プレイ時間１０時間くらいなんですけど、まだ序盤ってマジですか？ / アステル",
-        "video_id": "itcgmb8pP5M"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -304,5 +295,14 @@
         "timestamp": 1759568400,
         "title": "【GTA5 #MADTOWN S2】さあついに運命の時【アルランディス/ホロスターズ】",
         "video_id": "pMELtl-A2qU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pMniqn2PtyQ/maxresdefault_live.jpg",
+        "timestamp": 1759564800,
+        "title": "【 Troublemaker 2: Beyond Dream 】Gelut Lagi Nih Kita【 iofi / hololiveID 】",
+        "video_id": "pMniqn2PtyQ"
     }
 ]
