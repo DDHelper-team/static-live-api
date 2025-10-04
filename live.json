@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7tetcpqE8Dw/maxresdefault_live.jpg",
-        "timestamp": 1759546800,
+        "timestamp": null,
         "title": "【PROMISE COLLAB】2nd Anniversary Celebrations + Big Announcements! #Promise2U",
         "video_id": "7tetcpqE8Dw"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RMP4WkjY7Y8/maxresdefault_live.jpg",
-        "timestamp": 1759546800,
+        "timestamp": null,
         "title": "【 龍が如く0 】いざ蒼天堀へ。：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
         "video_id": "RMP4WkjY7Y8"
     },
@@ -245,9 +245,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mxt5owrerGU/maxresdefault_live.jpg",
-        "timestamp": 1759546800,
+        "timestamp": null,
         "title": "【＃３】　星のカービィ Wii デラックス | Kirby’s Return to Dream Land Deluxe　【ホロライブ/白上フブキ】",
         "video_id": "mxt5owrerGU"
     },
@@ -295,5 +295,14 @@
         "timestamp": 1759622400,
         "title": "It\u0026#39;s been awhile...! | UNARCHIVED KARAOKE",
         "video_id": "6tg7Rs0UDq0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QZ0XS-xsHDc/maxresdefault_live.jpg",
+        "timestamp": 1759579200,
+        "title": "【GTA5 MADTOWN】今日は何をしようかなぁ　4日目【夕刻ロベル/ホロスターズ】",
+        "video_id": "QZ0XS-xsHDc"
     }
 ]
