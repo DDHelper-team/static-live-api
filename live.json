@@ -119,11 +119,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uZoZQE-2UTg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【おにぎり屋さんシミュレーター】24時間、塩に手を漬けていれば握ったおにぎり全て塩おにぎりになる説【花咲みやび/ホロスターズ】",
-        "video_id": "uZoZQE-2UTg"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/21Tx6WDj1M4/maxresdefault_live.jpg",
+        "timestamp": 1759647600,
+        "title": "#1【SILENT HILL f】JKが強すぎると話題のサイレントヒル最新作【花咲みやび/ホロスターズ】【ネタバレあり】",
+        "video_id": "21Tx6WDj1M4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -331,5 +331,14 @@
         "timestamp": 1759582800,
         "title": "【歌枠】しっとり歌います🎤アニソン・J-POP・ボカロ・声優ソング / SINGING STREAM【ホロライブ / AZKi】",
         "video_id": "8dcekJBktfA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LFXfLz1N_uE/maxresdefault_live.jpg",
+        "timestamp": 1759588200,
+        "title": "#MADTOWN【 GTA5 MADTOWN 】Ritunes music barの日常3話目【律可/ホロスターズ 】",
+        "video_id": "LFXfLz1N_uE"
     }
 ]
