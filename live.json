@@ -209,11 +209,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HyxGrpaRS7I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GTA5│MAD TOWN】今日からはじまる白ギャングPart1【アキロゼ/ホロライブ】",
-        "video_id": "HyxGrpaRS7I"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/90FvqLvk7F8/maxresdefault_live.jpg",
+        "timestamp": 1759662000,
+        "title": "【チームファイト タクティクス】麻雀勢とTFTで遊ぶよー！！ 【ホロライブ/アキロゼ】",
+        "video_id": "90FvqLvk7F8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
@@ -250,23 +250,5 @@
         "timestamp": 1759665600,
         "title": "【#cyberpunk2077 】07 認真要跑主線劇情，來開啟戀愛支線!!!【#ゲーム個人勢 / Fingla】",
         "video_id": "tpLdEAUugLA"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qVw6lr_1w_c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 冒頭無料配信 】獅子神レオナ6thワンマンライブ「WILD GEAR」#獅子神レオナ6thワンマン【 獅子神レオナ/Re:AcT】",
-        "video_id": "qVw6lr_1w_c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qVw6lr_1w_c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 冒頭無料配信 】獅子神レオナ6thワンマンライブ「WILD GEAR」#獅子神レオナ6thワンマン【 獅子神レオナ/Re:AcT】",
-        "video_id": "qVw6lr_1w_c"
     }
 ]
