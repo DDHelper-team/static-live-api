@@ -209,10 +209,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OvDEuh48C8g/maxresdefault_live.jpg",
-        "timestamp": 1759671000,
+        "timestamp": null,
         "title": "【#冥ハロ2025】生誕LIVE感想\u0026amp;解説？補足？配信【白上フブキ/ホロライブ】",
         "video_id": "OvDEuh48C8g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eoVkM4Op570/maxresdefault_live.jpg",
+        "timestamp": 1759671900,
+        "title": "【#マイクラ肝試し2025 】起きれた(？)ので閉会式みにいく👀ぎりぎりまで釣り🐟【風真いろは/ホロライブ】",
+        "video_id": "eoVkM4Op570"
     }
 ]
