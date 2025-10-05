@@ -189,24 +189,6 @@
         "video_id": "chIoOmbD0xY"
     },
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EJ2hAjQvpfo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#shorts 】ゲリラ配信！歌います！ #vtuber",
-        "video_id": "EJ2hAjQvpfo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EJ2hAjQvpfo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#shorts 】ゲリラ配信！歌います！ #vtuber",
-        "video_id": "EJ2hAjQvpfo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -241,5 +223,14 @@
         "timestamp": null,
         "title": "【CloverPit】誕生日バフでスロット壊れちゃった・・・・続き。【白上フブキ/ホロライブ】",
         "video_id": "8P5lw8XOPA8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ESnOPXLjnvg/maxresdefault_live.jpg",
+        "timestamp": 1759708800,
+        "title": "【Hollow Knight: Silksong】MEOWMEOWMEOWMEOW (Translation: Slow and Steady!!)【#5】",
+        "video_id": "ESnOPXLjnvg"
     }
 ]
