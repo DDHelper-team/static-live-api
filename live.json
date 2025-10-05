@@ -65,18 +65,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RoAyaFCvtg8/maxresdefault_live.jpg",
-        "timestamp": 1759636800,
+        "timestamp": null,
         "title": "【#最終回】ナルティメットストーム４：NARUTO SHIPPUDEN: Ultimate Ninja STORM 4【※ネタバレあり】",
         "video_id": "RoAyaFCvtg8"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rh2QyWT7J6g/maxresdefault_live.jpg",
-        "timestamp": 1759636800,
+        "timestamp": null,
         "title": "#18【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
         "video_id": "rh2QyWT7J6g"
     },
@@ -173,27 +173,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1FO619VhGMc/maxresdefault_live.jpg",
-        "timestamp": 1759636846,
+        "timestamp": null,
         "title": "【ペルソナ３ リロード】#2 | 完全初見！「影時間」とは🔫【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "1FO619VhGMc"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1FO619VhGMc/maxresdefault_live.jpg",
-        "timestamp": 1759636846,
+        "timestamp": null,
         "title": "【ペルソナ３ リロード】#2 | 完全初見！「影時間」とは🔫【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "1FO619VhGMc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2cup1MRx-MA/maxresdefault_live.jpg",
-        "timestamp": 1759636800,
+        "timestamp": null,
         "title": "【METAL GEAR SOLID Δ: SNAKE EATER】人生初のメタルギア！！！いくぞおおお！！！！！【天音かなた/ホロライブ】",
         "video_id": "2cup1MRx-MA"
     },
@@ -232,5 +232,23 @@
         "timestamp": 1759665600,
         "title": "【GTA5 MADTOWN】リサセン！金鉱！ダウジング！牛ぃ！　5日目【夕刻ロベル/ホロスターズ】",
         "video_id": "VlNbE2kJ8co"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O7Gg2_1AsPU/maxresdefault_live.jpg",
+        "timestamp": 1759687200,
+        "title": "TROLEU: When Fear of European Public Transport Comes True",
+        "video_id": "O7Gg2_1AsPU"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O7Gg2_1AsPU/maxresdefault_live.jpg",
+        "timestamp": 1759687200,
+        "title": "TROLEU: When Fear of European Public Transport Comes True",
+        "video_id": "O7Gg2_1AsPU"
     }
 ]
