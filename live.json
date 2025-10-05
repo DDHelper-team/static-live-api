@@ -2,7 +2,7 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": null,
         "thumbnail": "https://i.ytimg.com/vi/21Tx6WDj1M4/maxresdefault_live.jpg",
         "timestamp": 1759647600,
         "title": "#1【SILENT HILL f】JKが強すぎると話題のサイレントヒル最新作【花咲みやび/ホロスターズ】【ネタバレあり】",
@@ -30,10 +30,10 @@
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GhEYaj_Wvjk/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/p24I6AyuhjY/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【 京都大賞典＆毎日王冠 】競馬三昧な1日。【鷹嶺ルイ/ホロライブ】",
-        "video_id": "GhEYaj_Wvjk"
+        "title": "【 龍が如く0 】キャバクラの支配人極めます。：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+        "video_id": "p24I6AyuhjY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
@@ -57,8 +57,8 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8VUtXi3G_TY/hqdefault_live.jpg",
-        "timestamp": 1759646849.4318435,
+        "thumbnail": "https://i.ytimg.com/vi/8VUtXi3G_TY/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【FF7】初代ファイナルファンタジー7の世界にいくぞ！FINAL FANTASY VII！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "8VUtXi3G_TY"
     },
@@ -66,8 +66,8 @@
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RoAyaFCvtg8/hqdefault_live.jpg",
-        "timestamp": 1759646846.6725333,
+        "thumbnail": "https://i.ytimg.com/vi/RoAyaFCvtg8/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【#最終回】ナルティメットストーム４：NARUTO SHIPPUDEN: Ultimate Ninja STORM 4【※ネタバレあり】",
         "video_id": "RoAyaFCvtg8"
     },
@@ -75,8 +75,8 @@
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rh2QyWT7J6g/hqdefault_live.jpg",
-        "timestamp": 1759646847.8992014,
+        "thumbnail": "https://i.ytimg.com/vi/rh2QyWT7J6g/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "#18【ELDEN RING】フロムゲー初心者、「エルデンリング」のクリアを目指す旅！！！【戌神ころね】※ネタバレあり",
         "video_id": "rh2QyWT7J6g"
     },
@@ -138,8 +138,8 @@
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Uk54eKZsjF0/hqdefault_live.jpg",
-        "timestamp": 1759646860.6026628,
+        "thumbnail": "https://i.ytimg.com/vi/Uk54eKZsjF0/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【デジモンストーリー タイムストレンジャー】⚠ネタバレ注意⚠ ゲーム開始から24時間が経ちました。このゲームは偉大です。 / アステル",
         "video_id": "Uk54eKZsjF0"
     },
@@ -174,8 +174,8 @@
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2cup1MRx-MA/hqdefault_live.jpg",
-        "timestamp": 1759646851.2880373,
+        "thumbnail": "https://i.ytimg.com/vi/2cup1MRx-MA/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【METAL GEAR SOLID Δ: SNAKE EATER】人生初のメタルギア！！！いくぞおおお！！！！！【天音かなた/ホロライブ】",
         "video_id": "2cup1MRx-MA"
     },
@@ -277,15 +277,6 @@
         "timestamp": 1759651200,
         "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #09【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
         "video_id": "8HFKS_7BJ0Q"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VfOmAbSU4R0/hqdefault_live.jpg",
-        "timestamp": 1677222000,
-        "title": "【フリーチャット(Freechat)】部下達のアジト、概要が書いてる場所【影山シエン/ホロスターズ】",
-        "video_id": "VfOmAbSU4R0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -412,24 +403,6 @@
         "timestamp": 1811048400,
         "title": "【💜花火＆周年/期間限定販売中💜】ホロライブ０期生アニバーサリー＆花火グッズ販売中💓",
         "video_id": "oXxS8AwgTUw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-tMd6H-IxcA/hqdefault_live.jpg",
-        "timestamp": 1680332100,
-        "title": "フリーチャット",
-        "video_id": "-tMd6H-IxcA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xbJ8tbA_Phw/hqdefault_live.jpg",
-        "timestamp": 1720249200,
-        "title": "ねっ子控室-Free chat-",
-        "video_id": "xbJ8tbA_Phw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
