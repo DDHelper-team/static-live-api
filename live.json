@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gfdX4gwaJB4/maxresdefault_live.jpg",
-        "timestamp": 1759667400,
+        "timestamp": null,
         "title": "【凱旋門賞】2025年 凱旋門賞で大勝する！！！！！！！！！！！！！！！！！！！こ！【ホロライブ/兎田ぺこら】",
         "video_id": "gfdX4gwaJB4"
     },
@@ -205,5 +205,23 @@
         "timestamp": null,
         "title": "【 復活 】王の生還！！！宴じゃ！！！【 領国つかさ / すぺしゃりて 】",
         "video_id": "jxh5V-oP3tw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5nBtjCeUpuo/maxresdefault_live.jpg",
+        "timestamp": 1759703400,
+        "title": "【 #朝ミオ 】１０月になりました！おはみぉーん！",
+        "video_id": "5nBtjCeUpuo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/52ofL83628Q/maxresdefault_live.jpg",
+        "timestamp": 1759669200,
+        "title": "【Minecraft】釣り雑談【ホロライブ/ときのそら】",
+        "video_id": "52ofL83628Q"
     }
 ]
