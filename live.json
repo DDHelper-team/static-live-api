@@ -135,15 +135,6 @@
         "video_id": "1FO619VhGMc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2cup1MRx-MA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【METAL GEAR SOLID Δ: SNAKE EATER】人生初のメタルギア！！！いくぞおおお！！！！！【天音かなた/ホロライブ】",
-        "video_id": "2cup1MRx-MA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -250,5 +241,14 @@
         "timestamp": null,
         "title": "#1【SILENT HILL f】JKが強すぎると話題のサイレントヒル最新作【花咲みやび/ホロスターズ】【ネタバレあり】",
         "video_id": "21Tx6WDj1M4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HyxGrpaRS7I/maxresdefault_live.jpg",
+        "timestamp": 1759654800,
+        "title": "【GTA5│MAD TOWN】今日からはじまる白ギャングPart1【アキロゼ/ホロライブ】",
+        "video_id": "HyxGrpaRS7I"
     }
 ]
