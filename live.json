@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/G-9uyn_ysXM/maxresdefault_live.jpg",
-        "timestamp": 1759669200,
+        "timestamp": null,
         "title": "【 凱旋門賞 】日本馬初勝利をみんなで見届けようぜ・・・！【鷹嶺ルイ/ホロライブ】",
         "video_id": "G-9uyn_ysXM"
     },
@@ -38,27 +38,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TJS2vzPVG7I/maxresdefault_live.jpg",
-        "timestamp": 1759669200,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025 】夏の甲子園、勝ち進むぞ！！！！！！#8【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "TJS2vzPVG7I"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TJS2vzPVG7I/maxresdefault_live.jpg",
-        "timestamp": 1759669200,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025 】夏の甲子園、勝ち進むぞ！！！！！！#8【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "TJS2vzPVG7I"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/a0Py70ROxag/maxresdefault_live.jpg",
-        "timestamp": 1759669200,
+        "timestamp": null,
         "title": "【 Minecraft 】DXわため像制作スタート！！！- ラムベガス／LAMB VEGAS -【角巻わため/ホロライブ４期生】",
         "video_id": "a0Py70ROxag"
     },
@@ -97,15 +97,6 @@
         "timestamp": 1759687200,
         "title": "TROLEU: When Fear of European Public Transport Comes True",
         "video_id": "O7Gg2_1AsPU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7Tm7dVsTPBk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#冥ハロ2025】白上フブキ生誕３DLIVE「冥界Halloween Night!」【白上フブキ/ホロライブ】",
-        "video_id": "7Tm7dVsTPBk"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
@@ -164,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/B1a1g4wuryk/maxresdefault_live.jpg",
-        "timestamp": 1759669200,
+        "timestamp": null,
         "title": "【 凱旋門賞 】はじめての凱旋門賞２０２５！🏇🎯いくぞおおおおおお！！【ホロライブ/さくらみこ】",
         "video_id": "B1a1g4wuryk"
     },
@@ -182,9 +173,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Z8jd5kghYLc/maxresdefault_live.jpg",
-        "timestamp": 1759669200,
+        "timestamp": null,
         "title": "WELL hello there",
         "video_id": "Z8jd5kghYLc"
     },
@@ -198,15 +189,6 @@
         "video_id": "f5YRB_2Du5I"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jxh5V-oP3tw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 復活 】王の生還！！！宴じゃ！！！【 領国つかさ / すぺしゃりて 】",
-        "video_id": "jxh5V-oP3tw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -218,10 +200,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/52ofL83628Q/maxresdefault_live.jpg",
-        "timestamp": 1759669200,
+        "timestamp": null,
         "title": "【Minecraft】釣り雑談【ホロライブ/ときのそら】",
         "video_id": "52ofL83628Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OvDEuh48C8g/maxresdefault_live.jpg",
+        "timestamp": 1759671000,
+        "title": "【#冥ハロ2025】生誕LIVE感想\u0026amp;解説？補足？配信【白上フブキ/ホロライブ】",
+        "video_id": "OvDEuh48C8g"
     }
 ]
