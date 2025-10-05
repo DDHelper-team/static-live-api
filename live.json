@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8VUtXi3G_TY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FF7】初代ファイナルファンタジー7の世界にいくぞ！FINAL FANTASY VII！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "8VUtXi3G_TY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gfdX4gwaJB4/maxresdefault_live.jpg",
+        "timestamp": 1759667400,
+        "title": "【凱旋門賞】2025年 凱旋門賞で大勝する！！！！！！！！！！！！！！！！！！！こ！【ホロライブ/兎田ぺこら】",
+        "video_id": "gfdX4gwaJB4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -83,18 +83,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/69BaXYzqjok/maxresdefault_live.jpg",
-        "timestamp": 1759654800,
-        "title": "3択のうちどれかやるよん！（配信予定地）【獅白ぼたん/ホロライブ】",
+        "timestamp": null,
+        "title": "【CoD:BO7】ぼ７！おぺんべた！－Call of Duty: Black Ops 7【獅白ぼたん/ホロライブ】",
         "video_id": "69BaXYzqjok"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dpIVQ_9uAds/maxresdefault_live.jpg",
-        "timestamp": 1759654800,
+        "timestamp": null,
         "title": "【崩壊：スターレイル】完全初見！氷パーティーでいざ！！【ホロライブ/夏色まつり】",
         "video_id": "dpIVQ_9uAds"
     },
@@ -200,9 +200,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/M77Q3KxYWoA/maxresdefault_live.jpg",
-        "timestamp": 1759654800,
+        "timestamp": null,
         "title": "#MADTOWN【 GTA5 MADTOWN 】Ritunes music barの日常4話目【律可/ホロスターズ 】",
         "video_id": "M77Q3KxYWoA"
     },
@@ -245,10 +245,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HyxGrpaRS7I/maxresdefault_live.jpg",
-        "timestamp": 1759654800,
+        "timestamp": null,
         "title": "【GTA5│MAD TOWN】今日からはじまる白ギャングPart1【アキロゼ/ホロライブ】",
         "video_id": "HyxGrpaRS7I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMAc88lqzqGV0uxgw9JDj0w",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yK4LiOLtYfY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【サイレントヒルf - 01】最強の女子高生になって化け物を倒すのじゃ【ネタバレ注意】",
+        "video_id": "yK4LiOLtYfY"
     }
 ]
