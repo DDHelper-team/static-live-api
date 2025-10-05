@@ -27,15 +27,6 @@
         "video_id": "wHnBxeDEoZM"
     },
     {
-        "channel": "https://www.youtube.com/@NerissaRavencroft",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6tg7Rs0UDq0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "It\u0026#39;s been awhile...! | UNARCHIVED KARAOKE",
-        "video_id": "6tg7Rs0UDq0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -74,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JOx725aerAI/maxresdefault_live.jpg",
-        "timestamp": 1759629600,
+        "timestamp": null,
         "title": "【FFT】ファイナルファンタジータクティクス楽しすぎる！リマスターで完全初見プレイ✨ #2 【博衣こより/ホロライブ】",
         "video_id": "JOx725aerAI"
     },
@@ -243,12 +234,21 @@
         "video_id": "qVw6lr_1w_c"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Zl4LzmLDX9Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BABY STEPS】今日も１歩だけ踏み出す。【岸堂天真/ホロスターズ】",
-        "video_id": "Zl4LzmLDX9Q"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hhJR6-YozZM/maxresdefault_live.jpg",
+        "timestamp": 1759716000,
+        "title": "【KARAOKE】anime songs!! oh boy!!! #calliolive",
+        "video_id": "hhJR6-YozZM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VlNbE2kJ8co/maxresdefault_live.jpg",
+        "timestamp": 1759665600,
+        "title": "【GTA5 MADTOWN】リサセン！金鉱！ダウジング！牛ぃ！　5日目【夕刻ロベル/ホロスターズ】",
+        "video_id": "VlNbE2kJ8co"
     }
 ]
