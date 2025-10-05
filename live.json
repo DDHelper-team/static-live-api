@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/28Va_Sjp0gs/maxresdefault_live.jpg",
-        "timestamp": 1759662000,
+        "timestamp": null,
         "title": "【豊潤サジー】サジスタWEEK！雑談と歌！【 奏手イヅル】",
         "video_id": "28Va_Sjp0gs"
     },
@@ -209,9 +209,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/90FvqLvk7F8/maxresdefault_live.jpg",
-        "timestamp": 1759662000,
+        "timestamp": null,
         "title": "【チームファイト タクティクス】麻雀勢とTFTで遊ぶよー！！ 【ホロライブ/アキロゼ】",
         "video_id": "90FvqLvk7F8"
     },
@@ -250,5 +250,14 @@
         "timestamp": 1759665600,
         "title": "【#cyberpunk2077 】07 認真要跑主線劇情，來開啟戀愛支線!!!【#ゲーム個人勢 / Fingla】",
         "video_id": "tpLdEAUugLA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ehGrdONJQ0E/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【逆水寒(Justice)】組み合わせ無限大なオープンワールドMMORPGやるぞ！【影山シエン/ホロスターズ】",
+        "video_id": "ehGrdONJQ0E"
     }
 ]
