@@ -153,15 +153,6 @@
         "video_id": "a0Py70ROxag"
     },
     {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/exwkDiV88Xk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Clover Pit】LET\u0026#39;S GO GAMBLING...AW DANG IT!",
-        "video_id": "exwkDiV88Xk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
         "status": "LIVE",
@@ -241,5 +232,14 @@
         "timestamp": 1759687200,
         "title": "TROLEU: When Fear of European Public Transport Comes True",
         "video_id": "O7Gg2_1AsPU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7Tm7dVsTPBk/maxresdefault_live.jpg",
+        "timestamp": 1759665600,
+        "title": "【#冥ハロ2025】白上フブキ生誕３DLIVE「冥界Halloween Night!」【白上フブキ/ホロライブ】",
+        "video_id": "7Tm7dVsTPBk"
     }
 ]
