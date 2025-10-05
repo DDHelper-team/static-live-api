@@ -45,15 +45,6 @@
         "video_id": "f5YRB_2Du5I"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5nBtjCeUpuo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #朝ミオ 】１０月になりました！おはみぉーん！",
-        "video_id": "5nBtjCeUpuo"
-    },
-    {
         "channel": "https://www.youtube.com/@NerissaRavencroft",
         "platform": "youtube",
         "status": "LIVE",
@@ -160,5 +151,14 @@
         "timestamp": 1759770000,
         "title": "【CLOVERPIT】welcome to hell #kfp #キアライブ",
         "video_id": "ymmvQ5jSXwU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-URbEd_LK1E/maxresdefault_live.jpg",
+        "timestamp": 1759712400,
+        "title": "【デジモンストーリー タイムストレンジャー】⚠ネタバレ注意⚠ ボリュームぶっこわれてもうてます。このゲームは無限 / アステル",
+        "video_id": "-URbEd_LK1E"
     }
 ]
