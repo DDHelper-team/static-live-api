@@ -207,24 +207,6 @@
         "video_id": "SEsJAVCbDVA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Eia9toluYII/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】前半全体公開！後半メン限！！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "Eia9toluYII"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Eia9toluYII/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】前半全体公開！後半メン限！！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "Eia9toluYII"
-    },
-    {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -250,5 +232,14 @@
         "timestamp": 1759752000,
         "title": "【 おしゃべりキング！ 】マイクで診断⁉おしゃべり王に俺はなるにぇ～～～～～～！！！【ホロライブ/さくらみこ】",
         "video_id": "bmF9bmIZax8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ovxp8DgLIG4/maxresdefault_live.jpg",
+        "timestamp": 1759759200,
+        "title": "【歌枠】ゆっくりまったり～秋にしっとり歌枠【 ホロライブ / 大神ミオ 】",
+        "video_id": "Ovxp8DgLIG4"
     }
 ]
