@@ -18,15 +18,6 @@
         "video_id": "LK08EtyKx4A"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TL6JQdxJzfY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【豊潤サジー】サジスタWEEK！気分が上がる癒し歌枠【律可/ホロスターズ】",
-        "video_id": "TL6JQdxJzfY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -155,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WVuY5Kb2lko/maxresdefault_live.jpg",
-        "timestamp": 1759752000,
+        "timestamp": null,
         "title": "【biohazard HD REMASTER】完全初見！初代バイオハザードをプレイ！【ホロライブ / AZKi】",
         "video_id": "WVuY5Kb2lko"
     },
@@ -200,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bmF9bmIZax8/maxresdefault_live.jpg",
-        "timestamp": 1759752000,
+        "timestamp": null,
         "title": "【 おしゃべりキング！ 】マイクで診断⁉おしゃべり王に俺はなるにぇ～～～～～～！！！【ホロライブ/さくらみこ】",
         "video_id": "bmF9bmIZax8"
     },
@@ -245,18 +236,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CCjz0q-Rbwk/maxresdefault_live.jpg",
-        "timestamp": 1759752000,
+        "timestamp": null,
         "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "CCjz0q-Rbwk"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CCjz0q-Rbwk/maxresdefault_live.jpg",
-        "timestamp": 1759752000,
+        "timestamp": null,
         "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "CCjz0q-Rbwk"
     },
@@ -286,5 +277,23 @@
         "timestamp": null,
         "title": "【ツイステ】第7章 ラストまで「深淵の支配者」初めてのディズニーツイステッドワンダーランド!!【花咲みやび/ホロスターズ】",
         "video_id": "yeHuOfG4IOM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/V8D6yvQX-ko/maxresdefault_live.jpg",
+        "timestamp": 1759755600,
+        "title": "【PEAK】登山！実績解除を目指す【不知火フレア/ホロライブ】",
+        "video_id": "V8D6yvQX-ko"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/93Hws9zj6vg/maxresdefault_live.jpg",
+        "timestamp": 1759809600,
+        "title": "【Megabonk】3Dのヴァンサバ風ゲームをやる男【夕刻ロベル/ホロスターズ】",
+        "video_id": "93Hws9zj6vg"
     }
 ]
