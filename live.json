@@ -108,24 +108,6 @@
         "video_id": "-URbEd_LK1E"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/z8rFVRLUi40/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Easy Delivery Co.】how dark the story can be? 🤔",
-        "video_id": "z8rFVRLUi40"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/z8rFVRLUi40/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Easy Delivery Co.】how dark the story can be? 🤔",
-        "video_id": "z8rFVRLUi40"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "LIVE",
@@ -209,18 +191,18 @@
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SEsJAVCbDVA/maxresdefault_live.jpg",
-        "timestamp": 1759740300,
+        "timestamp": null,
         "title": "【#cyberpunk2077 】08 中秋節快樂~!! 自由幻局DLC入手~強哥支線ing【#ゲーム個人勢 / Fingla】",
         "video_id": "SEsJAVCbDVA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SEsJAVCbDVA/maxresdefault_live.jpg",
-        "timestamp": 1759740300,
+        "timestamp": null,
         "title": "【#cyberpunk2077 】08 中秋節快樂~!! 自由幻局DLC入手~強哥支線ing【#ゲーム個人勢 / Fingla】",
         "video_id": "SEsJAVCbDVA"
     },
@@ -241,5 +223,23 @@
         "timestamp": 1759741200,
         "title": "【歌枠】前半全体公開！後半メン限！！【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "Eia9toluYII"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoboKanaeru",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LB-lxnmpBnM/maxresdefault_live.jpg",
+        "timestamp": 1759758300,
+        "title": "【New Facial System】Kobo ???? Looks more...............",
+        "video_id": "LB-lxnmpBnM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LB-lxnmpBnM/maxresdefault_live.jpg",
+        "timestamp": 1759758300,
+        "title": "【New Facial System】Kobo ???? Looks more...............",
+        "video_id": "LB-lxnmpBnM"
     }
 ]
