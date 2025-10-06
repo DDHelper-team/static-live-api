@@ -155,18 +155,18 @@
     {
         "channel": "https://www.youtube.com/@KoboKanaeru",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LB-lxnmpBnM/maxresdefault_live.jpg",
-        "timestamp": 1759758300,
+        "timestamp": null,
         "title": "【New Facial System】Kobo ???? Looks more...............",
         "video_id": "LB-lxnmpBnM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LB-lxnmpBnM/maxresdefault_live.jpg",
-        "timestamp": 1759758300,
+        "timestamp": null,
         "title": "【New Facial System】Kobo ???? Looks more...............",
         "video_id": "LB-lxnmpBnM"
     },
@@ -268,5 +268,14 @@
         "timestamp": 1759831200,
         "title": "【 モンハンワイルズ 】HR278！超高難度『零式オメガ』戦の対策するのらああああ！！！【姫森ルーナ/ホロライブ】",
         "video_id": "Ow2tYXFWfTY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AbJctYl8ihc/maxresdefault_live.jpg",
+        "timestamp": 1759834800,
+        "title": "【#フブミオまんぷくグルメ】五感を研ぎ澄ませ！フブミオのてぇてぇグルメSHOW【#ヤフーショッピング】",
+        "video_id": "AbJctYl8ihc"
     }
 ]
