@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LK08EtyKx4A/maxresdefault_live.jpg",
-        "timestamp": 1759759200,
+        "timestamp": null,
         "title": "【定期雑談】最近あった色んな事を皆と話す会✨#9【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "LK08EtyKx4A"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LK08EtyKx4A/maxresdefault_live.jpg",
-        "timestamp": 1759759200,
+        "timestamp": null,
         "title": "【定期雑談】最近あった色んな事を皆と話す会✨#9【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "LK08EtyKx4A"
     },
@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_U3pQKrXP4M/maxresdefault_live.jpg",
-        "timestamp": 1759759200,
+        "timestamp": null,
         "title": "【両耳責めASMR】よわよわなお耳、両側から挟んじゃいま～す♡もう逃げられないね♡密着吐息とゼロ距離囁きで快眠♡睡眠導入ASMR♡EarCleaning,Whispering,MouthSounds",
         "video_id": "_U3pQKrXP4M"
     },
@@ -182,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ovxp8DgLIG4/maxresdefault_live.jpg",
-        "timestamp": 1759759200,
+        "timestamp": null,
         "title": "【歌枠】ゆっくりまったり～秋にしっとり歌枠【 ホロライブ / 大神ミオ 】",
         "video_id": "Ovxp8DgLIG4"
     },
@@ -277,5 +277,14 @@
         "timestamp": 1759834800,
         "title": "【#フブミオまんぷくグルメ】五感を研ぎ澄ませ！フブミオのてぇてぇグルメSHOW【#ヤフーショッピング】",
         "video_id": "AbJctYl8ihc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PE0ywwAqeVk/maxresdefault_live.jpg",
+        "timestamp": 1759845600,
+        "title": "【 ウマ娘 プリティーダービー 】NEWガチャ回した後ストーリー5章と6章みるぞおおおお！！！【鷹嶺ルイ/ホロライブ】",
+        "video_id": "PE0ywwAqeVk"
     }
 ]
