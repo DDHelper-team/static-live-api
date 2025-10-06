@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TL6JQdxJzfY/maxresdefault_live.jpg",
-        "timestamp": 1759748400,
+        "timestamp": null,
         "title": "【豊潤サジー】サジスタWEEK！気分が上がる癒し歌枠【律可/ホロスターズ】",
         "video_id": "TL6JQdxJzfY"
     },
@@ -128,20 +128,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aWxwKyNRwg0/maxresdefault_live.jpg",
-        "timestamp": 1759748400,
-        "title": "【マリーのアトリエ Remake】立派な錬金術師になるぞ⚗️【獅白ぼたん/ホロライブ】",
+        "timestamp": null,
+        "title": "【マリーのアトリエ Remake】立派な錬金術士になるぞ⚗️【獅白ぼたん/ホロライブ】",
         "video_id": "aWxwKyNRwg0"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Enn0f_1yGWw/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/l6AdHIH2IbM/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【ゴッデスオーダー】ぺこーらとカリオペちゃんがいる爽快アクションRPGで遊びます！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "Enn0f_1yGWw"
+        "title": "【おしゃべりキング】コミュ力診断ゲーム!? コミュ障だとか言われておりますが・・・ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "l6AdHIH2IbM"
     },
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
@@ -155,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4s80sJPlUFg/maxresdefault_live.jpg",
-        "timestamp": 1759748400,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025】3年目春！！新入生ガチャいくぞ！！！春甲子園？ないよ……【ホロライブ/宝鐘マリン】",
         "video_id": "4s80sJPlUFg"
     },
@@ -245,10 +245,10 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YEVh8vnCxpc/maxresdefault_live.jpg",
-        "timestamp": 1759748400,
-        "title": "あそぼん",
+        "timestamp": null,
+        "title": "プール経営するぞ！",
         "video_id": "YEVh8vnCxpc"
     },
     {
@@ -286,5 +286,23 @@
         "timestamp": 1759752000,
         "title": "【 縦型歌枠 】レッスン帰りで超眠い歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "CCjz0q-Rbwk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZgVVBouwukY/maxresdefault_live.jpg",
+        "timestamp": 1759755600,
+        "title": "【おにぎり屋さんシミュレーター】ちまたで有名”轟握り”【轟はじめ/ReGLOSS】",
+        "video_id": "ZgVVBouwukY"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZgVVBouwukY/maxresdefault_live.jpg",
+        "timestamp": 1759755600,
+        "title": "【おにぎり屋さんシミュレーター】ちまたで有名”轟握り”【轟はじめ/ReGLOSS】",
+        "video_id": "ZgVVBouwukY"
     }
 ]
