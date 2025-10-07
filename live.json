@@ -92,18 +92,18 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9aqU5779-o0/maxresdefault_live.jpg",
-        "timestamp": 1759798800,
+        "timestamp": null,
         "title": "【Clover Pit】WHEN LIFE GIVES ME LEMONS...",
         "video_id": "9aqU5779-o0"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9aqU5779-o0/maxresdefault_live.jpg",
-        "timestamp": 1759798800,
+        "timestamp": null,
         "title": "【Clover Pit】WHEN LIFE GIVES ME LEMONS...",
         "video_id": "9aqU5779-o0"
     },
@@ -124,5 +124,41 @@
         "timestamp": 1759867200,
         "title": "Amanda the Adventurer 2: Brain Meltdowns Over Haunted Tapes in the Attic",
         "video_id": "62qk4iabOZE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/w5H0Y_0oupo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【BABY STEPS】朝から山を登りたい！【岸堂天真/ホロスターズ】",
+        "video_id": "w5H0Y_0oupo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yX_xtSKd3RI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "let\u0026#39;s celebrate. #calliolive",
+        "video_id": "yX_xtSKd3RI"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YJgNHCoIz2M/maxresdefault_live.jpg",
+        "timestamp": 1759885200,
+        "title": "【SUPER MARIO GALAXY】gathering stars to light up the galaxy 🐾 【FUWAMOCO】",
+        "video_id": "YJgNHCoIz2M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YJgNHCoIz2M/maxresdefault_live.jpg",
+        "timestamp": 1759885200,
+        "title": "【SUPER MARIO GALAXY】gathering stars to light up the galaxy 🐾 【FUWAMOCO】",
+        "video_id": "YJgNHCoIz2M"
     }
 ]
