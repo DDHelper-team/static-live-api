@@ -108,15 +108,6 @@
         "video_id": "xBLrTVYLcpk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/D3SxbNkrcRU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#4【No Sleep For Kaname Date】Everyone Has Their Body Parts Intact!!!【Pavolia Reine/hololiveID 2ndgen】",
-        "video_id": "D3SxbNkrcRU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -169,5 +160,14 @@
         "timestamp": 1759921200,
         "title": "【Goblin Cleanup】協力してダンジョンを綺麗にするぞー！！【角巻わため/ホロライブ４期生】",
         "video_id": "rgNSlQdam9I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xX6HCvYdnBU/maxresdefault_live.jpg",
+        "timestamp": 1759917600,
+        "title": "【 Microsoft Flight Simulator 2024 】初心者が本格的フライトに挑むのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "xX6HCvYdnBU"
     }
 ]
