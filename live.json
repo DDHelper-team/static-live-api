@@ -144,15 +144,6 @@
         "video_id": "N9-hfp0DwLQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VoWHIX4tp5k/hqdefault_live.jpg",
-        "timestamp": 1766558700,
-        "title": "【free chat room】ロゼ隊応援会場【ロゼ隊コミュニティ広場】",
-        "video_id": "VoWHIX4tp5k"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,15 +160,6 @@
         "timestamp": 1759845600,
         "title": "【Mage Arena】X KALI BUAAAAAAAAAAAAH 【hololiveID】",
         "video_id": "fs5IwUCc1To"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mkvRuYvSMgk/maxresdefault_live.jpg",
-        "timestamp": 1759842000,
-        "title": "【】ホラゲーしようしよう【ホロライブ/大空スバル】",
-        "video_id": "mkvRuYvSMgk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -264,10 +246,10 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EnQcoZzAh9s/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/xBLrTVYLcpk/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【マリカ8DX】1時間以内に1位取れなかったらマリオオデッセイクリアするまで寝ない！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "EnQcoZzAh9s"
+        "title": "【マリオオデッセイ】クリアするまで寝ない枠ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "xBLrTVYLcpk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
@@ -342,24 +324,6 @@
         "video_id": "ll5HZhl90gw"
     },
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1gwxLLnLoVU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / Singing】初見さん20人ください！(切実)【#vtuber 】",
-        "video_id": "1gwxLLnLoVU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1gwxLLnLoVU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / Singing】初見さん20人ください！(切実)【#vtuber 】",
-        "video_id": "1gwxLLnLoVU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "LIVE",
@@ -376,5 +340,32 @@
         "timestamp": 1759845600,
         "title": "【 おにぎり屋さんシミュレーター 】おにぎり屋さんに俺は・・・なる！！！【不知火フレア/ホロライブ】",
         "video_id": "hQshdvSSPd8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZU7ODvAbtRI/maxresdefault_live.jpg",
+        "timestamp": 1759885200,
+        "title": "≪Chrono Gear: Warden of Time≫ Experience Perfection.",
+        "video_id": "ZU7ODvAbtRI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mkvRuYvSMgk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#生スバル】👻高評価ホラゲー！！週末、この家では何かが起きる：Fears to Fathom - Carson House👻【ホロライブ/大空スバル】",
+        "video_id": "mkvRuYvSMgk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ss_Rw6nObdI/maxresdefault_live.jpg",
+        "timestamp": 1759885200,
+        "title": "【FiGGYZ x hololive EN】A Fine Addition to My Collection! Upcoming Collab Info + Drawing!? #sponsored",
+        "video_id": "Ss_Rw6nObdI"
     }
 ]
