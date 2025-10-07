@@ -182,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/piqbPL5va9E/maxresdefault_live.jpg",
-        "timestamp": 1759827600,
+        "timestamp": null,
         "title": "【 雀魂】 DREAM MATCH 雀魂下剋上リーグ5週目　　w/ V.I.P/西村歩乃果/多井隆晴/アキロゼ　【ホロライブ/ ロボ子さん】",
         "video_id": "piqbPL5va9E"
     },
@@ -223,5 +223,14 @@
         "timestamp": 1759845600,
         "title": "Wow, fantasy adventure with holoID girlies",
         "video_id": "fMkbVtWbtww"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WX8JDet1K6M/maxresdefault_live.jpg",
+        "timestamp": 1759838400,
+        "title": "【配信予定地】【ホロライブ/ときのそら】",
+        "video_id": "WX8JDet1K6M"
     }
 ]
