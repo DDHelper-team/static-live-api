@@ -126,15 +126,6 @@
         "video_id": "62qk4iabOZE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/w5H0Y_0oupo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BABY STEPS】朝から山を登りたい！【岸堂天真/ホロスターズ】",
-        "video_id": "w5H0Y_0oupo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "LIVE",
@@ -160,5 +151,41 @@
         "timestamp": 1759885200,
         "title": "【SUPER MARIO GALAXY】gathering stars to light up the galaxy 🐾 【FUWAMOCO】",
         "video_id": "YJgNHCoIz2M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ff1AaT0I2tI/maxresdefault_live.jpg",
+        "timestamp": 1759809648,
+        "title": "【ペルソナ３ リロード】#4 | 完全初見！満月にはご用心🌕️【緋月ゆい/ネオポルテ】※ネタバレあり",
+        "video_id": "ff1AaT0I2tI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tPeotROap4k/maxresdefault_live.jpg",
+        "timestamp": 1759881600,
+        "title": "【CLOVERPIT】Let\u0026#39;s go gambling【Dokibird】",
+        "video_id": "tPeotROap4k"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ff1AaT0I2tI/maxresdefault_live.jpg",
+        "timestamp": 1759809648,
+        "title": "【ペルソナ３ リロード】#4 | 完全初見！満月にはご用心🌕️【緋月ゆい/ネオポルテ】※ネタバレあり",
+        "video_id": "ff1AaT0I2tI"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tPeotROap4k/maxresdefault_live.jpg",
+        "timestamp": 1759881600,
+        "title": "【CLOVERPIT】Let\u0026#39;s go gambling【Dokibird】",
+        "video_id": "tPeotROap4k"
     }
 ]
