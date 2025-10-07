@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nPCiizetDz4/maxresdefault_live.jpg",
-        "timestamp": 1759831200,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025 】夏の甲子園、3戦目から！！目指せ優勝！！#9【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "nPCiizetDz4"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nPCiizetDz4/maxresdefault_live.jpg",
-        "timestamp": 1759831200,
+        "timestamp": null,
         "title": "【 #ホロライブ甲子園2025 】夏の甲子園、3戦目から！！目指せ優勝！！#9【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "nPCiizetDz4"
     },
@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ow2tYXFWfTY/maxresdefault_live.jpg",
-        "timestamp": 1759831200,
+        "timestamp": null,
         "title": "【 モンハンワイルズ 】HR278！超高難度『零式オメガ』戦の対策するのらああああ！！！【姫森ルーナ/ホロライブ】",
         "video_id": "Ow2tYXFWfTY"
     },
@@ -250,5 +250,23 @@
         "timestamp": 1759845600,
         "title": "【MAGE ARENA】FIRE BALL !!! *misses* *aura-1* 【Zeta POV】",
         "video_id": "xi1P-Ri0T84"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Npwxj-wAsoc/maxresdefault_live.jpg",
+        "timestamp": 1759917600,
+        "title": "【配信予定地】つぎの配信はココ📍【風真いろは/ホロライブ】",
+        "video_id": "Npwxj-wAsoc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KaAa6CD2_9M/maxresdefault_live.jpg",
+        "timestamp": 1759834920,
+        "title": "プール経営するぞ！２かいめ",
+        "video_id": "KaAa6CD2_9M"
     }
 ]
