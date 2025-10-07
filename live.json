@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nPCiizetDz4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロライブ甲子園2025 】夏の甲子園、3戦目から！！目指せ優勝！！#9【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "nPCiizetDz4"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nPCiizetDz4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロライブ甲子園2025 】夏の甲子園、3戦目から！！目指せ優勝！！#9【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "nPCiizetDz4"
-    },
-    {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
         "status": "LIVE",
@@ -126,15 +108,6 @@
         "video_id": "tPeotROap4k"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XJw0BMnViEo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 MAGIC ARENA 】EKUSUPUROSHIOOOONNNNNN【 iofi / hololiveID 】",
-        "video_id": "XJw0BMnViEo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
         "platform": "youtube",
         "status": "LIVE",
@@ -169,15 +142,6 @@
         "timestamp": null,
         "title": "Wow, fantasy adventure with holoID girlies",
         "video_id": "fMkbVtWbtww"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WX8JDet1K6M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ネタバレ注意】都市伝説によばれし主人公っていいよね～都市伝説解体センター～【ホロライブ/ときのそら】",
-        "video_id": "WX8JDet1K6M"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -218,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TcRI88ijcJ4/maxresdefault_live.jpg",
-        "timestamp": 1759849200,
+        "timestamp": null,
         "title": "【睡眠導入朗読】蜘蛛の糸/芥川龍之介【ホロライブ/夏色まつり】",
         "video_id": "TcRI88ijcJ4"
     },
@@ -243,15 +207,6 @@
         "video_id": "xBLrTVYLcpk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hdW9LqTHqKo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雑談/ZATSU 】最高のライブが終わった【 獅子神レオナ/Re:AcT】",
-        "video_id": "hdW9LqTHqKo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
         "status": "LIVE",
@@ -259,15 +214,6 @@
         "timestamp": null,
         "title": "【FF14】アルシュベルドに会いに行くぞー!!【花咲みやび/ホロスターズ】",
         "video_id": "-sZA-nToT5M"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hdW9LqTHqKo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雑談/ZATSU 】最高のライブが終わった【 獅子神レオナ/Re:AcT】",
-        "video_id": "hdW9LqTHqKo"
     },
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
@@ -331,5 +277,14 @@
         "timestamp": 1759885200,
         "title": "【FiGGYZ x hololive EN】A Fine Addition to My Collection! Upcoming Collab Info + Drawing!? #sponsored",
         "video_id": "Ss_Rw6nObdI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ts4AAEYmIOM/maxresdefault_live.jpg",
+        "timestamp": 1759924800,
+        "title": "【Keep Digging】ソロで雑談しながらまったり穴掘り【 雪花ラミィ /ホロライブ】",
+        "video_id": "ts4AAEYmIOM"
     }
 ]
