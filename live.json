@@ -20,18 +20,18 @@
     {
         "channel": "https://www.youtube.com/@ShioriNovella",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/62qk4iabOZE/maxresdefault_live.jpg",
-        "timestamp": 1759867200,
+        "timestamp": null,
         "title": "Amanda the Adventurer 2: Brain Meltdowns Over Haunted Tapes in the Attic",
         "video_id": "62qk4iabOZE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/62qk4iabOZE/maxresdefault_live.jpg",
-        "timestamp": 1759867200,
+        "timestamp": null,
         "title": "Amanda the Adventurer 2: Brain Meltdowns Over Haunted Tapes in the Attic",
         "video_id": "62qk4iabOZE"
     },
@@ -79,15 +79,6 @@
         "timestamp": 1759917600,
         "title": "【配信予定地】つぎの配信はココ📍【風真いろは/ホロライブ】",
         "video_id": "Npwxj-wAsoc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xBLrTVYLcpk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【マリオオデッセイ】クリアするまで寝ない枠ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "xBLrTVYLcpk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -160,5 +151,23 @@
         "timestamp": 1759921200,
         "title": "【Goblin Cleanup】次の冒険者が来る前に、ダンジョンを掃除して罠を再設置だっ🧹 #つぼはち【獅白ぼたん/ホロライブ】",
         "video_id": "v_TPSsL3mu8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8FEAewSufsA/maxresdefault_live.jpg",
+        "timestamp": 1759888800,
+        "title": "【HANDCAM COLLAB】POKEMON TCG OPENING! WHO WILL CATCH THEM ALL?",
+        "video_id": "8FEAewSufsA"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8FEAewSufsA/maxresdefault_live.jpg",
+        "timestamp": 1759888800,
+        "title": "【HANDCAM COLLAB】POKEMON TCG OPENING! WHO WILL CATCH THEM ALL?",
+        "video_id": "8FEAewSufsA"
     }
 ]
