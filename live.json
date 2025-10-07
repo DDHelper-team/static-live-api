@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Tj2MVIoGCrA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】ざつだんをする男【夕刻ロベル/ホロスターズ】",
-        "video_id": "Tj2MVIoGCrA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/93Hws9zj6vg/maxresdefault_live.jpg",
+        "timestamp": 1759896000,
+        "title": "【Megabonk】3Dのヴァンサバ風ゲームをやる男【夕刻ロベル/ホロスターズ】",
+        "video_id": "93Hws9zj6vg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
@@ -232,5 +232,23 @@
         "timestamp": 1759838400,
         "title": "【配信予定地】【ホロライブ/ときのそら】",
         "video_id": "WX8JDet1K6M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xi1P-Ri0T84/maxresdefault_live.jpg",
+        "timestamp": 1759845600,
+        "title": "【MAGE ARENA】FIRE BALL !!! *misses* *aura-1* 【Zeta POV】",
+        "video_id": "xi1P-Ri0T84"
+    },
+    {
+        "channel": "https://www.youtube.com/@VestiaZeta",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xi1P-Ri0T84/maxresdefault_live.jpg",
+        "timestamp": 1759845600,
+        "title": "【MAGE ARENA】FIRE BALL !!! *misses* *aura-1* 【Zeta POV】",
+        "video_id": "xi1P-Ri0T84"
     }
 ]
