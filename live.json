@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AbJctYl8ihc/maxresdefault_live.jpg",
-        "timestamp": 1759834800,
+        "timestamp": null,
         "title": "【#フブミオまんぷくグルメ】五感を研ぎ澄ませ！フブミオのてぇてぇグルメSHOW【#ヤフーショッピング】",
         "video_id": "AbJctYl8ihc"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dppbpsX9GBw/maxresdefault_live.jpg",
-        "timestamp": 1759834800,
+        "timestamp": null,
         "title": "【マリーのアトリエ Remake】後編：首席で卒業…できるのか？！⚗️【獅白ぼたん/ホロライブ】",
         "video_id": "dppbpsX9GBw"
     },
@@ -117,15 +117,6 @@
         "video_id": "YJgNHCoIz2M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ff1AaT0I2tI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ペルソナ３ リロード】#4 | 完全初見！満月にはご用心🌕️【緋月ゆい/ネオポルテ】※ネタバレあり",
-        "video_id": "ff1AaT0I2tI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -133,15 +124,6 @@
         "timestamp": 1759881600,
         "title": "【CLOVERPIT】Let\u0026#39;s go gambling【Dokibird】",
         "video_id": "tPeotROap4k"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ff1AaT0I2tI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ペルソナ３ リロード】#4 | 完全初見！満月にはご用心🌕️【緋月ゆい/ネオポルテ】※ネタバレあり",
-        "video_id": "ff1AaT0I2tI"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -263,9 +245,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KaAa6CD2_9M/maxresdefault_live.jpg",
-        "timestamp": 1759834920,
+        "timestamp": null,
         "title": "プール経営するぞ！２かいめ",
         "video_id": "KaAa6CD2_9M"
     },
@@ -286,5 +268,23 @@
         "timestamp": 1759835700,
         "title": "【GTA5 #MADTOWN S2】練習サーバーに例の車入れてもらえたらしい！！ので練習！【アルランディス/ホロスターズ】",
         "video_id": "5HJkn-Y-xzE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QkID9IFoEk4/maxresdefault_live.jpg",
+        "timestamp": 1759842000,
+        "title": "【Keep Digging】珍しい4人で穴掘りするぞ！【 雪花ラミィ /ホロライブ】",
+        "video_id": "QkID9IFoEk4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EnQcoZzAh9s/maxresdefault_live.jpg",
+        "timestamp": 1759838400,
+        "title": "【マリカ8DX】1時間以内に1位取れなかったらマリオオデッセイクリアするまで寝ない！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "EnQcoZzAh9s"
     }
 ]
