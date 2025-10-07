@@ -45,15 +45,6 @@
         "video_id": "Ow2tYXFWfTY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AbJctYl8ihc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#フブミオまんぷくグルメ】五感を研ぎ澄ませ！フブミオのてぇてぇグルメSHOW【#ヤフーショッピング】",
-        "video_id": "AbJctYl8ihc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -209,10 +200,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WX8JDet1K6M/maxresdefault_live.jpg",
-        "timestamp": 1759838400,
-        "title": "【配信予定地】【ホロライブ/ときのそら】",
+        "timestamp": null,
+        "title": "【ネタバレ注意】都市伝説によばれし主人公っていいよね～都市伝説解体センター～【ホロライブ/ときのそら】",
         "video_id": "WX8JDet1K6M"
     },
     {
@@ -281,9 +272,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EnQcoZzAh9s/maxresdefault_live.jpg",
-        "timestamp": 1759838400,
+        "timestamp": null,
         "title": "【マリカ8DX】1時間以内に1位取れなかったらマリオオデッセイクリアするまで寝ない！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "EnQcoZzAh9s"
     },
@@ -299,9 +290,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-sZA-nToT5M/maxresdefault_live.jpg",
-        "timestamp": 1759838400,
+        "timestamp": null,
         "title": "【FF14】アルシュベルドに会いに行くぞー!!【花咲みやび/ホロスターズ】",
         "video_id": "-sZA-nToT5M"
     },
@@ -326,10 +317,55 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hQegDKOsTmg/maxresdefault_live.jpg",
-        "timestamp": 1759839300,
+        "timestamp": null,
         "title": "\u0026quot; メグとばけもの \u0026quot; と【 奏手イヅル 】",
         "video_id": "hQegDKOsTmg"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ll5HZhl90gw/maxresdefault_live.jpg",
+        "timestamp": 1759842000,
+        "title": "【 Keep Digging 】このゲームで屁をこけることぐらいしか覚えてません【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "ll5HZhl90gw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_Kp7dB7gBGU/maxresdefault_live.jpg",
+        "timestamp": 1759845600,
+        "title": "【Mage Arena】I Woke up in an Unfamiliar Land as a Mage and Now I Have to Save the World?!【Anya】",
+        "video_id": "_Kp7dB7gBGU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ll5HZhl90gw/maxresdefault_live.jpg",
+        "timestamp": 1759842000,
+        "title": "【 Keep Digging 】このゲームで屁をこけることぐらいしか覚えてません【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "ll5HZhl90gw"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1gwxLLnLoVU/maxresdefault_live.jpg",
+        "timestamp": 1759842000,
+        "title": "【歌枠 / Singing】初見さん20人ください！(切実)【#vtuber 】",
+        "video_id": "1gwxLLnLoVU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1gwxLLnLoVU/maxresdefault_live.jpg",
+        "timestamp": 1759842000,
+        "title": "【歌枠 / Singing】初見さん20人ください！(切実)【#vtuber 】",
+        "video_id": "1gwxLLnLoVU"
     }
 ]
