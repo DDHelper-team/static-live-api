@@ -146,10 +146,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QVEaLPx3-lM/maxresdefault_live.jpg",
-        "timestamp": 1759914000,
-        "title": "#MADTOWN【 GTA5 MADTOWN 】Ritunes music barの日常5話目【律可/ホロスターズ 】",
+        "timestamp": null,
+        "title": "#6 #MADTOWN【 GTA5 MADTOWN 】Ritunes music barの日常5話目【律可/ホロスターズ 】",
         "video_id": "QVEaLPx3-lM"
     },
     {
@@ -241,5 +241,32 @@
         "timestamp": 1759928400,
         "title": "【メンバー限定】（同時視聴ではない）ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "V9haTRFyICc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO5ibmgTX_bmr5lL1EdJnrQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3vZwXHP8IBk/maxresdefault_live.jpg",
+        "timestamp": 1759921200,
+        "title": "【No, I\u0026#39;m not a Human】找怪人模擬器 ...  10/8【久田はくぜん】",
+        "video_id": "3vZwXHP8IBk"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hakuzen0025",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3vZwXHP8IBk/maxresdefault_live.jpg",
+        "timestamp": 1759921200,
+        "title": "【No, I\u0026#39;m not a Human】找怪人模擬器 ...  10/8【久田はくぜん】",
+        "video_id": "3vZwXHP8IBk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DvEy4NB-Uus/maxresdefault_live.jpg",
+        "timestamp": 1759917600,
+        "title": "【LTK Watch party】後半戦が始まりました。今日はきっと波乱の展開を迎えるでしょう。  #LTK  #均衡の守人 / アステル",
+        "video_id": "DvEy4NB-Uus"
     }
 ]
