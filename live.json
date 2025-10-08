@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Z9JQHikhOTg/maxresdefault_live.jpg",
-        "timestamp": 1759888800,
+        "timestamp": null,
         "title": "【WATERPARK SIMULATOR】 PLEASE DON\u0026#39;T DRINK THE POOL WATER 【Kureiji Ollie】",
         "video_id": "Z9JQHikhOTg"
     },
@@ -81,15 +81,6 @@
         "video_id": "ihQsYGyGzP4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ss_Rw6nObdI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FiGGYZ x hololive EN】A Fine Addition to My Collection! Upcoming Collab Info + Drawing!? #sponsored",
-        "video_id": "Ss_Rw6nObdI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -137,18 +128,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8FEAewSufsA/maxresdefault_live.jpg",
-        "timestamp": 1759888800,
+        "timestamp": null,
         "title": "【HANDCAM COLLAB】POKEMON TCG OPENING! WHO WILL CATCH THEM ALL?",
         "video_id": "8FEAewSufsA"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8FEAewSufsA/maxresdefault_live.jpg",
-        "timestamp": 1759888800,
+        "timestamp": null,
         "title": "【HANDCAM COLLAB】POKEMON TCG OPENING! WHO WILL CATCH THEM ALL?",
         "video_id": "8FEAewSufsA"
     },
@@ -178,5 +169,23 @@
         "timestamp": 1759953600,
         "title": "FMV Horror Where You\u0026#39;re a Parasite Removing Surgeon (Dead Reset)",
         "video_id": "eY-YW4HsrfQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z2XsRDOS3tI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】闇落ちしない【緋月ゆい/ネオポルテ】",
+        "video_id": "Z2XsRDOS3tI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z2XsRDOS3tI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】闇落ちしない【緋月ゆい/ネオポルテ】",
+        "video_id": "Z2XsRDOS3tI"
     }
 ]
