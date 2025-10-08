@@ -90,15 +90,6 @@
         "video_id": "QVEaLPx3-lM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XLjQSFWCQJY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロライブ甲子園2025】桜咲高校２年目秋‼⚾秋の全国大会へ勝ち進むにぇ！！！！！！【ホロライブ/さくらみこ】",
-        "video_id": "XLjQSFWCQJY"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
         "status": "LIVE",
@@ -205,5 +196,14 @@
         "timestamp": null,
         "title": "#MADTOWN 10/08 滑り込み店員【 奏手イヅル 】",
         "video_id": "NLSF3OtNZZg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/K95WvKPaFZk/maxresdefault_live.jpg",
+        "timestamp": 1760004000,
+        "title": "【爆弾解除】＃ろぼたん で高性能 爆弾解除～💣【ホロライブ/ロボ子さん】",
+        "video_id": "K95WvKPaFZk"
     }
 ]
