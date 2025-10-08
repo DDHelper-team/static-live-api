@@ -38,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ihQsYGyGzP4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【UNO凸待ち】ガチのマジでUNOしたい人集合：UNO【ホロライブ/大空スバル】",
-        "video_id": "ihQsYGyGzP4"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/78YidEt8LOM/maxresdefault_live.jpg",
+        "timestamp": 1760011200,
+        "title": "【#3】ゼルダの伝説 神々のトライフォース：The Legend of Zelda: A Link to the Past【ホロライブ/大空スバル】",
+        "video_id": "78YidEt8LOM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -76,7 +76,7 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9Dn1vWDl57k/maxresdefault_live.jpg",
-        "timestamp": 1759932000,
+        "timestamp": 1759933800,
         "title": "【THE WITCHER 3】ciribrainrot #kfp #キアライブ",
         "video_id": "9Dn1vWDl57k"
     },
@@ -164,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ij1DluOL3iY/maxresdefault_live.jpg",
-        "timestamp": 1759932000,
+        "timestamp": null,
         "title": "【CloverPit】uhhhh more jackpot...【Pavolia Reine/hololiveID 2ndgen】",
         "video_id": "ij1DluOL3iY"
     },
@@ -232,5 +232,14 @@
         "timestamp": 1759964400,
         "title": "【3D VRC】i get a job at a cafe to pay my taxes",
         "video_id": "yQYOiT9yZPk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LCPTYdq9smI/maxresdefault_live.jpg",
+        "timestamp": 1760014800,
+        "title": "【メンバー限定配信】開設5年7ヶ月目！「劇場版ポケットモンスター アドバンスジェネレーション 七夜の願い星 ジラーチ」同時視聴！【角巻わため/ホロライブ４期生】",
+        "video_id": "LCPTYdq9smI"
     }
 ]
