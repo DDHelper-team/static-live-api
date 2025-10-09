@@ -173,20 +173,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZgiC4xLEKIc/maxresdefault_live.jpg",
-        "timestamp": 1760018400,
+        "timestamp": null,
         "title": "【 Fields of Mistria 】They said I can date A DRAGON here, so...👉👈 【 iofi / hololiveID 】",
         "video_id": "ZgiC4xLEKIc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JNc8ekajM0w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ウミガリDEMO】チラズアート最新作！今回は釣りホラー！？ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "JNc8ekajM0w"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -214,5 +205,14 @@
         "timestamp": null,
         "title": "【 -`🎙 歌枠/Singing 】涼しさはここに。【 獅子神レオナ/Re:AcT】",
         "video_id": "sUEMzx-8YRk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bMH4hyKwtQM/maxresdefault_live.jpg",
+        "timestamp": 1760058000,
+        "title": "≪SILENT HILL f≫ One Stream. 【SPOILERS WARNING】",
+        "video_id": "bMH4hyKwtQM"
     }
 ]
