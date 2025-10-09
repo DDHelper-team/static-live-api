@@ -182,20 +182,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
         "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/KktkKSiwra4/maxresdefault_live.jpg",
-        "timestamp": 1760000400,
-        "title": "【GTA5│MAD TOWN】マッドアリエス教会初ミサ始動！？白狐の顔も添えて【アキロゼ/ホロライブ】",
-        "video_id": "KktkKSiwra4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ICUCWTXu2zg/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/OlXoBjAhzy0/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【HoloCure】実績解除！～オールガチ恋への道のり～【尾丸ポルカ/ホロライブ】",
-        "video_id": "ICUCWTXu2zg"
+        "title": "【GTA5│MAD TOWN】マッドアリエス教会初ミサ始動！？白狐の顔も添えて【アキロゼ/ホロライブ】",
+        "video_id": "OlXoBjAhzy0"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
@@ -214,5 +205,14 @@
         "timestamp": 1760007600,
         "title": "【CloverPit】ギャンブルで借金返済できるって聞きました【 ホロライブ / 大神ミオ 】",
         "video_id": "usGURD1JbyY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d68klNtMxCk/maxresdefault_live.jpg",
+        "timestamp": 1760014800,
+        "title": "２２",
+        "video_id": "d68klNtMxCk"
     }
 ]
