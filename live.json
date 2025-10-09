@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/R-Qk7wtr7Jo/maxresdefault_live.jpg",
-        "timestamp": 1760032800,
+        "timestamp": null,
         "title": "【WORLD CUP 2026 WATCHALONG】austria vs san marino....... I\u0026#39;ll try not to be mean but we will win",
         "video_id": "R-Qk7wtr7Jo"
     },
@@ -63,24 +63,6 @@
         "video_id": "2hCyY8Xehd4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nX9BEfMYqOo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#7 #MADTOWN【 GTA5 MADTOWN 】週末のライブを考える！Ritunes music barの日常6話目【律可/ホロスターズ 】",
-        "video_id": "nX9BEfMYqOo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OlXoBjAhzy0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GTA5│MAD TOWN】マッドアリエス教会初ミサ始動！？白狐の顔も添えて【アキロゼ/ホロライブ】",
-        "video_id": "OlXoBjAhzy0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -106,5 +88,50 @@
         "timestamp": 1760086800,
         "title": "【GTA5 MADTOWN】こんばんはMADTOWN　7日目【夕刻ロベル/ホロスターズ】",
         "video_id": "0DdwskS_KlE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qmS9HylYezA/maxresdefault_live.jpg",
+        "timestamp": 1760054400,
+        "title": "【MONSTER HUNTER WILDS】LET\u0026#39;S WOODEN SHOVEL",
+        "video_id": "qmS9HylYezA"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qmS9HylYezA/maxresdefault_live.jpg",
+        "timestamp": 1760054400,
+        "title": "【MONSTER HUNTER WILDS】LET\u0026#39;S WOODEN SHOVEL",
+        "video_id": "qmS9HylYezA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vuVp9M0v5w4/maxresdefault_live.jpg",
+        "timestamp": 1760090400,
+        "title": "【はいしんよていち】22時からに変更する可能性もあり！！【博衣こより/ホロライブ】",
+        "video_id": "vuVp9M0v5w4"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1760033752.0168524,
+        "title": "evil is in Perfect health"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c-ManPxok7I/maxresdefault_live.jpg",
+        "timestamp": 1760076000,
+        "title": "【 Honkai Star Rail 】Date With Firefly【 iofi / hololiveID 】",
+        "video_id": "c-ManPxok7I"
     }
 ]
