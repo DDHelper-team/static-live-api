@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/78YidEt8LOM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#3】ゼルダの伝説 神々のトライフォース：The Legend of Zelda: A Link to the Past【ホロライブ/大空スバル】",
-        "video_id": "78YidEt8LOM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -126,24 +117,6 @@
         "video_id": "0KQR9yCvSY8"
     },
     {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sUEMzx-8YRk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】涼しさはここに。【 獅子神レオナ/Re:AcT】",
-        "video_id": "sUEMzx-8YRk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sUEMzx-8YRk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 -`🎙 歌枠/Singing 】涼しさはここに。【 獅子神レオナ/Re:AcT】",
-        "video_id": "sUEMzx-8YRk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -151,5 +124,14 @@
         "timestamp": 1760058000,
         "title": "≪SILENT HILL f≫ One Stream. 【SPOILERS WARNING】",
         "video_id": "bMH4hyKwtQM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qXO2JCaFaHE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Dead by Daylight】ゲリラDBD⚡悪魔のおいかけっこ始まる！【ホロライブ/癒月ちょこ】",
+        "video_id": "qXO2JCaFaHE"
     }
 ]
