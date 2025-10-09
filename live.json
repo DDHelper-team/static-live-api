@@ -45,15 +45,6 @@
         "video_id": "LCPTYdq9smI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/K95WvKPaFZk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【爆弾解除】＃ろぼたん で高性能 爆弾解除～💣【ホロライブ/ロボ子さん】",
-        "video_id": "K95WvKPaFZk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -110,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8RnQ0R_xa7E/maxresdefault_live.jpg",
-        "timestamp": 1760007600,
+        "timestamp": null,
         "title": "【おしゃべりキング！】・・・・・・・・・・・・・・・・ちくわ。【白上フブキ/ホロライブ】",
         "video_id": "8RnQ0R_xa7E"
     },
@@ -173,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/GGk7EOA_bHs/maxresdefault_live.jpg",
-        "timestamp": 1760007600,
+        "timestamp": null,
         "title": "【FF4】#01 完全初見！ファイナルファンタジーIVをプレイ！～ピクセルリマスター版～【 雪花ラミィ /ホロライブ】※配信内容にネタバレあり",
         "video_id": "GGk7EOA_bHs"
     },
@@ -191,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/usGURD1JbyY/maxresdefault_live.jpg",
-        "timestamp": 1760007600,
+        "timestamp": null,
         "title": "【CloverPit】ギャンブルで借金返済できるって聞きました【 ホロライブ / 大神ミオ 】",
         "video_id": "usGURD1JbyY"
     },
@@ -223,5 +214,23 @@
         "timestamp": 1760018400,
         "title": "【 Fields of Mistria 】They said I can date A DRAGON here, so...👉👈 【 iofi / hololiveID 】",
         "video_id": "ZgiC4xLEKIc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JNc8ekajM0w/maxresdefault_live.jpg",
+        "timestamp": 1760011200,
+        "title": "【】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "JNc8ekajM0w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0KQR9yCvSY8/maxresdefault_live.jpg",
+        "timestamp": 1760013000,
+        "title": "【GTA5 #MADTOWN S2】いろいろ追加されたらしいMADTOWNへ赴く白狐頭領【アルランディス/ホロスターズ】",
+        "video_id": "0KQR9yCvSY8"
     }
 ]
