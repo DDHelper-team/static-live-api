@@ -63,15 +63,6 @@
         "video_id": "QQrZXe_40p0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Yf06ZceO3Js/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【崩壊：スターレイル】完全初見！真実を知る時が来た。【ホロライブ/夏色まつり】",
-        "video_id": "Yf06ZceO3Js"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -151,5 +142,23 @@
         "timestamp": 1760014800,
         "title": "WIGGLY WOBBLY WIGGLY WOBBLY",
         "video_id": "4HdbY4hwcOI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8RnQ0R_xa7E/maxresdefault_live.jpg",
+        "timestamp": 1760007600,
+        "title": "【おしゃべりキング！】・・・・・・・・・・・・・・・・ちくわ。【白上フブキ/ホロライブ】",
+        "video_id": "8RnQ0R_xa7E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/63LAc9AAlPs/maxresdefault_live.jpg",
+        "timestamp": 1760058000,
+        "title": "【MEGABONK】sorry, skeletons. #calliolive",
+        "video_id": "63LAc9AAlPs"
     }
 ]
