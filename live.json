@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/78YidEt8LOM/maxresdefault_live.jpg",
-        "timestamp": 1760011200,
+        "timestamp": null,
         "title": "【#3】ゼルダの伝説 神々のトライフォース：The Legend of Zelda: A Link to the Past【ホロライブ/大空スバル】",
         "video_id": "78YidEt8LOM"
     },
@@ -182,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tPHjCMsK91M/maxresdefault_live.jpg",
-        "timestamp": 1760011200,
+        "timestamp": null,
         "title": "【カラスのおしごと】鴉になって街を翔ぶ#2【荒咬オウガ /ホロスターズ】",
         "video_id": "tPHjCMsK91M"
     },
@@ -200,18 +200,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JNc8ekajM0w/maxresdefault_live.jpg",
-        "timestamp": 1760011200,
-        "title": "【】ぺこ！【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "【ウミガリDEMO】チラズアート最新作！今回は釣りホラー！？ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "JNc8ekajM0w"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0KQR9yCvSY8/maxresdefault_live.jpg",
-        "timestamp": 1760013000,
+        "timestamp": null,
         "title": "【GTA5 #MADTOWN S2】いろいろ追加されたらしいMADTOWNへ赴く白狐頭領【アルランディス/ホロスターズ】",
         "video_id": "0KQR9yCvSY8"
     },
@@ -232,5 +232,14 @@
         "timestamp": 1760016600,
         "title": "【 -`🎙 歌枠/Singing 】涼しさはここに。【 獅子神レオナ/Re:AcT】",
         "video_id": "sUEMzx-8YRk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/N0BSl-ViwUE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【豊潤サジー】サジスタWEEK！歌ってこーか【影山シエン/ホロスターズ】",
+        "video_id": "N0BSl-ViwUE"
     }
 ]
