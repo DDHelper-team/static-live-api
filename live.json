@@ -90,15 +90,6 @@
         "video_id": "OlXoBjAhzy0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WRVLoQvhV8Y/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "プール経営するぞ！３かいめ",
-        "video_id": "WRVLoQvhV8Y"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "LIVE",
@@ -133,5 +124,14 @@
         "timestamp": null,
         "title": "【Dead by Daylight】ゲリラDBD⚡悪魔のおいかけっこ始まる！【ホロライブ/癒月ちょこ】",
         "video_id": "qXO2JCaFaHE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0DdwskS_KlE/maxresdefault_live.jpg",
+        "timestamp": 1760086800,
+        "title": "【GTA5 MADTOWN】こんばんはMADTOWN　7日目【夕刻ロベル/ホロスターズ】",
+        "video_id": "0DdwskS_KlE"
     }
 ]
