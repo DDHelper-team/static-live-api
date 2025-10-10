@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0DdwskS_KlE/maxresdefault_live.jpg",
-        "timestamp": 1760086800,
+        "timestamp": null,
         "title": "【GTA5 MADTOWN】こんばんはMADTOWN　7日目【夕刻ロベル/ホロスターズ】",
         "video_id": "0DdwskS_KlE"
     },
@@ -90,15 +90,6 @@
         "video_id": "8HTiN1FBgU0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ciUz4TAlh4U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "JUM\u0026#39;AT BERKAH",
-        "video_id": "ciUz4TAlh4U"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "LIVE",
@@ -164,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/E-ARWmpb8KI/maxresdefault_live.jpg",
-        "timestamp": 1760086800,
+        "timestamp": null,
         "title": "【 トワと神樹の祈り子たち 】前回クリアできなかったので…！！やってやる！！🔥#２【常闇トワ/ホロライブ】",
         "video_id": "E-ARWmpb8KI"
     },
@@ -214,5 +205,14 @@
         "timestamp": 1760101200,
         "title": "【メンバーシップ限定】いっしょに「ドラゴンボール超 スーパーヒーロー」を観たい会【ホロライブ/宝鐘マリン】",
         "video_id": "kF9UPv-jXjM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bXlbDEXycNs/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【歌枠】 ぷちお披露目ありのKARAOKE！",
+        "video_id": "bXlbDEXycNs"
     }
 ]
