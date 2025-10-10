@@ -171,15 +171,6 @@
         "video_id": "q3Pqsa8tg_8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/harcL9CjAlY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Freetalk】Let\u0026#39;s talk in the middle of the night【Moona Hoshinova】",
-        "video_id": "harcL9CjAlY"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "LIVE",
@@ -250,5 +241,23 @@
         "timestamp": 1760180400,
         "title": "#02【LITTLE NIGHTMARES 3/リトルナイトメア3】新作！！フレア先輩といく！！【轟はじめ/ReGLOSS】※ネタバレあり",
         "video_id": "RI_ZpAkbvXA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CVrQI_-wnRc/maxresdefault_live.jpg",
+        "timestamp": 1760202000,
+        "title": "Cursed Auction: Haunted Items \u0026#39;Sold\u0026#39; to Brave Inkwell Souls",
+        "video_id": "CVrQI_-wnRc"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CVrQI_-wnRc/maxresdefault_live.jpg",
+        "timestamp": 1760202000,
+        "title": "Cursed Auction: Haunted Items \u0026#39;Sold\u0026#39; to Brave Inkwell Souls",
+        "video_id": "CVrQI_-wnRc"
     }
 ]
