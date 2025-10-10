@@ -27,15 +27,6 @@
         "video_id": "jtQy1xURcuQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/c-ManPxok7I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Honkai Star Rail 】Date With Firefly【 iofi / hololiveID 】",
-        "video_id": "c-ManPxok7I"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -232,5 +223,32 @@
         "timestamp": 1760176800,
         "title": "【配信予定地】つぎはここです📍【風真いろは/ホロライブ】",
         "video_id": "MvvK3RzNkXM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Jisrxs_o6qk/maxresdefault_live.jpg",
+        "timestamp": 1760155200,
+        "title": "【METAL GEAR SOLID Δ: SNAKE EATER】#03 人生初のメタルギア！！！いくぞおおお！！！！！【天音かなた/ホロライブ】",
+        "video_id": "Jisrxs_o6qk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aN2Lx8_yr7U/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "#MADTOWN 10/10 本日もにゅるりと店員【 奏手イヅル 】",
+        "video_id": "aN2Lx8_yr7U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JWOEtCYZ2Rc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【GTA5│MAD TOWN】まだやってないこともいっぱいやってみたい【アキロゼ/ホロライブ】",
+        "video_id": "JWOEtCYZ2Rc"
     }
 ]
