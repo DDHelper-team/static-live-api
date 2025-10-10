@@ -108,15 +108,6 @@
         "video_id": "bGupA4ZZ24Y"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCCzUftO8KOVkV4wQG1vkUvg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kF9UPv-jXjM/maxresdefault_live.jpg",
-        "timestamp": 1760101200,
-        "title": "【メンバーシップ限定】いっしょに「ドラゴンボール超 スーパーヒーロー」を観たい会【ホロライブ/宝鐘マリン】",
-        "video_id": "kF9UPv-jXjM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -236,9 +227,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/abRBThUWeqE/maxresdefault_live.jpg",
-        "timestamp": 1760103000,
+        "timestamp": null,
         "title": "【Ratatan】Feel the rhythm! 🎵 (Spoilers)",
         "video_id": "abRBThUWeqE"
     },
@@ -254,9 +245,9 @@
     {
         "channel": "https://www.youtube.com/@VestiaZeta",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/abRBThUWeqE/maxresdefault_live.jpg",
-        "timestamp": 1760103000,
+        "timestamp": null,
         "title": "【Ratatan】Feel the rhythm! 🎵 (Spoilers)",
         "video_id": "abRBThUWeqE"
     },
@@ -277,5 +268,23 @@
         "timestamp": 1760104800,
         "title": "【Freetalk】Let\u0026#39;s talk in the middle of the night【Moona Hoshinova】",
         "video_id": "harcL9CjAlY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0ZIWNtEf4sE/maxresdefault_live.jpg",
+        "timestamp": 1760104800,
+        "title": "【スパチャ読み③】2周年でいただいたスパチャを読み読みタイム【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "0ZIWNtEf4sE"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0ZIWNtEf4sE/maxresdefault_live.jpg",
+        "timestamp": 1760104800,
+        "title": "【スパチャ読み③】2周年でいただいたスパチャを読み読みタイム【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "0ZIWNtEf4sE"
     }
 ]
