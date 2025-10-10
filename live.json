@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8HTiN1FBgU0/maxresdefault_live.jpg",
-        "timestamp": 1760070613,
+        "timestamp": null,
         "title": "【ペルソナ３ リロード】#6 | 完全初見！夏休みが始まった🌴【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "8HTiN1FBgU0"
     },
@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8HTiN1FBgU0/maxresdefault_live.jpg",
-        "timestamp": 1760070613,
+        "timestamp": null,
         "title": "【ペルソナ３ リロード】#6 | 完全初見！夏休みが始まった🌴【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "8HTiN1FBgU0"
     },
@@ -178,5 +178,14 @@
         "timestamp": 1760079600,
         "title": "【雑談】秋っぽい話をする!!【花咲みやび/ホロスターズ】",
         "video_id": "KHjxREMAYhw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wsXGoFXS-Vs/maxresdefault_live.jpg",
+        "timestamp": 1760097600,
+        "title": "【#7】新機動戦記ガンダムW 同時視聴会【ホロライブ/大空スバル】",
+        "video_id": "wsXGoFXS-Vs"
     }
 ]
