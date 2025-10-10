@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/q4nv8E7iutQ/maxresdefault_live.jpg",
-        "timestamp": 1760054400,
+        "timestamp": null,
         "title": "【Blue Protocol: Star Resonance】A New Chance To Shine!! Long Awaited MMORPG💖with @OuroKronii #ad",
         "video_id": "q4nv8E7iutQ"
     },
@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/63LAc9AAlPs/maxresdefault_live.jpg",
-        "timestamp": 1760058000,
+        "timestamp": null,
         "title": "【MEGABONK】sorry, skeletons. #calliolive",
         "video_id": "63LAc9AAlPs"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qmS9HylYezA/maxresdefault_live.jpg",
-        "timestamp": 1760054400,
+        "timestamp": null,
         "title": "【MONSTER HUNTER WILDS】LET\u0026#39;S WOODEN SHOVEL",
         "video_id": "qmS9HylYezA"
     },
@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCmbs8T6MWqUHP1tIQvSgKrg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jaF5B5_D_Ek/maxresdefault_live.jpg",
-        "timestamp": 1760054400,
+        "timestamp": null,
         "title": "【Blue Protocol: Star Resonance】 New MMORPG? So In 🏃‍♀️ With @TakanashiKiara #sponsored",
         "video_id": "jaF5B5_D_Ek"
     },
@@ -101,18 +101,18 @@
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qmS9HylYezA/maxresdefault_live.jpg",
-        "timestamp": 1760054400,
+        "timestamp": null,
         "title": "【MONSTER HUNTER WILDS】LET\u0026#39;S WOODEN SHOVEL",
         "video_id": "qmS9HylYezA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bMH4hyKwtQM/maxresdefault_live.jpg",
-        "timestamp": 1760058000,
+        "timestamp": null,
         "title": "≪SILENT HILL f≫ One Stream. 【SPOILERS WARNING】",
         "video_id": "bMH4hyKwtQM"
     },
@@ -126,12 +126,21 @@
         "video_id": "7rlBt8L6Aro"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s8nFreX9SdI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BABY STEPS】みんなの出勤に合わせておじさんベイビーも出勤するぞ【岸堂天真/ホロスターズ】",
-        "video_id": "s8nFreX9SdI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wBRenzXpD-4/maxresdefault_live.jpg",
+        "timestamp": 1760144400,
+        "title": "【SILENT HILL F】our 2nd trip to horror hill ebisugaoka 🐾【SPOILER WARNING｜FUWAMOCO】",
+        "video_id": "wBRenzXpD-4"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wBRenzXpD-4/maxresdefault_live.jpg",
+        "timestamp": 1760144400,
+        "title": "【SILENT HILL F】our 2nd trip to horror hill ebisugaoka 🐾【SPOILER WARNING｜FUWAMOCO】",
+        "video_id": "wBRenzXpD-4"
     }
 ]
