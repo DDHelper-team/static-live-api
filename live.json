@@ -135,20 +135,11 @@
         "video_id": "MH1X6ZNIOzs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2HDsLdTunB4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MONSTER HUNTER WILDS】WOODEN SHOVEL Hunting With Biboo!! Pt. 2",
-        "video_id": "2HDsLdTunB4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KHjxREMAYhw/maxresdefault_live.jpg",
-        "timestamp": 1760079600,
+        "timestamp": null,
         "title": "【雑談】秋っぽい話をする!!【花咲みやび/ホロスターズ】",
         "video_id": "KHjxREMAYhw"
     },
@@ -205,5 +196,14 @@
         "timestamp": 1760086800,
         "title": "【 トワと神樹の祈り子たち 】前回クリアできなかったので…！！やってやる！！🔥#２【常闇トワ/ホロライブ】",
         "video_id": "E-ARWmpb8KI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MXHxAX5TyaM/maxresdefault_live.jpg",
+        "timestamp": 1760101200,
+        "title": "【biohazard HD REMASTER】完全初見！初代バイオハザードをプレイ！#3【ホロライブ / AZKi】",
+        "video_id": "MXHxAX5TyaM"
     }
 ]
