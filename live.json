@@ -11,27 +11,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wBRenzXpD-4/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
+        "timestamp": null,
         "title": "【SILENT HILL F】our 2nd trip to horror hill ebisugaoka 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "wBRenzXpD-4"
     },
     {
         "channel": "https://www.youtube.com/@FUWAMOCOch",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wBRenzXpD-4/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
+        "timestamp": null,
         "title": "【SILENT HILL F】our 2nd trip to horror hill ebisugaoka 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "wBRenzXpD-4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YucQM0kiE5s/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "YucQM0kiE5s"
     },
@@ -108,33 +108,6 @@
         "video_id": "q3Pqsa8tg_8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dk51wef69U4/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
-        "title": "≪Chrono Gear: Warden of Time≫ Who\u0026#39;s Baelz? #2",
-        "video_id": "dk51wef69U4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EUghjS7BZWg/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
-        "title": "【Phasmophobia】i heard this game is only for the brave ones【GRAONDSTONE】",
-        "video_id": "EUghjS7BZWg"
-    },
-    {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EUghjS7BZWg/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
-        "title": "【Phasmophobia】i heard this game is only for the brave ones【GRAONDSTONE】",
-        "video_id": "EUghjS7BZWg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -180,20 +153,74 @@
         "video_id": "z28HHel9wm4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/j7CFbHGGKAs/maxresdefault_live.jpg",
+        "timestamp": 1760227200,
+        "title": "【#朝活】みんなのおはようが僕の昼ご飯を左右する！！朝活！【#新人vtuber 】",
+        "video_id": "j7CFbHGGKAs"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/j7CFbHGGKAs/maxresdefault_live.jpg",
+        "timestamp": 1760227200,
+        "title": "【#朝活】みんなのおはようが僕の昼ご飯を左右する！！朝活！【#新人vtuber 】",
+        "video_id": "j7CFbHGGKAs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/idpHByTWwSY/maxresdefault_live.jpg",
+        "timestamp": 1760176800,
+        "title": "【 新3D＆新髪型お披露目 】生誕祭の苦悩話なのらね(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "idpHByTWwSY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dk51wef69U4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "≪Chrono Gear: Warden of Time≫ Who\u0026#39;s Baelz? #2",
+        "video_id": "dk51wef69U4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EUghjS7BZWg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Phasmophobia】i heard this game is only for the brave ones【GRAONDSTONE】",
+        "video_id": "EUghjS7BZWg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uCRLTNeyUew/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
+        "timestamp": null,
         "title": "【PHASMOPHOBIA】GRAONDSTONE FACING GHOSTS NOTHING WILL GO WRONG",
         "video_id": "uCRLTNeyUew"
     },
     {
+        "channel": "https://www.youtube.com/@KaelaKovalskia",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EUghjS7BZWg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Phasmophobia】i heard this game is only for the brave ones【GRAONDSTONE】",
+        "video_id": "EUghjS7BZWg"
+    },
+    {
         "channel": "https://www.youtube.com/@KosekiBijou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uCRLTNeyUew/maxresdefault_live.jpg",
-        "timestamp": 1760144400,
+        "timestamp": null,
         "title": "【PHASMOPHOBIA】GRAONDSTONE FACING GHOSTS NOTHING WILL GO WRONG",
         "video_id": "uCRLTNeyUew"
     }
