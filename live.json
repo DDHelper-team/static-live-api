@@ -81,15 +81,6 @@
         "video_id": "CVrQI_-wnRc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/z28HHel9wm4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 手描き切り抜き鑑賞会 】みんなで見よー！！！告知もあります✨✨【角巻わため/ホロライブ４期生】",
-        "video_id": "z28HHel9wm4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -286,5 +277,14 @@
         "timestamp": 1760187600,
         "title": "【ゼルダの伝説 ムジュラの仮面】今日も水の世界で冒険だ！！【ホロライブ/ときのそら】",
         "video_id": "kBx_DuXAb4E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/z-tLo-3RDS4/maxresdefault_live.jpg",
+        "timestamp": 1760248800,
+        "title": "【 Honkai Star Rail 】Another day at Penacony【 iofi / hololiveID 】",
+        "video_id": "z-tLo-3RDS4"
     }
 ]
