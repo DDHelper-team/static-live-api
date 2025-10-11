@@ -173,18 +173,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qom0OxFIWzo/maxresdefault_live.jpg",
-        "timestamp": 1760169600,
+        "timestamp": null,
         "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #10【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
         "video_id": "qom0OxFIWzo"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qom0OxFIWzo/maxresdefault_live.jpg",
-        "timestamp": 1760169600,
+        "timestamp": null,
         "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #10【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
         "video_id": "qom0OxFIWzo"
     },
@@ -200,29 +200,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wR_4skKddxo/maxresdefault_live.jpg",
-        "timestamp": 1760169600,
+        "timestamp": null,
         "title": "【#らでんのラジオ 】知新の秋特別編第一弾！宝石研磨編　ゲスト：ごもも【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "wR_4skKddxo"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wR_4skKddxo/maxresdefault_live.jpg",
-        "timestamp": 1760169600,
+        "timestamp": null,
         "title": "【#らでんのラジオ 】知新の秋特別編第一弾！宝石研磨編　ゲスト：ごもも【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "wR_4skKddxo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nt3S2XKEQKk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "erm... making an ace for cancer cup😂😂😂 (umamusume: pretty derby)",
-        "video_id": "nt3S2XKEQKk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -259,5 +250,14 @@
         "timestamp": 1760191200,
         "title": "【The Headliners】REPORTING THE HEADLINE NEWS:",
         "video_id": "MSwGmiDb0Hs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FQfI-MGpx3E/maxresdefault_live.jpg",
+        "timestamp": 1760187600,
+        "title": "【CloverPit】夢のゲームとききまして・・・？【ホロライブ/ロボ子さん】",
+        "video_id": "FQfI-MGpx3E"
     }
 ]
