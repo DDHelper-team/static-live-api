@@ -173,20 +173,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FQfI-MGpx3E/maxresdefault_live.jpg",
-        "timestamp": 1760187600,
+        "timestamp": null,
         "title": "【CloverPit】夢のゲームとききまして・・・？【ホロライブ/ロボ子さん】",
         "video_id": "FQfI-MGpx3E"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qHM1PRWQeLg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Minecraft脱出マップ】海底探索員 #フブミオ 深海からの脱出します【白上フブキ/大神ミオ/ホロライブ】",
-        "video_id": "qHM1PRWQeLg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCP0BspO_AMEe3aQqqpo89Dg",
@@ -205,15 +196,6 @@
         "timestamp": null,
         "title": "#02【LITTLE NIGHTMARES 3/リトルナイトメア3】新作きちゃ！完全初見ではじぇとマルチで挑む【不知火フレア/ホロライブ】※ネタバレあり",
         "video_id": "-sLjRBCj2Lg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-JANuzv3c-o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FORTNITE ナイトメア・アイランドイベント】きゃりーされ枠です。あかちゃんフォートナイト / アステル",
-        "video_id": "-JANuzv3c-o"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -272,9 +254,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kBx_DuXAb4E/maxresdefault_live.jpg",
-        "timestamp": 1760187600,
+        "timestamp": null,
         "title": "【ゼルダの伝説 ムジュラの仮面】今日も水の世界で冒険だ！！【ホロライブ/ときのそら】",
         "video_id": "kBx_DuXAb4E"
     },
@@ -286,5 +268,32 @@
         "timestamp": 1760248800,
         "title": "【 Honkai Star Rail 】Another day at Penacony【 iofi / hololiveID 】",
         "video_id": "z-tLo-3RDS4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YHM6cwSNQl8/maxresdefault_live.jpg",
+        "timestamp": 1760239800,
+        "title": "≪Clubhouse Games: 51 Worldwide Classics≫ Rat VS Clock",
+        "video_id": "YHM6cwSNQl8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAWSyEs_Io8MtpY3m-zqILA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/h7Bz6tvDk3A/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 歌枠 】リベンジ！しっとりバラード多めでチルい夜にしてね【 桃鈴ねね / hololive 】",
+        "video_id": "h7Bz6tvDk3A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8geeG_DSK6Y/maxresdefault_live.jpg",
+        "timestamp": 1760193000,
+        "title": "【 おにぎり屋さんシミュレーター 】熱血おにぎり！らむすび亭はじめました🍙【角巻わため/ホロライブ４期生】",
+        "video_id": "8geeG_DSK6Y"
     }
 ]
