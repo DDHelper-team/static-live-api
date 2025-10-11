@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oOFqOOvWGP0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 龍が如く0 】ストーリー編もどるぞ☺：Yakuza 0【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-        "video_id": "oOFqOOvWGP0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uhoUe8q1KyQ/maxresdefault_live.jpg",
+        "timestamp": 1760184000,
+        "title": "【 同時視聴 】アニメ映像あり！『コードギアス 反逆のルルーシュ』第1～6話【鷹嶺ルイ/ホロライブ】",
+        "video_id": "uhoUe8q1KyQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -259,5 +259,14 @@
         "timestamp": 1760187600,
         "title": "【CloverPit】夢のゲームとききまして・・・？【ホロライブ/ロボ子さん】",
         "video_id": "FQfI-MGpx3E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qHM1PRWQeLg/maxresdefault_live.jpg",
+        "timestamp": 1760180400,
+        "title": "【Minecraft脱出マップ】海底探索員 #フブミオ 深海からの脱出します【白上フブキ/大神ミオ/ホロライブ】",
+        "video_id": "qHM1PRWQeLg"
     }
 ]
