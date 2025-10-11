@@ -56,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MvvK3RzNkXM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ごはん】炊飯器到着‼クソデカナス到着‼母襲来‼【風真いろは/ホロライブ】",
-        "video_id": "MvvK3RzNkXM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ouxWppgejdk/maxresdefault_live.jpg",
+        "timestamp": 1760266800,
+        "title": "【#風真いろは新衣装】なんとついにあの姿に･･･❣えっ、ぽこべぇにも異変が❓【風真いろは/ホロライブ】",
+        "video_id": "ouxWppgejdk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
@@ -277,5 +277,23 @@
         "timestamp": 1760191200,
         "title": "【The Headliners】NOW REPORTINGGGG【Pavolia Reine/hololiveID 2ndgen】",
         "video_id": "BEIsoUSca6I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/b5CrTgKlWyA/maxresdefault_live.jpg",
+        "timestamp": 1760189400,
+        "title": "【 牧場物語 Let\u0026#39;s！風のグランドバザール 】#５ 秋が来てバザールの旬も変わる。 【獅子神レオナ/Re:AcT】",
+        "video_id": "b5CrTgKlWyA"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/b5CrTgKlWyA/maxresdefault_live.jpg",
+        "timestamp": 1760189400,
+        "title": "【 牧場物語 Let\u0026#39;s！風のグランドバザール 】#５ 秋が来てバザールの旬も変わる。 【獅子神レオナ/Re:AcT】",
+        "video_id": "b5CrTgKlWyA"
     }
 ]
