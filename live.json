@@ -54,15 +54,6 @@
         "video_id": "siisSoQpAVU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k6EmB3JBhXI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】もっと！ぽこつけ！Ｖ最スクリム３日目　VS叢雲カゲツチーム 【ホロライブ/ロボ子さん】",
-        "video_id": "k6EmB3JBhXI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -167,7 +158,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1762547169.7385576
+        "timestamp": 1762547826.5337694,
+        "title": "news reporter neuro on neuro news network"
     },
     {
         "channel": "https://www.youtube.com/channel/UC8rcEBzJSleTkf_-agPM20g",
