@@ -29,10 +29,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/O6IXxkQci7U/maxresdefault_live.jpg",
-        "timestamp": 1762509600,
-        "title": "【配信予定地】ここです📍【風真いろは/ホロライブ】",
+        "timestamp": null,
+        "title": "【縦型歌枠】歌いましょうそうしましょう🎤【風真いろは/ホロライブ】#shorts",
         "video_id": "O6IXxkQci7U"
     },
     {
@@ -191,18 +191,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dLlV2CtyJ4E/maxresdefault_live.jpg",
-        "timestamp": 1762509600,
+        "timestamp": null,
         "title": "【エスケープ フロム ダッコフ】初めてキーマウ操作のゲーム遊ぶ #4【荒咬オウガ /ホロスターズ】",
         "video_id": "dLlV2CtyJ4E"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9mf_ZVpouoILRY9NUIaK-w",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_pCaYHL7L8g/maxresdefault_live.jpg",
-        "timestamp": 1762509600,
+        "timestamp": null,
         "title": "【 Apex legends 】明日大会だし練習や【律可/ホロスターズ 】#りつすた",
         "video_id": "_pCaYHL7L8g"
     },
@@ -214,5 +214,23 @@
         "timestamp": 1762515000,
         "title": "【VALORANT】Ｖ最スクリム３日目　VS叢雲カゲツチーム 【ホロライブ/ロボ子さん】",
         "video_id": "k6EmB3JBhXI"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hakuzen0025",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mBY_A5CgHqM/maxresdefault_live.jpg",
+        "timestamp": 1762514100,
+        "title": "【強制練歌挑戰】每次直播都練一首，歌單海指日可待 Pt.2【久田はくぜん🦊】",
+        "video_id": "mBY_A5CgHqM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCO5ibmgTX_bmr5lL1EdJnrQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mBY_A5CgHqM/maxresdefault_live.jpg",
+        "timestamp": 1762514100,
+        "title": "【強制練歌挑戰】每次直播都練一首，歌單海指日可待 Pt.2【久田はくぜん🦊】",
+        "video_id": "mBY_A5CgHqM"
     }
 ]
