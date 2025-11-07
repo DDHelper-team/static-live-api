@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@FUWAMOCOch",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/o6v8ib1wd8U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#AdventArrival HOLOEARTH】summer isn\u0026#39;t over with #holoAdvent in holoearth 🐾 【FUWAMOCO｜ホロアース】",
-        "video_id": "o6v8ib1wd8U"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -43,15 +34,6 @@
         "timestamp": 1762509600,
         "title": "【配信予定地】ここです📍【風真いろは/ホロライブ】",
         "video_id": "O6IXxkQci7U"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/o6v8ib1wd8U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#AdventArrival HOLOEARTH】summer isn\u0026#39;t over with #holoAdvent in holoearth 🐾 【FUWAMOCO｜ホロアース】",
-        "video_id": "o6v8ib1wd8U"
     },
     {
         "channel": "https://www.youtube.com/channel/UC-hM6YJuNYVAmUWxeIr9FeA",
@@ -169,5 +151,23 @@
         "timestamp": 1762574400,
         "title": "【配信予定地】かなたそなにする【天音かなた/ホロライブ】",
         "video_id": "iHkMGglTsRk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VgNfP3dydbk/maxresdefault_live.jpg",
+        "timestamp": 1762542000,
+        "title": "The Great Reset Is Here! 【Urban Myth Dissolution Center】",
+        "video_id": "VgNfP3dydbk"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShioriNovella",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VgNfP3dydbk/maxresdefault_live.jpg",
+        "timestamp": 1762542000,
+        "title": "The Great Reset Is Here! 【Urban Myth Dissolution Center】",
+        "video_id": "VgNfP3dydbk"
     }
 ]
