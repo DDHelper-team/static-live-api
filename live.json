@@ -263,18 +263,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rAu9UXwbQmI/maxresdefault_live.jpg",
-        "timestamp": 1762585200,
+        "timestamp": null,
         "title": "【#重返未來1999  】3.0新篇章展開！PART2！【#ゲーム個人勢 / Fingla】",
         "video_id": "rAu9UXwbQmI"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rAu9UXwbQmI/maxresdefault_live.jpg",
-        "timestamp": 1762585200,
+        "timestamp": null,
         "title": "【#重返未來1999  】3.0新篇章展開！PART2！【#ゲーム個人勢 / Fingla】",
         "video_id": "rAu9UXwbQmI"
     },
@@ -295,5 +295,41 @@
         "timestamp": 1762592400,
         "title": "【 Apex Legends 】Dtto.UNITY FES w/BAE＆RPR【常闇トワ視点 / ホロライブ】",
         "video_id": "TpcrXM-18lY"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1SGRlh9LsA4/maxresdefault_live.jpg",
+        "timestamp": 1762596000,
+        "title": "【新作!! ポケモンZA】Pokémon LEGENDS Z-A！色違いの子たちと旅✨part5【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "1SGRlh9LsA4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1SGRlh9LsA4/maxresdefault_live.jpg",
+        "timestamp": 1762596000,
+        "title": "【新作!! ポケモンZA】Pokémon LEGENDS Z-A！色違いの子たちと旅✨part5【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "1SGRlh9LsA4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ISnKAhk82fY/maxresdefault_live.jpg",
+        "timestamp": 1762596000,
+        "title": "【VALORANT】ぽこぽこV最スクリム４日目っっっVS小柳ロウチーム【ホロライブ/ロボ子さん】",
+        "video_id": "ISnKAhk82fY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O1KoQal_ZPc/maxresdefault_live.jpg",
+        "timestamp": 1762588800,
+        "title": "【Shadowverse: Worlds Beyond】ナイトメアしか勝たん！！ゆるく対戦やランクマをするぞ！！ 【ホロライブ/白上フブキ】",
+        "video_id": "O1KoQal_ZPc"
     }
 ]
