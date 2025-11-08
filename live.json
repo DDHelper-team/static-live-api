@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5yvrMtPNBgk/maxresdefault_live.jpg",
-        "timestamp": 1762588800,
+        "timestamp": null,
         "title": "【カービィのエアライダー】おためしライドいくぞおおおおお！！！！！🌟【博衣こより/ホロライブ】",
         "video_id": "5yvrMtPNBgk"
     },
@@ -90,24 +90,6 @@
         "video_id": "LCEGR3Tpqaw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4E-5-jamu0Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6 NEW CHALLENGERS TOURNAMENT】It’s D.Honda time【Dokibird】",
-        "video_id": "4E-5-jamu0Q"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4E-5-jamu0Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6 NEW CHALLENGERS TOURNAMENT】It’s D.Honda time【Dokibird】",
-        "video_id": "4E-5-jamu0Q"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -155,18 +137,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2oGinJKD_xw/maxresdefault_live.jpg",
-        "timestamp": 1762588800,
+        "timestamp": null,
         "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #18【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
         "video_id": "2oGinJKD_xw"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2oGinJKD_xw/maxresdefault_live.jpg",
-        "timestamp": 1762588800,
+        "timestamp": null,
         "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #18【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
         "video_id": "2oGinJKD_xw"
     },
@@ -326,9 +308,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/O1KoQal_ZPc/maxresdefault_live.jpg",
-        "timestamp": 1762588800,
+        "timestamp": null,
         "title": "【Shadowverse: Worlds Beyond】ナイトメアしか勝たん！！ゆるく対戦やランクマをするぞ！！ 【ホロライブ/白上フブキ】",
         "video_id": "O1KoQal_ZPc"
     },
@@ -349,5 +331,32 @@
         "timestamp": 1762592400,
         "title": "【 APEX 】#DTTOUNITYFES がんばるぞ！【獅子神レオナ/Re:AcT】",
         "video_id": "YRSDtWI6va0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/neGzO1DJJKQ/maxresdefault_live.jpg",
+        "timestamp": 1762592400,
+        "title": "【APEX LEGENDS】They Said They Needed a Baby for the Team!【hololive ID 2nd Generation | Anya Melfissa】",
+        "video_id": "neGzO1DJJKQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d1j5cJQyfzo/maxresdefault_live.jpg",
+        "timestamp": 1762590600,
+        "title": "【 VALORANT 】チーム先いけ忍者 #SINWIN スクリム最終日 VS白那チーム！  【百鬼あやめ/ホロライブ】",
+        "video_id": "d1j5cJQyfzo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ngsLQc2bwoo/maxresdefault_live.jpg",
+        "timestamp": 1762590600,
+        "title": "Memanshing",
+        "video_id": "ngsLQc2bwoo"
     }
 ]
