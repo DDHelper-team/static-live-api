@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "UNPLAYABLE",
         "thumbnail": "https://i.ytimg.com/vi/j7kfKyF4iXM/maxresdefault_live.jpg",
-        "timestamp": 1762606800,
+        "timestamp": null,
         "title": "【メンバー限定配信】開設5年8ヶ月目！「水曜どうでしょう サイコロ３ プレミア版」同時視聴！【角巻わため/ホロライブ４期生】",
         "video_id": "j7kfKyF4iXM"
     },
@@ -155,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tzAIOhdD0zs/maxresdefault_live.jpg",
-        "timestamp": 1762606800,
+        "timestamp": null,
         "title": "【雑談】久しぶりの配信！まったりいろんなお話ししよう？【 雪花ラミィ /ホロライブ】",
         "video_id": "tzAIOhdD0zs"
     },
@@ -209,9 +209,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QKjMh_IkEZY/maxresdefault_live.jpg",
-        "timestamp": 1762606800,
+        "timestamp": null,
         "title": "Camper Van Java",
         "video_id": "QKjMh_IkEZY"
     },
@@ -245,9 +245,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nom5vpOIsXw/maxresdefault_live.jpg",
-        "timestamp": 1762606800,
+        "timestamp": null,
         "title": "【Cast n Chill】深夜 まったり釣り男 【 奏手イヅル 】",
         "video_id": "nom5vpOIsXw"
     },
@@ -317,10 +317,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IL5J_ExYeMw/maxresdefault_live.jpg",
-        "timestamp": 1762606800,
-        "title": "【配信予定地】【ホロライブ/ときのそら】",
+        "timestamp": null,
+        "title": "【祝MV１００万再生】ありがとうPulse歌枠【ホロライブ/ときのそら】",
         "video_id": "IL5J_ExYeMw"
     },
     {
@@ -358,5 +358,14 @@
         "timestamp": 1762628400,
         "title": "【APEX LEGENDS TOURNAMENT】back into the basement! It’s tournament time!【Dokibird】",
         "video_id": "LdEwsWZYZ_8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9rNnSSngEqw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ARC Raiders】NIRU先生と行く！突然のお宝さがしゲームに初見で挑むもしゅと俺【アルランディス/ホロスターズ】",
+        "video_id": "9rNnSSngEqw"
     }
 ]
