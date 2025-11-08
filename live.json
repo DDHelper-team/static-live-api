@@ -20,29 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5yvrMtPNBgk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【カービィのエアライダー】おためしライドいくぞおおおおお！！！！！🌟【博衣こより/ホロライブ】",
-        "video_id": "5yvrMtPNBgk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LVgsHn6LKd0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 🔴新作桃鉄 】みんなで楽しく先行プレイ🙌🔥✦【 #ホロ桃鉄 /ホロライブ 】",
-        "video_id": "LVgsHn6LKd0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PY-Hdl-OH-o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BLOOD TYPERS】 JURARD IS DRAGGING ME INTO A HORROR GAME-- 【Kureiji Ollie】",
-        "video_id": "PY-Hdl-OH-o"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JGvNiZokP_Q/maxresdefault_live.jpg",
+        "timestamp": 1762653600,
+        "title": "【ゼルダの伝説 時のオカリナ】完全初見！水の神殿へいくぞ！！！！！ #4 【博衣こより/ホロライブ】",
+        "video_id": "JGvNiZokP_Q"
     },
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
@@ -162,24 +144,6 @@
         "video_id": "TpcrXM-18lY"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1SGRlh9LsA4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【新作!! ポケモンZA】Pokémon LEGENDS Z-A！色違いの子たちと旅✨part5【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "1SGRlh9LsA4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1SGRlh9LsA4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【新作!! ポケモンZA】Pokémon LEGENDS Z-A！色違いの子たちと旅✨part5【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "1SGRlh9LsA4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
         "status": "LIVE",
@@ -288,15 +252,6 @@
         "video_id": "WR9iOb67JCM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HIcwF_ufx-4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Overcooked! 2 】協力必須のお料理で大パニックの予感。【 領国つかさ / 小鳥谷なの / すぺしゃりて 】",
-        "video_id": "HIcwF_ufx-4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp6993wxpyDPHUpavwDFqgg",
         "platform": "youtube",
         "status": "LIVE",
@@ -304,15 +259,6 @@
         "timestamp": null,
         "title": "【祝MV１００万再生】ありがとうPulse歌枠【ホロライブ/ときのそら】",
         "video_id": "IL5J_ExYeMw"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HIcwF_ufx-4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Overcooked! 2 】協力必須のお料理で大パニックの予感。【 領国つかさ / 小鳥谷なの / すぺしゃりて 】",
-        "video_id": "HIcwF_ufx-4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -360,12 +306,20 @@
         "video_id": "LczdUQYusak"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1762610813.86721,
+        "timestamp": 1762612174.8449452,
         "title": "THE TWINS ARE IN JAPAN w/ @robcdee"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uWwqZSwhgQ0/maxresdefault_live.jpg",
+        "timestamp": 1762657200,
+        "title": "#2【CCFF7R】完全初見でクライシス コア -ファイナルファンタジーVII- リユニオンやるぞ！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "uWwqZSwhgQ0"
     }
 ]
