@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LVgsHn6LKd0/maxresdefault_live.jpg",
-        "timestamp": 1762599600,
+        "timestamp": null,
         "title": "【 🔴新作桃鉄 】みんなで楽しく先行プレイ🙌🔥✦【 #ホロ桃鉄 /ホロライブ 】",
         "video_id": "LVgsHn6LKd0"
     },
@@ -317,11 +317,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ngsLQc2bwoo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Memanshing",
-        "video_id": "ngsLQc2bwoo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QKjMh_IkEZY/maxresdefault_live.jpg",
+        "timestamp": 1762606800,
+        "title": "Camper Van Java",
+        "video_id": "QKjMh_IkEZY"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -385,5 +385,50 @@
         "timestamp": 1762659900,
         "title": "【#V最協A2】遂に本番！#YYYWIN 🔥 【ラプラス・ダークネス/ホロライブ】",
         "video_id": "aaq00NETv_o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC0TXe_LYZ4scaW2XMyi5_kw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sCA8UnaChx8/maxresdefault_live.jpg",
+        "timestamp": 1762610400,
+        "title": "【PowerWash Simulator 2】高圧洗浄機でピカピカにチル【ホロライブ / AZKi】",
+        "video_id": "sCA8UnaChx8"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WR9iOb67JCM/maxresdefault_live.jpg",
+        "timestamp": 1762686000,
+        "title": "塔羅占卜#114 ｜占卜很好玩~也可以交到朋友🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "WR9iOb67JCM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AS6T5_qh3hE/maxresdefault_live.jpg",
+        "timestamp": 1762603200,
+        "title": "【VALORANT】最後の練習 VS TEAM4  / アステル 紡木こかげ 白雪レイド 本間ひまわり ツノガキ",
+        "video_id": "AS6T5_qh3hE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/g5XJLDbVkHQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雀魂】やるか、段位戦【影山シエンホロスターズ】",
+        "video_id": "g5XJLDbVkHQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WR9iOb67JCM/maxresdefault_live.jpg",
+        "timestamp": 1762686000,
+        "title": "塔羅占卜#114 ｜占卜很好玩~也可以交到朋友🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "WR9iOb67JCM"
     }
 ]
