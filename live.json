@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iHkMGglTsRk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Detroit: Become Human】#01 2038年の未来ではアンドロイドと共存・・・僕の選択で結末が変わるゲーム！！！【天音かなた/ホロライブ】",
-        "video_id": "iHkMGglTsRk"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uCPO84IVENM/maxresdefault_live.jpg",
+        "timestamp": 1762660800,
+        "title": "【Detroit: Become Human】#02 2038年の未来ではアンドロイドと共存・・・僕の選択で結末が変わるゲーム！！！【天音かなた/ホロライブ】",
+        "video_id": "uCPO84IVENM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -331,5 +331,23 @@
         "timestamp": 1762588800,
         "title": "【Shadowverse: Worlds Beyond】ナイトメアしか勝たん！！ゆるく対戦やランクマをするぞ！！ 【ホロライブ/白上フブキ】",
         "video_id": "O1KoQal_ZPc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YRSDtWI6va0/maxresdefault_live.jpg",
+        "timestamp": 1762592400,
+        "title": "【 APEX 】#DTTOUNITYFES がんばるぞ！【獅子神レオナ/Re:AcT】",
+        "video_id": "YRSDtWI6va0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YRSDtWI6va0/maxresdefault_live.jpg",
+        "timestamp": 1762592400,
+        "title": "【 APEX 】#DTTOUNITYFES がんばるぞ！【獅子神レオナ/Re:AcT】",
+        "video_id": "YRSDtWI6va0"
     }
 ]
