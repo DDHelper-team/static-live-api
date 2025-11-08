@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Uso6V7rA_W0/maxresdefault_live.jpg",
-        "timestamp": 1762596000,
+        "timestamp": null,
         "title": "とんでもねぇ、待ってたのらね💗(・o・🍬)【姫森ルーナ/ホロライブ】",
         "video_id": "Uso6V7rA_W0"
     },
@@ -189,24 +189,6 @@
         "video_id": "6MKJFKcF4ok"
     },
     {
-        "channel": "https://www.youtube.com/@KaelaKovalskia",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TxP9CanoQVk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RV There Yet?】#2: drive and forget any other thing else【KOPIKANON】",
-        "video_id": "TxP9CanoQVk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TxP9CanoQVk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RV There Yet?】#2: drive and forget any other thing else【KOPIKANON】",
-        "video_id": "TxP9CanoQVk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -272,27 +254,27 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1SGRlh9LsA4/maxresdefault_live.jpg",
-        "timestamp": 1762596000,
+        "timestamp": null,
         "title": "【新作!! ポケモンZA】Pokémon LEGENDS Z-A！色違いの子たちと旅✨part5【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "1SGRlh9LsA4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1SGRlh9LsA4/maxresdefault_live.jpg",
-        "timestamp": 1762596000,
+        "timestamp": null,
         "title": "【新作!! ポケモンZA】Pokémon LEGENDS Z-A！色違いの子たちと旅✨part5【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "1SGRlh9LsA4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCDqI2jOz0weumE8s7paEk6g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ISnKAhk82fY/maxresdefault_live.jpg",
-        "timestamp": 1762596000,
+        "timestamp": null,
         "title": "【VALORANT】ぽこぽこV最スクリム４日目っっっVS小柳ロウチーム【ホロライブ/ロボ子さん】",
         "video_id": "ISnKAhk82fY"
     },
@@ -371,9 +353,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6Qa6QppYOXc/maxresdefault_live.jpg",
-        "timestamp": 1762596000,
+        "timestamp": null,
         "title": "【Minecraft】そろそろやらねばならないRTA一本集中【風真いろは/ホロライブ】",
         "video_id": "6Qa6QppYOXc"
     },
@@ -394,5 +376,14 @@
         "timestamp": 1762650000,
         "title": "【THE WITCHER 3】Witcher 4 will release before GTA6 bet #kfp #キアライブ",
         "video_id": "HI9Uo7vdC04"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aaq00NETv_o/maxresdefault_live.jpg",
+        "timestamp": 1762659900,
+        "title": "【#V最協A2】遂に本番！#YYYWIN 🔥 【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "aaq00NETv_o"
     }
 ]
