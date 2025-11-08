@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MyMc7b1AEak/maxresdefault_live.jpg",
-        "timestamp": 1762560000,
-        "title": "【NEW OUTFIT REVEAL】cute and cozy vibes are off the CHARTS!!! #KiaraNewOutfit2025",
-        "video_id": "MyMc7b1AEak"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -101,19 +92,19 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4E-5-jamu0Q/maxresdefault_live.jpg",
-        "timestamp": 1762560000,
-        "title": "【STREET FIGHTER 6 TOURNAMENT】It’s D.Honda time【Dokibird】",
+        "timestamp": null,
+        "title": "【STREET FIGHTER 6 NEW CHALLENGERS TOURNAMENT】It’s D.Honda time【Dokibird】",
         "video_id": "4E-5-jamu0Q"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4E-5-jamu0Q/maxresdefault_live.jpg",
-        "timestamp": 1762560000,
-        "title": "【STREET FIGHTER 6 TOURNAMENT】It’s D.Honda time【Dokibird】",
+        "timestamp": null,
+        "title": "【STREET FIGHTER 6 NEW CHALLENGERS TOURNAMENT】It’s D.Honda time【Dokibird】",
         "video_id": "4E-5-jamu0Q"
     },
     {
@@ -128,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2tQOQ8OIa1w/maxresdefault_live.jpg",
-        "timestamp": 1762563600,
+        "timestamp": null,
         "title": "【Raft】Just Me, the Ocean, and Mori Calliope",
         "video_id": "2tQOQ8OIa1w"
     },
@@ -142,15 +133,6 @@
         "timestamp": 1762574400,
         "title": "【Dragonball Z Kakarot】Kamehamehaaaaaa",
         "video_id": "DbaUhOCz-qM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Xa8LhxgUX58/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活】歌ったり喋ったりフリーダム！久々の縦型ゆるゆる〜☀️【白銀ノエル/ホロライブ】",
-        "video_id": "Xa8LhxgUX58"
     },
     {
         "channel": "https://www.youtube.com/channel/UCqm3BQLlJfvkTsX_hvm0UmA",
@@ -196,5 +178,50 @@
         "timestamp": 1762588800,
         "title": "【 P5R 】完全初見！ペルソナ5ザ・ロイヤルやるよおおおおおお #18【音乃瀬奏】#hololiveDEV_IS #ReGLOSS ※ネタバレあり",
         "video_id": "2oGinJKD_xw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s1f9gpjwRA4/maxresdefault_live.jpg",
+        "timestamp": 1762646400,
+        "title": "【DEVIL MAY CRY 5】I Don\u0026#39;t Care About V (part 2) #calliolive",
+        "video_id": "s1f9gpjwRA4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCUKD-uaobj9jiqB-VXt71mA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/taknvD9ljd4/maxresdefault_live.jpg",
+        "timestamp": 1762592400,
+        "title": "配信よてー！【獅白ぼたん/ホロライブ】",
+        "video_id": "taknvD9ljd4"
+    },
+    {
+        "channel": "https://www.youtube.com/@KosekiBijou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/km8qux_HTVk/maxresdefault_live.jpg",
+        "timestamp": 1762570800,
+        "title": "【Pokémon LEGENDS Z-A】I WILL NOT CONTINUE THE GAME WITHOUT SHINY ALPHA ABSOL.",
+        "video_id": "km8qux_HTVk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/km8qux_HTVk/maxresdefault_live.jpg",
+        "timestamp": 1762570800,
+        "title": "【Pokémon LEGENDS Z-A】I WILL NOT CONTINUE THE GAME WITHOUT SHINY ALPHA ABSOL.",
+        "video_id": "km8qux_HTVk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n51NnOdvAqM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ペルソナ4】目が怖すぎる真犯人をわからせに行く。【岸堂天真/ホロスターズ】",
+        "video_id": "n51NnOdvAqM"
     }
 ]
