@@ -27,15 +27,6 @@
         "video_id": "5yvrMtPNBgk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/No7j1MJ-YhY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#1【CCFF7R】完全初見でクライシス コア -ファイナルファンタジーVII- リユニオンやるぞ！ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "No7j1MJ-YhY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -344,9 +335,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d1j5cJQyfzo/maxresdefault_live.jpg",
-        "timestamp": 1762590600,
+        "timestamp": null,
         "title": "【 VALORANT 】チーム先いけ忍者 #SINWIN スクリム最終日 VS白那チーム！  【百鬼あやめ/ホロライブ】",
         "video_id": "d1j5cJQyfzo"
     },
@@ -355,8 +346,35 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ngsLQc2bwoo/maxresdefault_live.jpg",
-        "timestamp": 1762590600,
+        "timestamp": 1762592400,
         "title": "Memanshing",
         "video_id": "ngsLQc2bwoo"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oSbOUMoR7tE/maxresdefault_live.jpg",
+        "timestamp": 1762610400,
+        "title": "【KU100/ASMR】こしょこしょ♡スリスリ♡まったり密着囁きが気持ちいい寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
+        "video_id": "oSbOUMoR7tE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oSbOUMoR7tE/maxresdefault_live.jpg",
+        "timestamp": 1762610400,
+        "title": "【KU100/ASMR】こしょこしょ♡スリスリ♡まったり密着囁きが気持ちいい寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
+        "video_id": "oSbOUMoR7tE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFTLzh12_nrtzqBPsTCqenA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LBB-D7yFvpc/maxresdefault_live.jpg",
+        "timestamp": 1762592400,
+        "title": "【APEX】本番れちご！ DTTO. UNITY FES  w.秋雪こはく/甘狼このみ【アキロゼ/ホロライブ】",
+        "video_id": "LBB-D7yFvpc"
     }
 ]
