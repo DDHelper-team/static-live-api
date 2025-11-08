@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LCEGR3Tpqaw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 同時視聴 】アニメ映像あり！『コードギアス 反逆のルルーシュR2』第1～6話【鷹嶺ルイ/ホロライブ】",
-        "video_id": "LCEGR3Tpqaw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ptSlAUS4FAE/maxresdefault_live.jpg",
+        "timestamp": 1762689600,
+        "title": "【 同時視聴 】アニメ映像あり！『コードギアス 反逆のルルーシュR2』第7～12話【鷹嶺ルイ/ホロライブ】",
+        "video_id": "ptSlAUS4FAE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -97,24 +97,6 @@
         "timestamp": 1762646400,
         "title": "【DEVIL MAY CRY 5】I Don\u0026#39;t Care About V (part 2) #calliolive",
         "video_id": "s1f9gpjwRA4"
-    },
-    {
-        "channel": "https://www.youtube.com/@KosekiBijou",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/km8qux_HTVk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Pokémon LEGENDS Z-A】I WILL NOT CONTINUE THE GAME WITHOUT SHINY ALPHA ABSOL.",
-        "video_id": "km8qux_HTVk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/km8qux_HTVk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Pokémon LEGENDS Z-A】I WILL NOT CONTINUE THE GAME WITHOUT SHINY ALPHA ABSOL.",
-        "video_id": "km8qux_HTVk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
@@ -263,9 +245,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LczdUQYusak/maxresdefault_live.jpg",
-        "timestamp": 1762614000,
+        "timestamp": null,
         "title": "#2【Urban Myth Dissolution Center】THROWS TOMATOES AT YOU【Pavolia Reine/hololiveID】",
         "video_id": "LczdUQYusak"
     },
@@ -275,7 +257,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1762613527.055038,
+        "timestamp": 1762614195.7209885,
         "title": "THE TWINS ARE IN JAPAN w/ @robcdee"
     },
     {
