@@ -216,15 +216,6 @@
         "video_id": "WR9iOb67JCM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChSvpZYRPh0FvG4SJGSga3g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/g5XJLDbVkHQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雀魂】やるか、段位戦【影山シエンホロスターズ】",
-        "video_id": "g5XJLDbVkHQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -284,7 +275,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1762612849.2089622
+        "timestamp": 1762613527.055038,
+        "title": "THE TWINS ARE IN JAPAN w/ @robcdee"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
