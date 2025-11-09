@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/s1f9gpjwRA4/maxresdefault_live.jpg",
-        "timestamp": 1762646400,
+        "timestamp": null,
         "title": "【DEVIL MAY CRY 5】I Don\u0026#39;t Care About V (part 2) #calliolive",
         "video_id": "s1f9gpjwRA4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/q1jsrVBRwDU/maxresdefault_live.jpg",
-        "timestamp": 1762650000,
+        "timestamp": null,
         "title": "≪SILENT HILL f≫ DELULU IS THE SOLULU...FINALE #4【SPOILERS WARNING】",
         "video_id": "q1jsrVBRwDU"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HI9Uo7vdC04/maxresdefault_live.jpg",
-        "timestamp": 1762650000,
+        "timestamp": null,
         "title": "【THE WITCHER 3】Witcher 4 will release before GTA6 bet #kfp #キアライブ",
         "video_id": "HI9Uo7vdC04"
     },
@@ -155,10 +155,28 @@
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/sTmnGpSGK94/maxresdefault_live.jpg",
-        "timestamp": 1762650000,
+        "timestamp": null,
         "title": "【朝活雑談】今週もお疲れさまっする！日曜10時はさんでーまっするッ🌞【白銀ノエル/ホロライブ】",
         "video_id": "sTmnGpSGK94"
+    },
+    {
+        "channel": "https://www.youtube.com/@FUWAMOCOch",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eGEEVINW32s/maxresdefault_live.jpg",
+        "timestamp": 1762736400,
+        "title": "【FAST FOOD SIMULATOR with OLLIE \u0026amp; RAORA】no health inspections here (good food 100%) 🐾 【FUWAWA POV】",
+        "video_id": "eGEEVINW32s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eGEEVINW32s/maxresdefault_live.jpg",
+        "timestamp": 1762736400,
+        "title": "【FAST FOOD SIMULATOR with OLLIE \u0026amp; RAORA】no health inspections here (good food 100%) 🐾 【FUWAWA POV】",
+        "video_id": "eGEEVINW32s"
     }
 ]
