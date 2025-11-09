@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCs9_O1tRPMQTHQ-N_L6FU2g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ptSlAUS4FAE/maxresdefault_live.jpg",
-        "timestamp": 1762689600,
+        "timestamp": null,
         "title": "【 同時視聴 】アニメ映像あり！『コードギアス 反逆のルルーシュR2』第7～12話【鷹嶺ルイ/ホロライブ】",
         "video_id": "ptSlAUS4FAE"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ifxvW0GxY_4/maxresdefault_live.jpg",
-        "timestamp": 1762689600,
+        "timestamp": null,
         "title": "【 ANIMAL WELL 】謎解きメトロヴァニア✦ 綺麗な世界を冒険します☁ 【 猫又おかゆ/ホロライブ 】",
         "video_id": "ifxvW0GxY_4"
     },
@@ -137,10 +137,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zcXSqUqQRKI/maxresdefault_live.jpg",
-        "timestamp": 1762689600,
-        "title": "【配信予定】ぺこだっち！ぺこ！【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "【ARC Raiders】話題の『ARC Raiders』に初挑戦するぞおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "zcXSqUqQRKI"
     },
     {
@@ -160,5 +160,41 @@
         "timestamp": 1762695000,
         "title": "AYUNDA RISU : NUTCOIN CRASH EXPLAINED! NONSTOP NUT NOVEMBER IS COMING BACK ?",
         "video_id": "JabgCh3AkSE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bo3JMyi-00I/maxresdefault_live.jpg",
+        "timestamp": 1762776000,
+        "title": "【 R.E.P.O.コラボ 】初めてのフルパ６人で挑むのらっ…わァ……ぁ…… #タカタレサーカスプリンセス 【姫森ルーナ/ホロライブ】",
+        "video_id": "bo3JMyi-00I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MiR3RBtdiWM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 Cling to Blindness 】目隠し必須のホラーゲーム！？不安すぎる。【 領国つかさ / すぺしゃりて 】",
+        "video_id": "MiR3RBtdiWM"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MiR3RBtdiWM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 Cling to Blindness 】目隠し必須のホラーゲーム！？不安すぎる。【 領国つかさ / すぺしゃりて 】",
+        "video_id": "MiR3RBtdiWM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cjImHwb8pyU/maxresdefault_live.jpg",
+        "timestamp": 1762696800,
+        "title": "【FreeTalk】雑談【荒咬オウガ /ホロスターズ】",
+        "video_id": "cjImHwb8pyU"
     }
 ]
