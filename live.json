@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgmPnx-EEeOrZSg5Tiw7ZRQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_V-Jdms65CE/maxresdefault_live.jpg",
-        "timestamp": 1762693200,
+        "timestamp": null,
         "title": "≪Little Nightmares III≫ They were in fact not Brother and Sister #2",
         "video_id": "_V-Jdms65CE"
     },
@@ -155,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JabgCh3AkSE/maxresdefault_live.jpg",
-        "timestamp": 1762695000,
+        "timestamp": null,
         "title": "AYUNDA RISU : NUTCOIN CRASH EXPLAINED! NONSTOP NUT NOVEMBER IS COMING BACK ?",
         "video_id": "JabgCh3AkSE"
     },
@@ -214,5 +214,14 @@
         "timestamp": 1762736400,
         "title": "Let\u0026#39;s race together! | Asphalt Legends #sponsored",
         "video_id": "GlBoTlx6f1k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvInZx9h3jC2JzsIzoOebWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/niNvduVFV0o/maxresdefault_live.jpg",
+        "timestamp": 1762696800,
+        "title": "【Pokémon LEGENDS Z-A】1/4096を緩く狙うforポルカを添えて【不知火フレア/ホロライブ】",
+        "video_id": "niNvduVFV0o"
     }
 ]
