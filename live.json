@@ -99,15 +99,6 @@
         "video_id": "YgRGMmcfHO8"
     },
     {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HzrpnMv_NnM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【The Walking Dead: The Telltale Definitive Series 行屍走肉(陰屍路)決定版合輯】 第1季 #1",
-        "video_id": "HzrpnMv_NnM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -171,20 +162,11 @@
         "video_id": "x_P1h509rJw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HzrpnMv_NnM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【The Walking Dead: The Telltale Definitive Series 行屍走肉(陰屍路)決定版合輯】 第1季 #1",
-        "video_id": "HzrpnMv_NnM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HcxfRzFh_R8/maxresdefault_live.jpg",
-        "timestamp": 1764169200,
+        "timestamp": null,
         "title": "【Cast n Chill】深夜 雑談しながら釣り 【 奏手イヅル 】",
         "video_id": "HcxfRzFh_R8"
     },
@@ -268,15 +250,6 @@
         "timestamp": 1773496800,
         "title": "【Schedule \u0026amp; Chat】Weekly Kroniicles ⏳",
         "video_id": "6GZ5XGzRY-g"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LTkdYCZkiWU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ざつだんﾀﾞﾝﾀﾞﾝ",
-        "video_id": "LTkdYCZkiWU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
@@ -403,5 +376,14 @@
         "timestamp": 1764205200,
         "title": "BIRTHDAY SUPER CHAT READINGGG | Chatting",
         "video_id": "AA8dwxRJed0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/--5JCd6Dc8Q/maxresdefault_live.jpg",
+        "timestamp": 1764244800,
+        "title": "【 🔴告知アリ 】マシュマロぱくぱくぱくぱくぱｋ【 猫又おかゆ/ホロライブ 】",
+        "video_id": "--5JCd6Dc8Q"
     }
 ]
