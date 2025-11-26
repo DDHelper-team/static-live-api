@@ -182,11 +182,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tgWejHmu7Ks/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【TFT】 顔合わせ！ﾁﾑA w/ 水無瀬 , 神楽めあ , AlphaAzur , しかめまどか , summertimer【 奏手イヅル 】",
-        "video_id": "tgWejHmu7Ks"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HcxfRzFh_R8/maxresdefault_live.jpg",
+        "timestamp": 1764169200,
+        "title": "【Cast n Chill】深夜 雑談しながら釣り 【 奏手イヅル 】",
+        "video_id": "HcxfRzFh_R8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdyqAaZDKHXg4Ahi7VENThQ",
@@ -385,5 +385,23 @@
         "timestamp": null,
         "title": "【 4周年カウントダウン 】告知あり！手描き切り抜きみながら迎える4周年‼ #鷹嶺ルイ4周年【鷹嶺ルイ/ホロライブ】",
         "video_id": "XlPQqH8RhD0"
+    },
+    {
+        "channel": "https://www.youtube.com/@NerissaRavencroft",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AA8dwxRJed0/maxresdefault_live.jpg",
+        "timestamp": 1764205200,
+        "title": "BIRTHDAY SUPER CHAT READINGGG | Chatting",
+        "video_id": "AA8dwxRJed0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_sFNM0z0MWm9A6WlKPuMMg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AA8dwxRJed0/maxresdefault_live.jpg",
+        "timestamp": 1764205200,
+        "title": "BIRTHDAY SUPER CHAT READINGGG | Chatting",
+        "video_id": "AA8dwxRJed0"
     }
 ]
