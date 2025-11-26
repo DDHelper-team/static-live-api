@@ -110,18 +110,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-fWzXO51ZUs/maxresdefault_live.jpg",
-        "timestamp": 1764189000,
+        "timestamp": null,
         "title": "【THE TROLLEY SOLUTION】multidrift time【Dokibird】",
         "video_id": "-fWzXO51ZUs"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-fWzXO51ZUs/maxresdefault_live.jpg",
-        "timestamp": 1764189000,
+        "timestamp": null,
         "title": "【THE TROLLEY SOLUTION】multidrift time【Dokibird】",
         "video_id": "-fWzXO51ZUs"
     },
@@ -140,7 +140,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1764187959.0356472,
+        "timestamp": 1764188614.0244532,
         "title": "evil cat singing at you"
     }
 ]
