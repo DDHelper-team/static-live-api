@@ -36,15 +36,6 @@
         "video_id": "P5ap1YCGSN4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HcxfRzFh_R8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Cast n Chill】深夜 雑談しながら釣り 【 奏手イヅル 】",
-        "video_id": "HcxfRzFh_R8"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku/streams",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,5 +115,23 @@
         "timestamp": 1764216000,
         "title": "#1【Pokemon Legends: Z-A】TIME TO BE STYLISH【Pavolia Reine/hololiveID 2nd gen】",
         "video_id": "ZY5la-rVwWc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-fWzXO51ZUs/maxresdefault_live.jpg",
+        "timestamp": 1764189000,
+        "title": "【THE TROLLEY SOLUTION】multidrift time【Dokibird】",
+        "video_id": "-fWzXO51ZUs"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-fWzXO51ZUs/maxresdefault_live.jpg",
+        "timestamp": 1764189000,
+        "title": "【THE TROLLEY SOLUTION】multidrift time【Dokibird】",
+        "video_id": "-fWzXO51ZUs"
     }
 ]
