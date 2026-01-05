@@ -5,7 +5,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767599376.7532678,
+        "timestamp": 1767602053.0305037,
         "title": "Neuro-sama Subathon 2025-26 | eepy time"
     },
     {
@@ -155,10 +155,28 @@
     {
         "channel": "https://www.youtube.com/channel/UC6t3-_N8A6ME1JShZHHqOMw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Nbh70K3vejg/maxresdefault_live.jpg",
-        "timestamp": 1767600000,
+        "timestamp": null,
         "title": "#3【ゼルダの伝説 ムジュラの仮面】ハート3つ縛りで頑張るムジュラの仮面 【花咲みやび/ホロスターズ】",
         "video_id": "Nbh70K3vejg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Yqifu_4cVJA/maxresdefault_live.jpg",
+        "timestamp": 1767672000,
+        "title": "【崩壊：スターレイル】オンパロスに行くまでに同行や冒険クエをやっていく男【夕刻ロベル/ホロスターズ】",
+        "video_id": "Yqifu_4cVJA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sqQICKUoVa4/maxresdefault_live.jpg",
+        "timestamp": 1767614400,
+        "title": "【Drawing】Swimsuit Lamy as Requested 【iofi / ホロライブID】",
+        "video_id": "sqQICKUoVa4"
     }
 ]
