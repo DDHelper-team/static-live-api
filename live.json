@@ -5,7 +5,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767592691.440931
+        "timestamp": 1767595364.042628,
+        "title": "Neuro-sama Subathon 2025-26 | eepy time"
     },
     {
         "channel": "https://www.youtube.com/@KosekiBijou",
@@ -107,15 +108,6 @@
         "video_id": "ToHO8twlGkY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yLlabMZOJQU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/KARAOKE】2026年最初のまったり歌＆おしゃべり枠わくわく【尾丸ポルカ/ホロライブ】",
-        "video_id": "yLlabMZOJQU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -141,5 +133,14 @@
         "timestamp": 1767614400,
         "title": "【member\u0026#39;s only】having a snack and a glass of red!!  #calliolive",
         "video_id": "QUgskriSfPU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1uv2Oq6kNxgATlCiez59hw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ah2c8p0SDi4/maxresdefault_live.jpg",
+        "timestamp": 1767603600,
+        "title": "【 雑談 】新年きたああああ！6周年もありがとう！！アニメもきた！！【常闇トワ/ホロライブ】",
+        "video_id": "Ah2c8p0SDi4"
     }
 ]
