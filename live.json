@@ -5,7 +5,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767606755.0009837,
+        "timestamp": 1767608773.943355,
         "title": "Neuro-sama Subathon 2025-26 | eepy time"
     },
     {
@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC6eWCld0KwmyHFbAqK3V-Rw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/R59nrJiuuC8/maxresdefault_live.jpg",
-        "timestamp": 1767607200,
+        "timestamp": null,
         "title": "【桃鉄2】100年耐久最終回🔥西日本VS最強CPU(さくま\u0026amp;エンマ)～91年目から！～ #こより100年桃鉄 【博衣こより/ホロライブ】",
         "video_id": "R59nrJiuuC8"
     },
@@ -160,5 +160,23 @@
         "timestamp": 1767614400,
         "title": "【Drawing】Swimsuit Lamy as Requested 【iofi / ホロライブID】",
         "video_id": "sqQICKUoVa4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vIVV59MTNds/maxresdefault_live.jpg",
+        "timestamp": 1767621600,
+        "title": "【定期雑談】まだまだお正月気分でいたい！！！！ #20 一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "vIVV59MTNds"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vIVV59MTNds/maxresdefault_live.jpg",
+        "timestamp": 1767621600,
+        "title": "【定期雑談】まだまだお正月気分でいたい！！！！ #20 一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "vIVV59MTNds"
     }
 ]
