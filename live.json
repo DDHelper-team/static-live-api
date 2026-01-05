@@ -5,7 +5,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767584678.370034,
+        "timestamp": 1767588682.5359035,
         "title": "Neuro-sama Subathon 2025-26 | eepy time"
     },
     {
@@ -81,15 +81,6 @@
         "video_id": "ILoL0MNbW2c"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5LVsOJT2SbE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】何か思いつくまで無心でVALO / アステル",
-        "video_id": "5LVsOJT2SbE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCa9Y57gfeY0Zro_noHRVrnw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -146,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yLlabMZOJQU/maxresdefault_live.jpg",
-        "timestamp": 1767585600,
+        "timestamp": null,
         "title": "【歌枠/KARAOKE】2026年最初のまったり歌＆おしゃべり枠わくわく【尾丸ポルカ/ホロライブ】",
         "video_id": "yLlabMZOJQU"
     },
@@ -169,5 +160,14 @@
         "timestamp": 1767646800,
         "title": "Surrealist \u0026#39;Girlhood\u0026#39; Horror Game 【Decarnation】",
         "video_id": "hikUwPHO7WY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QUgskriSfPU/maxresdefault_live.jpg",
+        "timestamp": 1767614400,
+        "title": "【member\u0026#39;s only】having a snack and a glass of red!!  #calliolive",
+        "video_id": "QUgskriSfPU"
     }
 ]
