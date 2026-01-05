@@ -77,7 +77,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767649931.3045397,
+        "timestamp": 1767651819.441654,
         "title": "tea party with @camila SOON..."
     },
     {
@@ -88,5 +88,14 @@
         "timestamp": 1767697200,
         "title": "【 ラジコン企画 】声担当と指示担当が駆けつけてくれたゾ【 #スバおかすい /ホロライブ 】",
         "video_id": "WXsDsIdgo34"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qHlQQc6EhI0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "朝こよ難民",
+        "video_id": "qHlQQc6EhI0"
     }
 ]
