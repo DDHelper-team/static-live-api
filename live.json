@@ -5,7 +5,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767623002.2895386,
+        "timestamp": 1767624358.3610678,
         "title": "Neuro-sama Subathon 2025-26 | eepy time"
     },
     {
@@ -144,24 +144,6 @@
         "video_id": "vIVV59MTNds"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KI42-csKR20/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】平沢進縛り歌枠【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "KI42-csKR20"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KI42-csKR20/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】平沢進縛り歌枠【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "KI42-csKR20"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -259,5 +241,14 @@
         "timestamp": 1767704400,
         "title": "＃3【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
         "video_id": "HSaTA96xLHY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SsyxKBK4T3c/maxresdefault_live.jpg",
+        "timestamp": 1767693600,
+        "title": "【ミメシス | MIMESIS】AIが騙してくるけど俺たちはAIより声がでかい【アルランディス/ホロスターズ】",
+        "video_id": "SsyxKBK4T3c"
     }
 ]
