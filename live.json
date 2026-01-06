@@ -41,7 +41,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767694341.5724828
+        "timestamp": 1767696258.7110226,
+        "title": "Neuro-sama Subthon 2025-26 | glasses are very versatile (sleep time)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -51,15 +52,6 @@
         "timestamp": 1767697200,
         "title": "【 ラジコン企画 】声担当と指示担当が駆けつけてくれたゾ【 #スバおかすい /ホロライブ 】",
         "video_id": "WXsDsIdgo34"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mjf3n63XVkg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ウマ娘 プリティーダービー】#2 | 完全初見！オグリキャップちゃん育成計画🐴【緋月ゆい/ネオポルテ】",
-        "video_id": "mjf3n63XVkg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -105,5 +97,14 @@
         "timestamp": 1767780000,
         "title": "【Singing / Karaoke】みんなからのリクエストを30曲歌う歌枠！【#TanZ 】",
         "video_id": "FlHkyllpyeQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bVb863e3tIg/maxresdefault_live.jpg",
+        "timestamp": 1767700800,
+        "title": "【21時か22時】頬を伝う涙の理由をもっと 知りたいんだ【ホロライブ/兎田ぺこら】",
+        "video_id": "bVb863e3tIg"
     }
 ]
