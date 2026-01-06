@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HSaTA96xLHY/maxresdefault_live.jpg",
-        "timestamp": 1767704400,
+        "timestamp": null,
         "title": "＃3【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
         "video_id": "HSaTA96xLHY"
     },
@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HSaTA96xLHY/maxresdefault_live.jpg",
-        "timestamp": 1767704400,
+        "timestamp": null,
         "title": "＃3【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
         "video_id": "HSaTA96xLHY"
     },
@@ -41,15 +41,15 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767703923.037205,
+        "timestamp": 1767706491.5101428,
         "title": "Neuro-sama Subthon 2025-26 | glasses are very versatile (sleep time)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/e1cvQY19BLA/maxresdefault_live.jpg",
-        "timestamp": 1767704400,
+        "timestamp": null,
         "title": "【Core Keeper】チルい 洞窟生活 の はじまり 【 奏手イヅル 】",
         "video_id": "e1cvQY19BLA"
     },
@@ -115,5 +115,23 @@
         "timestamp": 1767787200,
         "title": "雜談｜該狐狐要被占卜了！！到底今年狐狐運勢如何呢？會比去年更好嗎？F.T千夜貓@chiyaneko0730 【Healing希靈/VTuber】",
         "video_id": "QhovdmRQkyA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LwvHOVpkUNs/maxresdefault_live.jpg",
+        "timestamp": 1767787200,
+        "title": "【MIMESIS】なんだこのメンバーは…！？【夕刻ロベル/ホロスターズ】",
+        "video_id": "LwvHOVpkUNs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/F6hxTHfADTU/maxresdefault_live.jpg",
+        "timestamp": 1767708000,
+        "title": "【Work With Inya】She Indeed Did Not Finish Her Homework....",
+        "video_id": "F6hxTHfADTU"
     }
 ]
