@@ -18,15 +18,6 @@
         "video_id": "SsyxKBK4T3c"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QBPcbMddBco/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / karaoke】お仕事学校お疲れ様の会  / アステル",
-        "video_id": "QBPcbMddBco"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
         "status": "LIVE",
@@ -41,7 +32,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767707773.2203374
+        "timestamp": 1767709047.648892,
+        "title": "Neuro-sama Subthon 2025-26 | glasses are very versatile (sleep time)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -127,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F6hxTHfADTU/maxresdefault_live.jpg",
-        "timestamp": 1767708000,
+        "timestamp": null,
         "title": "【Work With Inya】She Indeed Did Not Finish Her Homework....",
         "video_id": "F6hxTHfADTU"
     }
