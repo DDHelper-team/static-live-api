@@ -1,10 +1,11 @@
 [
     {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767717932.6934574,
+        "timestamp": 1767719815.17127,
         "title": "Neuro-sama Subathon 2025-26 | glasses soCute"
     },
     {
@@ -123,5 +124,14 @@
         "timestamp": 1767751200,
         "title": "【UNARCHIVED KARAOKE】singing until 2.6 million subscribers, probably #calliolive",
         "video_id": "6cnAnnLAySA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XrSgCo6oxkE/maxresdefault_live.jpg",
+        "timestamp": 1767744000,
+        "title": "【WARFRAME】WE ALL LIFT(STACK) TOGETHER!!",
+        "video_id": "XrSgCo6oxkE"
     }
 ]
