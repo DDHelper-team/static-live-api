@@ -5,16 +5,17 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767801149.6125345
+        "timestamp": 1767803049.3398216,
+        "title": "Neuro-Sama Subathon 2025-26 | Evil says good morning!"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vhM9YJDhkuQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【UNARCHIVED KARAOKE】singing until 2.6 million subscribers, probably #calliolive",
-        "video_id": "vhM9YJDhkuQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3frenCj870E/maxresdefault_live.jpg",
+        "timestamp": 1767826800,
+        "title": "【Sekiro: Shadows Die Twice】parry GOD, I will become #calliolive",
+        "video_id": "3frenCj870E"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -105,5 +106,14 @@
         "timestamp": 1767884400,
         "title": "ASMR｜強烈舔耳音壓貫穿深入腦部❤️｜Ear Kissing Whispering｜ 耳舐め 囁き【KU100/3DIO】",
         "video_id": "Ska0lzLYCwY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/e2uKETzE4nY/maxresdefault_live.jpg",
+        "timestamp": 1767803400,
+        "title": "【the game of sisyphus 】深夜にこそこそもてあそばれたいと思います。 【ホロライブ/癒月ちょこ】",
+        "video_id": "e2uKETzE4nY"
     }
 ]
