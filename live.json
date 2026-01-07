@@ -5,7 +5,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767806206.060474,
+        "timestamp": 1767808097.2277906,
         "title": "Neuro-Sama Subathon 2025-26 | Evil says good morning!"
     },
     {
@@ -106,5 +106,23 @@
         "timestamp": null,
         "title": "【the game of sisyphus 】深夜にこそこそもてあそばれたいと思います。 【ホロライブ/癒月ちょこ】",
         "video_id": "e2uKETzE4nY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QRcbdqnDsGE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】ド深夜【荒咬オウガ /ホロスターズ】",
+        "video_id": "QRcbdqnDsGE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WqweLr6HT1o/maxresdefault_live.jpg",
+        "timestamp": 1767852000,
+        "title": "#3【Clair Obscur: Expedition 33】FIRST PLAYTHROUGH👀 6.7 HOURS IN... 【Pavolia Reine/hololiveID】",
+        "video_id": "WqweLr6HT1o"
     }
 ]
