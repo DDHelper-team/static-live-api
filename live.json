@@ -5,7 +5,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767858734.4652436,
+        "timestamp": 1767861284.372397,
         "title": "Neuro-sama Subathon 2025-26 | zzz dreaming of becoming pokemon champion tomorrow frfr"
     },
     {
@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YgQyXEFfwy0/maxresdefault_live.jpg",
-        "timestamp": 1767859200,
+        "timestamp": null,
         "title": "【ホロガード】ホロメン、本物？？偽物？！？！見分けられるのか？【 ホロライブ / 大神ミオ 】",
         "video_id": "YgQyXEFfwy0"
     },
@@ -106,5 +106,14 @@
         "timestamp": 1767870000,
         "title": "【代替現実ゲーム】紙岡聖子（仮）に関する考察　【ホロライブ/白上フブキ】",
         "video_id": "I_5gnU6ZfvE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gd4M_LZnY4o/maxresdefault_live.jpg",
+        "timestamp": 1767863700,
+        "title": "【縦型歌枠】収録までちょっとだけ歌う🎤【風真いろは/ホロライブ】",
+        "video_id": "gd4M_LZnY4o"
     }
 ]
