@@ -5,7 +5,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767830161.1669168,
+        "timestamp": 1767836499.7178438,
         "title": "sleepover!!!!!!!"
     },
     {
@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6F-iPleBIAM/maxresdefault_live.jpg",
-        "timestamp": 1767830400,
+        "timestamp": null,
         "title": "【CHAT】TAKO∞TAKOVER RELEASE PARTYYYYY!!!!!",
         "video_id": "6F-iPleBIAM"
     },
@@ -61,5 +61,23 @@
         "timestamp": 1767852000,
         "title": "#3【Clair Obscur: Expedition 33】FIRST PLAYTHROUGH👀 6.7 HOURS IN... 【Pavolia Reine/hololiveID】",
         "video_id": "WqweLr6HT1o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IsvYsw0yjDA/maxresdefault_live.jpg",
+        "timestamp": 1767916800,
+        "title": "Being Your Judgmental Maid as We Do Room Service 【Goblin Cleanup】",
+        "video_id": "IsvYsw0yjDA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pBMlm_CA6Uw/maxresdefault_live.jpg",
+        "timestamp": 1767916800,
+        "title": "【GOBLIN CLEANUP COLLAB】maid to clean up a dungeon with goblins 🐾 #holoAdvent 【FUWAMOCO】",
+        "video_id": "pBMlm_CA6Uw"
     }
 ]
