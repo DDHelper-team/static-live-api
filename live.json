@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IXkulRKYUuE/maxresdefault_live.jpg",
-        "timestamp": 1767934800,
+        "timestamp": null,
         "title": "【ゼルダの伝説 風のタクト】ほぼ初見とか書いておきながら前回何も覚えてなかったけど面白すぎるので続きをやるしかない【アルランディス/ホロスターズ】",
         "video_id": "IXkulRKYUuE"
     },
@@ -54,30 +54,31 @@
         "video_id": "z6k4-btdQ_g"
     },
     {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/vedal987",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767934423.896966,
+        "timestamp": 1767935690.4237359,
         "title": "Neuro-sama Subathon 2025-26 | actual pokemon master taking her rest | ACHIEVING MAXIMUM NEURO EFFECT AT 1M FOLLOWERS"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TB_E0IyPTrU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BUZZFEED QUIZZES】Are you a Crewmate or Imposter based on your Subway order【Dokibird】",
-        "video_id": "TB_E0IyPTrU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1i_bAUvymPk/maxresdefault_live.jpg",
+        "timestamp": 1767990600,
+        "title": "【GOD OF WAR RAGNARÖK】I\u0026#39;m back BOI!【Dokibird】",
+        "video_id": "1i_bAUvymPk"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TB_E0IyPTrU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BUZZFEED QUIZZES】Are you a Crewmate or Imposter based on your Subway order【Dokibird】",
-        "video_id": "TB_E0IyPTrU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1i_bAUvymPk/maxresdefault_live.jpg",
+        "timestamp": 1767990600,
+        "title": "【GOD OF WAR RAGNARÖK】I\u0026#39;m back BOI!【Dokibird】",
+        "video_id": "1i_bAUvymPk"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
@@ -168,5 +169,14 @@
         "timestamp": 1768017600,
         "title": "【崩壊：スターレイル】ロベル、オンパロスに行くってよ【夕刻ロベル/ホロスターズ】",
         "video_id": "Y9akAEj6AQA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/422jhuGCnWE/maxresdefault_live.jpg",
+        "timestamp": 1767960000,
+        "title": "【ガンダムW】同時視聴　新機動戦記ガンダムW　Endless Waltz【荒咬オウガ /ホロスターズ】",
+        "video_id": "422jhuGCnWE"
     }
 ]
