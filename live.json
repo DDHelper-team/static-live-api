@@ -50,7 +50,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767952110.192596,
+        "timestamp": 1767953389.144339,
         "title": "Neuro-sama Subathon 2025-26 | actual pokemon master taking her rest | ACHIEVING MAXIMUM NEURO EFFECT AT 1M FOLLOWERS"
     },
     {
@@ -191,10 +191,19 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3kjfrEs8VEM/maxresdefault_live.jpg",
-        "timestamp": 1767952800,
+        "timestamp": null,
         "title": "【Minecraft】ゲリラ！推しべｙ・・・秘密基地を銅で飾るぞ✨【風真いろは/ホロライブ】",
         "video_id": "3kjfrEs8VEM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rIYk0Obkbtk/maxresdefault_live.jpg",
+        "timestamp": 1767963600,
+        "title": "【#4】ウマ娘プリティーダービーSeason2 同時視聴しゅばああああああ！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
+        "video_id": "rIYk0Obkbtk"
     }
 ]
