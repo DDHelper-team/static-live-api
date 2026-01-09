@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lDPaxjxw8aA/maxresdefault_live.jpg",
-        "timestamp": 1767963600,
+        "timestamp": null,
         "title": "#6【Danganronpa 2: Goodbye Despair】oh no (spoilers)【Pavolia Reine/hololiveID】",
         "video_id": "lDPaxjxw8aA"
     },
@@ -20,29 +20,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QRSHemgVKj8/maxresdefault_live.jpg",
-        "timestamp": 1767963600,
+        "timestamp": null,
         "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑤【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "QRSHemgVKj8"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QRSHemgVKj8/maxresdefault_live.jpg",
-        "timestamp": 1767963600,
+        "timestamp": null,
         "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑤【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "QRSHemgVKj8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/z6k4-btdQ_g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DEATH NOTE Killer Within】 わちゃわちゃデスノート人狼 【 奏手イヅル 】",
-        "video_id": "z6k4-btdQ_g"
     },
     {
         "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
@@ -50,7 +41,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1767962265.615284,
+        "timestamp": 1767964830.8485897,
         "title": "Neuro-sama Subathon 2025-26 | actual pokemon master taking her rest | ACHIEVING MAXIMUM NEURO EFFECT AT 1M FOLLOWERS"
     },
     {
@@ -200,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rIYk0Obkbtk/maxresdefault_live.jpg",
-        "timestamp": 1767963600,
+        "timestamp": null,
         "title": "【#4】ウマ娘プリティーダービーSeason2 同時視聴しゅばああああああ！：Umamusume: Pretty Derby【ホロライブ/大空スバル】",
         "video_id": "rIYk0Obkbtk"
     },
@@ -223,5 +214,14 @@
         "timestamp": 1767965400,
         "title": "【 注意 】請遵守規矩",
         "video_id": "6QD1y4MGmVE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/x2PKeqCiDvk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【DEATH NOTE Killer Within】 わちゃわちゃデスノート人狼 【 奏手イヅル 】",
+        "video_id": "x2PKeqCiDvk"
     }
 ]
