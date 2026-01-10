@@ -14,7 +14,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1768056419.926057
+        "timestamp": 1768058337.5476258,
+        "title": "Neuro-sama Subathon 2025-26 | Last day (reduced captains)"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
@@ -53,15 +54,6 @@
         "video_id": "uERPR4IGAR8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xRZmFHLGOo8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Don\u0026#39;t Starve Together 】深夜のChillサバイバルですワ✦【 猫又おかゆ/ホロライブ 】",
-        "video_id": "xRZmFHLGOo8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -69,15 +61,6 @@
         "timestamp": 1768060800,
         "title": "【METROID PRIME 4: BEYOND】orange women reunion #kfp #キアライブ",
         "video_id": "W-qMq0_El5g"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9FF7DRlQUxE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ゼルダの伝説 風のタクト】ほぼ初見だけどガノンウェルダンよく焼きルートと突入するしかない【アルランディス/ホロスターズ】",
-        "video_id": "9FF7DRlQUxE"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -195,5 +178,14 @@
         "timestamp": null,
         "title": "【歌枠】深夜テンションでまったり過ごす時間【雑談】",
         "video_id": "K1C4lNfRl7s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PAPaW-GNQxs/maxresdefault_live.jpg",
+        "timestamp": 1768089600,
+        "title": "【DARK SOULS 3】SOUL LEVEL 1 RUN...BEGIN.",
+        "video_id": "PAPaW-GNQxs"
     }
 ]
