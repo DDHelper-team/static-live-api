@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wXrFlfT-22U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #桃太郎電鉄2 】100年耐久Part3！【#新人vtuber 】",
-        "video_id": "wXrFlfT-22U"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wXrFlfT-22U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #桃太郎電鉄2 】100年耐久Part3！【#新人vtuber 】",
-        "video_id": "wXrFlfT-22U"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
         "status": "LIVE",
@@ -133,5 +115,23 @@
         "timestamp": null,
         "title": "【METAL GEAR SOLID Δ: SNAKE EATER】Is that a metal gear reference?【Dokibird】",
         "video_id": "5teu1GsZXsg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WoczqZ351oM/maxresdefault_live.jpg",
+        "timestamp": 1768186800,
+        "title": "One of Us is Not So Gentle 【A Gentlemen\u0026#39;s Dispute】",
+        "video_id": "WoczqZ351oM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WFoF1BLAKI0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】みんなも腰は大切にしましょう。 / アステル",
+        "video_id": "WFoF1BLAKI0"
     }
 ]
