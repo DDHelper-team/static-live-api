@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uERPR4IGAR8/maxresdefault_live.jpg",
-        "timestamp": 1768104000,
+        "timestamp": null,
         "title": "【#9】スーパーダンガンロンパ2 さよなら絶望学園 Anniversary Edition：Danganronpa 2: Goodbye Despairやるしゅば！【ホロライブ/大空スバル】",
         "video_id": "uERPR4IGAR8"
     },
@@ -133,5 +133,23 @@
         "timestamp": null,
         "title": "【VALORANT】みんなも腰は大切にしましょう。 / アステル",
         "video_id": "WFoF1BLAKI0"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Bp3DWJZg0SU/maxresdefault_live.jpg",
+        "timestamp": 1768132800,
+        "title": "【#holoindie】みこ先輩が主役のゲーム！！ホロメン沢山出るらしい！！最終回！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "Bp3DWJZg0SU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Bp3DWJZg0SU/maxresdefault_live.jpg",
+        "timestamp": 1768132800,
+        "title": "【#holoindie】みこ先輩が主役のゲーム！！ホロメン沢山出るらしい！！最終回！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "Bp3DWJZg0SU"
     }
 ]
