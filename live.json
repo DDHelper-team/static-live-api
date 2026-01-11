@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BG54UmwprOw/maxresdefault_live.jpg",
-        "timestamp": 1768140000,
+        "timestamp": null,
         "title": "【カウントダウン】誕生日をみんなと迎えたい！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "BG54UmwprOw"
     },
@@ -142,5 +142,14 @@
         "timestamp": 1768145400,
         "title": "【KU100/ASMR】奥までごりゅごりゅ♡ぞくぞくが止まらない快感耳弄りで絶頂睡眠してみない？睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "PPdIpKwvblk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mlO-GpLi0mY/maxresdefault_live.jpg",
+        "timestamp": 1768186800,
+        "title": "【A GENTLEMEN\u0026#39;S DISPUTE】murder most foul #calliolive",
+        "video_id": "mlO-GpLi0mY"
     }
 ]
