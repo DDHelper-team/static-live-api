@@ -101,10 +101,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F0srTw7LlSQ/maxresdefault_live.jpg",
-        "timestamp": 1768195800,
+        "timestamp": null,
         "title": "【シンザン記念】競馬配信🔰未来を測る一戦、クラシックへの序章【尾丸ポルカ/ホロライブ】",
         "video_id": "F0srTw7LlSQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iA7LhA8vCmk/maxresdefault_live.jpg",
+        "timestamp": 1768208400,
+        "title": "＃４【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
+        "video_id": "iA7LhA8vCmk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1kbCwfqAFK0/maxresdefault_live.jpg",
+        "timestamp": 1768197600,
+        "title": "【VALORANT】喧嘩すな！！！！ / アステル",
+        "video_id": "1kbCwfqAFK0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iA7LhA8vCmk/maxresdefault_live.jpg",
+        "timestamp": 1768208400,
+        "title": "＃４【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
+        "video_id": "iA7LhA8vCmk"
     }
 ]
