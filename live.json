@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oYkzILfNoHw/maxresdefault_live.jpg",
-        "timestamp": 1768219200,
+        "timestamp": null,
         "title": "【＃兎田ぺこら生誕2026】マリン船長 × ぺこらマミー初コラボ【ホロライブ/兎田ぺこら】",
         "video_id": "oYkzILfNoHw"
     },
@@ -72,15 +72,6 @@
         "video_id": "YpwGZuyDZmI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_r1eLUF_Lx4/maxresdefault_live.jpg",
-        "timestamp": 1768222800,
-        "title": "＃7【魔法少女ノ魔女裁判】疑わなくては生き残れない。※ネタバレあり【尾丸ポルカ/ホロライブ】",
-        "video_id": "_r1eLUF_Lx4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -97,15 +88,6 @@
         "timestamp": 1768226400,
         "title": "【Agreeee】to buy Reine\u0026#39;s Anniversary Merch (sales end tomorrow)【Pavolia Reine/holoID gen 2】",
         "video_id": "V9_kCiYs_zA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k6Qbc5-NcUM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロガード】無　限　ミ　オ　リ　ベ　ン　ジ　【ホロライブ/白上フブキ】",
-        "video_id": "k6Qbc5-NcUM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -142,5 +124,14 @@
         "timestamp": 1768258800,
         "title": "【HOLOGUARD】papers please but it\u0026#39;s HOLOLIVE #calliolive",
         "video_id": "yQX_rIEYH1U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nIS8ElMkWSc/maxresdefault_live.jpg",
+        "timestamp": 1768226400,
+        "title": "【IOLLIE】Cover Song After Talk Together 【iofi / ホロライブID】",
+        "video_id": "nIS8ElMkWSc"
     }
 ]
