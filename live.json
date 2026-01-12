@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1kbCwfqAFK0/maxresdefault_live.jpg",
-        "timestamp": 1768197600,
+        "timestamp": null,
         "title": "【VALORANT】喧嘩すな！！！！ / アステル",
         "video_id": "1kbCwfqAFK0"
     },
@@ -133,5 +133,23 @@
         "timestamp": 1768208400,
         "title": "＃４【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
         "video_id": "iA7LhA8vCmk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/V9_kCiYs_zA/maxresdefault_live.jpg",
+        "timestamp": 1768226400,
+        "title": "【Agreeee】to buy Reine\u0026#39;s Anniversary Merch (sales end tomorrow)【Pavolia Reine/holoID gen 2】",
+        "video_id": "V9_kCiYs_zA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PIbOVJMDVSU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【鳴潮】完全初見！新たな冒険が今、始まる。【ホロライブ/夏色まつり】",
+        "video_id": "PIbOVJMDVSU"
     }
 ]
