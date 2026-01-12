@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NpSS5VDnlxE/maxresdefault_live.jpg",
-        "timestamp": 1768190444,
+        "timestamp": null,
         "title": "【ウマ娘 プリティーダービー】#4 | 完全初見！ネオユニヴァースちゃん殿堂入りへ🐴【緋月ゆい/ネオポルテ】",
         "video_id": "NpSS5VDnlxE"
     },
@@ -92,10 +92,28 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NpSS5VDnlxE/maxresdefault_live.jpg",
-        "timestamp": 1768190444,
+        "timestamp": null,
         "title": "【ウマ娘 プリティーダービー】#4 | 完全初見！ネオユニヴァースちゃん殿堂入りへ🐴【緋月ゆい/ネオポルテ】",
         "video_id": "NpSS5VDnlxE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YpwGZuyDZmI/maxresdefault_live.jpg",
+        "timestamp": 1768276800,
+        "title": "【崩壊：スターレイル】Ver3.0　開拓クエスト『移ろう火追いの英雄記』をやる男　その2【夕刻ロベル/ホロスターズ】",
+        "video_id": "YpwGZuyDZmI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PScsYtc56-8/maxresdefault_live.jpg",
+        "timestamp": 1768192200,
+        "title": "【STREET FIGHTER6】舞　マスターチャレンジ　２日目【岸堂天真/ホロスターズ】",
+        "video_id": "PScsYtc56-8"
     }
 ]
