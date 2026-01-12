@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/90z-2UPTDy4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【METROID PRIME 4: BEYOND】bike acquired, red suit acquired, LETS GO ICE WORLD #kfp #キアライブ",
-        "video_id": "90z-2UPTDy4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -61,5 +52,14 @@
         "timestamp": 1768226400,
         "title": "【Cursed Companions】協力ホラゲ(※NGワードを言うと仲間が爆散する)を俺たちで!?【アルランディス/ホロスターズ】",
         "video_id": "PhjjHlwqhNo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/e88y2dg8OWQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Agreeee】I Agree to Disagree to Agree to Disagree to Agree to Disagree",
+        "video_id": "e88y2dg8OWQ"
     }
 ]
