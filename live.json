@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WoczqZ351oM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "One of Us is Not So Gentle 【A Gentlemen\u0026#39;s Dispute】",
-        "video_id": "WoczqZ351oM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qqlFicwUGFg/maxresdefault_live.jpg",
+        "timestamp": 1768251600,
+        "title": "When Your Phobia is Anyone Over 5ft Tall 【Little Nightmares 2】SPOILERS",
+        "video_id": "qqlFicwUGFg"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -16,15 +16,6 @@
         "timestamp": 1768219200,
         "title": "【＃兎田ぺこら生誕2026】マリン船長 × ぺこらマミー初コラボ【ホロライブ/兎田ぺこら】",
         "video_id": "oYkzILfNoHw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mlO-GpLi0mY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【A GENTLEMEN\u0026#39;S DISPUTE】murder most foul #calliolive",
-        "video_id": "mlO-GpLi0mY"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -52,15 +43,6 @@
         "timestamp": 1768226400,
         "title": "【Cursed Companions】協力ホラゲ(※NGワードを言うと仲間が爆散する)を俺たちで!?【アルランディス/ホロスターズ】",
         "video_id": "PhjjHlwqhNo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1T71B7SxEKw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【A GENTLEMAN\u0026#39;S DISPUTE】MMMMMMMMNYES *twirls stache*",
-        "video_id": "1T71B7SxEKw"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -110,10 +92,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PScsYtc56-8/maxresdefault_live.jpg",
-        "timestamp": 1768192200,
+        "timestamp": null,
         "title": "【STREET FIGHTER6】舞　マスターチャレンジ　２日目【岸堂天真/ホロスターズ】",
         "video_id": "PScsYtc56-8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/F0srTw7LlSQ/maxresdefault_live.jpg",
+        "timestamp": 1768195800,
+        "title": "【シンザン記念】競馬配信🔰未来を測る一戦、クラシックへの序章【尾丸ポルカ/ホロライブ】",
+        "video_id": "F0srTw7LlSQ"
     }
 ]
