@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iA7LhA8vCmk/maxresdefault_live.jpg",
-        "timestamp": 1768208400,
+        "timestamp": null,
         "title": "＃４【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
         "video_id": "iA7LhA8vCmk"
     },
@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iA7LhA8vCmk/maxresdefault_live.jpg",
-        "timestamp": 1768208400,
+        "timestamp": null,
         "title": "＃４【バイオハザード HDリマスター】完全初見で挑む初代バイオの世界【轟はじめ/ReGLOSS】",
         "video_id": "iA7LhA8vCmk"
     },
@@ -133,5 +133,23 @@
         "timestamp": 1768212000,
         "title": "【ゼンレスゾーンゼロ】#26 | 完全初見！釈淵は何をしているンナ…❔️【緋月ゆい/ネオポルテ】",
         "video_id": "kEzWZumg1aY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k6Qbc5-NcUM/maxresdefault_live.jpg",
+        "timestamp": 1768215600,
+        "title": "【ホロガード】無　限　ミ　オ　リ　ベ　ン　ジ　【ホロライブ/白上フブキ】",
+        "video_id": "k6Qbc5-NcUM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/emqnHor_L8k/maxresdefault_live.jpg",
+        "timestamp": 1768215600,
+        "title": "【】ホロガードやるしゅばあああああああああああああああああああああああああ【ホロライブ/大空スバル】",
+        "video_id": "emqnHor_L8k"
     }
 ]
