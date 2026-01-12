@@ -74,11 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/F0srTw7LlSQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【シンザン記念】競馬配信🔰未来を測る一戦、クラシックへの序章【尾丸ポルカ/ホロライブ】",
-        "video_id": "F0srTw7LlSQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_r1eLUF_Lx4/maxresdefault_live.jpg",
+        "timestamp": 1768222800,
+        "title": "＃7【魔法少女ノ魔女裁判】疑わなくては生き残れない。※ネタバレあり【尾丸ポルカ/ホロライブ】",
+        "video_id": "_r1eLUF_Lx4"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -124,5 +124,23 @@
         "timestamp": null,
         "title": "【鳴潮】完全初見！新たな冒険が今、始まる。【ホロライブ/夏色まつり】",
         "video_id": "PIbOVJMDVSU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kEzWZumg1aY/maxresdefault_live.jpg",
+        "timestamp": 1768212000,
+        "title": "【ゼンレスゾーンゼロ】#26 | 完全初見！釈淵は何をしているンナ…❔️【緋月ゆい/ネオポルテ】",
+        "video_id": "kEzWZumg1aY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kEzWZumg1aY/maxresdefault_live.jpg",
+        "timestamp": 1768212000,
+        "title": "【ゼンレスゾーンゼロ】#26 | 完全初見！釈淵は何をしているンナ…❔️【緋月ゆい/ネオポルテ】",
+        "video_id": "kEzWZumg1aY"
     }
 ]
