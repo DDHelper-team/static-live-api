@@ -56,20 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/V9_kCiYs_zA/maxresdefault_live.jpg",
-        "timestamp": 1768226400,
+        "timestamp": null,
         "title": "【Agreeee】to buy Reine\u0026#39;s Anniversary Merch (sales end tomorrow)【Pavolia Reine/holoID gen 2】",
         "video_id": "V9_kCiYs_zA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/emqnHor_L8k/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#生スバル】ホロガードやるしゅばあああああああああああああああああああああああああ【ホロライブ/大空スバル】",
-        "video_id": "emqnHor_L8k"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -115,5 +106,14 @@
         "timestamp": 1768309200,
         "title": "＃7【魔法少女ノ魔女裁判】疑わなくては生き残れない。※ネタバレあり【尾丸ポルカ/ホロライブ】",
         "video_id": "_r1eLUF_Lx4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G9YOAhjQe5U/maxresdefault_live.jpg",
+        "timestamp": 1768230000,
+        "title": "free talk while i plan my schedule at 12am",
+        "video_id": "G9YOAhjQe5U"
     }
 ]
