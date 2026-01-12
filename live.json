@@ -9,15 +9,6 @@
         "video_id": "qqlFicwUGFg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oYkzILfNoHw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【＃兎田ぺこら生誕2026】マリン船長 × ぺこらマミー初コラボ【ホロライブ/兎田ぺこら】",
-        "video_id": "oYkzILfNoHw"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -43,24 +34,6 @@
         "timestamp": 1768226400,
         "title": "【Cursed Companions】協力ホラゲ(※NGワードを言うと仲間が爆散する)を俺たちで!?【アルランディス/ホロスターズ】",
         "video_id": "PhjjHlwqhNo"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/IbitJU2Xrbg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Parasite Mutant DEMO｜致敬異魔？！這熟悉的味道快來玩玩看【Healing希靈/VTuber】",
-        "video_id": "IbitJU2Xrbg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/IbitJU2Xrbg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Parasite Mutant DEMO｜致敬異魔？！這熟悉的味道快來玩玩看【Healing希靈/VTuber】",
-        "video_id": "IbitJU2Xrbg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -110,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/j1UqJMIC6jU/maxresdefault_live.jpg",
-        "timestamp": 1768222800,
+        "timestamp": null,
         "title": "【ストリートファイター6】テリる【荒咬オウガ /ホロスターズ】",
         "video_id": "j1UqJMIC6jU"
     },
@@ -133,5 +106,14 @@
         "timestamp": 1768226400,
         "title": "【IOLLIE】Cover Song After Talk Together 【iofi / ホロライブID】",
         "video_id": "nIS8ElMkWSc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_r1eLUF_Lx4/maxresdefault_live.jpg",
+        "timestamp": 1768309200,
+        "title": "＃7【魔法少女ノ魔女裁判】疑わなくては生き残れない。※ネタバレあり【尾丸ポルカ/ホロライブ】",
+        "video_id": "_r1eLUF_Lx4"
     }
 ]
