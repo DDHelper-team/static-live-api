@@ -38,20 +38,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rmLVxqOtPwo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "1月SC點心抽獎｜香蔥雞汁餅乾🍪很有台灣古早風味樸實無華但也點綴味蕾❤️【Healing希靈/VTuber】",
-        "video_id": "rmLVxqOtPwo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xMhdNYxmB54/maxresdefault_live.jpg",
+        "timestamp": 1768388400,
+        "title": "雜談｜2026新期許✨狐狐已經許好願了！看看你們的新希望並且年底會才再拿出來確認有沒有達到唷！一起加油吧💪投稿表單在說明欄【Healing希靈/VTuber】",
+        "video_id": "xMhdNYxmB54"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rmLVxqOtPwo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "1月SC點心抽獎｜香蔥雞汁餅乾🍪很有台灣古早風味樸實無華但也點綴味蕾❤️【Healing希靈/VTuber】",
-        "video_id": "rmLVxqOtPwo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xMhdNYxmB54/maxresdefault_live.jpg",
+        "timestamp": 1768388400,
+        "title": "雜談｜2026新期許✨狐狐已經許好願了！看看你們的新希望並且年底會才再拿出來確認有沒有達到唷！一起加油吧💪投稿表單在說明欄【Healing希靈/VTuber】",
+        "video_id": "xMhdNYxmB54"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -180,15 +180,6 @@
         "video_id": "XEUPdrWqjEM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RnUXyJQ5EHU/maxresdefault_live.jpg",
-        "timestamp": 1768311000,
-        "title": "#7【Danganronpa 2: Goodbye Despair】i want out (spoilers)【Pavolia Reine/hololiveID】",
-        "video_id": "RnUXyJQ5EHU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
         "platform": "youtube",
         "status": "LIVE",
@@ -200,28 +191,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/I9UG2hfop50/maxresdefault_live.jpg",
-        "timestamp": 1768311000,
+        "timestamp": null,
         "title": "【ストリートファイター6】テリ修行【荒咬オウガ /ホロスターズ】",
         "video_id": "I9UG2hfop50"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5OcR8wwMuKk/maxresdefault_live.jpg",
-        "timestamp": 1768311000,
+        "timestamp": null,
         "title": "【 雜談 】聊聊天 談談心 說說話",
         "video_id": "5OcR8wwMuKk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5OcR8wwMuKk/maxresdefault_live.jpg",
-        "timestamp": 1768311000,
+        "timestamp": null,
         "title": "【 雜談 】聊聊天 談談心 說說話",
         "video_id": "5OcR8wwMuKk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ug7sha_0Og0/maxresdefault_live.jpg",
+        "timestamp": 1768312800,
+        "title": "CITIES SKYLINES we try try",
+        "video_id": "ug7sha_0Og0"
     }
 ]
