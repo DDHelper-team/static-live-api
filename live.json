@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YpwGZuyDZmI/maxresdefault_live.jpg",
-        "timestamp": 1768276800,
+        "timestamp": null,
         "title": "【崩壊：スターレイル】Ver3.0　開拓クエスト『移ろう火追いの英雄記』をやる男　その2【夕刻ロベル/ホロスターズ】",
         "video_id": "YpwGZuyDZmI"
     },
@@ -61,5 +61,14 @@
         "timestamp": 1768284008,
         "title": "【VALORANT】ロボ子さんとデュオまじか⁉️【緋月ゆい/ネオポルテ】",
         "video_id": "mjj1dqLETM8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nzjFGlUcDUw/maxresdefault_live.jpg",
+        "timestamp": 1768305600,
+        "title": "【League of Legends】LoLが一人でもできるようになりたいんや…~圧倒的光を添えて~【アルランディス/ホロスターズ】",
+        "video_id": "nzjFGlUcDUw"
     }
 ]
