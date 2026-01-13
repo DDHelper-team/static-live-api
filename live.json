@@ -54,15 +54,6 @@
         "video_id": "xMhdNYxmB54"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6ryk0zpgW9g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【同時視聴】無料放送あり！ぺこらの1stソロライブ「うさぎ the MEGAMI!!」みんなで観よう！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "6ryk0zpgW9g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -128,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/sDCSVHaHY8I/maxresdefault_live.jpg",
-        "timestamp": 1768312800,
+        "timestamp": null,
         "title": "【雑談配信 / talk】整地しながらおしゃべりしよう！前回の続き！【#新人vtuber 】",
         "video_id": "sDCSVHaHY8I"
     },
@@ -155,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/sDCSVHaHY8I/maxresdefault_live.jpg",
-        "timestamp": 1768312800,
+        "timestamp": null,
         "title": "【雑談配信 / talk】整地しながらおしゃべりしよう！前回の続き！【#新人vtuber 】",
         "video_id": "sDCSVHaHY8I"
     },
@@ -218,10 +209,28 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ug7sha_0Og0/maxresdefault_live.jpg",
-        "timestamp": 1768312800,
+        "timestamp": null,
         "title": "CITIES SKYLINES we try try",
         "video_id": "ug7sha_0Og0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ehckWTavvmk/maxresdefault_live.jpg",
+        "timestamp": 1768388400,
+        "title": "【デヴィエーション・ゲーム】AIにバレずに仲間に描いてる絵を伝えろ！！！！【#ホロディヴィエーション】",
+        "video_id": "ehckWTavvmk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s2cV0Bap3qs/maxresdefault_live.jpg",
+        "timestamp": 1768316400,
+        "title": "【歌枠】休暇明けからこんにちは-Midnight station -112【HACHI】",
+        "video_id": "s2cV0Bap3qs"
     }
 ]
