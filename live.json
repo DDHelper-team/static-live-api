@@ -54,24 +54,6 @@
         "video_id": "VXNVZSMRS3c"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sDCSVHaHY8I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談配信 / talk】整地しながらおしゃべりしよう！前回の続き！【#新人vtuber 】",
-        "video_id": "sDCSVHaHY8I"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sDCSVHaHY8I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談配信 / talk】整地しながらおしゃべりしよう！前回の続き！【#新人vtuber 】",
-        "video_id": "sDCSVHaHY8I"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
         "status": "LIVE",
@@ -106,5 +88,14 @@
         "timestamp": 1768392000,
         "title": "【#生スバル】おかゆにゅ～む！R やるしゅばあああああああああああああああ！！！！！：Okayunyumu! R【ホロライブ/大空スバル】",
         "video_id": "JL6Q14VTIrY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hdtg8xA1xYo/maxresdefault_live.jpg",
+        "timestamp": 1768348800,
+        "title": "【WARFRAME】CLEM GRAKATA",
+        "video_id": "hdtg8xA1xYo"
     }
 ]
