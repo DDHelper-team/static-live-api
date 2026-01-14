@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iEzsUBm86QI/maxresdefault_live.jpg",
-        "timestamp": 1768381200,
+        "timestamp": null,
         "title": "【ワンス・アポン・ア・塊魂】でっかい塊作りたいな～～～！！！【 ネタバレあり 】",
         "video_id": "iEzsUBm86QI"
     },
@@ -142,5 +142,23 @@
         "timestamp": 1768383000,
         "title": "【歌枠 / karaoke】ヴァロ配信者は歌を歌う  / アステル",
         "video_id": "4Q-p35MAuSk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YeIDdJqPpKY/maxresdefault_live.jpg",
+        "timestamp": 1768401000,
+        "title": "【雑談】誕生日カウントダウン2026【荒咬オウガ /ホロスターズ】",
+        "video_id": "YeIDdJqPpKY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kMNsj4D5gOg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】Snow Manって、爆イケじゃね？？？【岸堂天真/ホロスターズ】",
+        "video_id": "kMNsj4D5gOg"
     }
 ]
