@@ -66,10 +66,10 @@
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4Q-p35MAuSk/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/hXjeQKy50LM/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【歌枠 / karaoke】ヴァロ配信者は歌を歌う  / アステル",
-        "video_id": "4Q-p35MAuSk"
+        "title": "【VALORANT】他責禁止、他責したら即終了自責ヴァロラント / アステル",
+        "video_id": "hXjeQKy50LM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
@@ -101,10 +101,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/usj5tU5uXyE/maxresdefault_live.jpg",
-        "timestamp": 1768395600,
+        "timestamp": null,
         "title": "BIRTHDAY COUNTDOWN in CITIES SKYLINES",
         "video_id": "usj5tU5uXyE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v_n5qsV9pEA/maxresdefault_live.jpg",
+        "timestamp": 1768399200,
+        "title": "#4【Hades II】I\u0026#39;M GONNA MAKE YOU MINE (bronze and stuff)【Pavolia Reine/hololiveID】",
+        "video_id": "v_n5qsV9pEA"
     }
 ]
