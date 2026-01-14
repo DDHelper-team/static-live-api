@@ -119,10 +119,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uT_ks-0mW8Q/maxresdefault_live.jpg",
-        "timestamp": 1768406400,
+        "timestamp": null,
         "title": "【AGREEEE】to disagree!",
         "video_id": "uT_ks-0mW8Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-YKFoWx2izY/maxresdefault_live.jpg",
+        "timestamp": 1768442400,
+        "title": "【ANIMAL SHELTER 2 COLLAB】let advent have a furrever home in your heart 🐾 #holoAdvent 【FUWAMOCO】",
+        "video_id": "-YKFoWx2izY"
     }
 ]
