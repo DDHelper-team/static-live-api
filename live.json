@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JRSSTYsp3Mg/maxresdefault_live.jpg",
-        "timestamp": 1768474800,
+        "timestamp": null,
         "title": "【 #荒咬オウガ生誕祭2026 】ホロハウス【荒咬オウガ /ホロスターズ】",
         "video_id": "JRSSTYsp3Mg"
     },
@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OoUafWxBLpY/maxresdefault_live.jpg",
-        "timestamp": 1768474800,
+        "timestamp": null,
         "title": "【ストリートファイター6】#或世杯 紅白戦のスクリムじゃい！【アルランディス/ホロスターズ】",
         "video_id": "OoUafWxBLpY"
     },
@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/n4e0HryW0ks/maxresdefault_live.jpg",
-        "timestamp": 1768474800,
+        "timestamp": null,
         "title": "【Quarantine Zone】検問所でゾンビか生存者かを仕分ける仕事につきました・・・！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "n4e0HryW0ks"
     },
@@ -173,9 +173,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6gr5Nkje5Ik/maxresdefault_live.jpg",
-        "timestamp": 1768474800,
+        "timestamp": null,
         "title": "【Bits \u0026amp; Bops】Listen to the beat~🎵🎶",
         "video_id": "6gr5Nkje5Ik"
     },
@@ -187,5 +187,14 @@
         "timestamp": 1768557600,
         "title": "【3D】DEV_IS集合！ユニット対抗ゲームバトル！【#DEV_ISゲームコラボ】",
         "video_id": "Y8zhAkgf1nM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kL9pza8dvzw/maxresdefault_live.jpg",
+        "timestamp": 1768561200,
+        "title": "【全編無料配信】HACHI Birthday LIVE 2026 #はちたや生誕祭",
+        "video_id": "kL9pza8dvzw"
     }
 ]
