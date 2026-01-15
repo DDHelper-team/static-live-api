@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OoUafWxBLpY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ストリートファイター6】#或世杯 紅白戦のスクリムじゃい！【アルランディス/ホロスターズ】",
-        "video_id": "OoUafWxBLpY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -20,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RIUypj6ayXI/maxresdefault_live.jpg",
-        "timestamp": 1768487400,
+        "timestamp": null,
         "title": "【Fears to Fathom - Woodbury Getaway】AKHIR DARI PENGALAMAN YANG MENGERIKAN 😱",
         "video_id": "RIUypj6ayXI"
     },
@@ -187,5 +178,23 @@
         "timestamp": null,
         "title": "#7【Danganronpa 2: Goodbye Despair】im sorry real stream now (spoilers)【Pavolia Reine/hololiveID】",
         "video_id": "-f8asurr8_E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8PuZOockO64/maxresdefault_live.jpg",
+        "timestamp": 1768546800,
+        "title": "【カード開封】アヤカシヴァーミリオン【荒咬オウガ 花咲みやび /ホロスターズ】",
+        "video_id": "8PuZOockO64"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s8uEDYrr3Q4/maxresdefault_live.jpg",
+        "timestamp": 1768561200,
+        "title": "【ストリートファイター6】#或世杯 紅白戦の本番じゃい!!【アルランディス/ホロスターズ】",
+        "video_id": "s8uEDYrr3Q4"
     }
 ]
