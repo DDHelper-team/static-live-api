@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bVro2Y30BbA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜心累就回來這裡姊姊都能溫柔的接住你❤️｜Ear Massage Whispering｜ 心音 耳マッサージ 囁き【KU100/3DIO】",
-        "video_id": "bVro2Y30BbA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
         "status": "LIVE",
@@ -16,15 +7,6 @@
         "timestamp": null,
         "title": "【Fears to Fathom - Woodbury Getaway】AKHIR DARI PENGALAMAN YANG MENGERIKAN 😱",
         "video_id": "RIUypj6ayXI"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bVro2Y30BbA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜心累就回來這裡姊姊都能溫柔的接住你❤️｜Ear Massage Whispering｜ 心音 耳マッサージ 囁き【KU100/3DIO】",
-        "video_id": "bVro2Y30BbA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -117,24 +99,6 @@
         "video_id": "kL9pza8dvzw"
     },
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hm3dbxWT07I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Cast n Chill】釣り雑談~ステージ全開放目指しつつ~【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "hm3dbxWT07I"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hm3dbxWT07I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Cast n Chill】釣り雑談~ステージ全開放目指しつつ~【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "hm3dbxWT07I"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
         "platform": "youtube",
         "status": "LIVE",
@@ -187,5 +151,23 @@
         "timestamp": 1768561200,
         "title": "【ストリートファイター6】#或世杯 紅白戦の本番じゃい!!【アルランディス/ホロスターズ】",
         "video_id": "s8uEDYrr3Q4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RfH_nDFkRtc/maxresdefault_live.jpg",
+        "timestamp": 1768568400,
+        "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑥【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "RfH_nDFkRtc"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RfH_nDFkRtc/maxresdefault_live.jpg",
+        "timestamp": 1768568400,
+        "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑥【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "RfH_nDFkRtc"
     }
 ]
