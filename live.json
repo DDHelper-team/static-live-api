@@ -99,15 +99,6 @@
         "video_id": "NNXn2ctCJT8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pstMm7Za7DM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】そぉい！【夕刻ロベル/ホロスターズ】",
-        "video_id": "pstMm7Za7DM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -133,5 +124,32 @@
         "timestamp": 1768478400,
         "title": "【グリーンスプーン】限界飯卒業！？健康的な食生活を手に入れるよ！【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "lzDigswqcs4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c16Cb_NQzbk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【STREET FIGHTER6】エレナ　マスターチャレンジ　1日目【岸堂天真/ホロスターズ】",
+        "video_id": "c16Cb_NQzbk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xYdAxd8Npjc/maxresdefault_live.jpg",
+        "timestamp": 1768509000,
+        "title": "【BRAINSTORM IDEAS】WHY DID I LET CHAT COOK??【Dokibird】",
+        "video_id": "xYdAxd8Npjc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xYdAxd8Npjc/maxresdefault_live.jpg",
+        "timestamp": 1768509000,
+        "title": "【BRAINSTORM IDEAS】WHY DID I LET CHAT COOK??【Dokibird】",
+        "video_id": "xYdAxd8Npjc"
     }
 ]
