@@ -1,32 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JRSSTYsp3Mg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #荒咬オウガ生誕祭2026 】ホロハウス【荒咬オウガ /ホロスターズ】",
-        "video_id": "JRSSTYsp3Mg"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HGcHVG5LcdI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【原神】「Luna Ⅳ」来た！コロンビーナ待っててね🌕️【緋月ゆい/ネオポルテ】",
-        "video_id": "HGcHVG5LcdI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HGcHVG5LcdI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【原神】「Luna Ⅳ」来た！コロンビーナ待っててね🌕️【緋月ゆい/ネオポルテ】",
-        "video_id": "HGcHVG5LcdI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -101,18 +74,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lzDigswqcs4/maxresdefault_live.jpg",
-        "timestamp": 1768478400,
+        "timestamp": null,
         "title": "【グリーンスプーン】限界飯卒業！？健康的な食生活を手に入れるよ！【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "lzDigswqcs4"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lzDigswqcs4/maxresdefault_live.jpg",
-        "timestamp": 1768478400,
+        "timestamp": null,
         "title": "【グリーンスプーン】限界飯卒業！？健康的な食生活を手に入れるよ！【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "lzDigswqcs4"
     },
@@ -196,5 +169,41 @@
         "timestamp": 1768561200,
         "title": "【全編無料配信】HACHI Birthday LIVE 2026 #はちたや生誕祭",
         "video_id": "kL9pza8dvzw"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hm3dbxWT07I/maxresdefault_live.jpg",
+        "timestamp": 1768482000,
+        "title": "【Cast n Chill】釣り雑談~ステージ全開放目指しつつ~【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "hm3dbxWT07I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hm3dbxWT07I/maxresdefault_live.jpg",
+        "timestamp": 1768482000,
+        "title": "【Cast n Chill】釣り雑談~ステージ全開放目指しつつ~【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "hm3dbxWT07I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SfoOYs3mGVQ/maxresdefault_live.jpg",
+        "timestamp": 1768485600,
+        "title": "【PowerWash Simulator 2】深夜のチル【獅子神レオナ/Re:AcT】",
+        "video_id": "SfoOYs3mGVQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SfoOYs3mGVQ/maxresdefault_live.jpg",
+        "timestamp": 1768485600,
+        "title": "【PowerWash Simulator 2】深夜のチル【獅子神レオナ/Re:AcT】",
+        "video_id": "SfoOYs3mGVQ"
     }
 ]
