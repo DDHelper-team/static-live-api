@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ta1Pz8uEwdk/maxresdefault_live.jpg",
-        "timestamp": 1770116400,
+        "timestamp": null,
         "title": "【FREETALK】 I MISS YAPPING WITH YOU, ZOMRADES 😚💕 【Kureiji Ollie】",
         "video_id": "ta1Pz8uEwdk"
     },
@@ -47,20 +47,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/21aA2j7WJoY/maxresdefault_live.jpg",
-        "timestamp": 1770116400,
+        "timestamp": null,
         "title": "【 バイオハザード RE:3 】めっちゃおひさしバイオ～～です#01【 猫又おかゆ/ホロライブ 】",
         "video_id": "21aA2j7WJoY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/w3tgfwWNYw0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【崩壊：スターレイル】Ver3.4　開拓クエスト『破滅へ向かう太陽』をやる男【夕刻ロベル/ホロスターズ】",
-        "video_id": "w3tgfwWNYw0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -119,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QrvmAYm4jS4/maxresdefault_live.jpg",
-        "timestamp": 1770116400,
+        "timestamp": null,
         "title": "【マーベル・ライバルズ】FFL Marvel Rivals Cup に向けてコソ連からのチーム練習だ！【アルランディス/ホロスターズ】",
         "video_id": "QrvmAYm4jS4"
     },
@@ -137,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pDAeiEJCwI4/maxresdefault_live.jpg",
-        "timestamp": 1770116400,
+        "timestamp": null,
         "title": "【節分】年に一度の ONIKAWAII恵方巻食べ比べ！💖重大告知もアリ❣【百鬼あやめ/ホロライブ】",
         "video_id": "pDAeiEJCwI4"
     },
@@ -196,5 +187,23 @@
         "timestamp": 1770127200,
         "title": "【歌枠】2月4日は誕生日！！【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "2pdO8HZQ7WU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/voyPfmrblRU/maxresdefault_live.jpg",
+        "timestamp": 1770121800,
+        "title": "こちらは恵方巻、あちらは南南東。【 獅子神レオナ/Re:AcT】",
+        "video_id": "voyPfmrblRU"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/voyPfmrblRU/maxresdefault_live.jpg",
+        "timestamp": 1770121800,
+        "title": "こちらは恵方巻、あちらは南南東。【 獅子神レオナ/Re:AcT】",
+        "video_id": "voyPfmrblRU"
     }
 ]
