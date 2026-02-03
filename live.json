@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZaEPvoIn5Tc/maxresdefault_live.jpg",
-        "timestamp": 1770152400,
+        "timestamp": null,
         "title": "Smol Girl in a DLC World 【Dark Souls 2: Scholars of the First Sin】 Spoilers!",
         "video_id": "ZaEPvoIn5Tc"
     },
@@ -68,7 +68,25 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1770150509.2758439,
+        "timestamp": 1770152397.6690447,
         "title": "Considered creating the rapture, have I?"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BOfQlnqDsI0/maxresdefault_live.jpg",
+        "timestamp": 1770163200,
+        "title": "【YAPYAP】fireball returns【Dokibird】",
+        "video_id": "BOfQlnqDsI0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BOfQlnqDsI0/maxresdefault_live.jpg",
+        "timestamp": 1770163200,
+        "title": "【YAPYAP】fireball returns【Dokibird】",
+        "video_id": "BOfQlnqDsI0"
     }
 ]
