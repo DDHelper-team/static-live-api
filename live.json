@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KH7CpWws5gk/maxresdefault_live.jpg",
-        "timestamp": 1770118200,
+        "timestamp": null,
         "title": "鴨鴨偵探：薩拉米的秘密｜可愛的鴨鴨偵探來幫動物們解謎囉【Healing希靈/VTuber】",
         "video_id": "KH7CpWws5gk"
     },
@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KH7CpWws5gk/maxresdefault_live.jpg",
-        "timestamp": 1770118200,
+        "timestamp": null,
         "title": "鴨鴨偵探：薩拉米的秘密｜可愛的鴨鴨偵探來幫動物們解謎囉【Healing希靈/VTuber】",
         "video_id": "KH7CpWws5gk"
     },
@@ -205,5 +205,14 @@
         "timestamp": 1770121800,
         "title": "こちらは恵方巻、あちらは南南東。【 獅子神レオナ/Re:AcT】",
         "video_id": "voyPfmrblRU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eYpV7tYPCFQ/maxresdefault_live.jpg",
+        "timestamp": 1770123600,
+        "title": "#3【ソフィアは嘘と引き換えに】奔走する精神科医、少女たちの覚醒。※ネタバレあり【尾丸ポルカ/ホロライブ】",
+        "video_id": "eYpV7tYPCFQ"
     }
 ]
