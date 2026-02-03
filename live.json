@@ -81,15 +81,6 @@
         "video_id": "7Q0HkTHCIUQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9THb51HCeyk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】練習しないと！！！！！！！！！ / アステル",
-        "video_id": "9THb51HCeyk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -137,38 +128,29 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0PmEBvEJk24/maxresdefault_live.jpg",
-        "timestamp": 1770120000,
+        "timestamp": null,
         "title": "【利用規約に同意したい】そろそろ同意させてもらっていいですか？？？？？【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "0PmEBvEJk24"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0PmEBvEJk24/maxresdefault_live.jpg",
-        "timestamp": 1770120000,
+        "timestamp": null,
         "title": "【利用規約に同意したい】そろそろ同意させてもらっていいですか？？？？？【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "0PmEBvEJk24"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wM4IlDKeBuk/maxresdefault_live.jpg",
-        "timestamp": 1770120000,
+        "timestamp": null,
         "title": "【雑談】夜雑談 【荒咬オウガ /ホロスターズ】",
         "video_id": "wM4IlDKeBuk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KrKR454K2uI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#遊戯王マスターデュエルパーク】コンボをゆるりと覚えたい！！【ホロライブ/夏色まつり】",
-        "video_id": "KrKR454K2uI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
@@ -214,5 +196,14 @@
         "timestamp": 1770123600,
         "title": "#3【ソフィアは嘘と引き換えに】奔走する精神科医、少女たちの覚醒。※ネタバレあり【尾丸ポルカ/ホロライブ】",
         "video_id": "eYpV7tYPCFQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NVe1zuLpkGY/maxresdefault_live.jpg",
+        "timestamp": 1770123600,
+        "title": "#9【Danganronpa 2: Goodbye Despair】(EP4 TRIAL) Goodbye Fruits  (spoilers)【Pavolia Reine/hololiveID】",
+        "video_id": "NVe1zuLpkGY"
     }
 ]
