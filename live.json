@@ -45,15 +45,6 @@
         "video_id": "rWEkFYqz5rI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/M_owcUtGgN8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Core Keeper】チルい 洞窟生活 俺は旅人【 奏手イヅル 】",
-        "video_id": "M_owcUtGgN8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -70,5 +61,13 @@
         "timestamp": 1770199200,
         "title": "【マーベル・ライバルズ】FFL Marvel Rivals Cup 本番！【アルランディス/ホロスターズ】",
         "video_id": "nmIyy7Rgh30"
+    },
+    {
+        "channel": "https://www.twitch.tv/vedal987",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
+        "timestamp": 1770147988.7963986,
+        "title": "Considered creating the rapture, have I?"
     }
 ]
