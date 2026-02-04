@@ -47,36 +47,36 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/v-Y9kqrXCoc/maxresdefault_live.jpg",
-        "timestamp": 1770202800,
-        "title": "【#5】テラリアやるしゅばああああああああああああああああああああああああああああああ！！！！：Terraria ＃ホロテラリア【ホロライブ/大空スバル】",
+        "timestamp": null,
+        "title": "【#6】テラリアやるしゅばああああああああああああああああああああああああああああああ！！！！：Terraria ＃ホロテラリア【ホロライブ/大空スバル】",
         "video_id": "v-Y9kqrXCoc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rNPVdr87xTE/maxresdefault_live.jpg",
-        "timestamp": 1770204600,
+        "timestamp": null,
         "title": "鴨鴨偵探2：鬧鬼露營地｜哼！什麼假鬼假怪在我理性邏輯的推理下通通現形！白吐司萬歲【Healing希靈/VTuber】",
         "video_id": "rNPVdr87xTE"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rNPVdr87xTE/maxresdefault_live.jpg",
-        "timestamp": 1770204600,
+        "timestamp": null,
         "title": "鴨鴨偵探2：鬧鬼露營地｜哼！什麼假鬼假怪在我理性邏輯的推理下通通現形！白吐司萬歲【Healing希靈/VTuber】",
         "video_id": "rNPVdr87xTE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qP6wAdYRqrs/maxresdefault_live.jpg",
-        "timestamp": 1770202800,
+        "timestamp": null,
         "title": "【＃ホロテラリア】テラリア始めます！！！！！！Day6 ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "qP6wAdYRqrs"
     },
@@ -119,18 +119,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qUpVUfAZElo/maxresdefault_live.jpg",
-        "timestamp": 1770202800,
+        "timestamp": null,
         "title": "【＃６】#ホロテラリア　ひかりのソウルを求めて。 【ホロライブ/白上フブキ】",
         "video_id": "qUpVUfAZElo"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/B5wEag44b-8/maxresdefault_live.jpg",
-        "timestamp": 1770202800,
+        "timestamp": null,
         "title": "【Minecraft】ライブユニオン村、つくるぞ【HACHI / 焔魔るり / 瀬戸乃とと / 水瀬凪】",
         "video_id": "B5wEag44b-8"
     },
@@ -169,5 +169,14 @@
         "timestamp": 1770210000,
         "title": "【夜雑談】お久しぶりです、ラミィです【雪花ラミィ /ホロライブ】",
         "video_id": "NmQZwL2K950"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FHvfrfIgaEs/maxresdefault_live.jpg",
+        "timestamp": 1770213600,
+        "title": "【MyVoiceZoo】Wait, how many zoo do I own again?",
+        "video_id": "FHvfrfIgaEs"
     }
 ]
