@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZaEPvoIn5Tc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Smol Girl in a DLC World 【Dark Souls 2: Scholars of the First Sin】 Spoilers!",
-        "video_id": "ZaEPvoIn5Tc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -45,15 +36,6 @@
         "video_id": "rWEkFYqz5rI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0E9jIamMO_o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【CHAT】1st EP RELEASE PARTYYYYY!!!!!",
-        "video_id": "0E9jIamMO_o"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -65,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BOfQlnqDsI0/maxresdefault_live.jpg",
-        "timestamp": 1770163200,
+        "timestamp": null,
         "title": "【YAPYAP】fireball returns【Dokibird】",
         "video_id": "BOfQlnqDsI0"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BOfQlnqDsI0/maxresdefault_live.jpg",
-        "timestamp": 1770163200,
+        "timestamp": null,
         "title": "【YAPYAP】fireball returns【Dokibird】",
         "video_id": "BOfQlnqDsI0"
     }
