@@ -137,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MggJUlPc2nw/maxresdefault_live.jpg",
-        "timestamp": 1770201000,
+        "timestamp": null,
         "title": "【pop’n music Lively】アケコン買ったから初🔰PCプレイ/ノーマル帯【尾丸ポルカ/ホロライブ】",
         "video_id": "MggJUlPc2nw"
     },
@@ -160,5 +160,14 @@
         "timestamp": 1770208200,
         "title": "【#ff14  】甩著小尾巴，繼續當個好豆芽【#ゲーム個人勢 / Fingla】",
         "video_id": "fsQvLD8OhVk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NmQZwL2K950/maxresdefault_live.jpg",
+        "timestamp": 1770210000,
+        "title": "【夜雑談】お久しぶりです、ラミィです【雪花ラミィ /ホロライブ】",
+        "video_id": "NmQZwL2K950"
     }
 ]
