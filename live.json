@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nmIyy7Rgh30/maxresdefault_live.jpg",
-        "timestamp": 1770199200,
+        "timestamp": null,
         "title": "【マーベル・ライバルズ】FFL Marvel Rivals Cup 本番！【アルランディス/ホロスターズ】",
         "video_id": "nmIyy7Rgh30"
     },
@@ -124,5 +124,41 @@
         "timestamp": 1770202800,
         "title": "【＃６】#ホロテラリア　ひかりのソウルを求めて。 【ホロライブ/白上フブキ】",
         "video_id": "qUpVUfAZElo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/B5wEag44b-8/maxresdefault_live.jpg",
+        "timestamp": 1770202800,
+        "title": "【Minecraft】ライブユニオン村、つくるぞ【HACHI / 焔魔るり / 瀬戸乃とと / 水瀬凪】",
+        "video_id": "B5wEag44b-8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MggJUlPc2nw/maxresdefault_live.jpg",
+        "timestamp": 1770201000,
+        "title": "【pop’n music Lively】アケコン買ったから初🔰PCプレイ/ノーマル帯【尾丸ポルカ/ホロライブ】",
+        "video_id": "MggJUlPc2nw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fsQvLD8OhVk/maxresdefault_live.jpg",
+        "timestamp": 1770208200,
+        "title": "【#ff14  】甩著小尾巴，繼續當個好豆芽【#ゲーム個人勢 / Fingla】",
+        "video_id": "fsQvLD8OhVk"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fsQvLD8OhVk/maxresdefault_live.jpg",
+        "timestamp": 1770208200,
+        "title": "【#ff14  】甩著小尾巴，繼續當個好豆芽【#ゲーム個人勢 / Fingla】",
+        "video_id": "fsQvLD8OhVk"
     }
 ]
