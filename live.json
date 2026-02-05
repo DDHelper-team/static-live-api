@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8Ogl3-CPCwk/maxresdefault_live.jpg",
-        "timestamp": 1770300000,
+        "timestamp": null,
         "title": "【No, I\u0026#39;m not a Human】Yes, I\u0026#39;m Alien【iofi / ホロライブID】",
         "video_id": "8Ogl3-CPCwk"
     },
@@ -128,29 +128,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ptAlsFl95hc/maxresdefault_live.jpg",
-        "timestamp": 1770296400,
+        "timestamp": null,
         "title": "【MyVoiceZoo】全部うちの声？！感性を研ぎ澄ませ・・【ホロライブ/大神ミオ】",
         "video_id": "ptAlsFl95hc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8DZUEWmmFKY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【＃４】　都市伝説解体センター　【白上フブキ/ホロライブ】",
-        "video_id": "8DZUEWmmFKY"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/unL7PIwN7i8/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/Ei_02o_PCZE/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【ド★初見】太陽のしっぽ　その１",
-        "video_id": "unL7PIwN7i8"
+        "title": "【同時視聴】Nintendo Direct ソフトメーカーラインナップ 2026.2.5、ころねと一緒に観よ！！！【※ミラーではありません】",
+        "video_id": "Ei_02o_PCZE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -200,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kulFKOaj4qI/maxresdefault_live.jpg",
-        "timestamp": 1770296400,
+        "timestamp": null,
         "title": "【HoloTYPE: Treasure Zombie Island】 UNZOMBIFYING HOLOMEMBERS!! ... WAIT-- 【Kureiji Ollie】",
         "video_id": "kulFKOaj4qI"
     },
@@ -227,10 +218,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LIKSfG7tf0E/maxresdefault_live.jpg",
-        "timestamp": 1770300000,
+        "timestamp": null,
         "title": "【UMIGARI｜ウミガリ】チラズアート新作！late night fishing goes wrong?! 🐾 【FUWAMOCO】",
         "video_id": "LIKSfG7tf0E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pwKJrUnt_FA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雜談 】FF46 2/7+2/8 V36攤位 行前說明",
+        "video_id": "pwKJrUnt_FA"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pwKJrUnt_FA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雜談 】FF46 2/7+2/8 V36攤位 行前說明",
+        "video_id": "pwKJrUnt_FA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GsGWVfGTjMA/maxresdefault_live.jpg",
+        "timestamp": 1770354000,
+        "title": "【ゼルダの伝説 スカイウォードソード 】たしかタライとホースを8個集めます【アルランディス/ホロスターズ】",
+        "video_id": "GsGWVfGTjMA"
     }
 ]
