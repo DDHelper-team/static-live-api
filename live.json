@@ -108,15 +108,6 @@
         "video_id": "bW-VCQfRfFI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nkHge1KFl3s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【R.E.P.O.】レベル20到達チャレンジ 自己ベスト5レベル with 烏有【岸堂天真/ホロスターズ】",
-        "video_id": "nkHge1KFl3s"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +151,32 @@
         "timestamp": null,
         "title": "VERY SHORT DINKUM",
         "video_id": "zKdflYr-AEg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ptAlsFl95hc/maxresdefault_live.jpg",
+        "timestamp": 1770296400,
+        "title": "【MyVoiceZoo】全部うちの声？！感性を研ぎ澄ませ・・【ホロライブ/大神ミオ】",
+        "video_id": "ptAlsFl95hc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8DZUEWmmFKY/maxresdefault_live.jpg",
+        "timestamp": 1770289200,
+        "title": "【＃４】　都市伝説解体センター　【白上フブキ/ホロライブ】",
+        "video_id": "8DZUEWmmFKY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/unL7PIwN7i8/maxresdefault_live.jpg",
+        "timestamp": 1770285600,
+        "title": "太陽のしっぽ　その１",
+        "video_id": "unL7PIwN7i8"
     }
 ]
