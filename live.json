@@ -126,15 +126,6 @@
         "video_id": "XfTmGxpgN0g"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ptAlsFl95hc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MyVoiceZoo】全部うちの声？！感性を研ぎ澄ませ・・【ホロライブ/大神ミオ】",
-        "video_id": "ptAlsFl95hc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -142,15 +133,6 @@
         "timestamp": null,
         "title": "【同時視聴】Nintendo Direct ソフトメーカーラインナップ 2026.2.5、ころねと一緒に観よ！！！【※ミラーではありません】",
         "video_id": "Ei_02o_PCZE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YE3AaGEnENk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【あずいろ食堂】前日仕込み垂れ流し配信🍢【風真いろは/ホロライブ】",
-        "video_id": "YE3AaGEnENk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -164,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KJUFyBx4ubU/maxresdefault_live.jpg",
-        "timestamp": 1770300000,
+        "timestamp": null,
         "title": "【PowerWash Simulator 2】本日のチル【獅子神レオナ/Re:AcT】",
         "video_id": "KJUFyBx4ubU"
     },
@@ -182,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KJUFyBx4ubU/maxresdefault_live.jpg",
-        "timestamp": 1770300000,
+        "timestamp": null,
         "title": "【PowerWash Simulator 2】本日のチル【獅子神レオナ/Re:AcT】",
         "video_id": "KJUFyBx4ubU"
     },
@@ -250,5 +232,23 @@
         "timestamp": 1770354000,
         "title": "【ゼルダの伝説 スカイウォードソード 】たしかタライとホースを8個集めます【アルランディス/ホロスターズ】",
         "video_id": "GsGWVfGTjMA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/H0DMK0MWvkc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#遊戯王マスターデュエルパーク】効果止められてパニック(´;ω;｀)【ホロライブ/夏色まつり】",
+        "video_id": "H0DMK0MWvkc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xvJDzZP3isk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【LOL】ろるかすたむ【 奏手イヅル 】",
+        "video_id": "xvJDzZP3isk"
     }
 ]
