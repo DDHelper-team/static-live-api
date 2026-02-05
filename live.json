@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6apz6Ttbfsw/maxresdefault_live.jpg",
-        "timestamp": 1770312600,
+        "timestamp": null,
         "title": "【DOOM ETERNAL】DOOMposting in style #kfp #キアライブ",
         "video_id": "6apz6Ttbfsw"
     },
@@ -79,5 +79,23 @@
         "timestamp": 1770382800,
         "title": "最近雑談してないｶﾓ😸✊",
         "video_id": "PynKLCmi16Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
+        "timestamp": 1770339600,
+        "title": "【NIOH 3】Launch day!【Dokibird】",
+        "video_id": "a6086YeDi_U"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
+        "timestamp": 1770339600,
+        "title": "【NIOH 3】Launch day!【Dokibird】",
+        "video_id": "a6086YeDi_U"
     }
 ]
