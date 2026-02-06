@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/GsGWVfGTjMA/maxresdefault_live.jpg",
-        "timestamp": 1770354000,
+        "timestamp": null,
         "title": "【ゼルダの伝説 スカイウォードソード 】たしかタライとホースを8個集めます【アルランディス/ホロスターズ】",
         "video_id": "GsGWVfGTjMA"
     },
@@ -27,24 +27,6 @@
         "video_id": "PynKLCmi16Q"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
-        "timestamp": 1770354000,
-        "title": "【NIOH 3】Launch day!【Dokibird】",
-        "video_id": "a6086YeDi_U"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
-        "timestamp": 1770354000,
-        "title": "【NIOH 3】Launch day!【Dokibird】",
-        "video_id": "a6086YeDi_U"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -52,15 +34,6 @@
         "timestamp": 1770397200,
         "title": "【MTG ARENA】revisitngmy childhood step by step!! #kfp #キアライブ",
         "video_id": "sKa-WQsYONM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cVxBFpkv87s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【マリオカートワールド】日本語がんばりますZOOMING WITH SU【Pavolia Reine/holoID 2nd gen】",
-        "video_id": "cVxBFpkv87s"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
@@ -97,15 +70,6 @@
         "timestamp": 1770426000,
         "title": "【 FF46 】2/7 V36攤位等你唷",
         "video_id": "aeBkH2qSK5U"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yVZgg6dndZk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】朝起きしもの出かけるまで配信【夕刻ロベル/ホロスターズ】",
-        "video_id": "yVZgg6dndZk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -160,5 +124,23 @@
         "timestamp": null,
         "title": "【#遊戯王マスターデュエルパーク】脳みそフル回転！【ホロライブ/夏色まつり】",
         "video_id": "Kn-rlDKfc1M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【NIOH 3】Launch day!【Dokibird】",
+        "video_id": "a6086YeDi_U"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【NIOH 3】Launch day!【Dokibird】",
+        "video_id": "a6086YeDi_U"
     }
 ]
