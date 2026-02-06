@@ -81,15 +81,6 @@
         "video_id": "mnKvmSzgGUg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cUFsy_hOQrw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#Olive】フブころでコラボキャンペーンを大紹介！！ためになること盛りだくさん！【白上フブキ/戌神ころね/ホロライブ】",
-        "video_id": "cUFsy_hOQrw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -119,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pLCVLrEm7cs/maxresdefault_live.jpg",
-        "timestamp": 1770375600,
+        "timestamp": null,
         "title": "【 ダレカレ 】 絶対に泣けると噂のゲームを遊んでみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
         "video_id": "pLCVLrEm7cs"
     },
@@ -169,5 +160,14 @@
         "timestamp": 1770382800,
         "title": "【UMIGARI | ウミガリ】 ME AND MY THALASSOPHOBIA ARE SHAKING  【Kureiji Ollie】",
         "video_id": "dljfXkXetZ4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/p6brXZCOqnU/maxresdefault_live.jpg",
+        "timestamp": 1770382800,
+        "title": "【#生スバル】劇場版 機動戦士ガンダム 同時視聴しゅばああああああああああああああああ！！！！【ホロライブ/大空スバル】",
+        "video_id": "p6brXZCOqnU"
     }
 ]
