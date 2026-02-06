@@ -74,11 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CqzhX22DC9Y/maxresdefault_live.jpg",
-        "timestamp": 1770386400,
-        "title": "【No, I\u0026#39;m not a Human】Armpit Check!【iofi / ホロライブID】",
-        "video_id": "CqzhX22DC9Y"
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mnKvmSzgGUg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Honor of Kings】Aku Anomali【IOFI / HOLOLIVE】",
+        "video_id": "mnKvmSzgGUg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -164,10 +164,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3k9MeyLQ2sw/maxresdefault_live.jpg",
-        "timestamp": 1770368400,
+        "timestamp": null,
         "title": "【HoloType: Treasure Zombie Island】RIP KEYBOARD KUN",
         "video_id": "3k9MeyLQ2sw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dljfXkXetZ4/maxresdefault_live.jpg",
+        "timestamp": 1770382800,
+        "title": "【UMIGARI | ウミガリ】 ME AND MY THALASSOPHOBIA ARE SHAKING  【Kureiji Ollie】",
+        "video_id": "dljfXkXetZ4"
     }
 ]
