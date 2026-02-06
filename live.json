@@ -27,24 +27,6 @@
         "video_id": "sKa-WQsYONM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qkooWPYsOfA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】ウォチパ❗️VCT Pacific 2026 : KICKOFF - Day 10 : DFM vs FS / T1 vs PRX【緋月ゆい/ネオポルテ】",
-        "video_id": "qkooWPYsOfA"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qkooWPYsOfA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】ウォチパ❗️VCT Pacific 2026 : KICKOFF - Day 10 : DFM vs FS / T1 vs PRX【緋月ゆい/ネオポルテ】",
-        "video_id": "qkooWPYsOfA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -74,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CqzhX22DC9Y/maxresdefault_live.jpg",
-        "timestamp": 1770386400,
+        "timestamp": null,
         "title": "【No, I\u0026#39;m not a Human】Armpit Check!【iofi / ホロライブID】",
         "video_id": "CqzhX22DC9Y"
     },
@@ -146,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qFkJckWmoOE/maxresdefault_live.jpg",
-        "timestamp": 1770386400,
+        "timestamp": null,
         "title": "【＃６.５】#ホロテラリア　ポーション材料足りてないやん？ 【ホロライブ/白上フブキ】",
         "video_id": "qFkJckWmoOE"
     },
@@ -164,10 +146,28 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rhMBVvVwpP0/maxresdefault_live.jpg",
-        "timestamp": 1770386400,
+        "timestamp": null,
         "title": "【Holo vs Robo】They added WHAT to this game... (not clickbait)【Pavolia Reine/holoID gen 2】",
         "video_id": "rhMBVvVwpP0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_9CCTz-mgZ8/maxresdefault_live.jpg",
+        "timestamp": 1770391800,
+        "title": "【KU100/ASMR】ず～っと気持ちいい…っ♡ゼロ距離密着でゾクゾク止まらない快眠フルコース♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "_9CCTz-mgZ8"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_9CCTz-mgZ8/maxresdefault_live.jpg",
+        "timestamp": 1770391800,
+        "title": "【KU100/ASMR】ず～っと気持ちいい…っ♡ゼロ距離密着でゾクゾク止まらない快眠フルコース♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "_9CCTz-mgZ8"
     }
 ]
