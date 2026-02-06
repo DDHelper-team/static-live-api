@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PynKLCmi16Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "最近雑談してないｶﾓ😸✊",
-        "video_id": "PynKLCmi16Q"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_4Ve7REPVCQ/maxresdefault_live.jpg",
+        "timestamp": 1770465600,
+        "title": "【 🔵ロックマンX6 】#ゼロ編 れっつご～～～～～！！！！🔥【 猫又おかゆ/ホロライブ 】",
+        "video_id": "_4Ve7REPVCQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -108,15 +108,6 @@
         "video_id": "k9NbaMqsFO4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dljfXkXetZ4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【UMIGARI | ウミガリ】 ME AND MY THALASSOPHOBIA ARE SHAKING  【Kureiji Ollie】",
-        "video_id": "dljfXkXetZ4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "LIVE",
@@ -124,15 +115,6 @@
         "timestamp": null,
         "title": "【#生スバル】劇場版 機動戦士ガンダム 同時視聴しゅばああああああああああああああああ！！！！【ホロライブ/大空スバル】",
         "video_id": "p6brXZCOqnU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qFkJckWmoOE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【＃６.５】#ホロテラリア　ポーション材料足りてないやん？ 【ホロライブ/白上フブキ】",
-        "video_id": "qFkJckWmoOE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -155,19 +137,37 @@
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_9CCTz-mgZ8/maxresdefault_live.jpg",
-        "timestamp": 1770391800,
+        "timestamp": null,
         "title": "【KU100/ASMR】ず～っと気持ちいい…っ♡ゼロ距離密着でゾクゾク止まらない快眠フルコース♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "_9CCTz-mgZ8"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_9CCTz-mgZ8/maxresdefault_live.jpg",
-        "timestamp": 1770391800,
+        "timestamp": null,
         "title": "【KU100/ASMR】ず～っと気持ちいい…っ♡ゼロ距離密着でゾクゾク止まらない快眠フルコース♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "_9CCTz-mgZ8"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xMOUFcNSMko/maxresdefault_live.jpg",
+        "timestamp": 1770436800,
+        "title": "【 龍が如く0 】完全初見！ヤクザ奏だおらぁ！！ #03 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
+        "video_id": "xMOUFcNSMko"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xMOUFcNSMko/maxresdefault_live.jpg",
+        "timestamp": 1770436800,
+        "title": "【 龍が如く0 】完全初見！ヤクザ奏だおらぁ！！ #03 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
+        "video_id": "xMOUFcNSMko"
     }
 ]
