@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qkooWPYsOfA/maxresdefault_live.jpg",
-        "timestamp": 1770364803,
+        "timestamp": null,
         "title": "【VALORANT】ウォチパ❗️VCT Pacific 2026 : KICKOFF - Day 10 : DFM vs FS / T1 vs PRX【緋月ゆい/ネオポルテ】",
         "video_id": "qkooWPYsOfA"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qkooWPYsOfA/maxresdefault_live.jpg",
-        "timestamp": 1770364803,
+        "timestamp": null,
         "title": "【VALORANT】ウォチパ❗️VCT Pacific 2026 : KICKOFF - Day 10 : DFM vs FS / T1 vs PRX【緋月ゆい/ネオポルテ】",
         "video_id": "qkooWPYsOfA"
     },
@@ -108,24 +108,6 @@
         "video_id": "fuQ7VpAVFr4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【NIOH 3】Launch day!【Dokibird】",
-        "video_id": "a6086YeDi_U"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/a6086YeDi_U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【NIOH 3】Launch day!【Dokibird】",
-        "video_id": "a6086YeDi_U"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +142,23 @@
         "timestamp": 1770381000,
         "title": "【#ff14  】鐮刀貓娘上線！教皇何時要被我收取靈魂？【#ゲーム個人勢 / Fingla】",
         "video_id": "yV2vmr7k6Jw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k9NbaMqsFO4/maxresdefault_live.jpg",
+        "timestamp": 1770436800,
+        "title": "【#遊戯王マスターデュエルパーク】直前詰め込み！リスナー対戦で大会に向けてデッキの回し方を学ぶ会 りおーな、コーチもいるよ✨【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "k9NbaMqsFO4"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k9NbaMqsFO4/maxresdefault_live.jpg",
+        "timestamp": 1770436800,
+        "title": "【#遊戯王マスターデュエルパーク】直前詰め込み！リスナー対戦で大会に向けてデッキの回し方を学ぶ会 りおーな、コーチもいるよ✨【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "k9NbaMqsFO4"
     }
 ]
