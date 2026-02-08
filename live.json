@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_4Ve7REPVCQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 🔵ロックマンX6 】#ゼロ編 れっつご～～～～～！！！！🔥【 猫又おかゆ/ホロライブ 】",
-        "video_id": "_4Ve7REPVCQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LjgucwTcM1w/maxresdefault_live.jpg",
+        "timestamp": 1770548400,
+        "title": "【🔴ロックマンゼロ】完全初見でゼロれっつご～～～～～！【 猫又おかゆ/ホロライブ 】",
+        "video_id": "LjgucwTcM1w"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -48,19 +48,10 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YhxuxElEiFI/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/weklOUgejBQ/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "#4【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "YhxuxElEiFI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sKa-WQsYONM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MTG ARENA】revisiting my childhood step by step!! #kfp #キアライブ",
-        "video_id": "sKa-WQsYONM"
+        "title": "#5【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "weklOUgejBQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -124,5 +115,14 @@
         "timestamp": null,
         "title": "【VALORANT】ウォチパ❗️VCT Pacific 2026 : KICKOFF - Day 11 : ZETA vs DRX / GEN vs GE【緋月ゆい/ネオポルテ】",
         "video_id": "H01OErofby4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FuGxFcUTSaw/maxresdefault_live.jpg",
+        "timestamp": 1770528600,
+        "title": "【小倉日経賞】競馬配信🔰雪でとんでもないことに！お馬さんを応援するぞ【尾丸ポルカ/ホロライブ】",
+        "video_id": "FuGxFcUTSaw"
     }
 ]
