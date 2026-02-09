@@ -72,15 +72,6 @@
         "video_id": "GElWa47HAQY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QxYOwE9nW0w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Minecraft】ハードコアエンドラ討伐ver1.16.1今度こそクリアしたい【風真いろは/ホロライブ】",
-        "video_id": "QxYOwE9nW0w"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -110,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/x6p0N3LqWXQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Yu-Gi-Oh! MASTER DUEL】My inner me told me to TRAIN #yugiohmasterduel #sponsored",
-        "video_id": "x6p0N3LqWXQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_IevwXwIHYU/maxresdefault_live.jpg",
+        "timestamp": 1770688800,
+        "title": "【FORTNITE】WHERE WE DROPPING ADVENT? #holoadvent",
+        "video_id": "_IevwXwIHYU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -133,5 +124,41 @@
         "timestamp": null,
         "title": "【ダレカレ】涙腺崩壊と話題の「少女の人生を体験するゲーム」【轟はじめ/ReGLOSS】",
         "video_id": "KOLbRT0pYSc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PiU-dW2OuFw/maxresdefault_live.jpg",
+        "timestamp": 1770642900,
+        "title": "【 -`🎙 歌枠/Singing 】本日はまったりとします【 獅子神レオナ/Re:AcT】",
+        "video_id": "PiU-dW2OuFw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c9qf8Uc0llE/maxresdefault_live.jpg",
+        "timestamp": 1770638400,
+        "title": "【ストリートファイター6】テリ修行【荒咬オウガ /ホロスターズ】",
+        "video_id": "c9qf8Uc0llE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Qgpk4YN8oRw/maxresdefault_live.jpg",
+        "timestamp": 1770696000,
+        "title": "【崩壊：スターレイル】Ver3.5　開拓クエスト『英雄は死ぬまでに』をやる男【夕刻ロベル/ホロスターズ】",
+        "video_id": "Qgpk4YN8oRw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8oKfgZCL0GU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【MyVoiceZoo】TEBAK SUARA BINATANG DI KEBUN KU!!",
+        "video_id": "8oKfgZCL0GU"
     }
 ]
