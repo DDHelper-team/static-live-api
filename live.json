@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uZViechsf00/maxresdefault_live.jpg",
-        "timestamp": 1770757200,
+        "timestamp": null,
         "title": "Final Dungeon Run \u0026amp; Post Game Content 【Final Fantasy | Crystal Chronicles Remastered】",
         "video_id": "uZViechsf00"
     },
@@ -198,12 +198,21 @@
         "video_id": "RN7NxxBKmro"
     },
     {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/dd956f46-3776-4dfd-8bc3-e4f74c5ede67-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/vedal987",
-        "platform": "twitch",
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1770756934.2803404,
-        "title": "neuro stream? it\u0026#39;s more likely than you think"
+        "thumbnail": "https://i.ytimg.com/vi/_BZVnv8IUYg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【朝活！】起きた？おはよう待ってるね♪【#TanZ 】",
+        "video_id": "_BZVnv8IUYg"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_BZVnv8IUYg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【朝活！】起きた？おはよう待ってるね♪【#TanZ 】",
+        "video_id": "_BZVnv8IUYg"
     }
 ]
