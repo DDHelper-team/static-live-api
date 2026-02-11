@@ -74,11 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zBb7Zk5v0bM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ロベルないとめあ】『リトルナイトメア3』で協力する我々【夕刻ロベル/ホロスターズ】※ネタバレあり",
-        "video_id": "zBb7Zk5v0bM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/g4jZKu9vJp0/maxresdefault_live.jpg",
+        "timestamp": 1770890400,
+        "title": "【ASMR】あさむらはいしん【夕刻ロベル/ホロスターズ】",
+        "video_id": "g4jZKu9vJp0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -171,33 +171,6 @@
         "video_id": "oUxkUkSITLY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ruo-VLDaeV0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロテラリア 】最終回？！なんかすごいボス・・倒すのかな？！【ホロライブ/大神ミオ】",
-        "video_id": "Ruo-VLDaeV0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7WDT7G0VIJU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談配信 / talk】マイクラ整地雑談！【#新人vtuber 】",
-        "video_id": "7WDT7G0VIJU"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7WDT7G0VIJU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談配信 / talk】マイクラ整地雑談！【#新人vtuber 】",
-        "video_id": "7WDT7G0VIJU"
-    },
-    {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku",
         "platform": "youtube",
         "status": "LIVE",
@@ -205,24 +178,6 @@
         "timestamp": null,
         "title": "【 Detroit: Become Human 】完全初見のデトロイト、コナーがノンデリすぎる。#2【 領国つかさ / すぺしゃりて 】",
         "video_id": "Nm2y5spaLxM"
-    },
-    {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zlzfH8KYXh8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 歌雜 】復健歌回 啟動！！！！",
-        "video_id": "zlzfH8KYXh8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zlzfH8KYXh8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 歌雜 】復健歌回 啟動！！！！",
-        "video_id": "zlzfH8KYXh8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
@@ -263,9 +218,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aKSlPyEtKY4/maxresdefault_live.jpg",
-        "timestamp": 1770823800,
+        "timestamp": null,
         "title": "【UMIGARI】GOING TO THE 4TH AREA NOW!!!",
         "video_id": "aKSlPyEtKY4"
     },
@@ -295,5 +250,14 @@
         "timestamp": 1770847200,
         "title": "【MARVEL RIVALS】Season 6.5 Early Access【Dokibird】",
         "video_id": "iEmqryxWUO8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yXRG79Dqkbk/maxresdefault_live.jpg",
+        "timestamp": 1770854400,
+        "title": "【BAYONETTA】BIBOONETTA",
+        "video_id": "yXRG79Dqkbk"
     }
 ]
