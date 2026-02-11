@@ -135,15 +135,6 @@
         "video_id": "59Fyb9ZpZRc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XFx_tC6mMVY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】お知らせアリ！？な歌枠【百鬼あやめ/ホロライブ】",
-        "video_id": "XFx_tC6mMVY"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -173,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oUxkUkSITLY/maxresdefault_live.jpg",
-        "timestamp": 1770818400,
+        "timestamp": null,
         "title": "#2 UMIGARI | ウミガリ - NO MORE FLYING FISH",
         "video_id": "oUxkUkSITLY"
     },
@@ -277,5 +268,32 @@
         "timestamp": 1770823800,
         "title": "【UMIGARI】GOING TO THE 4TH AREA NOW!!!",
         "video_id": "aKSlPyEtKY4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sC00lbXsafM/maxresdefault_live.jpg",
+        "timestamp": 1770904800,
+        "title": "【HoloType: Treasure Zombie Island】imagine typing, btw cool new working outfit bro",
+        "video_id": "sC00lbXsafM"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iEmqryxWUO8/maxresdefault_live.jpg",
+        "timestamp": 1770847200,
+        "title": "【MARVEL RIVALS】Season 6.5 Early Access【Dokibird】",
+        "video_id": "iEmqryxWUO8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iEmqryxWUO8/maxresdefault_live.jpg",
+        "timestamp": 1770847200,
+        "title": "【MARVEL RIVALS】Season 6.5 Early Access【Dokibird】",
+        "video_id": "iEmqryxWUO8"
     }
 ]
