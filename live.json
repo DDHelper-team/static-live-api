@@ -9,15 +9,6 @@
         "video_id": "LjgucwTcM1w"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uZViechsf00/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Final Dungeon Run \u0026amp; Post Game Content 【Final Fantasy | Crystal Chronicles Remastered】",
-        "video_id": "uZViechsf00"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -137,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xnW-DJ4mjzg/maxresdefault_live.jpg",
-        "timestamp": 1770775200,
+        "timestamp": null,
         "title": "【ド★初見】太陽のしっぽ　その２",
         "video_id": "xnW-DJ4mjzg"
     },
@@ -180,30 +171,12 @@
         "video_id": "59Fyb9ZpZRc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_BZVnv8IUYg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活！】起きた？おはよう待ってるね♪【#TanZ 】",
-        "video_id": "_BZVnv8IUYg"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_BZVnv8IUYg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活！】起きた？おはよう待ってるね♪【#TanZ 】",
-        "video_id": "_BZVnv8IUYg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/esXQLWz8_B0/maxresdefault_live.jpg",
-        "timestamp": 1770775200,
-        "title": "【BAYONETTA】SLAY QUEEN",
+        "timestamp": null,
+        "title": "【BAYONETTA】THE ORIGINAL SLAY QUEEN",
         "video_id": "esXQLWz8_B0"
     },
     {
@@ -214,5 +187,23 @@
         "timestamp": null,
         "title": "【TFT】 熱血 1戦目でマスター行く【 奏手イヅル 】",
         "video_id": "0FvFaMzn7mg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SKUa4tehBjI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】ちょっとだけよ～【緋月ゆい/ネオポルテ】",
+        "video_id": "SKUa4tehBjI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SKUa4tehBjI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】ちょっとだけよ～【緋月ゆい/ネオポルテ】",
+        "video_id": "SKUa4tehBjI"
     }
 ]
