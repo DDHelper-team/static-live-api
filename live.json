@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XFx_tC6mMVY/maxresdefault_live.jpg",
-        "timestamp": 1770811200,
+        "timestamp": null,
         "title": "【歌枠】お知らせアリ！？な歌枠【百鬼あやめ/ホロライブ】",
         "video_id": "XFx_tC6mMVY"
     },
@@ -214,5 +214,23 @@
         "timestamp": null,
         "title": "【 #ホロテラリア 】最終回？！なんかすごいボス・・倒すのかな？！【ホロライブ/大神ミオ】",
         "video_id": "Ruo-VLDaeV0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7WDT7G0VIJU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談配信 / talk】マイクラ整地雑談！【#新人vtuber 】",
+        "video_id": "7WDT7G0VIJU"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7WDT7G0VIJU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談配信 / talk】マイクラ整地雑談！【#新人vtuber 】",
+        "video_id": "7WDT7G0VIJU"
     }
 ]
