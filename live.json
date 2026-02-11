@@ -189,15 +189,6 @@
         "video_id": "rKMhl43RHo0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XF9WZ64L7ck/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【R.E.P.O.】レベル20到達チャレンジ ソロ 自己ベスト6レベル【岸堂天真/ホロスターズ】",
-        "video_id": "XF9WZ64L7ck"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +214,14 @@
         "timestamp": 1770818400,
         "title": "#2 UMIGARI | ウミガリ - NO MORE FLYING FISH",
         "video_id": "oUxkUkSITLY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ruo-VLDaeV0/maxresdefault_live.jpg",
+        "timestamp": 1770804000,
+        "title": "【 #ホロテラリア 】最終回？！なんかすごいボス・・倒すのかな？！【ホロライブ/大神ミオ】",
+        "video_id": "Ruo-VLDaeV0"
     }
 ]
