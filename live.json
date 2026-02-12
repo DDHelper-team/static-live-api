@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8jWjZaci06w/maxresdefault_live.jpg",
-        "timestamp": 1770932700,
+        "timestamp": null,
         "title": "【ミラー】State of Playみんなで観よう！同時視聴！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "8jWjZaci06w"
     },
@@ -306,10 +306,12 @@
         "video_id": "mU2iBzY970o"
     },
     {
-        "channel": "https://www.twitch.tv/vedal987",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_vedal987-640x360.jpg",
-        "timestamp": 1770930009.3876536
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d-ps0yVZEtk/maxresdefault_live.jpg",
+        "timestamp": 1770951600,
+        "title": "【GOD OF WAR RAGNARÖK】on team odin【Dokibird】",
+        "video_id": "d-ps0yVZEtk"
     }
 ]
