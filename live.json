@@ -83,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MI3XegtAI3M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#1【ユニコーン】『機動戦士ガンダムUC RE:0096』同時視聴！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "MI3XegtAI3M"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8jWjZaci06w/maxresdefault_live.jpg",
+        "timestamp": 1770932700,
+        "title": "【ミラー】State of Playみんなで観よう！同時視聴！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "8jWjZaci06w"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -151,33 +151,6 @@
         "timestamp": 1819609200,
         "title": "ＦｒｅｅＴａｌｋ",
         "video_id": "rKMhl43RHo0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/aM-DsZoPQ9Y/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ダレカレ】涙腺崩壊と話題の「少女の人生を体験するゲーム」【轟はじめ/ReGLOSS】",
-        "video_id": "aM-DsZoPQ9Y"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/aM-DsZoPQ9Y/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ダレカレ】涙腺崩壊と話題の「少女の人生を体験するゲーム」【轟はじめ/ReGLOSS】",
-        "video_id": "aM-DsZoPQ9Y"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yxnWDRS6wTI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Sea of Remnants】COBA MEMBAJAK LAUT DI GAME INI!!",
-        "video_id": "yxnWDRS6wTI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -340,5 +313,14 @@
         "timestamp": 1770955200,
         "title": "【マリオテニス フィーバー】流石にテニスする【夕刻ロベル/ホロスターズ】",
         "video_id": "mU2iBzY970o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Cd70R5n5fsI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【R.E.P.O.】レベル20到達チャレンジ ソロ 8レベル～【岸堂天真/ホロスターズ】",
+        "video_id": "Cd70R5n5fsI"
     }
 ]
