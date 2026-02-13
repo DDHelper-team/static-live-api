@@ -272,18 +272,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mU2iBzY970o/maxresdefault_live.jpg",
-        "timestamp": 1770955200,
+        "timestamp": null,
         "title": "【マリオテニス フィーバー】流石にテニスする【夕刻ロベル/ホロスターズ】",
         "video_id": "mU2iBzY970o"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d-ps0yVZEtk/maxresdefault_live.jpg",
-        "timestamp": 1770951600,
+        "timestamp": null,
         "title": "【GOD OF WAR RAGNARÖK】on team odin【Dokibird】",
         "video_id": "d-ps0yVZEtk"
     },
@@ -304,5 +304,41 @@
         "timestamp": 1770996600,
         "title": "【KU100/ASMR】ちゅっ♡むにゅっ♡耳キスと好き連呼で幸福度MAXバレンタイン、過ごそ？♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "R8F-HyLEWYc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/f-eBy7EYYo0/maxresdefault_live.jpg",
+        "timestamp": 1771034400,
+        "title": "Running from Monsters with Zeta! 【REANIMAL】",
+        "video_id": "f-eBy7EYYo0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/asIfj_KVQc4/maxresdefault_live.jpg",
+        "timestamp": 1770984000,
+        "title": "【Arknights Endfield】FIRST TIME PLAY!【iofi / ホロライブID】",
+        "video_id": "asIfj_KVQc4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/88NaHD5SzO4/maxresdefault_live.jpg",
+        "timestamp": 1770984000,
+        "title": "【#鳴潮  】3.1版本！愛彌斯劇情上線！【#ゲーム個人勢 / Fingla】",
+        "video_id": "88NaHD5SzO4"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/88NaHD5SzO4/maxresdefault_live.jpg",
+        "timestamp": 1770984000,
+        "title": "【#鳴潮  】3.1版本！愛彌斯劇情上線！【#ゲーム個人勢 / Fingla】",
+        "video_id": "88NaHD5SzO4"
     }
 ]
