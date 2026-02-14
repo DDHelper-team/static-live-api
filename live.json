@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_1PGuuEP7ps/maxresdefault_live.jpg",
-        "timestamp": 1771066800,
+        "timestamp": null,
         "title": "【重大告知あり】新３Dお披露目?！癒月ちょこ生誕祭2026🎂 【ホロライブ/癒月ちょこ】",
         "video_id": "_1PGuuEP7ps"
     },
@@ -317,11 +317,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VsdkW9SerW0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【クリア後】スーパーマリオギャラクシー、スター☆全部集めたい！！",
-        "video_id": "VsdkW9SerW0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bVaqryDybUM/maxresdefault_live.jpg",
+        "timestamp": 1771074000,
+        "title": "【Memberships only】ハッピーバレンタイン♡寝る前のASMR（鼻声Ver.）",
+        "video_id": "bVaqryDybUM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -403,5 +403,14 @@
         "timestamp": 1771074000,
         "title": "【メン限】「超かぐや姫！」同時視聴！Netflix映画【轟はじめ/ReGLOS】",
         "video_id": "ERqqwb0JW18"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a0U94SB7A7w/maxresdefault_live.jpg",
+        "timestamp": 1771124400,
+        "title": "#7【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "a0U94SB7A7w"
     }
 ]
