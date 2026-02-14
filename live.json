@@ -324,15 +324,6 @@
         "video_id": "FA71qxJGCdE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/f-eBy7EYYo0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Running from Monsters with @VestiaZeta  【REANIMAL】",
-        "video_id": "f-eBy7EYYo0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -376,5 +367,14 @@
         "timestamp": 1771056000,
         "title": "【マリオカートワールド】１位を取りたい！！！取れなかったらどーすんの？！【ホロライブ/大神ミオ】",
         "video_id": "45wDiHCMz5M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/La6_OxdOwDs/maxresdefault_live.jpg",
+        "timestamp": 1771120800,
+        "title": "Nibbling Sheep Monsters with @VestiaZeta  【REANIMAL】",
+        "video_id": "La6_OxdOwDs"
     }
 ]
