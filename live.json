@@ -261,15 +261,6 @@
         "video_id": "GZHhb_zHVno"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/f-eBy7EYYo0/maxresdefault_live.jpg",
-        "timestamp": 1771034400,
-        "title": "Running from Monsters with Zeta! 【REANIMAL】",
-        "video_id": "f-eBy7EYYo0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -319,7 +310,7 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PdsDnkkXDBE/maxresdefault_live.jpg",
-        "timestamp": 1771038000,
+        "timestamp": 1771041600,
         "title": "#6【FF9】完全初見でファイナルファンタジーⅨを始める！ FINAL FANTASY Ⅸ ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "PdsDnkkXDBE"
     },
@@ -331,5 +322,50 @@
         "timestamp": 1771072200,
         "title": "【NEW ACCESSORIES】Happy Valentine\u0026#39;s Day... ?",
         "video_id": "FA71qxJGCdE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/f-eBy7EYYo0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "Running from Monsters with @VestiaZeta  【REANIMAL】",
+        "video_id": "f-eBy7EYYo0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VsdkW9SerW0/maxresdefault_live.jpg",
+        "timestamp": 1771045200,
+        "title": "【クリア後】スーパーマリオギャラクシー、スター☆全部集めたい！！",
+        "video_id": "VsdkW9SerW0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MORrdiEcydM/maxresdefault_live.jpg",
+        "timestamp": 1771045236,
+        "title": "【歌枠】ハッピーバレンタインらしいよ🍫【緋月ゆい/ネオポルテ】",
+        "video_id": "MORrdiEcydM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MORrdiEcydM/maxresdefault_live.jpg",
+        "timestamp": 1771045236,
+        "title": "【歌枠】ハッピーバレンタインらしいよ🍫【緋月ゆい/ネオポルテ】",
+        "video_id": "MORrdiEcydM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BFIicKJeS6o/maxresdefault_live.jpg",
+        "timestamp": 1771043400,
+        "title": "(KEYBOARD ASMR) Silent Stream. I will be writing Valentines random holoID fanfic (WORK STREAM)",
+        "video_id": "BFIicKJeS6o"
     }
 ]
