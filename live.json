@@ -281,11 +281,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/La6_OxdOwDs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Nibbling Sheep Monsters with @VestiaZeta  【REANIMAL】",
-        "video_id": "La6_OxdOwDs"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_rlVm7PKB68/maxresdefault_live.jpg",
+        "timestamp": 1771203600,
+        "title": "Mini-Party with the Gals 🎉 ORIGINAL SONG INCOMING 【VRChat 】",
+        "video_id": "_rlVm7PKB68"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -317,9 +317,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MgtPcl3Rw58/maxresdefault_live.jpg",
-        "timestamp": 1771128000,
+        "timestamp": null,
         "title": "【クリア後】スーパーマリオギャラクシー、スター☆全部集めたい！！パート２",
         "video_id": "MgtPcl3Rw58"
     },
@@ -340,5 +340,23 @@
         "timestamp": 1771138801,
         "title": "【VALORANT】ウォチパ❗️VCT Pacific 2026 : KICKOFF - Day 16 : PRX vs RRQ【緋月ゆい/ネオポルテ】",
         "video_id": "RYlBTrcyOY0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pYaG_ONYDQw/maxresdefault_live.jpg",
+        "timestamp": 1771153200,
+        "title": "【Bits \u0026amp; Bops】リズムゲームでぶんぶんぶーんっ！【轟はじめ/ReGLOSS】",
+        "video_id": "pYaG_ONYDQw"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pYaG_ONYDQw/maxresdefault_live.jpg",
+        "timestamp": 1771153200,
+        "title": "【Bits \u0026amp; Bops】リズムゲームでぶんぶんぶーんっ！【轟はじめ/ReGLOSS】",
+        "video_id": "pYaG_ONYDQw"
     }
 ]
