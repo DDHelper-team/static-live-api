@@ -326,9 +326,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OgbmQAImKBA/maxresdefault_live.jpg",
-        "timestamp": 1771300800,
+        "timestamp": null,
         "title": "【崩壊：スターレイル】Ver3.6　開拓クエスト『長き夜に再び大地へ』をやる男【夕刻ロベル/ホロスターズ】",
         "video_id": "OgbmQAImKBA"
     },
@@ -376,5 +376,14 @@
         "timestamp": 1771362000,
         "title": "Animal Sandwich Making Handcam 【CHARITY EVENT】",
         "video_id": "h3-50N7Q-rE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Vo8T10A1o6M/maxresdefault_live.jpg",
+        "timestamp": 1771318800,
+        "title": "【Honor of Kings】2026 NEW YEAR SKIN REVIEW【IOFI / HOLOLIVE】",
+        "video_id": "Vo8T10A1o6M"
     }
 ]
