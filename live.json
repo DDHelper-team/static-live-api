@@ -153,15 +153,6 @@
         "video_id": "FtFc2qnJbGE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XIofIkWVR6o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "＃１【BIOHAZARD RE:2】初見で挑むバイオハザードRE:2【轟はじめ/ReGLOSS】",
-        "video_id": "XIofIkWVR6o"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
         "status": "LIVE",
@@ -200,20 +191,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QiOu2ITxsMc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【UMIGARI | ウミガリ】海洋恐怖症の方、見るの気をつけて～～！！【緋月ゆい/ネオポルテ】",
-        "video_id": "QiOu2ITxsMc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Dk08Fu0kyjQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 龍が如く0 】完全初見！ヤクザ奏だおらぁ！！ #07 【音乃瀬奏】#hololiveDEV_IS #ReGLOSS　※ネタバレあり",
-        "video_id": "Dk08Fu0kyjQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gC8RE7_HDGI/maxresdefault_live.jpg",
+        "timestamp": 1771909242,
+        "title": "【PowerWash Simulator 2】ﾁﾙﾁﾙ~w/ロベルさん、たそまる【緋月ゆい/ネオポルテ】",
+        "video_id": "gC8RE7_HDGI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -250,5 +232,41 @@
         "timestamp": 1771849800,
         "title": "【#補色メロディ歌枠リレー】たくさん盛り上がろうね✨ w/ MaiR 🧡💙【 獅子神レオナ/Re:AcT】",
         "video_id": "2ucWzJjzU-M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/w4j60RrAJ00/maxresdefault_live.jpg",
+        "timestamp": 1771927200,
+        "title": "【nosh】食レポのお時間です！らでん的ランキング発表も！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "w4j60RrAJ00"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yNAYmjmC9ZY/maxresdefault_live.jpg",
+        "timestamp": 1771934400,
+        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】sweet songs to soothe the soul 💕 #FWMCbeats 【ラブソング縛り歌枠】",
+        "video_id": "yNAYmjmC9ZY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4Xg8SmvBq6w/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】おはよ！最近踊りました💃【緋月ゆい/ネオポルテ】",
+        "video_id": "4Xg8SmvBq6w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yLw0l0lL1yU/maxresdefault_live.jpg",
+        "timestamp": 1771932600,
+        "title": "雜談｜大家收心了嗎?過年忙碌後終於有空可以看大家的年夜飯✨感受大家的團員美好【Healing希靈/VTuber】",
+        "video_id": "yLw0l0lL1yU"
     }
 ]
