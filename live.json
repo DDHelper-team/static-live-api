@@ -263,29 +263,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zwKnL70I5eQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#生スバル】ホロメンのサムネ作ります！コスパ最強！質より量！！視認性◎！サムネイル屋大空開店！：making thumbnail【ホロライブ/大空スバル】",
-        "video_id": "zwKnL70I5eQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yLw0l0lL1yU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "雜談｜大家收心了嗎?過年忙碌後終於有空可以看大家的年夜飯✨感受大家的團圓美好【Healing希靈/VTuber】",
-        "video_id": "yLw0l0lL1yU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZW_YwJXzOOI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PowerWash Simulator 2】チル部で本日も掃除する【夕刻ロベル/ホロスターズ】",
-        "video_id": "ZW_YwJXzOOI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7QN6AdAlNRk/maxresdefault_live.jpg",
+        "timestamp": 1772020800,
+        "title": "【】【ホロライブ/大空スバル】",
+        "video_id": "7QN6AdAlNRk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -297,24 +279,6 @@
         "video_id": "Jg86Hocx8F8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wBzu8A5KTqw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / karaoke】 うたがへた  / アステル",
-        "video_id": "wBzu8A5KTqw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ywlu0OyRo2E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#DistrictV】 Part 3: DEAR MERCIFUL HEAVENS, PLEASE BLESS OUR CHARIOTS 【Kureiji Ollie】",
-        "video_id": "Ywlu0OyRo2E"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
         "status": "LIVE",
@@ -324,24 +288,6 @@
         "video_id": "w4j60RrAJ00"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vVBHXwAJJ4A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【イタズラコメディゲーム】笑ぇるせぇるすまん",
-        "video_id": "vVBHXwAJJ4A"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZRpWibMn2Ug/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ウマ娘】5周年だ！ガチャひいて新シナリオやってアーモンドアイちゃん育成！！【尾丸ポルカ/ホロライブ】",
-        "video_id": "ZRpWibMn2Ug"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "LIVE",
@@ -349,5 +295,14 @@
         "timestamp": null,
         "title": "【その２】チルラジオ配信 #狐族密会　「 ホロプラスからお誘いがきた件」【ホロライブ/白上フブキ/尾丸ポルカ】",
         "video_id": "rI0qxHEWLBE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O9DqNeqqSTU/maxresdefault_live.jpg",
+        "timestamp": 1772013600,
+        "title": "【三ツ星ファーム】三ツ星ファーム利用者が布教する！ガチ試食会！！！【ホロライブ/大神ミオ】",
+        "video_id": "O9DqNeqqSTU"
     }
 ]
