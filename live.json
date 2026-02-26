@@ -171,15 +171,6 @@
         "video_id": "FZ4T_a47gO8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/e03KaDe8va4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】もう20敗しない―救世主くろむん現る―【緋月ゆい/ネオポルテ】",
-        "video_id": "e03KaDe8va4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -236,11 +227,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rI0qxHEWLBE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【その２】チルラジオ配信 #狐族密会　「 ホロプラスからお誘いがきた件」【ホロライブ/白上フブキ/尾丸ポルカ】",
-        "video_id": "rI0qxHEWLBE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/quLWGd9atoA/maxresdefault_live.jpg",
+        "timestamp": 1772107200,
+        "title": "【Pode】協力パズルゲームで駆け抜ける ＃こんこめっと【ホロライブ/白上フブキ/星街すいせい】",
+        "video_id": "quLWGd9atoA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -270,12 +261,48 @@
         "video_id": "8pK0ZCSGRso"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3bhOpw5pXA4/maxresdefault_live.jpg",
+        "timestamp": 1772100000,
+        "title": "【nosh】タンパク質祭りはじまるよ～！鶏肉を多めにお腹いっぱい！【尾丸ポルカ/ホロライブ】",
+        "video_id": "3bhOpw5pXA4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Qtg9jnT10P8/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/Lr0me0quTjY/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【マリオテニス フィーバー】流石に昼はテニス【夕刻ロベル/ホロスターズ】",
-        "video_id": "Qtg9jnT10P8"
+        "title": "【 9万人耐久 】目指せ9万人！GODを出すまで終われない！？🔥【 領国つかさ / すぺしゃりて 】",
+        "video_id": "Lr0me0quTjY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XczTypHGEo0/maxresdefault_live.jpg",
+        "timestamp": 1772114400,
+        "title": "【 歌雜 】連假3天啟動！！！",
+        "video_id": "XczTypHGEo0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RA-yLX9osCk/maxresdefault_live.jpg",
+        "timestamp": 1772190000,
+        "title": "＃３【BIOHAZARD RE:2】初見で挑むバイオハザードRE:2【轟はじめ/ReGLOSS】",
+        "video_id": "RA-yLX9osCk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_CYCmMPbcmQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【UMIGARI | ウミガリ】待望の釣り癒しゲーム。疲れた日は釣りでまったり日常を過ごしませんか？ / アステル",
+        "video_id": "_CYCmMPbcmQ"
     }
 ]
