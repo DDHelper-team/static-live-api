@@ -270,24 +270,6 @@
         "video_id": "3bhOpw5pXA4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Lr0me0quTjY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 9万人耐久 】目指せ9万人！GODを出すまで終われない！？🔥【 領国つかさ / すぺしゃりて 】",
-        "video_id": "Lr0me0quTjY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XczTypHGEo0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 歌雜 】連假3天啟動！！！",
-        "video_id": "XczTypHGEo0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -304,5 +286,14 @@
         "timestamp": null,
         "title": "【UMIGARI | ウミガリ】待望の釣り癒しゲーム。疲れた日は釣りでまったり日常を過ごしませんか？ / アステル",
         "video_id": "_CYCmMPbcmQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fNKX0KLL_v8/maxresdefault_live.jpg",
+        "timestamp": 1772200800,
+        "title": "【REANIMAL】running with my bestfriend !! from what ?",
+        "video_id": "fNKX0KLL_v8"
     }
 ]
