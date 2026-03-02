@@ -299,11 +299,11 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WQVk9wcy16o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！もう3月!?!?【緋月ゆい/ネオポルテ】",
-        "video_id": "WQVk9wcy16o"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/D5egiGIiQSc/maxresdefault_live.jpg",
+        "timestamp": 1772456454,
+        "title": "【空の軌跡 the 1st】#2 | 完全初見！憧れの遊撃士になりました！※ネタバレ注意【緋月ゆい/ネオポルテ】",
+        "video_id": "D5egiGIiQSc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -349,5 +349,41 @@
         "timestamp": 1772456400,
         "title": "《惡靈古堡9：安魂曲》Resident Evil 9: Requiem #1",
         "video_id": "uqREkDk9OeA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1FLrZbugNWc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【VALORANT】ふるぴゃ / アステル じょんそん そらる クト たしあ",
+        "video_id": "1FLrZbugNWc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/D5egiGIiQSc/maxresdefault_live.jpg",
+        "timestamp": 1772456454,
+        "title": "【空の軌跡 the 1st】#2 | 完全初見！憧れの遊撃士になりました！※ネタバレ注意【緋月ゆい/ネオポルテ】",
+        "video_id": "D5egiGIiQSc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2Y82TcmFKjA/maxresdefault_live.jpg",
+        "timestamp": 1772460000,
+        "title": "【Crime Simulator】KOPIKANON breaks into some houses and its a secret. dont tell anyone",
+        "video_id": "2Y82TcmFKjA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ppc6u9zsC0w/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】起きたのでとりあえず雑談【夕刻ロベル/ホロスターズ】",
+        "video_id": "Ppc6u9zsC0w"
     }
 ]
