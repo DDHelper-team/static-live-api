@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dRCn--zUQSk/maxresdefault_live.jpg",
-        "timestamp": 1772665200,
+        "timestamp": null,
         "title": "【#hololivefesEXPO2026 PRE-EXPO CHATTING】time to BAU BAU it up at makuhari messe 🐾 【FUWAMOCO】",
         "video_id": "dRCn--zUQSk"
     },
@@ -90,15 +90,6 @@
         "video_id": "Pk6VfsvFc1U"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mCRV2iyifXE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【OHAPOL】#195 3/5木曜日！Fes\u0026amp;EXPO目前朝活！！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
-        "video_id": "mCRV2iyifXE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +97,14 @@
         "timestamp": 1772749800,
         "title": "【#朝ミオ 】配信予定日を移動します！EXPO１日目の朝に会おう～！",
         "video_id": "eGgSlwZrFvU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oi2JZeAD1Jk/maxresdefault_live.jpg",
+        "timestamp": 1772668800,
+        "title": "【CHAT】Pre-FES Chatting!!!!!",
+        "video_id": "oi2JZeAD1Jk"
     }
 ]
