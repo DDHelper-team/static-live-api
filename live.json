@@ -27,15 +27,6 @@
         "video_id": "RYnkxhZ2m1o"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2Y82TcmFKjA/maxresdefault_live.jpg",
-        "timestamp": 1772632800,
-        "title": "【Crime Simulator】KOPIKANON breaks into some houses and its a secret. dont tell anyone",
-        "video_id": "2Y82TcmFKjA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -189,24 +180,6 @@
         "video_id": "Zu4PSfCToQw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fO2ejfMaS4Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 縦型歌枠 】REC帰りののんびり歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "fO2ejfMaS4Q"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fO2ejfMaS4Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 縦型歌枠 】REC帰りののんびり歌枠【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "fO2ejfMaS4Q"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -241,5 +214,14 @@
         "timestamp": null,
         "title": "【歌枠/Singing】ふんふん花粉花粉花粉🌸【 獅子神レオナ/Re:AcT】",
         "video_id": "6FBkhbhHGsA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2Y82TcmFKjA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Crime Simulator】KOPIKANON breaks into some houses and its a secret. dont tell anyone",
+        "video_id": "2Y82TcmFKjA"
     }
 ]
