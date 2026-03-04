@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dr3HSpeHSEo/hqdefault_live.jpg",
-        "timestamp": 1772593200,
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dr3HSpeHSEo/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【 🟢ポケモン/エメラルド 】人生縛りでエメラルドｵｵｵｵｵッ🔥✦ #09【 猫又おかゆ/ホロライブ 】",
         "video_id": "dr3HSpeHSEo"
     },
@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7rlxCYXOl3Y/hqdefault_live.jpg",
-        "timestamp": 1772593200,
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7rlxCYXOl3Y/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【縦型歌枠】Fes前最終調整だﾂ！！用法用量守って歌います🎤【風真いろは/ホロライブ】#shorts #歌枠",
         "video_id": "7rlxCYXOl3Y"
     },
@@ -138,19 +138,10 @@
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fIr5VckV_iM/hqdefault_live.jpg",
-        "timestamp": 1772600400,
+        "thumbnail": "https://i.ytimg.com/vi/fIr5VckV_iM/maxresdefault_live.jpg",
+        "timestamp": 1772629200,
         "title": "【魔王城ものがたり】魔王を超え神になる男【 奏手イヅル 】",
         "video_id": "fIr5VckV_iM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/INFI9FahPY0/hqdefault_live.jpg",
-        "timestamp": 1766559600,
-        "title": "🏮みんなの交流場🏮",
-        "video_id": "INFI9FahPY0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -201,8 +192,8 @@
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CbcIsA41Y80/hqdefault_live.jpg",
-        "timestamp": 1772620159.1339858,
+        "thumbnail": "https://i.ytimg.com/vi/CbcIsA41Y80/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【ストリートファイター6】まさか俺が獅白杯4th予選トナメ出場者にコーチングとはな【アルランディス/ホロスターズ】",
         "video_id": "CbcIsA41Y80"
     },
@@ -250,5 +241,14 @@
         "timestamp": 1774861200,
         "title": "【STREAM SCHEDULE/スケジュール】02.16-02.22",
         "video_id": "JAUSrqX0hW8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z-92jCgBZEs/maxresdefault_live.jpg",
+        "timestamp": 1772629200,
+        "title": "R.E.P.O?【22時？】",
+        "video_id": "Z-92jCgBZEs"
     }
 ]
