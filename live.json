@@ -27,15 +27,6 @@
         "video_id": "ZNJNlCku_yk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZSXs-Pz1ypQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ぽこ あ ポケモン】さちうすピカチュウが気になる＃2【荒咬オウガ /ホロスターズ】",
-        "video_id": "ZSXs-Pz1ypQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -72,24 +63,6 @@
         "video_id": "XX3toTL6ihs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nW_Z5BRPQyE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive 7th fes. Ridin\u0026#39; on Dreams】前日だ～！！！みんな楽しんでいこう！！【雪花ラミィ /ホロライブ】",
-        "video_id": "nW_Z5BRPQyE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OTBaukcblO0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / karaoke】なんか今日を逃すとえきすぽ終わるまで配信ができないらしい！ / アステル",
-        "video_id": "OTBaukcblO0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +70,14 @@
         "timestamp": 1772748000,
         "title": "【FREE TALK】TODAY IS THE DAY!!! WOULD YOU SEE KOBO ON THE STAGE? 🥺",
         "video_id": "E7q6VHt566E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d3sdD8uNCsY/maxresdefault_live.jpg",
+        "timestamp": 1772809200,
+        "title": "【#hololivefesEXPO26】STAGE 1 free talk!",
+        "video_id": "d3sdD8uNCsY"
     }
 ]
