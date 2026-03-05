@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TwkJB3eOFjk/maxresdefault_live.jpg",
-        "timestamp": 1772708400,
+        "timestamp": null,
         "title": "#最終回【ユニコーン】『機動戦士ガンダムUC RE:0096』同時視聴！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "TwkJB3eOFjk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zZKFCdcWFVU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ポケットモンスター ファイアレッド】人生縛りってのをやったことないからやってみようぜ　1日目【夕刻ロベル/ホロスターズ】",
-        "video_id": "zZKFCdcWFVU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
@@ -83,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/l_F0s7zUaj0/maxresdefault_live.jpg",
-        "timestamp": 1772710200,
+        "timestamp": null,
         "title": "【ライブ本編】HACHI Live Tour 2025 “Unlockture” at Legacy TERA【冒頭無料パート】#HACHI_Unlockture_2025",
         "video_id": "l_F0s7zUaj0"
     },
@@ -153,15 +144,6 @@
         "video_id": "_e0g6j89-mY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/INFI9FahPY0/maxresdefault_live.jpg",
-        "timestamp": 1766588400,
-        "title": "🏮みんなの交流場🏮",
-        "video_id": "INFI9FahPY0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +205,41 @@
         "timestamp": 1788937200,
         "title": "🎹✨Free Chat✨🎹",
         "video_id": "GZHhb_zHVno"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZSXs-Pz1ypQ/maxresdefault_live.jpg",
+        "timestamp": 1772712000,
+        "title": "【ぽこ あ ポケモン】さちうすピカチュウが気になる＃2【荒咬オウガ /ホロスターズ】",
+        "video_id": "ZSXs-Pz1ypQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v-oqRteNqNk/maxresdefault_live.jpg",
+        "timestamp": 1772715600,
+        "title": "【スト6】顔合わせする【夕刻ロベル/ホロスターズ】",
+        "video_id": "v-oqRteNqNk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vbiK6cs0-9k/maxresdefault_live.jpg",
+        "timestamp": 1772758800,
+        "title": "【POKEMON POKOPIA】I bought a switch 2 for this【Dokibird】",
+        "video_id": "vbiK6cs0-9k"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vbiK6cs0-9k/maxresdefault_live.jpg",
+        "timestamp": 1772758800,
+        "title": "【POKEMON POKOPIA】I bought a switch 2 for this【Dokibird】",
+        "video_id": "vbiK6cs0-9k"
     }
 ]
