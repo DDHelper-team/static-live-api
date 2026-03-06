@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1d85hWzmO1w/maxresdefault_live.jpg",
-        "timestamp": 1772798400,
-        "title": "【】直前！スバ友決起集会～！：Let\u0026#39;s take a look at everyone\u0026#39;s equipment!【ホロライブ/大空スバル】",
+        "timestamp": null,
+        "title": "【#生スバル】直前！スバ友決起集会～！：Let\u0026#39;s take a look at everyone\u0026#39;s equipment!【ホロライブ/大空スバル】",
         "video_id": "1d85hWzmO1w"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XX3toTL6ihs/maxresdefault_live.jpg",
-        "timestamp": 1772800200,
+        "timestamp": null,
         "title": "【PRE STAGE 2】KARAOKE with maybe supportive jumpscares #kfp #キアライブ  (archived)",
         "video_id": "XX3toTL6ihs"
     },
@@ -56,29 +56,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BQv2TCIqFRM/maxresdefault_live.jpg",
-        "timestamp": 1772798400,
+        "timestamp": null,
         "title": "【#重返未来1999  】(下)3.3主線劇情今日改版！那個老爸回來了呀~~~【#ゲーム個人勢 / Fingla】",
         "video_id": "BQv2TCIqFRM"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BQv2TCIqFRM/maxresdefault_live.jpg",
-        "timestamp": 1772798400,
+        "timestamp": null,
         "title": "【#重返未来1999  】(下)3.3主線劇情今日改版！那個老爸回來了呀~~~【#ゲーム個人勢 / Fingla】",
         "video_id": "BQv2TCIqFRM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ddvAClziUAo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive 7th fes. Ridin\u0026#39; on Dreams】 hololive STAGE1 同時視聴 【荒咬オウガ /ホロスターズ】",
-        "video_id": "ddvAClziUAo"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
@@ -106,5 +97,23 @@
         "timestamp": 1772881200,
         "title": "【Expoオフコラボ】リアル凸待ち？時間空いてる人で雑談会！【ホロライブ】",
         "video_id": "H5K3J6eQTDI"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YxhV41FheK4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ダレカレ 】泣けると話題のゲーム、やります。【 領国つかさ / すぺしゃりて 】",
+        "video_id": "YxhV41FheK4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YxhV41FheK4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ダレカレ 】泣けると話題のゲーム、やります。【 領国つかさ / すぺしゃりて 】",
+        "video_id": "YxhV41FheK4"
     }
 ]
