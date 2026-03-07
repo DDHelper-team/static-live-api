@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/N2rfo-gFxBY/maxresdefault_live.jpg",
-        "timestamp": 1772875200,
+        "timestamp": null,
         "title": "【hololive 7th fes. Ridin\u0026#39; on Dreams】 hololive STAGE3 同時視聴 【荒咬オウガ /ホロスターズ】",
         "video_id": "N2rfo-gFxBY"
     },
@@ -79,5 +79,14 @@
         "timestamp": 1772888442,
         "title": "【空の軌跡 the 1st】#5 | 完全初見！空飛ぶ大きな影とは―※ネタバレ注意【緋月ゆい/ネオポルテ】",
         "video_id": "4w0j0_e2Oew"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UH75-fscwmQ/maxresdefault_live.jpg",
+        "timestamp": 1772962200,
+        "title": "【ぽこ あ ポケモン】ヤドン見つけるとストーリー進みそうだったから裏でひたすら土殴ってた【アルランディス/ホロスターズ】",
+        "video_id": "UH75-fscwmQ"
     }
 ]
