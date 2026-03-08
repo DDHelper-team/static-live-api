@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NSleK0_ETQA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "FesEXPOありがとう✨風真いろはさんの振り返り会場🎈#hololivefesEXPO26【風真いろは/ホロライブ】",
-        "video_id": "NSleK0_ETQA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aKGG7VUjD5I/maxresdefault_live.jpg",
+        "timestamp": 1772983800,
+        "title": "風真いろはの #ねるまえらじお 📻❣ #12",
+        "video_id": "aKGG7VUjD5I"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -144,24 +144,6 @@
         "video_id": "MF0mx-E8rFg"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oaSsPn_7Q9s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 夜勤清掃 】夜勤で僕以外の気配を感じます。助けてください。【 領国つかさ / すぺしゃりて 】",
-        "video_id": "oaSsPn_7Q9s"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oaSsPn_7Q9s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 夜勤清掃 】夜勤で僕以外の気配を感じます。助けてください。【 領国つかさ / すぺしゃりて 】",
-        "video_id": "oaSsPn_7Q9s"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "LIVE",
@@ -200,18 +182,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ykHU6R0E_q0/maxresdefault_live.jpg",
-        "timestamp": 1772978400,
+        "timestamp": null,
         "title": "【KU100/囁き縛り】寝落ち推奨♡まったり気持ちいいサウンドと繊細なグラフィックに癒される密着囁き縛りchill実況♡ 【Town to City】Whispering,RelaxSleeping",
         "video_id": "ykHU6R0E_q0"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ykHU6R0E_q0/maxresdefault_live.jpg",
-        "timestamp": 1772978400,
+        "timestamp": null,
         "title": "【KU100/囁き縛り】寝落ち推奨♡まったり気持ちいいサウンドと繊細なグラフィックに癒される密着囁き縛りchill実況♡ 【Town to City】Whispering,RelaxSleeping",
         "video_id": "ykHU6R0E_q0"
     },
@@ -223,5 +205,23 @@
         "timestamp": 1773025200,
         "title": "【Let\u0026#39;s try Matcha!】Tasting a lot of matcha w/ ID girls! 【Handcam】",
         "video_id": "fmzgyxsCYs0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/R5BNDC0omgc/maxresdefault_live.jpg",
+        "timestamp": 1773064800,
+        "title": "【応援会場】#hololiveEXPOfes2026_DAY3【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "R5BNDC0omgc"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/R5BNDC0omgc/maxresdefault_live.jpg",
+        "timestamp": 1773064800,
+        "title": "【応援会場】#hololiveEXPOfes2026_DAY3【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "R5BNDC0omgc"
     }
 ]
