@@ -27,15 +27,6 @@
         "video_id": "apwfffh40Yw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/KOiu7maGjkw/maxresdefault_live.jpg",
-        "timestamp": 1772981100,
-        "title": "【Freechat】ちょこめいと特別応援席「hololive SUPER EXPO 2026」＆「hololive 7th fes.」【ホロライブ/癒月ちょこ】",
-        "video_id": "KOiu7maGjkw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +205,14 @@
         "timestamp": 1773064800,
         "title": "【応援会場】#hololiveEXPOfes2026_DAY3【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "R5BNDC0omgc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Grtnnh46AtI/maxresdefault_live.jpg",
+        "timestamp": 1773068400,
+        "title": "【FUWAMOCO MORNING】episode 179 🐾 #FWMCMORNING",
+        "video_id": "Grtnnh46AtI"
     }
 ]
