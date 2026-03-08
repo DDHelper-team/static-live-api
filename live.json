@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aKGG7VUjD5I/maxresdefault_live.jpg",
-        "timestamp": 1772983800,
+        "timestamp": null,
         "title": "風真いろはの #ねるまえらじお 📻❣ #12",
         "video_id": "aKGG7VUjD5I"
     },
@@ -79,15 +79,6 @@
         "timestamp": null,
         "title": "【雑談】Fesお疲れ様でした！振り返り＆感想会【百鬼あやめ/ホロライブ】",
         "video_id": "n4yLsTkrNg0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-LAYdS1j-oA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive 7th fes. Ridin\u0026#39; on Dreams】お疲れ様晩酌！！【雪花ラミィ /ホロライブ】",
-        "video_id": "-LAYdS1j-oA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -214,5 +205,14 @@
         "timestamp": 1773068400,
         "title": "【FUWAMOCO MORNING】episode 179 🐾 #FWMCMORNING",
         "video_id": "Grtnnh46AtI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jE-Q0wZlfAA/maxresdefault_live.jpg",
+        "timestamp": 1773018000,
+        "title": "【WATCHALONG】LOTR WATCHALONG OFF COLLAB ✨ 1st movie, not extended!",
+        "video_id": "jE-Q0wZlfAA"
     }
 ]
