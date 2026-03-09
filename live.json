@@ -83,10 +83,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jE-Q0wZlfAA/maxresdefault_live.jpg",
-        "timestamp": 1773018000,
-        "title": "【WATCHALONG】LOTR WATCHALONG OFF COLLAB ✨ 1st movie, not extended!",
+        "timestamp": null,
+        "title": "【WATCHALONG】LOTR WATCHALONG OFF COLLAB ✨ 1st movie, not extended! *Fellowship of the Ring",
         "video_id": "jE-Q0wZlfAA"
     },
     {
@@ -117,21 +117,30 @@
         "video_id": "98zUa8tHu9o"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8tOusfwJzKc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！昼夜逆転中！【緋月ゆい/ネオポルテ】",
-        "video_id": "8tOusfwJzKc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E-W9JPa80DM/maxresdefault_live.jpg",
+        "timestamp": 1773100800,
+        "title": "【fes/EXPO26】INA CHEERING ROOM!!!!!",
+        "video_id": "E-W9JPa80DM"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8tOusfwJzKc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！昼夜逆転中！【緋月ゆい/ネオポルテ】",
-        "video_id": "8tOusfwJzKc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sfRHavmF-D4/maxresdefault_live.jpg",
+        "timestamp": 1773064800,
+        "title": "【#hololivefesEXPO2026】 OTSU TALK 🤜🫷",
+        "video_id": "sfRHavmF-D4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5yofVkOxMT4/maxresdefault_live.jpg",
+        "timestamp": 1773046800,
+        "title": "【#hololivefesEXPO2026 POST TALK】FES AND EXPO OTSUKAREEE !!!",
+        "video_id": "5yofVkOxMT4"
     }
 ]
