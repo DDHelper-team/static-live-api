@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5yofVkOxMT4/maxresdefault_live.jpg",
-        "timestamp": 1773046800,
+        "timestamp": null,
         "title": "【#hololivefesEXPO2026 POST TALK】FES AND EXPO OTSUKAREEE !!!",
         "video_id": "5yofVkOxMT4"
     },
@@ -178,5 +178,32 @@
         "timestamp": 1773054000,
         "title": "【Tiling Forest】大絶賛の体験版パズルで道を作るので協力して欲しい！【白上フブキ/ホロライブ】",
         "video_id": "hUZPoUkDu6M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EHkZiUsFJoQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【MyVoiceZoo】ホロメン声真似動物園つくるぞ！！【ホロライブ/夏色まつり】",
+        "video_id": "EHkZiUsFJoQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0gqkh2mXMDg/maxresdefault_live.jpg",
+        "timestamp": 1773050400,
+        "title": "【振り返り】hololive SUPER EXPO 2026＆hololive 7th fes.お疲れ様あああああ【尾丸ポルカ/ホロライブ】",
+        "video_id": "0gqkh2mXMDg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-7ISOZz5a_Y/maxresdefault_live.jpg",
+        "timestamp": 1773054000,
+        "title": "【ぽこ あ ポケモン】ポケモンたちと新生活始めます！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "-7ISOZz5a_Y"
     }
 ]
