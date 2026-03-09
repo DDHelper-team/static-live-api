@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Grtnnh46AtI/maxresdefault_live.jpg",
-        "timestamp": 1773068400,
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 179 🐾 #FWMCMORNING",
         "video_id": "Grtnnh46AtI"
     },
@@ -108,15 +108,6 @@
         "video_id": "-7ISOZz5a_Y"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U41oC6fXQ2M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【マリオテニスフィーバー】このゲームってどどどどうやるんですか？汗【百鬼あやめ/ホロライブ】",
-        "video_id": "U41oC6fXQ2M"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
         "status": "LIVE",
@@ -169,5 +160,23 @@
         "timestamp": null,
         "title": "【Bento Blocks】お弁当ゲームやろうね。",
         "video_id": "Rq5iHs4oIcw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/burG_fVqt_U/maxresdefault_live.jpg",
+        "timestamp": 1773144000,
+        "title": "【 マリオテニス 】ぷらくてぃ～～～～～～～～～～す🎾【 猫又おかゆ/ホロライブ 】",
+        "video_id": "burG_fVqt_U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zRWy0xGh1oo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【STREET FIGHTER6】そろそろ1700安定したい。リリーMR1664~【岸堂天真/ホロスターズ】",
+        "video_id": "zRWy0xGh1oo"
     }
 ]
