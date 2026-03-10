@@ -45,15 +45,6 @@
         "video_id": "TGMhdl2mMfk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZWuH9DrqoFo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / karaoke】えきすぽおつかれっした～～～～！！ / アステル",
-        "video_id": "ZWuH9DrqoFo"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +88,23 @@
         "timestamp": 1773147600,
         "title": "【ぽこ あ ポケモン】ポケモンたちと新生活始めます！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "S-L5B2WHs54"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qv40_p0yWSM/maxresdefault_live.jpg",
+        "timestamp": 1773147600,
+        "title": "【ぽこあポケモン】タテモン、チェックだぜ！その①【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "qv40_p0yWSM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qv40_p0yWSM/maxresdefault_live.jpg",
+        "timestamp": 1773147600,
+        "title": "【ぽこあポケモン】タテモン、チェックだぜ！その①【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "qv40_p0yWSM"
     }
 ]
