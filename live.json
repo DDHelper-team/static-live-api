@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5_KnO_9Xr8c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【スパチャ読み】いつもありがとう！EXPO、FESの分！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "5_KnO_9Xr8c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5_KnO_9Xr8c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【スパチャ読み】いつもありがとう！EXPO、FESの分！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "5_KnO_9Xr8c"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "LIVE",
@@ -34,15 +16,6 @@
         "timestamp": null,
         "title": "【空の軌跡 the 1st】#7 | 完全初見！正遊撃士を目指して！※ネタバレ注意【緋月ゆい/ネオポルテ】",
         "video_id": "Qcx3FZdXdt0"
-    },
-    {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/98zUa8tHu9o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "《惡靈古堡9：安魂曲》Resident Evil 9: Requiem #3  要重跑一次可惡",
-        "video_id": "98zUa8tHu9o"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
@@ -81,15 +54,6 @@
         "video_id": "QJsaZcMt6oY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/t0BDhoy8TWA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雀魂 】麻雀初心者、まずは顔合わせから！✨#すぺしゃりてフェス【 領国つかさ / すぺしゃりて 】",
-        "video_id": "t0BDhoy8TWA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -117,15 +81,6 @@
         "video_id": "sLAzeRWOGqo"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/t0BDhoy8TWA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雀魂 】麻雀初心者、まずは顔合わせから！✨#すぺしゃりてフェス【 領国つかさ / すぺしゃりて 】",
-        "video_id": "t0BDhoy8TWA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -133,15 +88,6 @@
         "timestamp": null,
         "title": "【ぽこ あ ポケモン】ポケモンたちと新生活始めます！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "S-L5B2WHs54"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/98zUa8tHu9o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "《惡靈古堡9：安魂曲》Resident Evil 9: Requiem #3  要重跑一次可惡",
-        "video_id": "98zUa8tHu9o"
     },
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
@@ -160,5 +106,32 @@
         "timestamp": 1773241200,
         "title": "【FUWAMOCO MORNING】episode 180 🐾 #FWMCMORNING",
         "video_id": "v6aPqNfzl5I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YOQLOvyPhzY/maxresdefault_live.jpg",
+        "timestamp": 1773237600,
+        "title": "【Backseat Drivers】LET ME TAKE YOU TO ISEKAI",
+        "video_id": "YOQLOvyPhzY"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aidChFr9crI/maxresdefault_live.jpg",
+        "timestamp": 1773230400,
+        "title": "【死んだら終了】ハードコアマイクラでネザーに下見に行く会【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "aidChFr9crI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aidChFr9crI/maxresdefault_live.jpg",
+        "timestamp": 1773230400,
+        "title": "【死んだら終了】ハードコアマイクラでネザーに下見に行く会【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "aidChFr9crI"
     }
 ]
