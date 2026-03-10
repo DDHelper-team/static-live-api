@@ -45,15 +45,6 @@
         "video_id": "TGMhdl2mMfk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/d_aSgNfznsI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RESIDENT EVIL REQUIEM】LEON COME BACK I\u0026#39;M SCARED【Spoilers Ahead】",
-        "video_id": "d_aSgNfznsI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -88,5 +79,14 @@
         "timestamp": null,
         "title": "【 雑談 】遅めのお昼にﾏﾀｰﾘ話すのが気持ちいい。【 領国つかさ / すぺしゃりて 】",
         "video_id": "lL6gX99bQxY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZWuH9DrqoFo/maxresdefault_live.jpg",
+        "timestamp": 1773131400,
+        "title": "【歌枠 / karaoke】えきすぽおつかれっした～～～～！！ / アステル",
+        "video_id": "ZWuH9DrqoFo"
     }
 ]
