@@ -36,24 +36,6 @@
         "video_id": "QJsaZcMt6oY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pYFpHuub498/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Core Keeper】チルい 洞窟生活 海が見たい【 奏手イヅル 】",
-        "video_id": "pYFpHuub498"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/h6c6f6DiZW4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【R.E.P.O.】#NEWTOWN 二次会！一旦チキンで一旦R.E.P.O.【アルランディス/ホロスターズ】",
-        "video_id": "h6c6f6DiZW4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +97,14 @@
         "timestamp": 1773230400,
         "title": "【死んだら終了】ハードコアマイクラでネザーに下見に行く会【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "aidChFr9crI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VHfLLu0hMo8/maxresdefault_live.jpg",
+        "timestamp": 1773194400,
+        "title": "【CC12ミラー】カプコンカップがついに始まるのでミラーさせていただくぞい!!【アルランディス/ホロスターズ】",
+        "video_id": "VHfLLu0hMo8"
     }
 ]
