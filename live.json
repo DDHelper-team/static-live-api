@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sLAzeRWOGqo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【その３】チルラジオ配信 #狐族密会　「 EXPO\u0026amp;Fesお疲れ様っした！」【ホロライブ/白上フブキ/尾丸ポルカ】",
-        "video_id": "sLAzeRWOGqo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -18,31 +9,13 @@
         "video_id": "PpENfowv-Wc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZeYuAEdensk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Backseat Drivers】Don\u0026#39;t let zeta drive I guess?",
-        "video_id": "ZeYuAEdensk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/v6aPqNfzl5I/maxresdefault_live.jpg",
-        "timestamp": 1773241200,
+        "timestamp": null,
         "title": "【FUWAMOCO MORNING】episode 180 🐾 #FWMCMORNING",
         "video_id": "v6aPqNfzl5I"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YOQLOvyPhzY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Backseat Drivers】LET ME TAKE YOU TO ISEKAI",
-        "video_id": "YOQLOvyPhzY"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -61,15 +34,6 @@
         "timestamp": null,
         "title": "【死んだら終了】ハードコアマイクラでネザーに下見に行く会【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "aidChFr9crI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RhvFc2Ru5FY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#生スバル】JSP2やるしゅばああああああああああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
-        "video_id": "RhvFc2Ru5FY"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -106,15 +70,6 @@
         "timestamp": 1773302400,
         "title": "零-紅蝶 REMAKE #1｜故地重遊皆神村👻追隨著姐姐的腳步迷失在消失地圖的村子中【Healing希靈/VTuber】",
         "video_id": "oFBNkwzTigw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pfL7BFa0pZU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Backseat Drivers】i will just chill and just let them fight lah【holoh3ro】",
-        "video_id": "pfL7BFa0pZU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
@@ -250,5 +205,32 @@
         "timestamp": 1773248400,
         "title": "REINE PLAYS RESIDENT EVIL REQUIEM AGAIN AFTER A WEEK (SPOILER ALERT)",
         "video_id": "UVUEe0-q9Mg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ib2nDfJXLcA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Backseat Drivers】Don\u0026#39;t let zeta drive I guess? Part 2",
+        "video_id": "ib2nDfJXLcA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NfvqF5zJetg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Backseat Drivers】i will just chill and just let them fight lah【holoh3ro】",
+        "video_id": "NfvqF5zJetg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/w4BciXl0bPg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Backseat Drivers】LET ME TAKE YOU TO ISEKAI",
+        "video_id": "w4BciXl0bPg"
     }
 ]
