@@ -27,15 +27,6 @@
         "video_id": "oFBNkwzTigw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/V8qw--0puaA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【🍣】寿司ホラー",
-        "video_id": "V8qw--0puaA"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +151,23 @@
         "timestamp": 1773270000,
         "title": "【Pokémon Pokopia】Ready to be either very comfy or very overstimulated. Or both",
         "video_id": "HThed1I-z_g"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xO7ZUakuErM/maxresdefault_live.jpg",
+        "timestamp": 1773309600,
+        "title": "【Shadowverse: Worlds Beyond】Custom Rule Cupに向けて面白デッキを作る！参加型もあるよ～！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "xO7ZUakuErM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xO7ZUakuErM/maxresdefault_live.jpg",
+        "timestamp": 1773309600,
+        "title": "【Shadowverse: Worlds Beyond】Custom Rule Cupに向けて面白デッキを作る！参加型もあるよ～！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "xO7ZUakuErM"
     }
 ]
