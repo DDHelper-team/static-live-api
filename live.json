@@ -72,12 +72,39 @@
         "video_id": "xO7ZUakuErM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/t_WM-dUzWKg/maxresdefault_live.jpg",
+        "timestamp": 1773320400,
+        "title": "【#生スバル】スバルの小屋：KIARA【ホロライブ/大空スバル】",
+        "video_id": "t_WM-dUzWKg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UVUEe0-q9Mg/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/-RqHLAe6Hms/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "REINE PLAYS RESIDENT EVIL REQUIEM AGAIN AFTER A WEEK (SPOILER ALERT)",
-        "video_id": "UVUEe0-q9Mg"
+        "title": "【STREET FIGHTER6】言語化をして頑張る！1605~【岸堂天真/ホロスターズ】",
+        "video_id": "-RqHLAe6Hms"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bV1AQtrXRPE/maxresdefault_live.jpg",
+        "timestamp": 1773356400,
+        "title": "【FORTNITE】everything is finally bibbidibabidiboowa #calliolive",
+        "video_id": "bV1AQtrXRPE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/S9HvHj5UBP4/maxresdefault_live.jpg",
+        "timestamp": 1773302400,
+        "title": "【ぽこ あ ポケモン】本日なんとポケセンが2個直ります【アルランディス/ホロスターズ】",
+        "video_id": "S9HvHj5UBP4"
     }
 ]
