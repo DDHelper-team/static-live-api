@@ -83,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bV1AQtrXRPE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FORTNITE】everything is finally bibbidibabidiboowa #calliolive",
-        "video_id": "bV1AQtrXRPE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AoZiXJGk4q0/maxresdefault_live.jpg",
+        "timestamp": 1773457200,
+        "title": "【MARIO TENNIS FEVER】If Mori Locks In, Mori Can Win. #calliolive",
+        "video_id": "AoZiXJGk4q0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -151,5 +151,14 @@
         "timestamp": 1773396000,
         "title": "【Mario Tennis Fever】PRACTICE TIME! First play story mode (まだまだだね)",
         "video_id": "2Xg8T7pBYWo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/97BkV_ofem4/maxresdefault_live.jpg",
+        "timestamp": 1773406800,
+        "title": "【Monster Hunter Stories 3: Twisted Reflection】LET’S RIDE ON!! #sponsored 【Kureiji Ollie】",
+        "video_id": "97BkV_ofem4"
     }
 ]
