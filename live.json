@@ -9,15 +9,6 @@
         "video_id": "PpENfowv-Wc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oFBNkwzTigw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "零-紅蝶 REMAKE #1｜故地重遊皆神村👻追隨著姐姐的腳步迷失在消失地圖的村子中【Healing希靈/VTuber】",
-        "video_id": "oFBNkwzTigw"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
         "status": "LIVE",
@@ -47,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HThed1I-z_g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Pokémon Pokopia】Ready to be either very comfy or very overstimulated. Or both",
-        "video_id": "HThed1I-z_g"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IXfkzcDKK74/maxresdefault_live.jpg",
+        "timestamp": 1773344700,
+        "title": "【FUTURE GAMES SHOW: SPRING SHOWCASE】ON THE LOOKOUT【OFFICIAL CO-STREAM】",
+        "video_id": "IXfkzcDKK74"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -65,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xO7ZUakuErM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Shadowverse: Worlds Beyond】Custom Rule Cupに向けて面白デッキを作る！参加型もあるよ～！【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "xO7ZUakuErM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eWGoURnBQOk/maxresdefault_live.jpg",
+        "timestamp": 1773396000,
+        "title": "【Shadowverse: Worlds Beyond】Custom Rule Cup 本番✨シャドバに新システムで遊びます！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "eWGoURnBQOk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -92,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bV1AQtrXRPE/maxresdefault_live.jpg",
-        "timestamp": 1773356400,
+        "timestamp": null,
         "title": "【FORTNITE】everything is finally bibbidibabidiboowa #calliolive",
         "video_id": "bV1AQtrXRPE"
     },
@@ -106,5 +97,59 @@
         "timestamp": 1773302400,
         "title": "【ぽこ あ ポケモン】本日なんとポケセンが2個直ります【アルランディス/ホロスターズ】",
         "video_id": "S9HvHj5UBP4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/km-vGte39PY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Future Games Show】nobar nobar watchalongg",
+        "video_id": "km-vGte39PY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JDEYnEb6A08/maxresdefault_live.jpg",
+        "timestamp": 1773370800,
+        "title": "【MARIO TENNIS FEVER】hand-eye coordination? time to declare us the winners 🐾【FUWAMOCO】",
+        "video_id": "JDEYnEb6A08"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/y2wedFss6NQ/maxresdefault_live.jpg",
+        "timestamp": 1773406800,
+        "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑩【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "y2wedFss6NQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AQZUoG9Dba4/maxresdefault_live.jpg",
+        "timestamp": 1773406800,
+        "title": "【雑談配信 / talk】マイクラ整地雑談！【#新人vtuber 】",
+        "video_id": "AQZUoG9Dba4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/82pMfUOjhB8/maxresdefault_live.jpg",
+        "timestamp": 1773345600,
+        "title": "【Future Games Show】lets watch the future games together😎",
+        "video_id": "82pMfUOjhB8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KvHIKuwuwUA/maxresdefault_live.jpg",
+        "timestamp": 1773345600,
+        "title": "【Future Games Show】Watchalong! 配信ミラー【Vestia Zeta】",
+        "video_id": "KvHIKuwuwUA"
     }
 ]
