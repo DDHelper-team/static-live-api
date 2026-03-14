@@ -36,15 +36,6 @@
         "video_id": "uzF43bRo5XU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Z2q2FZ9OeGc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FORTNITE】WHAT IN THE DATTE BOKU WA HOSHI DAKARAAAAAAAAA?!",
-        "video_id": "Z2q2FZ9OeGc"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "LIVE",
@@ -56,11 +47,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eWGoURnBQOk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Shadowverse: Worlds Beyond】Custom Rule Cup 本番✨シャドバに新システムで遊びます！【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "eWGoURnBQOk"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u2fXY6S8hUE/maxresdefault_live.jpg",
+        "timestamp": 1773489600,
+        "title": "【死んだら終了】ハードコアマイクラでネザーに下見に行く会ブレイズ編【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "u2fXY6S8hUE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -102,19 +93,19 @@
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/km-vGte39PY/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/eQXP0u3Zw7g/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【Future Games Show】nobar nobar watchalongg",
-        "video_id": "km-vGte39PY"
+        "title": "【Resident Evil 4】Leon las plagas, Kobo no hablas espanol",
+        "video_id": "eQXP0u3Zw7g"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JDEYnEb6A08/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MARIO TENNIS FEVER】hand-eye coordination? time to declare us the winners 🐾【FUWAMOCO】",
-        "video_id": "JDEYnEb6A08"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MgQH_AWIE6Y/maxresdefault_live.jpg",
+        "timestamp": 1773536400,
+        "title": "【PAJAMA OUTFIT REVEAL】sleepy nighty night pajama time 🐾 #FWMCpajamas【ANNOUNCEMENT 発表あり】",
+        "video_id": "MgQH_AWIE6Y"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
@@ -135,24 +126,6 @@
         "video_id": "AQZUoG9Dba4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/1WhsM61BUfk/maxresdefault_live.jpg",
-        "timestamp": 1806016140,
-        "title": "【#hololivefesEXPO26】cheers and chat here with other Pemaloe! 🔨",
-        "video_id": "1WhsM61BUfk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2Xg8T7pBYWo/maxresdefault_live.jpg",
-        "timestamp": 1773396000,
-        "title": "【Mario Tennis Fever】PRACTICE TIME! First play story mode (まだまだだね)",
-        "video_id": "2Xg8T7pBYWo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +133,14 @@
         "timestamp": 1773406800,
         "title": "【Monster Hunter Stories 3: Twisted Reflection】LET’S RIDE ON!! #sponsored 【Kureiji Ollie】",
         "video_id": "97BkV_ofem4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8WTZrreQ420/maxresdefault_live.jpg",
+        "timestamp": 1773518400,
+        "title": "Future Games Show: Spring Showcase | VOD Watch",
+        "video_id": "8WTZrreQ420"
     }
 ]
