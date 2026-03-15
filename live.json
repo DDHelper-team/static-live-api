@@ -81,15 +81,6 @@
         "video_id": "S9HvHj5UBP4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eQXP0u3Zw7g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Resident Evil 4】Leon las plagas, Kobo no hablas espanol",
-        "video_id": "eQXP0u3Zw7g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +151,14 @@
         "timestamp": null,
         "title": "【ド★初見】バイオハザード レクイエム遊ぶ！ ※ネタバレ注意です",
         "video_id": "Rv51gruzlOc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vxfZuLvklhc/maxresdefault_live.jpg",
+        "timestamp": 1773572400,
+        "title": "塔羅占卜#128｜愛情的占卜果然還是很讓人姨母笑的啊🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "vxfZuLvklhc"
     }
 ]
