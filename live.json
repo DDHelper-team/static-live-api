@@ -63,15 +63,6 @@
         "video_id": "t_WM-dUzWKg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AoZiXJGk4q0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MARIO TENNIS FEVER】If Mori Locks In, Mori Can Win. #calliolive",
-        "video_id": "AoZiXJGk4q0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -146,11 +137,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Rv51gruzlOc/maxresdefault_live.jpg",
-        "timestamp": null,
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GvAIEq4ib5s/maxresdefault_live.jpg",
+        "timestamp": 1773554400,
         "title": "【ド★初見】バイオハザード レクイエム遊ぶ！ ※ネタバレ注意です",
-        "video_id": "Rv51gruzlOc"
+        "video_id": "GvAIEq4ib5s"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
@@ -160,5 +151,23 @@
         "timestamp": 1773572400,
         "title": "塔羅占卜#128｜愛情的占卜果然還是很讓人姨母笑的啊🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "vxfZuLvklhc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jK4X7i5HKpc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Mario Tennis Fever】get yo young siblings on the switch 2 (PRACTICE)【Pavolia Reine/holoID 2nd gen】",
+        "video_id": "jK4X7i5HKpc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Tlvi8zXqph4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Mario Tennis Fever】How Doomed.......",
+        "video_id": "Tlvi8zXqph4"
     }
 ]
