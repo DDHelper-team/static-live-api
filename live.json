@@ -101,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cICiSRhxxBc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Back to Being a Scared Cat 【Resident Evil Requiem】Spoilers Ahead",
-        "video_id": "cICiSRhxxBc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vx82lMnP7rg/maxresdefault_live.jpg",
+        "timestamp": 1773864000,
+        "title": "I Burnt My Food Before Opening This Stream Room【Resident Evil Requiem】Spoilers Ahead",
+        "video_id": "vx82lMnP7rg"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
@@ -162,33 +162,6 @@
         "video_id": "IgnHcATMbD4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7IuknzPcJfA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER6】集中して駆け上がる！リリーMR1612~【岸堂天真/ホロスターズ】",
-        "video_id": "7IuknzPcJfA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UuSZnK80PRk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Arknights: Endfield】The cute girl calls to me...one Tangtang pls.",
-        "video_id": "UuSZnK80PRk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-Nii2sEzzms/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ポケットモンスター ファイアレッド】ほぼ壊滅したけど俺たちは進まないといけない　2日目【夕刻ロベル/ホロスターズ】",
-        "video_id": "-Nii2sEzzms"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -196,15 +169,6 @@
         "timestamp": 1773738000,
         "title": "【鼻声ふざけるな】もうディーバフィーバー開けちゃうよ！？！？！！【怒りの開封式】",
         "video_id": "tlLn5DzVTs0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ijTi9K9X8vQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Story of Seasons Grand Bazaar】It\u0026#39;s Summer!【IOFI / HOLOLIVE】",
-        "video_id": "ijTi9K9X8vQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -216,15 +180,6 @@
         "video_id": "GpS0taYwkbo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/G7stlHG5lQ0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ぽこ あ ポケモン】ゆるゆるなぽこあ生活スタート【雪花ラミィ/ホロライブ】",
-        "video_id": "G7stlHG5lQ0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
         "status": "LIVE",
@@ -232,5 +187,23 @@
         "timestamp": null,
         "title": "【VALORANT】2枠目。悔しい過ぎてムリ【緋月ゆい/ネオポルテ】",
         "video_id": "Mfo7uQ8pD-w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OWJAysd-Nks/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Overwatch】 sleepywatch【Pavolia Reine/holoID 2nd gen】",
+        "video_id": "OWJAysd-Nks"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mZpGP_Tghn4/maxresdefault_live.jpg",
+        "timestamp": 1773835200,
+        "title": "3月SC點心抽獎｜三重莓果酥❤️【Healing希靈/VTuber】",
+        "video_id": "mZpGP_Tghn4"
     }
 ]
