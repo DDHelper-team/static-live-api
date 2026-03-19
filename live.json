@@ -180,15 +180,6 @@
         "video_id": "GpS0taYwkbo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OWJAysd-Nks/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Overwatch】 sleepywatch【Pavolia Reine/holoID 2nd gen】",
-        "video_id": "OWJAysd-Nks"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +214,41 @@
         "timestamp": null,
         "title": "【Pokémon Pokopia】Howdy, Biboo",
         "video_id": "_g8eieoKr-Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PJgp3Av13yg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【崩壊：スターレイル】Ver4.0　開拓クエスト『楽園へようこそ』をやる男　その2【夕刻ロベル/ホロスターズ】",
+        "video_id": "PJgp3Av13yg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AiYFdpcKfm8/maxresdefault_live.jpg",
+        "timestamp": 1773922500,
+        "title": "【BIG NEWS!! 重大告知】singing until I announce it!! #calliolive",
+        "video_id": "AiYFdpcKfm8"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EvsHBYiFfAM/maxresdefault_live.jpg",
+        "timestamp": 1773925200,
+        "title": "【歌枠/Singing】花粉のこと誰が好きなん？？【 獅子神レオナ/Re:AcT】",
+        "video_id": "EvsHBYiFfAM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EeEQHy68tBo/maxresdefault_live.jpg",
+        "timestamp": 1773921600,
+        "title": "【#NELLマットレス】マットレスで睡眠の質って本当に変わるの？＃らぷさまなでなで【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "EeEQHy68tBo"
     }
 ]
