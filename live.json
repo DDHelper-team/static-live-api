@@ -270,24 +270,6 @@
         "video_id": "Uyb5GveQFbI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QQZH_j39mYo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【崩壊：スターレイル】二相楽園のサブイベをやる男【夕刻ロベル/ホロスターズ】",
-        "video_id": "QQZH_j39mYo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uZik8CE26Cc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER6】MR1616~ 土曜日のランクマ！【岸堂天真/ホロスターズ】",
-        "video_id": "uZik8CE26Cc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
         "status": "LIVE",
@@ -295,15 +277,6 @@
         "timestamp": null,
         "title": "【#鳴潮  】雖然這周新版本，但我們要來跑心理醫生劇情~(暫定~早睡醒就可能早開始)【#ゲーム個人勢 / Fingla】",
         "video_id": "DeRd4Shw-LU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hvGAsY2eXSA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【I\u0026#39;M BACK】Went to Capcom Cup Japan!【Dokibird】",
-        "video_id": "hvGAsY2eXSA"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -315,12 +288,30 @@
         "video_id": "6BcGpClHWcY"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zpd0PhiQNwM/maxresdefault_live.jpg",
+        "timestamp": 1774170000,
+        "title": "【INDONESIAN CLASS】MENGHAJAR @MoriCalliope \u0026amp; @TakanashiKiara",
+        "video_id": "zpd0PhiQNwM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hvGAsY2eXSA/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/waTViJID6UI/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【I\u0026#39;M BACK】Went to Capcom Cup Japan!【Dokibird】",
-        "video_id": "hvGAsY2eXSA"
+        "title": "【ELDENRING】完全初見⚔DLCの世界にこんにちは✋【風真いろは/ホロライブ】※本配信はゲームのネタバレを含みます",
+        "video_id": "waTViJID6UI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Mfz8c8z31tg/maxresdefault_live.jpg",
+        "timestamp": 1774227600,
+        "title": "We\u0026#39;re Breaking In! 【Crime Simulator】",
+        "video_id": "Mfz8c8z31tg"
     }
 ]
