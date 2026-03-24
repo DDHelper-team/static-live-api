@@ -270,15 +270,6 @@
         "video_id": "Uyb5GveQFbI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Mfz8c8z31tg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "We\u0026#39;re Breaking In! 【Crime Simulator】",
-        "video_id": "Mfz8c8z31tg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -304,5 +295,41 @@
         "timestamp": 1774238400,
         "title": "【ポケットモンスター ファイアレッド】人生縛り！今日も誰も失わない予定です　4日目【夕刻ロベル/ホロスターズ】",
         "video_id": "ARULAMATTZo"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TKmM22-KWXY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雑談 】生活習慣を正したい中学生【 領国つかさ / すぺしゃりて 】",
+        "video_id": "TKmM22-KWXY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/h-55AYt-7i0/maxresdefault_live.jpg",
+        "timestamp": 1774396800,
+        "title": "【OVERWATCH RANK】Get GM today?【Dokibird】",
+        "video_id": "h-55AYt-7i0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/h-55AYt-7i0/maxresdefault_live.jpg",
+        "timestamp": 1774396800,
+        "title": "【OVERWATCH RANK】Get GM today?【Dokibird】",
+        "video_id": "h-55AYt-7i0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YvZIMCh4AgU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Pokémon Pokopia】Let\u0026#39;s get LEGENDARY",
+        "video_id": "YvZIMCh4AgU"
     }
 ]
