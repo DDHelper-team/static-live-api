@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/r9FHcPUBh4U/maxresdefault_live.jpg",
-        "timestamp": 1775584800,
+        "timestamp": null,
         "title": "【REANIMAL】#2 to the end with @holoen_gigimurin !!! #kfp",
         "video_id": "r9FHcPUBh4U"
     },
@@ -34,33 +34,6 @@
         "timestamp": 1775602800,
         "title": "【CHRONO TRIGGER with CECILIA】we\u0026#39;re not criminals (really really) 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "m3k2P2y8eUE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ni28VzSgisc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Slay the Spire 2】初見！カードで戦うの？【荒咬オウガ /ホロスターズ】",
-        "video_id": "Ni28VzSgisc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kF37-_t0VCY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#14【Danganronpa 2: Goodbye Despair】Out of the Island at What Cost?(spoilers)【Pavolia Reine/holoID】",
-        "video_id": "kF37-_t0VCY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lVaCdidMYhs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード レクイエム】臓器探しの旅編 になりそうな予感。＃3【百鬼あやめ/ホロライブ】",
-        "video_id": "lVaCdidMYhs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
@@ -124,5 +97,14 @@
         "timestamp": 1775610000,
         "title": "【ASMR KU100】whispering the final superchats I have backed up! #calliolive",
         "video_id": "Jh2SUbSwGSw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ixED6Q59GTw/maxresdefault_live.jpg",
+        "timestamp": 1775613600,
+        "title": "【RESIDENT EVIL 6】EL LEON WITH @IRyS",
+        "video_id": "ixED6Q59GTw"
     }
 ]
