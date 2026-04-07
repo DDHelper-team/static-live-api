@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/m3k2P2y8eUE/maxresdefault_live.jpg",
-        "timestamp": 1775602800,
+        "timestamp": null,
         "title": "【CHRONO TRIGGER with CECILIA】we\u0026#39;re not criminals (really really) 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "m3k2P2y8eUE"
     },
@@ -106,14 +106,5 @@
         "timestamp": 1775646000,
         "title": "【 スーパーマリオブラザーズ2 】久しぶりにマリオやる～～～🍄✦【 猫又おかゆ/ホロライブ 】",
         "video_id": "D0PuyuYKFbc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/IDEDlOsD5ys/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "早起きしすぎたおはよ",
-        "video_id": "IDEDlOsD5ys"
     }
 ]
