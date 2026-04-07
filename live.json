@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9y8lW6JNO6Q/maxresdefault_live.jpg",
-        "timestamp": 1775563200,
+        "timestamp": null,
         "title": "主題雜談｜網路上大家隨意變換性別有好有壞【Healing希靈/VTuber】",
         "video_id": "9y8lW6JNO6Q"
     },
@@ -56,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/plrRYDkQlEI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ら～めんつくるお (＾ω＾)🍜",
-        "video_id": "plrRYDkQlEI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ltVcuZHc3Hw/maxresdefault_live.jpg",
+        "timestamp": 1775566800,
+        "title": "雑談するしか❕",
+        "video_id": "ltVcuZHc3Hw"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -92,18 +92,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9y8lW6JNO6Q/maxresdefault_live.jpg",
-        "timestamp": 1775563200,
+        "timestamp": null,
         "title": "主題雜談｜網路上大家隨意變換性別有好有壞【Healing希靈/VTuber】",
         "video_id": "9y8lW6JNO6Q"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AeNChPfwVrs/maxresdefault_live.jpg",
-        "timestamp": 1775565000,
+        "timestamp": null,
         "title": "【HOLO HYTALE SERVER】setting up a nice spot for your Mori! #calliolive",
         "video_id": "AeNChPfwVrs"
     },
@@ -191,10 +191,64 @@
     {
         "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lVaCdidMYhs/maxresdefault_live.jpg",
-        "timestamp": 1775563200,
+        "timestamp": null,
         "title": "【バイオハザード レクイエム】臓器探しの旅編 になりそうな予感。＃3【百鬼あやめ/ホロライブ】",
         "video_id": "lVaCdidMYhs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a_xQgnvjWfg/maxresdefault_live.jpg",
+        "timestamp": 1775566800,
+        "title": "CAL KESTIS IS BACK ?!?!?!? #AnniversaRisu6",
+        "video_id": "a_xQgnvjWfg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NG_gfGRN8rc/maxresdefault_live.jpg",
+        "timestamp": 1775568600,
+        "title": "《零:紅蝶 REMAKE 》一之刻 從地圖上消失的村莊",
+        "video_id": "NG_gfGRN8rc"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NG_gfGRN8rc/maxresdefault_live.jpg",
+        "timestamp": 1775568600,
+        "title": "《零:紅蝶 REMAKE 》一之刻 從地圖上消失的村莊",
+        "video_id": "NG_gfGRN8rc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qGETG1PVFAc/maxresdefault_live.jpg",
+        "timestamp": 1775649600,
+        "title": "【Slay The Spire 2】FIRST PLAY!",
+        "video_id": "qGETG1PVFAc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xvdF_609r1U/maxresdefault_live.jpg",
+        "timestamp": 1775649600,
+        "title": "【】【ホロライブ/大空スバル】",
+        "video_id": "xvdF_609r1U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZiyckuCWH7o/maxresdefault_live.jpg",
+        "timestamp": 1775570400,
+        "title": "【寝る前雑談】おやすみなさいの前に、お話ししよ～【ホロライブ/大神ミオ】",
+        "video_id": "ZiyckuCWH7o"
     }
 ]
