@@ -18,15 +18,6 @@
         "video_id": "rcjlQsVNuRk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/r9FHcPUBh4U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【REANIMAL】#2 to the end with @holoen_gigimurin !!! #kfp",
-        "video_id": "r9FHcPUBh4U"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -81,15 +72,6 @@
         "video_id": "DwAAUJ15B0A"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oVX2bZtIbKo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LOL】4月8日 深夜のロルカスタム【 奏手イヅル 】",
-        "video_id": "oVX2bZtIbKo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +88,14 @@
         "timestamp": 1775613600,
         "title": "【RESIDENT EVIL 6】EL LEON WITH @IRyS",
         "video_id": "ixED6Q59GTw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EubV8gs75Q0/maxresdefault_live.jpg",
+        "timestamp": 1775678400,
+        "title": "There\u0026#39;s a Big Cole in My Phelps 【L.A. Noire】",
+        "video_id": "EubV8gs75Q0"
     }
 ]
