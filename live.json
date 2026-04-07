@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/63FEAYUld_s/maxresdefault_live.jpg",
-        "timestamp": 1775556000,
+        "timestamp": null,
         "title": "【#夕刻ロベル新衣装】お披露目配信なんですわ！【夕刻ロベル/ホロスターズ】",
         "video_id": "63FEAYUld_s"
     },
@@ -126,15 +126,6 @@
         "video_id": "AeNChPfwVrs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AzutR1j9CFc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ありがとう】応援をくれたお友達と遊んでいくシリーズ ふぇに男編 【感謝】 / アステル",
-        "video_id": "AzutR1j9CFc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +151,41 @@
         "timestamp": 1775566800,
         "title": "#14【Danganronpa 2: Goodbye Despair】Out of the Island at What Cost?(spoilers)【Pavolia Reine/holoID】",
         "video_id": "kF37-_t0VCY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MX_2qc2e_d4/maxresdefault_live.jpg",
+        "timestamp": 1775566800,
+        "title": "きかんしゃこーろね",
+        "video_id": "MX_2qc2e_d4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/I1D3OSFOPgk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Slay the Spire 2】スト6以外の配信をやるのはいつぶりだろう。【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
+        "video_id": "I1D3OSFOPgk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AST9OAqmrTA/maxresdefault_live.jpg",
+        "timestamp": 1775559600,
+        "title": "【トモダチコレクション】ホロエンタメランドわくわく出会いの新生活　(体験版)【白上フブキ/ホロライブ】",
+        "video_id": "AST9OAqmrTA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_kLbuh4xrYE/maxresdefault_live.jpg",
+        "timestamp": 1775566800,
+        "title": "【HOLO EN/ID HYTALE SERVER】 A START OF A NEW ADVENTURE!! 【Kureiji Ollie】",
+        "video_id": "_kLbuh4xrYE"
     }
 ]
