@@ -36,33 +36,6 @@
         "video_id": "b7DBD1coWD0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/P9eedIOmGtw/maxresdefault_live.jpg",
-        "timestamp": 1775671200,
-        "title": "【FRIENDS】reading sweet entries from all HoloEN \u0026amp; Some ID \u0026amp; JP members in my book! #kfp #キアライブ",
-        "video_id": "P9eedIOmGtw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CsxeQLRr3xc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ドラゴンクエストVII Reimagined】#1 | 完全初見！好奇心から始まる大冒険！※ネタバレあり【緋月ゆい/ネオポルテ】",
-        "video_id": "CsxeQLRr3xc"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CsxeQLRr3xc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ドラゴンクエストVII Reimagined】#1 | 完全初見！好奇心から始まる大冒険！※ネタバレあり【緋月ゆい/ネオポルテ】",
-        "video_id": "CsxeQLRr3xc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -90,15 +63,6 @@
         "video_id": "LzLrTaJ7KIs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vQm9VfxDRRw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード HDリマスター】初見で初代バイオやる【 #奏手イヅル 】",
-        "video_id": "vQm9VfxDRRw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,5 +88,23 @@
         "timestamp": 1775725200,
         "title": "【Poppy Playtime】学校から始まる恐怖フルスロットルなChapter3 愉悦枠【アルランディス/ホロスターズ】",
         "video_id": "FpZvUrRgqFw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Qv1Zm-RMIOM/maxresdefault_live.jpg",
+        "timestamp": 1775737800,
+        "title": "【バイオハザード HDリマスター】初見で初代バイオやる クリス編 # 2【 #奏手イヅル 】",
+        "video_id": "Qv1Zm-RMIOM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/P9eedIOmGtw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【FRIENDS】reading sweet entries from all HoloEN \u0026amp; Some ID \u0026amp; JP members in my book! #kfp #キアライブ",
+        "video_id": "P9eedIOmGtw"
     }
 ]
