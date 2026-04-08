@@ -74,18 +74,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Jh2SUbSwGSw/maxresdefault_live.jpg",
-        "timestamp": 1775610000,
+        "timestamp": null,
         "title": "【ASMR KU100】whispering the final superchats I have backed up! #calliolive",
         "video_id": "Jh2SUbSwGSw"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ixED6Q59GTw/maxresdefault_live.jpg",
-        "timestamp": 1775613600,
+        "timestamp": null,
         "title": "【RESIDENT EVIL 6】EL LEON WITH @IRyS",
         "video_id": "ixED6Q59GTw"
     },
@@ -106,5 +106,32 @@
         "timestamp": 1775646000,
         "title": "【 スーパーマリオブラザーズ2 】久しぶりにマリオやる～～～🍄✦【 猫又おかゆ/ホロライブ 】",
         "video_id": "D0PuyuYKFbc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/P9eedIOmGtw/maxresdefault_live.jpg",
+        "timestamp": 1775671200,
+        "title": "【FRIENDS】reading sweet entries from all HoloEN \u0026amp; Some ID \u0026amp; JP members in my book! #kfp #キアライブ",
+        "video_id": "P9eedIOmGtw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rTcQQrVNF7o/maxresdefault_live.jpg",
+        "timestamp": 1775620800,
+        "title": "【SPOILER ALERT | Resident Evil Requiem】GRACE-ONEECHAN! BEHIND YOU!【hololive ID | Anya Melfissa】",
+        "video_id": "rTcQQrVNF7o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PCMYarJngVA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "ふぇに男をキャリーする配信。 / アステル",
+        "video_id": "PCMYarJngVA"
     }
 ]
