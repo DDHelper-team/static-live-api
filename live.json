@@ -90,15 +90,6 @@
         "video_id": "P9eedIOmGtw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PCMYarJngVA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ふぇに男をキャリーする配信。 / アステル",
-        "video_id": "PCMYarJngVA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
         "status": "LIVE",
@@ -137,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BeDqxEyCzAM/maxresdefault_live.jpg",
-        "timestamp": 1775642400,
+        "timestamp": null,
         "title": "【釣りゲーと聞いて】ウミガリするヨ",
         "video_id": "BeDqxEyCzAM"
     },
@@ -160,5 +151,14 @@
         "timestamp": 1775646000,
         "title": "【ポケモンチャンピオンズ】きたぞ！！！！！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "TcWqAx35lrY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pGnHXS5Lklw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【川崎記念】競馬配信🔰この夜、この砂、このステージ。【尾丸ポルカ/ホロライブ】",
+        "video_id": "pGnHXS5Lklw"
     }
 ]
