@@ -18,15 +18,6 @@
         "video_id": "j4ls74iK-f8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Qv1Zm-RMIOM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード HDリマスター】初見で初代バイオやる クリス編 # 2【 #奏手イヅル 】",
-        "video_id": "Qv1Zm-RMIOM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -108,15 +99,6 @@
         "video_id": "a7X2MKuKZnw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hRUZnIwAb8s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Overwatch】Bronze 5 here I come",
-        "video_id": "hRUZnIwAb8s"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -142,5 +124,14 @@
         "timestamp": 1775826000,
         "title": "【#5】ジョジョ第５部同時視聴みるしゅばあああああああああああああああああああああ！！！！：JoJo\u0026#39;s Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
         "video_id": "7ieCvb9fUmk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PbEA2wOOnVc/maxresdefault_live.jpg",
+        "timestamp": 1775824200,
+        "title": "【バイオハザード HDリマスター】初見で初代バイオやる クリス編 # 3【 #奏手イヅル 】",
+        "video_id": "PbEA2wOOnVc"
     }
 ]
