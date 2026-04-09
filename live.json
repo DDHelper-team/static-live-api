@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zLjvR6VQnNg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "MY ANNIVERSARY IS ALMOST THERE ???? #AnniversaRisu6",
-        "video_id": "zLjvR6VQnNg"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WM2b_g0ZBkc/maxresdefault_live.jpg",
+        "timestamp": 1775822400,
+        "title": "NEW COSTUME ! #AnniversaRisu6 HAPPY ANNIVERSARY ME !",
+        "video_id": "WM2b_g0ZBkc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/j4ls74iK-f8/maxresdefault_live.jpg",
-        "timestamp": 1775757600,
+        "timestamp": null,
         "title": "Tally Ho with Tea \u0026amp; Crumpets! 【Hytale】",
         "video_id": "j4ls74iK-f8"
     },
@@ -56,29 +56,20 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/o2M_hKgXLIw/maxresdefault_live.jpg",
-        "timestamp": 1775757600,
+        "timestamp": null,
         "title": "【HYTALE 】Late night (for Biboo) gaming will she eepy",
         "video_id": "o2M_hKgXLIw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/UuX7GWGN98E/maxresdefault_live.jpg",
-        "timestamp": 1775754000,
+        "timestamp": null,
         "title": "【HOLO EN/ID HYTALE】i am not hiding anyone in my basement #kfp",
         "video_id": "UuX7GWGN98E"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/M8C-INVwPRo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / karaoke】半分寝ている人の歌枠。なんか曲増えたらしい。探す / アステル",
-        "video_id": "M8C-INVwPRo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -110,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/a7X2MKuKZnw/maxresdefault_live.jpg",
-        "timestamp": 1775757600,
+        "timestamp": null,
         "title": "【Hytale】Playing Hytale for the First Time in the EN x ID Server!【hololive ID | Anya Melfissa】",
         "video_id": "a7X2MKuKZnw"
     },
@@ -142,5 +133,14 @@
         "timestamp": 1775763000,
         "title": "【HALO 2】the library returns【Dokibird】",
         "video_id": "Wg3w1n2Ypy0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7ieCvb9fUmk/maxresdefault_live.jpg",
+        "timestamp": 1775826000,
+        "title": "【#5】ジョジョ第５部同時視聴みるしゅばあああああああああああああああああああああ！！！！：JoJo\u0026#39;s Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
+        "video_id": "7ieCvb9fUmk"
     }
 ]
