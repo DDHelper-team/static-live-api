@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zLjvR6VQnNg/maxresdefault_live.jpg",
-        "timestamp": 1775752200,
+        "timestamp": null,
         "title": "MY ANNIVERSARY IS ALMOST THERE ???? #AnniversaRisu6",
         "video_id": "zLjvR6VQnNg"
     },
@@ -45,15 +45,6 @@
         "video_id": "mruJXT9hAgg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/e7ztvKw2wI8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Watchalong】Pengabdi Setan【iofi / ホロライブID】",
-        "video_id": "e7ztvKw2wI8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -63,24 +54,6 @@
         "video_id": "Ghl5XqjZBtU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7LQJyj1XWT4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜安撫你的心和耳朵你最安心的避風港❤️睡前放鬆｜Ear Massage Whispering｜ 耳マッサージ 囁き  【KU100/3DIO】",
-        "video_id": "7LQJyj1XWT4"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7LQJyj1XWT4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜安撫你的心和耳朵你最安心的避風港❤️睡前放鬆｜Ear Massage Whispering｜ 耳マッサージ 囁き  【KU100/3DIO】",
-        "video_id": "7LQJyj1XWT4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -88,24 +61,6 @@
         "timestamp": 1775757600,
         "title": "【HYTALE 】Late night (for Biboo) gaming will she eepy",
         "video_id": "o2M_hKgXLIw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vexr5IUMIJc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】毎日がずびずびでい。【 獅子神レオナ/Re:AcT】",
-        "video_id": "vexr5IUMIJc"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vexr5IUMIJc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】毎日がずびずびでい。【 獅子神レオナ/Re:AcT】",
-        "video_id": "vexr5IUMIJc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -169,5 +124,23 @@
         "timestamp": null,
         "title": "【Overwatch】Bronze 5 here I come",
         "video_id": "hRUZnIwAb8s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Wg3w1n2Ypy0/maxresdefault_live.jpg",
+        "timestamp": 1775763000,
+        "title": "【HALO 2】the library returns【Dokibird】",
+        "video_id": "Wg3w1n2Ypy0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Wg3w1n2Ypy0/maxresdefault_live.jpg",
+        "timestamp": 1775763000,
+        "title": "【HALO 2】the library returns【Dokibird】",
+        "video_id": "Wg3w1n2Ypy0"
     }
 ]
