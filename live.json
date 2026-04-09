@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/38UoEILw8o4/maxresdefault_live.jpg",
-        "timestamp": 1775736000,
+        "timestamp": null,
         "title": "#2【初見】『機動戦士ガンダム Zガンダム』同時視聴！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "38UoEILw8o4"
     },
@@ -117,15 +117,6 @@
         "video_id": "1kkGtNz48Dw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-0x9vGCP6pc/maxresdefault_live.jpg",
-        "timestamp": 1775734200,
-        "title": "【#こうましろファミリーフェス】リレーを繋げるはじめまして🎶元気な歌声をお届けします💓楽しもう🌟【尾丸ポルカ/ホロライブ】",
-        "video_id": "-0x9vGCP6pc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -146,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Py0dhGfMZFk/maxresdefault_live.jpg",
-        "timestamp": 1775736000,
+        "timestamp": null,
         "title": "【Slay the Spire 2】初見ディフェクトで登るスパイア！！！【白上フブキ/ホロライブ】",
         "video_id": "Py0dhGfMZFk"
     },
@@ -178,5 +169,14 @@
         "timestamp": 1775746800,
         "title": "ASMR｜安撫你的心和耳朵你最安心的避風港❤️睡前放鬆｜Ear Massage Whispering｜ 耳マッサージ 囁き  【KU100/3DIO】",
         "video_id": "7LQJyj1XWT4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/o2M_hKgXLIw/maxresdefault_live.jpg",
+        "timestamp": 1775757600,
+        "title": "【HYTALE 】Late night (for Biboo) gaming will she eepy",
+        "video_id": "o2M_hKgXLIw"
     }
 ]
