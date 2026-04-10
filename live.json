@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WM2b_g0ZBkc/maxresdefault_live.jpg",
-        "timestamp": 1775822400,
+        "timestamp": null,
         "title": "NEW COSTUME ! #AnniversaRisu6 HAPPY ANNIVERSARY ME !",
         "video_id": "WM2b_g0ZBkc"
     },
@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PbEA2wOOnVc/maxresdefault_live.jpg",
-        "timestamp": 1775824200,
+        "timestamp": null,
         "title": "【バイオハザード HDリマスター】初見で初代バイオやる クリス編 # 3【 #奏手イヅル 】",
         "video_id": "PbEA2wOOnVc"
     },
@@ -65,18 +65,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/URW-KROS-uk/maxresdefault_live.jpg",
-        "timestamp": 1775824200,
+        "timestamp": null,
         "title": "【#ff14  】4.2版本走起~~~我們先乖乖跑主線!!【#ゲーム個人勢 / Fingla】",
         "video_id": "URW-KROS-uk"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/URW-KROS-uk/maxresdefault_live.jpg",
-        "timestamp": 1775824200,
+        "timestamp": null,
         "title": "【#ff14  】4.2版本走起~~~我們先乖乖跑主線!!【#ゲーム個人勢 / Fingla】",
         "video_id": "URW-KROS-uk"
     },
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WDHGPgeGL2E/maxresdefault_live.jpg",
-        "timestamp": 1775822400,
+        "timestamp": null,
         "title": "【雑談】気圧なんかに負けるわけなくない？- ハニカムステーション！-195【HACHI 】",
         "video_id": "WDHGPgeGL2E"
     },
@@ -151,5 +151,23 @@
         "timestamp": 1775826058,
         "title": "【ドラゴンクエストVII Reimagined】#3 | 完全初見！大海原を横断だ！※ネタバレあり【緋月ゆい/ネオポルテ】",
         "video_id": "7w9zkKsOq6k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ia3bCIDgQcM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Overwatch】hmmm but at night",
+        "video_id": "Ia3bCIDgQcM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5Wk-v6ZDF-M/maxresdefault_live.jpg",
+        "timestamp": 1775826000,
+        "title": "【雑談】話すこといっぱい💡holoXアルバム発売中だ～い♬【風真いろは/ホロライブ】",
+        "video_id": "5Wk-v6ZDF-M"
     }
 ]
