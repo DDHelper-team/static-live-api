@@ -74,10 +74,28 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BY_qECh81HY/maxresdefault_live.jpg",
-        "timestamp": 1775811600,
+        "timestamp": null,
         "title": "【ストリートファイター6】雑談してからJPをマスターまで上げたい男【アルランディス/ホロスターズ】",
         "video_id": "BY_qECh81HY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/URW-KROS-uk/maxresdefault_live.jpg",
+        "timestamp": 1775824200,
+        "title": "【#ff14  】4.2版本走起~~~我們先乖乖跑主線!!【#ゲーム個人勢 / Fingla】",
+        "video_id": "URW-KROS-uk"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/URW-KROS-uk/maxresdefault_live.jpg",
+        "timestamp": 1775824200,
+        "title": "【#ff14  】4.2版本走起~~~我們先乖乖跑主線!!【#ゲーム個人勢 / Fingla】",
+        "video_id": "URW-KROS-uk"
     }
 ]
