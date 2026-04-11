@@ -137,27 +137,36 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/esgOMgyP5JA/maxresdefault_live.jpg",
-        "timestamp": 1775894400,
+        "timestamp": null,
         "title": "【Slay the Spire 2】アセンションをどんどん進めていくスレスパ【白上フブキ/ホロライブ】",
         "video_id": "esgOMgyP5JA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XoIevIi0B54/maxresdefault_live.jpg",
+        "timestamp": 1775898000,
+        "title": "【Doom or Zenith 】ドズル社さんのイベントに参加!! キリトかなーやっぱりww自分は思わないんだけど周りにキリトに似てるってよく言われるwwwこないだDQNに絡まれた時も気が/ アステル",
+        "video_id": "XoIevIi0B54"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "platform": "youtube",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MMe1b92KBEA/maxresdefault_live.jpg",
-        "timestamp": 1775892600,
+        "timestamp": null,
         "title": "《零:紅蝶 REMAKE 》二之刻 雙胞胎巫女",
         "video_id": "MMe1b92KBEA"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MMe1b92KBEA/maxresdefault_live.jpg",
-        "timestamp": 1775892600,
+        "timestamp": null,
         "title": "《零:紅蝶 REMAKE 》二之刻 雙胞胎巫女",
         "video_id": "MMe1b92KBEA"
     }
