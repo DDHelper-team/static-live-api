@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/G9kMF-5nwvs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PHASMOPHOBIA COLLAB with MATSURI, FUBUKI, RIONA】ドアを守るのはモココだ…！こ、怖くないよ…！！🐾【MOCOCO視点】",
-        "video_id": "G9kMF-5nwvs"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/N1TbGrI6YeA/maxresdefault_live.jpg",
+        "timestamp": 1775955600,
+        "title": "【THE MORTUARY ASSISTANT COLLAB with GIGI】i didn\u0026#39;t sign up for this and i am not ready 🐾【FUWAMOCO】",
+        "video_id": "N1TbGrI6YeA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -92,11 +92,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9TwHXM60FYI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Phasmophobia】果たしてちゃんと調査できるのか不安な ＃ホロ幽霊調査【白上フブキ/ホロライブ】",
-        "video_id": "9TwHXM60FYI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xojcGUMZNZ4/maxresdefault_live.jpg",
+        "timestamp": 1775916000,
+        "title": "【Slay the Spire 2】アセンションをどんどん進めていくスレスパ【白上フブキ/ホロライブ】",
+        "video_id": "xojcGUMZNZ4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -106,24 +106,6 @@
         "timestamp": null,
         "title": "【Doom or Zenith 】ドズル社さんのイベントに参加!! キリトかなーやっぱりww自分は思わないんだけど周りにキリトに似てるってよく言われるwwwこないだDQNに絡まれた時も気が/ アステル",
         "video_id": "XoIevIi0B54"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2NQPz7yiQ7c/maxresdefault_live.jpg",
-        "timestamp": 1775912400,
-        "title": "《零:紅蝶 REMAKE 》五之刻 贄",
-        "video_id": "2NQPz7yiQ7c"
-    },
-    {
-        "channel": "https://www.youtube.com/@kamonegi1230",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2NQPz7yiQ7c/maxresdefault_live.jpg",
-        "timestamp": 1775912400,
-        "title": "《零:紅蝶 REMAKE 》五之刻 贄",
-        "video_id": "2NQPz7yiQ7c"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -180,15 +162,6 @@
         "video_id": "SquI24n-pys"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5M10Z3xv4NQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Phasmophobia】夏色吹雪見守り隊！さぁ、モコリオナ行っておいで！【ホロライブ/夏色まつり】",
-        "video_id": "5M10Z3xv4NQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "LIVE",
@@ -205,5 +178,59 @@
         "timestamp": 1775916000,
         "title": "【歌雑談】いっしょにまったり過ごす深夜だね【 ホロライブ / 大神ミオ 】",
         "video_id": "6nlBhzixYvo"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2NQPz7yiQ7c/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "《零:紅蝶 REMAKE 》五之刻 贄",
+        "video_id": "2NQPz7yiQ7c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2NQPz7yiQ7c/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "《零:紅蝶 REMAKE 》五之刻 贄",
+        "video_id": "2NQPz7yiQ7c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uO-7uCg6rWE/maxresdefault_live.jpg",
+        "timestamp": 1775916900,
+        "title": "【KU100/ASMR】ゼロ距離密着囁き♡くすぐったい耳元囁きと甘々はむはむで眠くなる💤寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
+        "video_id": "uO-7uCg6rWE"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uO-7uCg6rWE/maxresdefault_live.jpg",
+        "timestamp": 1775916900,
+        "title": "【KU100/ASMR】ゼロ距離密着囁き♡くすぐったい耳元囁きと甘々はむはむで眠くなる💤寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
+        "video_id": "uO-7uCg6rWE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HPHgn6xLSPU/maxresdefault_live.jpg",
+        "timestamp": 1775916000,
+        "title": "#11【Ace Attorney Investigations 2】Things are not o-KAY (SPOILERS!)【Pavolia Reine/holoID gen 2】",
+        "video_id": "HPHgn6xLSPU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L5IuqRjvzmQ/maxresdefault_live.jpg",
+        "timestamp": 1775952000,
+        "title": "【BAYONETTA】oi blimey finishin this game today (part 2) #calliolive",
+        "video_id": "L5IuqRjvzmQ"
     }
 ]
