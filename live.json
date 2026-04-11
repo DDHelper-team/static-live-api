@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OrFO2ZCc1rU/maxresdefault_live.jpg",
-        "timestamp": 1775880000,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 4日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "OrFO2ZCc1rU"
     },
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kt1HSEcVNp0/maxresdefault_live.jpg",
-        "timestamp": 1775880000,
+        "timestamp": null,
         "title": "【ド★初見】スーパーマリオギャラクシー２遊ぶ！",
         "video_id": "kt1HSEcVNp0"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BhjyNAp0plo/maxresdefault_live.jpg",
-        "timestamp": 1775880000,
+        "timestamp": null,
         "title": "【#5】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
         "video_id": "BhjyNAp0plo"
     },
@@ -92,18 +92,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wLvnQfpBeUQ/maxresdefault_live.jpg",
-        "timestamp": 1775880024,
+        "timestamp": null,
         "title": "【原神】# 102 | 完全初見！リンネアってどんな子🕊️【緋月ゆい/ネオポルテ】",
         "video_id": "wLvnQfpBeUQ"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wLvnQfpBeUQ/maxresdefault_live.jpg",
-        "timestamp": 1775880024,
+        "timestamp": null,
         "title": "【原神】# 102 | 完全初見！リンネアってどんな子🕊️【緋月ゆい/ネオポルテ】",
         "video_id": "wLvnQfpBeUQ"
     },
@@ -142,5 +142,14 @@
         "timestamp": 1775961000,
         "title": "〖 APEX 〗私はいつだってソロ",
         "video_id": "i94lC8wkNfY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eKHYXRIIkXM/maxresdefault_live.jpg",
+        "timestamp": 1775896200,
+        "title": "【HANEHOLO!】 PART 3:  ALMOST AT PEAK!! LAST SPURT!! 【Kureiji Ollie】",
+        "video_id": "eKHYXRIIkXM"
     }
 ]
