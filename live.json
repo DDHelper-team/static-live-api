@@ -110,11 +110,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/esgOMgyP5JA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Slay the Spire 2】アセンションをどんどん進めていくスレスパ【白上フブキ/ホロライブ】",
-        "video_id": "esgOMgyP5JA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9TwHXM60FYI/maxresdefault_live.jpg",
+        "timestamp": 1775908800,
+        "title": "【Phasmophobia】果たしてちゃんと調査できるのか不安な ＃ホロ幽霊調査【白上フブキ/ホロライブ】",
+        "video_id": "9TwHXM60FYI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -151,5 +151,14 @@
         "timestamp": 1775923200,
         "title": "【MHWilds】Anniversary in the Gathering Hub!【 iofi / hololiveID 】",
         "video_id": "d9O7_H9Ipu8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3-C2TtWVI-k/maxresdefault_live.jpg",
+        "timestamp": 1775962800,
+        "title": "#1【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "3-C2TtWVI-k"
     }
 ]
