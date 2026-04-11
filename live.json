@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ypb_44BHY9w/maxresdefault_live.jpg",
-        "timestamp": 1775905200,
+        "timestamp": null,
         "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#01【 猫又おかゆ/ホロライブ 】",
         "video_id": "Ypb_44BHY9w"
     },
@@ -128,20 +128,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MMe1b92KBEA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "《零:紅蝶 REMAKE 》二之刻 雙胞胎巫女",
-        "video_id": "MMe1b92KBEA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2NQPz7yiQ7c/maxresdefault_live.jpg",
+        "timestamp": 1775912400,
+        "title": "《零:紅蝶 REMAKE 》五之刻 贄",
+        "video_id": "2NQPz7yiQ7c"
     },
     {
         "channel": "https://www.youtube.com/@kamonegi1230",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MMe1b92KBEA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "《零:紅蝶 REMAKE 》二之刻 雙胞胎巫女",
-        "video_id": "MMe1b92KBEA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2NQPz7yiQ7c/maxresdefault_live.jpg",
+        "timestamp": 1775912400,
+        "title": "《零:紅蝶 REMAKE 》五之刻 贄",
+        "video_id": "2NQPz7yiQ7c"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -160,5 +160,23 @@
         "timestamp": 1775962800,
         "title": "#1【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "3-C2TtWVI-k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sa9Y-9rJdt4/maxresdefault_live.jpg",
+        "timestamp": 1775912400,
+        "title": "＃５【ぽこ あ ポケモン】3つ目の街~！！【轟はじめ/ReGLOSS】",
+        "video_id": "sa9Y-9rJdt4"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sa9Y-9rJdt4/maxresdefault_live.jpg",
+        "timestamp": 1775912400,
+        "title": "＃５【ぽこ あ ポケモン】3つ目の街~！！【轟はじめ/ReGLOSS】",
+        "video_id": "sa9Y-9rJdt4"
     }
 ]
