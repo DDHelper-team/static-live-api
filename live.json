@@ -108,15 +108,6 @@
         "video_id": "i94lC8wkNfY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eKHYXRIIkXM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HANEHOLO!】 PART 3:  ALMOST AT PEAK!! LAST SPURT!! 【Kureiji Ollie】",
-        "video_id": "eKHYXRIIkXM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "LIVE",
@@ -151,5 +142,14 @@
         "timestamp": null,
         "title": "《零:紅蝶 REMAKE 》二之刻 雙胞胎巫女",
         "video_id": "MMe1b92KBEA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d9O7_H9Ipu8/maxresdefault_live.jpg",
+        "timestamp": 1775923200,
+        "title": "【MHWilds】Anniversary in the Gathering Hub!【 iofi / hololiveID 】",
+        "video_id": "d9O7_H9Ipu8"
     }
 ]
