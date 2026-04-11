@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ypb_44BHY9w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#01【 猫又おかゆ/ホロライブ 】",
-        "video_id": "Ypb_44BHY9w"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WGGg2lBCmMQ/maxresdefault_live.jpg",
+        "timestamp": 1775991600,
+        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#02【 猫又おかゆ/ホロライブ 】",
+        "video_id": "WGGg2lBCmMQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -30,10 +30,10 @@
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kt1HSEcVNp0/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/wV1Wp7BRITE/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【ド★初見】スーパーマリオギャラクシー２遊ぶ！",
-        "video_id": "kt1HSEcVNp0"
+        "title": "【ド★初見】スーパーマリオギャラクシー２遊ぶ！２",
+        "video_id": "wV1Wp7BRITE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
@@ -198,24 +198,6 @@
         "video_id": "2NQPz7yiQ7c"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uO-7uCg6rWE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【KU100/ASMR】ゼロ距離密着囁き♡くすぐったい耳元囁きと甘々はむはむで眠くなる💤寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
-        "video_id": "uO-7uCg6rWE"
-    },
-    {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uO-7uCg6rWE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【KU100/ASMR】ゼロ距離密着囁き♡くすぐったい耳元囁きと甘々はむはむで眠くなる💤寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
-        "video_id": "uO-7uCg6rWE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -250,5 +232,23 @@
         "timestamp": 1775966400,
         "title": "【仮サムネ ポケモンチャンピオンズ】ポケモンパンから出たポケモンだけでマスターを目指せるのか！？【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "5ix379uODQ4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n9vcAdxBLj8/maxresdefault_live.jpg",
+        "timestamp": 1775952000,
+        "title": "【HALO 2】We finish today【Dokibird】",
+        "video_id": "n9vcAdxBLj8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n9vcAdxBLj8/maxresdefault_live.jpg",
+        "timestamp": 1775952000,
+        "title": "【HALO 2】We finish today【Dokibird】",
+        "video_id": "n9vcAdxBLj8"
     }
 ]
