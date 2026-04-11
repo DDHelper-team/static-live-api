@@ -27,15 +27,6 @@
         "video_id": "G9kMF-5nwvs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MMsazeH_INY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DARK SOULS: REMASTERED】level one challenge! oh boy!! #calliolive",
-        "video_id": "MMsazeH_INY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "LIVE",
@@ -92,20 +83,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wLvnQfpBeUQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【原神】# 102 | 完全初見！リンネアってどんな子🕊️【緋月ゆい/ネオポルテ】",
-        "video_id": "wLvnQfpBeUQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LMPx_Imkkt0/maxresdefault_live.jpg",
+        "timestamp": 1775912446,
+        "title": "【ドラゴンクエストVII Reimagined】#3 | 完全初見！大海原を横断し、新たな島へ！※ネタバレあり【緋月ゆい/ネオポルテ】",
+        "video_id": "LMPx_Imkkt0"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wLvnQfpBeUQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【原神】# 102 | 完全初見！リンネアってどんな子🕊️【緋月ゆい/ネオポルテ】",
-        "video_id": "wLvnQfpBeUQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LMPx_Imkkt0/maxresdefault_live.jpg",
+        "timestamp": 1775912446,
+        "title": "【ドラゴンクエストVII Reimagined】#3 | 完全初見！大海原を横断し、新たな島へ！※ネタバレあり【緋月ゆい/ネオポルテ】",
+        "video_id": "LMPx_Imkkt0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -142,5 +133,32 @@
         "timestamp": 1775896200,
         "title": "【HANEHOLO!】 PART 3:  ALMOST AT PEAK!! LAST SPURT!! 【Kureiji Ollie】",
         "video_id": "eKHYXRIIkXM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/esgOMgyP5JA/maxresdefault_live.jpg",
+        "timestamp": 1775894400,
+        "title": "【Slay the Spire 2】アセンションをどんどん進めていくスレスパ【白上フブキ/ホロライブ】",
+        "video_id": "esgOMgyP5JA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCJ7K7yZuBPa9-5qQt2vcEQQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MMe1b92KBEA/maxresdefault_live.jpg",
+        "timestamp": 1775892600,
+        "title": "《零:紅蝶 REMAKE 》二之刻 雙胞胎巫女",
+        "video_id": "MMe1b92KBEA"
+    },
+    {
+        "channel": "https://www.youtube.com/@kamonegi1230",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MMe1b92KBEA/maxresdefault_live.jpg",
+        "timestamp": 1775892600,
+        "title": "《零:紅蝶 REMAKE 》二之刻 雙胞胎巫女",
+        "video_id": "MMe1b92KBEA"
     }
 ]
