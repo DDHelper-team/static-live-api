@@ -56,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BhjyNAp0plo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#5】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-        "video_id": "BhjyNAp0plo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/S5_GkFjdc54/maxresdefault_live.jpg",
+        "timestamp": 1775966400,
+        "title": "【#6】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
+        "video_id": "S5_GkFjdc54"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XoIevIi0B54/maxresdefault_live.jpg",
-        "timestamp": 1775898000,
+        "timestamp": null,
         "title": "【Doom or Zenith 】ドズル社さんのイベントに参加!! キリトかなーやっぱりww自分は思わないんだけど周りにキリトに似てるってよく言われるwwwこないだDQNに絡まれた時も気が/ アステル",
         "video_id": "XoIevIi0B54"
     },
