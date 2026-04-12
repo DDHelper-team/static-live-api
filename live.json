@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/i94lC8wkNfY/maxresdefault_live.jpg",
-        "timestamp": 1775970000,
+        "timestamp": null,
         "title": "〖 APEX 〗私はいつだってソロ",
         "video_id": "i94lC8wkNfY"
     },
@@ -126,15 +126,6 @@
         "video_id": "mU7-VTpX9Ds"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6DH3wgmRfi0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HYTALE - EN\u0026amp;ID Server】  Pt.2: COLLECTING MATERIALS FOR THE ULTIMATE DOOR!! 【Kureiji Ollie】",
-        "video_id": "6DH3wgmRfi0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
         "status": "LIVE",
@@ -178,5 +169,32 @@
         "timestamp": null,
         "title": "【VALORANT】ふるぴゃ / アステル じょんそん そらる 山本涼介 杏戸ゆげ",
         "video_id": "3qxmtb_Zx8s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ttm35KEkKA4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【桜花賞】競馬配信🔰桜咲く、春の主役は誰だ。【尾丸ポルカ/ホロライブ】",
+        "video_id": "ttm35KEkKA4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c8Fs3xzu78Q/maxresdefault_live.jpg",
+        "timestamp": 1775984400,
+        "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 １ 】",
+        "video_id": "c8Fs3xzu78Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5fTYslbIacQ/maxresdefault_live.jpg",
+        "timestamp": 1775975400,
+        "title": "【FINAL FANTASY XIV】ガンブレララ狐と黄金のレガシー patch7.4　※ネタバレあり※ 【ホロライブ/白上フブキ】",
+        "video_id": "5fTYslbIacQ"
     }
 ]
