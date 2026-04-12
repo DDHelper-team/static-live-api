@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WGGg2lBCmMQ/maxresdefault_live.jpg",
-        "timestamp": 1775991600,
+        "timestamp": null,
         "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#02【 猫又おかゆ/ホロライブ 】",
         "video_id": "WGGg2lBCmMQ"
     },
@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SquI24n-pys/maxresdefault_live.jpg",
-        "timestamp": 1775993400,
+        "timestamp": null,
         "title": "塔羅占卜#132｜占占🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "SquI24n-pys"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SquI24n-pys/maxresdefault_live.jpg",
-        "timestamp": 1775993400,
+        "timestamp": null,
         "title": "塔羅占卜#132｜占占🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "SquI24n-pys"
     },
@@ -110,11 +110,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/c8Fs3xzu78Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 １ 】",
-        "video_id": "c8Fs3xzu78Q"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-jAUVeIeIL4/maxresdefault_live.jpg",
+        "timestamp": 1776033000,
+        "title": "【#朝ミオ 】月曜日だよーん！おはみぉーん！",
+        "video_id": "-jAUVeIeIL4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -151,5 +151,23 @@
         "timestamp": 1776056400,
         "title": "【PowerWash Simulator 2】本日もチル部で掃除をさせて頂く【夕刻ロベル/ホロスターズ】",
         "video_id": "r88I3QEh1yU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/w0i12v7g5Ek/maxresdefault_live.jpg",
+        "timestamp": 1775998858,
+        "title": "【ドラゴンクエストVII Reimagined】#4 | 完全初見！色々あって、新メンバー募集中。※ネタバレあり【緋月ゆい/ネオポルテ】",
+        "video_id": "w0i12v7g5Ek"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/w0i12v7g5Ek/maxresdefault_live.jpg",
+        "timestamp": 1775998858,
+        "title": "【ドラゴンクエストVII Reimagined】#4 | 完全初見！色々あって、新メンバー募集中。※ネタバレあり【緋月ゆい/ネオポルテ】",
+        "video_id": "w0i12v7g5Ek"
     }
 ]
