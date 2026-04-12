@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WGGg2lBCmMQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#02【 猫又おかゆ/ホロライブ 】",
-        "video_id": "WGGg2lBCmMQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -110,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gMvNfjXjaXs/maxresdefault_live.jpg",
-        "timestamp": 1776006000,
+        "timestamp": null,
         "title": "【Slay The Spire 2】With zetamin, nothing is impossible",
         "video_id": "gMvNfjXjaXs"
     },
@@ -124,14 +115,5 @@
         "timestamp": null,
         "title": "【STREET FIGHTER6】アルマス期限まであと18日　リリーMR1684~【岸堂天真/ホロスターズ】",
         "video_id": "bBaB4nohrRM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ES2iJd6NLUY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【晩酌】ひさびさにのむぞ～いッ🍻【ホロライブ/夏色まつり】",
-        "video_id": "ES2iJd6NLUY"
     }
 ]
