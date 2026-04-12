@@ -9,20 +9,11 @@
         "video_id": "7ElI5lI2SQ4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/A9l14wy7Pq8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #DoZ / Minecraft 】 #2 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
-        "video_id": "A9l14wy7Pq8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OcULALBAXRA/maxresdefault_live.jpg",
-        "timestamp": 1776016800,
+        "timestamp": null,
         "title": "【ARKNIGHTS: ENDFIELD】ROSSI story with ROSSI VOICE ACTRESS Giada Sabellico as my guest! #kfp #キアライブ",
         "video_id": "OcULALBAXRA"
     },
@@ -34,15 +25,6 @@
         "timestamp": null,
         "title": "【バイオハザード HDリマスター】初見で初代バイオやる ジル編 # 2【 #奏手イヅル 】",
         "video_id": "LNsRvV7FmWo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nAzmJK0u6K4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Doom or Zenith 】俺の命は君のものだ、アスナ/ アステル",
-        "video_id": "nAzmJK0u6K4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -79,5 +61,23 @@
         "timestamp": 1776032133,
         "title": "【雑談】おはよ！健康を意識したいとは思ってる。【緋月ゆい/ネオポルテ】",
         "video_id": "UPPf5iVDvbk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3jEMtV7beeQ/maxresdefault_live.jpg",
+        "timestamp": 1776056400,
+        "title": "【ストリートファイター6】アルマスに向けて久々に村長が教えてくれる配信【アルランディス/ホロスターズ】",
+        "video_id": "3jEMtV7beeQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DgmA8LOpfgI/maxresdefault_live.jpg",
+        "timestamp": 1776034800,
+        "title": "【Watchalong | LCS】SEN vs C9 WATCH PARTY #LCSCostream",
+        "video_id": "DgmA8LOpfgI"
     }
 ]
