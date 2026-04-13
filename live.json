@@ -27,15 +27,6 @@
         "video_id": "Gbl6OVAapkw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ES_fKhEpN6c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Doom or Zenith 】心… 魂だけが、唯一確かに存在するものです。/ アステル",
-        "video_id": "ES_fKhEpN6c"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -70,5 +61,14 @@
         "timestamp": 1776121200,
         "title": "【Arknights: Endfield】I WANT TO MEET A CUTE WOLF GIRL",
         "video_id": "AX4n6gchVrE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4E9t1ywRVOI/maxresdefault_live.jpg",
+        "timestamp": 1776155400,
+        "title": "【 #DoZ / Minecraft 】 #4 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
+        "video_id": "4E9t1ywRVOI"
     }
 ]
