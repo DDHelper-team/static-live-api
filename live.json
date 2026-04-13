@@ -9,24 +9,6 @@
         "video_id": "7ElI5lI2SQ4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OcULALBAXRA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARKNIGHTS: ENDFIELD】ROSSI story with ROSSI VOICE ACTRESS Giada Sabellico as my guest! #kfp #キアライブ",
-        "video_id": "OcULALBAXRA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-jAUVeIeIL4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#朝ミオ 】月曜日だよーん！おはみぉーん！",
-        "video_id": "-jAUVeIeIL4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -70,5 +52,23 @@
         "timestamp": null,
         "title": "【Watchalong | LCS】SEN vs C9 WATCH PARTY #LCSCostream",
         "video_id": "DgmA8LOpfgI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/m_0AWuZVCbM/maxresdefault_live.jpg",
+        "timestamp": 1776110400,
+        "title": "We Be Cookin\u0026#39; Today 【L.A. Noire】",
+        "video_id": "m_0AWuZVCbM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Pi30h5Cp0Hc/maxresdefault_live.jpg",
+        "timestamp": 1776124800,
+        "title": "【DARK SOULS: REMASTERED】bye bye, smornstein and bough #calliolive",
+        "video_id": "Pi30h5Cp0Hc"
     }
 ]
