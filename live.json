@@ -65,10 +65,28 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pky13r8hWkY/maxresdefault_live.jpg",
-        "timestamp": 1776067200,
+        "timestamp": null,
         "title": "【ORDER NOW】NOOOOOOOOOOOOOOOOOOOOOOOOO DON\u0026#39;T GO AWAYYYYYYYYYYYYYYYYYYYY【hololive ID | Anya Melfissa】",
         "video_id": "pky13r8hWkY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a0PM2Wg9Ebo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【STREET FIGHTER6】すこしトレモしてきました。　リリー　MR1600~【岸堂天真/ホロスターズ】",
+        "video_id": "a0PM2Wg9Ebo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ES_fKhEpN6c/maxresdefault_live.jpg",
+        "timestamp": 1776069900,
+        "title": "【Doom or Zenith 】心… 魂だけが、唯一確かに存在するものです。/ アステル",
+        "video_id": "ES_fKhEpN6c"
     }
 ]
