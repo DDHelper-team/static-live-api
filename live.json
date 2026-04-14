@@ -11,18 +11,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/agw64puy5w4/maxresdefault_live.jpg",
-        "timestamp": 1776160800,
+        "timestamp": null,
         "title": "【ポケモンチャンピオンズ】ポケモンパンから出たポケモンだけでランクマッチどこまでいけるんですか！？DAY2【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "agw64puy5w4"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/agw64puy5w4/maxresdefault_live.jpg",
-        "timestamp": 1776160800,
+        "timestamp": null,
         "title": "【ポケモンチャンピオンズ】ポケモンパンから出たポケモンだけでランクマッチどこまでいけるんですか！？DAY2【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "agw64puy5w4"
     },
@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1S7O3vh1oTU/maxresdefault_live.jpg",
-        "timestamp": 1776164400,
+        "timestamp": null,
         "title": "【 マリオテニス 】新シーズン来ました🎾✦【 猫又おかゆ/ホロライブ 】",
         "video_id": "1S7O3vh1oTU"
     },
@@ -61,15 +61,6 @@
         "timestamp": 1776196800,
         "title": "BUT HAVE YOU PLAYED THE ORIGINAL POKOPIA PROTOTYPE? 【Pokopia】",
         "video_id": "1SIgRzyzHI4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UQoNq3KIwbQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 ２ 】",
-        "video_id": "UQoNq3KIwbQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
@@ -178,5 +169,14 @@
         "timestamp": null,
         "title": "【STREET FIGHTER6】今日でアルマスに到達します。リリーMR1700~ 【岸堂天真/ホロスターズ】",
         "video_id": "4yfzTimTmxs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8EOR_-Y1GtA/maxresdefault_live.jpg",
+        "timestamp": 1776171600,
+        "title": "【雑談】多分こよりカレーで満足してるであろうラミィの夜雑談【雪花ラミィ /ホロライブ】",
+        "video_id": "8EOR_-Y1GtA"
     }
 ]
