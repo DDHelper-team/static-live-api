@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MGkbUFS4VDw/maxresdefault_live.jpg",
-        "timestamp": 1776139200,
+        "timestamp": null,
         "title": "【Pokémon Champions】お試しポケモンチャンピオンズ【夕刻ロベル/ホロスターズ】",
         "video_id": "MGkbUFS4VDw"
     },
@@ -97,5 +97,23 @@
         "timestamp": 1776157200,
         "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 ２ 】",
         "video_id": "UQoNq3KIwbQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xlbF79T-EYc/maxresdefault_live.jpg",
+        "timestamp": 1776168000,
+        "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+        "video_id": "xlbF79T-EYc"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xlbF79T-EYc/maxresdefault_live.jpg",
+        "timestamp": 1776168000,
+        "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+        "video_id": "xlbF79T-EYc"
     }
 ]
