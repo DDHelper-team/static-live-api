@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/UQoNq3KIwbQ/maxresdefault_live.jpg",
-        "timestamp": 1776157200,
+        "timestamp": null,
         "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 ２ 】",
         "video_id": "UQoNq3KIwbQ"
     },
@@ -142,5 +142,41 @@
         "timestamp": 1776169800,
         "title": "【#ff14  】終於5.0展開！聽說很emo，園長來看看到底有多emo【#ゲーム個人勢 / Fingla】",
         "video_id": "JmproyySE8U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PFbIv0J7eCQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Doom or Zenith 】強さは、結果じゃなく…そこを目指す過程の中にこそ / アステル",
+        "video_id": "PFbIv0J7eCQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4E9t1ywRVOI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 #DoZ / Minecraft 】 #4 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
+        "video_id": "4E9t1ywRVOI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kNX7vh93XS4/maxresdefault_live.jpg",
+        "timestamp": 1776168000,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "kNX7vh93XS4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4yfzTimTmxs/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【STREET FIGHTER6】今日でアルマスに到達します。リリーMR1700~ 【岸堂天真/ホロスターズ】",
+        "video_id": "4yfzTimTmxs"
     }
 ]
