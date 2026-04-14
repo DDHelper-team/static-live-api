@@ -1,28 +1,19 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/m_0AWuZVCbM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "We Be Cookin\u0026#39; Today 【L.A. Noire】",
-        "video_id": "m_0AWuZVCbM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Pi30h5Cp0Hc/maxresdefault_live.jpg",
-        "timestamp": 1776124800,
-        "title": "【DARK SOULS: REMASTERED】bye bye, smornstein and bough #calliolive",
+        "timestamp": null,
+        "title": "【DARK SOULS: REMASTERED】bye bye, smornstein and bough (level one challenge) #calliolive",
         "video_id": "Pi30h5Cp0Hc"
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Gbl6OVAapkw/maxresdefault_live.jpg",
-        "timestamp": 1776128400,
+        "timestamp": null,
         "title": "【Hytale】HowlingRager36\u0026#39;s Portal Hole Renovation #holohytale【hololive ID 2nd Gen | Anya Melfissa】",
         "video_id": "Gbl6OVAapkw"
     },
@@ -88,5 +79,23 @@
         "timestamp": 1776182400,
         "title": "【HOLO EN/ID HYTALE】wawa temple hunt\u0026amp;build #kfp",
         "video_id": "1WlCbLozXNE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1SIgRzyzHI4/maxresdefault_live.jpg",
+        "timestamp": 1776196800,
+        "title": "BUT HAVE YOU PLAYED THE ORIGINAL POKOPIA PROTOTYPE? 【Pokopia】",
+        "video_id": "1SIgRzyzHI4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UQoNq3KIwbQ/maxresdefault_live.jpg",
+        "timestamp": 1776157200,
+        "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 ２ 】",
+        "video_id": "UQoNq3KIwbQ"
     }
 ]
