@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1SIgRzyzHI4/maxresdefault_live.jpg",
-        "timestamp": 1776196800,
+        "timestamp": null,
         "title": "BUT HAVE YOU PLAYED THE ORIGINAL POKOPIA PROTOTYPE? 【Pokopia】",
         "video_id": "1SIgRzyzHI4"
     },
@@ -97,5 +97,23 @@
         "timestamp": 1776241800,
         "title": "【 #DoZ / Minecraft 】 #5 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
         "video_id": "kJ2yceyS1nc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gAwsvwiWMBI/maxresdefault_live.jpg",
+        "timestamp": 1776218400,
+        "title": "【HANG OUT】Stuck in April work hell【Dokibird】",
+        "video_id": "gAwsvwiWMBI"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gAwsvwiWMBI/maxresdefault_live.jpg",
+        "timestamp": 1776218400,
+        "title": "【HANG OUT】Stuck in April work hell【Dokibird】",
+        "video_id": "gAwsvwiWMBI"
     }
 ]
