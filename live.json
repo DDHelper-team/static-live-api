@@ -101,7 +101,7 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PkRqd5zzsDA/maxresdefault_live.jpg",
         "timestamp": null,
         "title": "【Leaf it Alone】落ち葉を拾ってお片付けして綺麗にする。【白上フブキ/ホロライブ】",
@@ -137,10 +137,46 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xxjg_LYZY30/maxresdefault_live.jpg",
-        "timestamp": 1776242700,
+        "timestamp": null,
         "title": "【Doom or Zenith 】遊☆戯☆王 運命のダイスロール!!/ アステル",
         "video_id": "xxjg_LYZY30"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BuhKF9B2DB8/maxresdefault_live.jpg",
+        "timestamp": 1776254400,
+        "title": "【Split Fiction】SENGGGGGGGGGGGGGGGG",
+        "video_id": "BuhKF9B2DB8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ro0cG1hLp1I/maxresdefault_live.jpg",
+        "timestamp": 1776256200,
+        "title": "【#ff14  】今天是不是要繼續emo第二彈...【#ゲーム個人勢 / Fingla】",
+        "video_id": "ro0cG1hLp1I"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ro0cG1hLp1I/maxresdefault_live.jpg",
+        "timestamp": 1776256200,
+        "title": "【#ff14  】今天是不是要繼續emo第二彈...【#ゲーム個人勢 / Fingla】",
+        "video_id": "ro0cG1hLp1I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BOcXQ7IlHE8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【東京スプリント】競馬配信🔰刹那で決まる、最速の一撃。【尾丸ポルカ/ホロライブ】",
+        "video_id": "BOcXQ7IlHE8"
     }
 ]
