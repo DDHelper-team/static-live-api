@@ -11,10 +11,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/D-SX0idodkQ/maxresdefault_live.jpg",
-        "timestamp": 1776250800,
-        "title": "【】トモコレ【ホロライブ/大空スバル】",
+        "timestamp": null,
+        "title": "【#生スバル】トモダチコレクションわくわく生活やるしゅばああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
         "video_id": "D-SX0idodkQ"
     },
     {
@@ -31,7 +31,7 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KjzhivMGKfY/maxresdefault_live.jpg",
-        "timestamp": 1776250800,
+        "timestamp": 1776254400,
         "title": "【 スーパーマリオブラザーズ2 】久しぶりにマリオやる～～～🍄✦#03【 猫又おかゆ/ホロライブ 】",
         "video_id": "KjzhivMGKfY"
     },
@@ -97,15 +97,6 @@
         "timestamp": 1776258000,
         "title": "【Heartopia】Kehidupan Baru Bersama Bestie【iofi / ホロライブID】",
         "video_id": "WHsP0V18V_c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PkRqd5zzsDA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Leaf it Alone】落ち葉を拾ってお片付けして綺麗にする。【白上フブキ/ホロライブ】",
-        "video_id": "PkRqd5zzsDA"
     },
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
@@ -178,5 +169,14 @@
         "timestamp": null,
         "title": "【東京スプリント】競馬配信🔰刹那で決まる、最速の一撃。【尾丸ポルカ/ホロライブ】",
         "video_id": "BOcXQ7IlHE8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eKeHmjlXCUw/maxresdefault_live.jpg",
+        "timestamp": 1776258000,
+        "title": "HEARTOPIA WITH #area15",
+        "video_id": "eKeHmjlXCUw"
     }
 ]
