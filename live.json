@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kJ2yceyS1nc/maxresdefault_live.jpg",
-        "timestamp": 1776241800,
+        "timestamp": null,
         "title": "【 #DoZ / Minecraft 】 #5 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
         "video_id": "kJ2yceyS1nc"
     },
@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PkRqd5zzsDA/maxresdefault_live.jpg",
-        "timestamp": 1776240000,
+        "timestamp": null,
         "title": "【Leaf it Alone】落ち葉を拾ってお片付けして綺麗にする。【白上フブキ/ホロライブ】",
         "video_id": "PkRqd5zzsDA"
     },
@@ -133,5 +133,14 @@
         "timestamp": 1776259800,
         "title": "【KuloNiku: Bowl Up!】SOOOOOO BAKSOOOOOOOOOOO BALLL MEATBALLLLL🍜",
         "video_id": "yludQ1TjKjY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xxjg_LYZY30/maxresdefault_live.jpg",
+        "timestamp": 1776242700,
+        "title": "【Doom or Zenith 】遊☆戯☆王 運命のダイスロール!!/ アステル",
+        "video_id": "xxjg_LYZY30"
     }
 ]
