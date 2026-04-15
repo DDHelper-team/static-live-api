@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iAOGywvMOzU/maxresdefault_live.jpg",
-        "timestamp": 1776222000,
+        "timestamp": null,
         "title": "【Crash Bandicoot N. Sane Trilogy】revisiting my first lov- g g g GAME SERIES!! #calliolive",
         "video_id": "iAOGywvMOzU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_C5x0uq-xOw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BIRTHDAY 2026】ROCK IN! The Game: Biboo saves the city (with you)  #ROCKINbirthday",
-        "video_id": "_C5x0uq-xOw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -29,18 +20,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VSnhscMUV0s/maxresdefault_live.jpg",
-        "timestamp": 1776225600,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 5日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "VSnhscMUV0s"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ffWzzxpWAqo/maxresdefault_live.jpg",
-        "timestamp": 1776225600,
+        "timestamp": null,
         "title": "〖 ZATSU 〗ましゅまろちょ～だいっ！",
         "video_id": "ffWzzxpWAqo"
     },
@@ -81,24 +72,6 @@
         "video_id": "kJ2yceyS1nc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gAwsvwiWMBI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HANG OUT】Stuck in April work hell【Dokibird】",
-        "video_id": "gAwsvwiWMBI"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gAwsvwiWMBI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HANG OUT】Stuck in April work hell【Dokibird】",
-        "video_id": "gAwsvwiWMBI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -133,5 +106,14 @@
         "timestamp": 1776272400,
         "title": "【MONGIL: STAR DIVE】Launch today! Tame the Unknown, Dive into Wonder! #kfp #pr #sponsored",
         "video_id": "OAqSqMozryU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WHsP0V18V_c/maxresdefault_live.jpg",
+        "timestamp": 1776258000,
+        "title": "【Heartopia】Kehidupan Baru Bersama Bestie【iofi / ホロライブID】",
+        "video_id": "WHsP0V18V_c"
     }
 ]
