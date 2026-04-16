@@ -72,15 +72,6 @@
         "video_id": "nPBZkannmKc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/H8fPb4UvNk0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 ３ 】",
-        "video_id": "H8fPb4UvNk0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,5 +160,41 @@
         "timestamp": 1776340800,
         "title": "【ストリートファイター6】アレックス祭に向けて修行【荒咬オウガ /ホロスターズ】",
         "video_id": "o03-Pj3skfM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4mc1Mu67aeA/maxresdefault_live.jpg",
+        "timestamp": 1776384000,
+        "title": "【SPLIT FICTION】good morning!",
+        "video_id": "4mc1Mu67aeA"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8ypf-MOiM2g/maxresdefault_live.jpg",
+        "timestamp": 1776384000,
+        "title": "【FINAL SENTENCE】I was T500 in Garfield typing pal【Dokibird】",
+        "video_id": "8ypf-MOiM2g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pHpqKlb38qA/maxresdefault_live.jpg",
+        "timestamp": 1776344400,
+        "title": "【I\u0026#39;m on Observation Duty】ANOMALI YANG BIKIN AKU GABISA TIDUR",
+        "video_id": "pHpqKlb38qA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8ypf-MOiM2g/maxresdefault_live.jpg",
+        "timestamp": 1776384000,
+        "title": "【FINAL SENTENCE】I was T500 in Garfield typing pal【Dokibird】",
+        "video_id": "8ypf-MOiM2g"
     }
 ]
