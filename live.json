@@ -2,20 +2,20 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2akfRBSNkhQ/maxresdefault_live.jpg",
-        "timestamp": 1776420000,
-        "title": "【プラグマタ】【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "【プラグマタ】カプコン完全新作『PRAGMATA』やってみる！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "2akfRBSNkhQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YB6hnai4Ims/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "〖 APEX 〗プラチナ行くぞ～♬",
-        "video_id": "YB6hnai4Ims"
+        "thumbnail": "https://i.ytimg.com/vi/wISANZCfmW8/maxresdefault_live.jpg",
+        "timestamp": 1776486600,
+        "title": "〖 ★VR★ Phasmophobia 〗プロ調査員いきます",
+        "video_id": "wISANZCfmW8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XYtar2cDerc/maxresdefault_live.jpg",
-        "timestamp": 1776416400,
+        "timestamp": null,
         "title": "【Tomodachi Life: Living the Dream】 Pt.2: ADDING MORE MIIs TO THE ISLAND!! 【Kureiji Ollie】",
         "video_id": "XYtar2cDerc"
     },
@@ -74,19 +74,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/j2xspEj4Rrc/maxresdefault_live.jpg",
-        "timestamp": 1776420000,
+        "timestamp": null,
         "title": "【アークナイツエンドフィールド 】ゾアンさん…メロいよな…試遊していくぅ！！！【白上フブキ/ホロライブ】",
         "video_id": "j2xspEj4Rrc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rTLpkkhj04k/maxresdefault_live.jpg",
-        "timestamp": 1776415500,
+        "timestamp": null,
         "title": "【Doom or Zenith 】レベル６０のスキルツリーは一旦なかった事にしましょう。/ アステル",
         "video_id": "rTLpkkhj04k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dAinhHDPB30/maxresdefault_live.jpg",
+        "timestamp": 1776474000,
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "dAinhHDPB30"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GZwxwyEj850/maxresdefault_live.jpg",
+        "timestamp": 1776427200,
+        "title": "ぽこあ",
+        "video_id": "GZwxwyEj850"
     }
 ]
