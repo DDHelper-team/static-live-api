@@ -20,20 +20,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VHzjNYM-3NY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Slay the Spire 2】初めてのA10を死ぬ気でプレイする…！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "VHzjNYM-3NY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9FGw9FTrltY/maxresdefault_live.jpg",
+        "timestamp": 1776596400,
+        "title": "【漢字でGO!】自認ジーニアスなので激ムズぐらい余裕です（成功経験なし）【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "9FGw9FTrltY"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VHzjNYM-3NY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Slay the Spire 2】初めてのA10を死ぬ気でプレイする…！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "VHzjNYM-3NY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9FGw9FTrltY/maxresdefault_live.jpg",
+        "timestamp": 1776596400,
+        "title": "【漢字でGO!】自認ジーニアスなので激ムズぐらい余裕です（成功経験なし）【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "9FGw9FTrltY"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
@@ -153,15 +153,6 @@
         "video_id": "ly2K94q3j5M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1U8o6xeOKy8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life: Living the Dream】 Pt.4: I NEED EVERYONE TO GET ALONG!! 【Kureiji Ollie】",
-        "video_id": "1U8o6xeOKy8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -232,5 +223,23 @@
         "timestamp": null,
         "title": "【モンギル：STAR DIVE】ダンジョンで育成素材集めながらゆるゆる～！【ホロライブ/夏色まつり】",
         "video_id": "vjlj-Xn3vmQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6_100nF3GOA/maxresdefault_live.jpg",
+        "timestamp": 1776571200,
+        "title": "春のまったり座談会！ゲストはデミカツのみんなだよ～！【尾丸ポルカxアイカツアカデミー！】",
+        "video_id": "6_100nF3GOA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jUz6PlfxdGQ/maxresdefault_live.jpg",
+        "timestamp": 1776553200,
+        "title": "【Pragmata】I\u0026#39;ve had Diana for 5 minutes but if any happens to her...  #pragmata",
+        "video_id": "jUz6PlfxdGQ"
     }
 ]
