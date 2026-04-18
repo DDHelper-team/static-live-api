@@ -101,10 +101,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jUz6PlfxdGQ/maxresdefault_live.jpg",
-        "timestamp": 1776553200,
-        "title": "【Pragmata】I\u0026#39;ve had Diana for 5 minutes but if any happens to her...  #pragmata",
+        "timestamp": null,
+        "title": "【PRAGMATA】I\u0026#39;ve had Diana for 5 minutes but if anything happens to her...  #pragmata #sponsored",
         "video_id": "jUz6PlfxdGQ"
     },
     {
@@ -151,5 +151,14 @@
         "timestamp": 1776589200,
         "title": "【Doom or Zenith 】塔の覇者 / アステル",
         "video_id": "d0lIHc-g-Uo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bUfgO6X00OE/maxresdefault_live.jpg",
+        "timestamp": 1776603600,
+        "title": "【HOLO EN/ID HYTALE】forcing people to play hytale part 2 #kfp",
+        "video_id": "bUfgO6X00OE"
     }
 ]
