@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tSfZ22LeXqc/maxresdefault_live.jpg",
-        "timestamp": 1776492000,
+        "timestamp": null,
         "title": "折角だから妄想でバニーガーデンに行こう！【夕刻ロベル/ホロスターズ】",
         "video_id": "tSfZ22LeXqc"
     },
@@ -146,19 +146,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RCK76fO55Os/maxresdefault_live.jpg",
-        "timestamp": 1776492050,
+        "timestamp": null,
         "title": "【競馬】JGⅠ🐴中山グランドJ2026当てよう！【緋月ゆい/ネオポルテ】",
         "video_id": "RCK76fO55Os"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RCK76fO55Os/maxresdefault_live.jpg",
-        "timestamp": 1776492050,
+        "timestamp": null,
         "title": "【競馬】JGⅠ🐴中山グランドJ2026当てよう！【緋月ゆい/ネオポルテ】",
         "video_id": "RCK76fO55Os"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v0a5bF824t0/maxresdefault_live.jpg",
+        "timestamp": 1776501000,
+        "title": "【 #DoZ / Minecraft 】 #8 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
+        "video_id": "v0a5bF824t0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zwGUpAbllIY/maxresdefault_live.jpg",
+        "timestamp": 1776510000,
+        "title": "【誕生日】お誕生日なのでとっても珍しい歌枠【岸堂天真/ホロスターズ】",
+        "video_id": "zwGUpAbllIY"
     }
 ]
