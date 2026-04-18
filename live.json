@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LnCTSosXgN8/maxresdefault_live.jpg",
-        "timestamp": 1776510000,
+        "timestamp": null,
         "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#03【 猫又おかゆ/ホロライブ 】",
         "video_id": "LnCTSosXgN8"
     },
@@ -178,5 +178,23 @@
         "timestamp": 1776517200,
         "title": "【メンバー限定】欲望ドロドロASMR【荒咬オウガ /ホロスターズ】",
         "video_id": "8aphoCnf4ms"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PtAxDOVyVU8/maxresdefault_live.jpg",
+        "timestamp": 1776510000,
+        "title": "【 APEX 】久々APEX、いつも後輩に連れまわされる。 w/皇ロゼ【獅子神レオナ/Re:AcT】",
+        "video_id": "PtAxDOVyVU8"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PtAxDOVyVU8/maxresdefault_live.jpg",
+        "timestamp": 1776510000,
+        "title": "【 APEX 】久々APEX、いつも後輩に連れまわされる。 w/皇ロゼ【獅子神レオナ/Re:AcT】",
+        "video_id": "PtAxDOVyVU8"
     }
 ]
