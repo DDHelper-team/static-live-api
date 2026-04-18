@@ -101,18 +101,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dS_BxyWmYPM/maxresdefault_live.jpg",
-        "timestamp": 1776513604,
+        "timestamp": null,
         "title": "【#ステラソラ】いざ！果てなき冒険の旅へ✨️【緋月ゆい/ネオポルテ】",
         "video_id": "dS_BxyWmYPM"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dS_BxyWmYPM/maxresdefault_live.jpg",
-        "timestamp": 1776513604,
+        "timestamp": null,
         "title": "【#ステラソラ】いざ！果てなき冒険の旅へ✨️【緋月ゆい/ネオポルテ】",
         "video_id": "dS_BxyWmYPM"
     },
@@ -124,15 +124,6 @@
         "timestamp": null,
         "title": "【 #DoZ / Minecraft 】 #8 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
         "video_id": "v0a5bF824t0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zwGUpAbllIY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【誕生日】お誕生日なのでホロスタ楽曲限定歌枠【岸堂天真/ホロスターズ】",
-        "video_id": "zwGUpAbllIY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -232,5 +223,41 @@
         "timestamp": 1776520800,
         "title": "#12【Ace Attorney Investigations 2】 (SPOILERS!)【Pavolia Reine/holoID gen 2】",
         "video_id": "qAn983R8dhc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VUI5O5GzGPY/maxresdefault_live.jpg",
+        "timestamp": 1776520800,
+        "title": "【KU100/ASMR】気持ちよすぎるゴリゴリ耳かきと密着吐息＆ゼロ距離囁きであっという間に眠くなる💤寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
+        "video_id": "VUI5O5GzGPY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yH7Iq97zZb0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 復活 】王の帰還！復活配信はThe Finalにしたい。【 領国つかさ / すぺしゃりて 】",
+        "video_id": "yH7Iq97zZb0"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yH7Iq97zZb0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 復活 】王の帰還！復活配信はThe Finalにしたい。【 領国つかさ / すぺしゃりて 】",
+        "video_id": "yH7Iq97zZb0"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VUI5O5GzGPY/maxresdefault_live.jpg",
+        "timestamp": 1776520800,
+        "title": "【KU100/ASMR】気持ちよすぎるゴリゴリ耳かきと密着吐息＆ゼロ距離囁きであっという間に眠くなる💤寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping",
+        "video_id": "VUI5O5GzGPY"
     }
 ]
