@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/v0a5bF824t0/maxresdefault_live.jpg",
-        "timestamp": 1776501000,
+        "timestamp": null,
         "title": "【 #DoZ / Minecraft 】 #8 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
         "video_id": "v0a5bF824t0"
     },
@@ -160,5 +160,14 @@
         "timestamp": 1776510000,
         "title": "【誕生日】お誕生日なのでとっても珍しい歌枠【岸堂天真/ホロスターズ】",
         "video_id": "zwGUpAbllIY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/fEIIQASCyQM/maxresdefault_live.jpg",
+        "timestamp": 1776501900,
+        "title": "【Doom or Zenith 】８層と９層をクリアする者/ アステル",
+        "video_id": "fEIIQASCyQM"
     }
 ]
