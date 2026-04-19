@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UH9zHa_cINg/maxresdefault_live.jpg",
-        "timestamp": 1776571200,
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AO6yc58F7dQ/maxresdefault_live.jpg",
+        "timestamp": null,
         "title": "【#8】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-        "video_id": "UH9zHa_cINg"
+        "video_id": "AO6yc58F7dQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
@@ -45,15 +45,6 @@
         "video_id": "gGNGJn6yTzY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6yEXpLzoOYk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【WarioWare: Move It!】light pink collab in 3D!! with mococo!! #calliolive",
-        "video_id": "6yEXpLzoOYk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -79,24 +70,6 @@
         "timestamp": 1776598200,
         "title": "塔羅占卜#133｜能量這種東西真的很神奇🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "nnOsRK-Vo6M"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6_100nF3GOA/maxresdefault_live.jpg",
-        "timestamp": 1776571200,
-        "title": "春のまったり座談会！ゲストはデミカツのみんなだよ～！【尾丸ポルカxアイカツアカデミー！】",
-        "video_id": "6_100nF3GOA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jUz6PlfxdGQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】I\u0026#39;ve had Diana for 5 minutes but if anything happens to her...  #pragmata #sponsored",
-        "video_id": "jUz6PlfxdGQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -178,5 +151,32 @@
         "timestamp": 1776588300,
         "title": "【 #DoZ / Minecraft 】 #9 圧倒的高難易度ダンジョンがひしめくマイクラの世界にGO!!!【アルランディス/ホロスターズ】",
         "video_id": "Q4ZISSICD8w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZAXDBDuObe0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "#MYRIS DUO DINKUM KEMBALI LAGI w/ @sammybollivienn",
+        "video_id": "ZAXDBDuObe0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tZxFDpPRYpg/maxresdefault_live.jpg",
+        "timestamp": 1776578414,
+        "title": "【競馬】GⅠ🐴皐月賞2026当てよう！【緋月ゆい/ネオポルテ】",
+        "video_id": "tZxFDpPRYpg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tZxFDpPRYpg/maxresdefault_live.jpg",
+        "timestamp": 1776578414,
+        "title": "【競馬】GⅠ🐴皐月賞2026当てよう！【緋月ゆい/ネオポルテ】",
+        "video_id": "tZxFDpPRYpg"
     }
 ]
