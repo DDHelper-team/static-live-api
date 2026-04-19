@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nnOsRK-Vo6M/maxresdefault_live.jpg",
-        "timestamp": 1776598200,
+        "timestamp": null,
         "title": "塔羅占卜#133｜能量這種東西真的很神奇🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "nnOsRK-Vo6M"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nnOsRK-Vo6M/maxresdefault_live.jpg",
-        "timestamp": 1776598200,
+        "timestamp": null,
         "title": "塔羅占卜#133｜能量這種東西真的很神奇🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "nnOsRK-Vo6M"
     },
@@ -88,15 +88,6 @@
         "timestamp": 1776603600,
         "title": "【HOLO EN/ID HYTALE】forcing people to play hytale part 2 #kfp",
         "video_id": "bUfgO6X00OE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qenoIGd6Pj0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 BIOHAZARD RE:2 】本当に怖いバイオハザード２～クレア編～【 ４ 】",
-        "video_id": "qenoIGd6Pj0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -169,5 +160,41 @@
         "timestamp": 1776600000,
         "title": "【LIVE前雑談】明日が誕生日！！！おまえらの熱気を浴びたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "E-3XledH4lU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YkGUUMX57wA/maxresdefault_live.jpg",
+        "timestamp": 1776600000,
+        "title": "【Hytale】HowlingRager36\u0026#39;s Portal Service #holohytale【hololive ID 2nd Gen | Anya Melfissa】",
+        "video_id": "YkGUUMX57wA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GG9VCS-izY0/maxresdefault_live.jpg",
+        "timestamp": 1776601800,
+        "title": "【NieR:Automata】滅びゆく世界に。 ＃1【HACHI】",
+        "video_id": "GG9VCS-izY0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bhhcGf2r-ac/maxresdefault_live.jpg",
+        "timestamp": 1776603600,
+        "title": "【HoloEN/ID Hytale】Hytale! Hy Pavolia Reine!【Pavolia Reine/hololiveID】",
+        "video_id": "bhhcGf2r-ac"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/g9fGw4pczmY/maxresdefault_live.jpg",
+        "timestamp": 1776679200,
+        "title": "【桃鉄2】不思議なメンツで桃鉄やんぞ！！！　w/エニ、ズズ、おなつ【夕刻ロベル/ホロスターズ】",
+        "video_id": "g9fGw4pczmY"
     }
 ]
