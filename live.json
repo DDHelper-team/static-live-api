@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AO6yc58F7dQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#8】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-        "video_id": "AO6yc58F7dQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +133,50 @@
         "timestamp": 1776596400,
         "title": "【三ツ星ファーム】気になってた三ツ星ファーム実食！！【百鬼あやめ/ホロライブ】",
         "video_id": "QoOrIeK9Zqo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZrdFRHTBkUM/maxresdefault_live.jpg",
+        "timestamp": 1776600000,
+        "title": "【メンバー限定】緊急配信！カメラありでサインを書く！超重大！マル秘！いまだけ限定！初見さん歓迎！切り抜き禁止！7位以下即終了！3Dかも？アーカイブ残らないかも？【ホロライブ/兎田ぺこら】",
+        "video_id": "ZrdFRHTBkUM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zB1w13hnfNg/maxresdefault_live.jpg",
+        "timestamp": 1776603600,
+        "title": "【鬼サザエトリ】海鮮が食べたい気分【雪花ラミィ /ホロライブ】",
+        "video_id": "zB1w13hnfNg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2sts1dD22vQ/maxresdefault_live.jpg",
+        "timestamp": 1776596400,
+        "title": "【トモダチコレクション】#ホロエンタメランド TeamsPurple襲来！！　【白上フブキ/ホロライブ】",
+        "video_id": "2sts1dD22vQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E-3XledH4lU/maxresdefault_live.jpg",
+        "timestamp": 1776600000,
+        "title": "【LIVE前雑談】明日が誕生日！！！おまえらの熱気を浴びたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "E-3XledH4lU"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E-3XledH4lU/maxresdefault_live.jpg",
+        "timestamp": 1776600000,
+        "title": "【LIVE前雑談】明日が誕生日！！！おまえらの熱気を浴びたい【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "E-3XledH4lU"
     }
 ]
