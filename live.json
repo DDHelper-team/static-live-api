@@ -63,15 +63,6 @@
         "video_id": "VYfKCCLccxo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qI8-7-C3rYE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HoloCafe】everyone got the table please come",
-        "video_id": "qI8-7-C3rYE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,5 +115,14 @@
         "timestamp": 1776772800,
         "title": "【#生スバル】トモダチコレクションわくわく生活やるしゅばああああああああああああああああああああ！！！！【ホロライブ/大空スバル】",
         "video_id": "tZ-CddFQOBY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pjMmej87TXk/maxresdefault_live.jpg",
+        "timestamp": 1776769200,
+        "title": "【 バイオハザード 0 HD REMASTER 】ゾンビかかって来なさ～～い！🧟#01【 猫又おかゆ/ホロライブ 】",
+        "video_id": "pjMmej87TXk"
     }
 ]
