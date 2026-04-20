@@ -2,10 +2,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/llEgIoc8ta4/maxresdefault_live.jpg",
-        "timestamp": 1776679200,
-        "title": "【モンギル：STAR DIVE】【兎田ぺこら/ホロライブ】",
+        "timestamp": null,
+        "title": "【モンギル：STAR DIVE】始めるなら今！期待の新作『モンギル』やってみる！ぺこ！【兎田ぺこら/ホロライブ】",
         "video_id": "llEgIoc8ta4"
     },
     {
@@ -25,15 +25,6 @@
         "timestamp": 1776682800,
         "title": "【 3D LIVE  】IN PROGRESS【 #音乃瀬奏生誕祭2026 】#hololiveDEV_IS #ReGLOSS",
         "video_id": "zZ2Ce3eDamU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/g9fGw4pczmY/maxresdefault_live.jpg",
-        "timestamp": 1776679200,
-        "title": "【桃鉄2】不思議なメンツで桃鉄やんぞ！！！　w/エニ、ズズ、おなつ【夕刻ロベル/ホロスターズ】",
-        "video_id": "g9fGw4pczmY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
@@ -81,33 +72,6 @@
         "video_id": "q2H0JvC31_A"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/FzqwkED7yas/maxresdefault_live.jpg",
-        "timestamp": 1776675652,
-        "title": "【歌枠】✨️40万人耐久歌枠✨️【緋月ゆい/ネオポルテ】",
-        "video_id": "FzqwkED7yas"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/FzqwkED7yas/maxresdefault_live.jpg",
-        "timestamp": 1776675652,
-        "title": "【歌枠】✨️40万人耐久歌枠✨️【緋月ゆい/ネオポルテ】",
-        "video_id": "FzqwkED7yas"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hywYOghBsCo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ポケモンチャンピオンズ】相棒を見つけてしまいました。【岸堂天真/ホロスターズ】",
-        "video_id": "hywYOghBsCo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +79,23 @@
         "timestamp": 1776690000,
         "title": "【Senin Produktif】Drawing Shirogane Noel! How to Use 3D Model【iofi / ホロライブID】",
         "video_id": "piicnoNpFWI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3E204K4OBD8/maxresdefault_live.jpg",
+        "timestamp": 1776681000,
+        "title": "【ストリートファイター6】アレックス祭　顔合わせ【荒咬オウガ /ホロスターズ】",
+        "video_id": "3E204K4OBD8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lUjYxN8gJnE/maxresdefault_live.jpg",
+        "timestamp": 1776690000,
+        "title": "【トモコレ】大神ミオの手の平の上でコロコロしたい！【 ホロライブ / 大神ミオ 】",
+        "video_id": "lUjYxN8gJnE"
     }
 ]
