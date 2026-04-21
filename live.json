@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VYfKCCLccxo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "4月SC點心抽獎｜柚香蘋果青茶馬芬🧁❤️【Healing希靈/VTuber】",
-        "video_id": "VYfKCCLccxo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "LIVE",
@@ -16,15 +7,6 @@
         "timestamp": null,
         "title": "【トモダチコレクション】#ホロエンタメランド 大恋愛時代突入！！！！！　【白上フブキ/ホロライブ】",
         "video_id": "zmFi43auQk0"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VYfKCCLccxo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "4月SC點心抽獎｜柚香蘋果青茶馬芬🧁❤️【Healing希靈/VTuber】",
-        "video_id": "VYfKCCLccxo"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -101,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_zaGs8LgPFc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【カメラ】バズり飯を正直レビュー！！！！！！！！！！！！！！！！！ONICHA、ピーナッツコーラ、ケンタッキー炊き込みご飯etc...ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "_zaGs8LgPFc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YE_u2QfVqc8/maxresdefault_live.jpg",
+        "timestamp": 1776855600,
+        "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "YE_u2QfVqc8"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
@@ -128,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8k7Kj4MZQkw/maxresdefault_live.jpg",
-        "timestamp": 1776780000,
+        "timestamp": null,
         "title": "【Creature Kitchen】Creepy Cozy...Cooking Sim?【IOFI / HOLOLIVE】",
         "video_id": "8k7Kj4MZQkw"
     },
@@ -160,14 +142,5 @@
         "timestamp": null,
         "title": "【OverWatch】結局2は取れたんでしたっけ？【アルランディス/ホロスターズ】",
         "video_id": "egA9i9_JSa4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RaPUPElmQbc/maxresdefault_live.jpg",
-        "timestamp": 1776780000,
-        "title": "【Oni Sazae Tori】su-sushi?!",
-        "video_id": "RaPUPElmQbc"
     }
 ]
