@@ -1,32 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4LDl8MwTb-M/maxresdefault_live.jpg",
-        "timestamp": 1776776400,
-        "title": "【定期雑談】都こんぶサワーを手に入れたら更新します！#32 【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "4LDl8MwTb-M"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4LDl8MwTb-M/maxresdefault_live.jpg",
-        "timestamp": 1776776400,
-        "title": "【定期雑談】都こんぶサワーを手に入れたら更新します！#32 【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "4LDl8MwTb-M"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uT1EoiajQGo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 6日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-        "video_id": "uT1EoiajQGo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -155,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LoiNItBkQZw/maxresdefault_live.jpg",
-        "timestamp": 1776758400,
+        "timestamp": null,
         "title": "【MHWilds】LEVEL UP!【 iofi / hololiveID 】",
         "video_id": "LoiNItBkQZw"
     },
@@ -178,5 +151,14 @@
         "timestamp": 1776772800,
         "title": "【R.E.P.O.】ハリポルーナでREPOるぞ～～～！！！！！！【尾丸ポルカ視点/ホロライブ】",
         "video_id": "NtzvybQREqg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2E9r_JxiP_0/maxresdefault_live.jpg",
+        "timestamp": 1776819600,
+        "title": "【ONIGIRI SHOP SIMULATOR】mococo-flavored onigiri hand-made with love 🐾 【MOCOCO SOLO｜おにぎり屋さんシミュレーター】",
+        "video_id": "2E9r_JxiP_0"
     }
 ]
