@@ -74,27 +74,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yTrD5DqLkow/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【NEW OUTFIT REVEAL】a killer new look...themed after Monster Hunter Stories 3!! #calliolive #ad",
-        "video_id": "yTrD5DqLkow"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wp7SwSxhDhc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】SHE PROTECC BUT SHE ALSO ATTACC #pragmata #sponsored",
-        "video_id": "wp7SwSxhDhc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PjRu2n7B08A/maxresdefault_live.jpg",
+        "timestamp": 1776774600,
+        "title": "【Tomodachi Life: Living the Dream】free will is an illusion #calliolive",
+        "video_id": "PjRu2n7B08A"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/A_nGezJHkLE/maxresdefault_live.jpg",
-        "timestamp": 1776738600,
+        "timestamp": null,
         "title": "【Tomodachi Life: Living the Dream】 Pt.6: DO YOU THINK I COULD MAKE THEM FIGHT 【Kureiji Ollie】",
         "video_id": "A_nGezJHkLE"
     },
@@ -115,5 +106,23 @@
         "timestamp": 1776769200,
         "title": "【 バイオハザード 0 HD REMASTER 】ゾンビかかって来なさ～～い！🧟#01【 猫又おかゆ/ホロライブ 】",
         "video_id": "pjMmej87TXk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6QJQodLlX4A/maxresdefault_live.jpg",
+        "timestamp": 1776765632,
+        "title": "【モンギル】モンスターをテイミング!?未知なる旅へ🍃【緋月ゆい/ネオポルテ】",
+        "video_id": "6QJQodLlX4A"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6QJQodLlX4A/maxresdefault_live.jpg",
+        "timestamp": 1776765632,
+        "title": "【モンギル】モンスターをテイミング!?未知なる旅へ🍃【緋月ゆい/ネオポルテ】",
+        "video_id": "6QJQodLlX4A"
     }
 ]
