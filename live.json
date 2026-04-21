@@ -74,10 +74,28 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oD_dMr0PrOU/maxresdefault_live.jpg",
-        "timestamp": 1776812400,
+        "timestamp": null,
         "title": "【Arknights: Endfield】ZHUANG FANGYI MY WIFE",
         "video_id": "oD_dMr0PrOU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Y_jyktJZ_u8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【SPECIAL ANNOUNCEMENT】??????????【Dokibird】",
+        "video_id": "Y_jyktJZ_u8"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Y_jyktJZ_u8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【SPECIAL ANNOUNCEMENT】??????????【Dokibird】",
+        "video_id": "Y_jyktJZ_u8"
     }
 ]
