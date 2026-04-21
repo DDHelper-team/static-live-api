@@ -56,20 +56,20 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OI3AVm3A0hI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】I will not abandon this child【Dokibird】",
-        "video_id": "OI3AVm3A0hI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Y_jyktJZ_u8/maxresdefault_live.jpg",
+        "timestamp": 1776808800,
+        "title": "【SPECIAL ANNOUNCEMENT】??????????【Dokibird】",
+        "video_id": "Y_jyktJZ_u8"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OI3AVm3A0hI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】I will not abandon this child【Dokibird】",
-        "video_id": "OI3AVm3A0hI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Y_jyktJZ_u8/maxresdefault_live.jpg",
+        "timestamp": 1776808800,
+        "title": "【SPECIAL ANNOUNCEMENT】??????????【Dokibird】",
+        "video_id": "Y_jyktJZ_u8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -79,15 +79,6 @@
         "timestamp": 1776774600,
         "title": "【Tomodachi Life: Living the Dream】free will is an illusion #calliolive",
         "video_id": "PjRu2n7B08A"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/A_nGezJHkLE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life: Living the Dream】 Pt.6: DO YOU THINK I COULD MAKE THEM FIGHT 【Kureiji Ollie】",
-        "video_id": "A_nGezJHkLE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -135,15 +126,6 @@
         "video_id": "gvKYr1paX8Y"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pwBML9ylYy8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER6】実に2年ぶりにケンを触る！！！ 【岸堂天真/ホロスターズ】",
-        "video_id": "pwBML9ylYy8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -178,5 +160,23 @@
         "timestamp": 1776758400,
         "title": "【MHWilds】LEVEL UP!【 iofi / hololiveID 】",
         "video_id": "LoiNItBkQZw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AkwKOnnnrjk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Overwatch】what is the point of living【Pavolia Reine/hololiveID】",
+        "video_id": "AkwKOnnnrjk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NtzvybQREqg/maxresdefault_live.jpg",
+        "timestamp": 1776772800,
+        "title": "【R.E.P.O.】ハリポルーナでREPOるぞ～～～！！！！！！【尾丸ポルカ視点/ホロライブ】",
+        "video_id": "NtzvybQREqg"
     }
 ]
