@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uT1EoiajQGo/maxresdefault_live.jpg",
-        "timestamp": 1776744000,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 6日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "uT1EoiajQGo"
     },
@@ -124,5 +124,59 @@
         "timestamp": 1776765632,
         "title": "【モンギル】モンスターをテイミング!?未知なる旅へ🍃【緋月ゆい/ネオポルテ】",
         "video_id": "6QJQodLlX4A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gvKYr1paX8Y/maxresdefault_live.jpg",
+        "timestamp": 1776783600,
+        "title": "【Tomodachi Life: Living the Dream】customizing to hell and back!!!!!!!!!!!!!【#1】",
+        "video_id": "gvKYr1paX8Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pwBML9ylYy8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【STREET FIGHTER6】実に2年ぶりにケンを触る！！！ 【岸堂天真/ホロスターズ】",
+        "video_id": "pwBML9ylYy8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_zaGs8LgPFc/maxresdefault_live.jpg",
+        "timestamp": 1776769200,
+        "title": "【鬼茶】バズり飯を正直レビュー！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "_zaGs8LgPFc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a8uTNNyjLOU/maxresdefault_live.jpg",
+        "timestamp": 1776772800,
+        "title": "【R.E.P.O.】【轟はじめ】",
+        "video_id": "a8uTNNyjLOU"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a8uTNNyjLOU/maxresdefault_live.jpg",
+        "timestamp": 1776772800,
+        "title": "【R.E.P.O.】【轟はじめ】",
+        "video_id": "a8uTNNyjLOU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LoiNItBkQZw/maxresdefault_live.jpg",
+        "timestamp": 1776758400,
+        "title": "【MHWilds】LEVEL UP!【 iofi / hololiveID 】",
+        "video_id": "LoiNItBkQZw"
     }
 ]
