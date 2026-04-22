@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aCfTCggRwP8/maxresdefault_live.jpg",
-        "timestamp": 1776852000,
+        "timestamp": null,
         "title": "【モンギル：STAR DIVE】話題の新作『モンギル』！プレイするよ～！！【雪花ラミィ/ホロライブ】",
         "video_id": "aCfTCggRwP8"
     },
@@ -151,5 +151,14 @@
         "timestamp": 1776916800,
         "title": "【Pokémon Champions】　メ　ガ　ス　ピ　ア　ー　【夕刻ロベル/ホロスターズ】",
         "video_id": "MtAPypOpFL4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QkrMBjLAqBM/maxresdefault_live.jpg",
+        "timestamp": 1776940200,
+        "title": "【飲酒】祝コラボ🎉こだわりゆず酒を飲んでみる🍊 #PR 【風真いろは/ホロライブ】",
+        "video_id": "QkrMBjLAqBM"
     }
 ]
