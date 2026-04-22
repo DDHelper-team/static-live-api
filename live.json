@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TkMrWThLZ7w/maxresdefault_live.jpg",
-        "timestamp": 1776841200,
+        "timestamp": null,
         "title": "〖 Carry The Glass 〗ガラスを割らないように運ぶゲーム with dtto.",
         "video_id": "TkMrWThLZ7w"
     },
@@ -97,5 +97,23 @@
         "timestamp": 1776852000,
         "title": "【モンギル：STAR DIVE】話題の新作『モンギル』！プレイするよ～！！【雪花ラミィ/ホロライブ】",
         "video_id": "aCfTCggRwP8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FVsgf9YmwpI/maxresdefault_live.jpg",
+        "timestamp": 1776862800,
+        "title": "【ぽこあポケモン】ビル完成！その⑨【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "FVsgf9YmwpI"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FVsgf9YmwpI/maxresdefault_live.jpg",
+        "timestamp": 1776862800,
+        "title": "【ぽこあポケモン】ビル完成！その⑨【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "FVsgf9YmwpI"
     }
 ]
