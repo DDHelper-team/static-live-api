@@ -54,15 +54,6 @@
         "video_id": "BIRgnhxucw4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3rjn-kIm9E4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MHWilds】ROAD TO HR 300【 iofi / hololiveID 】",
-        "video_id": "3rjn-kIm9E4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -106,5 +97,23 @@
         "timestamp": 1776942000,
         "title": "【 バイオハザード 0 HD REMASTER 】ゾンビかかって来なさ～～い！🧟#02【 猫又おかゆ/ホロライブ 】",
         "video_id": "dSpZLfR-Zkw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4rAspUpRpik/maxresdefault_live.jpg",
+        "timestamp": 1776945600,
+        "title": "【#生スバル】スバルの小屋：ゲスト まつり【ホロライブ/大空スバル】",
+        "video_id": "4rAspUpRpik"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-5P17BxVZTE/maxresdefault_live.jpg",
+        "timestamp": 1776942000,
+        "title": "【SLAY THE SPIRE 2】this thumbnail says i must play necrobinder #kfp #キアライブ",
+        "video_id": "-5P17BxVZTE"
     }
 ]
