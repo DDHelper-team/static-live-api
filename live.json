@@ -144,15 +144,6 @@
         "video_id": "NfVJtGPLXzs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-xeBTPuQyvw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "おはよしてっ！",
-        "video_id": "-xeBTPuQyvw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +151,23 @@
         "timestamp": 1777033800,
         "title": "【バイオハザード 0 HDリマスター】初見でバイオゼロ！ # ３【 #奏手イヅル 】",
         "video_id": "wJC34-9rRlA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7--XyvGY_ns/maxresdefault_live.jpg",
+        "timestamp": 1777035600,
+        "title": "【HOLO EN/ID HYTALE】my preciousss....golden house.... we wants it, we needs it... #kfp #キアライブ",
+        "video_id": "7--XyvGY_ns"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Yc2DMfXRm14/maxresdefault_live.jpg",
+        "timestamp": 1777028400,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "Yc2DMfXRm14"
     }
 ]
