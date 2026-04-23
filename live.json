@@ -27,15 +27,6 @@
         "video_id": "du6RRtqluBQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Jf5wzNXBBA8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】ポケモンチャンピオンズがメンテだったので雑談をする【夕刻ロベル/ホロスターズ】",
-        "video_id": "Jf5wzNXBBA8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,5 +160,32 @@
         "timestamp": 1776949200,
         "title": "【全体同時視聴】「近畿地方のある場所について」観ないか・・・【尾丸ポルカ/ホロライブ】",
         "video_id": "29p_t7AVH7o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NrHwDewVR7U/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Tomodachi Life】POPULATING THE DOOMED YURI ISLAND【Pavolia Reine/hololiveID】",
+        "video_id": "NrHwDewVR7U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aSLi92Chnuo/maxresdefault_live.jpg",
+        "timestamp": 1776945600,
+        "title": "【Tomodachi Life: Living the Dream】it won\u0026#39;t take 5 hours this time hehe..he【#2】日本語ver",
+        "video_id": "aSLi92Chnuo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1dpljoa9pWw/maxresdefault_live.jpg",
+        "timestamp": 1776931200,
+        "title": "ORGANIZED INSIDE (and outside)",
+        "video_id": "1dpljoa9pWw"
     }
 ]
