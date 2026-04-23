@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/sZ-uZVuiKS8/maxresdefault_live.jpg",
-        "timestamp": 1776938400,
+        "timestamp": null,
         "title": "【初見】アークナイツ：エンドフィールドやってみる！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "sZ-uZVuiKS8"
     },
@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QkrMBjLAqBM/maxresdefault_live.jpg",
-        "timestamp": 1776940200,
+        "timestamp": null,
         "title": "【飲酒】祝コラボ🎉こだわりゆず酒を飲んでみる🍊 #PR 【風真いろは/ホロライブ】",
         "video_id": "QkrMBjLAqBM"
     },
@@ -119,18 +119,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JjsRMyXIoD0/maxresdefault_live.jpg",
-        "timestamp": 1776938400,
+        "timestamp": null,
         "title": "【トモコレ】トモダチコレクション わくわく生活やってみるうう！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "JjsRMyXIoD0"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JjsRMyXIoD0/maxresdefault_live.jpg",
-        "timestamp": 1776938400,
+        "timestamp": null,
         "title": "【トモコレ】トモダチコレクション わくわく生活やってみるうう！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "JjsRMyXIoD0"
     },
@@ -180,24 +180,6 @@
         "video_id": "aSLi92Chnuo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1dpljoa9pWw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ORGANIZED INSIDE (and outside)",
-        "video_id": "1dpljoa9pWw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WkJzZewlU00/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【謎ゲー】寿司キャットとかいう謎のゲームを遊ばせてください。 【岸堂天真/ホロスターズ】",
-        "video_id": "WkJzZewlU00"
-    },
-    {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +196,14 @@
         "timestamp": 1776947400,
         "title": "【#重返未来1999 】01-2.5週年~3.4版本春不老，主線劇情跑起來!!! 【#ゲーム個人勢 / Fingla】",
         "video_id": "nTbKU3SNi5o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/U65iohCoLwU/maxresdefault_live.jpg",
+        "timestamp": 1776942000,
+        "title": "【 Slay the Spire 2 】スレスパ２コラボだあああああああああああああああ！！！！！！！！！！！！！！！！！！！　【白上フブキ/ホロライブ】",
+        "video_id": "U65iohCoLwU"
     }
 ]
