@@ -90,15 +90,6 @@
         "video_id": "ZhOP3uIDTf0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/aeO0EFHTnIU/maxresdefault_live.jpg",
-        "timestamp": 1776985200,
-        "title": "【Girls\u0026#39; Frontline 2: Exilium】Heading to the front lines! #sponsored",
-        "video_id": "aeO0EFHTnIU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,5 +160,14 @@
         "timestamp": 1777028400,
         "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "Yc2DMfXRm14"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aeO0EFHTnIU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Girls\u0026#39; Frontline 2: Exilium】Heading to the front lines! #sponsored",
+        "video_id": "aeO0EFHTnIU"
     }
 ]
