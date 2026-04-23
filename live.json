@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MtAPypOpFL4/maxresdefault_live.jpg",
-        "timestamp": 1776916800,
-        "title": "【Pokémon Champions】　メ　ガ　ス　ピ　ア　ー　【夕刻ロベル/ホロスターズ】",
-        "video_id": "MtAPypOpFL4"
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Jf5wzNXBBA8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】ポケモンチャンピオンズがメンテだったので雑談をする【夕刻ロベル/ホロスターズ】",
+        "video_id": "Jf5wzNXBBA8"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -142,5 +142,32 @@
         "timestamp": 1776938400,
         "title": "【トモコレ】トモダチコレクション わくわく生活やってみるうう！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "JjsRMyXIoD0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/07o26Oslcwc/maxresdefault_live.jpg",
+        "timestamp": 1776942000,
+        "title": "【Slay the Spire 2】先輩達とはじめてのマルチコラボ！！✨【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "07o26Oslcwc"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/07o26Oslcwc/maxresdefault_live.jpg",
+        "timestamp": 1776942000,
+        "title": "【Slay the Spire 2】先輩達とはじめてのマルチコラボ！！✨【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "07o26Oslcwc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/29p_t7AVH7o/maxresdefault_live.jpg",
+        "timestamp": 1776949200,
+        "title": "【全体同時視聴】「近畿地方のある場所について」観ないか・・・【尾丸ポルカ/ホロライブ】",
+        "video_id": "29p_t7AVH7o"
     }
 ]
