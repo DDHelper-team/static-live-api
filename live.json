@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CYOCX21xwG0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FUWAWA RETURNS｜フワワ復活！】ただいま✨️ i\u0026#39;m finally back home, ruffians 🐾🩵 【FUWAMOCO】",
-        "video_id": "CYOCX21xwG0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/o-agU3sJWBg/maxresdefault_live.jpg",
+        "timestamp": 1777017600,
+        "title": "【HOLOVILLAGE】癒されまっくす🌱 first look at the comfiest hololive farming game 🐾 【FUWAMOCO｜ぷちホロの村】",
+        "video_id": "o-agU3sJWBg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -63,29 +63,11 @@
         "video_id": "UTjNmHgSn8o"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LoBQ1atkNqQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】my child is going to be a doctor lawyer【Dokibird】",
-        "video_id": "LoBQ1atkNqQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LoBQ1atkNqQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】my child is going to be a doctor lawyer【Dokibird】",
-        "video_id": "LoBQ1atkNqQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VR8Oxf4pRpo/maxresdefault_live.jpg",
-        "timestamp": 1777003200,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 7日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "VR8Oxf4pRpo"
     },
@@ -160,5 +142,41 @@
         "timestamp": 1777032000,
         "title": "【マリパ】全員が大神ミオのマリパってどういうこと？【 #ホロライブゲーマーズ  】",
         "video_id": "HIuF4Cr5sI8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Yey0cW9RnPU/maxresdefault_live.jpg",
+        "timestamp": 1777032000,
+        "title": "【Pode】BEST TEAMWORK INCOMING! ゼーニャで協力プレイ！【hololive ID 2nd Generation | Anya Melfissa】",
+        "video_id": "Yey0cW9RnPU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GwuAo8xi3us/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 スプラトゥーン3 】スプラ上級者＆初心者で対決！！！🔥✨【 領国つかさ / 孫守まごも / すぺしゃりて 】",
+        "video_id": "GwuAo8xi3us"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GwuAo8xi3us/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 スプラトゥーン3 】スプラ上級者＆初心者で対決！！！🔥✨【 領国つかさ / 孫守まごも / すぺしゃりて 】",
+        "video_id": "GwuAo8xi3us"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ekdsnb2aWY4/maxresdefault_live.jpg",
+        "timestamp": 1777024800,
+        "title": "【 #雪夜月 】重大告知あり！雪夜月をねねにガチプレゼン大会！！みんなも一緒に乾杯しよ！【 雪花ラミィ /ホロライブ】",
+        "video_id": "Ekdsnb2aWY4"
     }
 ]
