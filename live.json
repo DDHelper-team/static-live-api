@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yvBNM3WSX1Y/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#6】ジョジョ第５部同時視聴みるしゅばあああああああああああああああああああああ！！！！：JoJo\u0026#39;s Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
-        "video_id": "yvBNM3WSX1Y"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FPo2bqG72KU/maxresdefault_live.jpg",
+        "timestamp": 1777078800,
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "FPo2bqG72KU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -63,29 +63,20 @@
         "video_id": "2KfAqqi8fgc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U-Rs_-Ogut0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】なんかラジオみたいなトーク　第19回【荒咬オウガ  アール/Aru】",
-        "video_id": "U-Rs_-Ogut0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/s4PVsINFVao/maxresdefault_live.jpg",
-        "timestamp": 1777044600,
+        "timestamp": null,
         "title": "【KU100/ASMR】ぬぽ～…っ♡にゅる耳はむ＆ぬちょとろオイル…そして奥責め耳かきで絶頂睡眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "s4PVsINFVao"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/s4PVsINFVao/maxresdefault_live.jpg",
-        "timestamp": 1777044600,
+        "timestamp": null,
         "title": "【KU100/ASMR】ぬぽ～…っ♡にゅる耳はむ＆ぬちょとろオイル…そして奥責め耳かきで絶頂睡眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "s4PVsINFVao"
     },
@@ -142,15 +133,6 @@
         "timestamp": null,
         "title": "＃７【ぽこ あポケモン】まったりぽこあ✨【轟はじめ/ReGLOSS】",
         "video_id": "IZVXxaL2KXo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QL6lUxXWBiU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Hytale】NO IDEA WHAT I\u0026#39;M DOING!!!! HELP",
-        "video_id": "QL6lUxXWBiU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
@@ -259,5 +241,14 @@
         "timestamp": null,
         "title": "【 APEX 】おさんぽ＾～ / アステル",
         "video_id": "toJhAjfYsk4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/P35xVr65j1Y/maxresdefault_live.jpg",
+        "timestamp": 1777075200,
+        "title": "【Arknights: Endfield】Chubby Lung Enjoyers Unite!!!! New Content!!!!",
+        "video_id": "P35xVr65j1Y"
     }
 ]
