@@ -20,20 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/GmcYjV6aTuA/maxresdefault_live.jpg",
-        "timestamp": 1777101300,
+        "timestamp": null,
         "title": "【CHRONO TRIGGER OFF-COLLAB with CECILIA】is it too late for pancakes? 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "GmcYjV6aTuA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DTdqMWLP7BU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【holoVillage: Our Cozy Days】they sent her to a farm upstate #calliolive",
-        "video_id": "DTdqMWLP7BU"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -56,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YTAWeyM_YuM/maxresdefault_live.jpg",
-        "timestamp": 1777104000,
+        "timestamp": null,
         "title": "【hololive OCG UNBOXING】Handcam: WE\u0026#39;RE OPENING 50+ BOXES???【Kureiji Ollie】",
         "video_id": "YTAWeyM_YuM"
     },
@@ -117,15 +108,6 @@
         "video_id": "Ch_weqx6EFM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OvpTZhOdTTo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPOILER ALERT | Resident Evil Requiem】Leon Gaming😎 レオンで頑張るの巻【hololive ID | Anya Melfissa】",
-        "video_id": "OvpTZhOdTTo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
         "status": "LIVE",
@@ -133,24 +115,6 @@
         "timestamp": null,
         "title": "【鳴潮】引き続き一章八幕から、ギャルも加わってご機嫌です【尾丸ポルカ/ホロライブ】",
         "video_id": "HPV6bmwzJY8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6W-ZpDF8F_g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【トモコレ】今度は誰を作ろうかしら！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "6W-ZpDF8F_g"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6W-ZpDF8F_g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【トモコレ】今度は誰を作ろうかしら！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "6W-ZpDF8F_g"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -191,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/t9_Bpg40-3I/maxresdefault_live.jpg",
-        "timestamp": 1777104000,
+        "timestamp": null,
         "title": "【歌枠】アニソン歌って上がる歌枠～～！！！【 ホロライブ / 大神ミオ 】",
         "video_id": "t9_Bpg40-3I"
     },
@@ -214,5 +178,14 @@
         "timestamp": 1777145400,
         "title": "【HANG OUT】Yap vibes【Dokibird】",
         "video_id": "HTA9H-ItwG0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dBPRPKNVzZA/maxresdefault_live.jpg",
+        "timestamp": 1777125600,
+        "title": "【MHWilds】Proof of a Hero【 iofi / hololiveID 】",
+        "video_id": "dBPRPKNVzZA"
     }
 ]
