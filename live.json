@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FPo2bqG72KU/maxresdefault_live.jpg",
-        "timestamp": 1777078800,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "FPo2bqG72KU"
     },
@@ -128,10 +128,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/P35xVr65j1Y/maxresdefault_live.jpg",
-        "timestamp": 1777075200,
+        "timestamp": null,
         "title": "【Arknights: Endfield】Chubby Lung Enjoyers Unite!!!! New Content!!!!",
         "video_id": "P35xVr65j1Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OvpTZhOdTTo/maxresdefault_live.jpg",
+        "timestamp": 1777086000,
+        "title": "【SPOILER ALERT | Resident Evil Requiem】Leon Gaming😎 レオンで頑張るの巻【hololive ID | Anya Melfissa】",
+        "video_id": "OvpTZhOdTTo"
     }
 ]
