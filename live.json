@@ -92,20 +92,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uhZ27bLlc1A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "uhZ27bLlc1A"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PxSpa6gbv7E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ぷちホロの村】ホロメンと過ごせる村？！のんびり生活した～い！【ホロライブ/大神ミオ】",
-        "video_id": "PxSpa6gbv7E"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/izdPUFk1lYs/maxresdefault_live.jpg",
+        "timestamp": 1777172400,
+        "title": "#5【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "izdPUFk1lYs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
@@ -162,15 +153,6 @@
         "video_id": "OqkEWHWRlRw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Q5_i8l9BXVQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#13【Ace Attorney Investigations 2】oh okay now a kid is kidnapped (SPOILERS!)【Pavolia Reine/holoID】",
-        "video_id": "Q5_i8l9BXVQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -187,5 +169,14 @@
         "timestamp": 1777158000,
         "title": "【Tomodachi Life: Living the Dream】I want more CHAOS!!!",
         "video_id": "FQmt3juKGQ4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/R4h7J7kEFbY/maxresdefault_live.jpg",
+        "timestamp": 1777197600,
+        "title": "ともよていち",
+        "video_id": "R4h7J7kEFbY"
     }
 ]
