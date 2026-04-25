@@ -47,11 +47,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ch_weqx6EFM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#05【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "Ch_weqx6EFM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VnhKKsYnA9k/maxresdefault_live.jpg",
+        "timestamp": 1777201200,
+        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#06【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "VnhKKsYnA9k"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -88,15 +88,6 @@
         "timestamp": null,
         "title": "【MHWilds】Proof of a Hero【 iofi / hololiveID 】",
         "video_id": "dBPRPKNVzZA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/K0k8vyOIBN8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "〖 #VCTWatchParty 〗DFMがんばれ応援配信📣✨",
-        "video_id": "K0k8vyOIBN8"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -178,5 +169,14 @@
         "timestamp": null,
         "title": "#13【Ace Attorney Investigations 2】oh okay now a kid is kidnapped (SPOILERS!)【Pavolia Reine/holoID】",
         "video_id": "Q5_i8l9BXVQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ba-GANW03GQ/maxresdefault_live.jpg",
+        "timestamp": 1777176000,
+        "title": "〖 Poppy Playtime 3 〗懐かしいな覚えてる？？？",
+        "video_id": "ba-GANW03GQ"
     }
 ]
