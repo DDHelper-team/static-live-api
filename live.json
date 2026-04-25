@@ -153,15 +153,6 @@
         "video_id": "R4h7J7kEFbY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fjpMX1qQsdo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 HER TREES : THE PUZZLE HOUSE 】深夜のパズルタイム🌙【ホロライブ/夏色まつり】",
-        "video_id": "fjpMX1qQsdo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,5 +160,14 @@
         "timestamp": 1777152600,
         "title": "【Watchalong | LCS】C9 cs SR, i’m supporting the blue one #LCSCostream",
         "video_id": "z-iDg5HmikY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kszNEQA1IcE/maxresdefault_live.jpg",
+        "timestamp": 1777233600,
+        "title": "Take Your AI Daughter to Work Day 【PRAGMATA】#sponsored",
+        "video_id": "kszNEQA1IcE"
     }
 ]
