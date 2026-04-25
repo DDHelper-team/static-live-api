@@ -20,29 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GmcYjV6aTuA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【CHRONO TRIGGER OFF-COLLAB with CECILIA】is it too late for pancakes? 🐾【SPOILER WARNING｜FUWAMOCO】",
-        "video_id": "GmcYjV6aTuA"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2KfAqqi8fgc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #LinktheStarlight 】夜空の星は宝石のように輝く #vtuber #TanZ",
-        "video_id": "2KfAqqi8fgc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2KfAqqi8fgc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #LinktheStarlight 】夜空の星は宝石のように輝く #vtuber #TanZ",
-        "video_id": "2KfAqqi8fgc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nlPYABsRG8o/maxresdefault_live.jpg",
+        "timestamp": 1777165200,
+        "title": "【1000 DAYS CELEBRATION】protecting your smile for 1000 days 🐾💕 【FUWAMOCO】",
+        "video_id": "nlPYABsRG8o"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -119,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DT-qOsu7PlQ/maxresdefault_live.jpg",
-        "timestamp": 1777113000,
+        "timestamp": null,
         "title": "【ストリートファイター6】アレックス祭　チーム練習【荒咬オウガ /ホロスターズ】",
         "video_id": "DT-qOsu7PlQ"
     },
@@ -187,5 +169,23 @@
         "timestamp": 1777122000,
         "title": "【ぷちホロの村】ホロメンと過ごせる村？！のんびり生活した～い！【ホロライブ/大神ミオ】",
         "video_id": "PxSpa6gbv7E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zZEZQqNJZp4/maxresdefault_live.jpg",
+        "timestamp": 1777197600,
+        "title": "【#スバなで見守り中】ココイチ新米店員、初出勤だっ！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "zZEZQqNJZp4"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zZEZQqNJZp4/maxresdefault_live.jpg",
+        "timestamp": 1777197600,
+        "title": "【#スバなで見守り中】ココイチ新米店員、初出勤だっ！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "zZEZQqNJZp4"
     }
 ]
