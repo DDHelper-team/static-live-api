@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2KfAqqi8fgc/maxresdefault_live.jpg",
-        "timestamp": 1777111200,
+        "timestamp": null,
         "title": "【 #LinktheStarlight 】夜空の星は宝石のように輝く #vtuber #TanZ",
         "video_id": "2KfAqqi8fgc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2KfAqqi8fgc/maxresdefault_live.jpg",
-        "timestamp": 1777111200,
+        "timestamp": null,
         "title": "【 #LinktheStarlight 】夜空の星は宝石のように輝く #vtuber #TanZ",
         "video_id": "2KfAqqi8fgc"
     },
@@ -128,20 +128,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WYozGmgxuUo/maxresdefault_live.jpg",
-        "timestamp": 1777111200,
+        "timestamp": null,
         "title": "【ストリートファイター6】ALEX祭 前日に顔合わせをする チームファイナルハンマーカイザーあつし【アルランディス/ホロスターズ】",
         "video_id": "WYozGmgxuUo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WZEfe3uT0uE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】アニソン歌って上がる歌枠～～！！！【 ホロライブ / 大神ミオ 】",
-        "video_id": "WZEfe3uT0uE"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -173,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/K0k8vyOIBN8/maxresdefault_live.jpg",
-        "timestamp": 1777108500,
+        "timestamp": null,
         "title": "〖 #VCTWatchParty 〗DFMがんばれ応援配信📣✨",
         "video_id": "K0k8vyOIBN8"
     },
@@ -187,5 +178,14 @@
         "timestamp": 1777122000,
         "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "uhZ27bLlc1A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PxSpa6gbv7E/maxresdefault_live.jpg",
+        "timestamp": 1777122000,
+        "title": "【ぷちホロの村】ホロメンと過ごせる村？！のんびり生活した～い！【ホロライブ/大神ミオ】",
+        "video_id": "PxSpa6gbv7E"
     }
 ]
