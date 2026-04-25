@@ -29,20 +29,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AiA4pYb4bGc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "黑暗偵探｜大聰明狐狐偵探要來解迷啦💡【Healing希靈/VTuber】DIVE or DIE - Children of Rain",
-        "video_id": "AiA4pYb4bGc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z0SypH8RrzA/maxresdefault_live.jpg",
+        "timestamp": 1777203000,
+        "title": "塔羅占卜#134｜利卡女帝幫你占🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "Z0SypH8RrzA"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AiA4pYb4bGc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "黑暗偵探｜大聰明狐狐偵探要來解迷啦💡【Healing希靈/VTuber】DIVE or DIE - Children of Rain",
-        "video_id": "AiA4pYb4bGc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z0SypH8RrzA/maxresdefault_live.jpg",
+        "timestamp": 1777203000,
+        "title": "塔羅占卜#134｜利卡女帝幫你占🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "Z0SypH8RrzA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -52,15 +52,6 @@
         "timestamp": null,
         "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#05【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "Ch_weqx6EFM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zvS8qPTejeY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【トモダチコレクション】#ホロエンタメランド 結婚でHAPPYEND？　【白上フブキ/ホロライブ】",
-        "video_id": "zvS8qPTejeY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -162,24 +153,6 @@
         "video_id": "e7JvA7J1jNs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/N1kL0qf_K9A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】アニソン縛りで歌っちゃお！【轟はじめ/ReGLOSS】",
-        "video_id": "N1kL0qf_K9A"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/N1kL0qf_K9A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】アニソン縛りで歌っちゃお！【轟はじめ/ReGLOSS】",
-        "video_id": "N1kL0qf_K9A"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -196,5 +169,14 @@
         "timestamp": 1777201200,
         "title": "【OMSI 2】静岡県沼津市へ遊びにいっちゃおう…！　OMSI 2 プロジェクト沼津をプレイしてみるよ！【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "OqkEWHWRlRw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Q5_i8l9BXVQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "#13【Ace Attorney Investigations 2】oh okay now a kid is kidnapped (SPOILERS!)【Pavolia Reine/holoID】",
+        "video_id": "Q5_i8l9BXVQ"
     }
 ]
