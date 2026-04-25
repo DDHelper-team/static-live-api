@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DGAI6Zd7yhY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#9】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-        "video_id": "DGAI6Zd7yhY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OD5WdwUo7tM/maxresdefault_live.jpg",
+        "timestamp": 1777176000,
+        "title": "【#10】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
+        "video_id": "OD5WdwUo7tM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -52,15 +52,6 @@
         "timestamp": null,
         "title": "【hololive OCG UNBOXING】Handcam: WE\u0026#39;RE OPENING 50+ BOXES???【Kureiji Ollie】",
         "video_id": "YTAWeyM_YuM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1pJ3WJ8QUaA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "1pJ3WJ8QUaA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
@@ -108,15 +99,6 @@
         "video_id": "Ch_weqx6EFM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HPV6bmwzJY8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【鳴潮】引き続き一章八幕から、ギャルも加わってご機嫌です【尾丸ポルカ/ホロライブ】",
-        "video_id": "HPV6bmwzJY8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -156,10 +138,10 @@
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/t9_Bpg40-3I/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/WZEfe3uT0uE/maxresdefault_live.jpg",
         "timestamp": null,
         "title": "【歌枠】アニソン歌って上がる歌枠～～！！！【 ホロライブ / 大神ミオ 】",
-        "video_id": "t9_Bpg40-3I"
+        "video_id": "WZEfe3uT0uE"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -187,5 +169,23 @@
         "timestamp": 1777125600,
         "title": "【MHWilds】Proof of a Hero【 iofi / hololiveID 】",
         "video_id": "dBPRPKNVzZA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/K0k8vyOIBN8/maxresdefault_live.jpg",
+        "timestamp": 1777108500,
+        "title": "〖 #VCTWatchParty 〗DFMがんばれ応援配信📣✨",
+        "video_id": "K0k8vyOIBN8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uhZ27bLlc1A/maxresdefault_live.jpg",
+        "timestamp": 1777122000,
+        "title": "【ぷちホロの村】ホロメンと過ごすスローライフの始まり！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "uhZ27bLlc1A"
     }
 ]
