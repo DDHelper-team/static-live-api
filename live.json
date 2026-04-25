@@ -137,10 +137,55 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HPV6bmwzJY8/maxresdefault_live.jpg",
-        "timestamp": 1777093200,
+        "timestamp": null,
         "title": "【鳴潮】引き続き一章八幕から、ギャルも加わってご機嫌です【尾丸ポルカ/ホロライブ】",
         "video_id": "HPV6bmwzJY8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6W-ZpDF8F_g/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【トモコレ】今度は誰を作ろうかしら！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "6W-ZpDF8F_g"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6W-ZpDF8F_g/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【トモコレ】今度は誰を作ろうかしら！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "6W-ZpDF8F_g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zvS8qPTejeY/maxresdefault_live.jpg",
+        "timestamp": 1777114800,
+        "title": "【トモダチコレクション】#ホロエンタメランド 結婚でHAPPYEND？　【白上フブキ/ホロライブ】",
+        "video_id": "zvS8qPTejeY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Jitu5SVs78w/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Tomodachi Life】MAKING CUSTOM TREASURES AND MAKING TROUBLE ALSO【Pavolia Reine/hololiveID】",
+        "video_id": "Jitu5SVs78w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DT-qOsu7PlQ/maxresdefault_live.jpg",
+        "timestamp": 1777113000,
+        "title": "【ストリートファイター6】アレックス祭　チーム練習【荒咬オウガ /ホロスターズ】",
+        "video_id": "DT-qOsu7PlQ"
     }
 ]
