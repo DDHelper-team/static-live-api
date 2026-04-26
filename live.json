@@ -56,20 +56,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tEPZfaV_NHA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ドラゴンクエストVII Reimagined】#9 | 完全初見！残る石版もあと僅か―※ネタバレあり【緋月ゆい/ネオポルテ】",
-        "video_id": "tEPZfaV_NHA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/C6A92ryeXhw/maxresdefault_live.jpg",
+        "timestamp": 1777241746,
+        "title": "【Euro Truck Simulator 2】おはよ！隣空いてますよ🚚【緋月ゆい/ネオポルテ】",
+        "video_id": "C6A92ryeXhw"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tEPZfaV_NHA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ドラゴンクエストVII Reimagined】#9 | 完全初見！残る石版もあと僅か―※ネタバレあり【緋月ゆい/ネオポルテ】",
-        "video_id": "tEPZfaV_NHA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/C6A92ryeXhw/maxresdefault_live.jpg",
+        "timestamp": 1777241746,
+        "title": "【Euro Truck Simulator 2】おはよ！隣空いてますよ🚚【緋月ゆい/ネオポルテ】",
+        "video_id": "C6A92ryeXhw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -97,15 +97,6 @@
         "timestamp": 1777294800,
         "title": "【FEIGN】 COLLAB AKBAR!! KEPADA SIAPA AKU HARUS BERPERCAYA-- 【Kureiji Ollie】",
         "video_id": "xhH9eVch4OM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0MVg9rYNAfY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LOL】4月27日 深夜のロルカスタム【 奏手イヅル 】",
-        "video_id": "0MVg9rYNAfY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
@@ -142,5 +133,14 @@
         "timestamp": 1777239000,
         "title": "【Watchalong | LCS】TLAW vs SEN, Supporting TLAW because it\u0026#39;s blue #LCSCostream",
         "video_id": "9UXffcq9JQk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nGyhht1rLi8/maxresdefault_live.jpg",
+        "timestamp": 1777284000,
+        "title": "【 🔥告知あり 】ケモケモな #にゃんぐこーん でホラーゲームだッ🍙🌽✊✦【 ホロライブ 】",
+        "video_id": "nGyhht1rLi8"
     }
 ]
