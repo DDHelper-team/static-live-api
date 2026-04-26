@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wQzMISaoxLg/maxresdefault_live.jpg",
-        "timestamp": 1777197600,
+        "timestamp": null,
         "title": "【#スバなで見守り中】ココイチ食べながら奏を見守るしゅばああああああああああ！！！【ホロライブ/大空スバル】",
         "video_id": "wQzMISaoxLg"
     },
@@ -47,27 +47,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XSL7lZ5LPxU/maxresdefault_live.jpg",
-        "timestamp": 1777197600,
+        "timestamp": null,
         "title": "【ストリートファイター6】ALEX祭 本番!!【アルランディス/ホロスターズ】",
         "video_id": "XSL7lZ5LPxU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zZEZQqNJZp4/maxresdefault_live.jpg",
-        "timestamp": 1777197600,
+        "timestamp": null,
         "title": "【#スバなで見守り中】ココイチ新米店員、初出勤だっ！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "zZEZQqNJZp4"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zZEZQqNJZp4/maxresdefault_live.jpg",
-        "timestamp": 1777197600,
+        "timestamp": null,
         "title": "【#スバなで見守り中】ココイチ新米店員、初出勤だっ！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "zZEZQqNJZp4"
     },
@@ -99,15 +99,6 @@
         "video_id": "OqkEWHWRlRw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/R4h7J7kEFbY/maxresdefault_live.jpg",
-        "timestamp": 1777197600,
-        "title": "ともよていち",
-        "video_id": "R4h7J7kEFbY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -137,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5dLxLkwISoI/maxresdefault_live.jpg",
-        "timestamp": 1777197600,
+        "timestamp": null,
         "title": "【 #ALEX祭 】アレックス祭　本番【荒咬オウガ /ホロスターズ】",
         "video_id": "5dLxLkwISoI"
     },
@@ -169,5 +160,23 @@
         "timestamp": 1777208400,
         "title": "【鬼サザエトリ】ぼく、サザエとる【轟はじめ/ReGLOSS】",
         "video_id": "mOHUwttMa2A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k73QjKhoJGk/maxresdefault_live.jpg",
+        "timestamp": 1777284000,
+        "title": "【#ロベルないとめあ】互いに買ってきたサーティワンの商品を当てあう我々【夕刻ロベル/神楽めあ】",
+        "video_id": "k73QjKhoJGk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UhRZcBXoqnI/maxresdefault_live.jpg",
+        "timestamp": 1777208400,
+        "title": "cat",
+        "video_id": "UhRZcBXoqnI"
     }
 ]
