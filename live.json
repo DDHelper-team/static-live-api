@@ -153,15 +153,6 @@
         "video_id": "R4h7J7kEFbY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/z-iDg5HmikY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Watchalong | LCS】C9 cs SR, i’m supporting the blue one #LCSCostream",
-        "video_id": "z-iDg5HmikY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,5 +160,14 @@
         "timestamp": 1777233600,
         "title": "Take Your AI Daughter to Work Day 【PRAGMATA】#sponsored",
         "video_id": "kszNEQA1IcE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G056d3IIO-M/maxresdefault_live.jpg",
+        "timestamp": 1777219200,
+        "title": "【TOMODACHI LIFE 2】MANY NEW ADDITIONS...!!! And surprising relations... #kfp #キアライブ",
+        "video_id": "G056d3IIO-M"
     }
 ]
