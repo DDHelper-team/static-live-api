@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/G056d3IIO-M/maxresdefault_live.jpg",
-        "timestamp": 1777219200,
+        "timestamp": null,
         "title": "【TOMODACHI LIFE 2】MANY NEW ADDITIONS...!!! And surprising relations... #kfp #キアライブ",
         "video_id": "G056d3IIO-M"
     },
@@ -115,5 +115,14 @@
         "timestamp": null,
         "title": "【LOL】4月27日 深夜のロルカスタム【 奏手イヅル 】",
         "video_id": "0MVg9rYNAfY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Fjn-T6cN1aQ/maxresdefault_live.jpg",
+        "timestamp": 1777240800,
+        "title": "【花岸れいでぃお】第99回！！花岸れいでぃお、楽しかったこと編！【岸堂天真/花咲みやび/ホロスターズ】",
+        "video_id": "Fjn-T6cN1aQ"
     }
 ]
