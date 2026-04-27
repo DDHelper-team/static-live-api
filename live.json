@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k-K5dWf_RHQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ぷちホロの村 】深夜のんびり生活はじめました🌼ˊ˗ 【 猫又おかゆ/ホロライブ 】",
-        "video_id": "k-K5dWf_RHQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +88,14 @@
         "timestamp": 1777377600,
         "title": "【】【ホロライブ/大空スバル】",
         "video_id": "P1KanoWU--8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rncGib1nrV0/maxresdefault_live.jpg",
+        "timestamp": 1777374000,
+        "title": "【 バイオハザード 0 HD REMASTER 】ゾンビかかって来なさ～～い！🧟#03【 猫又おかゆ/ホロライブ 】",
+        "video_id": "rncGib1nrV0"
     }
 ]
