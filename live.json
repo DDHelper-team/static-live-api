@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DP20B1wUQwc/maxresdefault_live.jpg",
-        "timestamp": 1777294800,
-        "title": "【都こんぶサワー！？】話題のお酒！！一体どんな味がするの…？正直レビューする！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "DP20B1wUQwc"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DP20B1wUQwc/maxresdefault_live.jpg",
-        "timestamp": 1777294800,
-        "title": "【都こんぶサワー！？】話題のお酒！！一体どんな味がするの…？正直レビューする！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "DP20B1wUQwc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -38,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k-K5dWf_RHQ/maxresdefault_live.jpg",
-        "timestamp": 1777294800,
+        "timestamp": null,
         "title": "【 ぷちホロの村 】深夜のんびり生活はじめました🌼ˊ˗ 【 猫又おかゆ/ホロライブ 】",
         "video_id": "k-K5dWf_RHQ"
     },
@@ -63,20 +45,11 @@
         "video_id": "VTuWoJtuWFw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bYeptv7XUSM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【初見】友達が少ないウサギが『トモダチコレクション わくわく生活』で最高の島を作る！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "bYeptv7XUSM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZCoYWi0ZbjM/maxresdefault_live.jpg",
-        "timestamp": 1777294800,
+        "timestamp": null,
         "title": "【Feign】very innocent and dahlah POV here 【ID VTUBERS】",
         "video_id": "ZCoYWi0ZbjM"
     },
@@ -99,20 +72,11 @@
         "video_id": "i99rmosUnB4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ArhJEPvG8Ak/maxresdefault_live.jpg",
-        "timestamp": 1777294800,
-        "title": "【雑談】ライブ本番まであと2日💡雑談はなんぼあったっていい【風真いろは/ホロライブ】",
-        "video_id": "ArhJEPvG8Ak"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rbsDuOx60rE/maxresdefault_live.jpg",
-        "timestamp": 1777294800,
+        "timestamp": null,
         "title": "【トモコレ】住人が増えました！片思いも増えました！【 ホロライブ / 大神ミオ 】",
         "video_id": "rbsDuOx60rE"
     },
@@ -133,15 +97,6 @@
         "timestamp": 1777375800,
         "title": "『棉花糖談心』讓我聽聽你們的問題【久田はくぜん🦊】",
         "video_id": "JYdC6EUD57Q"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kpL7afPk0TA/maxresdefault_live.jpg",
-        "timestamp": 1777294800,
-        "title": "【歌枠/KARAOKE】春はJ-POP？ボカロ？まったりしながら今週もがんばろ🎶【尾丸ポルカ/ホロライブ】",
-        "video_id": "kpL7afPk0TA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
@@ -187,5 +142,14 @@
         "timestamp": 1777377600,
         "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
         "video_id": "S7bjUzgO-bQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tdK8osqJgdw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Tomodachi Life】HORROR - The Cursed Island of Yearning.【Pavolia Reine/hololiveID】",
+        "video_id": "tdK8osqJgdw"
     }
 ]
