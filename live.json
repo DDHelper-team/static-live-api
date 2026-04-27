@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0IosTcfAq6k/maxresdefault_live.jpg",
-        "timestamp": 1777251600,
+        "timestamp": null,
         "title": "【CHRONO TRIGGER OFF-COLLAB with CECILIA】cecilia promised no tickling me 🐾【SPOILER WARNING｜FUWAMOCO】",
         "video_id": "0IosTcfAq6k"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kszNEQA1IcE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Take Your AI Daughter to Work Day 【PRAGMATA】#sponsored",
-        "video_id": "kszNEQA1IcE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -63,15 +54,6 @@
         "video_id": "C6A92ryeXhw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5TjBUCjv64A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
-        "video_id": "5TjBUCjv64A"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -90,15 +72,6 @@
         "video_id": "H-v9YPl0aw4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9UXffcq9JQk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Watchalong | LCS】TLAW vs SEN, Supporting TLAW because it\u0026#39;s blue #LCSCostream",
-        "video_id": "9UXffcq9JQk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +79,14 @@
         "timestamp": 1777284000,
         "title": "【 🔥告知あり 】ケモケモな #にゃんぐこーん でホラーゲームだッ🍙🌽✊✦【 ホロライブ 】",
         "video_id": "nGyhht1rLi8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7FJIAgWJb80/maxresdefault_live.jpg",
+        "timestamp": 1777338000,
+        "title": "【DARK SOULS: REMASTERED】hELP (level one challenge) #calliolive",
+        "video_id": "7FJIAgWJb80"
     }
 ]
