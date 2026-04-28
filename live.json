@@ -38,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wInuh1ji8EM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 8日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-        "video_id": "wInuh1ji8EM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FqRSr7eJnnk/maxresdefault_live.jpg",
+        "timestamp": 1777435200,
+        "title": "【崩壊：スターレイル】Ver4.2　開拓クエスト『そして、人々の笑いが響き渡る』をやる男【夕刻ロベル/ホロスターズ】",
+        "video_id": "FqRSr7eJnnk"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rncGib1nrV0/maxresdefault_live.jpg",
-        "timestamp": 1777374000,
+        "timestamp": null,
         "title": "【 バイオハザード 0 HD REMASTER 】ゾンビかかって来なさ～～い！🧟#03【 猫又おかゆ/ホロライブ 】",
         "video_id": "rncGib1nrV0"
     },
@@ -128,29 +128,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bwZsbabxx9c/maxresdefault_live.jpg",
-        "timestamp": 1777374000,
+        "timestamp": null,
         "title": "【Shadowverse: Worlds Beyond】ガチャ→ランクれっつごー！シャドバ新環境きたあああああああああ！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "bwZsbabxx9c"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bwZsbabxx9c/maxresdefault_live.jpg",
-        "timestamp": 1777374000,
+        "timestamp": null,
         "title": "【Shadowverse: Worlds Beyond】ガチャ→ランクれっつごー！シャドバ新環境きたあああああああああ！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "bwZsbabxx9c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HI0DBvT6CJA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life: Living the Dream】 Pt.10: TIME FOR INTERVENTION 【Kureiji Ollie】",
-        "video_id": "HI0DBvT6CJA"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -178,5 +169,23 @@
         "timestamp": 1777377600,
         "title": "【ガンプラ】初めての『HG 1/144 シャア専用ザク』作り！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "ITsHoU8eIpI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pLKJkP-fQFA/maxresdefault_live.jpg",
+        "timestamp": 1777428000,
+        "title": "【RESIDENT EVIL 6】LAS CHICAS GUAPAS @IRyS​",
+        "video_id": "pLKJkP-fQFA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DOlICwBMpGI/maxresdefault_live.jpg",
+        "timestamp": 1777377600,
+        "title": "【Split Fiction】LAST DI STREAM INI kalo ga skill issue...",
+        "video_id": "DOlICwBMpGI"
     }
 ]
