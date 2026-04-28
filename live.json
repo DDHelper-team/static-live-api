@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7FJIAgWJb80/maxresdefault_live.jpg",
-        "timestamp": 1777338900,
+        "timestamp": null,
         "title": "【DARK SOULS: REMASTERED】hELP (level one challenge) #calliolive",
         "video_id": "7FJIAgWJb80"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wInuh1ji8EM/maxresdefault_live.jpg",
-        "timestamp": 1777348800,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 8日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "wInuh1ji8EM"
     },
@@ -97,5 +97,50 @@
         "timestamp": 1777424400,
         "title": "【HOLOVILLAGE】relaxing slow life with our cozy hololive farm 🐾 【FUWAMOCO｜ぷちホロの村】",
         "video_id": "eFdKd7TtiP0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hj6_BKsBMPU/maxresdefault_live.jpg",
+        "timestamp": 1777383000,
+        "title": "【REANIMAL】水宮とならこの怖い島からきっと脱出できる…よね？ Escaping This Hellish Island With Su【hololive ID | Anya Melfissa】",
+        "video_id": "hj6_BKsBMPU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Av9Tn4gDjIs/maxresdefault_live.jpg",
+        "timestamp": 1777406400,
+        "title": "NEW OUTFIT Made from Monster Skin 【Monster Hunter Stories 3】 #ad",
+        "video_id": "Av9Tn4gDjIs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/si7DBLqkhv0/maxresdefault_live.jpg",
+        "timestamp": 1777375800,
+        "title": "主題雜談｜V的中之人會影響你推的意願嗎？【Healing希靈/VTuber】",
+        "video_id": "si7DBLqkhv0"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/si7DBLqkhv0/maxresdefault_live.jpg",
+        "timestamp": 1777375800,
+        "title": "主題雜談｜V的中之人會影響你推的意願嗎？【Healing希靈/VTuber】",
+        "video_id": "si7DBLqkhv0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RJH1s7QtL0k/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Tomodachi Life】Love is NOT Dead, and we will prove it【Pavolia Reine/hololiveID】",
+        "video_id": "RJH1s7QtL0k"
     }
 ]
