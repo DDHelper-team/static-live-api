@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FqRSr7eJnnk/maxresdefault_live.jpg",
-        "timestamp": 1777435200,
+        "timestamp": null,
         "title": "【崩壊：スターレイル】Ver4.2　開拓クエスト『そして、人々の笑いが響き渡る』をやる男【夕刻ロベル/ホロスターズ】",
         "video_id": "FqRSr7eJnnk"
     },
@@ -27,38 +27,11 @@
         "video_id": "Xkc1JIPdYaQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7u0G9Chb010/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Hytale】HowlingRager36\u0026#39;s Leisure Adventure #holohytale【hololive ID 2nd Gen | Anya Melfissa】",
-        "video_id": "7u0G9Chb010"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/v9rIa3ZTanE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MOUSE P.I. FOR HIRE】Cheesed to meet you【Dokibird】",
-        "video_id": "v9rIa3ZTanE"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/v9rIa3ZTanE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MOUSE P.I. FOR HIRE】Cheesed to meet you【Dokibird】",
-        "video_id": "v9rIa3ZTanE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pLKJkP-fQFA/maxresdefault_live.jpg",
-        "timestamp": 1777428000,
+        "timestamp": null,
         "title": "【RESIDENT EVIL 6】LAS CHICAS GUAPAS @IRyS​",
         "video_id": "pLKJkP-fQFA"
     },
@@ -124,5 +97,23 @@
         "timestamp": 1777464000,
         "title": "【 🔴オフコラボ 】地獄のくじ引きが帰ってきた🔥🔥🔥【 #スバおか /ホロライブ 】",
         "video_id": "CWRVS_VtrrY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ngi_daFtiUU/maxresdefault_live.jpg",
+        "timestamp": 1777514400,
+        "title": "Build-a-Bear Husbando Edition 【 Eronoctosis: Put Yourself Together】",
+        "video_id": "ngi_daFtiUU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qOOeGOpzWEo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【謎ゲー】寿司キャットとかいう謎のゲームが面白すぎる。 【岸堂天真/ホロスターズ】",
+        "video_id": "qOOeGOpzWEo"
     }
 ]
