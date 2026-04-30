@@ -9,15 +9,6 @@
         "video_id": "Oyn9GG_IVP8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/57R7UPufUUk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【振り返り】風真いろはさん振り返り会場🎙️🍃#SSholoX世界リペイント計画【風真いろは/ホロライブ】",
-        "video_id": "57R7UPufUUk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -29,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1je0xRYLDx8/maxresdefault_live.jpg",
-        "timestamp": 1777564800,
+        "timestamp": null,
         "title": "【holoVillage】Another smol 3D wawa in a cozy game!?!? GIMME #kfp #キアライブ",
         "video_id": "1je0xRYLDx8"
     },
@@ -43,15 +34,6 @@
         "timestamp": null,
         "title": "【Horsey Game】an Overwhelming Positive game that can change your life",
         "video_id": "AVWnvJDlfXw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YjAkgAUfiYc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【People of Note】#2  I Stayed for the Awesome Music 【 iofi / hololiveID 】",
-        "video_id": "YjAkgAUfiYc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -99,24 +81,6 @@
         "video_id": "nzmQz7xFHzg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ye9ezmdp4qc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜近距離的安撫不讓你寂寞入睡❤️｜Ear Massage Whispering ｜ 耳マッサージ 囁き 吐息 耳はむ 【KU100/黑3DIO】",
-        "video_id": "Ye9ezmdp4qc"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ye9ezmdp4qc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜近距離的安撫不讓你寂寞入睡❤️｜Ear Massage Whispering ｜ 耳マッサージ 囁き 吐息 耳はむ 【KU100/黑3DIO】",
-        "video_id": "Ye9ezmdp4qc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -142,5 +106,23 @@
         "timestamp": 1777590000,
         "title": "【Bayonetta 2】WITCH TIME!",
         "video_id": "tZ9VnzM01xY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ILht-AJqZUU/maxresdefault_live.jpg",
+        "timestamp": 1777577400,
+        "title": "【DOKISMP MINECRAFT】it\u0026#39;s time to PARKOUR【Dokibird】",
+        "video_id": "ILht-AJqZUU"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ILht-AJqZUU/maxresdefault_live.jpg",
+        "timestamp": 1777577400,
+        "title": "【DOKISMP MINECRAFT】it\u0026#39;s time to PARKOUR【Dokibird】",
+        "video_id": "ILht-AJqZUU"
     }
 ]
