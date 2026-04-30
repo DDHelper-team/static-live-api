@@ -72,15 +72,6 @@
         "video_id": "nzmQz7xFHzg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hUoW3G4pwU4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life】UNDOING THE CURSE OF THE ISLAND...【Pavolia Reine/hololiveID】",
-        "video_id": "hUoW3G4pwU4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,14 @@
         "timestamp": null,
         "title": "【DOKISMP MINECRAFT】it\u0026#39;s time to PARKOUR【Dokibird】",
         "video_id": "ILht-AJqZUU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kcfLGvuz32E/maxresdefault_live.jpg",
+        "timestamp": 1777586400,
+        "title": "【 APEX 】とにかくね、時間を注げって話なんです / アステル",
+        "video_id": "kcfLGvuz32E"
     }
 ]
