@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5rB99r-ByJ8/maxresdefault_live.jpg",
-        "timestamp": 1777579200,
+        "timestamp": null,
         "title": "Teaching My AI Daughter about VTubing【PRAGMATA】#sponsored",
         "video_id": "5rB99r-ByJ8"
     },
@@ -25,15 +25,6 @@
         "timestamp": null,
         "title": "【holoVillage】Another smol 3D wawa in a cozy game!?!? GIMME #kfp #キアライブ",
         "video_id": "1je0xRYLDx8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AVWnvJDlfXw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Horsey Game】an Overwhelming Positive game that can change your life",
-        "video_id": "AVWnvJDlfXw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -110,18 +101,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ILht-AJqZUU/maxresdefault_live.jpg",
-        "timestamp": 1777577400,
+        "timestamp": null,
         "title": "【DOKISMP MINECRAFT】it\u0026#39;s time to PARKOUR【Dokibird】",
         "video_id": "ILht-AJqZUU"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ILht-AJqZUU/maxresdefault_live.jpg",
-        "timestamp": 1777577400,
+        "timestamp": null,
         "title": "【DOKISMP MINECRAFT】it\u0026#39;s time to PARKOUR【Dokibird】",
         "video_id": "ILht-AJqZUU"
     }
