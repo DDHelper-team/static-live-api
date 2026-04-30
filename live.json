@@ -3,10 +3,10 @@
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3M2tFJzzlG4/maxresdefault_live.jpg",
-        "timestamp": 1777543200,
-        "title": "【メン限】月末のメン限【夕刻ロベル/ホロスターズ】",
-        "video_id": "3M2tFJzzlG4"
+        "thumbnail": "https://i.ytimg.com/vi/Oyn9GG_IVP8/maxresdefault_live.jpg",
+        "timestamp": 1777608000,
+        "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 9日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+        "video_id": "Oyn9GG_IVP8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8IZoChzvIt0/maxresdefault_live.jpg",
-        "timestamp": 1777539600,
+        "timestamp": null,
         "title": "【 TFT 】激闘遊戯 TFT Vol.1 にイヅルくんと出るぜ！GO!!!【アルランディス/ホロスターズ】",
         "video_id": "8IZoChzvIt0"
     },
@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ShTWqLufimY/maxresdefault_live.jpg",
-        "timestamp": 1777543200,
+        "timestamp": null,
         "title": "【Super Battle Golf】ホロスタゴルフ部【荒咬オウガ 花咲みやび　夜十神封魔】",
         "video_id": "ShTWqLufimY"
     },
@@ -128,27 +128,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/E6hctJ-1ORM/maxresdefault_live.jpg",
-        "timestamp": 1777539600,
+        "timestamp": null,
         "title": "【MHWilds】300??????【 iofi / hololiveID 】",
         "video_id": "E6hctJ-1ORM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/biCfsKKAirQ/maxresdefault_live.jpg",
-        "timestamp": 1777543205,
+        "timestamp": null,
         "title": "【アークナイツ：エンドフィールド】#4 | 新バージョンが来てるらしいぞおお！✨️【緋月ゆい/ネオポルテ】",
         "video_id": "biCfsKKAirQ"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/biCfsKKAirQ/maxresdefault_live.jpg",
-        "timestamp": 1777543205,
+        "timestamp": null,
         "title": "【アークナイツ：エンドフィールド】#4 | 新バージョンが来てるらしいぞおお！✨️【緋月ゆい/ネオポルテ】",
         "video_id": "biCfsKKAirQ"
     },
@@ -164,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QYYLB3S_d5A/maxresdefault_live.jpg",
-        "timestamp": 1777543200,
+        "timestamp": null,
         "title": "【Super Battle Golf】ホロスタゴルフバトル、開催！天真視点【岸堂天真/花咲みやび/羽継烏有/荒咬オウガ/水無世燐央/夜十神封魔/ホロスターズ】",
         "video_id": "QYYLB3S_d5A"
     },
@@ -182,10 +182,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nSTfz724420/maxresdefault_live.jpg",
-        "timestamp": 1777539600,
+        "timestamp": null,
         "title": "【 TFT / #激闘遊戯 】アルランディスに全任せ視点【 奏手イヅル w/ アルランディス 】",
         "video_id": "nSTfz724420"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/th_QVFAxYHs/maxresdefault_live.jpg",
+        "timestamp": 1777629600,
+        "title": "【PRAGMATA】Sci-fi here I come!!!",
+        "video_id": "th_QVFAxYHs"
     }
 ]
