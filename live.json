@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F-fqVoYovFE/maxresdefault_live.jpg",
-        "timestamp": 1777510800,
+        "timestamp": null,
         "title": "【Darksiders】up my alley game, probably (part 1) #calliolive",
         "video_id": "F-fqVoYovFE"
     },
@@ -52,24 +52,6 @@
         "timestamp": 1777546800,
         "title": "【Frist MISSION】風真いろはさん応援会場🎙️🍃#SSholoX世界リペイント計画",
         "video_id": "57R7UPufUUk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bCX3CgRmpoU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】I finish game today!【Dokibird】",
-        "video_id": "bCX3CgRmpoU"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bCX3CgRmpoU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】I finish game today!【Dokibird】",
-        "video_id": "bCX3CgRmpoU"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -92,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CTYHz4ftcH0/maxresdefault_live.jpg",
-        "timestamp": 1777514400,
+        "timestamp": null,
         "title": "【Tomodachi Life: Living the Dream】Making the rest of EN and then DRAMA!!!!",
         "video_id": "CTYHz4ftcH0"
     },
@@ -106,5 +88,23 @@
         "timestamp": 1777579200,
         "title": "Teaching My AI Daughter about VTubing【PRAGMATA】#sponsored",
         "video_id": "5rB99r-ByJ8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1je0xRYLDx8/maxresdefault_live.jpg",
+        "timestamp": 1777564800,
+        "title": "【holoVillage】Another smol 3D wawa in a cozy game!?!? GIMME #kfp #キアライブ",
+        "video_id": "1je0xRYLDx8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/t9eRUykX5h0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 APEX 】11時超えたら遅刻って話でした / アステル  xnfri ツクモ...?",
+        "video_id": "t9eRUykX5h0"
     }
 ]
