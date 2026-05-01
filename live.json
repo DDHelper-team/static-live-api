@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/th_QVFAxYHs/maxresdefault_live.jpg",
-        "timestamp": 1777629600,
+        "timestamp": null,
         "title": "【PRAGMATA】Sci-fi here I come!!!",
         "video_id": "th_QVFAxYHs"
     },
@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nzmQz7xFHzg/maxresdefault_live.jpg",
-        "timestamp": 1777629600,
+        "timestamp": null,
         "title": "【holoIndie応援大使】INDIE Live Expo 2026から沢山ゲームをいただいたからDEV_ISにプレゼントだ！！【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "nzmQz7xFHzg"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nzmQz7xFHzg/maxresdefault_live.jpg",
-        "timestamp": 1777629600,
+        "timestamp": null,
         "title": "【holoIndie応援大使】INDIE Live Expo 2026から沢山ゲームをいただいたからDEV_ISにプレゼントだ！！【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "nzmQz7xFHzg"
     },
@@ -72,15 +72,6 @@
         "video_id": "BcDaTWRodsQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UdojLtcdFAE/maxresdefault_live.jpg",
-        "timestamp": 1777690800,
-        "title": "【ZELDA: OCARINA OF TIME ENDURANCE 耐久配信】time has passed and now we are adult FWMC 🐾 【FUWAMOCO】",
-        "video_id": "UdojLtcdFAE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8XIe_NdNH14/maxresdefault_live.jpg",
-        "timestamp": 1777629600,
+        "timestamp": null,
         "title": "【雑談】5月の予定とか！【アルランディス/ホロスターズ】",
         "video_id": "8XIe_NdNH14"
     },
@@ -160,5 +151,32 @@
         "timestamp": 1777644000,
         "title": "【PRAGMATA】So... I\u0026#39;m a babysitter?【 iofi / hololiveID 】",
         "video_id": "hP6YuiStyrs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PeEIDfOiQlM/maxresdefault_live.jpg",
+        "timestamp": 1777643100,
+        "title": "【Cropdeck】new farming deckbuilder? im innnnnnnnnn!",
+        "video_id": "PeEIDfOiQlM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E8DA-rRTv-Q/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "久し振りにあの神ゲーをやります。【MY CARD IS BETTER THAN YOUR CARD】【岸堂天真/ホロスターズ】",
+        "video_id": "E8DA-rRTv-Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IoM0GUw6sgw/maxresdefault_live.jpg",
+        "timestamp": 1777640400,
+        "title": "【Memberships only】めんげんざつだん。",
+        "video_id": "IoM0GUw6sgw"
     }
 ]
