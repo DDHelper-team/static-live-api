@@ -63,15 +63,6 @@
         "video_id": "3PZa0cMPSz0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tZ9VnzM01xY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Bayonetta 2】WITCH TIME!",
-        "video_id": "tZ9VnzM01xY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -106,5 +97,14 @@
         "timestamp": 1777690800,
         "title": "#6【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "E_ELTT9EHrw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8XIe_NdNH14/maxresdefault_live.jpg",
+        "timestamp": 1777629600,
+        "title": "【雑談】5月の予定とか！【アルランディス/ホロスターズ】",
+        "video_id": "8XIe_NdNH14"
     }
 ]
