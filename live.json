@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UEEq3IAZSlQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#7】ジョジョ第５部同時視聴みるしゅばあああああああああああああああああああああ！！！！：JoJo\u0026#39;s Bizarre Adventure: Golden Wind【ホロライブ/大空スバル】",
-        "video_id": "UEEq3IAZSlQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_E-lmZVwP0A/maxresdefault_live.jpg",
+        "timestamp": 1777683600,
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "_E-lmZVwP0A"
     },
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
@@ -70,15 +70,6 @@
         "timestamp": 1777690800,
         "title": "【FINAL FANTASY XIV】至天の座アルカディア踏破耐久予定地　※ネタバレあり※ 【ホロライブ/白上フブキ】",
         "video_id": "HBNuE2Vx0Rs"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/X4kWf1UetNU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】hacking with diana the ai ⚠️SPOILER ALERT⚠️",
-        "video_id": "X4kWf1UetNU"
     },
     {
         "channel": "https://www.youtube.com/@tsukasa_ryogoku",
@@ -142,5 +133,23 @@
         "timestamp": null,
         "title": "join GOLF IT",
         "video_id": "fWOEO_umpCs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wxJXOCVs5G0/maxresdefault_live.jpg",
+        "timestamp": 1777694400,
+        "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 10日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+        "video_id": "wxJXOCVs5G0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WIgPvzuNvnc/maxresdefault_live.jpg",
+        "timestamp": 1777676400,
+        "title": "【Portal】Using my one brain cell",
+        "video_id": "WIgPvzuNvnc"
     }
 ]
