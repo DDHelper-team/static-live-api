@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Oyn9GG_IVP8/maxresdefault_live.jpg",
-        "timestamp": 1777608000,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 9日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "Oyn9GG_IVP8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5rB99r-ByJ8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Teaching My AI Daughter about VTubing【PRAGMATA】#sponsored",
-        "video_id": "5rB99r-ByJ8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -88,5 +79,32 @@
         "timestamp": null,
         "title": "【 APEX 】とにかくね、時間を注げって話なんです / アステル",
         "video_id": "kcfLGvuz32E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BcDaTWRodsQ/maxresdefault_live.jpg",
+        "timestamp": 1777644000,
+        "title": "【DOOM ETERNAL】MARATHONING TILL THE END ! #KFP #キアライブ",
+        "video_id": "BcDaTWRodsQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UdojLtcdFAE/maxresdefault_live.jpg",
+        "timestamp": 1777690800,
+        "title": "【ZELDA: OCARINA OF TIME ENDURANCE 耐久配信】time has passed and now we are adult FWMC 🐾 【FUWAMOCO】",
+        "video_id": "UdojLtcdFAE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E_ELTT9EHrw/maxresdefault_live.jpg",
+        "timestamp": 1777690800,
+        "title": "#6【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "E_ELTT9EHrw"
     }
 ]
