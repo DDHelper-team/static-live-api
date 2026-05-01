@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BcDaTWRodsQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DOOM ETERNAL】MARATHONING TILL THE END ! #KFP #キアライブ",
-        "video_id": "BcDaTWRodsQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +97,14 @@
         "timestamp": 1777725000,
         "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#07【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "rV7Y1OOr1s4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4bEy0ErXGac/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【朝活】はやおきえらああああああああい【ホロライブ/夏色まつり】",
+        "video_id": "4bEy0ErXGac"
     }
 ]
