@@ -99,24 +99,6 @@
         "video_id": "UEEq3IAZSlQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PcdE9HpQ1ZI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パラソーシャル】久しぶりのホラゲー！！やってみるよ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "PcdE9HpQ1ZI"
-    },
-    {
-        "channel": "https://www.youtube.com/@OtonoseKanade",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PcdE9HpQ1ZI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パラソーシャル】久しぶりのホラゲー！！やってみるよ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "PcdE9HpQ1ZI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -162,15 +144,6 @@
         "video_id": "PeEIDfOiQlM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/E8DA-rRTv-Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "久し振りにあの神ゲーをやります。【MY CARD IS BETTER THAN YOUR CARD】【岸堂天真/ホロスターズ】",
-        "video_id": "E8DA-rRTv-Q"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -178,5 +151,23 @@
         "timestamp": 1777640400,
         "title": "【Memberships only】めんげんざつだん。",
         "video_id": "IoM0GUw6sgw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HBNuE2Vx0Rs/maxresdefault_live.jpg",
+        "timestamp": 1777690800,
+        "title": "【FINAL FANTASY XIV】至天の座アルカディア踏破耐久予定地　※ネタバレあり※ 【ホロライブ/白上フブキ】",
+        "video_id": "HBNuE2Vx0Rs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/X4kWf1UetNU/maxresdefault_live.jpg",
+        "timestamp": 1777640400,
+        "title": "【PRAGMATA】hacking with diana the ai ⚠️SPOILER ALERT⚠️",
+        "video_id": "X4kWf1UetNU"
     }
 ]
