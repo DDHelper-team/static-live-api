@@ -47,38 +47,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_PEhwnuuL10/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "_PEhwnuuL10"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WWBbuKFdcds/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！part2 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "WWBbuKFdcds"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_PEhwnuuL10/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "_PEhwnuuL10"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9_VdQF7M9-o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 司書のお仕事：魔導図書館を片付けろ！ 】夜、本を片付ける。【獅子神レオナ/Re:AcT】",
-        "video_id": "9_VdQF7M9-o"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9_VdQF7M9-o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 司書のお仕事：魔導図書館を片付けろ！ 】夜、本を片付ける。【獅子神レオナ/Re:AcT】",
-        "video_id": "9_VdQF7M9-o"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WWBbuKFdcds/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！part2 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "WWBbuKFdcds"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
@@ -124,5 +106,14 @@
         "timestamp": null,
         "title": "【Tomodachi Life】More Neighbors More Love More Drama【Pavolia Reine/hololiveID】",
         "video_id": "OlNuxpz2m2M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SYBeW0REd80/maxresdefault_live.jpg",
+        "timestamp": 1777780800,
+        "title": "【WINDROSE】海に出れるようになったところから！Part2【岸堂天真/烏有/アステル/ホロスターズ】",
+        "video_id": "SYBeW0REd80"
     }
 ]
