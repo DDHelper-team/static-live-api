@@ -11,29 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rV7Y1OOr1s4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#07【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "rV7Y1OOr1s4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CryTwuYv16s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Singing / Karaoke】新しいお顔で1時間限定歌枠！！！【#TanZ 】",
-        "video_id": "CryTwuYv16s"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CryTwuYv16s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Singing / Karaoke】新しいお顔で1時間限定歌枠！！！【#TanZ 】",
-        "video_id": "CryTwuYv16s"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kYW2gLiX0EE/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#08【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "kYW2gLiX0EE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -133,5 +115,14 @@
         "timestamp": null,
         "title": "【FINAL FANTASY XIV】極マウント周回で阿鼻叫喚しよう　※ネタバレあり※ 【ホロライブ/白上フブキ】",
         "video_id": "vrAhMZQfL58"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OlNuxpz2m2M/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Tomodachi Life】More Neighbors More Love More Drama【Pavolia Reine/hololiveID】",
+        "video_id": "OlNuxpz2m2M"
     }
 ]
