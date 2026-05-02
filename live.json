@@ -2,20 +2,20 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/E_ELTT9EHrw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#6【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "E_ELTT9EHrw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2UAYskhRyWA/maxresdefault_live.jpg",
+        "timestamp": 1777723200,
+        "title": "【コラボ】無言でマリオパーティをします【ホロライブ/兎田ぺこら/宝鐘マリン/水宮枢/綺々羅々ヴィヴィ】",
+        "video_id": "2UAYskhRyWA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tRnA1lQqy40/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#11】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-        "video_id": "tRnA1lQqy40"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KOjCD4awzAA/maxresdefault_live.jpg",
+        "timestamp": 1777780800,
+        "title": "【#12】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
+        "video_id": "KOjCD4awzAA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -112,8 +112,8 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/METtKVGVZg0/maxresdefault_live.jpg",
-        "timestamp": 1777712400,
-        "title": "【ぷちホロの村】ホロの世界でまったり過ごしてみる～！！【雪花ラミィ /ホロライブ】",
+        "timestamp": 1777726800,
+        "title": "【夜雑談】配信内容変更！！雑談してもいい？【雪花ラミィ /ホロライブ】",
         "video_id": "METtKVGVZg0"
     },
     {
@@ -137,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SkX0hythzlE/maxresdefault_live.jpg",
-        "timestamp": 1777712400,
+        "timestamp": null,
         "title": "【ワンワンバトル】ホロ１でかい声(現状)を出せる狂犬によるワンワン【 ホロライブ / 大神ミオ 】",
         "video_id": "SkX0hythzlE"
     },
@@ -189,15 +189,6 @@
         "video_id": "CbiXCSA1fLo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/00NR7YNDHS0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life: Living the Dream】 Pt.11: THERE\u0026#39;S A FIGHT IN MY ISLAND 【Kureiji Ollie】",
-        "video_id": "00NR7YNDHS0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +205,14 @@
         "timestamp": 1777719600,
         "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "0LkzQla1Xx0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Lbh3u5OTcAo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【WINDROSE】次の冒険は海賊だ！【岸堂天真/烏有/アステル/ホロスターズ】",
+        "video_id": "Lbh3u5OTcAo"
     }
 ]
