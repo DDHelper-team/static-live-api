@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_E-lmZVwP0A/maxresdefault_live.jpg",
-        "timestamp": 1777683600,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "_E-lmZVwP0A"
     },
@@ -56,18 +56,18 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MlSdVYXhnsM/maxresdefault_live.jpg",
-        "timestamp": 1777680000,
+        "timestamp": null,
         "title": "【MARVEL RIVALS TOURNAMENT】Mouse \u0026amp; Monke: Vtuber Cup 2【Dokibird】",
         "video_id": "MlSdVYXhnsM"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MlSdVYXhnsM/maxresdefault_live.jpg",
-        "timestamp": 1777680000,
+        "timestamp": null,
         "title": "【MARVEL RIVALS TOURNAMENT】Mouse \u0026amp; Monke: Vtuber Cup 2【Dokibird】",
         "video_id": "MlSdVYXhnsM"
     },
@@ -99,12 +99,21 @@
         "video_id": "rV7Y1OOr1s4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4bEy0ErXGac/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活】はやおきえらああああああああい【ホロライブ/夏色まつり】",
-        "video_id": "4bEy0ErXGac"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CryTwuYv16s/maxresdefault_live.jpg",
+        "timestamp": 1777734000,
+        "title": "【Singing / Karaoke】新しいお顔で1時間限定歌枠！！！【#TanZ 】",
+        "video_id": "CryTwuYv16s"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CryTwuYv16s/maxresdefault_live.jpg",
+        "timestamp": 1777734000,
+        "title": "【Singing / Karaoke】新しいお顔で1時間限定歌枠！！！【#TanZ 】",
+        "video_id": "CryTwuYv16s"
     }
 ]
