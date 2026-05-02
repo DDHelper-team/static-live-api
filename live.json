@@ -45,24 +45,6 @@
         "video_id": "AhGrt2gr5pc"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MlSdVYXhnsM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MARVEL RIVALS TOURNAMENT】Mouse \u0026amp; Monke: Vtuber Cup 2【Dokibird】",
-        "video_id": "MlSdVYXhnsM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MlSdVYXhnsM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MARVEL RIVALS TOURNAMENT】Mouse \u0026amp; Monke: Vtuber Cup 2【Dokibird】",
-        "video_id": "MlSdVYXhnsM"
-    },
-    {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -108,15 +90,6 @@
         "video_id": "CryTwuYv16s"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/D1jv44h1i-w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 APEX 】すべてのエペンゲリオンに、ありがとう / アステル",
-        "video_id": "D1jv44h1i-w"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -146,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8Z_XMK7o9iI/maxresdefault_live.jpg",
-        "timestamp": 1777708800,
+        "timestamp": null,
         "title": "【ウマ娘】大好きな愛バ！！ガチャダービー開催！！目指せピタリ賞！！！イベストも観たい【尾丸ポルカ/ホロライブ】",
         "video_id": "8Z_XMK7o9iI"
     },
@@ -180,29 +153,20 @@
         "video_id": "SvW6j7OTFAo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Lqwv-yjzOcE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Brunch Stream】Telenovela Summary So Far【Pavolia Reine/hololiveID】",
-        "video_id": "Lqwv-yjzOcE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cM9H5jKzU1g/maxresdefault_live.jpg",
-        "timestamp": 1777705200,
+        "timestamp": null,
         "title": "【 耐久歌枠 】GW企画！80万人いけるかな？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "cM9H5jKzU1g"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cM9H5jKzU1g/maxresdefault_live.jpg",
-        "timestamp": 1777705200,
+        "timestamp": null,
         "title": "【 耐久歌枠 】GW企画！80万人いけるかな？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "cM9H5jKzU1g"
     },
@@ -232,5 +196,23 @@
         "timestamp": null,
         "title": "【Tomodachi Life: Living the Dream】 Pt.11: THERE\u0026#39;S A FIGHT IN MY ISLAND 【Kureiji Ollie】",
         "video_id": "00NR7YNDHS0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0LkzQla1Xx0/maxresdefault_live.jpg",
+        "timestamp": 1777719600,
+        "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "0LkzQla1Xx0"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0LkzQla1Xx0/maxresdefault_live.jpg",
+        "timestamp": 1777719600,
+        "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "0LkzQla1Xx0"
     }
 ]
