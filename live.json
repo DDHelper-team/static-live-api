@@ -54,15 +54,6 @@
         "video_id": "OzcvI85xOx8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OlNuxpz2m2M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life】More Neighbors More Love More Drama【Pavolia Reine/hololiveID】",
-        "video_id": "OlNuxpz2m2M"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,14 @@
         "timestamp": null,
         "title": "【OHAPOL】#198 5/3日曜日！GWのニチアサだああああああああ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
         "video_id": "QGOjIE6QaBM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aMbbAFeO8yA/maxresdefault_live.jpg",
+        "timestamp": 1777824000,
+        "title": "【TOMODACHI LIFE 2】Reformed Island and MANY NEW MIIS! #kfp #キアライブ",
+        "video_id": "aMbbAFeO8yA"
     }
 ]
