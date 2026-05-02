@@ -54,15 +54,6 @@
         "video_id": "OzcvI85xOx8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vrAhMZQfL58/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FINAL FANTASY XIV】極マウント周回で阿鼻叫喚しよう　※ネタバレあり※ 【ホロライブ/白上フブキ】",
-        "video_id": "vrAhMZQfL58"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -88,5 +79,32 @@
         "timestamp": 1777752000,
         "title": "【Watchalong | LCS】C9 vs DIG, C9 FOR THE WIN !!! #LCSCostream",
         "video_id": "6JZfHSei4Bo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E72eJZzLAik/maxresdefault_live.jpg",
+        "timestamp": 1777800600,
+        "title": "〖 #VCTWatchParty 〗DFM vs RRQ みるんだyo",
+        "video_id": "E72eJZzLAik"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ufo52SGumrI/maxresdefault_live.jpg",
+        "timestamp": 1777766400,
+        "title": "【TOMODACHI LIFE】Welcome to doki island【Dokibird】",
+        "video_id": "Ufo52SGumrI"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ufo52SGumrI/maxresdefault_live.jpg",
+        "timestamp": 1777766400,
+        "title": "【TOMODACHI LIFE】Welcome to doki island【Dokibird】",
+        "video_id": "Ufo52SGumrI"
     }
 ]
