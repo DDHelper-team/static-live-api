@@ -29,20 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AhGrt2gr5pc/maxresdefault_live.jpg",
-        "timestamp": 1777717800,
+        "timestamp": null,
         "title": "【FORTNITE】THE SUISEI CONCERT IN FORTNITE?!",
         "video_id": "AhGrt2gr5pc"
-    },
-    {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EhUdfmhMr_w/maxresdefault_live.jpg",
-        "timestamp": 1777719600,
-        "title": "かわいい2人に挟まれたい人、おいで～…♡目で耳でかわいいを摂取できちゃう癒しの空間♡ ┊ VRChat【3Dコラボ】",
-        "video_id": "EhUdfmhMr_w"
     },
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
@@ -92,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": null,
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/J9NDlvkfIQM/maxresdefault_live.jpg",
-        "timestamp": 1777716000,
+        "timestamp": null,
         "title": "【トモダチコレクション】シリーズ初プレイ！ゆる～い^^まちつくるぞ📍【風真いろは/ホロライブ】",
         "video_id": "J9NDlvkfIQM"
     },
@@ -164,28 +155,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0LkzQla1Xx0/maxresdefault_live.jpg",
-        "timestamp": 1777719600,
+        "timestamp": null,
         "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "0LkzQla1Xx0"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0LkzQla1Xx0/maxresdefault_live.jpg",
-        "timestamp": 1777719600,
+        "timestamp": null,
         "title": "【PRAGMATA】カプコン最新作！一緒に素敵なストーリーに感動したい…！！※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "0LkzQla1Xx0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Lbh3u5OTcAo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【WINDROSE】次の冒険は海賊だ！【岸堂天真/烏有/アステル/ホロスターズ】",
-        "video_id": "Lbh3u5OTcAo"
     }
 ]
