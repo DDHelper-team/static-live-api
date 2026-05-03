@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KOjCD4awzAA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#12】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-        "video_id": "KOjCD4awzAA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -47,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/E72eJZzLAik/maxresdefault_live.jpg",
-        "timestamp": 1777800600,
+        "timestamp": null,
         "title": "〖 #VCTWatchParty 〗DFM vs RRQ みるんだyo",
         "video_id": "E72eJZzLAik"
     },
@@ -65,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CIl2-lTkucE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FINAL FANTASY XIV】続！極マウント周回で阿鼻叫喚しよう　※ネタバレあり※ 【ホロライブ/白上フブキ】",
-        "video_id": "CIl2-lTkucE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a2JWi6iywG0/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【Cursed Companions】NGワードを言うと仲間が次々と滅するゲーム　＃ホロコンパニオンズ　【ホロライブ/白上フブキ】",
+        "video_id": "a2JWi6iywG0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -115,5 +106,23 @@
         "timestamp": 1777806000,
         "title": "【ストリートファイター6】今日の対戦会は濃い【アルランディス/ホロスターズ】",
         "video_id": "iVbf6ZFotlQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KWCNqxo5A7Y/maxresdefault_live.jpg",
+        "timestamp": 1777802400,
+        "title": "【同時視聴】LIVE UNION 2nd LIVE 『The Awakening』台北公演Day1 観るぞ！ 【HACHI / 焔魔るり / 瀬戸乃とと / 水瀬凪】",
+        "video_id": "KWCNqxo5A7Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cHe1fVaXqEk/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【Cursed Companions】NGワードで仲間が消滅！？！？【百鬼あやめ視点/ホロライブ】",
+        "video_id": "cHe1fVaXqEk"
     }
 ]
