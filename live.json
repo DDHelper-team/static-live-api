@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KWCNqxo5A7Y/maxresdefault_live.jpg",
-        "timestamp": 1777802400,
+        "timestamp": null,
         "title": "【同時視聴】LIVE UNION 2nd LIVE 『The Awakening』台北公演Day1 観るぞ！ 【HACHI / 焔魔るり / 瀬戸乃とと / 水瀬凪】",
         "video_id": "KWCNqxo5A7Y"
     },
@@ -124,5 +124,41 @@
         "timestamp": 1777809600,
         "title": "【Cursed Companions】NGワードで仲間が消滅！？！？【百鬼あやめ視点/ホロライブ】",
         "video_id": "cHe1fVaXqEk"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qGUu1Pk1tVg/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【 モンハンアウトランダーズ╎MHO】CBT2きた！初見で遊ぶ🔥【獅子神レオナ/Re:AcT】",
+        "video_id": "qGUu1Pk1tVg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qGUu1Pk1tVg/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【 モンハンアウトランダーズ╎MHO】CBT2きた！初見で遊ぶ🔥【獅子神レオナ/Re:AcT】",
+        "video_id": "qGUu1Pk1tVg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TXLWEj30Mqo/maxresdefault_live.jpg",
+        "timestamp": 1777811400,
+        "title": "【 NTE: Neverness to Everness  】待ちに待ったNTE！！自由に遊びまくる！！！【#新人vtuber 】",
+        "video_id": "TXLWEj30Mqo"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TXLWEj30Mqo/maxresdefault_live.jpg",
+        "timestamp": 1777811400,
+        "title": "【 NTE: Neverness to Everness  】待ちに待ったNTE！！自由に遊びまくる！！！【#新人vtuber 】",
+        "video_id": "TXLWEj30Mqo"
     }
 ]
