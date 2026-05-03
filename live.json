@@ -63,15 +63,6 @@
         "video_id": "a2JWi6iywG0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VJ4gKO6_51E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】#2  Ajak Anak Jalan Jalan dan Gebukin Robot【 iofi / hololiveID 】",
-        "video_id": "VJ4gKO6_51E"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -101,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iVbf6ZFotlQ/maxresdefault_live.jpg",
-        "timestamp": 1777806000,
+        "timestamp": null,
         "title": "【ストリートファイター6】今日の対戦会は濃い【アルランディス/ホロスターズ】",
         "video_id": "iVbf6ZFotlQ"
     },
@@ -160,5 +151,14 @@
         "timestamp": 1777811400,
         "title": "【 NTE: Neverness to Everness  】待ちに待ったNTE！！自由に遊びまくる！！！【#新人vtuber 】",
         "video_id": "TXLWEj30Mqo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LkYBKmjI6j4/maxresdefault_live.jpg",
+        "timestamp": 1777809600,
+        "title": "【 Slay the Spire 2】頭使って攻略してくぜ　#2【荒咬オウガ /ホロスターズ】",
+        "video_id": "LkYBKmjI6j4"
     }
 ]
