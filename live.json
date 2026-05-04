@@ -45,15 +45,6 @@
         "video_id": "IowGieJNbBM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/R9cdLAXxfWw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【WINDROSE】今日はソロでクエストとかやる！！Part3【岸堂天真/ホロスターズ】",
-        "video_id": "R9cdLAXxfWw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -81,12 +72,57 @@
         "video_id": "wfCbPBF2ssI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_Wls4gK4xts/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/iKLwRAIiblQ/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【鳴潮2周年】2周年ってことはガチャから始めなきゃですよね！？【ホロライブ/夏色まつり】",
-        "video_id": "_Wls4gK4xts"
+        "title": "【Windrose/ウィンドローズ】話題の海賊サバイバルぼたんちゃんとやってみる！海賊王におれはなるっ!!!!!ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "iKLwRAIiblQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vk2qS3lL-ZM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Singing / Karaoke】リクエスト歌枠♪【#TanZ 】",
+        "video_id": "vk2qS3lL-ZM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yCVakJuei6k/maxresdefault_live.jpg",
+        "timestamp": 1777899600,
+        "title": "【Supermarket Together】わしがこのスーパーをでかくする【轟はじめ/ReGLOSS】",
+        "video_id": "yCVakJuei6k"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vk2qS3lL-ZM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Singing / Karaoke】リクエスト歌枠♪【#TanZ 】",
+        "video_id": "vk2qS3lL-ZM"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yCVakJuei6k/maxresdefault_live.jpg",
+        "timestamp": 1777899600,
+        "title": "【Supermarket Together】わしがこのスーパーをでかくする【轟はじめ/ReGLOSS】",
+        "video_id": "yCVakJuei6k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4tEX9B_fmKg/maxresdefault_live.jpg",
+        "timestamp": 1777896000,
+        "title": "【 Slay the Spire 2】頭使って攻略してくぜ　#3【荒咬オウガ /ホロスターズ】",
+        "video_id": "4tEX9B_fmKg"
     }
 ]
