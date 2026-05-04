@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/P6JvmErYjVc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#朝ミオGW寝起き逆凸 】毎年恒例！２０２６年の寝起き逆凸です☀【ホロライブ】",
-        "video_id": "P6JvmErYjVc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -25,5 +16,23 @@
         "timestamp": null,
         "title": "【PORTAL 2】BRAIN CELL STILL ALIVE",
         "video_id": "P5gI0xAJ17k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1krRDpCE-J0/maxresdefault_live.jpg",
+        "timestamp": 1777942800,
+        "title": "Cleaning Your Ears With a Pressure Washer ASMR 【PowerWash Simulator 2】",
+        "video_id": "1krRDpCE-J0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gsTlKs8pQZw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Pokémon Champions】お昼のメガスピアー定食【夕刻ロベル/ホロスターズ】",
+        "video_id": "gsTlKs8pQZw"
     }
 ]
