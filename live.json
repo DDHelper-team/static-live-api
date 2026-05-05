@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yOJd3m71nFU/maxresdefault_live.jpg",
-        "timestamp": 1777978800,
+        "timestamp": null,
         "title": "【PRAGMATA】クリアまで！カプコン最新作！一緒に素敵なストーリーに感動したい…！！part3 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "yOJd3m71nFU"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yOJd3m71nFU/maxresdefault_live.jpg",
-        "timestamp": 1777978800,
+        "timestamp": null,
         "title": "【PRAGMATA】クリアまで！カプコン最新作！一緒に素敵なストーリーに感動したい…！！part3 ※ネタバレ注意【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "yOJd3m71nFU"
     },
@@ -115,5 +115,32 @@
         "timestamp": 1777982400,
         "title": "【＃無礼講アモアス】GWは無礼講！！AmongUsで暴れるぞ！！【雪花ラミィ /ホロライブ】",
         "video_id": "N5ijkems8f0"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RYuEVKdB_bQ/maxresdefault_live.jpg",
+        "timestamp": 1777982400,
+        "title": "【＃無礼講アモアス 】らで畑任三郎枠【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "RYuEVKdB_bQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RYuEVKdB_bQ/maxresdefault_live.jpg",
+        "timestamp": 1777982400,
+        "title": "【＃無礼講アモアス 】らで畑任三郎枠【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "RYuEVKdB_bQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UIh1DeZP8Bg/maxresdefault_live.jpg",
+        "timestamp": 1777984200,
+        "title": "【Tomodachi Life】Active ENID Complete! The rebirth of doomed yuri island【Pavolia Reine/hololiveID】",
+        "video_id": "UIh1DeZP8Bg"
     }
 ]
