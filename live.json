@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DJ1rIYR5R2s/maxresdefault_live.jpg",
-        "timestamp": 1778011200,
+        "timestamp": null,
         "title": "Hacking Into Your 💳 the Game 【PRAGMATA】 SPOILERS",
         "video_id": "DJ1rIYR5R2s"
     },
@@ -27,15 +27,6 @@
         "video_id": "Yo_a7kQ0_ow"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UIh1DeZP8Bg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life】Active ENID Complete! The rebirth of doomed yuri island【Pavolia Reine/hololiveID】",
-        "video_id": "UIh1DeZP8Bg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -43,15 +34,6 @@
         "timestamp": 1778068800,
         "title": "【】先輩格付けランキング！【ホロライブ/大空スバル】",
         "video_id": "EPkpznRWp_Y"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gATxKZf0c24/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Librarian: Tidy Up the Arcane Library!】3072冊なんてお片付けマスターの私の手にかかれb 【HACHI】",
-        "video_id": "gATxKZf0c24"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -124,5 +106,14 @@
         "timestamp": 1778025600,
         "title": "【TOMODACHI LIFE】Kevin from the Minions Movie【Dokibird】",
         "video_id": "99LdtYULqH0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ubKmGP1jC3M/maxresdefault_live.jpg",
+        "timestamp": 1778076000,
+        "title": "【 🟣言っちゃダメ 】禁句を喋ると命取り⁉️Cursed Companionで遊ぼう🤝✦【 猫又おかゆ視点/ホロライブ 】",
+        "video_id": "ubKmGP1jC3M"
     }
 ]
