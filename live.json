@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aGz3HPaEHK0/maxresdefault_live.jpg",
-        "timestamp": 1777975200,
+        "timestamp": null,
         "title": "【 DDFF 】ディシディアの最新アプリゲーをみんなと遊ぼう！【アルランディス/ホロスターズ】",
         "video_id": "aGz3HPaEHK0"
     },
@@ -83,19 +83,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RWI1gEPHrSY/maxresdefault_live.jpg",
-        "timestamp": 1777975200,
+        "timestamp": null,
         "title": "【かしわ記念】競馬配信🔰積み上げた王者の意地か、新星の台頭か。【尾丸ポルカ/ホロライブ】",
         "video_id": "RWI1gEPHrSY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tDzxPMK5BA4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LoL】修行 / アステル",
-        "video_id": "tDzxPMK5BA4"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wvLEi0HwaHE/maxresdefault_live.jpg",
+        "timestamp": 1777986000,
+        "title": "【holoVillage: Our Cozy Days】going inside the cave and never coming out again",
+        "video_id": "wvLEi0HwaHE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2qhw3zMMsMU/maxresdefault_live.jpg",
+        "timestamp": 1777982400,
+        "title": "【AmongUS】無礼講ホロアモアスで絶対にクルーになる白上フブキ(希望的観測)　【ホロライブ/白上フブキ】",
+        "video_id": "2qhw3zMMsMU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/N5ijkems8f0/maxresdefault_live.jpg",
+        "timestamp": 1777982400,
+        "title": "【＃無礼講アモアス】GWは無礼講！！AmongUsで暴れるぞ！！【雪花ラミィ /ホロライブ】",
+        "video_id": "N5ijkems8f0"
     }
 ]
