@@ -20,18 +20,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KRFO4WHYCSY/maxresdefault_live.jpg",
-        "timestamp": 1778095800,
+        "timestamp": null,
         "title": "【MOUSE P.I. FOR HIRE】Don\u0026#39;t worry, brie happy【Dokibird】",
         "video_id": "KRFO4WHYCSY"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KRFO4WHYCSY/maxresdefault_live.jpg",
-        "timestamp": 1778095800,
+        "timestamp": null,
         "title": "【MOUSE P.I. FOR HIRE】Don\u0026#39;t worry, brie happy【Dokibird】",
         "video_id": "KRFO4WHYCSY"
     },
@@ -79,5 +79,14 @@
         "timestamp": 1778119200,
         "title": "【HANDCAM】BUILDING STEEL HAZE: RUSTY!!!!",
         "video_id": "VJ7IpY6xuDM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/41vOdMBNhiU/maxresdefault_live.jpg",
+        "timestamp": 1778151600,
+        "title": "【 DETROIT 】自分の選択が未来を変える⁉️アンドロイドと対話しよう✊#01【 猫又おかゆ/ホロライブ 】",
+        "video_id": "41vOdMBNhiU"
     }
 ]
