@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_ME7kQoEYIc/maxresdefault_live.jpg",
-        "timestamp": 1778036400,
+        "timestamp": null,
         "title": "お昼から一緒にゆる～くリラックスしませんか？💤まったり気持ちいいサウンドに癒されるチルい午後♡ ゆったり整地やおさんぽ♡【ぽこ あ ポケモン】",
         "video_id": "_ME7kQoEYIc"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_ME7kQoEYIc/maxresdefault_live.jpg",
-        "timestamp": 1778036400,
+        "timestamp": null,
         "title": "お昼から一緒にゆる～くリラックスしませんか？💤まったり気持ちいいサウンドに癒されるチルい午後♡ ゆったり整地やおさんぽ♡【ぽこ あ ポケモン】",
         "video_id": "_ME7kQoEYIc"
     },
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/99LdtYULqH0/maxresdefault_live.jpg",
-        "timestamp": 1778025600,
+        "timestamp": null,
         "title": "【TOMODACHI LIFE】Kevin from the Minions Movie【Dokibird】",
         "video_id": "99LdtYULqH0"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/99LdtYULqH0/maxresdefault_live.jpg",
-        "timestamp": 1778025600,
+        "timestamp": null,
         "title": "【TOMODACHI LIFE】Kevin from the Minions Movie【Dokibird】",
         "video_id": "99LdtYULqH0"
     },
@@ -90,12 +90,21 @@
         "video_id": "ubKmGP1jC3M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/X47vD2NDiZc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活】おはよ～！早起きえらすぎ☀【ホロライブ/夏色まつり】",
-        "video_id": "X47vD2NDiZc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VbUImtn3sLs/maxresdefault_live.jpg",
+        "timestamp": 1778115600,
+        "title": "Smash or Pass: Australian Bug Edition w/ @HakosBaelz",
+        "video_id": "VbUImtn3sLs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/A5Q0GpglCEE/maxresdefault_live.jpg",
+        "timestamp": 1778040000,
+        "title": "【パラノマサイト FILE38 伊勢人魚物語】人魚の謎を追い求めて！！！！※ネタバレあり【尾丸ポルカ/ホロライブ】",
+        "video_id": "A5Q0GpglCEE"
     }
 ]
