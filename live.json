@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GdkZ7EmU-t0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】Area 4: LUNUM MINES ⚠️SPOILER ALERT⚠️",
-        "video_id": "GdkZ7EmU-t0"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "platform": "youtube",
         "status": "LIVE",
@@ -124,5 +115,23 @@
         "timestamp": 1778241600,
         "title": "The Search for Dino-Shaped Chicken Nuggies in Dinosaur Land 【Hytale】",
         "video_id": "H3Cbf-giYWo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eghAqE7m258/maxresdefault_live.jpg",
+        "timestamp": 1778238000,
+        "title": "【重大告知有!!】光の色で味が変わる、奇跡の日本酒ILLUMINA（イルミナ）。吞み比べオフコラボ!!【#りりらでん /hololive DEV_IS ReGLOSS】",
+        "video_id": "eghAqE7m258"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eghAqE7m258/maxresdefault_live.jpg",
+        "timestamp": 1778238000,
+        "title": "【重大告知有!!】光の色で味が変わる、奇跡の日本酒ILLUMINA（イルミナ）。吞み比べオフコラボ!!【#りりらでん /hololive DEV_IS ReGLOSS】",
+        "video_id": "eghAqE7m258"
     }
 ]
