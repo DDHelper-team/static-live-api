@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/41vOdMBNhiU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 DETROIT 】自分の選択が未来を変える⁉️アンドロイドと対話しよう✊#01【 猫又おかゆ/ホロライブ 】",
-        "video_id": "41vOdMBNhiU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rMghIiNlw9I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PRAGMATA】Last Journey【 iofi / hololiveID 】",
-        "video_id": "rMghIiNlw9I"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -25,24 +7,6 @@
         "timestamp": null,
         "title": "【LoL】Dahllia Diadem 顔合わせ無限練習 / アステル こくじん³ ねりんご³ SHAKA³ しずく³",
         "video_id": "IaCg84Iak68"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KV22qiky36k/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜溫柔心音與超絕的哈姆攻勢❤️｜Ear Massage Whispering ｜耳マッサージ 囁き 吐息 耳はむ 【KU100/黑3DIO】",
-        "video_id": "KV22qiky36k"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KV22qiky36k/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ASMR｜溫柔心音與超絕的哈姆攻勢❤️｜Ear Massage Whispering ｜耳マッサージ 囁き 吐息 耳はむ 【KU100/黑3DIO】",
-        "video_id": "KV22qiky36k"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -70,15 +34,6 @@
         "timestamp": null,
         "title": "【WINDROSE】いざ山麗ステージへ！！！Part4【岸堂天真/ホロスターズ】",
         "video_id": "HkXTI2znh4k"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nymHITxR-SM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】",
-        "video_id": "nymHITxR-SM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
@@ -151,5 +106,14 @@
         "timestamp": 1778212800,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 11日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "OGwtG18I8wo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ymf0REsmxVw/maxresdefault_live.jpg",
+        "timestamp": 1778227200,
+        "title": "【ストリートファイター6】 #すぺしゃりてふぇす #8 チーム100万ギャルWIN！【アルランディス/ホロスターズ】",
+        "video_id": "ymf0REsmxVw"
     }
 ]
