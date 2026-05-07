@@ -9,15 +9,6 @@
         "video_id": "N4P9Q_sFWas"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VJ7IpY6xuDM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HANDCAM】BUILDING STEEL HAZE: RUSTY!!!!",
-        "video_id": "VJ7IpY6xuDM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -56,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LCW-ps8TDiM/maxresdefault_live.jpg",
-        "timestamp": 1778144400,
+        "timestamp": null,
         "title": "【Windrose】AHOY! SET SAIL TO THE HORIZON! 【 iofi / hololiveID 】",
         "video_id": "LCW-ps8TDiM"
     },
@@ -72,15 +63,6 @@
         "video_id": "Xk6Pl_BiyE0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bkLWfgQzYhg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Pokémon Champions】やりましょうかい【夕刻ロベル/ホロスターズ】",
-        "video_id": "bkLWfgQzYhg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IaCg84Iak68/maxresdefault_live.jpg",
-        "timestamp": 1778137200,
+        "timestamp": null,
         "title": "【LoL】Dahllia Diadem 顔合わせ無限練習 / アステル こくじん³ ねりんご³ SHAKA³ しずく³",
         "video_id": "IaCg84Iak68"
     },
@@ -133,5 +115,32 @@
         "timestamp": 1778155200,
         "title": "【#ff14  】5.0主線最後一張地圖，黑風海【#ゲーム個人勢 / Fingla】",
         "video_id": "8e38bIAKU-Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6SRqM2kDdlE/maxresdefault_live.jpg",
+        "timestamp": 1778151600,
+        "title": "【Slay the Spire 2】#にじホロスレスパ✨初めましてでもクリアできる！？【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "6SRqM2kDdlE"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6SRqM2kDdlE/maxresdefault_live.jpg",
+        "timestamp": 1778151600,
+        "title": "【Slay the Spire 2】#にじホロスレスパ✨初めましてでもクリアできる！？【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "6SRqM2kDdlE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kZ66Ac2Bs8w/maxresdefault_live.jpg",
+        "timestamp": 1778155200,
+        "title": "【Tomodachi Life™: Living the Dream】Is This How You Make Friends",
+        "video_id": "kZ66Ac2Bs8w"
     }
 ]
