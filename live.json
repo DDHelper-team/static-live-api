@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OGwtG18I8wo/maxresdefault_live.jpg",
-        "timestamp": 1778216400,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 11日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "OGwtG18I8wo"
     },
@@ -115,5 +115,32 @@
         "timestamp": 1778238000,
         "title": "【重大告知有!!】光の色で味が変わる、奇跡の日本酒ILLUMINA（イルミナ）。吞み比べオフコラボ!!【#りりらでん /hololive DEV_IS ReGLOSS】",
         "video_id": "eghAqE7m258"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/f_etmo9EsJM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【LoL】Dahllia Diadem オンライン1戦目 前練習  / アステル こくじん³ ねりんご³ SHAKA³ しずく³ eugeoコーチ",
+        "video_id": "f_etmo9EsJM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/leouXtylPD8/maxresdefault_live.jpg",
+        "timestamp": 1778241600,
+        "title": "【HOLO EN/ID HYTALE】FINAL ADVENTURE!!! DINOS!!! #kfp #キアライブ",
+        "video_id": "leouXtylPD8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/V3O1QNnpfU8/maxresdefault_live.jpg",
+        "timestamp": 1778238000,
+        "title": "【悪意 Dread Neighbor】ガチのマジで今年一怖いホラゲーが決まりそうです。ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "V3O1QNnpfU8"
     }
 ]
