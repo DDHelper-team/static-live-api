@@ -54,15 +54,6 @@
         "video_id": "ymf0REsmxVw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_C0GvWLoQ5E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RESIDENT EVIL 6】WITH JAKE THE BIBOO AND SHERRY THE @IRyS​",
-        "video_id": "_C0GvWLoQ5E"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +133,23 @@
         "timestamp": 1778238000,
         "title": "【悪意 Dread Neighbor】ガチのマジで今年一怖いホラゲーが決まりそうです。ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "V3O1QNnpfU8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tB-SEYVNjqU/maxresdefault_live.jpg",
+        "timestamp": 1778245200,
+        "title": "【その５】チルラジオ配信 #狐族密会　「 GW終了したね。」【ホロライブ/白上フブキ/尾丸ポルカ】",
+        "video_id": "tB-SEYVNjqU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3zen6yXWDao/maxresdefault_live.jpg",
+        "timestamp": 1778227200,
+        "title": "【Overwatch】CHILL【Pavolia Reine/hololiveID】",
+        "video_id": "3zen6yXWDao"
     }
 ]
