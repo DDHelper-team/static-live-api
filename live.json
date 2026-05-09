@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oEopA7l-q_k/maxresdefault_live.jpg",
-        "timestamp": 1778356800,
+        "timestamp": null,
         "title": "Game Where Every Woman is Out to Get Me【Road to Empress I】",
         "video_id": "oEopA7l-q_k"
     },
@@ -79,5 +79,23 @@
         "timestamp": 1778414400,
         "title": "＃３【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
         "video_id": "Nw_40KfmZhs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HYrvJQw63HY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【INKOMBINI】thank you come again【Dokibird】",
+        "video_id": "HYrvJQw63HY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HYrvJQw63HY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【INKOMBINI】thank you come again【Dokibird】",
+        "video_id": "HYrvJQw63HY"
     }
 ]
