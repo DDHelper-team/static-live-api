@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ym_CrnFh5_g/maxresdefault_live.jpg",
-        "timestamp": 1778299200,
-        "title": "【#12】LOST JUDGMENT：裁かれざる記憶【※ネタバレあり】",
-        "video_id": "ym_CrnFh5_g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -72,24 +63,6 @@
         "video_id": "khtUPK6EML0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bqEHqOAU2fM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VAMPIRE CRAWLERS】Defeating evil with CARDS【Dokibird】",
-        "video_id": "bqEHqOAU2fM"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bqEHqOAU2fM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VAMPIRE CRAWLERS】Defeating evil with CARDS【Dokibird】",
-        "video_id": "bqEHqOAU2fM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -99,15 +72,6 @@
         "video_id": "oEopA7l-q_k"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/w2p9tBcd55s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】ちょい雑談する男【夕刻ロベル/ホロスターズ】",
-        "video_id": "w2p9tBcd55s"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -115,5 +79,23 @@
         "timestamp": null,
         "title": "【LoL】黙ってピン刺せ。 / アステル",
         "video_id": "YSx0hsn4Jgc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/i0DOH7jISP4/maxresdefault_live.jpg",
+        "timestamp": 1778324400,
+        "title": "【TOMODACHI LIFE 2】probably the best miis i have ever made #kfp #キアライブ",
+        "video_id": "i0DOH7jISP4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2q-SyqK82_w/maxresdefault_live.jpg",
+        "timestamp": 1778317200,
+        "title": "【パラノマサイト FILE38 伊勢人魚物語】#3 人魚の謎を追い求めて！！！！※ネタバレあり【尾丸ポルカ/ホロライブ】",
+        "video_id": "2q-SyqK82_w"
     }
 ]
