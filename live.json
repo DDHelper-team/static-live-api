@@ -47,10 +47,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ARLHStsx8L8/maxresdefault_live.jpg",
-        "timestamp": 1778320800,
-        "title": "【】声戻ったらトモコレ、もどらんかったら30分あの声にメロつけるやつ凸待ち【風真いろは/ホロライブ】",
+        "timestamp": null,
+        "title": "【凸まち】30分限定この声にメロつけるやつ凸待ち【風真いろは/ホロライブ】",
         "video_id": "ARLHStsx8L8"
     },
     {
@@ -151,5 +151,23 @@
         "timestamp": 1778331600,
         "title": "雜談｜開心的我簡直強的可怕！✨【Healing希靈/VTuber】",
         "video_id": "IgXuKHRD65k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6TeDZyFIlVo/maxresdefault_live.jpg",
+        "timestamp": 1778328000,
+        "title": "【メンバー限定】プラダを着た悪魔 (吹替版)同時視聴！！【雪花ラミィ /ホロライブ】",
+        "video_id": "6TeDZyFIlVo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LtYLHAzKi8Q/maxresdefault_live.jpg",
+        "timestamp": 1778331600,
+        "title": "【メンバー限定】ASMRしっとり雑談【荒咬オウガ /ホロスターズ】",
+        "video_id": "LtYLHAzKi8Q"
     }
 ]
