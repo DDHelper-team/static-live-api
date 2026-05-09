@@ -54,15 +54,6 @@
         "video_id": "ARLHStsx8L8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/khtUPK6EML0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#8【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "khtUPK6EML0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2q-SyqK82_w/maxresdefault_live.jpg",
-        "timestamp": 1778317200,
+        "timestamp": null,
         "title": "【パラノマサイト FILE38 伊勢人魚物語】#3 人魚の謎を追い求めて！！！！※ネタバレあり【尾丸ポルカ/ホロライブ】",
         "video_id": "2q-SyqK82_w"
     },
@@ -124,5 +115,41 @@
         "timestamp": null,
         "title": "【トモコレ】今日も友達ゲットだぜ！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "mUennWAKpsM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6VwAeywYdOw/maxresdefault_live.jpg",
+        "timestamp": 1778331600,
+        "title": "#14【Ace Attorney Investigations 2】POSSIBLE FINALE STREAM (SPOILERS!)【Pavolia Reine/holoID】",
+        "video_id": "6VwAeywYdOw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IgXuKHRD65k/maxresdefault_live.jpg",
+        "timestamp": 1778331600,
+        "title": "雜談｜開心的我簡直強的可怕！✨【Healing希靈/VTuber】",
+        "video_id": "IgXuKHRD65k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sjZa_d-zibs/maxresdefault_live.jpg",
+        "timestamp": 1778382000,
+        "title": "#9【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
+        "video_id": "sjZa_d-zibs"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IgXuKHRD65k/maxresdefault_live.jpg",
+        "timestamp": 1778331600,
+        "title": "雜談｜開心的我簡直強的可怕！✨【Healing希靈/VTuber】",
+        "video_id": "IgXuKHRD65k"
     }
 ]
