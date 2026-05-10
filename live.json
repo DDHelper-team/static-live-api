@@ -74,20 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/adpU1DXlJLQ/maxresdefault_live.jpg",
-        "timestamp": 1778407200,
+        "timestamp": null,
         "title": "【初見GOD】今日は何の日？ゴッドの日じゃ！！！！！！！！！！！！！！！！初打ち【尾丸ポルカ/ホロライブ】",
         "video_id": "adpU1DXlJLQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JMpLRmjey-I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LoL】限界を知れ。 / アステル",
-        "video_id": "JMpLRmjey-I"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -101,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/R4h7J7kEFbY/maxresdefault_live.jpg",
-        "timestamp": 1778407200,
+        "timestamp": null,
         "title": "【ド★初見】はじめての『トモダチコレクション わくわく生活』あそぶ！",
         "video_id": "R4h7J7kEFbY"
     },
@@ -124,5 +115,32 @@
         "timestamp": 1778418045,
         "title": "【アンリアルライフ】記憶喪失の少女は、しゃべる信号機と出会いました。【緋月ゆい/ネオポルテ】",
         "video_id": "4VvwitqYLz8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EQpwsy6CQNE/maxresdefault_live.jpg",
+        "timestamp": 1778410800,
+        "title": "【Love, Sam】絶対に騙されるホラーゲーム？！やってみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "EQpwsy6CQNE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hxAVMW8hBHw/maxresdefault_live.jpg",
+        "timestamp": 1778410800,
+        "title": "【経過報告】30分限定、先日より若返り小学生になった風真いろはさん【風真いろは/ホロライブ】",
+        "video_id": "hxAVMW8hBHw"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EQpwsy6CQNE/maxresdefault_live.jpg",
+        "timestamp": 1778410800,
+        "title": "【Love, Sam】絶対に騙されるホラーゲーム？！やってみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "EQpwsy6CQNE"
     }
 ]
