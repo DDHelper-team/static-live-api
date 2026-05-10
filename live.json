@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sjZa_d-zibs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#9【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "sjZa_d-zibs"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ebXPe1mo4tg/maxresdefault_live.jpg",
+        "timestamp": 1778414400,
+        "title": "【配信予定】お酒を食らう【ホロライブ/兎田ぺこら】",
+        "video_id": "ebXPe1mo4tg"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
@@ -74,11 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-b87L3RLDqg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【NHKマイルカップ】競馬配信🔰春の東京、未来を変える1600m。【尾丸ポルカ/ホロライブ】",
-        "video_id": "-b87L3RLDqg"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/adpU1DXlJLQ/maxresdefault_live.jpg",
+        "timestamp": 1778407200,
+        "title": "【初見GOD】今日は何の日？ゴッドの日じゃ！！！！！！！！！！！！！！！！初打ち【尾丸ポルカ/ホロライブ】",
+        "video_id": "adpU1DXlJLQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -88,15 +88,6 @@
         "timestamp": null,
         "title": "【LoL】限界を知れ。 / アステル",
         "video_id": "JMpLRmjey-I"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dKZc1Cm174g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life】Love is in the Air (not necessarily mutual)【Pavolia Reine/hololiveID】",
-        "video_id": "dKZc1Cm174g"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -115,5 +106,23 @@
         "timestamp": 1778407200,
         "title": "【ド★初見】はじめての『トモダチコレクション わくわく生活』あそぶ！",
         "video_id": "R4h7J7kEFbY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4VvwitqYLz8/maxresdefault_live.jpg",
+        "timestamp": 1778418045,
+        "title": "【アンリアルライフ】記憶喪失の少女は、しゃべる信号機と出会いました。【緋月ゆい/ネオポルテ】",
+        "video_id": "4VvwitqYLz8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4VvwitqYLz8/maxresdefault_live.jpg",
+        "timestamp": 1778418045,
+        "title": "【アンリアルライフ】記憶喪失の少女は、しゃべる信号機と出会いました。【緋月ゆい/ネオポルテ】",
+        "video_id": "4VvwitqYLz8"
     }
 ]
