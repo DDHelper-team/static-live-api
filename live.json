@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pz7N8iZrZ1o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#10【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "pz7N8iZrZ1o"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -45,24 +36,6 @@
         "video_id": "4VvwitqYLz8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oGciVad2ra0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ポケモンチャンピオンズ】検索：プテラを倒す方法 ダブルバトルでマスター行きたい～～！【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "oGciVad2ra0"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oGciVad2ra0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ポケモンチャンピオンズ】検索：プテラを倒す方法 ダブルバトルでマスター行きたい～～！【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "oGciVad2ra0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -70,15 +43,6 @@
         "timestamp": 1778472000,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 12日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "FHqcnUr0Icg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2Qn5MG_3QXg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life】EMERGENCY STREAM PINK ALERT PINK ALERT【Pavolia Reine/hololiveID】",
-        "video_id": "2Qn5MG_3QXg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
@@ -133,5 +97,14 @@
         "timestamp": null,
         "title": "【WINDROSE】みやびと烏有と一緒に！クリアしてしまってもいいんだろ？　Part7【岸堂天真/ホロスターズ】",
         "video_id": "nTQwozaDnMs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dBzPcy1DqzU/maxresdefault_live.jpg",
+        "timestamp": 1778486400,
+        "title": "【雑談】本当にいろいろあったから話そうぜ～～～～～＾＾【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "dBzPcy1DqzU"
     }
 ]
