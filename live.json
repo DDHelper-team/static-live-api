@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pz7N8iZrZ1o/maxresdefault_live.jpg",
-        "timestamp": 1778410800,
+        "timestamp": null,
         "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#10【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "pz7N8iZrZ1o"
     },
@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0f1_eloQSXQ/maxresdefault_live.jpg",
-        "timestamp": 1778410800,
+        "timestamp": null,
         "title": "【ポケモンファイアレッド】　FR版ポケットモンスターゴールドコイキング　購入編　#金コイフブさん【白上フブキ/ホロライブ】",
         "video_id": "0f1_eloQSXQ"
     },
@@ -119,28 +119,55 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EQpwsy6CQNE/maxresdefault_live.jpg",
-        "timestamp": 1778410800,
+        "timestamp": null,
         "title": "【Love, Sam】絶対に騙されるホラーゲーム？！やってみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "EQpwsy6CQNE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hxAVMW8hBHw/maxresdefault_live.jpg",
-        "timestamp": 1778410800,
+        "timestamp": null,
         "title": "【経過報告】30分限定、先日より若返り小学生になった風真いろはさん【風真いろは/ホロライブ】",
         "video_id": "hxAVMW8hBHw"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EQpwsy6CQNE/maxresdefault_live.jpg",
-        "timestamp": 1778410800,
+        "timestamp": null,
         "title": "【Love, Sam】絶対に騙されるホラーゲーム？！やってみる！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "EQpwsy6CQNE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oGciVad2ra0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ポケモンチャンピオンズ】検索：プテラを倒す方法 ダブルバトルでマスター行きたい～～！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "oGciVad2ra0"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oGciVad2ra0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ポケモンチャンピオンズ】検索：プテラを倒す方法 ダブルバトルでマスター行きたい～～！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "oGciVad2ra0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FHqcnUr0Icg/maxresdefault_live.jpg",
+        "timestamp": 1778472000,
+        "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 12日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+        "video_id": "FHqcnUr0Icg"
     }
 ]
