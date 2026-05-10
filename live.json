@@ -36,15 +36,6 @@
         "video_id": "z0nb5P9pDpA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/I6U7oUUzqyc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RESIDENT EVIL REQUIEM: LEON MUST DIE FOREVER】LEON ROUGELIKE?【Spoilers Ahead】",
-        "video_id": "I6U7oUUzqyc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -72,24 +63,6 @@
         "video_id": "Nw_40KfmZhs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QpcW2foxWYo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MOUSE P.I. FOR HIRE】Finishing today【Dokibird】",
-        "video_id": "QpcW2foxWYo"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QpcW2foxWYo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MOUSE P.I. FOR HIRE】Finishing today【Dokibird】",
-        "video_id": "QpcW2foxWYo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -101,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-b87L3RLDqg/maxresdefault_live.jpg",
-        "timestamp": 1778391000,
+        "timestamp": null,
         "title": "【NHKマイルカップ】競馬配信🔰春の東京、未来を変える1600m。【尾丸ポルカ/ホロライブ】",
         "video_id": "-b87L3RLDqg"
     },
@@ -133,5 +106,14 @@
         "timestamp": 1778410800,
         "title": "【ポケモンファイアレッド】　FR版ポケットモンスターゴールドコイキング　購入編　#金コイフブさん【白上フブキ/ホロライブ】",
         "video_id": "0f1_eloQSXQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/R4h7J7kEFbY/maxresdefault_live.jpg",
+        "timestamp": 1778407200,
+        "title": "【ド★初見】はじめての『トモダチコレクション わくわく生活』あそぶ！",
+        "video_id": "R4h7J7kEFbY"
     }
 ]
