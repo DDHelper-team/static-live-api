@@ -27,15 +27,6 @@
         "video_id": "z0nb5P9pDpA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dBzPcy1DqzU/maxresdefault_live.jpg",
-        "timestamp": 1778486400,
-        "title": "【雑談】本当にいろいろあったから話そうぜ～～～～～＾＾【ラプラス・ダークネス/ホロライブ】",
-        "video_id": "dBzPcy1DqzU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -56,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/r3ipXG7UU5M/maxresdefault_live.jpg",
-        "timestamp": 1778493600,
+        "timestamp": null,
         "title": "【 💥ワンワンバトル 】ゲマズの猫代表として─────【 猫又おかゆ/ホロライブ 】",
         "video_id": "r3ipXG7UU5M"
     },
@@ -133,5 +124,68 @@
         "timestamp": 1778504400,
         "title": "【Senin Produktif】メイドの日です！【iofi / ホロライブID】",
         "video_id": "QUQdBG1Rx3Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/F9hSASA70Kk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】暇【アルランディス/ホロスターズ】",
+        "video_id": "F9hSASA70Kk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8v4wcM-ePgE/maxresdefault_live.jpg",
+        "timestamp": 1778504400,
+        "title": "【Singing / Karaoke】今週も頑張るために！【#TanZ 】",
+        "video_id": "8v4wcM-ePgE"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8v4wcM-ePgE/maxresdefault_live.jpg",
+        "timestamp": 1778504400,
+        "title": "【Singing / Karaoke】今週も頑張るために！【#TanZ 】",
+        "video_id": "8v4wcM-ePgE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yz-D5d8o7SM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#学術V登山隊】マダミス狂気山脈3.0 薄明三角点 【医者：儒烏風亭らでん視点】",
+        "video_id": "yz-D5d8o7SM"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yz-D5d8o7SM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#学術V登山隊】マダミス狂気山脈3.0 薄明三角点 【医者：儒烏風亭らでん視点】",
+        "video_id": "yz-D5d8o7SM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dBzPcy1DqzU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】本当にいろいろあったから話そうぜ～～～～～＾＾【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "dBzPcy1DqzU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/p55b4lDeTyI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【LoL】土下座する人生なんてないわけ / アステル",
+        "video_id": "p55b4lDeTyI"
     }
 ]
