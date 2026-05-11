@@ -45,15 +45,6 @@
         "video_id": "3bpvjKXsros"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HT7j_hPfHnY/maxresdefault_live.jpg",
-        "timestamp": 1778461200,
-        "title": "【BlackMesa】Me and my crowbar.",
-        "video_id": "HT7j_hPfHnY"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -99,24 +90,6 @@
         "video_id": "6jYMp8NOaM0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DvBfk2KJNFg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！起きて～～～⛅️【緋月ゆい/ネオポルテ】",
-        "video_id": "DvBfk2KJNFg"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DvBfk2KJNFg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！起きて～～～⛅️【緋月ゆい/ネオポルテ】",
-        "video_id": "DvBfk2KJNFg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,5 +97,23 @@
         "timestamp": 1778493600,
         "title": "【お披露目】お家３Dお披露目📣配信復活します！ 【ホロライブ/癒月ちょこ】",
         "video_id": "NigsJ967r0U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qA_0STVcR1w/maxresdefault_live.jpg",
+        "timestamp": 1778508300,
+        "title": "【同時視聴】「異世界のんびり農家2」第6話をみんなで見る会！【緋月ゆい/ネオポルテ】",
+        "video_id": "qA_0STVcR1w"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qA_0STVcR1w/maxresdefault_live.jpg",
+        "timestamp": 1778508300,
+        "title": "【同時視聴】「異世界のんびり農家2」第6話をみんなで見る会！【緋月ゆい/ネオポルテ】",
+        "video_id": "qA_0STVcR1w"
     }
 ]
