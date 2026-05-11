@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FHqcnUr0Icg/maxresdefault_live.jpg",
-        "timestamp": 1778472000,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 12日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "FHqcnUr0Icg"
     },
@@ -115,5 +115,23 @@
         "timestamp": 1778508300,
         "title": "【同時視聴】「異世界のんびり農家2」第6話をみんなで見る会！【緋月ゆい/ネオポルテ】",
         "video_id": "qA_0STVcR1w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hcBaYpUwdWA/maxresdefault_live.jpg",
+        "timestamp": 1778508000,
+        "title": "【Deck of Haunts】IT\u0026#39;S BEEN A WHILE! Anniversary Update and... Who\u0026#39;s That?【Pavolia Reine/hololiveID】",
+        "video_id": "hcBaYpUwdWA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QUQdBG1Rx3Q/maxresdefault_live.jpg",
+        "timestamp": 1778504400,
+        "title": "【Senin Produktif】メイドの日です！【iofi / ホロライブID】",
+        "video_id": "QUQdBG1Rx3Q"
     }
 ]
