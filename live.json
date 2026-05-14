@@ -20,10 +20,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Li7dZitL1c0/maxresdefault_live.jpg",
-        "timestamp": 1778799600,
-        "title": "【Bow-wow Battle】barking but it\u0026#39;s biboo practicing her death metal growls VOLUME WARNING",
+        "timestamp": null,
+        "title": "【Tomodachi Life: Living the Dream】BABIES AND RAGE",
         "video_id": "Li7dZitL1c0"
     },
     {
@@ -97,5 +97,23 @@
         "timestamp": 1778846400,
         "title": "【配信予定】おはようごぜーます！【ホロライブ/兎田ぺこら】",
         "video_id": "dMShwXbbZls"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rx52Niyu1Zw/maxresdefault_live.jpg",
+        "timestamp": 1778814000,
+        "title": "【SUPER MARIO PARTY JAMBOREE】waluigi is back【Dokibird】",
+        "video_id": "rx52Niyu1Zw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rx52Niyu1Zw/maxresdefault_live.jpg",
+        "timestamp": 1778814000,
+        "title": "【SUPER MARIO PARTY JAMBOREE】waluigi is back【Dokibird】",
+        "video_id": "rx52Niyu1Zw"
     }
 ]
