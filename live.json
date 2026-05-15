@@ -9,24 +9,6 @@
         "video_id": "Q6iAeydlx7s"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/21eDvOhRZ3o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "The Only Woman I Can Trust is a Bird Woman 【Road to Empress I】",
-        "video_id": "21eDvOhRZ3o"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Li7dZitL1c0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Tomodachi Life: Living the Dream】BABIES AND RAGE",
-        "video_id": "Li7dZitL1c0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -47,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Yc7e2SAXJoU/maxresdefault_live.jpg",
-        "timestamp": 1778808600,
+        "timestamp": null,
         "title": "【THE WITCHER 3】Forming an ARMY #kfp #キアライブ",
         "video_id": "Yc7e2SAXJoU"
     },
@@ -101,19 +83,55 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rx52Niyu1Zw/maxresdefault_live.jpg",
-        "timestamp": 1778814000,
-        "title": "【SUPER MARIO PARTY JAMBOREE】waluigi is back【Dokibird】",
+        "timestamp": null,
+        "title": "【FORTNITE】here for the ow update【Dokibird】",
         "video_id": "rx52Niyu1Zw"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rx52Niyu1Zw/maxresdefault_live.jpg",
-        "timestamp": 1778814000,
-        "title": "【SUPER MARIO PARTY JAMBOREE】waluigi is back【Dokibird】",
+        "timestamp": null,
+        "title": "【FORTNITE】here for the ow update【Dokibird】",
         "video_id": "rx52Niyu1Zw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/veVa9IFKJrY/maxresdefault_live.jpg",
+        "timestamp": 1778875200,
+        "title": "Game Where You Feed Forest Creatures During Witching Hour 【Creature Kitchen】",
+        "video_id": "veVa9IFKJrY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iiCzxfAM5Ho/maxresdefault_live.jpg",
+        "timestamp": 1778846400,
+        "title": "【Windrose】AHOY! SET SAIL MATES!【 iofi / hololiveID 】",
+        "video_id": "iiCzxfAM5Ho"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s1atiQ6yU6k/maxresdefault_live.jpg",
+        "timestamp": 1778850000,
+        "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑬【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "s1atiQ6yU6k"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s1atiQ6yU6k/maxresdefault_live.jpg",
+        "timestamp": 1778850000,
+        "title": "【同時視聴】ジョジョの奇妙な冒険ストーンオーシャン（6部）同時視聴の会ッ！！⑬【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "s1atiQ6yU6k"
     }
 ]
