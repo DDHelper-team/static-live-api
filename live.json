@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QcdtjrU7jrc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7 】完全初見🔥星の未来をかけて頑張ります！#11【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "QcdtjrU7jrc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -90,15 +81,6 @@
         "video_id": "ULPvOgQS2Nc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Z19lWunOi8I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Sushi Cat - Tower Defense】progressing..... totally not backwards",
-        "video_id": "Z19lWunOi8I"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +124,14 @@
         "timestamp": null,
         "title": "【DYING LIGHT THE BEAST】ゾンビにドロップキックできる神ゲー【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
         "video_id": "hUbStOYMcL8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sBaUYZwdxIw/maxresdefault_live.jpg",
+        "timestamp": 1779015600,
+        "title": "【MTG ARENA】german mode activate #kfp #キアライブ",
+        "video_id": "sBaUYZwdxIw"
     }
 ]
