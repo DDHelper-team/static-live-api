@@ -11,18 +11,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AMhfFlxvq0E/maxresdefault_live.jpg",
-        "timestamp": 1778904000,
+        "timestamp": null,
         "title": "【#生スバル】LOST JUDGMENT 海藤正治の事件簿やるしゅばああああああああああああああああああああああああああ！！！！！【※ネタバレあり】",
         "video_id": "AMhfFlxvq0E"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/m133hGtho4g/maxresdefault_live.jpg",
-        "timestamp": 1778904000,
+        "timestamp": null,
         "title": "#10【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "m133hGtho4g"
     },
@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3-2TkjzFzss/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "back to streaming! talking a lot #calliolive",
-        "video_id": "3-2TkjzFzss"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wsksJOS6PcA/maxresdefault_live.jpg",
+        "timestamp": 1778931000,
+        "title": "Watching the BIG SOCCER GAME with Kobo!! hololive production Special Day with Albirex Niigata FC (S)",
+        "video_id": "wsksJOS6PcA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JgTgFRuKVHY/maxresdefault_live.jpg",
-        "timestamp": 1778904000,
+        "timestamp": null,
         "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ！【#02】",
         "video_id": "JgTgFRuKVHY"
     },
@@ -115,5 +115,41 @@
         "timestamp": 1778936400,
         "title": "【Singing / Karaoke】まったりと歌ったり喋ったり３Dライブのチケット売りつけたり【#TanZ 】",
         "video_id": "SzGVsOVVBEA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hKbEdwKNzm8/maxresdefault_live.jpg",
+        "timestamp": 1778929200,
+        "title": "【らでさんぽ】ジオ菓子編！ジオパークにクイズにお菓子作りまで！？大地の魅力に迫ります！！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "hKbEdwKNzm8"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hKbEdwKNzm8/maxresdefault_live.jpg",
+        "timestamp": 1778929200,
+        "title": "【らでさんぽ】ジオ菓子編！ジオパークにクイズにお菓子作りまで！？大地の魅力に迫ります！！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "hKbEdwKNzm8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E6IAxR489_k/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Stray #03】この猫ちゃんへ外の世界へ脱出できるんだろうか？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "E6IAxR489_k"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E6IAxR489_k/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Stray #03】この猫ちゃんへ外の世界へ脱出できるんだろうか？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "E6IAxR489_k"
     }
 ]
