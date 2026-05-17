@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/74i1tXcUrSQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 🟢FF7クライシスコア 】完全初見で遊ぶぞｵｵｵｵｵ #01【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "74i1tXcUrSQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dK_Cq9l8uDs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【R.E.P.O.】ついにまだ見ぬステージへ！！！20LV🌕️スーパームーン！！！【尾丸ポルカ視点/ホロライブ】",
-        "video_id": "dK_Cq9l8uDs"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UQe4KzSqtKo/maxresdefault_live.jpg",
+        "timestamp": 1779109200,
+        "title": "【 💙睡眠導入 】本のお片付けをのんびりします🧹📚✦ | Librarian: Tidy Up the Arcane Library! 【 猫又おかゆ/ホロライブ 】",
+        "video_id": "UQe4KzSqtKo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -34,33 +25,6 @@
         "timestamp": 1779076800,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 13日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "0vWtU3jpdYM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/y96T8S8nivU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【R.E.P.O.】　#バカタレサーカス　初のLEVEL２０でSUPERMOON🌕️！？ 【ホロライブ/白上フブキ】",
-        "video_id": "y96T8S8nivU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GAAEQ_6KuSk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【魔王城ものがたり】じゃ、いっちょ世界潰しちゃいますか✋【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "GAAEQ_6KuSk"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GAAEQ_6KuSk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【魔王城ものがたり】じゃ、いっちょ世界潰しちゃいますか✋【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "GAAEQ_6KuSk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -115,5 +79,14 @@
         "timestamp": 1779109200,
         "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ！【轟はじめ/ReGLOSS】※ネタバレあり注意",
         "video_id": "5_7Ps8nrmqk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SJJsMa0PZUM/maxresdefault_live.jpg",
+        "timestamp": 1779111000,
+        "title": "【Cursed Companions】-⩊- hungry for blood~",
+        "video_id": "SJJsMa0PZUM"
     }
 ]
