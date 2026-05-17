@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qhUB9bs6vBM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#11【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "qhUB9bs6vBM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -65,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4lB4BblFP-U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ヴィクトリアマイル】競馬配信🔰咲き誇れ、最速のヒロインたち。【尾丸ポルカ/ホロライブ】",
-        "video_id": "4lB4BblFP-U"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dK_Cq9l8uDs/maxresdefault_live.jpg",
+        "timestamp": 1779019200,
+        "title": "【R.E.P.O.】ついにまだ見ぬステージへ！！！20LV🌕️スーパームーン！！！【尾丸ポルカ視点/ホロライブ】",
+        "video_id": "dK_Cq9l8uDs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -92,29 +83,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/y4eVbDJYL7Y/maxresdefault_live.jpg",
-        "timestamp": 1779004800,
+        "timestamp": null,
         "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ！【#03】",
         "video_id": "y4eVbDJYL7Y"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xXX2dSndlZE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 流星のロックマン LEO 】完全初見！初めての流星ロックマンレオやるぞ！#4【 領国つかさ / すぺしゃりて 】",
-        "video_id": "xXX2dSndlZE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xXX2dSndlZE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 流星のロックマン LEO 】完全初見！初めての流星ロックマンレオやるぞ！#4【 領国つかさ / すぺしゃりて 】",
-        "video_id": "xXX2dSndlZE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -160,5 +133,23 @@
         "timestamp": 1779012000,
         "title": "【ワンワンバトル】犬になれ！！！！ほえろ！！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "qKoxvYdtHuE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aLyDiSHXRzA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#ff14  】今天不如來清任務~?!【#ゲーム個人勢 / Fingla】",
+        "video_id": "aLyDiSHXRzA"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aLyDiSHXRzA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#ff14  】今天不如來清任務~?!【#ゲーム個人勢 / Fingla】",
+        "video_id": "aLyDiSHXRzA"
     }
 ]
