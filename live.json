@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sBaUYZwdxIw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MTG ARENA】german mode activate #kfp #キアライブ",
-        "video_id": "sBaUYZwdxIw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "LIVE",
@@ -72,24 +63,6 @@
         "video_id": "GAAEQ_6KuSk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TYOCg-3BUio/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】",
-        "video_id": "TYOCg-3BUio"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4qVDs8OL8DQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【トモダチコレクション】ホロメン恋愛大三角形観測会👀【風真いろは/ホロライブ】",
-        "video_id": "4qVDs8OL8DQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -126,12 +99,21 @@
         "video_id": "wHrW3gtFDBc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qqbPGQ3GzXw/maxresdefault_live.jpg",
-        "timestamp": 1779030900,
-        "title": "【メン限】悪魔のゲリラASMR【ホロライブ/癒月ちょこ】",
-        "video_id": "qqbPGQ3GzXw"
+        "thumbnail": "https://i.ytimg.com/vi/5_7Ps8nrmqk/maxresdefault_live.jpg",
+        "timestamp": 1779109200,
+        "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ！【轟はじめ/ReGLOSS】※ネタバレあり注意",
+        "video_id": "5_7Ps8nrmqk"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5_7Ps8nrmqk/maxresdefault_live.jpg",
+        "timestamp": 1779109200,
+        "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ！【轟はじめ/ReGLOSS】※ネタバレあり注意",
+        "video_id": "5_7Ps8nrmqk"
     }
 ]
