@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SBj4xGXFcE4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "＃７【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
-        "video_id": "SBj4xGXFcE4"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SBj4xGXFcE4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "＃７【バイオハザード RE:4】完全初見で挑むバイオ【轟はじめ/ReGLOSS】※未成年の方視聴注意",
-        "video_id": "SBj4xGXFcE4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "LIVE",
@@ -92,18 +74,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TYOCg-3BUio/maxresdefault_live.jpg",
-        "timestamp": 1779022800,
+        "timestamp": null,
         "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】",
         "video_id": "TYOCg-3BUio"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4qVDs8OL8DQ/maxresdefault_live.jpg",
-        "timestamp": 1779022800,
+        "timestamp": null,
         "title": "【トモダチコレクション】ホロメン恋愛大三角形観測会👀【風真いろは/ホロライブ】",
         "video_id": "4qVDs8OL8DQ"
     },
@@ -133,5 +115,23 @@
         "timestamp": null,
         "title": "【 BIOHAZARD requiem 】完全初見で新作バイオレクイエムを始めます。#3【 領国つかさ / すぺしゃりて 】",
         "video_id": "RnDevc6hrxs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wHrW3gtFDBc/maxresdefault_live.jpg",
+        "timestamp": 1779111000,
+        "title": "【Cursed Companions】help me【hololiveID】",
+        "video_id": "wHrW3gtFDBc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qqbPGQ3GzXw/maxresdefault_live.jpg",
+        "timestamp": 1779030900,
+        "title": "【メン限】悪魔のゲリラASMR【ホロライブ/癒月ちょこ】",
+        "video_id": "qqbPGQ3GzXw"
     }
 ]
