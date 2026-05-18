@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Q8PQ-0f6-Iw/maxresdefault_live.jpg",
-        "timestamp": 1779066000,
+        "timestamp": null,
         "title": "【PaRappa the Rapper】i gotta believe!! #calliolive",
         "video_id": "Q8PQ-0f6-Iw"
     },
@@ -25,15 +25,6 @@
         "timestamp": 1779076800,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 13日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "0vWtU3jpdYM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mOQB3s9cAss/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#朝ミオ 】月曜日だよ～！！！おはみぉーん！",
-        "video_id": "mOQB3s9cAss"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -72,21 +63,12 @@
         "video_id": "SJJsMa0PZUM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LCvWNfXQuMo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！あっちいな~⛅️【緋月ゆい/ネオポルテ】",
-        "video_id": "LCvWNfXQuMo"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LCvWNfXQuMo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！あっちいな~⛅️【緋月ゆい/ネオポルテ】",
-        "video_id": "LCvWNfXQuMo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cSicoPFDeqQ/maxresdefault_live.jpg",
+        "timestamp": 1779134400,
+        "title": "Vacationing in Prehevil as a Clueless Tourist 【Fear \u0026amp; Hunger 2: Termina 】",
+        "video_id": "cSicoPFDeqQ"
     }
 ]
