@@ -9,20 +9,11 @@
         "video_id": "UQe4KzSqtKo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Q8PQ-0f6-Iw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PaRappa the Rapper】i gotta believe!! #calliolive",
-        "video_id": "Q8PQ-0f6-Iw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0vWtU3jpdYM/maxresdefault_live.jpg",
-        "timestamp": 1779076800,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 13日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "0vWtU3jpdYM"
     },
@@ -70,5 +61,23 @@
         "timestamp": 1779134400,
         "title": "Vacationing in Prehevil as a Clueless Tourist 【Fear \u0026amp; Hunger 2: Termina 】",
         "video_id": "cSicoPFDeqQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_toyYuLYxNM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "M.M.M Morning",
+        "video_id": "_toyYuLYxNM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2wAS4BQllmo/maxresdefault_live.jpg",
+        "timestamp": 1779102000,
+        "title": "【けものティータイム】ケモミミ+ KAWAII +ASMR=超絶癒やしの喫茶店経営【白上フブキ/ホロライブ】",
+        "video_id": "2wAS4BQllmo"
     }
 ]
