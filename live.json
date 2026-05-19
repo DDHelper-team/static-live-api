@@ -1,32 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Eiu-4hsl4pU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード RE:2】初見でやるバイ！ # 1【 #奏手イヅル 】",
-        "video_id": "Eiu-4hsl4pU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jSOt8vk26Nw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ！【轟はじめ/ReGLOSS】※ネタバレあり注意",
-        "video_id": "jSOt8vk26Nw"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jSOt8vk26Nw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード RE:4】DLCのエイダさん編初見プレイ！【轟はじめ/ReGLOSS】※ネタバレあり注意",
-        "video_id": "jSOt8vk26Nw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -34,24 +7,6 @@
         "timestamp": 1779242400,
         "title": "【Darwin\u0026#39;s Paradox】【Drawing】Special Drawing Stream of....Darwin...dachi....?! #ad",
         "video_id": "U8kY6OeMcq0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zikAYxn-vx0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【魔王城ものがたり】ホロメン力を貸して！！世界潰すよ～✋【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "zikAYxn-vx0"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zikAYxn-vx0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【魔王城ものがたり】ホロメン力を貸して！！世界潰すよ～✋【一条莉々華/hololive DEV_IS ReGLOSS】",
-        "video_id": "zikAYxn-vx0"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -79,15 +34,6 @@
         "timestamp": 1779271200,
         "title": "【桃鉄2】不思議なメンツで桃鉄やんぞ！！！　w/エニ、ズズくん、おなつ【夕刻ロベル/ホロスターズ】",
         "video_id": "g9fGw4pczmY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LogawTVerJk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【NieR:Automata】パスカル可愛いな…… ＃３【HACHI】",
-        "video_id": "LogawTVerJk"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -124,5 +70,14 @@
         "timestamp": null,
         "title": "【Tomodachi Life】 Making Friends【Pavolia Reine/hololiveID】",
         "video_id": "1mUXScXwzVc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/y9oiuIuHheQ/maxresdefault_live.jpg",
+        "timestamp": 1779280200,
+        "title": "【バイオハザード RE:2】初見でやるバイ！ # 2【 #奏手イヅル 】",
+        "video_id": "y9oiuIuHheQ"
     }
 ]
