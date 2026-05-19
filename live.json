@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FK_3KagFLBU/maxresdefault_live.jpg",
-        "timestamp": 1779231600,
+        "timestamp": null,
         "title": "【BlackMesa】Me and my crowbar.",
         "video_id": "FK_3KagFLBU"
     },
@@ -61,5 +61,23 @@
         "timestamp": 1779280200,
         "title": "【バイオハザード RE:2】初見でやるバイ！ # 2【 #奏手イヅル 】",
         "video_id": "y9oiuIuHheQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ei7-iz62Zeg/maxresdefault_live.jpg",
+        "timestamp": 1779237000,
+        "title": "【LEGO BATMAN: LEGACY OF THE DARK KNIGHT】my first lego game【Dokibird】",
+        "video_id": "Ei7-iz62Zeg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ei7-iz62Zeg/maxresdefault_live.jpg",
+        "timestamp": 1779237000,
+        "title": "【LEGO BATMAN: LEGACY OF THE DARK KNIGHT】my first lego game【Dokibird】",
+        "video_id": "Ei7-iz62Zeg"
     }
 ]
