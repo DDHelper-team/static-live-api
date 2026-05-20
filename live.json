@@ -65,19 +65,28 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ei7-iz62Zeg/maxresdefault_live.jpg",
-        "timestamp": 1779237000,
+        "timestamp": null,
         "title": "【LEGO BATMAN: LEGACY OF THE DARK KNIGHT】my first lego game【Dokibird】",
         "video_id": "Ei7-iz62Zeg"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ei7-iz62Zeg/maxresdefault_live.jpg",
-        "timestamp": 1779237000,
+        "timestamp": null,
         "title": "【LEGO BATMAN: LEGACY OF THE DARK KNIGHT】my first lego game【Dokibird】",
         "video_id": "Ei7-iz62Zeg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/95po_WCvQ1A/maxresdefault_live.jpg",
+        "timestamp": 1779307200,
+        "title": "Creepiest Poppy to Your Playtime 【Poppy Playtime Ch. 3】",
+        "video_id": "95po_WCvQ1A"
     }
 ]
