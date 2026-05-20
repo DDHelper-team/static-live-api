@@ -12,19 +12,10 @@
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tIQHQQMRdOY/maxresdefault_live.jpg",
-        "timestamp": 1779274800,
-        "title": "【初監督】みんなでメルカードのCM監督に挑戦してみた！ぺこ！ 【ホロライブ/兎田ぺこら/AZKi/百鬼あやめ/白銀ノエル】",
-        "video_id": "tIQHQQMRdOY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/g9fGw4pczmY/maxresdefault_live.jpg",
-        "timestamp": 1779271200,
-        "title": "【桃鉄2】不思議なメンツで桃鉄やんぞ！！！　w/エニ、ズズくん、おなつ【夕刻ロベル/ホロスターズ】",
-        "video_id": "g9fGw4pczmY"
+        "thumbnail": "https://i.ytimg.com/vi/opl38oW6VGU/maxresdefault_live.jpg",
+        "timestamp": 1779282000,
+        "title": "【やれたらやる】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "opl38oW6VGU"
     },
     {
         "channel": "https://www.youtube.com/@necomakarin",
@@ -65,29 +56,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-SByv_KzEhQ/maxresdefault_live.jpg",
-        "timestamp": 1779274800,
+        "timestamp": null,
         "title": "【ストリートファイター6】3年ぶり対戦会【アルランディス/ホロスターズ】",
         "video_id": "-SByv_KzEhQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uSUsKzrZFx8/maxresdefault_live.jpg",
-        "timestamp": 1779271200,
-        "title": "【雑談】お話ししよ~！！！【轟はじめ/ReGLOSS】",
-        "video_id": "uSUsKzrZFx8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uSUsKzrZFx8/maxresdefault_live.jpg",
-        "timestamp": 1779271200,
-        "title": "【雑談】お話ししよ~！！！【轟はじめ/ReGLOSS】",
-        "video_id": "uSUsKzrZFx8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -119,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/toX8wdSC328/maxresdefault_live.jpg",
-        "timestamp": 1779271200,
+        "timestamp": null,
         "title": "【トモダチコレクション】オデの楽園がどう頑張ってもドロドロすぎる件について【風真いろは/ホロライブ】",
         "video_id": "toX8wdSC328"
     },
@@ -137,10 +110,64 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kGdIfOF49Hw/maxresdefault_live.jpg",
-        "timestamp": 1779274800,
+        "timestamp": null,
         "title": "【鳴潮】二章から！！！緋雪さんもガチャでお迎えするぞ～～～～～～～！！！！！【尾丸ポルカ/ホロライブ】",
         "video_id": "kGdIfOF49Hw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/g9fGw4pczmY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【桃鉄2】不思議なメンツで桃鉄やんぞ！！！　w/エニ、ズズくん、おなつ【夕刻ロベル/ホロスターズ】",
+        "video_id": "g9fGw4pczmY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vb8Sq4eipaI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【魔王城ものがたり】星5耐久でクリアするぞ！！！世界潰すよ～✋【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "vb8Sq4eipaI"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vb8Sq4eipaI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【魔王城ものがたり】星5耐久でクリアするぞ！！！世界潰すよ～✋【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "vb8Sq4eipaI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dXGR0V442ns/maxresdefault_live.jpg",
+        "timestamp": 1779282000,
+        "title": "【ストリートファイター6】テリー修行【荒咬オウガ /ホロスターズ】",
+        "video_id": "dXGR0V442ns"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VtS5xLoVuug/maxresdefault_live.jpg",
+        "timestamp": 1779364800,
+        "title": "【Venus Vacation PRISM - Dead or Alive Xtreme】i needed a girls vacation (SPOILERS AHEAD) #calliolive",
+        "video_id": "VtS5xLoVuug"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ml1tM8S40p0/maxresdefault_live.jpg",
+        "timestamp": 1779364800,
+        "title": "【重大発表あり！】謎の『X』についてラミラプが真相をお話しします...【 雪花ラミィ・ラプラス・ダークネス /ホロライブ】",
+        "video_id": "Ml1tM8S40p0"
     }
 ]
