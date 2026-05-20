@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/95po_WCvQ1A/maxresdefault_live.jpg",
-        "timestamp": 1779307200,
+        "timestamp": null,
         "title": "Creepiest Poppy to Your Playtime 【Poppy Playtime Ch. 3】",
         "video_id": "95po_WCvQ1A"
     },
@@ -34,24 +34,6 @@
         "timestamp": 1779368400,
         "title": "【】ワードウルフ【ホロライブ/大空スバル】",
         "video_id": "N3UkUjJ8UiY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/b7yoX8-z4wM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LoL】これな～～～んだ！   / アステル",
-        "video_id": "b7yoX8-z4wM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dXGR0V442ns/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ストリートファイター6】テリー修行【荒咬オウガ /ホロスターズ】",
-        "video_id": "dXGR0V442ns"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -106,5 +88,14 @@
         "timestamp": 1779339600,
         "title": "【APEX】チル部APEXのお時間【夕刻ロベル/ホロスターズ】",
         "video_id": "kGitGV7w3UI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/89Dq55LvfX0/maxresdefault_live.jpg",
+        "timestamp": 1779366600,
+        "title": "【バイオハザード RE:2】初見でやるバイ！ # 3【 #奏手イヅル 】",
+        "video_id": "89Dq55LvfX0"
     }
 ]
