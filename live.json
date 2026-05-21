@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9G8nfmcM0lU/maxresdefault_live.jpg",
-        "timestamp": 1779321600,
+        "timestamp": null,
         "title": "【#BdayINA2026】H-h-h-hi I-It\u0026#39;s My Birthday......!!!!!!",
         "video_id": "9G8nfmcM0lU"
     },
@@ -16,15 +16,6 @@
         "timestamp": 1779357600,
         "title": "【やれたらやる】ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "opl38oW6VGU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/95po_WCvQ1A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Creepiest Poppy to Your Playtime 【Poppy Playtime Ch. 3】",
-        "video_id": "95po_WCvQ1A"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -88,5 +79,23 @@
         "timestamp": 1779366600,
         "title": "【バイオハザード RE:2】初見でやるバイ！ # 3【 #奏手イヅル 】",
         "video_id": "89Dq55LvfX0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yRRos1DvrGM/maxresdefault_live.jpg",
+        "timestamp": 1779328800,
+        "title": "【HOLOPLUS - FREETALK】 WELL HERE\u0026#39;S MY HOT TAKE 【Kureiji Ollie】",
+        "video_id": "yRRos1DvrGM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JIBkEfvDVRo/maxresdefault_live.jpg",
+        "timestamp": 1779411600,
+        "title": "Zombie Woman Protects Me From Living Women 【Road to Empress I】",
+        "video_id": "JIBkEfvDVRo"
     }
 ]
