@@ -11,18 +11,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tWbYTK_h7mE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#最終回【テイルズ オブ ジ アビス】はじめてのテイルズシリーズ！生まれた意味を知るRPGやる！TALES OF THE ABYSS ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "tWbYTK_h7mE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CQiIcAlv5Fc/maxresdefault_live.jpg",
+        "timestamp": 1779537600,
+        "title": "【#ホロREPO】オサレ皇帝（エンペラー）におれはなる！【ホロライブ/兎田ぺこら】",
+        "video_id": "CQiIcAlv5Fc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1zXbOwmSL_w/maxresdefault_live.jpg",
-        "timestamp": 1779523200,
+        "timestamp": null,
         "title": "【Crunchyroll Anime Awards】Let\u0026#39;s Watch It Together!!!!! #crunchyrollpartner",
         "video_id": "1zXbOwmSL_w"
     },
@@ -99,15 +99,6 @@
         "video_id": "vsIWtzNhiio"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/znxJVljMc1k/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Free Talk",
-        "video_id": "znxJVljMc1k"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -115,5 +106,59 @@
         "timestamp": null,
         "title": "【LoL】LTK DDnext  無限練習DAY   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
         "video_id": "IVgNPrM8Qgw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ymY1HuOeLCA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Singing / Karaoke】土曜！！！夕方からやっちゃうよ！【#TanZ 】",
+        "video_id": "ymY1HuOeLCA"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ymY1HuOeLCA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Singing / Karaoke】土曜！！！夕方からやっちゃうよ！【#TanZ 】",
+        "video_id": "ymY1HuOeLCA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qxOqBDbNtvc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#ff14  】又是個FF14的一天~來切換職業玩玩【#ゲーム個人勢 / Fingla】",
+        "video_id": "qxOqBDbNtvc"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qxOqBDbNtvc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#ff14  】又是個FF14的一天~來切換職業玩玩【#ゲーム個人勢 / Fingla】",
+        "video_id": "qxOqBDbNtvc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-aIzPUHJYkU/maxresdefault_live.jpg",
+        "timestamp": 1779613200,
+        "title": "【 The Walking Trade 】ゾンビ世界で、ショップ経営！！レジバイトを増やしたショップはいかに・・・？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "-aIzPUHJYkU"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-aIzPUHJYkU/maxresdefault_live.jpg",
+        "timestamp": 1779613200,
+        "title": "【 The Walking Trade 】ゾンビ世界で、ショップ経営！！レジバイトを増やしたショップはいかに・・・？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "-aIzPUHJYkU"
     }
 ]
