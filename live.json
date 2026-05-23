@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ifkYJnKGRJo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#最終回】LOST JUDGMENT 海藤正治の事件簿やるしゅばああああああああああああああああああああああああああ！！！！！【※ネタバレあり】",
-        "video_id": "ifkYJnKGRJo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bUd9Wyou980/maxresdefault_live.jpg",
+        "timestamp": 1779595200,
+        "title": "【】アマガミ【ホロライブ/大空スバル】",
+        "video_id": "bUd9Wyou980"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/grNtlv6Up4U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "WATCHALONG WITH @sammybollivienn YASSSSSSSSSSSSSSSS",
-        "video_id": "grNtlv6Up4U"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vLvpLNXYDPU/maxresdefault_live.jpg",
+        "timestamp": 1779535800,
+        "title": "TLOTR WATCHALONG WITH @sammybollivienn THE RETURN OF THE KING",
+        "video_id": "vLvpLNXYDPU"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
@@ -160,5 +160,23 @@
         "timestamp": 1779613200,
         "title": "【 The Walking Trade 】ゾンビ世界で、ショップ経営！！レジバイトを増やしたショップはいかに・・・？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "-aIzPUHJYkU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E6ehBsi3Ov4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ！【#05】",
+        "video_id": "E6ehBsi3Ov4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wBVFLXBzb-s/maxresdefault_live.jpg",
+        "timestamp": 1779541200,
+        "title": "【メンバー限定】同時視聴する作品探して見るやつ【荒咬オウガ /ホロスターズ】",
+        "video_id": "wBVFLXBzb-s"
     }
 ]
