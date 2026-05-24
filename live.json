@@ -83,19 +83,28 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/N8tMkUyc2QA/maxresdefault_live.jpg",
-        "timestamp": 1779580800,
+        "timestamp": null,
         "title": "【MARVEL RIVALS】Tank doki is back【Dokibird】",
         "video_id": "N8tMkUyc2QA"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/N8tMkUyc2QA/maxresdefault_live.jpg",
-        "timestamp": 1779580800,
+        "timestamp": null,
         "title": "【MARVEL RIVALS】Tank doki is back【Dokibird】",
         "video_id": "N8tMkUyc2QA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JWbPEDYFnq0/maxresdefault_live.jpg",
+        "timestamp": 1779600600,
+        "title": "【NHKマイルカップ】桜を制し、樫へ――二冠への正統進撃。【尾丸ポルカ/ホロライブ】",
+        "video_id": "JWbPEDYFnq0"
     }
 ]
