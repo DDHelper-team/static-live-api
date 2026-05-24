@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5Sig115TtpY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Forza Horizon 6】初プレイ！日本をドライブするぞおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "5Sig115TtpY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5GCfleXWkD8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 🟢FF7クライシスコア 】完全初見で遊ぶぞｵｵｵｵｵ #03【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "5GCfleXWkD8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -61,15 +43,6 @@
         "timestamp": null,
         "title": "【LoL】LTK DDnext  ソロQ→チム練   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeo",
         "video_id": "ExnYyDEgxVc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_rbl5b26e_s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【夜雑談】こよとデートしてきた♡【雪花ラミィ /ホロライブ】",
-        "video_id": "_rbl5b26e_s"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
@@ -124,5 +97,41 @@
         "timestamp": 1779674400,
         "title": "【ENIGMATIC RECOLLECTION】time to get this fuzzy party started 🐾 #ENreco #hololiveEnglish【MOCOCO POV】",
         "video_id": "PkPzzhx2hrc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bb6h4d-BFI8/maxresdefault_live.jpg",
+        "timestamp": 1779706800,
+        "title": "【お絵描き配信 / DRAWING STREAM】 足立たかふみ先生との気軽なおしゃべり!! CHATS AND SCRIBBLES WITH TAKAFUMI ADACHI SENSEI!!",
+        "video_id": "bb6h4d-BFI8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cLbDjefl2-w/maxresdefault_live.jpg",
+        "timestamp": 1779674400,
+        "title": "【ENigmatic Recollection】Return of the Hero....?【#1】",
+        "video_id": "cLbDjefl2-w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/68NDkBw4rv4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【DYING LIGHT THE BEAST】ドロップキック！　Part3【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
+        "video_id": "68NDkBw4rv4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VuwvH2nOWxI/maxresdefault_live.jpg",
+        "timestamp": 1779674400,
+        "title": "【ENigmatic Recollection】May the lands burn.【Broken Bonds Day 1】#enreco",
+        "video_id": "VuwvH2nOWxI"
     }
 ]
