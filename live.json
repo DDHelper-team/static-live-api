@@ -36,15 +36,6 @@
         "video_id": "6tOJ3YN-zW0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Bl_3Q5F1PNI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Coffee Talk】 深夜 チルく読む男【 #奏手イヅル 】",
-        "video_id": "Bl_3Q5F1PNI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -81,12 +72,21 @@
         "video_id": "7JCwz_K_r5M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5xI1CoyXLqQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】日常の雑談【岸堂天真/ホロスターズ】",
-        "video_id": "5xI1CoyXLqQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uZ0IMLL2Vxc/maxresdefault_live.jpg",
+        "timestamp": 1779757200,
+        "title": "【ENigmatic Recollection】G(j)aslight G(j)atekeep G(j)irlboss【Broken Bonds Day 2】#enreco",
+        "video_id": "uZ0IMLL2Vxc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/if2hHCRP2Kc/maxresdefault_live.jpg",
+        "timestamp": 1779796800,
+        "title": "【】Forza Horizon 6【ホロライブ/大空スバル】",
+        "video_id": "if2hHCRP2Kc"
     }
 ]
