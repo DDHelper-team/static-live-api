@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vRVwJrdNzGk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Gone 【ENigmatic Recollection: Season 3】",
-        "video_id": "vRVwJrdNzGk"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PNrclGd76n4/maxresdefault_live.jpg",
+        "timestamp": 1779843600,
+        "title": "Church is Now in Session 【ENigmatic Recollection: Season 3】",
+        "video_id": "PNrclGd76n4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
@@ -70,5 +70,41 @@
         "timestamp": 1779789600,
         "title": "【R.E.P.O.】今日はこのメンツでLV500までいきたい！！！！！！！！！！！！！【尾丸ポルカ視点/ホロライブ】",
         "video_id": "p8HGTHfYp4g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/g1jF4SJP2-E/maxresdefault_live.jpg",
+        "timestamp": 1779789600,
+        "title": "【ブレインスリープ】視聴者アンケート紹介！余とすやすやし余？✨【百鬼あやめ/ホロライブ】",
+        "video_id": "g1jF4SJP2-E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rosgi_5H5io/maxresdefault_live.jpg",
+        "timestamp": 1779793200,
+        "title": "【R.E.P.O.】REPOを極めし者のソロREPOを見て欲しい。【ホロライブ/白上フブキ】",
+        "video_id": "rosgi_5H5io"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/37VNssWwKsk/maxresdefault_live.jpg",
+        "timestamp": 1779800400,
+        "title": "【雑談】配信予定地！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "37VNssWwKsk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PzK5Agh-RIs/maxresdefault_live.jpg",
+        "timestamp": 1779804000,
+        "title": "【Librarian】 Tidy Up the Arcane Library! Chill Cleaning w/ Magic【Pavolia Reine/hololiveID】",
+        "video_id": "PzK5Agh-RIs"
     }
 ]
