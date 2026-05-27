@@ -63,24 +63,6 @@
         "video_id": "K5iKr1TSX84"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XMnFANL38t4/maxresdefault_live.jpg",
-        "timestamp": 1779861657,
-        "title": "【Forza Horizon 6】乗り回すで～～！！！⊂二二二(　^ω^)二⊃ブーン【緋月ゆい/ネオポルテ】",
-        "video_id": "XMnFANL38t4"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XMnFANL38t4/maxresdefault_live.jpg",
-        "timestamp": 1779861657,
-        "title": "【Forza Horizon 6】乗り回すで～～！！！⊂二二二(　^ω^)二⊃ブーン【緋月ゆい/ネオポルテ】",
-        "video_id": "XMnFANL38t4"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5BzTkLEKHjI/maxresdefault_live.jpg",
-        "timestamp": 1779876000,
+        "timestamp": null,
         "title": "【トモダチコレクション】たすけて3期生！この島の恋愛模様を変えてくれｯ！！【風真いろは/ホロライブ】",
         "video_id": "5BzTkLEKHjI"
     },
@@ -110,10 +92,55 @@
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4BBGP5zwTBI/maxresdefault_live.jpg",
-        "timestamp": 1779876000,
+        "timestamp": null,
         "title": "【#NELLマットレス】癒月ちょこのNELLラジ放送！団長と一緒にうたた寝風に！？【癒月ちょこ/白銀ノエル】",
         "video_id": "4BBGP5zwTBI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ktEBw4nBpMs/maxresdefault_live.jpg",
+        "timestamp": 1779879600,
+        "title": "AZKiと桃鈴ねねと雪花ラミィと戌神ころねのコラボ",
+        "video_id": "ktEBw4nBpMs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/V025AFM5_5Q/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【STREET FIGHTER6】終活！最後のストリートファイター6！ 【岸堂天真/ホロスターズ】",
+        "video_id": "V025AFM5_5Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9c_XNBLI8zM/maxresdefault_live.jpg",
+        "timestamp": 1779940800,
+        "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 15日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+        "video_id": "9c_XNBLI8zM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/p-7qeMxrjF0/maxresdefault_live.jpg",
+        "timestamp": 1779890400,
+        "title": "【雑談】なんかラジオみたいなトーク　第20回【荒咬オウガ  アール/Aru】",
+        "video_id": "p-7qeMxrjF0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RAXz9LfFqQ8/maxresdefault_live.jpg",
+        "timestamp": 1779879600,
+        "title": "【Pratfall】　愛犬を救出する為に地下労働する #かみぬい【ホロライブ/白上フブキ】",
+        "video_id": "RAXz9LfFqQ8"
     }
 ]
