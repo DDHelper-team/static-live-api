@@ -27,24 +27,6 @@
         "video_id": "QB1ZSh0yKuc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9c_XNBLI8zM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 15日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-        "video_id": "9c_XNBLI8zM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zQ7v8QqCeXM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPOILER ALERT | Resident Evil Requiem】BACK WITH MORE LEON GAMING【hololive ID | Anya Melfissa】",
-        "video_id": "zQ7v8QqCeXM"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -83,18 +65,18 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OKUezlBF6A4/maxresdefault_live.jpg",
-        "timestamp": 1779966000,
+        "timestamp": null,
         "title": "【三ツ星ファーム】自称ミシュラン審査員りりーか、ガチ調査するよ！！#PR【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "OKUezlBF6A4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OKUezlBF6A4/maxresdefault_live.jpg",
-        "timestamp": 1779966000,
+        "timestamp": null,
         "title": "【三ツ星ファーム】自称ミシュラン審査員りりーか、ガチ調査するよ！！#PR【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "OKUezlBF6A4"
     },
@@ -124,5 +106,41 @@
         "timestamp": null,
         "title": "【Librarian】 Cleaning Up 3000+ Books Manually【Pavolia Reine/hololiveID】",
         "video_id": "GCRvf68M_Ng"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u1YnFJyhKd8/maxresdefault_live.jpg",
+        "timestamp": 1779969600,
+        "title": "【文字遊戯】　我、勇者となりて世界を救う！！！！！！！【ホロライブ/白上フブキ】",
+        "video_id": "u1YnFJyhKd8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wWrlOslUbvs/maxresdefault_live.jpg",
+        "timestamp": 1779978600,
+        "title": "【DYING LIGHT THE BEAST】卒業までにクリアしないといけないヤツ　Part4【岸堂天真/花咲みやび/羽継烏有/ホロスターズ】",
+        "video_id": "wWrlOslUbvs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wqkCh0-c9fk/maxresdefault_live.jpg",
+        "timestamp": 1779973200,
+        "title": "【Supermarket Together】巷で賑わう大人気☆スーパー【轟はじめ/ReGLOSS】",
+        "video_id": "wqkCh0-c9fk"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wqkCh0-c9fk/maxresdefault_live.jpg",
+        "timestamp": 1779973200,
+        "title": "【Supermarket Together】巷で賑わう大人気☆スーパー【轟はじめ/ReGLOSS】",
+        "video_id": "wqkCh0-c9fk"
     }
 ]
