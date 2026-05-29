@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QB1ZSh0yKuc/maxresdefault_live.jpg",
-        "timestamp": 1780016400,
+        "timestamp": null,
         "title": "Have you seen The Yellow Sign? 【ENigmatic Recollection: Season 3】",
         "video_id": "QB1ZSh0yKuc"
     },
@@ -38,37 +38,46 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kq-7QwpH2xY/maxresdefault_live.jpg",
-        "timestamp": 1780012800,
+        "timestamp": null,
         "title": "【007 FIRST LIGHT】00Doki【Dokibird】",
         "video_id": "kq-7QwpH2xY"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kq-7QwpH2xY/maxresdefault_live.jpg",
-        "timestamp": 1780012800,
+        "timestamp": null,
         "title": "【007 FIRST LIGHT】00Doki【Dokibird】",
         "video_id": "kq-7QwpH2xY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/K3N6S6rIgS0/maxresdefault_live.jpg",
-        "timestamp": 1780016400,
-        "title": "【ENIGMATIC RECOLLECTION】fuzzy bonds united 🐾 #ENreco #hololiveEnglish【MOCOCO POV】",
-        "video_id": "K3N6S6rIgS0"
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Db4P0eDfOMY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ENIGMATIC RECOLLECTION】fluffy bonds united 🐾 #ENreco #hololiveEnglish【FUWAWA POV】",
+        "video_id": "Db4P0eDfOMY"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FJNKv92ZWdM/maxresdefault_live.jpg",
-        "timestamp": 1780016400,
+        "timestamp": null,
         "title": "【ENigmatic Recollection】how h a u n t i n g 【Broken Bonds Day 5】#enreco",
         "video_id": "FJNKv92ZWdM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/F0V2nxnTEII/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ENigmatic Recollection】Because...A Hero Needed Rest Too...【#5】",
+        "video_id": "F0V2nxnTEII"
     }
 ]
