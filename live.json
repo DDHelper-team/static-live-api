@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KfseXG9Ac-Q/maxresdefault_live.jpg",
-        "timestamp": 1780131600,
-        "title": "【超自然スクワッド】4人でゲームプレイするよっ！！【雪花ラミィ視点 /ホロライブ】",
-        "video_id": "KfseXG9Ac-Q"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sqEGISonEYA/maxresdefault_live.jpg",
-        "timestamp": 1780131600,
-        "title": "【超自然スクワッド】ホロライブ5期生、ねぺらぼのぺ！兎田ぺこらぺこ(^▽^)【ホロライブ/兎田ぺこら】",
-        "video_id": "sqEGISonEYA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -65,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hwccGxej24Y/maxresdefault_live.jpg",
-        "timestamp": 1780131600,
+        "timestamp": null,
         "title": "【Paralives】Semoga ga kena azab lagi【 iofi / hololiveID 】",
         "video_id": "hwccGxej24Y"
     },
@@ -101,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pJXlXVz0t2g/maxresdefault_live.jpg",
-        "timestamp": 1780131600,
+        "timestamp": null,
         "title": "【マリオカート8DX】終活！最後のマリカ8DX！【岸堂天真/ホロスターズ】",
         "video_id": "pJXlXVz0t2g"
     },
@@ -115,5 +97,14 @@
         "timestamp": null,
         "title": "【LoL】LTK DDnext  すくりむ！   / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
         "video_id": "moKcJ5-Y4Kk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TlSiO3NSIFI/maxresdefault_live.jpg",
+        "timestamp": 1780142400,
+        "title": "【BLEACH Rebirth of Souls】藍染に会いにいく。【ホロライブ/兎田ぺこら】",
+        "video_id": "TlSiO3NSIFI"
     }
 ]
