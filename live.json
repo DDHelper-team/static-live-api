@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UyzHGOfKSRQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Forza Horizon 6】　あ、助手席空いてますよ　【ホロライブ/白上フブキ】",
-        "video_id": "UyzHGOfKSRQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -27,20 +18,11 @@
         "video_id": "-iRyMHwxqIA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/o9E4YBtZJW8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 🟢FF7クライシスコア 】完全初見で遊ぶぞｵｵｵｵｵ #04【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "o9E4YBtZJW8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tle3xWR3H94/maxresdefault_live.jpg",
-        "timestamp": 1780149600,
+        "timestamp": null,
         "title": "【Honor of Kings】Push Rank【IOFI / HOLOLIVE】",
         "video_id": "tle3xWR3H94"
     },
@@ -72,15 +54,6 @@
         "video_id": "Rrslk1buHLY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TlSiO3NSIFI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BLEACH Rebirth of Souls】藍染に会いにいく。【ホロライブ/兎田ぺこら】",
-        "video_id": "TlSiO3NSIFI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -110,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/J6N3BrBuqjo/maxresdefault_live.jpg",
-        "timestamp": 1780149600,
+        "timestamp": null,
         "title": "【FORZA HORIZON 6】 My First Forza Horizon Ever! Driving Safely【Pavolia Reine/hololiveID】",
         "video_id": "J6N3BrBuqjo"
     },
@@ -171,15 +144,6 @@
         "video_id": "pdW7C3wbBm0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bgJSh1ykE_Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Dead by Daylight】寝起き悪魔のゲリラDBD※お昼寝から起きたらやります※時間は目安です【ホロライブ/癒月ちょこ】",
-        "video_id": "bgJSh1ykE_Q"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +169,14 @@
         "timestamp": 1780185600,
         "title": "【DEEP ROCK GALACTIC: ROGUE CORE】Rock and Stone!【Dokibird】",
         "video_id": "KERHhRzdY-s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/emq8i1TY7Ss/maxresdefault_live.jpg",
+        "timestamp": 1780228800,
+        "title": "【 FF7/同時視聴 】FINAL FANTASY VII ADVENT CHILDREN COMPLETE 一緒に見よう！😸✨【猫又おかゆ/ホロライブ】",
+        "video_id": "emq8i1TY7Ss"
     }
 ]
