@@ -11,18 +11,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KOM-ruYGvd8/maxresdefault_live.jpg",
-        "timestamp": 1780264819,
+        "timestamp": null,
         "title": "【雑談】おはよ！6月だけど、毎日冷房🍃【緋月ゆい/ネオポルテ】",
         "video_id": "KOM-ruYGvd8"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KOM-ruYGvd8/maxresdefault_live.jpg",
-        "timestamp": 1780264819,
+        "timestamp": null,
         "title": "【雑談】おはよ！6月だけど、毎日冷房🍃【緋月ゆい/ネオポルテ】",
         "video_id": "KOM-ruYGvd8"
     },
@@ -97,5 +97,14 @@
         "timestamp": 1780311600,
         "title": "【#ホロ金策サバイバル2 】マイクラだいすきキッズです。”賢く”稼ぎます💰【風真いろは/ホロライブ】",
         "video_id": "7MPnwt9rkeQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hpC9AEiMBDg/maxresdefault_live.jpg",
+        "timestamp": 1780336800,
+        "title": "Midsummer Nights Scream: Horror Game Awards",
+        "video_id": "hpC9AEiMBDg"
     }
 ]
