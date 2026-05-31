@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4rjmACpiI2c/maxresdefault_live.jpg",
-        "timestamp": 1780225200,
+        "timestamp": null,
         "title": "【運ゲー】第五回　サイコロ９個ゾロ目出す２時間配信。【白上フブキ/ホロライブ】",
         "video_id": "4rjmACpiI2c"
     },
@@ -63,15 +63,6 @@
         "video_id": "cU9gf9eI3lc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ghypV835Ii8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "YAPPING HARD w/@sammybollivienn",
-        "video_id": "ghypV835Ii8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -79,15 +70,6 @@
         "timestamp": 1780230600,
         "title": "【バイオハザード RE:2】クレア編 # 2【 #奏手イヅル 】",
         "video_id": "U3dmT1kc0eE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OsRHwYXjj38/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】終活！最後の歌枠！【岸堂天真/ホロスターズ】",
-        "video_id": "OsRHwYXjj38"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -99,12 +81,30 @@
         "video_id": "Uu1o3Bedwlg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ejfXyARt3jo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【8周年記念】ホロライブに入ってもう8年！？！【ホロライブ/夏色まつり】",
-        "video_id": "ejfXyARt3jo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/03Czx2QWb5U/maxresdefault_live.jpg",
+        "timestamp": 1780232400,
+        "title": "【ストリートファイター6】テリー修行なのじゃが？【荒咬オウガ /ホロスターズ】",
+        "video_id": "03Czx2QWb5U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TwRlna7vpxM/maxresdefault_live.jpg",
+        "timestamp": 1780232400,
+        "title": "塔羅占卜#139｜好熱！大家也要注意身體才不會被影響能量🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "TwRlna7vpxM"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TwRlna7vpxM/maxresdefault_live.jpg",
+        "timestamp": 1780232400,
+        "title": "塔羅占卜#139｜好熱！大家也要注意身體才不會被影響能量🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "TwRlna7vpxM"
     }
 ]
