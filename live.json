@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VZC1rYPuvM0/maxresdefault_live.jpg",
-        "timestamp": 1780362000,
+        "timestamp": null,
         "title": "【SUPER MARIO MAKER 2】looks easy #calliolive",
         "video_id": "VZC1rYPuvM0"
     },
@@ -56,18 +56,18 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/buGF0UuutuA/maxresdefault_live.jpg",
-        "timestamp": 1780362000,
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】ENTERING MY TRAINING ARC! Getting Coached by a PRO!! #sponsored",
         "video_id": "buGF0UuutuA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yJqz0J99Dv0/maxresdefault_live.jpg",
-        "timestamp": 1780362000,
+        "timestamp": null,
         "title": "【ANSWERING HOLOQ】 ANSWERING MORE QUESTIONS SO THAT YOU GUYS DOWNLOAD HOLOPLUS 【Kureiji Ollie】",
         "video_id": "yJqz0J99Dv0"
     },
@@ -117,15 +117,6 @@
         "video_id": "SmHxA5XyhGQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JjINEorDtEk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Freetalk】早起き悪魔の朝ちょこ雑談📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "JjINEorDtEk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -133,5 +124,14 @@
         "timestamp": null,
         "title": "【 #PoE2 】完全初見でやる w/ けっつん 日向まる 夜よいち U者【 #奏手イヅル 】",
         "video_id": "I8-f27_4sUA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qLV5Zip3Rng/maxresdefault_live.jpg",
+        "timestamp": 1780398000,
+        "title": "【#ホロ金策サバイバル 】1日だけでどれほど稼げるか検証✨️ riches will be ours 🐾 【holoMinecraft Goldrush Survival FUWAMOCO視点】",
+        "video_id": "qLV5Zip3Rng"
     }
 ]
