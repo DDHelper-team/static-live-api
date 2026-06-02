@@ -20,18 +20,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-Ps5pxGJNEQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive",
-        "video_id": "-Ps5pxGJNEQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sq0NT8GntZs/maxresdefault_live.jpg",
+        "timestamp": 1780452000,
+        "title": "【member\u0026#39;s only】saving the internet (finale) #calliolive",
+        "video_id": "sq0NT8GntZs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SmHxA5XyhGQ/maxresdefault_live.jpg",
-        "timestamp": 1780437600,
+        "timestamp": null,
         "title": "Being Coached as a 1st Time Fighter!【Street Fighter 6】 #ad",
         "video_id": "SmHxA5XyhGQ"
     },
@@ -117,15 +117,6 @@
         "video_id": "IygB_BVdUTg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SlzCmzOgujg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARKNIGHTS: ENDFIELD】finishing the last chapter !!!! #kfp",
-        "video_id": "SlzCmzOgujg"
-    },
-    {
         "channel": "https://www.youtube.com/@TanZ1001",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -151,5 +142,14 @@
         "timestamp": 1780491600,
         "title": "【 NTE: Neverness to Everness  】待望のアプデ！！！！キタ！！！！【#新人vtuber 】",
         "video_id": "n13-ajrPG2w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ia-HD9VCpGY/maxresdefault_live.jpg",
+        "timestamp": 1780502400,
+        "title": "【Yoshi and the Mysterious Book】YOSHI AND HIS FREAKY FRIENDS #kfp #キアライブ",
+        "video_id": "Ia-HD9VCpGY"
     }
 ]
