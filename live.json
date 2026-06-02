@@ -38,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VZC1rYPuvM0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SUPER MARIO MAKER 2】looks easy #calliolive",
-        "video_id": "VZC1rYPuvM0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-Ps5pxGJNEQ/maxresdefault_live.jpg",
+        "timestamp": 1780434000,
+        "title": "【STATE OF PLAY WATCH PARTY】here comes the runback...with @KosekiBijou  #calliolive",
+        "video_id": "-Ps5pxGJNEQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -52,24 +52,6 @@
         "timestamp": 1780398000,
         "title": "【Pummel Party 】DoZで遊んだメンツで殴り合え！【アルランディス/ホロスターズ】",
         "video_id": "71N2kxSHs40"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/buGF0UuutuA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6】ENTERING MY TRAINING ARC! Getting Coached by a PRO!! #sponsored",
-        "video_id": "buGF0UuutuA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yJqz0J99Dv0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ANSWERING HOLOQ】 ANSWERING MORE QUESTIONS SO THAT YOU GUYS DOWNLOAD HOLOPLUS 【Kureiji Ollie】",
-        "video_id": "yJqz0J99Dv0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -117,15 +99,6 @@
         "video_id": "SmHxA5XyhGQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/I8-f27_4sUA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #PoE2 】完全初見でやる w/ けっつん 日向まる 夜よいち U者【 #奏手イヅル 】",
-        "video_id": "I8-f27_4sUA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -133,5 +106,59 @@
         "timestamp": 1780398000,
         "title": "【#ホロ金策サバイバル 】1日だけでどれほど稼げるか検証✨️ riches will be ours 🐾 【holoMinecraft Goldrush Survival FUWAMOCO視点】",
         "video_id": "qLV5Zip3Rng"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/46cie_52P8o/maxresdefault_live.jpg",
+        "timestamp": 1780448400,
+        "title": "【StarSavior】Wedding bells are ringing?! #sponsored #ad",
+        "video_id": "46cie_52P8o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/20ZJfclKQJY/maxresdefault_live.jpg",
+        "timestamp": 1780401600,
+        "title": "【実写注意】ライブでいただいた差し入れ見て食べたい！【#TanZ 】",
+        "video_id": "20ZJfclKQJY"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/20ZJfclKQJY/maxresdefault_live.jpg",
+        "timestamp": 1780401600,
+        "title": "【実写注意】ライブでいただいた差し入れ見て食べたい！【#TanZ 】",
+        "video_id": "20ZJfclKQJY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vFM9-877wFk/maxresdefault_live.jpg",
+        "timestamp": 1780383600,
+        "title": "FARMING LIFE #Area15",
+        "video_id": "vFM9-877wFk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5STn1X1Yo1Y/maxresdefault_live.jpg",
+        "timestamp": 1780405200,
+        "title": "【Tomodachi Life: Living the Dream】 Pt.14: CHECKING MY MII AFTER A WEEK OF NEGLIGENCE 【Kureiji Ollie】",
+        "video_id": "5STn1X1Yo1Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vkO4H30zevQ/maxresdefault_live.jpg",
+        "timestamp": 1780398000,
+        "title": "【#ホロ金策サバイバル2】ころね支店 ～2日目～ 【Minecraft】",
+        "video_id": "vkO4H30zevQ"
     }
 ]
