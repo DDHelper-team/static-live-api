@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JBwSBUz4IWQ/maxresdefault_live.jpg",
-        "timestamp": 1780516800,
+        "timestamp": null,
         "title": "The Last Voice You\u0026#39;ll Ever Hear 【Schrödinger\u0026#39;s Call】 ❗SPOILERS❗",
         "video_id": "JBwSBUz4IWQ"
     },
@@ -70,15 +70,6 @@
         "timestamp": 1780570500,
         "title": "【#ホロ金策サバイバル2 】Day3💓なあ・・・ギャンブルがしてえんだ・・・【尾丸ポルカ/ホロライブ】",
         "video_id": "pemcaYjAhNw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_hM2TkyC8tc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "‪〖 ASMR⌇KU100 〗 超奥\u0026quot;ク\u0026quot;る…♡首筋ゾワ刺激がたまらない昇天睡眠…♡ 〖 耳塞ぎ / 耳ふぅ / 耳かき /リアル感 /  Japanese/Vtuber〗",
-        "video_id": "_hM2TkyC8tc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -142,5 +133,14 @@
         "timestamp": 1780527600,
         "title": "【STREET FIGHTER 6】TRIAL BY FIRE! TRAIN ME PEBBLES",
         "video_id": "28mwJEFX_rg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EY4_OgQSV58/maxresdefault_live.jpg",
+        "timestamp": 1780578000,
+        "title": "【ホロスタボドゲ部】ホロスタボドゲ部　最後の花火！【岸堂天真/ホロスターズ】",
+        "video_id": "EY4_OgQSV58"
     }
 ]
