@@ -27,20 +27,11 @@
         "video_id": "sq0NT8GntZs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SmHxA5XyhGQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Being Coached as a 1st Time Fighter!【Street Fighter 6】 #ad",
-        "video_id": "SmHxA5XyhGQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/46cie_52P8o/maxresdefault_live.jpg",
-        "timestamp": 1780448400,
+        "timestamp": null,
         "title": "【StarSavior】Wedding bells are ringing?! #sponsored #ad",
         "video_id": "46cie_52P8o"
     },
@@ -90,24 +81,6 @@
         "video_id": "IrYn_nni_98"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QHAgxGWi6cw/maxresdefault_live.jpg",
-        "timestamp": 1780450200,
-        "title": "【HANG OUT OFFCOLLAB】Somehow we’re all here together【Dokibird】",
-        "video_id": "QHAgxGWi6cw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QHAgxGWi6cw/maxresdefault_live.jpg",
-        "timestamp": 1780450200,
-        "title": "【HANG OUT OFFCOLLAB】Somehow we’re all here together【Dokibird】",
-        "video_id": "QHAgxGWi6cw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -151,5 +124,32 @@
         "timestamp": 1780502400,
         "title": "【Yoshi and the Mysterious Book】YOSHI AND HIS FREAKY FRIENDS #kfp #キアライブ",
         "video_id": "Ia-HD9VCpGY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JBwSBUz4IWQ/maxresdefault_live.jpg",
+        "timestamp": 1780516800,
+        "title": "The Last Voice You\u0026#39;ll Ever Hear 【Schrödinger\u0026#39;s Call】 ❗SPOILERS❗",
+        "video_id": "JBwSBUz4IWQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QHAgxGWi6cw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【HANG OUT OFFCOLLAB】Somehow we’re all here together【Dokibird】",
+        "video_id": "QHAgxGWi6cw"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QHAgxGWi6cw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【HANG OUT OFFCOLLAB】Somehow we’re all here together【Dokibird】",
+        "video_id": "QHAgxGWi6cw"
     }
 ]
