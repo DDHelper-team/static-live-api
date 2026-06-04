@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/28mwJEFX_rg/maxresdefault_live.jpg",
-        "timestamp": 1780527600,
+        "timestamp": null,
         "title": "【STREET FIGHTER 6】TRIAL BY FIRE! TRAIN ME PEBBLES",
         "video_id": "28mwJEFX_rg"
     },
@@ -124,5 +124,14 @@
         "timestamp": 1780578000,
         "title": "【ホロスタボドゲ部】ホロスタボドゲ部　最後の花火！【岸堂天真/ホロスターズ】",
         "video_id": "EY4_OgQSV58"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qFUeh-y35mg/maxresdefault_live.jpg",
+        "timestamp": 1780565400,
+        "title": "#Vtuber弾き語リレー【 #奏手イヅル 】",
+        "video_id": "qFUeh-y35mg"
     }
 ]
