@@ -45,15 +45,6 @@
         "video_id": "pemcaYjAhNw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nvDIAgcTe0Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【R.E.P.O.】騒がしい人たち【アルランディス/ホロスターズ】",
-        "video_id": "nvDIAgcTe0Q"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -117,39 +108,48 @@
         "video_id": "pMiDV5XOrSo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qpVdLGfMV7g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雑談 】お昼だよ～！全員集合せよ！✨【 領国つかさ / すぺしゃりて 】",
-        "video_id": "qpVdLGfMV7g"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qpVdLGfMV7g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雑談 】お昼だよ～！全員集合せよ！✨【 領国つかさ / すぺしゃりて 】",
-        "video_id": "qpVdLGfMV7g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xCYCeF8oU4Y/maxresdefault_live.jpg",
-        "timestamp": 1780556400,
+        "timestamp": null,
         "title": "【Windrose】AHOY! AREA15 vs Babi Hutan【 iofi / hololiveID 】",
         "video_id": "xCYCeF8oU4Y"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3NekOeo29sc/maxresdefault_live.jpg",
-        "timestamp": 1780556400,
+        "timestamp": null,
         "title": "#AREA15 W I N D R O S E",
         "video_id": "3NekOeo29sc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DybFKaKOcpM/maxresdefault_live.jpg",
+        "timestamp": 1780576200,
+        "title": "【#重返未来1999 】3.5版本劇情！(上)【#ゲーム個人勢 / Fingla】",
+        "video_id": "DybFKaKOcpM"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DybFKaKOcpM/maxresdefault_live.jpg",
+        "timestamp": 1780576200,
+        "title": "【#重返未来1999 】3.5版本劇情！(上)【#ゲーム個人勢 / Fingla】",
+        "video_id": "DybFKaKOcpM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c_gj6dMlWuA/maxresdefault_live.jpg",
+        "timestamp": 1780570740,
+        "title": "【#ホロ金策サバイバル2】ころね支店 ～3回目～ 【Minecraft】",
+        "video_id": "c_gj6dMlWuA"
     }
 ]
