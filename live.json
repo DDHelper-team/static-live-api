@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCGNI4MENvnsymYjKiZwv9eg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_JN_ksTAiyo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Librarian】思い出のアルバムは大事にしまっておこう。【岸堂天真/ホロスターズ】",
-        "video_id": "_JN_ksTAiyo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ftx31tROiXY/maxresdefault_live.jpg",
+        "timestamp": 1780714800,
+        "title": "【マイクラ】最後のソロ配信は、マイクラエンドラ討伐耐久だ！【岸堂天真/ホロスターズ】",
+        "video_id": "ftx31tROiXY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/N1hohAzIMg8/maxresdefault_live.jpg",
-        "timestamp": 1780707600,
+        "timestamp": null,
         "title": "【Forza Horizon 6】Bibooknife67",
         "video_id": "N1hohAzIMg8"
     },
