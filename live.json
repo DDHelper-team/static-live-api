@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pK8mivQAkJw/maxresdefault_live.jpg",
-        "timestamp": 1780750800,
+        "timestamp": null,
         "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#01 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "pK8mivQAkJw"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bquezhdXu2E/maxresdefault_live.jpg",
-        "timestamp": 1780750800,
+        "timestamp": null,
         "title": "【晩酌】雪夜月で晩酌、しちゃう…？♡【雪花ラミィ /ホロライブ】",
         "video_id": "bquezhdXu2E"
     },
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MLj-56TjSns/maxresdefault_live.jpg",
-        "timestamp": 1780754400,
+        "timestamp": null,
         "title": "【Deadly Dice: Menherarium】LEMME FIX THIS GIRL WITH MY LUCK. GSH!",
         "video_id": "MLj-56TjSns"
     },
@@ -142,5 +142,41 @@
         "timestamp": 1780830000,
         "title": "【R.E.P.O.】アプデが神過ぎたので遊びた過ぎてこれ【アルランディス/ホロスターズ】",
         "video_id": "Ht2oKpirTwc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HF-VMcVVKxI/maxresdefault_live.jpg",
+        "timestamp": 1780758000,
+        "title": "【KU100/ASMR】あちあち…♡",
+        "video_id": "HF-VMcVVKxI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MPUfVbO1FAE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【FORZA HORIZON 6】Winter\u0026#39;s Here!!! And let\u0026#39;s sniff out more hidden cars【Pavolia Reine/hololiveID】",
+        "video_id": "MPUfVbO1FAE"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HF-VMcVVKxI/maxresdefault_live.jpg",
+        "timestamp": 1780758000,
+        "title": "【KU100/ASMR】あちあち…♡",
+        "video_id": "HF-VMcVVKxI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DcvIc0WMpms/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【歌枠 / 誕生日がおわります】 さようなら、誕生日 / アステル",
+        "video_id": "DcvIc0WMpms"
     }
 ]
