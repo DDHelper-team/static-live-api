@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/umEdzuFeUNo/maxresdefault_live.jpg",
-        "timestamp": 1780743600,
+        "timestamp": null,
         "title": "#4【SFC】完全初見！ドラゴンクエストVI 幻の大地 ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "umEdzuFeUNo"
     },
@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gEKGTYJRVUM/maxresdefault_live.jpg",
-        "timestamp": 1780741800,
+        "timestamp": null,
         "title": "【元祖ホロヨイ】mixing drinks and changing my friends\u0026#39; lives #calliolive",
         "video_id": "gEKGTYJRVUM"
     },
@@ -81,49 +81,22 @@
         "video_id": "bquezhdXu2E"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdXAk5MpyLD8594lm_OvtGQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ywgr33dovHI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】かかぽと最後のコラボ！一緒にカラオケするぞー！！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "Ywgr33dovHI"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ywgr33dovHI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】かかぽと最後のコラボ！一緒にカラオケするぞー！！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "Ywgr33dovHI"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/r2mKq_KT52k/maxresdefault_live.jpg",
-        "timestamp": 1780741800,
+        "timestamp": null,
         "title": "雜談｜我是什麼大魔王嗎？【Healing希靈/VTuber】",
         "video_id": "r2mKq_KT52k"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/r2mKq_KT52k/maxresdefault_live.jpg",
-        "timestamp": 1780741800,
+        "timestamp": null,
         "title": "雜談｜我是什麼大魔王嗎？【Healing希靈/VTuber】",
         "video_id": "r2mKq_KT52k"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fz5fhZ_Aj0M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "We Chill - Thrifty Business",
-        "video_id": "fz5fhZ_Aj0M"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -146,19 +119,28 @@
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/u4Ek89T0o-M/maxresdefault_live.jpg",
-        "timestamp": 1780743600,
+        "timestamp": null,
         "title": "【明日は誕生日】ソワソワ....！！【轟はじめ/ReGLOSS】",
         "video_id": "u4Ek89T0o-M"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/u4Ek89T0o-M/maxresdefault_live.jpg",
-        "timestamp": 1780743600,
+        "timestamp": null,
         "title": "【明日は誕生日】ソワソワ....！！【轟はじめ/ReGLOSS】",
         "video_id": "u4Ek89T0o-M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2gWYJOtHW9I/maxresdefault_live.jpg",
+        "timestamp": 1780749000,
+        "title": "【GARTIC PHONE】stream ends when tooth falls out #kfp #キアライブ",
+        "video_id": "2gWYJOtHW9I"
     }
 ]
