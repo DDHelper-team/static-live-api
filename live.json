@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pK8mivQAkJw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#01 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "pK8mivQAkJw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/848JLxwfdZk/maxresdefault_live.jpg",
+        "timestamp": 1780830000,
+        "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#02 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "848JLxwfdZk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -99,15 +99,6 @@
         "video_id": "Ht2oKpirTwc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HF-VMcVVKxI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【KU100/ASMR】あちあち♡な夜に…気持ちいいこしゅこしゅ、してあげる.。o○寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping,Shampoo",
-        "video_id": "HF-VMcVVKxI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -115,15 +106,6 @@
         "timestamp": null,
         "title": "【FORZA HORIZON 6】Winter\u0026#39;s Here!!! And let\u0026#39;s sniff out more hidden cars【Pavolia Reine/hololiveID】",
         "video_id": "MPUfVbO1FAE"
-    },
-    {
-        "channel": "https://www.youtube.com/@necomakarin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HF-VMcVVKxI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【KU100/ASMR】あちあち♡な夜に…気持ちいいこしゅこしゅ、してあげる.。o○寝落ち推奨TalkingASMR♡【囁き雑談】Whispering,RelaxSleeping,Shampoo",
-        "video_id": "HF-VMcVVKxI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -142,5 +124,14 @@
         "timestamp": 1780826400,
         "title": "【#ホロスタ無敵マリカ】ホロスタ最速の男 ラストラン 岸堂天真視点【マリオカート8dx】",
         "video_id": "2OJjvdWfSYE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CTW6MQizl7E/maxresdefault_live.jpg",
+        "timestamp": 1780772400,
+        "title": "【#FutureGamesShow】OFFICIAL CO-STREAM! MORE GAMES! 同時視聴【hololive ID 2nd Generation | Anya Melfissa】",
+        "video_id": "CTW6MQizl7E"
     }
 ]
