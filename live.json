@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/e1OPR1uUPVw/maxresdefault_live.jpg",
-        "timestamp": 1780794000,
+        "timestamp": null,
         "title": "【LIBRARIAN】 PUTTING BOOKS IN SHELVES: THE GAME  【Kureiji Ollie】",
         "video_id": "e1OPR1uUPVw"
     },
@@ -88,5 +88,23 @@
         "timestamp": 1780848000,
         "title": "【ARKNIGHTS: ENDFIELD】NEW WIFE ROLLING pls have mercy on me gacha gods #kfp",
         "video_id": "zyjY2ECJ9s4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_oD9pYwd2Os/maxresdefault_live.jpg",
+        "timestamp": 1780837200,
+        "title": "【UNARCHIVED JAZZ KARAOKE】Singing Jazz Classics back in my bar! #calliolive",
+        "video_id": "_oD9pYwd2Os"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OrnjnaQWtwU/maxresdefault_live.jpg",
+        "timestamp": 1780826400,
+        "title": "【#ホロスタ無敵マリカ】本当に無敵【 #奏手イヅル 視点 】",
+        "video_id": "OrnjnaQWtwU"
     }
 ]
