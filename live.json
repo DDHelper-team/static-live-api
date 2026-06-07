@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2brONoZewtQ/maxresdefault_live.jpg",
-        "timestamp": 1780871400,
+        "timestamp": null,
         "title": "【#朝ミオ 】お久しぶりです！おはみぉーん！",
         "video_id": "2brONoZewtQ"
     },
@@ -47,19 +47,28 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DRhKZ65kiF4/maxresdefault_live.jpg",
-        "timestamp": 1780869631,
+        "timestamp": null,
         "title": "【雑談】おはよ！ということ！【緋月ゆい/ネオポルテ】",
         "video_id": "DRhKZ65kiF4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DRhKZ65kiF4/maxresdefault_live.jpg",
-        "timestamp": 1780869631,
+        "timestamp": null,
         "title": "【雑談】おはよ！ということ！【緋月ゆい/ネオポルテ】",
         "video_id": "DRhKZ65kiF4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kfDqqYKmYEc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "おは言え雑談 【 #奏手イヅル 】",
+        "video_id": "kfDqqYKmYEc"
     }
 ]
