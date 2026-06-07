@@ -18,15 +18,6 @@
         "video_id": "zyjY2ECJ9s4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hYxNkLnHrAg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "xbox showcase watchalong with biboo #calliolive",
-        "video_id": "hYxNkLnHrAg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -34,24 +25,6 @@
         "timestamp": 1780871400,
         "title": "【#朝ミオ 】お久しぶりです！おはみぉーん！",
         "video_id": "2brONoZewtQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ab4tGgLNxKY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【単発ホラゲ】？？がつくった映画館【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "ab4tGgLNxKY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ab4tGgLNxKY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【単発ホラゲ】？？がつくった映画館【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "ab4tGgLNxKY"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -115,5 +88,23 @@
         "timestamp": 1780858800,
         "title": "【#PCGamingShow】OFFICIAL CO-STREAM! THE GAMES JUST KEEP ON COMING! 同時視聴【hololive | Anya Melfissa】",
         "video_id": "xPjdbbzU1Zo"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DRhKZ65kiF4/maxresdefault_live.jpg",
+        "timestamp": 1780869631,
+        "title": "【雑談】おはよ！ということ！【緋月ゆい/ネオポルテ】",
+        "video_id": "DRhKZ65kiF4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DRhKZ65kiF4/maxresdefault_live.jpg",
+        "timestamp": 1780869631,
+        "title": "【雑談】おはよ！ということ！【緋月ゆい/ネオポルテ】",
+        "video_id": "DRhKZ65kiF4"
     }
 ]
