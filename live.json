@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hYxNkLnHrAg/maxresdefault_live.jpg",
-        "timestamp": 1780851600,
+        "timestamp": null,
         "title": "xbox showcase watchalong with biboo #calliolive",
         "video_id": "hYxNkLnHrAg"
     },
@@ -90,24 +90,6 @@
         "video_id": "e31KCJPnI48"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fxhMxLiRy3Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #すぺしゃりてサーバーARK 】恐竜王になる！王は遅れてやってくる。#1【 領国つかさ / すぺしゃりて 】",
-        "video_id": "fxhMxLiRy3Q"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fxhMxLiRy3Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #すぺしゃりてサーバーARK 】恐竜王になる！王は遅れてやってくる。#1【 領国つかさ / すぺしゃりて 】",
-        "video_id": "fxhMxLiRy3Q"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,5 +106,14 @@
         "timestamp": 1780858800,
         "title": "#PCGamingShow Let\u0026#39;s have a look at PC Gaming Show !",
         "video_id": "KBME3Q3tlvw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xPjdbbzU1Zo/maxresdefault_live.jpg",
+        "timestamp": 1780858800,
+        "title": "【#PCGamingShow】OFFICIAL CO-STREAM! THE GAMES JUST KEEP ON COMING! 同時視聴【hololive | Anya Melfissa】",
+        "video_id": "xPjdbbzU1Zo"
     }
 ]
