@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/e1OPR1uUPVw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LIBRARIAN】 PUTTING BOOKS IN SHELVES: THE GAME  【Kureiji Ollie】",
-        "video_id": "e1OPR1uUPVw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -16,15 +7,6 @@
         "timestamp": 1780830000,
         "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#02 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "848JLxwfdZk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OOTHzek6Qn0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#絢辻さん最終回】アマガミやるしゅばああああああああああああああああああああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "OOTHzek6Qn0"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
@@ -111,19 +93,19 @@
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Rbtxxi1NCWA/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/t-QS_QFQT2E/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【競馬】GⅠ🐴安田記念2026当てよう！【緋月ゆい/ネオポルテ】",
-        "video_id": "Rbtxxi1NCWA"
+        "title": "【Keep Talking and Nobody Explodes】といとい、爆弾解除するぞ💣️【緋月ゆい/ネオポルテ】",
+        "video_id": "t-QS_QFQT2E"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Rbtxxi1NCWA/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/t-QS_QFQT2E/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【競馬】GⅠ🐴安田記念2026当てよう！【緋月ゆい/ネオポルテ】",
-        "video_id": "Rbtxxi1NCWA"
+        "title": "【Keep Talking and Nobody Explodes】といとい、爆弾解除するぞ💣️【緋月ゆい/ネオポルテ】",
+        "video_id": "t-QS_QFQT2E"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -146,10 +128,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F2qbFQmiwc4/maxresdefault_live.jpg",
-        "timestamp": 1780822800,
+        "timestamp": null,
         "title": "【復活！！】戻ってきたぞ...！新しいパソコンのスペッコはいかに？！【新PC】",
         "video_id": "F2qbFQmiwc4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MIMFfjMph1s/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 The Walking Trade #04 】新しいバイトが欲しい、、金を持ってこいー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "MIMFfjMph1s"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MIMFfjMph1s/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 The Walking Trade #04 】新しいバイトが欲しい、、金を持ってこいー！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "MIMFfjMph1s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zM404ZQF9bw/maxresdefault_live.jpg",
+        "timestamp": 1780837200,
+        "title": "【Subnautica 2】Feesh!【 iofi / hololiveID 】",
+        "video_id": "zM404ZQF9bw"
     }
 ]
