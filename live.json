@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/grBgy_W3n1M/maxresdefault_live.jpg",
-        "timestamp": 1780956000,
+        "timestamp": null,
         "title": "【KOREA TRIP RECAP】We were in Korea for a week!【Dokibird】",
         "video_id": "grBgy_W3n1M"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/grBgy_W3n1M/maxresdefault_live.jpg",
-        "timestamp": 1780956000,
+        "timestamp": null,
         "title": "【KOREA TRIP RECAP】We were in Korea for a week!【Dokibird】",
         "video_id": "grBgy_W3n1M"
     },
@@ -88,5 +88,14 @@
         "timestamp": 1781012700,
         "title": "【 🔴同時視聴 】Nintendo Direct 2026.6.9 一緒に見よう😸✦ﾜｸﾜｸ【猫又おかゆ/ホロライブ】",
         "video_id": "AyCsRrxVNHo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9D0onwCNSG8/maxresdefault_live.jpg",
+        "timestamp": 1781011800,
+        "title": "【NINTENDO DIRECT】fire emblem release date WHEN!! #kfp #キアライブ",
+        "video_id": "9D0onwCNSG8"
     }
 ]
