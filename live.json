@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/t6HC0l-3PW0/maxresdefault_live.jpg",
-        "timestamp": 1780977600,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 17日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "t6HC0l-3PW0"
     },
@@ -79,5 +79,68 @@
         "timestamp": 1781011800,
         "title": "【NINTENDO DIRECT】fire emblem release date WHEN!! #kfp #キアライブ",
         "video_id": "9D0onwCNSG8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Oijj2Lg-tls/maxresdefault_live.jpg",
+        "timestamp": 1781060400,
+        "title": "Searching for Half-Man Half-Fish Species 【Subnautica 2】",
+        "video_id": "Oijj2Lg-tls"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c78TH48esMg/maxresdefault_live.jpg",
+        "timestamp": 1781013000,
+        "title": "【Watchalong 同時視聴】Let\u0026#39;s Watch Nintendo Direct 2026.6.9 Together! MORE GAMES【hololive | Anya Melfissa】",
+        "video_id": "c78TH48esMg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dwyegwjTFlg/maxresdefault_live.jpg",
+        "timestamp": 1781060400,
+        "title": "【Subnautica 2】Blub blub with Shiorin【 iofi / hololiveID 】",
+        "video_id": "dwyegwjTFlg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ynFbrf2Z8F8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 Minecraft / Hardcore 】死んだら即終了☠今日から始めるハードコア生活！【ホロライブ/夏色まつり】",
+        "video_id": "ynFbrf2Z8F8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/C_MkKbykvtk/maxresdefault_live.jpg",
+        "timestamp": 1781010000,
+        "title": "【みんなのリズム天国】今ならハイレベルいけるはず【轟はじめ/ReGLOSS】",
+        "video_id": "C_MkKbykvtk"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/C_MkKbykvtk/maxresdefault_live.jpg",
+        "timestamp": 1781010000,
+        "title": "【みんなのリズム天国】今ならハイレベルいけるはず【轟はじめ/ReGLOSS】",
+        "video_id": "C_MkKbykvtk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MeRlzDA_LqY/maxresdefault_live.jpg",
+        "timestamp": 1781013000,
+        "title": "【NINTENDO DIRECT WATCHALONG 6.9】WE MUST WITNESS",
+        "video_id": "MeRlzDA_LqY"
     }
 ]
