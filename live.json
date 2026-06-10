@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCKeAhJvy8zgXWbh9duVjIaQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CejMRrLTe_Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #さらばアルランディス 】#2 最終回【アルランディス/ホロスターズ】",
-        "video_id": "CejMRrLTe_Q"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YAmIZ9uv1O8/maxresdefault_live.jpg",
-        "timestamp": 1781092800,
-        "title": "【 🔴オフコラボ 】マシュマロ雑談だよ～～～～!!🍙🤝🥐【 #おかころ/ホロライブ 】",
-        "video_id": "YAmIZ9uv1O8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -27,29 +9,11 @@
         "video_id": "sAWLnaFLM10"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/reqIo4zD3t4/maxresdefault_live.jpg",
-        "timestamp": 1781089200,
-        "title": "【Singing / Karaoke】たくさん歌っちゃうからきてきて！！！【#TanZ 】",
-        "video_id": "reqIo4zD3t4"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/reqIo4zD3t4/maxresdefault_live.jpg",
-        "timestamp": 1781089200,
-        "title": "【Singing / Karaoke】たくさん歌っちゃうからきてきて！！！【#TanZ 】",
-        "video_id": "reqIo4zD3t4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/E7ULWGMESuY/maxresdefault_live.jpg",
-        "timestamp": 1781096400,
+        "timestamp": null,
         "title": "【HoloEN REWIND】#3 - ENReco edition! ENのあのマイクラ企画はどういう事？ #HoloENREWIND",
         "video_id": "E7ULWGMESuY"
     },
@@ -65,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iMbDFs6prD4/maxresdefault_live.jpg",
-        "timestamp": 1781089200,
+        "timestamp": null,
         "title": "【けものティータイム】ケモミミ+ KAWAII +ASMR=超絶癒やしの喫茶店経営【白上フブキ/ホロライブ】",
         "video_id": "iMbDFs6prD4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/__HTr2FYcQo/maxresdefault_live.jpg",
-        "timestamp": 1781092800,
+        "timestamp": null,
         "title": "【 MOTHER2 】超名作MOTHER2を完全初見プレイ！【#最終回 】",
         "video_id": "__HTr2FYcQo"
     },
@@ -97,5 +61,23 @@
         "timestamp": null,
         "title": "#1 CRIMSON DESERT - LET\u0026#39;S PLAY",
         "video_id": "gmDZdDCJzEI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NJaAiAJIAgg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【切り抜き鑑賞会】みんなで #ホロ金策サバイバル2 の切り抜き観よう！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "NJaAiAJIAgg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n2dAdcbl6ts/maxresdefault_live.jpg",
+        "timestamp": 1781100000,
+        "title": "【SPOILER ALERT】 I got a team full of ladies!!!【Digimon Story Time Stranger】",
+        "video_id": "n2dAdcbl6ts"
     }
 ]
