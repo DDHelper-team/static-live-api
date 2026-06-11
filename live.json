@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/FMnoo3CXASI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARKNIGHTS: ENDFIELD】MIFU SIDE STORY \u0026amp; MORE ✨ #kfp",
-        "video_id": "FMnoo3CXASI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "LIVE",
@@ -97,5 +88,14 @@
         "timestamp": 1781262000,
         "title": "【ヨッシーとフカシギの図鑑】クリアするぞ～～～～✊【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "Oe90XwAy6SM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/swsSTJY9TJg/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【朝活】金曜日のおはよう雑談☀【ホロライブ/夏色まつり】",
+        "video_id": "swsSTJY9TJg"
     }
 ]
