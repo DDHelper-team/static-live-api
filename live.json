@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HbGMXYFFIqU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Fixing Your Last Regret 【Schrödinger\u0026#39;s Call】 ❗SPOILERS❗",
-        "video_id": "HbGMXYFFIqU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -47,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yhD2s_NCG54/maxresdefault_live.jpg",
-        "timestamp": 1781218800,
+        "timestamp": null,
         "title": "【Forza Horizon 6】I\u0026#39;LL GO A HUNDRED MILESSSSS- AN HOUR.",
         "video_id": "yhD2s_NCG54"
     },
@@ -88,14 +79,5 @@
         "timestamp": 1781262000,
         "title": "【ヨッシーとフカシギの図鑑】クリアするぞ～～～～✊【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "Oe90XwAy6SM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/swsSTJY9TJg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活】金曜日のおはよう雑談☀【ホロライブ/夏色まつり】",
-        "video_id": "swsSTJY9TJg"
     }
 ]
