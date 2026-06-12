@@ -101,19 +101,28 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-iv_GXjO4hc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【007 FIRST LIGHT】Shaken and Stirred【Dokibird】",
-        "video_id": "-iv_GXjO4hc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/X5N-2E-aFvg/maxresdefault_live.jpg",
+        "timestamp": 1781330400,
+        "title": "【BURGLIN\u0026#39; GNOMES】And you\u0026#39;ve been gnomed!【Dokibird】",
+        "video_id": "X5N-2E-aFvg"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-iv_GXjO4hc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【007 FIRST LIGHT】Shaken and Stirred【Dokibird】",
-        "video_id": "-iv_GXjO4hc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/X5N-2E-aFvg/maxresdefault_live.jpg",
+        "timestamp": 1781330400,
+        "title": "【BURGLIN\u0026#39; GNOMES】And you\u0026#39;ve been gnomed!【Dokibird】",
+        "video_id": "X5N-2E-aFvg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s5uxj0q6R1o/maxresdefault_live.jpg",
+        "timestamp": 1781362800,
+        "title": "【THE WITCHER 3】ENDING MARATHON PART 1 #kfp #キアライブ",
+        "video_id": "s5uxj0q6R1o"
     }
 ]
