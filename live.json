@@ -56,19 +56,19 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/y-QQezJBIq8/maxresdefault_live.jpg",
-        "timestamp": 1781395200,
-        "title": "【ARMORED CORE VI】How much firepower is too much?【Dokibird】",
+        "timestamp": null,
+        "title": "【ARMORED CORE VI】3 big booms【Dokibird】",
         "video_id": "y-QQezJBIq8"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/y-QQezJBIq8/maxresdefault_live.jpg",
-        "timestamp": 1781395200,
-        "title": "【ARMORED CORE VI】How much firepower is too much?【Dokibird】",
+        "timestamp": null,
+        "title": "【ARMORED CORE VI】3 big booms【Dokibird】",
         "video_id": "y-QQezJBIq8"
     },
     {
@@ -88,5 +88,23 @@
         "timestamp": 1781478000,
         "title": "【UNARCHIVED ROCK \u0026amp; METAL KARAOKE】rip throat #calliolive",
         "video_id": "jrjTiWbtny0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/55ksVLHbY-I/maxresdefault_live.jpg",
+        "timestamp": 1781416259,
+        "title": "【競馬】GⅠ🐴宝塚記念2026当てよう！【緋月ゆい/ネオポルテ】",
+        "video_id": "55ksVLHbY-I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/55ksVLHbY-I/maxresdefault_live.jpg",
+        "timestamp": 1781416259,
+        "title": "【競馬】GⅠ🐴宝塚記念2026当てよう！【緋月ゆい/ネオポルテ】",
+        "video_id": "55ksVLHbY-I"
     }
 ]
