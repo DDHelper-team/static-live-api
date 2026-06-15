@@ -63,15 +63,6 @@
         "video_id": "-946ggdY8S0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MwfeI28tXIA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SUBNAUTICA 2】getting to know the game for tomorrow!! #kfp #キアライブ",
-        "video_id": "MwfeI28tXIA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -88,5 +79,14 @@
         "timestamp": 1781604000,
         "title": "【 🔴Mina the Hollower 】ソウルライク × 2Dゼルダ!? 神ドットゲー✦#01【 猫又おかゆ/ホロライブ 】",
         "video_id": "mDwTkQBtFQE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uXoclVMNK-U/maxresdefault_live.jpg",
+        "timestamp": 1781611200,
+        "title": "【SUBNAUTICA 2】KOSEKI BIJOU JOINS THE DIVE #kfp #キアライブ",
+        "video_id": "uXoclVMNK-U"
     }
 ]
