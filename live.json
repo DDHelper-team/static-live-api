@@ -27,15 +27,6 @@
         "video_id": "va0qi3JO6Ug"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NrCVDJPJVW4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Subnautica 2】the water is blue 【Timesmith】",
-        "video_id": "NrCVDJPJVW4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -65,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mDwTkQBtFQE/maxresdefault_live.jpg",
-        "timestamp": 1781604000,
+        "timestamp": null,
         "title": "【 🔴Mina the Hollower 】ソウルライク × 2Dゼルダ!? 神ドットゲー✦#01【 猫又おかゆ/ホロライブ 】",
         "video_id": "mDwTkQBtFQE"
     },
@@ -92,10 +83,73 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wBZYXiE6gxY/maxresdefault_live.jpg",
-        "timestamp": 1781600400,
+        "timestamp": null,
         "title": "【Meccha Chameleon】Saatnya Menjadi Bunglon【 iofi / hololiveID 】",
         "video_id": "wBZYXiE6gxY"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rTZOMqToRzU/maxresdefault_live.jpg",
+        "timestamp": 1781611200,
+        "title": "巫師三 DLC-血與酒｜哇！我老傑也是有產階級啦！出運啦【Healing希靈/VTuber】",
+        "video_id": "rTZOMqToRzU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rTZOMqToRzU/maxresdefault_live.jpg",
+        "timestamp": 1781611200,
+        "title": "巫師三 DLC-血與酒｜哇！我老傑也是有產階級啦！出運啦【Healing希靈/VTuber】",
+        "video_id": "rTZOMqToRzU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OofA8-_PYEw/maxresdefault_live.jpg",
+        "timestamp": 1781614800,
+        "title": "【Dorfromantik】深夜のチルゲー🌌まったり話しながらやろ～【ホロライブ/大神ミオ】",
+        "video_id": "OofA8-_PYEw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LoaSks0y2L8/maxresdefault_live.jpg",
+        "timestamp": 1781607600,
+        "title": "【#戌神ころね7周年】3Dライブ振り返り＆グッズ宣伝＆ありがとう～～～～～～！の配信",
+        "video_id": "LoaSks0y2L8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VhbppQecKWI/maxresdefault_live.jpg",
+        "timestamp": 1781614800,
+        "title": "【メンバー限定】まったりメン限でお話しようよ！の会【雪花ラミィ /ホロライブ】",
+        "video_id": "VhbppQecKWI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2NYJ1BMYD3Q/maxresdefault_live.jpg",
+        "timestamp": 1781611200,
+        "title": "【SUBNAUTICA 2】A rocku and a wawa",
+        "video_id": "2NYJ1BMYD3Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sQggvvel3TQ/maxresdefault_live.jpg",
+        "timestamp": 1781611200,
+        "title": "【Coffee Talk Tokyo】東京支店OPEN【荒咬オウガ /ホロスターズ】",
+        "video_id": "sQggvvel3TQ"
     }
 ]
