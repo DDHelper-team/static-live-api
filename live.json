@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LHD2NIZFAeU/maxresdefault_live.jpg",
-        "timestamp": 1781658000,
+        "timestamp": null,
         "title": "【HOLOVILLAGE】checking in on our cozy village together 🌱🐾 【FUWAMOCO｜ぷちホロの村】",
         "video_id": "LHD2NIZFAeU"
     },
@@ -81,21 +81,12 @@
         "video_id": "9gZp8jsxPNc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/d_QFDlbSdgE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6】Shine coaching me【Dokibird】",
-        "video_id": "d_QFDlbSdgE"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/d_QFDlbSdgE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【STREET FIGHTER 6】Shine coaching me【Dokibird】",
-        "video_id": "d_QFDlbSdgE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MSHo8dTDg4s/maxresdefault_live.jpg",
+        "timestamp": 1781740800,
+        "title": "【Mina the Hollower】oh shxt, a rat #calliolive",
+        "video_id": "MSHo8dTDg4s"
     }
 ]
