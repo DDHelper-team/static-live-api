@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LHD2NIZFAeU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HOLOVILLAGE】checking in on our cozy village together 🌱🐾 【FUWAMOCO｜ぷちホロの村】",
-        "video_id": "LHD2NIZFAeU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KMjX8qLiyf8/maxresdefault_live.jpg",
+        "timestamp": 1781744400,
+        "title": "【FUWAMOCO PUPDATE】it\u0026#39;s been a while since silly yappy chatting with you 🐾 【FUWAMOCO】",
+        "video_id": "KMjX8qLiyf8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SJK0OWBkdto/maxresdefault_live.jpg",
-        "timestamp": 1781668800,
+        "timestamp": null,
         "title": "【パワプロ2026】絶対に大きい声は出さずにパワフェス達人をまずはクリアする【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "SJK0OWBkdto"
     },
@@ -88,5 +88,50 @@
         "timestamp": 1781740800,
         "title": "【Mina the Hollower】oh shxt, a rat #calliolive",
         "video_id": "MSHo8dTDg4s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GcC2-OoPdds/maxresdefault_live.jpg",
+        "timestamp": 1781694000,
+        "title": "【重大告知】歌→告知でまさかの〇〇企画を告知…！？！！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "GcC2-OoPdds"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GcC2-OoPdds/maxresdefault_live.jpg",
+        "timestamp": 1781694000,
+        "title": "【重大告知】歌→告知でまさかの〇〇企画を告知…！？！！【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "GcC2-OoPdds"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CLiPFNDORGY/maxresdefault_live.jpg",
+        "timestamp": 1781697600,
+        "title": "#AyundaWeekDay3 Let\u0026#39;s try golf it with Risuners !",
+        "video_id": "CLiPFNDORGY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u3GROap_mCU/maxresdefault_live.jpg",
+        "timestamp": 1781697600,
+        "title": "【めっちゃカメレオン】ころね支店【#ホロカメレオン】",
+        "video_id": "u3GROap_mCU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/b99OMm1WlNI/maxresdefault_live.jpg",
+        "timestamp": 1781690400,
+        "title": "【歌枠】あした誕生日なんでライブみにきてくださいの歌枠🎤【風真いろは/ホロライブ】",
+        "video_id": "b99OMm1WlNI"
     }
 ]
