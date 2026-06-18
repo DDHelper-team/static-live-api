@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/a01vyRPGx0w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HOLLOW KNIGHT】PANTHEON FIVE(5) THAT IS ALL.",
-        "video_id": "a01vyRPGx0w"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -16,15 +7,6 @@
         "timestamp": 1781784000,
         "title": "【初見】『コードギアス 反逆のルルーシュ』同時視聴【ホロライブ/兎田ぺこら】",
         "video_id": "7gX5N8uPvkk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6Eo49jhRCY4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【崩壊：スターレイル】Ver4.3　開拓クエスト『生者、彼岸へ渡りて』をやる男【夕刻ロベル/ホロスターズ】",
-        "video_id": "6Eo49jhRCY4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
@@ -92,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1AhZ1qs2VLA/maxresdefault_live.jpg",
-        "timestamp": 1781776800,
+        "timestamp": null,
         "title": "【ビックリマンチョコ開封】マンダロリアン\u0026amp;グローグー全24種、フルコンプするまで終われまテン！！！！！",
         "video_id": "1AhZ1qs2VLA"
     },
@@ -119,18 +101,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EqzHELZPEIM/maxresdefault_live.jpg",
-        "timestamp": 1781776800,
+        "timestamp": null,
         "title": "【 アソビ大全 】ついにやってきた！！#しゅぴなで コラボ！ｼｭﾋﾟ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "EqzHELZPEIM"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EqzHELZPEIM/maxresdefault_live.jpg",
-        "timestamp": 1781776800,
+        "timestamp": null,
         "title": "【 アソビ大全 】ついにやってきた！！#しゅぴなで コラボ！ｼｭﾋﾟ【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "EqzHELZPEIM"
     },
@@ -160,5 +142,32 @@
         "timestamp": 1781785800,
         "title": "【#ff14  】今天不跑劇情～來解亞歷山大任務【#ゲーム個人勢 / Fingla】",
         "video_id": "csQGSa43-NM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7UujAloUmd4/maxresdefault_live.jpg",
+        "timestamp": 1781784000,
+        "title": "【めっちゃカメレオン】　#ホロカメレオン でぜっっったいにハンターが勝つ！！！！　【ホロライブ/白上フブキ】",
+        "video_id": "7UujAloUmd4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/075Zau9s-mo/maxresdefault_live.jpg",
+        "timestamp": 1781784000,
+        "title": "【めっちゃカメレオン】創意工夫とユーモアと大胆な心と【大神ミオ視点】",
+        "video_id": "075Zau9s-mo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L4vEw1H8C1M/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【LoL】LTK DDnext  無限練習後半  / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
+        "video_id": "L4vEw1H8C1M"
     }
 ]
