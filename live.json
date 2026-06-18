@@ -18,15 +18,6 @@
         "video_id": "uXaybE137hY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/L4vEw1H8C1M/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LoL】LTK DDnext  無限練習後半  / アステル SHAKA こく兄 天ノ川ねる 白那しずく  Eugeoコーチ わしだいコーチ",
-        "video_id": "L4vEw1H8C1M"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -63,15 +54,6 @@
         "video_id": "1pSSHrf5lrU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BA2mUh8RhMk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#5【GNOSIA】 FISHING FOR TROUBLE【Pavolia Reine/hololiveID】",
-        "video_id": "BA2mUh8RhMk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,18 +74,18 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mIZsVKD5jqQ/maxresdefault_live.jpg",
-        "timestamp": 1781809200,
+        "timestamp": null,
         "title": "【OVERWATCH TOURNAMENT】Bogur Bash $35k Tourney【Dokibird】",
         "video_id": "mIZsVKD5jqQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mIZsVKD5jqQ/maxresdefault_live.jpg",
-        "timestamp": 1781809200,
+        "timestamp": null,
         "title": "【OVERWATCH TOURNAMENT】Bogur Bash $35k Tourney【Dokibird】",
         "video_id": "mIZsVKD5jqQ"
     },
@@ -160,5 +142,32 @@
         "timestamp": 1781870400,
         "title": "【シュタゲ×謎解き】　繰り返す死の運命からの脱出で #こんこめっと を救えるか！？※ネタバレあり　【ホロライブ/白上フブキ】",
         "video_id": "2qwcnPaszhA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FwfSOdhTw1k/maxresdefault_live.jpg",
+        "timestamp": 1781884800,
+        "title": "【Freetalk】深夜のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "FwfSOdhTw1k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qt0ZwraLm2A/maxresdefault_live.jpg",
+        "timestamp": 1781883000,
+        "title": "【KU100/ASMR】はぁ～…♡あちあち吐息とにゅる耳はむ＆カリカリ擦り責め汗だく快眠サポート♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "qt0ZwraLm2A"
+    },
+    {
+        "channel": "https://www.youtube.com/@necomakarin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qt0ZwraLm2A/maxresdefault_live.jpg",
+        "timestamp": 1781883000,
+        "title": "【KU100/ASMR】はぁ～…♡あちあち吐息とにゅる耳はむ＆カリカリ擦り責め汗だく快眠サポート♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "qt0ZwraLm2A"
     }
 ]
