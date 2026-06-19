@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pTOreZYJKFU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 🔴Mina the Hollower 】ソウルライク × 2Dゼルダ!? 神ドットゲー✦#02【 猫又おかゆ/ホロライブ 】",
-        "video_id": "pTOreZYJKFU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DYmmXTHfMrE/maxresdefault_live.jpg",
+        "timestamp": 1781956800,
+        "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#05 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "DYmmXTHfMrE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -54,24 +54,6 @@
         "video_id": "UOVEj3j6Fko"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lBX6I6ISuEw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ff14  】端午節快樂~~亞歷山大律動繼續!【#ゲーム個人勢 / Fingla】",
-        "video_id": "lBX6I6ISuEw"
-    },
-    {
-        "channel": "https://www.youtube.com/@FinglaGrowl",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lBX6I6ISuEw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ff14  】端午節快樂~~亞歷山大律動繼續!【#ゲーム個人勢 / Fingla】",
-        "video_id": "lBX6I6ISuEw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -88,5 +70,23 @@
         "timestamp": 1781953200,
         "title": "【Forza Horizon 6】#ホロ爆走祭 ホロメンと爆走！！1位取るぞ！！！【雪花ラミィ視点 /ホロライブ】",
         "video_id": "11k7p1TnoRc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1iA6_NT4mtAcIII6ygrvCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ssXhrFn_JcY/maxresdefault_live.jpg",
+        "timestamp": 1781953200,
+        "title": "【Forza Horizon 6】狙うは1位！！！！#ホロ爆走祭【轟はじめ/ReGLOSS】",
+        "video_id": "ssXhrFn_JcY"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ssXhrFn_JcY/maxresdefault_live.jpg",
+        "timestamp": 1781953200,
+        "title": "【Forza Horizon 6】狙うは1位！！！！#ホロ爆走祭【轟はじめ/ReGLOSS】",
+        "video_id": "ssXhrFn_JcY"
     }
 ]
