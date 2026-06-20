@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DYmmXTHfMrE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#05 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "DYmmXTHfMrE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ewdxo9mWgks/maxresdefault_live.jpg",
+        "timestamp": 1782039600,
+        "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#06 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "Ewdxo9mWgks"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -63,15 +63,6 @@
         "video_id": "dRcvM2KGGRw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZpVvw6W8Z14/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Slay the Spire 2】Myth StS2!!!!! PLS CARRY ME PLS PLS PLS",
-        "video_id": "ZpVvw6W8Z14"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -106,5 +97,14 @@
         "timestamp": 1782025200,
         "title": "【三角州行動 EP03】今天來做任務 | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
         "video_id": "GB95FdjtBEE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1Z9LdWK4e3A/maxresdefault_live.jpg",
+        "timestamp": 1782003600,
+        "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】DEMO PLAY #ad",
+        "video_id": "1Z9LdWK4e3A"
     }
 ]
