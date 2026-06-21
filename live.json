@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2hjeBiRzqlc/maxresdefault_live.jpg",
-        "timestamp": 1782050400,
+        "timestamp": null,
         "title": "【MECCHA CHAMELEON】 HIDDEN IN PLAIN SIGHT - HAPPY BIRTHDAY RACHIE!!🎉🎉  【Kureiji Ollie】",
         "video_id": "2hjeBiRzqlc"
     },
@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/foL47AjE7yM/maxresdefault_live.jpg",
-        "timestamp": 1782050400,
-        "title": "【POKÉMON FIRE RED】Linking Souls with Raora!【SOUL-LINK NUZLOCK】",
+        "timestamp": null,
+        "title": "【POKÉMON FIRE RED】Linking Souls with Raora!【SOUL-LINK NUZLOCKE】",
         "video_id": "foL47AjE7yM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/emiAWXejfVw/maxresdefault_live.jpg",
-        "timestamp": 1782046800,
+        "timestamp": null,
         "title": "#AyundaWeekDay7 : UNARCHIVED KARAOKE",
         "video_id": "emiAWXejfVw"
     },
@@ -70,15 +70,6 @@
         "timestamp": null,
         "title": "【Splatoon3】　復活のバイト戦士　ビッグビッグラン　#ホロスプラ部　【ホロライブ/白上フブキ】",
         "video_id": "C58svASFnvI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nA4-hebw0gw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】日曜日をのんびり過ごす【雪花ラミィ /ホロライブ】",
-        "video_id": "nA4-hebw0gw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
@@ -110,29 +101,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/s9KNKPZcfYw/maxresdefault_live.jpg",
-        "timestamp": 1782043200,
+        "timestamp": null,
         "title": "塔羅占卜#142｜夏至了！我也要來看看自己的能量🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "s9KNKPZcfYw"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/s9KNKPZcfYw/maxresdefault_live.jpg",
-        "timestamp": 1782043200,
+        "timestamp": null,
         "title": "塔羅占卜#142｜夏至了！我也要來看看自己的能量🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "s9KNKPZcfYw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LN6X8c5C1pY/maxresdefault_live.jpg",
-        "timestamp": 1782046800,
-        "title": "【member\u0026#39;s only】june live concert! #calliolive",
-        "video_id": "LN6X8c5C1pY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -142,5 +124,14 @@
         "timestamp": 1782081000,
         "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
         "video_id": "fBgpvMb81bk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gSQsVvnG8jU/maxresdefault_live.jpg",
+        "timestamp": 1782050400,
+        "title": "【Terraria】ゼニスという最強の剣を作りたい【 #奏手イヅル 】",
+        "video_id": "gSQsVvnG8jU"
     }
 ]
