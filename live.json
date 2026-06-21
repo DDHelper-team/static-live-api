@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ewdxo9mWgks/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#06 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "Ewdxo9mWgks"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/aQK5X1COaTM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#8【SFC】完全初見！ドラゴンクエストVI 幻の大地 ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
-        "video_id": "aQK5X1COaTM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/16rd5_tVYQI/maxresdefault_live.jpg",
+        "timestamp": 1782136800,
+        "title": "【 🔴Mina the Hollower 】ソウルライク × 2Dゼルダ!? 神ドットゲー✦#03【 猫又おかゆ/ホロライブ 】",
+        "video_id": "16rd5_tVYQI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -54,24 +45,6 @@
         "video_id": "foL47AjE7yM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/emiAWXejfVw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#AyundaWeekDay7 : UNARCHIVED KARAOKE",
-        "video_id": "emiAWXejfVw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/C58svASFnvI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Splatoon3】　復活のバイト戦士　ビッグビッグラン　#ホロスプラ部　【ホロライブ/白上フブキ】",
-        "video_id": "C58svASFnvI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCtyWhCj3AqKh2dXctLkDtng",
         "platform": "youtube",
         "status": "LIVE",
@@ -99,24 +72,6 @@
         "video_id": "de10mz9x8sI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s9KNKPZcfYw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "塔羅占卜#142｜夏至了！我也要來看看自己的能量🔮✨🦊【Healing希靈/VTuber】",
-        "video_id": "s9KNKPZcfYw"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s9KNKPZcfYw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "塔羅占卜#142｜夏至了！我也要來看看自己的能量🔮✨🦊【Healing希靈/VTuber】",
-        "video_id": "s9KNKPZcfYw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -128,10 +83,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gSQsVvnG8jU/maxresdefault_live.jpg",
-        "timestamp": 1782050400,
-        "title": "【Terraria】ゼニスという最強の剣を作りたい【 #奏手イヅル 】",
+        "timestamp": null,
+        "title": "【Terraria】ゼニスという最強の剣を作りたい その 1【 #奏手イヅル 】",
         "video_id": "gSQsVvnG8jU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Yjc5R0dBoGw/maxresdefault_live.jpg",
+        "timestamp": 1782122400,
+        "title": "【Pokémon Champions ホロライブ杯】GANBARUZO!!! #calliolive",
+        "video_id": "Yjc5R0dBoGw"
     }
 ]
