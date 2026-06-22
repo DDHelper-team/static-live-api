@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/de10mz9x8sI/maxresdefault_live.jpg",
-        "timestamp": 1782100800,
+        "timestamp": null,
         "title": "【パワプロ2026】パワフェス達人モードをクリアさせてくださいお願いします【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "de10mz9x8sI"
     },
@@ -61,5 +61,41 @@
         "timestamp": 1782145800,
         "title": "【WATCHALONG】Argentina vs Austria 【Kiara\u0026#39;s Football Fever Frenzy】",
         "video_id": "D2-UWYI_XiI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RmmVUsP_6lA/maxresdefault_live.jpg",
+        "timestamp": 1782129600,
+        "title": "#iofiSeninPro_KRS Drawing and Chit Chat together with @黒瀬-浩介",
+        "video_id": "RmmVUsP_6lA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v3clinxyCeo/maxresdefault_live.jpg",
+        "timestamp": 1782136800,
+        "title": "【雑談】なんかラジオみたいなトーク　第21回【荒咬オウガ  アール/Aru】",
+        "video_id": "v3clinxyCeo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCWQtYtq9EOB4-I5P-3fh8lA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/j5f-q09gb90/maxresdefault_live.jpg",
+        "timestamp": 1782118800,
+        "title": "【 ガチャショップシミュレーター】ガチャショップ開店！お金を稼ぐぞおおお！！#02【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "j5f-q09gb90"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/j5f-q09gb90/maxresdefault_live.jpg",
+        "timestamp": 1782118800,
+        "title": "【 ガチャショップシミュレーター】ガチャショップ開店！お金を稼ぐぞおおお！！#02【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "j5f-q09gb90"
     }
 ]
