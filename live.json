@@ -20,20 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dCLb0gvTgPw/maxresdefault_live.jpg",
-        "timestamp": 1782325800,
+        "timestamp": null,
         "title": "【WATCHALONG】Canada vs Switzerland!!!!!! 【Kiara\u0026#39;s Football Fever Frenzy】",
         "video_id": "dCLb0gvTgPw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SXSruRFvWhw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DAVE THE DIVER】IN THE JUNGLEEEEEEEEE 【 iofi / hololiveID 】",
-        "video_id": "SXSruRFvWhw"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -54,33 +45,6 @@
         "video_id": "FdsPMD8L_ZA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oAQ_7gyka_c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP05】賽季要結束了，爲了典獄長挂件，跑刀賺哈夫幣！ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "oAQ_7gyka_c"
-    },
-    {
-        "channel": "https://www.youtube.com/@toritori1122",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oAQ_7gyka_c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP05】賽季要結束了，爲了典獄長挂件，跑刀賺哈夫幣！ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "oAQ_7gyka_c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QGm3GOfOKU0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPOILER ALERT】 More Sidequests and Facing My Fears【Digimon Story Time Stranger】",
-        "video_id": "QGm3GOfOKU0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -90,12 +54,21 @@
         "video_id": "3e0UsIdq0g4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xN1nkynRbdo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Restore Your Island】深夜の無人島でゴミ拾い！【ホロライブ/夏色まつり】",
-        "video_id": "xN1nkynRbdo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hAJ31LjKMuA/maxresdefault_live.jpg",
+        "timestamp": 1782352800,
+        "title": "【FIRST WORLD CUP + IMPULSE】back from Canada vs Switzerland【Dokibird】",
+        "video_id": "hAJ31LjKMuA"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hAJ31LjKMuA/maxresdefault_live.jpg",
+        "timestamp": 1782352800,
+        "title": "【FIRST WORLD CUP + IMPULSE】back from Canada vs Switzerland【Dokibird】",
+        "video_id": "hAJ31LjKMuA"
     }
 ]
