@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BvvqQy2Ls2k/maxresdefault_live.jpg",
-        "timestamp": 1782262800,
+        "timestamp": null,
         "title": "【FORZA HORIZON 6】move out of the way for the fastest BAU BAU drivers (or else) 🐾 【FUWAMOCO】",
         "video_id": "BvvqQy2Ls2k"
     },
@@ -63,20 +63,11 @@
         "video_id": "W7gJdOTluW4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/czRCJT51TpU/maxresdefault_live.jpg",
-        "timestamp": 1782259200,
-        "title": "【AmiAmi】The Seren To My Dipity...My Rival....@holoen_ceciliaimmergreen ...?!",
-        "video_id": "czRCJT51TpU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Nfhfs4tNRlE/maxresdefault_live.jpg",
-        "timestamp": 1782262800,
+        "timestamp": null,
         "title": "【UNARCHIVED KARAOKE SPICE CHALLENGE?】IS THIS A BAD IDEA? yes",
         "video_id": "Nfhfs4tNRlE"
     },
@@ -97,5 +88,14 @@
         "timestamp": 1782295200,
         "title": "【Clubhouse Games】Collab with @AnyaMelfissa ! #kfp #キアライブ",
         "video_id": "V-CKHARD59w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/czRCJT51TpU/maxresdefault_live.jpg",
+        "timestamp": 1782266400,
+        "title": "【AmiAmi】The Seren To My Dipity...My Rival....@holoen_ceciliaimmergreen ...?!",
+        "video_id": "czRCJT51TpU"
     }
 ]
