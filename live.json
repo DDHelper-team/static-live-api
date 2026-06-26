@@ -18,24 +18,6 @@
         "video_id": "eWT-vJQQoZ0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UJyMgi9yppI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【THE ISLE】accidentally got kidnapped into being a dino【Dokibird】",
-        "video_id": "UJyMgi9yppI"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UJyMgi9yppI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【THE ISLE】accidentally got kidnapped into being a dino【Dokibird】",
-        "video_id": "UJyMgi9yppI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -92,18 +74,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oNBB1hFN0R0/maxresdefault_live.jpg",
-        "timestamp": 1782453600,
+        "timestamp": null,
         "title": "【Steam サマーセール】面白そうなゲームを探したい🎮️✨️【緋月ゆい/ネオポルテ】",
         "video_id": "oNBB1hFN0R0"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oNBB1hFN0R0/maxresdefault_live.jpg",
-        "timestamp": 1782453600,
+        "timestamp": null,
         "title": "【Steam サマーセール】面白そうなゲームを探したい🎮️✨️【緋月ゆい/ネオポルテ】",
         "video_id": "oNBB1hFN0R0"
     },
@@ -115,5 +97,14 @@
         "timestamp": 1782478800,
         "title": "メンバーシップ限定、映画同時視聴予定地！！【ひつじ探偵団】※22時か23時",
         "video_id": "3ZzugQ6HOOU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d2u2FOBGhy4/maxresdefault_live.jpg",
+        "timestamp": 1782478800,
+        "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】魔法使いラミィの、のんびり田舎暮らし！！【雪花ラミィ /ホロライブ】",
+        "video_id": "d2u2FOBGhy4"
     }
 ]
