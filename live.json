@@ -18,15 +18,6 @@
         "video_id": "aPYS9WQdqVs"
     },
     {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/aPYS9WQdqVs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ときめきメモリアル】完全初見。僕の青春高校生活...ひとり攻略まで！【轟はじめ/ReGLOSS】※ネタバレ＆告白シーンあります",
-        "video_id": "aPYS9WQdqVs"
-    },
-    {
         "channel": "https://www.youtube.com/@necomakarin",
         "platform": "youtube",
         "status": "LIVE",
@@ -83,7 +74,7 @@
     {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OdvipNNhpHI/maxresdefault_live.jpg",
         "timestamp": null,
         "title": "#6【GNOSIA】 I Just Want a Non-Looping Life Where I Don\u0026#39;t D Word【Pavolia Reine/hololiveID】",
@@ -133,5 +124,14 @@
         "timestamp": 1782645600,
         "title": "【HOLOEARTH】最後の最後まで！！🌍️ thank you and goodbye holoearth 🐾 【FUWAMOCO｜ホロアース】",
         "video_id": "1AuOtcneQww"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/10mvq6HZvlg/maxresdefault_live.jpg",
+        "timestamp": 1782644400,
+        "title": "【R.E.P.O.】20レベ目指すガチレポ w/おなつのにびたし けっつん dtto. 寧々丸 リモーネ先生【 #奏手イヅル 】",
+        "video_id": "10mvq6HZvlg"
     }
 ]
