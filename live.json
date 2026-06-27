@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9ZO5XCNu2uY/maxresdefault_live.jpg",
-        "timestamp": 1782522000,
+        "timestamp": null,
         "title": "【KEEP TALKING AND NOBODY EXPLODES with KRONII】how fast can we make the clock crack 🐾 【FUWAMOCO】",
         "video_id": "9ZO5XCNu2uY"
     },
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/e_GzIAeRGfc/maxresdefault_live.jpg",
-        "timestamp": 1782522000,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "e_GzIAeRGfc"
     },
@@ -115,5 +115,14 @@
         "timestamp": null,
         "title": "【MARVEL RIVALS】Team Canada $300k World Cup【Dokibird】",
         "video_id": "EqVNy-PZUD8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-yY1-W5o5wU/maxresdefault_live.jpg",
+        "timestamp": 1782568800,
+        "title": "【POKÉMON FIRE RED】no one will die【SOUL-LINK NUZLOCKE】",
+        "video_id": "-yY1-W5o5wU"
     }
 ]
