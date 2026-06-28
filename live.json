@@ -81,15 +81,6 @@
         "video_id": "VfGf7At3g-c"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ane_1HkC88o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ぷちホロの村 - 剣とお店と田舎暮らし】魔法の森のボス倒すぞ～っ！！【雪花ラミィ /ホロライブ】",
-        "video_id": "ane_1HkC88o"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
         "platform": "youtube",
         "status": "LIVE",
@@ -119,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NbsF6hpHPC0/maxresdefault_live.jpg",
-        "timestamp": 1782660600,
+        "timestamp": null,
         "title": "風真いろはの #ねるまえらじお 📻❣ #15",
         "video_id": "NbsF6hpHPC0"
     },
@@ -160,5 +151,23 @@
         "timestamp": 1782673200,
         "title": "【FIFA WORLD CUP】Canada vs South Africa Watchalong【Dokibird】",
         "video_id": "N2dFz9xo60k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d-L_fb1rEF0/maxresdefault_live.jpg",
+        "timestamp": 1782687600,
+        "title": "【Ibb \u0026amp; Obb】Octo\u0026#39;Clock On the Clock! We Are....Coordinated...?! #holoSerendipity",
+        "video_id": "d-L_fb1rEF0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FHKXawCBVJM/maxresdefault_live.jpg",
+        "timestamp": 1782662400,
+        "title": "【Freetalk】深夜にまったり悪魔のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
+        "video_id": "FHKXawCBVJM"
     }
 ]
