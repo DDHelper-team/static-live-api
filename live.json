@@ -108,15 +108,6 @@
         "video_id": "Q5hVTKiT04s"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NbsF6hpHPC0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "風真いろはの #ねるまえらじお 📻❣ #15",
-        "video_id": "NbsF6hpHPC0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -164,10 +155,19 @@
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FHKXawCBVJM/maxresdefault_live.jpg",
-        "timestamp": 1782662400,
+        "timestamp": null,
         "title": "【Freetalk】深夜にまったり悪魔のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
         "video_id": "FHKXawCBVJM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DSf1OJBc4N8/maxresdefault_live.jpg",
+        "timestamp": 1782687600,
+        "title": "【DELTARUNE CHAPTER 5】HOW MANY LEITMOTIFS? YES",
+        "video_id": "DSf1OJBc4N8"
     }
 ]
