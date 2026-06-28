@@ -65,19 +65,19 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hIrIsPRl9yY/maxresdefault_live.jpg",
-        "timestamp": 1782604800,
-        "title": "【ARMORED CORE VI】doing warcrimes for walter【Dokibird】",
+        "timestamp": null,
+        "title": "【ARMORED CORE VI】NOT doing warcrimes for walter【Dokibird】",
         "video_id": "hIrIsPRl9yY"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hIrIsPRl9yY/maxresdefault_live.jpg",
-        "timestamp": 1782604800,
-        "title": "【ARMORED CORE VI】doing warcrimes for walter【Dokibird】",
+        "timestamp": null,
+        "title": "【ARMORED CORE VI】NOT doing warcrimes for walter【Dokibird】",
         "video_id": "hIrIsPRl9yY"
     },
     {
@@ -124,5 +124,14 @@
         "timestamp": 1782673200,
         "title": "【FIFA WORLD CUP WATCHALONG】i know ball (i actually don\u0026#39;t please teach me) #calliolive",
         "video_id": "OA1OCM8k4O4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EscDjFd5sZo/maxresdefault_live.jpg",
+        "timestamp": 1782676800,
+        "title": "Fighting my way through your streets  【STREET FIGHTER 6】",
+        "video_id": "EscDjFd5sZo"
     }
 ]
