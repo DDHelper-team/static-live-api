@@ -47,10 +47,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bD-gEIm-dns/maxresdefault_live.jpg",
-        "timestamp": 1782705600,
-        "title": "【パワプロ2026】栄冠ナイン3年モード　転生赤星と転生と行く【夕刻ロベル/ホロスターズ】",
+        "timestamp": null,
+        "title": "【パワプロ2026】栄冠ナイン3年モード　転生赤星と天才と行く【夕刻ロベル/ホロスターズ】",
         "video_id": "bD-gEIm-dns"
     },
     {
@@ -61,15 +61,6 @@
         "timestamp": 1782727200,
         "title": "復活のとき── 腸炎からの帰還 ──",
         "video_id": "w02joq6Npm4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DSf1OJBc4N8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DELTARUNE CHAPTER 5】HOW MANY LEITMOTIFS? YES",
-        "video_id": "DSf1OJBc4N8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -106,5 +97,50 @@
         "timestamp": 1782730800,
         "title": "【#ホロボドゲ部】しりとりを閃け!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
         "video_id": "uaw3z_PB7cQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cxsKW_9H8Lc/maxresdefault_live.jpg",
+        "timestamp": 1782738000,
+        "title": "【メンバー限定】今週も頑張ろうね❤【雪花ラミィ /ホロライブ】",
+        "video_id": "cxsKW_9H8Lc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/19Qyo_VAZTM/maxresdefault_live.jpg",
+        "timestamp": 1782734400,
+        "title": "【Senin Produktif】Drawing HoloMem 【 iofi / hololiveID 】",
+        "video_id": "19Qyo_VAZTM"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7dPqDDhXNc8/maxresdefault_live.jpg",
+        "timestamp": 1782738000,
+        "title": "寝苦しい夜に意識をぶっ放す方法ない？？？？ 定期雑談 #36【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "7dPqDDhXNc8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-yU9FdK4hK4/maxresdefault_live.jpg",
+        "timestamp": 1782738000,
+        "title": "らーめんシミュレーター で俺のためのラーメンを作る【 #奏手イヅル 】",
+        "video_id": "-yU9FdK4hK4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DXmiBFdWjuU/maxresdefault_live.jpg",
+        "timestamp": 1782745200,
+        "title": "‪〖 ASMR⌇KU100 〗 (※)即寝不可避！とろ〜り意識が抜ける快眠フルセット♡ 〖 耳かき / タッピング /睡眠導入 / Japanese/Vtuber〗",
+        "video_id": "DXmiBFdWjuU"
     }
 ]
