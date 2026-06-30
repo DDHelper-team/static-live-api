@@ -38,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RWNdaTyQ8KU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【WATCHALONG】NORWAY vs IVORY COAST Haaland I missed you...【Kiara\u0026#39;s Football Fever Frenzy】",
-        "video_id": "RWNdaTyQ8KU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/D8s4YXHOG0s/maxresdefault_live.jpg",
+        "timestamp": 1782851400,
+        "title": "【WATCHALONG】FRANCE vs SWEDEN artsy football✨【Kiara\u0026#39;s Football Fever Frenzy】",
+        "video_id": "D8s4YXHOG0s"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -63,15 +63,6 @@
         "video_id": "kwqE0Xd_vD4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7cOIelhCMno/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【007 First Light】It\u0026#39;s a Stealth Game If There Are No Witnesses【Pavolia Reine/holoID gen 2】",
-        "video_id": "7cOIelhCMno"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -88,5 +79,14 @@
         "timestamp": 1782907200,
         "title": "最後の夏…！頼む甲子園優勝させてえええええええええ！！！！✨#パワプロ2026 【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "xKlFkkoBoAI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wmCyeWYRb1s/maxresdefault_live.jpg",
+        "timestamp": 1782914400,
+        "title": "【】【ホロライブ/大空スバル】",
+        "video_id": "wmCyeWYRb1s"
     }
 ]
