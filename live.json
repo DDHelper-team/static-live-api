@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kwqE0Xd_vD4/maxresdefault_live.jpg",
-        "timestamp": 1782866700,
+        "timestamp": null,
         "title": "【FIFA WORLD CUP】Mexico vs Ecuador【Dokibird】",
         "video_id": "kwqE0Xd_vD4"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kwqE0Xd_vD4/maxresdefault_live.jpg",
-        "timestamp": 1782866700,
+        "timestamp": null,
         "title": "【FIFA WORLD CUP】Mexico vs Ecuador【Dokibird】",
         "video_id": "kwqE0Xd_vD4"
     },
@@ -79,5 +79,14 @@
         "timestamp": 1782914400,
         "title": "【】【ホロライブ/大空スバル】",
         "video_id": "wmCyeWYRb1s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DYnzwJox4b8/maxresdefault_live.jpg",
+        "timestamp": 1782907200,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "DYnzwJox4b8"
     }
 ]
