@@ -36,29 +36,11 @@
         "video_id": "8DUwCZ20jpk"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kwqE0Xd_vD4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FIFA WORLD CUP】Mexico vs Ecuador【Dokibird】",
-        "video_id": "kwqE0Xd_vD4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kwqE0Xd_vD4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FIFA WORLD CUP】Mexico vs Ecuador【Dokibird】",
-        "video_id": "kwqE0Xd_vD4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NJ2nlx81HIs/maxresdefault_live.jpg",
-        "timestamp": 1782878400,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 21日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "NJ2nlx81HIs"
     },
@@ -88,5 +70,59 @@
         "timestamp": 1782907200,
         "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "DYnzwJox4b8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3dau-zJGUuw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ゼンレスゾーンゼロ】#35 | 完全初見！ロスカリファ、でっけぇのだ！【緋月ゆい/ネオポルテ】",
+        "video_id": "3dau-zJGUuw"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3dau-zJGUuw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ゼンレスゾーンゼロ】#35 | 完全初見！ロスカリファ、でっけぇのだ！【緋月ゆい/ネオポルテ】",
+        "video_id": "3dau-zJGUuw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s12-NaS3fvM/maxresdefault_live.jpg",
+        "timestamp": 1782907200,
+        "title": "巫師三 DLC-血與酒｜整個陶森特只剩下我不是吸血鬼嗎?【Healing希靈/VTuber】",
+        "video_id": "s12-NaS3fvM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Nx9mOOAA7IA/maxresdefault_live.jpg",
+        "timestamp": 1782918000,
+        "title": "リズム天国やりたい",
+        "video_id": "Nx9mOOAA7IA"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s12-NaS3fvM/maxresdefault_live.jpg",
+        "timestamp": 1782907200,
+        "title": "巫師三 DLC-血與酒｜整個陶森特只剩下我不是吸血鬼嗎?【Healing希靈/VTuber】",
+        "video_id": "s12-NaS3fvM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bDK_kvi_7YM/maxresdefault_live.jpg",
+        "timestamp": 1782900000,
+        "title": "【リズム天国ミラクルスターズ】なんとリズム天国初めての人の体験版【風真いろは/ホロライブ】",
+        "video_id": "bDK_kvi_7YM"
     }
 ]
