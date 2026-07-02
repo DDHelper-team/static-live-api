@@ -135,24 +135,6 @@
         "video_id": "LEXcn-kASwk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/J-m4qDybU8A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HANG OUT】Late night doing whatever【Dokibird】",
-        "video_id": "J-m4qDybU8A"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/J-m4qDybU8A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HANG OUT】Late night doing whatever【Dokibird】",
-        "video_id": "J-m4qDybU8A"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +142,23 @@
         "timestamp": 1782993600,
         "title": "【薔薇と椿 お豪華絢爛版】ラスト魔フィア　ネタバレあり【荒咬オウガ 影山シエン/ホロスターズ】",
         "video_id": "NfCyR4D68dE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KodmqkLruDs/maxresdefault_live.jpg",
+        "timestamp": 1782995400,
+        "title": "【#ff14  】歐米茄任務最後一章【#ゲーム個人勢 / Fingla】",
+        "video_id": "KodmqkLruDs"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KodmqkLruDs/maxresdefault_live.jpg",
+        "timestamp": 1782995400,
+        "title": "【#ff14  】歐米茄任務最後一章【#ゲーム個人勢 / Fingla】",
+        "video_id": "KodmqkLruDs"
     }
 ]
