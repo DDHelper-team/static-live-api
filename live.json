@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mbBmqCOKNrE/maxresdefault_live.jpg",
-        "timestamp": 1782964800,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 22日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "mbBmqCOKNrE"
     },
@@ -99,15 +99,6 @@
         "video_id": "7fuuQmx4r20"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/u-ibCYT-MC4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "おは言え雑談 7月入りました 【 #奏手イヅル 】",
-        "video_id": "u-ibCYT-MC4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,59 @@
         "timestamp": 1782993600,
         "title": "【FF14】#フブキの宿題 今日もちゃんと進めるよ！#黄金やれござる ※配信内容にネタバレあり【風真いろは/ホロライブ】",
         "video_id": "MkX5H4ZlXEA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hRqbPG49zhw/maxresdefault_live.jpg",
+        "timestamp": 1783044000,
+        "title": "【ANSWERING HOLOQ】 IT WAS MY 1st ANNIVERSARY AS HOLOPLUS AMBASSADOR!!🎉🎉 【Kureiji Ollie】",
+        "video_id": "hRqbPG49zhw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0OoToPU1Mbo/maxresdefault_live.jpg",
+        "timestamp": 1783047600,
+        "title": "【SERENDIPITY HOTEL TALK】it\u0026#39;s tradition! #calliolive",
+        "video_id": "0OoToPU1Mbo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LEXcn-kASwk/maxresdefault_live.jpg",
+        "timestamp": 1782990000,
+        "title": "【リズム天国 ミラクルスターズ】来たか…！！さぁ地獄の始まりだ…！！【雪花ラミィ /ホロライブ】",
+        "video_id": "LEXcn-kASwk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/J-m4qDybU8A/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【HANG OUT】Late night doing whatever【Dokibird】",
+        "video_id": "J-m4qDybU8A"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/J-m4qDybU8A/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【HANG OUT】Late night doing whatever【Dokibird】",
+        "video_id": "J-m4qDybU8A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NfCyR4D68dE/maxresdefault_live.jpg",
+        "timestamp": 1782993600,
+        "title": "【薔薇と椿 お豪華絢爛版】ラスト魔フィア　ネタバレあり【荒咬オウガ 影山シエン/ホロスターズ】",
+        "video_id": "NfCyR4D68dE"
     }
 ]
