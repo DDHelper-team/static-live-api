@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/m-A5tI3quKA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【KuloNiku: Bowl Up!】 BAKSO BAKSO 【Kureiji Ollie】",
-        "video_id": "m-A5tI3quKA"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CqjcC4yI6nc/maxresdefault_live.jpg",
+        "timestamp": 1783132200,
+        "title": "【EN CONCERT WATCHALONG - DAY 1】 ONE TIME IN A LIFETIME!! #holoSerendipity  【Kureiji Ollie】",
+        "video_id": "CqjcC4yI6nc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -52,15 +52,6 @@
         "timestamp": 1783162800,
         "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#07 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "6Yium_uVEns"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PD4kizfQV7s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#真最終回】PSYCHO-PASS サイコパスみるしゅばああああああああああああああああああああああああああああああ！！！！！！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "PD4kizfQV7s"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -83,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4EqFYhSlJyA/maxresdefault_live.jpg",
-        "timestamp": 1783092600,
+        "timestamp": null,
         "title": "【KU100/ASMR】ん…♡気持ちいいね～…♡にゅる耳はむとすりすりカリカリ擦り責めで絶頂快眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "4EqFYhSlJyA"
     },
@@ -171,15 +162,6 @@
         "video_id": "JdwJHTnMIdI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BOloPupg824/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "LTK VALO カスタム  / アステル",
-        "video_id": "BOloPupg824"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
         "platform": "youtube",
         "status": "LIVE",
@@ -196,5 +178,14 @@
         "timestamp": 1783170000,
         "title": "【晩酌】告知あり！まったり週末にラミィと晩酌【雪花ラミィ /ホロライブ】",
         "video_id": "4EOVc5rRIk0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QJK4U5PTvK0/maxresdefault_live.jpg",
+        "timestamp": 1783126800,
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "QJK4U5PTvK0"
     }
 ]
