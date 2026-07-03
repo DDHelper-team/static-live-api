@@ -63,15 +63,6 @@
         "video_id": "PD4kizfQV7s"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/H9aVl0EXnCM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Rust】みんなでラストやるぞー！【 #奏手イヅル 】",
-        "video_id": "H9aVl0EXnCM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -79,5 +70,41 @@
         "timestamp": 1783134000,
         "title": "【】はいしんよていち📍【風真いろは/ホロライブ】",
         "video_id": "wsjGbcht2yw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zsJNannzc5c/maxresdefault_live.jpg",
+        "timestamp": 1783085400,
+        "title": "【Gacha Capsule Shop Simulator - Akihabara】i see gacha, i play",
+        "video_id": "zsJNannzc5c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4EqFYhSlJyA/maxresdefault_live.jpg",
+        "timestamp": 1783092600,
+        "title": "【KU100/ASMR】ん…♡気持ちいいね～…♡にゅる耳はむとすりすりカリカリ擦り責めで絶頂快眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "4EqFYhSlJyA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ER-ljAlurog/maxresdefault_live.jpg",
+        "timestamp": 1783081800,
+        "title": "【#ff14  】預定開播【#ゲーム個人勢 / Fingla】",
+        "video_id": "ER-ljAlurog"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ER-ljAlurog/maxresdefault_live.jpg",
+        "timestamp": 1783081800,
+        "title": "【#ff14  】預定開播【#ゲーム個人勢 / Fingla】",
+        "video_id": "ER-ljAlurog"
     }
 ]
