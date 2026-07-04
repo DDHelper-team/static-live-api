@@ -11,7 +11,7 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d9YWdtIOlks/maxresdefault_live.jpg",
         "timestamp": null,
         "title": "【DOKI DOKI REWIND TIME】FREE Birthday Concert Preview #DokiRewindTime【Dokibird】",
@@ -29,7 +29,7 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d9YWdtIOlks/maxresdefault_live.jpg",
         "timestamp": null,
         "title": "【DOKI DOKI REWIND TIME】FREE Birthday Concert Preview #DokiRewindTime【Dokibird】",
@@ -106,5 +106,23 @@
         "timestamp": 1783245600,
         "title": "#11【SFC】完全初見！ドラゴンクエストVI 幻の大地 ぺこ！【ホロライブ/兎田ぺこら】※ネタバレ注意",
         "video_id": "HQkN2AHtJIQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v7lliDeWS5c/maxresdefault_live.jpg",
+        "timestamp": 1783234800,
+        "title": "【三角州行動 EP12】進黑屋了，看我被大佬按在地上摩擦（？ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "v7lliDeWS5c"
+    },
+    {
+        "channel": "https://www.youtube.com/@toritori1122",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v7lliDeWS5c/maxresdefault_live.jpg",
+        "timestamp": 1783234800,
+        "title": "【三角州行動 EP12】進黑屋了，看我被大佬按在地上摩擦（？ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "v7lliDeWS5c"
     }
 ]
