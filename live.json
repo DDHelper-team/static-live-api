@@ -38,27 +38,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6Yium_uVEns/maxresdefault_live.jpg",
-        "timestamp": 1783162800,
+        "timestamp": null,
         "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#07 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "6Yium_uVEns"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mR-9cU4qaBs/maxresdefault_live.jpg",
-        "timestamp": 1783162809,
+        "timestamp": null,
         "title": "【#緋月ゆい新衣装】1年半ぶりの新衣装です👗【緋月ゆい/ネオポルテ】",
         "video_id": "mR-9cU4qaBs"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mR-9cU4qaBs/maxresdefault_live.jpg",
-        "timestamp": 1783162809,
+        "timestamp": null,
         "title": "【#緋月ゆい新衣装】1年半ぶりの新衣装です👗【緋月ゆい/ネオポルテ】",
         "video_id": "mR-9cU4qaBs"
     },
@@ -74,10 +74,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rzpGSaqcMU0/maxresdefault_live.jpg",
-        "timestamp": 1783162800,
-        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "【パワプロ2026】ぺこーら学園（仮）始動！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
         "video_id": "rzpGSaqcMU0"
     },
     {
@@ -106,24 +106,6 @@
         "timestamp": null,
         "title": "【#ff14  】伊甸任務啟動! 再生之章【#ゲーム個人勢 / Fingla】",
         "video_id": "LB8OLPA4h24"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6AN0zzmufD0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "YAPYAPPERSSSSSS w/@sammybollivienn",
-        "video_id": "6AN0zzmufD0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AHN-Vsk4nuo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【デジモンカードゲーム】本日発売 !! 新弾 デジタルワールドシャンバラ 開封の儀  / アステル",
-        "video_id": "AHN-Vsk4nuo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
@@ -196,5 +178,41 @@
         "timestamp": null,
         "title": "【Rust】公式鯖いざ隆盛、そして落日の時【 #奏手イヅル 】",
         "video_id": "1Kcz6ygfaA0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kZBzPHHgB_0/maxresdefault_live.jpg",
+        "timestamp": 1783170000,
+        "title": "100億年ぶりのスプラ！？？？！？",
+        "video_id": "kZBzPHHgB_0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cRiywPhs_gk/maxresdefault_live.jpg",
+        "timestamp": 1783170000,
+        "title": "【歌枠/Singing】暑さが迫りくる。【 獅子神レオナ/Re:AcT】",
+        "video_id": "cRiywPhs_gk"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cRiywPhs_gk/maxresdefault_live.jpg",
+        "timestamp": 1783170000,
+        "title": "【歌枠/Singing】暑さが迫りくる。【 獅子神レオナ/Re:AcT】",
+        "video_id": "cRiywPhs_gk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9Qy-VCwXMdw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【APEX Legends】LTK カスタム / アステル",
+        "video_id": "9Qy-VCwXMdw"
     }
 ]
