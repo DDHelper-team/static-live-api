@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QJK4U5PTvK0/maxresdefault_live.jpg",
-        "timestamp": 1783126800,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "QJK4U5PTvK0"
     },
@@ -110,10 +110,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BPFwaTQscs4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ワールドカップ】W杯 アルゼンチン vs カーボベルデ戦 全力応援！同時視聴！ぺこ！【ホロライブ/兎田ぺこら】",
-        "video_id": "BPFwaTQscs4"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rzpGSaqcMU0/maxresdefault_live.jpg",
+        "timestamp": 1783162800,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "rzpGSaqcMU0"
     }
 ]
