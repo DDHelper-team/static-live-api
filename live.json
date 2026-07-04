@@ -36,15 +36,6 @@
         "video_id": "LYAl1tlseE4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rzpGSaqcMU0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パワプロ2026】ぺこーら学園（仮）始動！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
-        "video_id": "rzpGSaqcMU0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "LIVE",
@@ -88,33 +79,6 @@
         "timestamp": null,
         "title": "【Rust】公式鯖いざ隆盛、そして落日の時【 #奏手イヅル 】",
         "video_id": "1Kcz6ygfaA0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kZBzPHHgB_0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "100億年ぶりのスプラ！？？？！？",
-        "video_id": "kZBzPHHgB_0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cRiywPhs_gk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】暑さが迫りくる。【 獅子神レオナ/Re:AcT】",
-        "video_id": "cRiywPhs_gk"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cRiywPhs_gk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】暑さが迫りくる。【 獅子神レオナ/Re:AcT】",
-        "video_id": "cRiywPhs_gk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
@@ -169,5 +133,14 @@
         "timestamp": 1783249200,
         "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#08 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "ah7H23Ibp6A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jHSgaJmj09s/maxresdefault_live.jpg",
+        "timestamp": 1783224000,
+        "title": "【#8】逆転裁判３やるしゅばああああああああああ！！！！！：Phoenix Wright: Ace Attorney - Trials and Tribulations【ネタバレあり】",
+        "video_id": "jHSgaJmj09s"
     }
 ]
