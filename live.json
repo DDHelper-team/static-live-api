@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CqjcC4yI6nc/maxresdefault_live.jpg",
-        "timestamp": 1783132200,
+        "timestamp": null,
         "title": "【EN CONCERT WATCHALONG - DAY 1】 ONE TIME IN A LIFETIME!! #holoSerendipity  【Kureiji Ollie】",
         "video_id": "CqjcC4yI6nc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Np3Q8EeFhi4/maxresdefault_live.jpg",
-        "timestamp": 1783137600,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 23日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "Np3Q8EeFhi4"
     },
@@ -52,15 +52,6 @@
         "timestamp": 1783162800,
         "title": "【 FF7リメイク 】またみんなと冒険だああ!!💥#07 | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "6Yium_uVEns"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wsjGbcht2yw/maxresdefault_live.jpg",
-        "timestamp": 1783134000,
-        "title": "【】はいしんよていち📍【風真いろは/ホロライブ】",
-        "video_id": "wsjGbcht2yw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
@@ -93,17 +84,17 @@
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QJK4U5PTvK0/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/8ffHdIPAIL4/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-        "video_id": "QJK4U5PTvK0"
+        "title": "【#7】逆転裁判３やるしゅばああああああああああ！！！！！：Phoenix Wright: Ace Attorney - Trials and Tribulations【ネタバレあり】",
+        "video_id": "8ffHdIPAIL4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mywfIgqrxws/maxresdefault_live.jpg",
-        "timestamp": 1783137600,
+        "timestamp": null,
         "title": "【パワプロ2026】王立天狐学園１年目春🌸 #パワプロケモミミリーグ【ホロライブ/白上フブキ】",
         "video_id": "mywfIgqrxws"
     },
@@ -115,5 +106,14 @@
         "timestamp": 1783162800,
         "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "rzpGSaqcMU0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wsjGbcht2yw/maxresdefault_live.jpg",
+        "timestamp": 1783170000,
+        "title": "【】はいしんよていち📍【風真いろは/ホロライブ】",
+        "video_id": "wsjGbcht2yw"
     }
 ]
