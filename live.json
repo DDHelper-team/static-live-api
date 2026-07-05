@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/L8ysBWu1fv0/maxresdefault_live.jpg",
-        "timestamp": 1783242000,
+        "timestamp": null,
         "title": "【Minecraft】ワンブロックの世界で目指せエンドラ討伐⚔️✨#3【水宮枢／ホロライブDEV_IS】",
         "video_id": "L8ysBWu1fv0"
     },
@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/@ShishiroBotan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/GsNlB2xCanY/maxresdefault_live.jpg",
-        "timestamp": 1783242000,
+        "timestamp": null,
         "title": "【バイオハザード5】追加エピソードやっていくぞい！ （LOST IN NIGHTMARES / DESPERATE ESCAPE）⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
         "video_id": "GsNlB2xCanY"
     },
@@ -171,29 +171,11 @@
         "video_id": "CFK65IXWIg4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ou0ElcMuG-o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 GeoGuessr 】お昼に美少女とお散歩♡【 領国つかさ / すぺしゃりて 】",
-        "video_id": "ou0ElcMuG-o"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ou0ElcMuG-o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 GeoGuessr 】お昼に美少女とお散歩♡【 領国つかさ / すぺしゃりて 】",
-        "video_id": "ou0ElcMuG-o"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kdONpGsi4EA/maxresdefault_live.jpg",
-        "timestamp": 1783238400,
+        "timestamp": null,
         "title": "Diving in the water",
         "video_id": "kdONpGsi4EA"
     },
@@ -227,10 +209,64 @@
     {
         "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/sC0JogRuCz0/maxresdefault_live.jpg",
-        "timestamp": 1783242000,
+        "timestamp": null,
         "title": "【めっちゃカメレオン】 み～～～～～つけた＾＾【HACHI視点】",
         "video_id": "sC0JogRuCz0"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AtMkKpVDVKo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 Minecraft 】最終日！初めてのマイクラワンブロック生活！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "AtMkKpVDVKo"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GNIO8wL2rX0/maxresdefault_live.jpg",
+        "timestamp": 1783256400,
+        "title": "【 定期歌枠 】5ヶ月ぶりに「B\u0026#39;z」を歌うのら～！！！🎶 KARAOKE【姫森ルーナ/ホロライブ】",
+        "video_id": "GNIO8wL2rX0"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_Jho64QWtOM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Minecraft】1つブロックの上で 最終日【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "_Jho64QWtOM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dhlVxeJopPY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【MHWilds】Learning Bow Day 2【 iofi / hololiveID 】",
+        "video_id": "dhlVxeJopPY"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/es-1awCFWYE/maxresdefault_live.jpg",
+        "timestamp": 1783256400,
+        "title": "【Forza Horizon 6】AZKiと深夜のドライブ #6【ホロライブ / AZKi】",
+        "video_id": "es-1awCFWYE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6fBA0Bzbwg8/maxresdefault_live.jpg",
+        "timestamp": 1783310400,
+        "title": "【シャニソン】何か1ヵ月ぶりにガシャを引く気がするのですが気のせいでしょうか？【夕刻ロベル/ホロスターズ】",
+        "video_id": "6fBA0Bzbwg8"
     }
 ]
