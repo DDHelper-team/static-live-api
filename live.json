@@ -92,18 +92,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Gy1rtpzLwA0/maxresdefault_live.jpg",
-        "timestamp": 1783252800,
+        "timestamp": null,
         "title": "塔羅占卜#144｜一題300元每次限量五~六位🔮✨🦊【Healing希靈/VTuber】#torat",
         "video_id": "Gy1rtpzLwA0"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Gy1rtpzLwA0/maxresdefault_live.jpg",
-        "timestamp": 1783252800,
+        "timestamp": null,
         "title": "塔羅占卜#144｜一題300元每次限量五~六位🔮✨🦊【Healing希靈/VTuber】#torat",
         "video_id": "Gy1rtpzLwA0"
     },
@@ -133,15 +133,6 @@
         "timestamp": 1783256459,
         "title": "【歌枠】新衣装でゆったり歌う🫧【緋月ゆい/ネオポルテ】",
         "video_id": "EmbH-1DvG5w"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShishiroBotan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GsNlB2xCanY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード5】追加エピソードやっていくぞい！ （LOST IN NIGHTMARES / DESPERATE ESCAPE）⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
-        "video_id": "GsNlB2xCanY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -182,9 +173,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wsjGbcht2yw/maxresdefault_live.jpg",
-        "timestamp": 1783252800,
+        "timestamp": null,
         "title": "【リズム天国ミラクルスターズ】やっと遊べますね✌【風真いろは/ホロライブ】",
         "video_id": "wsjGbcht2yw"
     },
@@ -232,5 +223,32 @@
         "timestamp": 1783256400,
         "title": "#02【Supermarket Chaos】うわっ…このスーパー、散らかりすぎ…？【不知火フレア/ホロライブ】",
         "video_id": "7yp8bnau5Ak"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ct--H-kaq50/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 リズム天国 ミラクルスターズ 】新作リズム天国キター！！！なつかしー！！！【 領国つかさ / すぺしゃりて 】",
+        "video_id": "ct--H-kaq50"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ct--H-kaq50/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 リズム天国 ミラクルスターズ 】新作リズム天国キター！！！なつかしー！！！【 領国つかさ / すぺしゃりて 】",
+        "video_id": "ct--H-kaq50"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NCjaCBe2zSs/maxresdefault_live.jpg",
+        "timestamp": 1783258200,
+        "title": "【F1同時視聴】イギリスGP！決勝だ～～～！ 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "NCjaCBe2zSs"
     }
 ]
