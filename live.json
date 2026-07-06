@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/FTB3hkuCNs0/maxresdefault_live.jpg",
-        "timestamp": 1783378800,
-        "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
-        "video_id": "FTB3hkuCNs0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -25,15 +16,6 @@
         "timestamp": 1783425600,
         "title": "【】オタククイズ！【ホロライブ/大空スバル】",
         "video_id": "4J_nFaGHHMM"
-    },
-    {
-        "channel": "https://www.youtube.com/@HakuiKoyori",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/F4n6v5QhgrU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #朝こよ 】ホロメンは短冊に何を書く？7月最初！七夕の火曜日の朝も～！朝こよ！☀ #288 【博衣こより/hololive】",
-        "video_id": "F4n6v5QhgrU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
@@ -133,5 +115,23 @@
         "timestamp": 1783422000,
         "title": "【#ノエぺこの戦う七夕】年に一度の勝負！ノエルVSぺこらカジノ対決！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "-NdBu39ZNLY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TM8-KOnA4UI/maxresdefault_live.jpg",
+        "timestamp": 1783465200,
+        "title": "【#holoSerendipity】Ina Cheer Space!!!! ONE TIME IN A LIFETIME!!!",
+        "video_id": "TM8-KOnA4UI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/foUgVcpF4x8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【3D CONCERT】H!P Cover Song Birthday Festival🎉🎉🎉 #KiaraBday2026",
+        "video_id": "foUgVcpF4x8"
     }
 ]
