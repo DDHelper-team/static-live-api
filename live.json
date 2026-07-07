@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Qwu6DopTVFQ/maxresdefault_live.jpg",
-        "timestamp": 1783396800,
+        "timestamp": null,
         "title": "【P5R】初見で挑む『ペルソナ５ ザ・ロイヤル』 24日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "Qwu6DopTVFQ"
     },
@@ -124,5 +124,32 @@
         "timestamp": 1783414800,
         "title": "【リズム天国ミラクルスターズ】新作きちゃ！リズム天国ミラクルスターズ！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "P2NHKXUlGbM"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fYRmMuq0300/maxresdefault_live.jpg",
+        "timestamp": 1783422000,
+        "title": "【#ノエぺこの戦う七夕】神社に行って祈ってきた！！！年に一度の大勝負！勝たせていただきますゾ！【白銀ノエル/ホロライブ】",
+        "video_id": "fYRmMuq0300"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BEfCppKf5-o/maxresdefault_live.jpg",
+        "timestamp": 1783418400,
+        "title": "【ポケモン】ホロメンがポケモンになったら何タイプ？を考えてみる！！✨【博衣こより/ホロライブ】",
+        "video_id": "BEfCppKf5-o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kNexuQvhk64/maxresdefault_live.jpg",
+        "timestamp": 1783479600,
+        "title": "Mori watches \u0026quot;The Amazing Digital Circus\u0026quot; (full mirror)",
+        "video_id": "kNexuQvhk64"
     }
 ]
