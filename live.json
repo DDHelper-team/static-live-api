@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/O_v3xQRsEBk/maxresdefault_live.jpg",
-        "timestamp": 1783404000,
+        "timestamp": null,
         "title": "【Clock Rogue】hard mode...? ⏳",
         "video_id": "O_v3xQRsEBk"
     },
@@ -151,5 +151,59 @@
         "timestamp": 1783479600,
         "title": "Mori watches \u0026quot;The Amazing Digital Circus\u0026quot; (full mirror)",
         "video_id": "kNexuQvhk64"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hEouXJFiezY/maxresdefault_live.jpg",
+        "timestamp": 1783422000,
+        "title": "【#あまにょ降臨】今年も来ました🎋【お披露目＆重大告知アリ！？】",
+        "video_id": "hEouXJFiezY"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MKjXgiJSB_o/maxresdefault_live.jpg",
+        "timestamp": 1783429200,
+        "title": "【 はいしんよてち！ 】七夕だにぇ―――。【ホロライブ/さくらみこ】",
+        "video_id": "MKjXgiJSB_o"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aiPlkIV47QA/maxresdefault_live.jpg",
+        "timestamp": 1783422000,
+        "title": "【ドラゴンボールZ KAKAROT】フリーザ編！ドラゴンボールZ カカロットを初見でやるぞ！【周防パトラ】",
+        "video_id": "aiPlkIV47QA"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SRtAaS7bCXw/maxresdefault_live.jpg",
+        "timestamp": 1783429200,
+        "title": "【たなぼた雑談】ケツに鍾乳石【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "SRtAaS7bCXw"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8TcyHoU_Fv8/maxresdefault_live.jpg",
+        "timestamp": 1783432800,
+        "title": "【誕生日カウントダウン】一緒に誕生日迎えよう～～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "8TcyHoU_Fv8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LHnkmywgqUA/maxresdefault_live.jpg",
+        "timestamp": 1783429200,
+        "title": "Early Sail at Assasin\u0026#39;s Creed Black Flag Resynced 【 iofi / hololiveID 】",
+        "video_id": "LHnkmywgqUA"
     }
 ]
