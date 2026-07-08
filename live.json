@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Nd9rzBUcOHA/maxresdefault_live.jpg",
-        "timestamp": 1783544400,
+        "timestamp": null,
         "title": "Peeking Respectfully While Slobbering in the Hot Springs 【Zatsudan】",
         "video_id": "Nd9rzBUcOHA"
     },
@@ -97,5 +97,23 @@
         "timestamp": 1783602000,
         "title": "【メンバー限定配信】開設6年4ヶ月目！「ひつじ探偵団 / The Sheep Detectives」同時視聴！【角巻わため/ホロライブ４期生】",
         "video_id": "6zRzBt2DtWI"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1TUyyzbCq_E/maxresdefault_live.jpg",
+        "timestamp": 1783630800,
+        "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】fediel i am here for you #ad",
+        "video_id": "1TUyyzbCq_E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Iln-OR3q1ps/maxresdefault_live.jpg",
+        "timestamp": 1783602000,
+        "title": "【 🟣月一企画メン限 】今日は一緒にねんね💜⸝⸝⸝【 猫又おかゆ/ホロライブ 】",
+        "video_id": "Iln-OR3q1ps"
     }
 ]
