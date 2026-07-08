@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hpGEk44wbD0/maxresdefault_live.jpg",
-        "timestamp": 1783504800,
+        "timestamp": null,
         "title": "【 ゼノブレイド2 】初見プレイ！初めての「Xenoblade 2」に挑戦するのら！！！＃04【姫森ルーナ/ホロライブ】",
         "video_id": "hpGEk44wbD0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wuh6NqhLu6U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PEAK】its a peak content【#PemaloeMonth2026】",
-        "video_id": "wuh6NqhLu6U"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -56,10 +47,10 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ENZLX5etF6Y/maxresdefault_live.jpg",
-        "timestamp": 1783504800,
-        "title": "【パワプロ2026】新作でお試し対戦！3D！こんこよ高校VS限界条高校⚾【一条莉々華・博衣こより/ホロライブ】",
+        "timestamp": null,
+        "title": "【パワプロ2026】新作でお試し対戦！3D！こんこよ高校VS限界条高校⚾ #こよりり 【一条莉々華・博衣こより/ホロライブ】",
         "video_id": "ENZLX5etF6Y"
     },
     {
@@ -92,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Xpzr4D2PtMk/maxresdefault_live.jpg",
-        "timestamp": 1783504800,
+        "timestamp": null,
         "title": "【パワプロ2026】1年目夏！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
         "video_id": "Xpzr4D2PtMk"
     },
@@ -144,15 +135,6 @@
         "video_id": "rM_JNZ-Zqmc"
     },
     {
-        "channel": "https://www.youtube.com/@TokoyamiTowa",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sfdkD9Gl-Yg/maxresdefault_live.jpg",
-        "timestamp": 1783501200,
-        "title": "【 雑談-Freetalk- 】ご心配とご迷惑をおかけしました…！落ち着きました！！【常闇トワ/ホロライブ】",
-        "video_id": "sfdkD9Gl-Yg"
-    },
-    {
         "channel": "https://www.youtube.com/@SakuraMiko",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -180,15 +162,6 @@
         "video_id": "-HcwjmLMBV0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1cSfYcAxnaQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【鳴潮】寄り道しがちな鳴潮がきちゃ！【ホロライブ/夏色まつり】",
-        "video_id": "1cSfYcAxnaQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +178,23 @@
         "timestamp": 1783515600,
         "title": "【歌枠】新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream【ホロライブ / AZKi】",
         "video_id": "n29115yzt5o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ilK3_RleydU/maxresdefault_live.jpg",
+        "timestamp": 1783587600,
+        "title": "ソロイベ告知配信！！！【夕刻ロベル/ホロスターズ】",
+        "video_id": "ilK3_RleydU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/smYDInk020U/maxresdefault_live.jpg",
+        "timestamp": 1783508400,
+        "title": "【DbD】デドバで狩られる w/ おなつのにびたし 寧々丸 史門 日裏クロ【 #奏手イヅル 】",
+        "video_id": "smYDInk020U"
     }
 ]
