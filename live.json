@@ -11,20 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wuh6NqhLu6U/maxresdefault_live.jpg",
-        "timestamp": 1783491300,
+        "timestamp": null,
         "title": "【PEAK】its a peak content【#PemaloeMonth2026】",
         "video_id": "wuh6NqhLu6U"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kNexuQvhk64/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Mori watches \u0026quot;The Amazing Digital Circus\u0026quot; (full mirror) #calliolive",
-        "video_id": "kNexuQvhk64"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -146,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rM_JNZ-Zqmc/maxresdefault_live.jpg",
-        "timestamp": 1783497600,
+        "timestamp": null,
         "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見！始原の里攻略へ・・・世界樹を助けることはできるのか⁉【鷹嶺ルイ/ホロライブ】ネタバレあり",
         "video_id": "rM_JNZ-Zqmc"
     },
@@ -160,5 +151,59 @@
         "timestamp": 1783501200,
         "title": "【 雑談-Freetalk- 】ご心配とご迷惑をおかけしました…！落ち着きました！！【常闇トワ/ホロライブ】",
         "video_id": "sfdkD9Gl-Yg"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/H6jFgLOMGxc/maxresdefault_live.jpg",
+        "timestamp": 1783517400,
+        "title": "【はいしんよてーち！】【ホロライブ/さくらみこ】",
+        "video_id": "H6jFgLOMGxc"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2d5nvKrOq0I/maxresdefault_live.jpg",
+        "timestamp": 1783512000,
+        "title": "【デッドライジング4】ゾンビ無双よんたび！フランクさんがウィラメッテに帰ってきた ＃02⚠️ネタバレ注意－Dead Rising 4【獅白ぼたん/ホロライブ】",
+        "video_id": "2d5nvKrOq0I"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-HcwjmLMBV0/maxresdefault_live.jpg",
+        "timestamp": 1783519200,
+        "title": "【#らでんのラジオ 】第37回！アルバイト戦記ほか【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "-HcwjmLMBV0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1cSfYcAxnaQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【鳴潮】寄り道しがちな鳴潮がきちゃ！【ホロライブ/夏色まつり】",
+        "video_id": "1cSfYcAxnaQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/M6b3XEy5dgE/maxresdefault_live.jpg",
+        "timestamp": 1783515600,
+        "title": "【#おかころ】ころね支店【R.E.P.O】",
+        "video_id": "M6b3XEy5dgE"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n29115yzt5o/maxresdefault_live.jpg",
+        "timestamp": 1783515600,
+        "title": "【歌枠】新衣装で歌う～～～！！！J-POP・アニソン・ボカロ Singing Stream【ホロライブ / AZKi】",
+        "video_id": "n29115yzt5o"
     }
 ]
