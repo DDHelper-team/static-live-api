@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ilK3_RleydU/maxresdefault_live.jpg",
-        "timestamp": 1783587600,
+        "timestamp": null,
         "title": "ソロイベ告知配信！！！【夕刻ロベル/ホロスターズ】",
         "video_id": "ilK3_RleydU"
     },
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nfez0CQ-yro/maxresdefault_live.jpg",
-        "timestamp": 1783587600,
+        "timestamp": null,
         "title": "【 Pineapple on pizza 】昔大流行したsteamで圧倒的高評価のゲーム！？やってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "nfez0CQ-yro"
     },
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZQsjPUzhvVk/maxresdefault_live.jpg",
-        "timestamp": 1783591200,
+        "timestamp": null,
         "title": "【ポケモン】ホロメンがポケモンになったら？タイプ・特性・技構成を一緒に考えよう！！✨【博衣こより/ホロライブ】",
         "video_id": "ZQsjPUzhvVk"
     },
@@ -153,15 +153,6 @@
         "video_id": "5i7gWymsveQ"
     },
     {
-        "channel": "https://www.youtube.com/@Robocosan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UIJItl4ehCA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【飯】ランチ時間に間に合え！ごはん食べる雑談【ホロライブ/ ロボ子さん】",
-        "video_id": "UIJItl4ehCA"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -173,10 +164,91 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Hwpxk6UZJ7s/maxresdefault_live.jpg",
-        "timestamp": 1783587600,
+        "timestamp": null,
         "title": "【MHWilds】Learning Bow Day 3【 iofi / hololiveID 】",
         "video_id": "Hwpxk6UZJ7s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z4-QrGMJvVQ/maxresdefault_live.jpg",
+        "timestamp": 1783600200,
+        "title": "【FREETALK】 ZOMBIE CHATS WITH YOU!! NO WAY, TALKING IS FREE?!【Kureiji Ollie】",
+        "video_id": "Z4-QrGMJvVQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7zhOGkVPfDk/maxresdefault_live.jpg",
+        "timestamp": 1783602000,
+        "title": "PUBGM X NARUTO : Memanggil semua warga Konoha !",
+        "video_id": "7zhOGkVPfDk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QPY8jlvSdCc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "カビばいばい",
+        "video_id": "QPY8jlvSdCc"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zGcHTyEO1fM/maxresdefault_live.jpg",
+        "timestamp": 1783594800,
+        "title": "パスタを殴りまくるホラーゲーム…？？ぺこら先輩から貰ったSPAGHETで遊ぶ！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "zGcHTyEO1fM"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FjEemYvLb-w/maxresdefault_live.jpg",
+        "timestamp": 1783602000,
+        "title": "【RUNNING TRAIN | 走ル列車！】運転士あずきち、絶景列車の旅へ出発！！！【ホロライブ / AZKi】",
+        "video_id": "FjEemYvLb-w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Y_F6t1uxPF4/maxresdefault_live.jpg",
+        "timestamp": 1783598400,
+        "title": "【#イーガンズ】特別営業！スナック雪の花でウイスキー晩酌会！【雪花ラミィ/ホロライブ】",
+        "video_id": "Y_F6t1uxPF4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oYR2pw0ChkU/maxresdefault_live.jpg",
+        "timestamp": 1783594800,
+        "title": "【ドラゴンボールZ KAKAROT】フリーザ倒す！ドラゴンボールZ カカロットを初見でやるぞ！【周防パトラ】",
+        "video_id": "oYR2pw0ChkU"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Zx4PsAjQ1ZU/maxresdefault_live.jpg",
+        "timestamp": 1783677600,
+        "title": "【 ゼノブレイド2 】初見プレイ！初めての「Xenoblade 2」に挑戦するのら！！！＃05【姫森ルーナ/ホロライブ】",
+        "video_id": "Zx4PsAjQ1ZU"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xNJ4RISD_eA/maxresdefault_live.jpg",
+        "timestamp": 1783602000,
+        "title": "【リズム天国ミラクルスターズ】ソロで！【一条莉々華/儒烏風亭らでん/音乃瀬奏/轟はじめ 】",
+        "video_id": "xNJ4RISD_eA"
     }
 ]
