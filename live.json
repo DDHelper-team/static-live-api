@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/FQ4NYEkT7iE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VRCHAT】biboo back we yap",
-        "video_id": "FQ4NYEkT7iE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sLOaaGPfVtw/maxresdefault_live.jpg",
+        "timestamp": 1783638000,
+        "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】GIVE ME MAGIELLE #ad",
+        "video_id": "sLOaaGPfVtw"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -61,15 +61,6 @@
         "timestamp": 1783587600,
         "title": "【 Pineapple on pizza 】昔大流行したsteamで圧倒的高評価のゲーム！？やってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "nfez0CQ-yro"
-    },
-    {
-        "channel": "https://www.youtube.com/@IsakiRiona",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/W_k60iv4xGc/maxresdefault_live.jpg",
-        "timestamp": 1783566000,
-        "title": "【定期配信＃36】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-        "video_id": "W_k60iv4xGc"
     },
     {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
@@ -133,5 +124,59 @@
         "timestamp": 1783598400,
         "title": "【#重返未来1999 】電隊伍最強人員出現了!! 3.6版本 最後にして最初の原理【#ゲーム個人勢 / Fingla】",
         "video_id": "vryVxUphTNg"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZQsjPUzhvVk/maxresdefault_live.jpg",
+        "timestamp": 1783591200,
+        "title": "【ポケモン】ホロメンがポケモンになったら？タイプ・特性・技構成を一緒に考えよう！！✨【博衣こより/ホロライブ】",
+        "video_id": "ZQsjPUzhvVk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5i7gWymsveQ/maxresdefault_live.jpg",
+        "timestamp": 1783598400,
+        "title": "【リズム天国 ミラクルスターズ】完全初見‼️しっかりリズムに乗れるのか😎⁉️【獅子神レオナ/Re:AcT】",
+        "video_id": "5i7gWymsveQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5i7gWymsveQ/maxresdefault_live.jpg",
+        "timestamp": 1783598400,
+        "title": "【リズム天国 ミラクルスターズ】完全初見‼️しっかりリズムに乗れるのか😎⁉️【獅子神レオナ/Re:AcT】",
+        "video_id": "5i7gWymsveQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@Robocosan",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UIJItl4ehCA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【飯】ランチ時間に間に合え！ごはん食べる雑談【ホロライブ/ ロボ子さん】",
+        "video_id": "UIJItl4ehCA"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YAL0OwMKtPo/maxresdefault_live.jpg",
+        "timestamp": 1783591200,
+        "title": "【 3D LIVE 】Flat Out  輪堂千速生誕祭2026 振り返り【#輪堂千速生誕祭2026 】",
+        "video_id": "YAL0OwMKtPo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Hwpxk6UZJ7s/maxresdefault_live.jpg",
+        "timestamp": 1783587600,
+        "title": "【MHWilds】Learning Bow Day 3【 iofi / hololiveID 】",
+        "video_id": "Hwpxk6UZJ7s"
     }
 ]
