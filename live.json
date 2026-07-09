@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FQ4NYEkT7iE/maxresdefault_live.jpg",
-        "timestamp": 1783558800,
+        "timestamp": null,
         "title": "【VRCHAT】biboo back we yap",
         "video_id": "FQ4NYEkT7iE"
     },
@@ -99,15 +99,6 @@
         "video_id": "Iln-OR3q1ps"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Zp8bwA3j5lU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】Hop on valo, let\u0026#39;s play together",
-        "video_id": "Zp8bwA3j5lU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,32 @@
         "timestamp": 1783612800,
         "title": "【SUPER MARIO STRIKERS】gamecube football fever!!! #kfp",
         "video_id": "u1lTnRxpQkI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JhNms3qc_IM/maxresdefault_live.jpg",
+        "timestamp": 1783648800,
+        "title": "【Street Fighter 1994 MOVIE Watchalong】 We Gonna Fight Your Streets and Sheets!",
+        "video_id": "JhNms3qc_IM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vryVxUphTNg/maxresdefault_live.jpg",
+        "timestamp": 1783598400,
+        "title": "【#重返未来1999 】電隊伍最強人員出現了!! 3.6版本 最後にして最初の原理【#ゲーム個人勢 / Fingla】",
+        "video_id": "vryVxUphTNg"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vryVxUphTNg/maxresdefault_live.jpg",
+        "timestamp": 1783598400,
+        "title": "【#重返未来1999 】電隊伍最強人員出現了!! 3.6版本 最後にして最初の原理【#ゲーム個人勢 / Fingla】",
+        "video_id": "vryVxUphTNg"
     }
 ]
