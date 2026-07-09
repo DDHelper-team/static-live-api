@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1TUyyzbCq_E/maxresdefault_live.jpg",
-        "timestamp": 1783630800,
+        "timestamp": null,
         "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】fediel i am here for you #ad",
         "video_id": "1TUyyzbCq_E"
     },
@@ -70,15 +70,6 @@
         "timestamp": 1783674000,
         "title": "【ゲスト歌枠】あなたは....かの有名な虎のッ....！！！【虎金妃笑虎】",
         "video_id": "qfGoQ_PE6hg"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RFQWEIKiXQA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【W杯同時視聴】フランス VS モロッコ戦！みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
-        "video_id": "RFQWEIKiXQA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -142,5 +133,41 @@
         "timestamp": 1783674000,
         "title": "【 ドラゴンクエストヒーローズ 闇竜と世界樹の城 】完全初見！最終回になるか⁉他の場所からきたキャラたちはどーなる⁉【鷹嶺ルイ/ホロライブ】ネタバレあり",
         "video_id": "pJeJcX12n50"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O6N5C07Wdb4/maxresdefault_live.jpg",
+        "timestamp": 1783690200,
+        "title": "#9 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
+        "video_id": "O6N5C07Wdb4"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IDrZM2V4Nz0/maxresdefault_live.jpg",
+        "timestamp": 1783710000,
+        "title": "【AFTERTALK】I WENT TO AMERICA caw caw caaaaaaw ~ SERENDIPITY!",
+        "video_id": "IDrZM2V4Nz0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/V6aaTHZoOCM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "おは言え雑談 朝からマーボー豆腐 【 #奏手イヅル 】",
+        "video_id": "V6aaTHZoOCM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eWMROQ3JEbw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【リズム天国 ミラクルスターズ】朝から天国ゾーンで【尾丸ポルカ/ホロライブ】",
+        "video_id": "eWMROQ3JEbw"
     }
 ]
