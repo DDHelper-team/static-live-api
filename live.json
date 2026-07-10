@@ -2,29 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bIwk_lo3Esw/maxresdefault_live.jpg",
-        "timestamp": 1783656000,
+        "timestamp": null,
         "title": "【崩壊：スターレイル】Ver4.4が来るまでに色々と冒険クエストや諸々に触れたい男【夕刻ロベル/ホロスターズ】",
         "video_id": "bIwk_lo3Esw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sLOaaGPfVtw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】GIVE ME MAGIELLE #ad",
-        "video_id": "sLOaaGPfVtw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JhNms3qc_IM/maxresdefault_live.jpg",
-        "timestamp": 1783648800,
-        "title": "【Street Fighter 1994 MOVIE Watchalong】 We Gonna Fight Your Streets and Sheets!",
-        "video_id": "JhNms3qc_IM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -61,15 +43,6 @@
         "timestamp": 1783674000,
         "title": "【ゲスト歌枠】あなたは....かの有名な虎のッ....！！！【虎金妃笑虎】",
         "video_id": "qfGoQ_PE6hg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dFun5at7iLU/maxresdefault_live.jpg",
-        "timestamp": 1783648800,
-        "title": "My experience in LA #holoSerendipity",
-        "video_id": "dFun5at7iLU"
     },
     {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
@@ -146,18 +119,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Yif6G-TgzBI/maxresdefault_live.jpg",
-        "timestamp": 1783648800,
+        "timestamp": null,
         "title": "【BACK FROM LA】Post concert yaps \u0026amp; behind the scenes【Dokibird】",
         "video_id": "Yif6G-TgzBI"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Yif6G-TgzBI/maxresdefault_live.jpg",
-        "timestamp": 1783648800,
+        "timestamp": null,
         "title": "【BACK FROM LA】Post concert yaps \u0026amp; behind the scenes【Dokibird】",
         "video_id": "Yif6G-TgzBI"
     },
@@ -169,5 +142,50 @@
         "timestamp": 1783731600,
         "title": "【#holoSerendipity CONCERT AFTERPARTY 雑談】los angeles adventures and concert silliness 🐾 【FUWAMOCO】",
         "video_id": "YDP2JT3gce4"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WH-qpOOauzw/maxresdefault_live.jpg",
+        "timestamp": 1783674000,
+        "title": "【ママにゲーム隠された】やーめーてー😭【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "WH-qpOOauzw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dFun5at7iLU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "My experience in LA #holoSerendipity",
+        "video_id": "dFun5at7iLU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Okv6wBhiG1o/maxresdefault_live.jpg",
+        "timestamp": 1783681200,
+        "title": "【#日本HP27周年大祭り】本日の配信は、あやふぶみでお届け致します。【ホロライブ/白上フブキ/百鬼あやめ/大神ミオ】",
+        "video_id": "Okv6wBhiG1o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JNuifWynpXo/maxresdefault_live.jpg",
+        "timestamp": 1783724400,
+        "title": "Novelknights, ROLL OUT! 【MECCHA CHAMELEON】",
+        "video_id": "JNuifWynpXo"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-FC4-xWXV34/maxresdefault_live.jpg",
+        "timestamp": 1783674000,
+        "title": "【 パワプロ2026 】実は野球好き！２年目きちゃ✨栄冠ナイン３年モードを初見プレイ⚾✨【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "-FC4-xWXV34"
     }
 ]
