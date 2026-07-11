@@ -189,15 +189,6 @@
         "video_id": "1V1pB32e2x8"
     },
     {
-        "channel": "https://www.youtube.com/@MizumiyaSu",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kl1cN2GA0OM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#10 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
-        "video_id": "kl1cN2GA0OM"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -277,5 +268,23 @@
         "timestamp": 1783854000,
         "title": "【 R.E.P.O. 】REPOやろう～～～！が！実現した！！！！【角巻わため/ホロライブ４期生】",
         "video_id": "LnaiI-rtR3Y"
+    },
+    {
+        "channel": "https://www.youtube.com/@TakaneLui",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ajQK6LLDLyk/maxresdefault_live.jpg",
+        "timestamp": 1783814400,
+        "title": "【 SAND LAND 】完全初見！ストーリーがよすぎて本当にみんなにやってほしい【鷹嶺ルイ/ホロライブ】※ネタバレあり",
+        "video_id": "ajQK6LLDLyk"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xu1_bo10Vyk/maxresdefault_live.jpg",
+        "timestamp": 1783868400,
+        "title": "【POKÉMON LEAF GREEN】Friendship ended by a crit【SOUL-LINK NUZLOCKE】",
+        "video_id": "xu1_bo10Vyk"
     }
 ]
