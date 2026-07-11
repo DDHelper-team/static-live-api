@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EFq1QjanYlk/maxresdefault_live.jpg",
-        "timestamp": 1783778400,
+        "timestamp": null,
         "title": "【Finnish Cottage Simulator】learning the basics from the local elf 🧎‍♀️",
         "video_id": "EFq1QjanYlk"
     },
@@ -279,15 +279,6 @@
         "video_id": "yb8L5lLiHhQ"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_raorapanthera",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eRbxlDpxIPc/maxresdefault_live.jpg",
-        "timestamp": 1783778400,
-        "title": "CHATTINI ASSEMBLE!",
-        "video_id": "eRbxlDpxIPc"
-    },
-    {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -297,21 +288,21 @@
         "video_id": "1V1pB32e2x8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Mpvd8DK5eHw/maxresdefault_live.jpg",
-        "timestamp": 1783778400,
-        "title": "【member\u0026#39;s only】play game. #calliolive",
-        "video_id": "Mpvd8DK5eHw"
-    },
-    {
         "channel": "https://www.youtube.com/@TokinoSora",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MIqMfWQBqe4/maxresdefault_live.jpg",
-        "timestamp": 1783778400,
+        "timestamp": null,
         "title": "【 歌枠 】久々にお歌を歌っていくのだ～！！【ホロライブ/ときのそら】",
         "video_id": "MIqMfWQBqe4"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kl1cN2GA0OM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "#10 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
+        "video_id": "kl1cN2GA0OM"
     }
 ]
