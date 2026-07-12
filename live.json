@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Xd8XBp9OMR0/maxresdefault_live.jpg",
-        "timestamp": 1783895400,
+        "timestamp": null,
         "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
         "video_id": "Xd8XBp9OMR0"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/95mK363njH0/maxresdefault_live.jpg",
-        "timestamp": 1783897200,
+        "timestamp": null,
         "title": "【RESIDENT EVIL 4】LEON, HELP.",
         "video_id": "95mK363njH0"
     },
@@ -133,5 +133,14 @@
         "timestamp": 1783949400,
         "title": "【メン限】作業雑談(OFFモードかも？)【水宮枢／ホロライブDEV_IS】",
         "video_id": "GcpmLoufi_g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/miMjXz-KkUE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【朝活】月曜日のおはよおおおおおおおおお【ホロライブ/夏色まつり】",
+        "video_id": "miMjXz-KkUE"
     }
 ]
