@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qyzJJFISCDc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP16】繼續解各種任務~~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "qyzJJFISCDc"
-    },
-    {
-        "channel": "https://www.youtube.com/@toritori1122",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qyzJJFISCDc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP16】繼續解各種任務~~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "qyzJJFISCDc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -79,15 +61,6 @@
         "timestamp": null,
         "title": "【スプラトゥーン3】スプラフェス後半！テクニック陣営で暴れる【不知火フレア/ホロライブ】",
         "video_id": "3SDYVWk4M7k"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5jU-Ln0WGWM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LOL】初心者にロルを教える w/ 水上蒼太【 奏手イヅル 】",
-        "video_id": "5jU-Ln0WGWM"
     },
     {
         "channel": "https://www.youtube.com/@KoganeiNiko",
@@ -160,5 +133,23 @@
         "timestamp": 1783893613,
         "title": "【雑談】おはよ！毎日暑いですねえ~【緋月ゆい/ネオポルテ】",
         "video_id": "bXZcsvctiTA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/h9b_NLcqa_o/maxresdefault_live.jpg",
+        "timestamp": 1783953000,
+        "title": "【三角州行動 EP17】烽火太臭了，今天來解全面任務~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "h9b_NLcqa_o"
+    },
+    {
+        "channel": "https://www.youtube.com/@toritori1122",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/h9b_NLcqa_o/maxresdefault_live.jpg",
+        "timestamp": 1783953000,
+        "title": "【三角州行動 EP17】烽火太臭了，今天來解全面任務~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "h9b_NLcqa_o"
     }
 ]
