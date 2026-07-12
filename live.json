@@ -27,24 +27,6 @@
         "video_id": "qyzJJFISCDc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-HHxj70HRe0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Granblue Fantasy: Relink - Endless Ragnarok】ENDLESS RAGNAROK IS HEREEEEEEE #PR【hololive ID | Anya】",
-        "video_id": "-HHxj70HRe0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OvVlD-NZXEU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GRANBLUE FANTASY: RELINK – ENDLESS RAGNAROK 】ready for a new oshi ! #PR",
-        "video_id": "OvVlD-NZXEU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -56,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JL9jZTdvLS0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リメイク 】ユフィ編クリアまで遊ぶ!!! | FINAL FANTASY VII REMAKE INTERGRADE【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "JL9jZTdvLS0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mCMF5irXmt8/maxresdefault_live.jpg",
+        "timestamp": 1783936800,
+        "title": "【 パワプロ2026 】初めての栄冠ナイン!! 1年目夏の甲子園決勝からスタート⚾🔥【 猫又おかゆ/ホロライブ 】#パワプロケモミミリーグ",
+        "video_id": "mCMF5irXmt8"
     },
     {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
@@ -76,7 +58,7 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xu1_bo10Vyk/maxresdefault_live.jpg",
-        "timestamp": 1783868400,
+        "timestamp": 1783872000,
         "title": "【POKÉMON LEAF GREEN】Friendship ended by a crit【SOUL-LINK NUZLOCKE】",
         "video_id": "xu1_bo10Vyk"
     },
@@ -227,9 +209,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
-        "status": null,
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5jU-Ln0WGWM/maxresdefault_live.jpg",
-        "timestamp": 1783864800,
+        "timestamp": null,
         "title": "【LOL】初心者にロルを教える w/ 水上蒼太【 奏手イヅル 】",
         "video_id": "5jU-Ln0WGWM"
     },
@@ -250,5 +232,23 @@
         "timestamp": 1783926000,
         "title": "【ShadowverseWB】大会本番第一節開幕！！！Crazy Raccoon Streamer League Shadowverse【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "E8xtVjHGD8g"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YHA-LoeSyWY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】セクシーサウナ回【周防パトラ】",
+        "video_id": "YHA-LoeSyWY"
+    },
+    {
+        "channel": "https://www.youtube.com/@AkiRosenthal",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/J44qEVCv0Gk/maxresdefault_live.jpg",
+        "timestamp": 1783953600,
+        "title": "『 #人生で一度は行きたい所』 #アキちょこナイパレ 第42回 ～ホロライブ深夜ラジオ～",
+        "video_id": "J44qEVCv0Gk"
     }
 ]
