@@ -45,15 +45,6 @@
         "video_id": "L9KTz5nvg0I"
     },
     {
-        "channel": "https://www.youtube.com/@AZKi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OJqnhcmipOw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Forza Horizon 6】AZKiと深夜のドライブ #7【ホロライブ / AZKi】",
-        "video_id": "OJqnhcmipOw"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -70,24 +61,6 @@
         "timestamp": 1783895400,
         "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
         "video_id": "Xd8XBp9OMR0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iLG2wSMolQo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【鳴潮】#4 | 完全初見！俺、なんかしちゃいました？【緋月ゆい/ネオポルテ】",
-        "video_id": "iLG2wSMolQo"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iLG2wSMolQo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【鳴潮】#4 | 完全初見！俺、なんかしちゃいました？【緋月ゆい/ネオポルテ】",
-        "video_id": "iLG2wSMolQo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -151,5 +124,41 @@
         "timestamp": 1783940400,
         "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
         "video_id": "ZfyeMto0IZc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/j980BJgDOEQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【歌枠 / karaoke】うたってけ～～！！月曜へ夜更かし / アステル",
+        "video_id": "j980BJgDOEQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/95mK363njH0/maxresdefault_live.jpg",
+        "timestamp": 1783897200,
+        "title": "【RESIDENT EVIL 4】LEON, HELP.",
+        "video_id": "95mK363njH0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bXZcsvctiTA/maxresdefault_live.jpg",
+        "timestamp": 1783893613,
+        "title": "【雑談】おはよ！毎日暑いですねえ~【緋月ゆい/ネオポルテ】",
+        "video_id": "bXZcsvctiTA"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bXZcsvctiTA/maxresdefault_live.jpg",
+        "timestamp": 1783893613,
+        "title": "【雑談】おはよ！毎日暑いですねえ~【緋月ゆい/ネオポルテ】",
+        "video_id": "bXZcsvctiTA"
     }
 ]
