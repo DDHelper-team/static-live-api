@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VtVzpN8OIrc/maxresdefault_live.jpg",
-        "timestamp": 1783915200,
+        "timestamp": null,
         "title": "【リズム天国 ミラクルスターズ】まだ見ぬリズムを求めて【夕刻ロベル/ホロスターズ】",
         "video_id": "VtVzpN8OIrc"
     },
@@ -52,15 +52,6 @@
         "timestamp": 1783940400,
         "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
         "video_id": "ZfyeMto0IZc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/95mK363njH0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RESIDENT EVIL 4】LEON, HELP.",
-        "video_id": "95mK363njH0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
@@ -106,5 +97,59 @@
         "timestamp": 1783987200,
         "title": "Don\u0026#39;t Get Ragebaited Challenge 【The Dark Pictures Anthology: Little Hope】",
         "video_id": "JDtjez4ILUw"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L0tyfLT3weo/maxresdefault_live.jpg",
+        "timestamp": 1783933200,
+        "title": "【漢字でGOGO!】漢字の書き順…で、できるもん…！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "L0tyfLT3weo"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1tVeGLok61w/maxresdefault_live.jpg",
+        "timestamp": 1783936800,
+        "title": "【 リズム天国 ミラクルスターズ 】全クリア目指して！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "1tVeGLok61w"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CsrXVi_-7S8/maxresdefault_live.jpg",
+        "timestamp": 1783976400,
+        "title": "【SENRAN KAGURA: PEACH BALL】MY BALLS!!!!!!!!!!!!!!",
+        "video_id": "CsrXVi_-7S8"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BGWWsffc9hY/maxresdefault_live.jpg",
+        "timestamp": 1783936800,
+        "title": "【Toilet8】異変が起きるトイレから脱出するゲームがヤバすぎる。【博衣こより/ホロライブ】",
+        "video_id": "BGWWsffc9hY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wMjEKK-nTw0/maxresdefault_live.jpg",
+        "timestamp": 1783933200,
+        "title": "【パワプロ2026】ガチ初見⚠初見監督に就任しました⚾#01【風真いろは/ホロライブ】",
+        "video_id": "wMjEKK-nTw0"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s1xmTZs_f0U/maxresdefault_live.jpg",
+        "timestamp": 1783933200,
+        "title": "【 耐久歌枠 】ついに５０万人耐久です🔥歌います！【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "s1xmTZs_f0U"
     }
 ]
