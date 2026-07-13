@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tuuhXnBudW8/maxresdefault_live.jpg",
-        "timestamp": 1783980000,
+        "timestamp": null,
         "title": "【 #朝こよ 】ホロアツはじまる！夏！な火曜日の朝も朝こよ！☀ #289 【博衣こより/hololive】",
         "video_id": "tuuhXnBudW8"
     },
@@ -70,5 +70,14 @@
         "timestamp": 1784035800,
         "title": "【バイオハザードRE:4】完全初見❕ホラー苦手が行く #1【水宮枢／ホロライブDEV_IS】",
         "video_id": "Tc_C2Fl_FAI"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mNt5sd3Pv7M/maxresdefault_live.jpg",
+        "timestamp": 1784034000,
+        "title": "【 Forza Horizon 6 】なんか更に運転うまくなった気がする！！！【角巻わため/ホロライブ４期生】",
+        "video_id": "mNt5sd3Pv7M"
     }
 ]
