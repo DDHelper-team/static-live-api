@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@TsunomakiWatame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/M2KF4AmP0aE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 リズム天国 ミラクルスターズ 】初！リズム天国！！！【角巻わため/ホロライブ４期生】",
-        "video_id": "M2KF4AmP0aE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -20,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CsrXVi_-7S8/maxresdefault_live.jpg",
-        "timestamp": 1783976400,
+        "timestamp": null,
         "title": "【SENRAN KAGURA: PEACH BALL】MY BALLS!!!!!!!!!!!!!!",
         "video_id": "CsrXVi_-7S8"
     },
