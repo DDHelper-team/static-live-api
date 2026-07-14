@@ -54,15 +54,6 @@
         "video_id": "akRYyULNYAc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7dkgFe3DO2c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】夏じゃん【夕刻ロベル/ホロスターズ】",
-        "video_id": "7dkgFe3DO2c"
-    },
-    {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -83,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/m22ZUGgLmTY/maxresdefault_live.jpg",
-        "timestamp": 1784012400,
+        "timestamp": null,
         "title": "【GeoGuessr】Kaelost will use her getting lost skill【KOPIKANON】",
         "video_id": "m22ZUGgLmTY"
     },
@@ -124,5 +115,32 @@
         "timestamp": 1784019600,
         "title": "【パワプロ2026】ガチ初見⚠初見監督に就任しました⚾#02【風真いろは/ホロライブ】",
         "video_id": "j0KG9lQOm7U"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AIWrwM8Kbx8/maxresdefault_live.jpg",
+        "timestamp": 1784062800,
+        "title": "【RHYTHM HEAVEN GROOVE】im p for pp murin and also perfect murin",
+        "video_id": "AIWrwM8Kbx8"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/U-1wEMI_54Q/maxresdefault_live.jpg",
+        "timestamp": 1784019600,
+        "title": "【爆弾処理 】でびちゃんなんて？ちゃんと指示して【轟はじめ/ReGLOSS】Keep Talking and Nobody Explodes",
+        "video_id": "U-1wEMI_54Q"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3DXTjIuJgik/maxresdefault_live.jpg",
+        "timestamp": 1784023200,
+        "title": "【パラノマサイト FILE23 本所七不思議】完全初見！ホラー×群像ミステリーの名作 #2【ホロライブ / AZKi】※ネタバレあり",
+        "video_id": "3DXTjIuJgik"
     }
 ]
