@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XxCsuwIyzq0/maxresdefault_live.jpg",
-        "timestamp": 1784053800,
+        "timestamp": null,
         "title": "【WATCHALONG】FRANCE vs SPAIN theres feet on the thumb bcs its FOOTball【Kiara\u0026#39;s Football Fever Frenzy】",
         "video_id": "XxCsuwIyzq0"
     },
@@ -101,47 +101,11 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/V3pZhj0lryM/maxresdefault_live.jpg",
-        "timestamp": 1784054700,
+        "timestamp": null,
         "title": "【W杯同時視聴】フランスVSスペイン！みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
         "video_id": "V3pZhj0lryM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oVzxCk7JMl0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】初めての縦型配信 #shorts 【緋月ゆい/ネオポルテ】",
-        "video_id": "oVzxCk7JMl0"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oVzxCk7JMl0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】初めての縦型配信 #shorts 【緋月ゆい/ネオポルテ】",
-        "video_id": "oVzxCk7JMl0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/h9b_NLcqa_o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP17】烽火太臭了，今天來解全面任務~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "h9b_NLcqa_o"
-    },
-    {
-        "channel": "https://www.youtube.com/@toritori1122",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/h9b_NLcqa_o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP17】烽火太臭了，今天來解全面任務~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "h9b_NLcqa_o"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -169,5 +133,14 @@
         "timestamp": 1784120400,
         "title": "#iofiCrimsonKnot , Celebrating The Red Strings Between Us",
         "video_id": "gd4O5uNxqcY"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IggsO-uhWyo/maxresdefault_live.jpg",
+        "timestamp": 1784122200,
+        "title": "【ウマ娘プリティーダービー】完全初見💙ゴールドシップ育成編【水宮枢／ホロライブDEV_IS】",
+        "video_id": "IggsO-uhWyo"
     }
 ]
