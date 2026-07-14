@@ -38,20 +38,11 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AIWrwM8Kbx8/maxresdefault_live.jpg",
-        "timestamp": 1784062800,
+        "timestamp": null,
         "title": "【RHYTHM HEAVEN GROOVE】im p for pp murin and also perfect murin",
         "video_id": "AIWrwM8Kbx8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k3XOe_eAvNs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FIFA WORLD CUP】France vs Spain【Dokibird】",
-        "video_id": "k3XOe_eAvNs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -151,5 +142,14 @@
         "timestamp": 1784120400,
         "title": "#01 【バイオハザード５】フレわたのわちゃわちゃ劇場始まるよ～【不知火フレア/ホロライブ】",
         "video_id": "wukEn7hQecs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k3XOe_eAvNs/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【FIFA WORLD CUP】France vs Spain【Dokibird】",
+        "video_id": "k3XOe_eAvNs"
     }
 ]
