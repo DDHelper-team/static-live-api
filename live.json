@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k3XOe_eAvNs/maxresdefault_live.jpg",
-        "timestamp": 1784054700,
+        "timestamp": null,
         "title": "【FIFA WORLD CUP】France vs Spain【Dokibird】",
         "video_id": "k3XOe_eAvNs"
     },
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k3XOe_eAvNs/maxresdefault_live.jpg",
-        "timestamp": 1784054700,
+        "timestamp": null,
         "title": "【FIFA WORLD CUP】France vs Spain【Dokibird】",
         "video_id": "k3XOe_eAvNs"
     },
@@ -142,5 +142,14 @@
         "timestamp": 1784122200,
         "title": "【ウマ娘プリティーダービー】完全初見💙ゴールドシップ育成編【水宮枢／ホロライブDEV_IS】",
         "video_id": "IggsO-uhWyo"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wukEn7hQecs/maxresdefault_live.jpg",
+        "timestamp": 1784120400,
+        "title": "#01 【バイオハザード５】フレわたのわちゃわちゃ劇場始まるよ～【不知火フレア/ホロライブ】",
+        "video_id": "wukEn7hQecs"
     }
 ]
