@@ -65,10 +65,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oo30IKD4dIQ/maxresdefault_live.jpg",
-        "timestamp": 1784026800,
-        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "【SAO EoA】４んだらデータ削除⁉ 初見で最高難易度＆デスゲームモードやる！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "oo30IKD4dIQ"
     },
     {
@@ -115,15 +115,6 @@
         "timestamp": 1784062800,
         "title": "【RHYTHM HEAVEN GROOVE】im p for pp murin and also perfect murin",
         "video_id": "AIWrwM8Kbx8"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U-1wEMI_54Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【爆弾処理 】でびちゃんなんて？ちゃんと指示して【轟はじめ/ReGLOSS】Keep Talking and Nobody Explodes",
-        "video_id": "U-1wEMI_54Q"
     },
     {
         "channel": "https://www.youtube.com/@AZKi",
@@ -191,10 +182,37 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/trVjmYB5z9E/maxresdefault_live.jpg",
-        "timestamp": 1784026800,
+        "timestamp": null,
         "title": "ホンモノの感覚派に驚け。あと帰国子女です（免罪符）漢字でGOGO!【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "trVjmYB5z9E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_HJHNXPPpCk/maxresdefault_live.jpg",
+        "timestamp": 1784113200,
+        "title": "【リズム天国ミラクルスターズ】リズ天マルチで遊びたいゲマズの３Dでオフコラボ！！！！　【＃リズ天ゲマズ】",
+        "video_id": "_HJHNXPPpCk"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fqo_eOR54bg/maxresdefault_live.jpg",
+        "timestamp": 1784109600,
+        "title": "【 めっちゃカメレオン 】姫と騎士で遊ぶカメレオンなのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "fqo_eOR54bg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YfoiL09_GkI/maxresdefault_live.jpg",
+        "timestamp": 1784041200,
+        "title": "‪〖 ASMR⌇KU100 〗 ごりゅ…♡じっくり奥まで♡ｲｲﾄｺをピンポイントほじくり…♡ 〖 耳かき / 綿棒 /睡眠導入 / Japanese/Vtuber〗",
+        "video_id": "YfoiL09_GkI"
     }
 ]
