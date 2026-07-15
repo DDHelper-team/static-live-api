@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k292ILWasCI/maxresdefault_live.jpg",
-        "timestamp": 1784145600,
+        "timestamp": null,
         "title": "Every Choice Matters but I Make Bad Choices! 【Tides of Tomorrow】",
         "video_id": "k292ILWasCI"
     },
@@ -160,5 +160,23 @@
         "timestamp": 1784167200,
         "title": "【HANDCAM】Howdy, let\u0026#39;s build various Pokémon",
         "video_id": "AZdh3TCV4xk"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qHGjCikuIQs/maxresdefault_live.jpg",
+        "timestamp": 1784206800,
+        "title": "#02 【バイオハザード５】フレわたのわちゃわちゃ劇場始まるよ～【不知火フレア/ホロライブ】",
+        "video_id": "qHGjCikuIQs"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-4n5BJIACzU/maxresdefault_live.jpg",
+        "timestamp": 1784206800,
+        "title": "【 バイオハザード5 】フレわたでバイオ！今日もがんばいお！！！#2【角巻わため/ホロライブ４期生】※ネタバレあり",
+        "video_id": "-4n5BJIACzU"
     }
 ]
