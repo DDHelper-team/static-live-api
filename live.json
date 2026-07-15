@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/_HJHNXPPpCk/maxresdefault_live.jpg",
-        "timestamp": 1784113200,
+        "timestamp": null,
         "title": "【リズム天国ミラクルスターズ】リズ天マルチで遊びたいゲマズの３Dでオフコラボ！！！！　【＃リズ天ゲマズ】",
         "video_id": "_HJHNXPPpCk"
     },
@@ -34,15 +34,6 @@
         "timestamp": null,
         "title": "【 めっちゃカメレオン 】姫と騎士で遊ぶカメレオンなのら！！！【姫森ルーナ/ホロライブ】",
         "video_id": "fqo_eOR54bg"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MM4_FCwmETI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ママにゲーム隠された２】やーらし！やーめーてー😭【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "MM4_FCwmETI"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -119,54 +110,36 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cIGFy32Wysg/maxresdefault_live.jpg",
-        "timestamp": 1784113200,
+        "timestamp": null,
         "title": "【 漢字でGOGO! 】奏に漢字、成立するのか・・・？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "cIGFy32Wysg"
     },
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/r3-CIwrhXHM/maxresdefault_live.jpg",
-        "timestamp": 1784113200,
+        "timestamp": null,
         "title": "【ドラゴンボールZ KAKAROT】ドラゴンボールZ カカロット-TRUNKS- 希望の戦士を初見でやるぞ！【周防パトラ】",
         "video_id": "r3-CIwrhXHM"
     },
     {
-        "channel": "https://www.youtube.com/@TokoyamiTowa",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/W5J0C10HiVM/maxresdefault_live.jpg",
-        "timestamp": 1784110500,
-        "title": "【 雑談-Freetalk- 】　#Towavel を見て元気になろ～～～のかい【常闇トワ/ホロライブ】",
-        "video_id": "W5J0C10HiVM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LY5Iui9FEuU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / karaoke】新しい歌い方を開発したいし試したい アーカイブは深淵へ / アステル",
-        "video_id": "LY5Iui9FEuU"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SJTyIVw4Vas/maxresdefault_live.jpg",
-        "timestamp": 1784115000,
+        "timestamp": null,
         "title": "鱷魚偵探 BROK｜解謎小天才又來啦【Healing希靈/VTuber】",
         "video_id": "SJTyIVw4Vas"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SJTyIVw4Vas/maxresdefault_live.jpg",
-        "timestamp": 1784115000,
+        "timestamp": null,
         "title": "鱷魚偵探 BROK｜解謎小天才又來啦【Healing希靈/VTuber】",
         "video_id": "SJTyIVw4Vas"
     },
@@ -198,15 +171,6 @@
         "video_id": "zkMZ2ZLm2yU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/IT5zPafOmmw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 漢字でGOGO! 】漢字テストいつも赤点です・・・【ホロライブ/夏色まつり】",
-        "video_id": "IT5zPafOmmw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
         "status": "LIVE",
@@ -232,5 +196,68 @@
         "timestamp": 1784141100,
         "title": "【FIFA WORLD CUP】England vs Argentina【Dokibird】",
         "video_id": "yn9_hhFoOIg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/33Ou1TPyQbw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Assassin\u0026#39;s Creed Black Flag Resynced】TO THE SEA !  ※Major Spoilers! (also guerilla stream)",
+        "video_id": "33Ou1TPyQbw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/efxmms1UeeM/maxresdefault_live.jpg",
+        "timestamp": 1784120400,
+        "title": "【リズム天国 ミラクルスターズ】さぁ～て、リズム取りますか！！【雪花ラミィ /ホロライブ】",
+        "video_id": "efxmms1UeeM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LACbKTO-Tnk/maxresdefault_live.jpg",
+        "timestamp": 1784119500,
+        "title": "【リズム天国 ミラクルスターズ】完全初見‼️リズムは片手をそえるだけ‼️【獅子神レオナ/Re:AcT】",
+        "video_id": "LACbKTO-Tnk"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LACbKTO-Tnk/maxresdefault_live.jpg",
+        "timestamp": 1784119500,
+        "title": "【リズム天国 ミラクルスターズ】完全初見‼️リズムは片手をそえるだけ‼️【獅子神レオナ/Re:AcT】",
+        "video_id": "LACbKTO-Tnk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XVj12qZVpi8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "Goose Goose Duck   / アステル with LOLを頑張っていた人達と",
+        "video_id": "XVj12qZVpi8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Wupyd6drAro/maxresdefault_live.jpg",
+        "timestamp": 1784116800,
+        "title": "【ストリートファイター6】イングリッド修行【荒咬オウガ /ホロスターズ】",
+        "video_id": "Wupyd6drAro"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bHIqFZObXVU/maxresdefault_live.jpg",
+        "timestamp": 1784120400,
+        "title": "【Toilet 8】このトイレ、異常がないかチェックします【轟はじめ/ReGLOSS】",
+        "video_id": "bHIqFZObXVU"
     }
 ]
