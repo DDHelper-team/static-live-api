@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U98ZTlMUr8s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Volcano Princess】 I AM A PROUD FATHER OF A BEAUTIFUL PRINCESS 【Kureiji Ollie】",
-        "video_id": "U98ZTlMUr8s"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -128,19 +119,19 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Js8UoHpcM-g/maxresdefault_live.jpg",
-        "timestamp": 1784098800,
+        "timestamp": null,
         "title": "【MECCHA CHAMELEON】very graondstone",
         "video_id": "Js8UoHpcM-g"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cjc7lYGNRXM/maxresdefault_live.jpg",
-        "timestamp": 1784098800,
-        "title": "【MECCHA CHAMELEON】if you see me: act nothing and just move on【Graondstone】",
+        "timestamp": null,
+        "title": "【MECCHA CHAMELEON】if you see me: say Kaela doko and just move on【Graondstone】",
         "video_id": "cjc7lYGNRXM"
     },
     {
@@ -151,5 +142,41 @@
         "timestamp": 1784120400,
         "title": "【雑談】飲食店のビックリエピソードが止まらない【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "c73XkoyaJaY"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cIGFy32Wysg/maxresdefault_live.jpg",
+        "timestamp": 1784113200,
+        "title": "【 漢字でGOGO! 】奏に漢字、成立するのか・・・？！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "cIGFy32Wysg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/r3-CIwrhXHM/maxresdefault_live.jpg",
+        "timestamp": 1784113200,
+        "title": "【ドラゴンボールZ KAKAROT】ドラゴンボールZ カカロット-TRUNKS- 希望の戦士を初見でやるぞ！【周防パトラ】",
+        "video_id": "r3-CIwrhXHM"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/W5J0C10HiVM/maxresdefault_live.jpg",
+        "timestamp": 1784109600,
+        "title": "【 雑談-Freetalk- 】　#Towavel を見て元気になろ～～～のかい【常闇トワ/ホロライブ】",
+        "video_id": "W5J0C10HiVM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LY5Iui9FEuU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【歌枠 / karaoke】新しい歌い方を開発したいし試したい アーカイブは深淵へ / アステル",
+        "video_id": "LY5Iui9FEuU"
     }
 ]
