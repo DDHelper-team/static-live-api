@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/U98ZTlMUr8s/maxresdefault_live.jpg",
-        "timestamp": 1784080800,
+        "timestamp": null,
         "title": "【Volcano Princess】 I AM A PROUD FATHER OF A BEAUTIFUL PRINCESS 【Kureiji Ollie】",
         "video_id": "U98ZTlMUr8s"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ubfmGzYjEUw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Angela and Andrew My OTP 【The Dark Pictures Anthology: Little Hope】",
-        "video_id": "ubfmGzYjEUw"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -34,15 +25,6 @@
         "timestamp": 1784116800,
         "title": "【同時視聴】Thunderbolt Fantasy 東離劍遊紀 8話から13話【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "k55r0hHXV8E"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AIWrwM8Kbx8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RHYTHM HEAVEN GROOVE】im p for pp murin and also perfect murin",
-        "video_id": "AIWrwM8Kbx8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -133,5 +115,23 @@
         "timestamp": 1784140200,
         "title": "【WATCHALONG】ARGENTINA vs ENGLAND who will win my heart!?【Kiara\u0026#39;s Football Fever Frenzy】",
         "video_id": "5m6sl1rsJXE"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qP91ub94n1w/maxresdefault_live.jpg",
+        "timestamp": 1784109600,
+        "title": "【ToHeart】完全初見！伝説のギャルゲーやってみる！心に刺さった子のEDまでいくぞ！！！【博衣こより/ホロライブ】",
+        "video_id": "qP91ub94n1w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Js8UoHpcM-g/maxresdefault_live.jpg",
+        "timestamp": 1784098800,
+        "title": "【MECCHA CHAMELEON】very graondstone",
+        "video_id": "Js8UoHpcM-g"
     }
 ]
