@@ -56,19 +56,19 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/fzgROJKzDWM/maxresdefault_live.jpg",
-        "timestamp": 1784163600,
-        "title": "【CAT MAIL CO.】canada post is not strike anymore【Dokibird】",
+        "timestamp": null,
+        "title": "【CAT MAIL CO.】canada post is not on strike anymore【Dokibird】",
         "video_id": "fzgROJKzDWM"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/fzgROJKzDWM/maxresdefault_live.jpg",
-        "timestamp": 1784163600,
-        "title": "【CAT MAIL CO.】canada post is not strike anymore【Dokibird】",
+        "timestamp": null,
+        "title": "【CAT MAIL CO.】canada post is not on strike anymore【Dokibird】",
         "video_id": "fzgROJKzDWM"
     },
     {
@@ -90,15 +90,6 @@
         "video_id": "EoIp7g2zaYc"
     },
     {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tAuO02alTRQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活/FreeTalk】みんないってらっしゃい！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "tAuO02alTRQ"
-    },
-    {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,15 +97,6 @@
         "timestamp": 1784170800,
         "title": "【定期配信＃37】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
         "video_id": "2fI8F6BDjw4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/k292ILWasCI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Every Choice Matters but I Make Bad Choices! 【Tides of Tomorrow】",
-        "video_id": "k292ILWasCI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -178,5 +160,23 @@
         "timestamp": 1784203200,
         "title": "#1【初見】『コードギアス 反逆のルルーシュR2』同時視聴【ホロライブ/兎田ぺこら】",
         "video_id": "MqBUOKnETIQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/90q2gS7OOPo/maxresdefault_live.jpg",
+        "timestamp": 1784250000,
+        "title": "【CAFE CREW SIMULATOR】moco-chan that\u0026#39;s decaf what are you doing 🐾 【FUWAMOCO】",
+        "video_id": "90q2gS7OOPo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zABLEHgW6mg/maxresdefault_live.jpg",
+        "timestamp": 1784250000,
+        "title": "We Can Spare You 7 Minutes 【Resident Evil 5】 SPOILERS",
+        "video_id": "zABLEHgW6mg"
     }
 ]
