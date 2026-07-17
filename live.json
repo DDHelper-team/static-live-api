@@ -99,15 +99,6 @@
         "video_id": "g4wI7cQxHeo"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kw7LZBnVAGY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Managing My Own Thrift Shop【Thrifty Business】",
-        "video_id": "kw7LZBnVAGY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -151,5 +142,32 @@
         "timestamp": 1784372400,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #01 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "iDr2jH8E96Q"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lTqm2I7Tlg0/maxresdefault_live.jpg",
+        "timestamp": 1784340000,
+        "title": "【アソビ大全】ホロヒットアンドブローの練習！初めてのヒットアンドブロー！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "lTqm2I7Tlg0"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_EjepvKb_NU/maxresdefault_live.jpg",
+        "timestamp": 1784379600,
+        "title": "【 バイオハザード5 】フレわたでバイオ！なんかやばいお！！！#3【角巻わため/ホロライブ４期生】※ネタバレあり",
+        "video_id": "_EjepvKb_NU"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/R4Eh-yOjP9k/maxresdefault_live.jpg",
+        "timestamp": 1784381400,
+        "title": "【漢字でGOGO！】怖いだろ…俺も怖い【水宮枢／ホロライブDEV_IS】",
+        "video_id": "R4Eh-yOjP9k"
     }
 ]
