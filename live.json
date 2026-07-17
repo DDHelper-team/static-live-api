@@ -65,38 +65,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/90q2gS7OOPo/maxresdefault_live.jpg",
-        "timestamp": 1784250000,
+        "timestamp": null,
         "title": "【CAFE CREW SIMULATOR】moco-chan that\u0026#39;s decaf what are you doing 🐾 【FUWAMOCO】",
         "video_id": "90q2gS7OOPo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zABLEHgW6mg/maxresdefault_live.jpg",
-        "timestamp": 1784250000,
+        "timestamp": null,
         "title": "We Can Spare You 7 Minutes 【Resident Evil 5】 SPOILERS",
         "video_id": "zABLEHgW6mg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5_Ar3a8cLHk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HAPPY\u0026#39;S HUMBLE BURGER CULT】The Sloppies franchise expands【Dokibird】",
-        "video_id": "5_Ar3a8cLHk"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5_Ar3a8cLHk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HAPPY\u0026#39;S HUMBLE BURGER CULT】The Sloppies franchise expands【Dokibird】",
-        "video_id": "5_Ar3a8cLHk"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -153,15 +135,6 @@
         "video_id": "0QSaFWwEJiQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/x8Rb7HSe320/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Rhythm Heaven Groove】It\u0026#39;s Time to Groove It Groove It",
-        "video_id": "x8Rb7HSe320"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -191,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7r6krp31ZsI/maxresdefault_live.jpg",
-        "timestamp": 1784250000,
+        "timestamp": null,
         "title": "【Resident Evil 5】together we pew pew ※SPOILERS",
         "video_id": "7r6krp31ZsI"
     },
@@ -223,5 +196,14 @@
         "timestamp": 1784300400,
         "title": "【FINAL FANTASY VII REMAKE】I AM DOWN BAD FOR JESSIE HELP #kfp #キアライブ (spoiler warning)",
         "video_id": "vi5agHvsVAw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/acw6TfRZxKA/maxresdefault_live.jpg",
+        "timestamp": 1784302200,
+        "title": "【KU100/ASMR】ぐっぽり包み込まれて満たされる♡耳はむと心地良い耳塞ぎの圧で絶頂睡眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "acw6TfRZxKA"
     }
 ]
