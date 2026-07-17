@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7H3S3pyL92o/maxresdefault_live.jpg",
-        "timestamp": 1784329200,
+        "timestamp": null,
         "title": "Korean Snacks 1st Impressions! 【Handcam】",
         "video_id": "7H3S3pyL92o"
     },
@@ -65,11 +65,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vi5agHvsVAw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FINAL FANTASY VII REMAKE】I AM DOWN BAD FOR JESSIE HELP #kfp #キアライブ (spoiler warning)",
-        "video_id": "vi5agHvsVAw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/50EgoYEMwqY/maxresdefault_live.jpg",
+        "timestamp": 1784386800,
+        "title": "【POKÉMON FIRE RED】smooth sailing on S.S. Anne!!!【SOUL-LINK NUZLOCKE】",
+        "video_id": "50EgoYEMwqY"
     },
     {
         "channel": "https://www.youtube.com/@KoganeiNiko",
@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/weRaXfBiIqs/maxresdefault_live.jpg",
-        "timestamp": 1784329200,
+        "timestamp": null,
         "title": "【RESIDENT EVIL 4】Inventory management with a side of combat",
         "video_id": "weRaXfBiIqs"
     },
@@ -160,5 +160,14 @@
         "timestamp": 1784343600,
         "title": "【 SAND LAND 】完全初見！のんびりメカをいじってストーリーを楽しみます☺【鷹嶺ルイ/ホロライブ】※ネタバレあり",
         "video_id": "gIIBb-3_JnM"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ft5ERZtJSr0/maxresdefault_live.jpg",
+        "timestamp": 1784386800,
+        "title": "【POKÉMON LEAF GREEN】our Pokémon are in a long distance relationship【SOUL-LINK NUZLOCKE】",
+        "video_id": "Ft5ERZtJSr0"
     }
 ]
