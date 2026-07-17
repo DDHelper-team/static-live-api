@@ -74,11 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zABLEHgW6mg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "We Can Spare You 7 Minutes 【Resident Evil 5】 SPOILERS",
-        "video_id": "zABLEHgW6mg"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7H3S3pyL92o/maxresdefault_live.jpg",
+        "timestamp": 1784329200,
+        "title": "Korean Snacks 1st Impressions! 【Handcam】",
+        "video_id": "7H3S3pyL92o"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FFO4v5eaOn8/maxresdefault_live.jpg",
-        "timestamp": 1784260800,
+        "timestamp": null,
         "title": "【パワプロ2026】栄冠ナイン3年目夏の甲子園～　夏制覇を目指して【夕刻ロベル/ホロスターズ】",
         "video_id": "FFO4v5eaOn8"
     },
@@ -162,15 +162,6 @@
         "video_id": "XncWK4UO6jY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7r6krp31ZsI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Resident Evil 5】together we pew pew ※SPOILERS",
-        "video_id": "7r6krp31ZsI"
-    },
-    {
         "channel": "https://www.youtube.com/@ShiranuiFlare",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +196,32 @@
         "timestamp": 1784302200,
         "title": "【KU100/ASMR】ぐっぽり包み込まれて満たされる♡耳はむと心地良い耳塞ぎの圧で絶頂睡眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "acw6TfRZxKA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_T1NjJnD8dc/maxresdefault_live.jpg",
+        "timestamp": 1784282400,
+        "title": "トイレ８みたいなやつ",
+        "video_id": "_T1NjJnD8dc"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/50pKtP2YtAo/maxresdefault_live.jpg",
+        "timestamp": 1784278800,
+        "title": "【FORK ROAD】ソロ３D！クリアできたら告知するんや・・・！【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "50pKtP2YtAo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_RboFlDMwbM/maxresdefault_live.jpg",
+        "timestamp": 1784282400,
+        "title": "【#あずいろ食堂】冷やし中華はじめました。【風真いろは/ホロライブ】",
+        "video_id": "_RboFlDMwbM"
     }
 ]
