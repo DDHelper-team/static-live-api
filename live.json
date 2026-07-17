@@ -108,15 +108,6 @@
         "video_id": "6vXkExxaeGg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/FFO4v5eaOn8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パワプロ2026】栄冠ナイン3年目夏の甲子園～　夏制覇を目指して【夕刻ロベル/ホロスターズ】",
-        "video_id": "FFO4v5eaOn8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -241,5 +232,23 @@
         "timestamp": 1784291400,
         "title": "【#惡靈古堡4重製版 】惡靈古堡Chp3開始~? 初見遊玩！嚴禁暴雷【#ゲーム個人勢 / Fingla】",
         "video_id": "nue5jx7aR_E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cY6vshTBiZM/maxresdefault_live.jpg",
+        "timestamp": 1784293200,
+        "title": "【R.E.P.O.】本日のREPO会場です。#ホロREPO【hololive ID 2nd Generation | Anya Melfissa】",
+        "video_id": "cY6vshTBiZM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lMsIeYcm_40/maxresdefault_live.jpg",
+        "timestamp": 1784295000,
+        "title": "【MECCHA CHAMELEON】PLAYING WITH KOBOLONIMBUSSSS",
+        "video_id": "lMsIeYcm_40"
     }
 ]
