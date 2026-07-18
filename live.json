@@ -47,20 +47,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/50EgoYEMwqY/maxresdefault_live.jpg",
-        "timestamp": 1784386800,
+        "timestamp": null,
         "title": "【POKÉMON FIRE RED】smooth sailing on S.S. Anne!!!【SOUL-LINK NUZLOCKE】",
         "video_id": "50EgoYEMwqY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iDr2jH8E96Q/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リバース 】みんなと冒険だああ!! #01 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "iDr2jH8E96Q"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BvwRaf317yw/maxresdefault_live.jpg",
+        "timestamp": 1784458800,
+        "title": "【 FF7リバース 】みんなと冒険だああ!! #02 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "BvwRaf317yw"
     },
     {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ft5ERZtJSr0/maxresdefault_live.jpg",
-        "timestamp": 1784386800,
+        "timestamp": null,
         "title": "【POKÉMON LEAF GREEN】our Pokémon are in a long distance relationship【SOUL-LINK NUZLOCKE】",
         "video_id": "Ft5ERZtJSr0"
     },
@@ -182,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uLD1BWMdqD8/maxresdefault_live.jpg",
-        "timestamp": 1784386800,
+        "timestamp": null,
         "title": "‪〖 ASMR⌇whisper 〗ﾃｺﾃｺ…♡ﾄｺﾄｺ…♡快感テンポで心も身体も“ちゅ〜どく“にしてあげる…♡ 〖 タッピング /囁き / リアル感 / Vtuber〗",
         "video_id": "uLD1BWMdqD8"
     },
@@ -200,11 +200,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-ftoppTes5I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SENRAN KAGURA Bon Appétit! - Full Course】 SERVING!! LEAVING NO CRUMBS 【Kureiji Ollie】",
-        "video_id": "-ftoppTes5I"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cGrzxm0YDIU/maxresdefault_live.jpg",
+        "timestamp": 1784426400,
+        "title": "【Supermarket Chaos】 THIS SUPERMARKET NEEDS SOME CLEANING 【Kureiji Ollie】",
+        "video_id": "cGrzxm0YDIU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
@@ -358,5 +358,14 @@
         "timestamp": 1784422800,
         "title": "【朝活雑談】5日間ほど寝込んでいたら地下室が水浸しになっていた―――――【白銀ノエル/ホロライブ】",
         "video_id": "gHEHGPkuzq4"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/o7RYaxvHgT0/maxresdefault_live.jpg",
+        "timestamp": 1784407500,
+        "title": "【W杯同時視聴】フランスVSイングランド！みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
+        "video_id": "o7RYaxvHgT0"
     }
 ]
