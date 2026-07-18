@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ETQGZM6j_ds/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#めっちゃカメレオン   】参加型！みんなでかくれんぼしよう！【#TanZ 】",
-        "video_id": "ETQGZM6j_ds"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ETQGZM6j_ds/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#めっちゃカメレオン   】参加型！みんなでかくれんぼしよう！【#TanZ 】",
-        "video_id": "ETQGZM6j_ds"
-    },
-    {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,15 +106,6 @@
         "timestamp": 1784426400,
         "title": "【NEW OUTFIT REVEAL】Pajama update #DokiSleepoverEpisode【Dokibird】",
         "video_id": "O_RmVV2ark0"
-    },
-    {
-        "channel": "https://www.youtube.com/@AZKi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ib3NChHFzXU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パラノマサイト FILE23 本所七不思議】完全初見！ホラー×群像ミステリーの名作 #4【ホロライブ / AZKi】※ネタバレあり",
-        "video_id": "ib3NChHFzXU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
@@ -254,11 +227,11 @@
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/T_YSC5b_4Mk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【F1同時視聴】ベルギーGP予選！スパきちゃ～～【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "T_YSC5b_4Mk"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rM5RsZeekSQ/maxresdefault_live.jpg",
+        "timestamp": 1784464200,
+        "title": "【F1同時視聴】ベルギーGP！スパ決勝だよ～！ 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "rM5RsZeekSQ"
     },
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
@@ -315,15 +288,6 @@
         "video_id": "j0p24Q3KOTg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Kbjw6-L5NMU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【007 First Light】Final Chapter! Agent Reine\u0026#39;s Homestretch Haste【Pavolia Reine/holoID gen 2】",
-        "video_id": "Kbjw6-L5NMU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
         "platform": "youtube",
         "status": "LIVE",
@@ -367,5 +331,23 @@
         "timestamp": 1784407500,
         "title": "【W杯同時視聴】フランスVSイングランド！みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
         "video_id": "o7RYaxvHgT0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z4LX4V8qKW4/maxresdefault_live.jpg",
+        "timestamp": 1784455200,
+        "title": "【パワプロ2026】2年目春！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
+        "video_id": "Z4LX4V8qKW4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oGh_iVLUaOs/maxresdefault_live.jpg",
+        "timestamp": 1784433600,
+        "title": "【機動戦士ガンダム 連邦VS.ジオンDX】伝説の神ゲーを最後まで！僕が一番ガンダムをうまく使えるんだ！【周防パトラ】",
+        "video_id": "oGh_iVLUaOs"
     }
 ]
