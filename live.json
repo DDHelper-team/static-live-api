@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dIlgbmoT7og/maxresdefault_live.jpg",
-        "timestamp": 1784406600,
+        "timestamp": null,
         "title": "【WATCHALONG】FRANCE vs ENGLAND 3rd place fight!!! COME ON BOYS【Kiara\u0026#39;s Football Fever Frenzy】",
         "video_id": "dIlgbmoT7og"
     },
@@ -133,24 +133,6 @@
         "timestamp": 1784453400,
         "title": "【 #アプ盛夏歌リレー 】夏が一番似合う獅子‼みんなで盛り上がろう🏖【 獅子神レオナ/Re:AcT】",
         "video_id": "ms5FG0s1bI0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MZkd3tV2U7A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VCR RUST3】失礼いたします。【緋月ゆい/ネオポルテ】",
-        "video_id": "MZkd3tV2U7A"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MZkd3tV2U7A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VCR RUST3】失礼いたします。【緋月ゆい/ネオポルテ】",
-        "video_id": "MZkd3tV2U7A"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -279,15 +261,6 @@
         "video_id": "oGh_iVLUaOs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PKkCfAdjUc0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "MIDNIGHT ELSWORD",
-        "video_id": "PKkCfAdjUc0"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -304,5 +277,14 @@
         "timestamp": 1784466000,
         "title": "【 SOUND VOLTEX 】フレわた！お泊まりオフコラボ！初心者なので教えてもらう🎶【角巻わため/ホロライブ４期生】",
         "video_id": "CvvFr_1dAeU"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_erbloodflame",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OP7IsdeTqFk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【UNARCHIVED KARAOKE】WOooooooooooooooooooooo ~! 💄",
+        "video_id": "OP7IsdeTqFk"
     }
 ]
