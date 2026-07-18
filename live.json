@@ -155,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JnKkXB_M4Q0/maxresdefault_live.jpg",
-        "timestamp": 1784350800,
+        "timestamp": null,
         "title": "ガチャいくぞ！！！遊戯王 マスターデュエル パーク2 【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "JnKkXB_M4Q0"
     },
@@ -180,15 +180,6 @@
         "video_id": "O_RmVV2ark0"
     },
     {
-        "channel": "https://www.youtube.com/@Robocosan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/L5nK21y1cp0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 カメラ付き】パンケーキ一人で作れるもん！（初めて）【ホロライブ/ ロボ子さん 】",
-        "video_id": "L5nK21y1cp0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -196,5 +187,32 @@
         "timestamp": null,
         "title": "【パワプロ2026】ガチ初見⚠初見監督に就任しました⚾#03【風真いろは/ホロライブ】",
         "video_id": "5I5Z2Peergk"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ib3NChHFzXU/maxresdefault_live.jpg",
+        "timestamp": 1784376000,
+        "title": "【パラノマサイト FILE23 本所七不思議】完全初見！ホラー×群像ミステリーの名作 #4【ホロライブ / AZKi】※ネタバレあり",
+        "video_id": "ib3NChHFzXU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OIDa7VKvn5s/maxresdefault_live.jpg",
+        "timestamp": 1784361600,
+        "title": "【#惡靈古堡4重製版 】惡靈古堡Chp8開始！Ashley還我刀呀~~初見遊玩！嚴禁暴雷【#ゲーム個人勢 / Fingla】",
+        "video_id": "OIDa7VKvn5s"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OIDa7VKvn5s/maxresdefault_live.jpg",
+        "timestamp": 1784361600,
+        "title": "【#惡靈古堡4重製版 】惡靈古堡Chp8開始！Ashley還我刀呀~~初見遊玩！嚴禁暴雷【#ゲーム個人勢 / Fingla】",
+        "video_id": "OIDa7VKvn5s"
     }
 ]
