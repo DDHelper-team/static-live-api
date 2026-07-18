@@ -56,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/@KoganeiNiko",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/T8kjLCg0seM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朗読ASMR】大好きな斉木楠雄のΨ難の小説を⁈大切に朗読させて頂きます【虎金妃笑虎】",
-        "video_id": "T8kjLCg0seM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/t1zcvrAIizw/maxresdefault_live.jpg",
+        "timestamp": 1784374200,
+        "title": "【重大告知】重大ということは、重くて大きいということです【虎金妃笑虎】",
+        "video_id": "t1zcvrAIizw"
     },
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
@@ -191,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yX35RplMxEE/maxresdefault_live.jpg",
-        "timestamp": 1784371500,
+        "timestamp": null,
         "title": "【ストリートファイター6】イングリッド祭り顔合わせ【荒咬オウガ /ホロスターズ】",
         "video_id": "yX35RplMxEE"
     },
@@ -243,24 +243,6 @@
         "video_id": "-ftoppTes5I"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fYfHesBXnUo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Full Stride】ジョッキー体験に来ました🏇【緋月ゆい/ネオポルテ】",
-        "video_id": "fYfHesBXnUo"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fYfHesBXnUo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Full Stride】ジョッキー体験に来ました🏇【緋月ゆい/ネオポルテ】",
-        "video_id": "fYfHesBXnUo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -277,5 +259,50 @@
         "timestamp": 1784408400,
         "title": "【Arknights: Endfield】New Update Time!!!! Arcane....!!!!",
         "video_id": "xagdRKOPehw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/esvKPneheus/maxresdefault_live.jpg",
+        "timestamp": 1784372400,
+        "title": "【Trees Hate You】ragebait",
+        "video_id": "esvKPneheus"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ms5FG0s1bI0/maxresdefault_live.jpg",
+        "timestamp": 1784453400,
+        "title": "【 #アプ盛夏歌リレー 】夏が一番似合う獅子‼みんなで盛り上がろう🏖【 獅子神レオナ/Re:AcT】",
+        "video_id": "ms5FG0s1bI0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ms5FG0s1bI0/maxresdefault_live.jpg",
+        "timestamp": 1784453400,
+        "title": "【 #アプ盛夏歌リレー 】夏が一番似合う獅子‼みんなで盛り上がろう🏖【 獅子神レオナ/Re:AcT】",
+        "video_id": "ms5FG0s1bI0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MZkd3tV2U7A/maxresdefault_live.jpg",
+        "timestamp": 1784374249,
+        "title": "【VCR RUST3】失礼いたします。【緋月ゆい/ネオポルテ】",
+        "video_id": "MZkd3tV2U7A"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MZkd3tV2U7A/maxresdefault_live.jpg",
+        "timestamp": 1784374249,
+        "title": "【VCR RUST3】失礼いたします。【緋月ゆい/ネオポルテ】",
+        "video_id": "MZkd3tV2U7A"
     }
 ]
