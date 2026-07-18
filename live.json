@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/50EgoYEMwqY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【POKÉMON FIRE RED】smooth sailing on S.S. Anne!!!【SOUL-LINK NUZLOCKE】",
-        "video_id": "50EgoYEMwqY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dIlgbmoT7og/maxresdefault_live.jpg",
+        "timestamp": 1784406600,
+        "title": "【WATCHALONG】FRANCE vs ENGLAND 3rd place fight!!! COME ON BOYS【Kiara\u0026#39;s Football Fever Frenzy】",
+        "video_id": "dIlgbmoT7og"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -43,15 +43,6 @@
         "timestamp": 1784458800,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #02 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "BvwRaf317yw"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_raorapanthera",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ft5ERZtJSr0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【POKÉMON LEAF GREEN】our Pokémon are in a long distance relationship【SOUL-LINK NUZLOCKE】",
-        "video_id": "Ft5ERZtJSr0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -97,15 +88,6 @@
         "timestamp": 1784458800,
         "title": "【ホロカ】第２回　偽造ホロカで絶対勝てるカード造る　【ホロライブ/白上フブキ】",
         "video_id": "YhRutOwvbdc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uhxVPss76HI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【The Headliners】the journey of being the worthy reporters【#PemaloeMonth2026】",
-        "video_id": "uhxVPss76HI"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -313,5 +295,14 @@
         "timestamp": 1784467800,
         "title": "#11 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
         "video_id": "JmoAUjMi8W8"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CvvFr_1dAeU/maxresdefault_live.jpg",
+        "timestamp": 1784466000,
+        "title": "【 SOUND VOLTEX 】フレわた！お泊まりオフコラボ！初心者なので教えてもらう🎶【角巻わため/ホロライブ４期生】",
+        "video_id": "CvvFr_1dAeU"
     }
 ]
