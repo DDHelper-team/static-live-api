@@ -36,15 +36,6 @@
         "video_id": "JmoAUjMi8W8"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_raorapanthera",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/L5yPy0tvG4U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPAGHET】AN ITALIAN’S WORST NIGHTMARE",
-        "video_id": "L5yPy0tvG4U"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -61,15 +52,6 @@
         "timestamp": null,
         "title": "【パラノマサイト FILE23 本所七不思議】最終回！？完全初見！ホラー×群像ミステリーの名作 #5【ホロライブ / AZKi】※ネタバレあり",
         "video_id": "2i3W-KPmgpM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5Tkqbnfrado/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "風真いろはの #ねるまえらじお 📻❣ #17",
-        "video_id": "5Tkqbnfrado"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -135,15 +117,6 @@
         "video_id": "eTBtJQYbluI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/j66xUx6GW80/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LOL】LOL将軍！本番！ メイカ軍との戦い【 奏手イヅル 】",
-        "video_id": "j66xUx6GW80"
-    },
-    {
         "channel": "https://www.youtube.com/@KoganeiNiko",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -189,15 +162,6 @@
         "video_id": "mX-h2aXC6n0"
     },
     {
-        "channel": "https://www.youtube.com/@Patra_Suou",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/axFCgmyjAZc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】色気のすごいお姉さんと海で・・・♡【周防パトラ】",
-        "video_id": "axFCgmyjAZc"
-    },
-    {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -212,7 +176,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1784476934.3214602
+        "timestamp": 1784481258.2755759,
+        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/心音/梵天/耳はむ】"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -231,5 +196,14 @@
         "timestamp": null,
         "title": "Elsword dulu sambil nunggu final pildun dunia",
         "video_id": "XoaCDu4m-DE"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uLPde1oSN7E/maxresdefault_live.jpg",
+        "timestamp": 1784520000,
+        "title": "【ドラゴンボールZ KAKAROT】ドラゴンボールZ カカロット-TRUNKS- 希望の戦士を初見でやるぞ！【周防パトラ】",
+        "video_id": "uLPde1oSN7E"
     }
 ]
