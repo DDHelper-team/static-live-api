@@ -45,15 +45,6 @@
         "video_id": "Ljy_BzWQ5g4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/N-dp-18PlWY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "VCR RUST  出会いと探索  / アステル",
-        "video_id": "N-dp-18PlWY"
-    },
-    {
         "channel": "https://www.youtube.com/@Robocosan",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +133,23 @@
         "timestamp": 1784525400,
         "title": "【スーパーマリオブラザーズ】完全初見🍄キレたら即終了初代マリオ【水宮枢／ホロライブDEV_IS】",
         "video_id": "PffaFW7_9Oc"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yXOL28x-pIs/maxresdefault_live.jpg",
+        "timestamp": 1784523600,
+        "title": "【漢字でGOGO!】まあ・・理系だったんで・・！？仕方ないというか！？(´;ω;｀)【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "yXOL28x-pIs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1fNUN8pC9PA/maxresdefault_live.jpg",
+        "timestamp": 1784577600,
+        "title": "Coming to a Station Near You! 【Denshattack!】",
+        "video_id": "1fNUN8pC9PA"
     }
 ]
