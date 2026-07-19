@@ -45,29 +45,11 @@
         "video_id": "hIDrJm8mEP8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Uw4zKfksSJY/maxresdefault_live.jpg",
-        "timestamp": 1784499300,
-        "title": "【SPECIAL ANNOUNCEMENT】Our Korea secret is finally out【Dokibird】",
-        "video_id": "Uw4zKfksSJY"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Uw4zKfksSJY/maxresdefault_live.jpg",
-        "timestamp": 1784499300,
-        "title": "【SPECIAL ANNOUNCEMENT】Our Korea secret is finally out【Dokibird】",
-        "video_id": "Uw4zKfksSJY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/blOYZmBKAxc/maxresdefault_live.jpg",
-        "timestamp": 1784500200,
+        "timestamp": null,
         "title": "【#朝ミオ 】夏だ！あちー！月曜日だよ～！おはみぉーん！",
         "video_id": "blOYZmBKAxc"
     },
@@ -79,15 +61,6 @@
         "timestamp": 1784512800,
         "title": "【漢字でGOGO!】みんなの知らない「ガチ」の世界。1時間でクリアできるか！？？？【博衣こより/ホロライブ】",
         "video_id": "mX-h2aXC6n0"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uLLEvHdXYw4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【W杯同時視聴】決勝！スペインVSアルゼンチン！ぺこヴィヴィで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
-        "video_id": "uLLEvHdXYw4"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -142,5 +115,32 @@
         "timestamp": null,
         "title": "【UNARCHIVED】KARAOKE PARTY AFTER THE BIG FINALE! #kfp",
         "video_id": "vevJMpC6Pvc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Uw4zKfksSJY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【SPECIAL ANNOUNCEMENT】Our Korea secret is finally out【Dokibird】",
+        "video_id": "Uw4zKfksSJY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Uw4zKfksSJY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【SPECIAL ANNOUNCEMENT】Our Korea secret is finally out【Dokibird】",
+        "video_id": "Uw4zKfksSJY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/B6E5B3uM2O8/maxresdefault_live.jpg",
+        "timestamp": 1784548800,
+        "title": "【＃兎田ぺこら新衣装】1000年に一度の可愛すぎる新衣装お披露目するよおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "B6E5B3uM2O8"
     }
 ]
