@@ -9,15 +9,6 @@
         "video_id": "Ws9IXS3PMWY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BvwRaf317yw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リバース 】みんなと冒険だああ!! #02 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "BvwRaf317yw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -25,24 +16,6 @@
         "timestamp": 1784545200,
         "title": "【パワプロ2026】王立天狐学園１年目春🌽春の甲子園二回戦  #パワプロケモミミリーグ【ホロライブ/白上フブキ】",
         "video_id": "mnUY43lz0rw"
-    },
-    {
-        "channel": "https://www.youtube.com/@RindoChihaya",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rM5RsZeekSQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【F1同時視聴】ベルギーGP！スパ決勝だよ～！ 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "rM5RsZeekSQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShishiroBotan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/j0p24Q3KOTg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "T4Uをねぽらぼと一緒に同時視聴しよ！－アベマでホロライブ 真夏のウォッチパーティー！ホロライブ5th Generation Live \u0026quot;Twinkle 4 You\u0026quot;【#ねぽらぼ / ホロライブ】",
-        "video_id": "j0p24Q3KOTg"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -61,15 +34,6 @@
         "timestamp": null,
         "title": "#11 【JUDGE EYES：死神の遺言 】完全シリーズ初見！※ネタバレあり【水宮枢／ホロライブDEV_IS】",
         "video_id": "JmoAUjMi8W8"
-    },
-    {
-        "channel": "https://www.youtube.com/@TsunomakiWatame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CvvFr_1dAeU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 SOUND VOLTEX 】フレわた！お泊まりオフコラボ！初心者なので教えてもらう🎶【角巻わため/ホロライブ４期生】",
-        "video_id": "CvvFr_1dAeU"
     },
     {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
@@ -101,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5Tkqbnfrado/maxresdefault_live.jpg",
-        "timestamp": 1784475000,
+        "timestamp": null,
         "title": "風真いろはの #ねるまえらじお 📻❣ #17",
         "video_id": "5Tkqbnfrado"
     },
@@ -248,7 +212,24 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1784473844.6493478,
-        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/心音/梵天/耳はむ】"
+        "timestamp": 1784476934.3214602
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zKbFwnV9mTk/maxresdefault_live.jpg",
+        "timestamp": 1784516400,
+        "title": "【ガンプラ/カメラあり】バンシィ・ノルン！！！！！！つくっていく！ 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "zKbFwnV9mTk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XoaCDu4m-DE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "Elsword dulu sambil nunggu final pildun dunia",
+        "video_id": "XoaCDu4m-DE"
     }
 ]
