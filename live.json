@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cMG3sWa8s4s/maxresdefault_live.jpg",
-        "timestamp": 1784421900,
+        "timestamp": null,
         "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 2【荒咬オウガ /ホロスターズ】",
         "video_id": "cMG3sWa8s4s"
     },
@@ -88,15 +88,6 @@
         "timestamp": 1784426400,
         "title": "【Supermarket Chaos】 THIS SUPERMARKET NEEDS SOME CLEANING 【Kureiji Ollie】",
         "video_id": "cGrzxm0YDIU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xagdRKOPehw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Arknights: Endfield】New Update Time!!!! Arcane....!!!!",
-        "video_id": "xagdRKOPehw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
@@ -198,15 +189,6 @@
         "video_id": "gHEHGPkuzq4"
     },
     {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/o7RYaxvHgT0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【W杯同時視聴】フランスVSイングランド！みんなで応援するぞおおおおお【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW 】",
-        "video_id": "o7RYaxvHgT0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -246,10 +228,10 @@
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1rK3fl8mA2E/maxresdefault_live.jpg",
-        "timestamp": 1784419200,
-        "title": "【 SAND LAND 】完全初見！朝からチルいSAND LAND楽しむ。ベルゼのお姉ちゃん!?【鷹嶺ルイ/ホロライブ】※ネタバレあり",
-        "video_id": "1rK3fl8mA2E"
+        "thumbnail": "https://i.ytimg.com/vi/X12XQFGohQ4/maxresdefault_live.jpg",
+        "timestamp": 1784437200,
+        "title": "【 小倉記念＆函館2歳S 】ここらでドカンと的中したいですね・・・！！【鷹嶺ルイ/ホロライブ】",
+        "video_id": "X12XQFGohQ4"
     },
     {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
@@ -268,5 +250,14 @@
         "timestamp": 1784426400,
         "title": "【member\u0026#39;s only】catching up cuz it\u0026#39;s been a million years #calliolive",
         "video_id": "7cq2y8Ltoys"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0msmZ4rK4k4/maxresdefault_live.jpg",
+        "timestamp": 1784485800,
+        "title": "【WATCHALONG】THE FINALE: Argentina VS Spain with @essiech ! ✨【Kiara\u0026#39;s Football Fever Frenzy】",
+        "video_id": "0msmZ4rK4k4"
     }
 ]
