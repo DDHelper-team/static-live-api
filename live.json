@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ws9IXS3PMWY/maxresdefault_live.jpg",
-        "timestamp": 1784509200,
+        "timestamp": null,
         "title": "【SUPERCHAT READING】comfy cozy silly chatting and some (inevitably) weird stories 🐾 【FUWAMOCO】",
         "video_id": "Ws9IXS3PMWY"
     },
@@ -43,15 +43,6 @@
         "timestamp": 1784541600,
         "title": "６",
         "video_id": "hIDrJm8mEP8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/blOYZmBKAxc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#朝ミオ 】夏だ！あちー！月曜日だよ～！おはみぉーん！",
-        "video_id": "blOYZmBKAxc"
     },
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
@@ -108,33 +99,6 @@
         "video_id": "1fNUN8pC9PA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vevJMpC6Pvc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【UNARCHIVED】KARAOKE PARTY AFTER THE BIG FINALE! #kfp",
-        "video_id": "vevJMpC6Pvc"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Uw4zKfksSJY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPECIAL ANNOUNCEMENT】Our Korea secret is finally out【Dokibird】",
-        "video_id": "Uw4zKfksSJY"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Uw4zKfksSJY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPECIAL ANNOUNCEMENT】Our Korea secret is finally out【Dokibird】",
-        "video_id": "Uw4zKfksSJY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +106,14 @@
         "timestamp": 1784548800,
         "title": "【＃兎田ぺこら新衣装】1000年に一度の可愛すぎる新衣装お披露目するよおおおおおおおおおおおおおおおおおおおおおおおおおおおおおお！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "B6E5B3uM2O8"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cze8CH62xUU/maxresdefault_live.jpg",
+        "timestamp": 1784538000,
+        "title": "【 Toilet 8 】8番出口ライク！？トイレで異変を探す！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "cze8CH62xUU"
     }
 ]
