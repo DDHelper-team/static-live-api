@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ws9IXS3PMWY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SUPERCHAT READING】comfy cozy silly chatting and some (inevitably) weird stories 🐾 【FUWAMOCO】",
-        "video_id": "Ws9IXS3PMWY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -16,15 +7,6 @@
         "timestamp": 1784545200,
         "title": "【パワプロ2026】王立天狐学園１年目春🌽春の甲子園二回戦  #パワプロケモミミリーグ【ホロライブ/白上フブキ】",
         "video_id": "mnUY43lz0rw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ljy_BzWQ5g4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FF10】初見で挑む『FINAL FANTASY X』 1日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-        "video_id": "Ljy_BzWQ5g4"
     },
     {
         "channel": "https://www.youtube.com/@Robocosan",
@@ -76,18 +58,9 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PffaFW7_9Oc/maxresdefault_live.jpg",
-        "timestamp": 1784525400,
+        "timestamp": 1784552400,
         "title": "【スーパーマリオブラザーズ】完全初見🍄キレたら即終了初代マリオ【水宮枢／ホロライブDEV_IS】",
         "video_id": "PffaFW7_9Oc"
-    },
-    {
-        "channel": "https://www.youtube.com/@IsakiRiona",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yXOL28x-pIs/maxresdefault_live.jpg",
-        "timestamp": 1784523600,
-        "title": "【漢字でGOGO!】まあ・・理系だったんで・・！？仕方ないというか！？(´;ω;｀)【ホロライブ DEV_IS 響咲リオナ】",
-        "video_id": "yXOL28x-pIs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -137,19 +110,46 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4xqJcaV7Gzw/maxresdefault_live.jpg",
-        "timestamp": 1784527243,
+        "timestamp": null,
         "title": "【Full Stride】RE: ジョッキー体験してみる🏇【緋月ゆい/ネオポルテ】",
         "video_id": "4xqJcaV7Gzw"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4xqJcaV7Gzw/maxresdefault_live.jpg",
-        "timestamp": 1784527243,
+        "timestamp": null,
         "title": "【Full Stride】RE: ジョッキー体験してみる🏇【緋月ゆい/ネオポルテ】",
         "video_id": "4xqJcaV7Gzw"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G1ZPLI5LuJs/maxresdefault_live.jpg",
+        "timestamp": 1784541600,
+        "title": "【GeoGuessr】告知あり！海の日特集！海の見える駅をGUESS【ホロライブ / AZKi】",
+        "video_id": "G1ZPLI5LuJs"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5bBsllwJkG0/maxresdefault_live.jpg",
+        "timestamp": 1784552400,
+        "title": "【ソウルキャリバーⅥ  】よてちいいいい！【ホロライブ/さくらみこ】",
+        "video_id": "5bBsllwJkG0"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hkJ-t0wlAHM/maxresdefault_live.jpg",
+        "timestamp": 1784552100,
+        "title": "【めっちゃカメレオン】めっちゃ画伯が集合したカメレオン【獅白ぼたん/ホロライブ】",
+        "video_id": "hkJ-t0wlAHM"
     }
 ]
