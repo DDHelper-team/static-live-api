@@ -29,20 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1fNUN8pC9PA/maxresdefault_live.jpg",
-        "timestamp": 1784577600,
+        "timestamp": null,
         "title": "Coming to a Station Near You! 【Denshattack!】",
         "video_id": "1fNUN8pC9PA"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_PAw76LJipw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "VCR RUST  一人じゃないさ  / アステル",
-        "video_id": "_PAw76LJipw"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -97,5 +88,23 @@
         "timestamp": 1784588400,
         "title": "【RHYTHM HEAVEN GROOVE】feel da rhythm",
         "video_id": "vEt39BPE_b0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mvbIVyTBuOk/maxresdefault_live.jpg",
+        "timestamp": 1784628000,
+        "title": "【 パワプロ2026 】初めての栄冠ナイン!! 2年目春から🌸【 猫又おかゆ/ホロライブ 】#パワプロケモミミリーグ",
+        "video_id": "mvbIVyTBuOk"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k1Fo9gKmj8g/maxresdefault_live.jpg",
+        "timestamp": 1784635200,
+        "title": "【R･E･P･O】大初心者🔰オシャレになりたい！！✨️！【水宮枢／ホロライブDEV_IS】",
+        "video_id": "k1Fo9gKmj8g"
     }
 ]
