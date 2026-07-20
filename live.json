@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ljy_BzWQ5g4/maxresdefault_live.jpg",
-        "timestamp": 1784520000,
+        "timestamp": null,
         "title": "【FF10】初見で挑む『FINAL FANTASY X』 1日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "Ljy_BzWQ5g4"
     },
@@ -48,27 +48,27 @@
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mX-h2aXC6n0/maxresdefault_live.jpg",
-        "timestamp": 1784512800,
-        "title": "【漢字でGOGO!】みんなの知らない「ガチ」の世界。1時間でクリアできるか！？？？【博衣こより/ホロライブ】",
-        "video_id": "mX-h2aXC6n0"
+        "thumbnail": "https://i.ytimg.com/vi/ogC6DbQJpJQ/maxresdefault_live.jpg",
+        "timestamp": 1784584800,
+        "title": "【 #朝こよ 】あと10回で300回！？火曜日の朝は朝こよ！☀ #290 【博衣こより/hololive】",
+        "video_id": "ogC6DbQJpJQ"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zKbFwnV9mTk/maxresdefault_live.jpg",
-        "timestamp": 1784516400,
+        "timestamp": null,
         "title": "【ガンプラ/カメラあり】バンシィ・ノルン！！！！！！つくっていく！ 【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "zKbFwnV9mTk"
     },
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uLPde1oSN7E/maxresdefault_live.jpg",
-        "timestamp": 1784520000,
-        "title": "【ドラゴンボールZ KAKAROT】ドラゴンボールZ カカロット-TRUNKS- 希望の戦士を初見でやるぞ！【周防パトラ】",
+        "timestamp": null,
+        "title": "【ドラゴンボールZ KAKAROT】ドラゴンボールZ カカロット-BARDOCK- たったひとりの最終決戦を初見でやるぞ！【周防パトラ】",
         "video_id": "uLPde1oSN7E"
     },
     {
@@ -115,5 +115,41 @@
         "timestamp": 1784538000,
         "title": "【 Toilet 8 】8番出口ライク！？トイレで異変を探す！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "cze8CH62xUU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Q-Q-LC3KNJA/maxresdefault_live.jpg",
+        "timestamp": 1784552400,
+        "title": "【めっちゃカメレオン】楽しいメンバーでカメレオン【荒咬オウガ /ホロスターズ】",
+        "video_id": "Q-Q-LC3KNJA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GSYOmSNRIg4/maxresdefault_live.jpg",
+        "timestamp": 1784552400,
+        "title": "【Senin Produktif】リクエストいただきました！ 【 iofi / hololiveID 】",
+        "video_id": "GSYOmSNRIg4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4xqJcaV7Gzw/maxresdefault_live.jpg",
+        "timestamp": 1784527243,
+        "title": "【Full Stride】RE: ジョッキー体験してみる🏇【緋月ゆい/ネオポルテ】",
+        "video_id": "4xqJcaV7Gzw"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4xqJcaV7Gzw/maxresdefault_live.jpg",
+        "timestamp": 1784527243,
+        "title": "【Full Stride】RE: ジョッキー体験してみる🏇【緋月ゆい/ネオポルテ】",
+        "video_id": "4xqJcaV7Gzw"
     }
 ]
