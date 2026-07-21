@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ablLWD9uL98/maxresdefault_live.jpg",
-        "timestamp": 1784671200,
+        "timestamp": null,
         "title": "【朝活/FreeTalk】水着の季節…きたね【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "ablLWD9uL98"
     },
@@ -119,18 +119,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VVPVScN7pR0/maxresdefault_live.jpg",
-        "timestamp": 1784673000,
+        "timestamp": null,
         "title": "【PALWORLD】Making my pals sloppy【Dokibird】",
         "video_id": "VVPVScN7pR0"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VVPVScN7pR0/maxresdefault_live.jpg",
-        "timestamp": 1784673000,
+        "timestamp": null,
         "title": "【PALWORLD】Making my pals sloppy【Dokibird】",
         "video_id": "VVPVScN7pR0"
     },
@@ -142,5 +142,14 @@
         "timestamp": 1784714400,
         "title": "【パワプロ2026】2年目夏！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
         "video_id": "-hzc101T87Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hUEB9BkKuPk/maxresdefault_live.jpg",
+        "timestamp": 1784732400,
+        "title": "【FINAL FANTASY VII REMAKE】dense male protagonist syndrome #kfp #キアライブ (spoiler warning)",
+        "video_id": "hUEB9BkKuPk"
     }
 ]
