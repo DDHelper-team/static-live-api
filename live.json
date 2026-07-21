@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3SEBI7aCJQE/maxresdefault_live.jpg",
-        "timestamp": 1784664000,
+        "timestamp": null,
         "title": "Ring, Ring! Pick Up!  【Schrödinger\u0026#39;s Call】 ❗SPOILERS❗",
         "video_id": "3SEBI7aCJQE"
     },
@@ -115,5 +115,23 @@
         "timestamp": 1784727000,
         "title": "【ウマ娘プリティーダービー】天井は見ないルーラーシップガチャ＆育成【水宮枢／ホロライブDEV_IS】",
         "video_id": "T6YB0Ep0XgQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VVPVScN7pR0/maxresdefault_live.jpg",
+        "timestamp": 1784673000,
+        "title": "【PALWORLD】Making my pals sloppy【Dokibird】",
+        "video_id": "VVPVScN7pR0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VVPVScN7pR0/maxresdefault_live.jpg",
+        "timestamp": 1784673000,
+        "title": "【PALWORLD】Making my pals sloppy【Dokibird】",
+        "video_id": "VVPVScN7pR0"
     }
 ]
