@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9xp3DuiiueE/maxresdefault_live.jpg",
-        "timestamp": 1784692800,
+        "timestamp": null,
         "title": "【食レポ】冷しカップヌードルを食べてみる！！！【夕刻ロベル/ホロスターズ】",
         "video_id": "9xp3DuiiueE"
     },
@@ -81,15 +81,6 @@
         "video_id": "1753Taop1N8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jwtA5_gnGJg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Arknights: Endfield】I grew my factory just for Arcane",
-        "video_id": "jwtA5_gnGJg"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,24 +88,6 @@
         "timestamp": 1784727000,
         "title": "【ウマ娘プリティーダービー】天井は見ないルーラーシップガチャ＆育成【水宮枢／ホロライブDEV_IS】",
         "video_id": "T6YB0Ep0XgQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VVPVScN7pR0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PALWORLD】Making my pals sloppy【Dokibird】",
-        "video_id": "VVPVScN7pR0"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VVPVScN7pR0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PALWORLD】Making my pals sloppy【Dokibird】",
-        "video_id": "VVPVScN7pR0"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -133,5 +106,32 @@
         "timestamp": 1784732400,
         "title": "【FINAL FANTASY VII REMAKE】dense male protagonist syndrome #kfp #キアライブ (spoiler warning)",
         "video_id": "hUEB9BkKuPk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xRCOtVk9sj4/maxresdefault_live.jpg",
+        "timestamp": 1784714400,
+        "title": "【リズム天国ミラクルスターズ】オフコラボで仲良く遊んでハヤシライス食べるだけなわけがないリズ天【風真いろは/ホロライブ】",
+        "video_id": "xRCOtVk9sj4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nXunP96bQ2w/maxresdefault_live.jpg",
+        "timestamp": 1784721600,
+        "title": "【第２回】ホロメンお姉さんtier表をホロドリイラスト版でやってほしいという狂ったお願いがホロドリ運営から来たので酒飲みながらやる【ラプラス・ダークネス/ホロライブ】",
+        "video_id": "nXunP96bQ2w"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tiRozA9tyKI/maxresdefault_live.jpg",
+        "timestamp": 1784714400,
+        "title": "【 Adorable Adventures 】いのぶたちゃんの冒険記なのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "tiRozA9tyKI"
     }
 ]
