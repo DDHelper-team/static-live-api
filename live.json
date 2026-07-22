@@ -9,15 +9,6 @@
         "video_id": "I7wIui0oKAE"
     },
     {
-        "channel": "https://www.youtube.com/@MizumiyaSu",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/T6YB0Ep0XgQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ウマ娘プリティーダービー】天井は見ないルーラーシップガチャ＆育成【水宮枢／ホロライブDEV_IS】",
-        "video_id": "T6YB0Ep0XgQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "LIVE",
@@ -56,11 +47,11 @@
     {
         "channel": "https://www.youtube.com/@SakuraMiko",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6WNJL-KaxAw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【初見】クリアまでいきたい沼スーパードンキーコングやるにぇえええええええええ‼⑤【ホロライブ/さくらみこ】",
-        "video_id": "6WNJL-KaxAw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mUI2752qfK8/maxresdefault_live.jpg",
+        "timestamp": 1784800800,
+        "title": "【ホロドリ】ホロメン全員☆５ゲットのホロライブドリーム達成を目指すエリートに俺はなる【ホロライブ/さくらみこ】",
+        "video_id": "mUI2752qfK8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -135,15 +126,6 @@
         "video_id": "d3X_gsAZGrE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HOnBrXqOP6o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Hardcore Deductive Reasoning Game (Help Me Chat)【Scene Investigators】",
-        "video_id": "HOnBrXqOP6o"
-    },
-    {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -160,5 +142,23 @@
         "timestamp": 1784808000,
         "title": "#2【初見】『コードギアス 反逆のルルーシュR2』同時視聴【ホロライブ/兎田ぺこら】",
         "video_id": "4CshPmjNKrw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Mog8FQYz4-g/maxresdefault_live.jpg",
+        "timestamp": 1784768400,
+        "title": "【UNARCHIVED KARAOKE】thanks 967k here\u0026#39;s some meme songs",
+        "video_id": "Mog8FQYz4-g"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LFehtEQLUN4/maxresdefault_live.jpg",
+        "timestamp": 1784828700,
+        "title": "【ガンダム新作同時視聴】ガンダムシリーズ新作発表を一緒に観よう！inサンディエゴ・コミコン【博衣こより/ホロライブ】",
+        "video_id": "LFehtEQLUN4"
     }
 ]
