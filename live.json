@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Mog8FQYz4-g/maxresdefault_live.jpg",
-        "timestamp": 1784768400,
+        "timestamp": null,
         "title": "【UNARCHIVED KARAOKE】thanks 967k here\u0026#39;s some meme songs",
         "video_id": "Mog8FQYz4-g"
     },
@@ -151,5 +151,14 @@
         "timestamp": 1784818800,
         "title": "【FINAL FANTASY VII REMAKE】i havent seen jessie in a while :( #kfp #キアライブ (spoiler warning)",
         "video_id": "8OPK5cr5pKs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/y2xUvultGOE/maxresdefault_live.jpg",
+        "timestamp": 1784854800,
+        "title": "DIGGING INTO YOUR HOME! 【Pratfall】",
+        "video_id": "y2xUvultGOE"
     }
 ]
