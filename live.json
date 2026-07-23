@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ETlwSjy84-8/maxresdefault_live.jpg",
-        "timestamp": 1784793600,
+        "timestamp": null,
         "title": "【hololive Dreams】 HOLOLIVE AS A GACHA GAME?!?! THE DREAM CAME TRUE 【Kureiji Ollie】",
         "video_id": "ETlwSjy84-8"
     },
@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5Mwos1E78EU/maxresdefault_live.jpg",
-        "timestamp": 1784797200,
+        "timestamp": null,
         "title": "【ホロライブ ドリームス】音ゲー初心者！hololive Dreamsやってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "5Mwos1E78EU"
     },
@@ -164,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/@HoushouMarine",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9y2hfI9-540/maxresdefault_live.jpg",
-        "timestamp": 1784797200,
+        "timestamp": null,
         "title": "【ホロドリ】ついにリリース！！hololive Dreams初回プレイ🎶【ホロライブ/宝鐘マリン】",
         "video_id": "9y2hfI9-540"
     },
@@ -198,15 +198,6 @@
         "video_id": "N2iNY6VcOr8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iW0hohFYKGA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロライブドリームス】ホロライブ最速プレイ！待ちわびた神ゲーきちゃ✨【ホロライブ/夏色まつり】",
-        "video_id": "iW0hohFYKGA"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +214,68 @@
         "timestamp": 1784811600,
         "title": "【ホロライブ ドリームス】ホロドリの世界へ！今日から始める hololive Dreams【ホロライブ / AZKi】",
         "video_id": "3wmcsy3zSuk"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CgugcxW72Us/maxresdefault_live.jpg",
+        "timestamp": 1784800800,
+        "title": "【 ホロドリ 】うおおおリリースされた！！遊んでみる！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "CgugcxW72Us"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5y7MrMZ8fZ0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【リズム天国ミラクルスターズ】ドリームつかみに！！最高メダル目指して！【常闇トワ / ホロライブ】",
+        "video_id": "5y7MrMZ8fZ0"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoshimachiSuisei",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UvOI4FCYBf4/maxresdefault_live.jpg",
+        "timestamp": 1784800800,
+        "title": "【鳩待ち配信】全ての伝書鳩を引き受ける配信🕊【星街すいせい / #ほしまちすたじお】",
+        "video_id": "UvOI4FCYBf4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7g2WiEpN-aw/maxresdefault_live.jpg",
+        "timestamp": 1784804400,
+        "title": "【ドラゴンボールZ KAKAROT】ドラゴンボールZ カカロット-波乱の天下一武道会を初見でやるぞ！【周防パトラ】",
+        "video_id": "7g2WiEpN-aw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xYBI_8ee0Ek/maxresdefault_live.jpg",
+        "timestamp": 1784809800,
+        "title": "【#ff14  】6.0 曉月之終途旅程展開~這版本我們要來當個人！【#ゲーム個人勢 / Fingla】",
+        "video_id": "xYBI_8ee0Ek"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xYBI_8ee0Ek/maxresdefault_live.jpg",
+        "timestamp": 1784809800,
+        "title": "【#ff14  】6.0 曉月之終途旅程展開~這版本我們要來當個人！【#ゲーム個人勢 / Fingla】",
+        "video_id": "xYBI_8ee0Ek"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oNwsFOgJlnA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "VCR RUST  I am Captain America  / アステル",
+        "video_id": "oNwsFOgJlnA"
     }
 ]
