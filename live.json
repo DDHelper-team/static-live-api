@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RmkbQyS0fwg/maxresdefault_live.jpg",
-        "timestamp": 1784786400,
+        "timestamp": null,
         "title": "【hololive Dreams】i know this is a rhythm game but how about we do something else (1)",
         "video_id": "RmkbQyS0fwg"
     },
@@ -72,15 +72,6 @@
         "video_id": "d3X_gsAZGrE"
     },
     {
-        "channel": "https://www.youtube.com/@IsakiRiona",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CuBl-aXP4Rk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【定期配信＃38】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-        "video_id": "CuBl-aXP4Rk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -119,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/c8ZNcA_u5ck/maxresdefault_live.jpg",
-        "timestamp": 1784786400,
+        "timestamp": null,
         "title": "【hololive Dreams ホロライブドリームス】HOLODORI IS HERE BABY! First Look! ホロドリきちゃ！早速遊びます！【hololive ID | Anya】",
         "video_id": "c8ZNcA_u5ck"
     },
@@ -187,5 +178,50 @@
         "timestamp": 1784862000,
         "title": "【hololive Dreams】Don\u0026#39;t Fear the Reaper\u0026#39;s Gacha Luck!!! #calliolive",
         "video_id": "5kzu8bfpc0E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/N2iNY6VcOr8/maxresdefault_live.jpg",
+        "timestamp": 1784829600,
+        "title": "【MARVEL RIVALS】Bogur Bash $75k Tournament【Dokibird】",
+        "video_id": "N2iNY6VcOr8"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/N2iNY6VcOr8/maxresdefault_live.jpg",
+        "timestamp": 1784829600,
+        "title": "【MARVEL RIVALS】Bogur Bash $75k Tournament【Dokibird】",
+        "video_id": "N2iNY6VcOr8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCQ0UDLQCjY0rmuxCDE38FGg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iW0hohFYKGA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ホロライブドリームス】ホロライブ最速プレイ！待ちわびた神ゲーきちゃ✨【ホロライブ/夏色まつり】",
+        "video_id": "iW0hohFYKGA"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HBT2gRTtV58/maxresdefault_live.jpg",
+        "timestamp": 1784811600,
+        "title": "【 #らでんと美術鑑賞 】モノクロ写真の魅力！「杉本博司 絶滅写真」展より【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "HBT2gRTtV58"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3wmcsy3zSuk/maxresdefault_live.jpg",
+        "timestamp": 1784811600,
+        "title": "【ホロライブ ドリームス】ホロドリの世界へ！今日から始める hololive Dreams【ホロライブ / AZKi】",
+        "video_id": "3wmcsy3zSuk"
     }
 ]
