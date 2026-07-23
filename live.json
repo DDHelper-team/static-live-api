@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BYhp2XY4rCM/maxresdefault_live.jpg",
-        "timestamp": 1784840400,
+        "timestamp": null,
         "title": "【hololive Dreams】mori calliope and a dream",
         "video_id": "BYhp2XY4rCM"
     },
@@ -187,5 +187,32 @@
         "timestamp": 1784923200,
         "title": "【SCARLET SIDE QUEST】Serendipity Yap ~! 💄",
         "video_id": "0Wlpgew0oZw"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4V_BC9BcaP0/maxresdefault_live.jpg",
+        "timestamp": 1784899800,
+        "title": "【ホロドリ】hololiveDreams やるよ〜🎶 #2【水宮枢／ホロライブDEV_IS】",
+        "video_id": "4V_BC9BcaP0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7vmmFWL2acE/maxresdefault_live.jpg",
+        "timestamp": 1784872800,
+        "title": "【INA INA KITCHEN】】INA IS HUNGRY...FOR SOME CURRY....Hey That Rhymed",
+        "video_id": "7vmmFWL2acE"
+    },
+    {
+        "channel": "https://www.youtube.com/@TakaneLui",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wiQzciDmhAE/maxresdefault_live.jpg",
+        "timestamp": 1784901600,
+        "title": "【 ホロドリ 】双子は一緒にお迎えしなきゃね。フワモコ狙ってガチャひきます。【鷹嶺ルイ/ホロライブ】",
+        "video_id": "wiQzciDmhAE"
     }
 ]
