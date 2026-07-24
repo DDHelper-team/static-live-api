@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5kzu8bfpc0E/maxresdefault_live.jpg",
-        "timestamp": 1784869200,
+        "timestamp": null,
         "title": "【hololive Dreams】Don\u0026#39;t Fear the Reaper\u0026#39;s Gacha Luck!!! #calliolive",
         "video_id": "5kzu8bfpc0E"
     },
@@ -180,15 +180,6 @@
         "video_id": "rltNvZ_FY8Q"
     },
     {
-        "channel": "https://www.youtube.com/@Robocosan",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/H0RhF4hN16w/maxresdefault_live.jpg",
-        "timestamp": 1784867400,
-        "title": "【 ろぼ夏-自習教室2】ボクと一緒に📚【ホロライブ/ ロボ子さん 】",
-        "video_id": "H0RhF4hN16w"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +196,41 @@
         "timestamp": 1784883600,
         "title": "【ホロライブ ドリームス】音ゲー初心者！hololive Dreamsやってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "XtAxeFYt1_A"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HNlJljkwFAQ/maxresdefault_live.jpg",
+        "timestamp": 1784898000,
+        "title": "配信予定地っち",
+        "video_id": "HNlJljkwFAQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/M5OswK1n5Uo/maxresdefault_live.jpg",
+        "timestamp": 1784899800,
+        "title": "【同時視聴】ひつじ探偵団🐑 一緒に見よう～～～！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "M5OswK1n5Uo"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ffLyj-uUIIY/maxresdefault_live.jpg",
+        "timestamp": 1784901600,
+        "title": "【 ホロドリ 】steam版でやってみるのらね！！！hololive Dreams【姫森ルーナ/ホロライブ】",
+        "video_id": "ffLyj-uUIIY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CPeza2dtAYE/maxresdefault_live.jpg",
+        "timestamp": 1784876400,
+        "title": "【ホロドリ】メガスフィアとリズムゲーで遊びたいけどガチャも引けと促されている【ホロライブ/白上フブキ】",
+        "video_id": "CPeza2dtAYE"
     }
 ]
