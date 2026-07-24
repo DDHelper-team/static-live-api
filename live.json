@@ -27,20 +27,11 @@
         "video_id": "7qejIvUrHmY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8OPK5cr5pKs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FINAL FANTASY VII REMAKE】i havent seen jessie in a while :( #kfp #キアライブ (spoiler warning)",
-        "video_id": "8OPK5cr5pKs"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/y2xUvultGOE/maxresdefault_live.jpg",
-        "timestamp": 1784854800,
+        "timestamp": null,
         "title": "DIGGING INTO YOUR HOME! 【Pratfall】",
         "video_id": "y2xUvultGOE"
     },
@@ -52,24 +43,6 @@
         "timestamp": 1784862000,
         "title": "【hololive Dreams】Don\u0026#39;t Fear the Reaper\u0026#39;s Gacha Luck!!! #calliolive",
         "video_id": "5kzu8bfpc0E"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/N2iNY6VcOr8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MARVEL RIVALS】Bogur Bash $75k Tournament【Dokibird】",
-        "video_id": "N2iNY6VcOr8"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/N2iNY6VcOr8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MARVEL RIVALS】Bogur Bash $75k Tournament【Dokibird】",
-        "video_id": "N2iNY6VcOr8"
     },
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
@@ -128,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BaOCTxNbHMY/maxresdefault_live.jpg",
-        "timestamp": 1784854800,
+        "timestamp": null,
         "title": "【PRATFALL COLLAB】we are the lost dogs please help find us in this cave 🐾 #holoAdvent 【FUWAMOCO】",
         "video_id": "BaOCTxNbHMY"
     },
@@ -155,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JLE3AYgZEcU/maxresdefault_live.jpg",
-        "timestamp": 1784854800,
+        "timestamp": null,
         "title": "【PRATFALL】WE FAAAAAAAAAAAALLLLLLLLLLLLL 【Advent Collab】",
         "video_id": "JLE3AYgZEcU"
     },
@@ -198,15 +171,6 @@
         "video_id": "4V_BC9BcaP0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7vmmFWL2acE/maxresdefault_live.jpg",
-        "timestamp": 1784872800,
-        "title": "【INA INA KITCHEN】】INA IS HUNGRY...FOR SOME CURRY....Hey That Rhymed",
-        "video_id": "7vmmFWL2acE"
-    },
-    {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +178,23 @@
         "timestamp": 1784901600,
         "title": "【 ホロドリ 】双子は一緒にお迎えしなきゃね。フワモコ狙ってガチャひきます。【鷹嶺ルイ/ホロライブ】",
         "video_id": "wiQzciDmhAE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Hh124TzQLPI/maxresdefault_live.jpg",
+        "timestamp": 1784905200,
+        "title": "【FINAL FANTASY VII REMAKE】havent i suffered enough? (ENDING) #kfp #キアライブ (spoiler warning)",
+        "video_id": "Hh124TzQLPI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rltNvZ_FY8Q/maxresdefault_live.jpg",
+        "timestamp": 1784941200,
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "rltNvZ_FY8Q"
     }
 ]
