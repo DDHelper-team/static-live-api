@@ -54,24 +54,6 @@
         "video_id": "rltNvZ_FY8Q"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JB03LBhWzVw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【StarSavior】women in swimsuits. that\u0026#39;s the title #ad",
-        "video_id": "JB03LBhWzVw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/G007tD6tLt8/maxresdefault_live.jpg",
-        "timestamp": 1784934000,
-        "title": "【HOLOLIVE DREAMS】I\u0026#39;m in a gacha game oh no.",
-        "video_id": "G007tD6tLt8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +97,32 @@
         "timestamp": 1784986200,
         "title": "【同時視聴】ウマ娘シンデレラグレイついに見る…#1【水宮枢／ホロライブDEV_IS】",
         "video_id": "Fz5TCsJqm_Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_jkjpc_HUAI/maxresdefault_live.jpg",
+        "timestamp": 1784944800,
+        "title": "【HANG OUT】i just wanna yap【Dokibird】",
+        "video_id": "_jkjpc_HUAI"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_jkjpc_HUAI/maxresdefault_live.jpg",
+        "timestamp": 1784944800,
+        "title": "【HANG OUT】i just wanna yap【Dokibird】",
+        "video_id": "_jkjpc_HUAI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G007tD6tLt8/maxresdefault_live.jpg",
+        "timestamp": 1784937600,
+        "title": "【HOLOLIVE DREAMS】I\u0026#39;m in a gacha game oh no.",
+        "video_id": "G007tD6tLt8"
     }
 ]
