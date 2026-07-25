@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MCUCNeWt-8o/maxresdefault_live.jpg",
-        "timestamp": 1784955600,
+        "timestamp": null,
         "title": "大会当日！顔合わせだあああ！！！ 遊戯王 マスターデュエル パーク2 【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "MCUCNeWt-8o"
     },
@@ -117,15 +117,6 @@
         "video_id": "Lz56n8fa25o"
     },
     {
-        "channel": "https://www.youtube.com/@TokinoSora",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3WmYQDfi6JE/maxresdefault_live.jpg",
-        "timestamp": 1784959200,
-        "title": "【Five Nights at Freddy\u0026#39;s】オフコラボ！リオナを見守りゲーム実況【ホロライブ/ときのそら/響咲リオナ】",
-        "video_id": "3WmYQDfi6JE"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -137,19 +128,73 @@
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/u-BWTgkGwB8/maxresdefault_live.jpg",
-        "timestamp": 1784954700,
+        "timestamp": null,
         "title": "We\u0026#39;re practicing the rhythm game NOW !!! I LOVE MULTIPLAYING !!!!!",
         "video_id": "u-BWTgkGwB8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zJH6Wz946_U/maxresdefault_live.jpg",
-        "timestamp": 1784959200,
+        "timestamp": null,
         "title": "【リズム天国ミラクルスターズ】やるタイミング逃してたけど、楽しみにしておりました【ホロライブ/大神ミオ】",
         "video_id": "zJH6Wz946_U"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LcxyEh4iUVE/maxresdefault_live.jpg",
+        "timestamp": 1784970000,
+        "title": "【ホロドリ】本編を遊ぶためまずは全員を引きます【獅白ぼたん/ホロライブ】",
+        "video_id": "LcxyEh4iUVE"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cgQBNMhvmYo/maxresdefault_live.jpg",
+        "timestamp": 1784987100,
+        "title": "【F1同時視聴】ハンガリーGP予選！ついに！！！アプデ来る！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "cgQBNMhvmYo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ASxqwf97qhY/maxresdefault_live.jpg",
+        "timestamp": 1784966400,
+        "title": "ホロドリ ! First Play 【 iofi / hololiveID 】",
+        "video_id": "ASxqwf97qhY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IsyAOK70jQw/maxresdefault_live.jpg",
+        "timestamp": 1784984400,
+        "title": "【メンバー限定】モデル3.0　先行お披露目【荒咬オウガ /ホロスターズ】",
+        "video_id": "IsyAOK70jQw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OjSS7Q9WOMw/maxresdefault_live.jpg",
+        "timestamp": 1784962800,
+        "title": "Kembali ke Yeehaw bersama @sammybollivienn",
+        "video_id": "OjSS7Q9WOMw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BMtdhvzgG_g/maxresdefault_live.jpg",
+        "timestamp": 1784980800,
+        "title": "【ホロドリ】ぺこマリでガチャ並走！どっちが★5たくさん引ける？！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "BMtdhvzgG_g"
     }
 ]
