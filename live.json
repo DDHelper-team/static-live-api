@@ -11,10 +11,10 @@
     {
         "channel": "https://www.youtube.com/@KoganeiNiko",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/is6Ld9nVyqk/maxresdefault_live.jpg",
-        "timestamp": 1784937600,
-        "title": "１",
+        "timestamp": null,
+        "title": "【念願】喫茶ニコ！限定OPENです☕お客さん、くるかな✨【虎金妃笑虎】",
         "video_id": "is6Ld9nVyqk"
     },
     {
@@ -27,29 +27,11 @@
         "video_id": "zoe_UJjS4Y4"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_erbloodflame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0Wlpgew0oZw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SCARLET SIDE QUEST】Serendipity Yap ~! 💄",
-        "video_id": "0Wlpgew0oZw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Hh124TzQLPI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FINAL FANTASY VII REMAKE】havent i suffered enough? (ENDING) #kfp #キアライブ (spoiler warning)",
-        "video_id": "Hh124TzQLPI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rltNvZ_FY8Q/maxresdefault_live.jpg",
-        "timestamp": 1784941200,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "rltNvZ_FY8Q"
     },
@@ -121,8 +103,17 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/G007tD6tLt8/maxresdefault_live.jpg",
-        "timestamp": 1784937600,
+        "timestamp": 1784944800,
         "title": "【HOLOLIVE DREAMS】I\u0026#39;m in a gacha game oh no.",
         "video_id": "G007tD6tLt8"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Tk4tgquPrro/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive Dreams】SHORT GUERILLA LIKE 1 HOUR OF HOLODORI",
+        "video_id": "Tk4tgquPrro"
     }
 ]
