@@ -2,27 +2,27 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/q176a2krHbg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロドリ】自分完凸 VS 全員☆5出る！自引きできない不憫女はどっちが早いか検証！！！【博衣こより/ホロライブ】",
-        "video_id": "q176a2krHbg"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/w16FUQih3-w/maxresdefault_live.jpg",
+        "timestamp": 1785031200,
+        "title": "【ファイアーエムブレム 風花雪月】完全初見！クラシックでいく金鹿ルート！後編2月出撃から！ #10 【博衣こより/ホロライブ】",
+        "video_id": "w16FUQih3-w"
     },
     {
         "channel": "https://www.youtube.com/@KoganeiNiko",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5z8osqEvceo/maxresdefault_live.jpg",
-        "timestamp": 1784977200,
+        "timestamp": null,
         "title": "【生誕３Ｄライブ】星炎-Fierstra Diva-  ＃ニコたん生たん2026【虎金妃笑虎】",
         "video_id": "5z8osqEvceo"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zoe_UJjS4Y4/maxresdefault_live.jpg",
-        "timestamp": 1784977200,
+        "timestamp": null,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #03 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "zoe_UJjS4Y4"
     },
@@ -88,15 +88,6 @@
         "timestamp": null,
         "title": "大会本戦！！P.U.N.K.力を貸して…！！！！遊戯王 マスターデュエル パーク2 【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "CFqlF8tsJeE"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Lz56n8fa25o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Getting Over It 】完全初見！ぺこら先輩からもらった初めての壺おじ！2時間でどこまでいける！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "Lz56n8fa25o"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -171,15 +162,6 @@
         "video_id": "7jhetKbGc00"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/l20nRqhLAe0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ】星街すいせいさん完凸させてくれませんかお願いします【風真いろは/ホロライブ】",
-        "video_id": "l20nRqhLAe0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -214,5 +196,32 @@
         "timestamp": 1784984400,
         "title": "#04 【バイオハザード５】フレわたのわちゃわちゃ劇場感動の最終回！？【不知火フレア/ホロライブ】",
         "video_id": "W6ElEhnxK7I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xreMl76Mgmc/maxresdefault_live.jpg",
+        "timestamp": 1784986259,
+        "title": "飲みながら語りたい気分🍺【緋月ゆい/ネオポルテ】",
+        "video_id": "xreMl76Mgmc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xreMl76Mgmc/maxresdefault_live.jpg",
+        "timestamp": 1784986259,
+        "title": "飲みながら語りたい気分🍺【緋月ゆい/ネオポルテ】",
+        "video_id": "xreMl76Mgmc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Robocosan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Q8ktjMwiE4I/maxresdefault_live.jpg",
+        "timestamp": 1785063600,
+        "title": "【 歌枠】NO32.重大告知付き❣えもい歌のろぼめろでぃ～ RBmelody 🎶 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
+        "video_id": "Q8ktjMwiE4I"
     }
 ]
