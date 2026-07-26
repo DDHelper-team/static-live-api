@@ -92,29 +92,11 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nK2VbTDbhg8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活雑談】39度のとろけそうな日【白銀ノエル/ホロライブ】",
-        "video_id": "nK2VbTDbhg8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2jViS4EIDVg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【THE AMAZING DIGITAL CIRCUS ON STREAM WATCHALONG】LET\u0026#39;S WATCH THE FULL THING!",
-        "video_id": "2jViS4EIDVg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_SWW55lAGyc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams】Day 3 playing holodori, I am not f2p anymore… LET’S GACHA !!!",
-        "video_id": "_SWW55lAGyc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/X2QgJmJnrBA/maxresdefault_live.jpg",
+        "timestamp": 1785074400,
+        "title": "【ASMR】季節の変わり目にお耳も心も癒される吐息♡囁き♡耳かき＆マッサージ♡【白銀ノエル/ホロライブ】",
+        "video_id": "X2QgJmJnrBA"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -128,19 +110,82 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2V6DBknuFaI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ】『推し』の完凸だぞ。。。【風真いろは/ホロライブ】",
-        "video_id": "2V6DBknuFaI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vzCu8Q-PD8U/maxresdefault_live.jpg",
+        "timestamp": 1785079800,
+        "title": "風真いろはの #ねるまえらじお 📻❣ #18",
+        "video_id": "vzCu8Q-PD8U"
     },
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0xsqyOBAS38/maxresdefault_live.jpg",
-        "timestamp": 1785042000,
-        "title": "【 関屋記念＆東海S 】夏競馬、今日も勝ちます。【鷹嶺ルイ/ホロライブ】",
-        "video_id": "0xsqyOBAS38"
+        "thumbnail": "https://i.ytimg.com/vi/UqZmm3dskP0/maxresdefault_live.jpg",
+        "timestamp": 1785056400,
+        "title": "【 アソビ大全 】告知あり！獅子神レオナちゃんと最強勝負…。勝つのはどっちだ⁉【鷹嶺ルイ/ホロライブ】",
+        "video_id": "UqZmm3dskP0"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokinoSora",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BwHAPFamojU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive Dreams】Steamだとどんな感じかな？遊んでみよう♪【ホロライブ/ときのそら】",
+        "video_id": "BwHAPFamojU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aemPESM6k4E/maxresdefault_live.jpg",
+        "timestamp": 1785069000,
+        "title": "【バイオハザード RE:3】完全初見バイオ３！ # 2【 #奏手イヅル 】",
+        "video_id": "aemPESM6k4E"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wkfa5C83rLI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ShadowverseWB】第二節開幕！！Crazy Raccoon Streamer League Shadowverse【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "wkfa5C83rLI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BYhG5CcrXSw/maxresdefault_live.jpg",
+        "timestamp": 1785060000,
+        "title": "Voice Actor of Vestia Zeta in Hololive Dreams plays as Vestia Zeta in Hololive Dreams #ホロドリ",
+        "video_id": "BYhG5CcrXSw"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoganeiNiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n62__pLZNX4/maxresdefault_live.jpg",
+        "timestamp": 1785056400,
+        "title": "【ライブ振り返り】裏話とかさせてくれ～！！【虎金妃笑虎】",
+        "video_id": "n62__pLZNX4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YUFZH-6VEIU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【歌枠 / karaoke】寝れなかったので17時まで歌う人間 / アステル",
+        "video_id": "YUFZH-6VEIU"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ns-Vf-IPHU0/maxresdefault_live.jpg",
+        "timestamp": 1785056400,
+        "title": "【Toilet 8】クソゲー（直球）異変探し【獅白ぼたん/ホロライブ】",
+        "video_id": "Ns-Vf-IPHU0"
     }
 ]
