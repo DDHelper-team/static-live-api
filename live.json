@@ -135,15 +135,6 @@
         "video_id": "BYhG5CcrXSw"
     },
     {
-        "channel": "https://www.youtube.com/@ShishiroBotan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ns-Vf-IPHU0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Toilet 8】クソゲー（直球）異変探し【獅白ぼたん/ホロライブ】",
-        "video_id": "Ns-Vf-IPHU0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -164,18 +155,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7H-gXjgBW6E/maxresdefault_live.jpg",
-        "timestamp": 1785065400,
+        "timestamp": null,
         "title": "塔羅占卜#146｜一邊聊天一邊占卜🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "7H-gXjgBW6E"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7H-gXjgBW6E/maxresdefault_live.jpg",
-        "timestamp": 1785065400,
+        "timestamp": null,
         "title": "塔羅占卜#146｜一邊聊天一邊占卜🔮✨🦊【Healing希靈/VTuber】",
         "video_id": "7H-gXjgBW6E"
     },
@@ -214,5 +205,23 @@
         "timestamp": 1785074400,
         "title": "【緊急】名前を返してください。【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "JGj6nmJHHAQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/licNVogdPRk/maxresdefault_live.jpg",
+        "timestamp": 1785072626,
+        "title": "【鳴潮】#7 | 完全初見！黒海岸を目指して！【緋月ゆい/ネオポルテ】",
+        "video_id": "licNVogdPRk"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/licNVogdPRk/maxresdefault_live.jpg",
+        "timestamp": 1785072626,
+        "title": "【鳴潮】#7 | 完全初見！黒海岸を目指して！【緋月ゆい/ネオポルテ】",
+        "video_id": "licNVogdPRk"
     }
 ]
