@@ -45,24 +45,6 @@
         "video_id": "3c1e--aO4Kg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GQMjqRxcuW4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams】Kaela Kovalskia from holodori trying to gacha \u0026amp; focus on the story so we can CASINO",
-        "video_id": "GQMjqRxcuW4"
-    },
-    {
-        "channel": "https://www.youtube.com/@TakaneLui",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Gr3RWmsNPEs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ホロドリ 】400連あれば完凸できますか・・・？【鷹嶺ルイ/ホロライブ】",
-        "video_id": "Gr3RWmsNPEs"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -126,15 +108,6 @@
         "video_id": "m9RdGYsTUec"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/y8_xANVo3Tk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【VALORANT】 カスタム！いくぞー【 #奏手イヅル 】",
-        "video_id": "y8_xANVo3Tk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -151,5 +124,23 @@
         "timestamp": 1785222000,
         "title": "【Sons Of The Forest】PizzaTimeSmith in a Forest",
         "video_id": "oXReodrHcS0"
+    },
+    {
+        "channel": "https://www.youtube.com/@TakaneLui",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XpL-LcXl3x4/maxresdefault_live.jpg",
+        "timestamp": 1785247200,
+        "title": "【 ホロドリ 】今全キャラ解放してるから水着も解放しないと…今回は沼らないガチャ【鷹嶺ルイ/ホロライブ】",
+        "video_id": "XpL-LcXl3x4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CWCRroEiwZo/maxresdefault_live.jpg",
+        "timestamp": 1785222000,
+        "title": "【Sons Of The Forest】we\u0026#39;ve been waiting for this collab for 10.000 years【PIZZATIMESMITH】",
+        "video_id": "CWCRroEiwZo"
     }
 ]
