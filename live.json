@@ -18,15 +18,6 @@
         "video_id": "F1lQpx7qz0M"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vaA9RCNW8Z8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
-        "video_id": "vaA9RCNW8Z8"
-    },
-    {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +88,14 @@
         "timestamp": 1785182400,
         "title": "Running You Over Affectionately! 【Denshattack!】",
         "video_id": "UwL8L6KjYP8"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/aPHkSYTkRwY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive Dreams】GIVE ME SONGS I DONT HAVE NOWWWW",
+        "video_id": "aPHkSYTkRwY"
     }
 ]
