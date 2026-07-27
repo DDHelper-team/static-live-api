@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3c1e--aO4Kg/maxresdefault_live.jpg",
-        "timestamp": 1785189600,
+        "timestamp": null,
         "title": "【 #朝こよ 】7月ラスト！\u0026quot;めい\u0026quot;言発表！火曜日の朝は朝こよ！☀ #291 【博衣こより/hololive】",
         "video_id": "3c1e--aO4Kg"
     },
@@ -151,5 +151,14 @@
         "timestamp": 1785243600,
         "title": "本気の罰ゲームってなんだろう ────",
         "video_id": "l-6MH204aH8"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SfF_kF2WBSw/maxresdefault_live.jpg",
+        "timestamp": 1785245400,
+        "title": "【ホロドリ】hololiveDreams やるよ〜🎶＃4【水宮枢／ホロライブDEV_IS】",
+        "video_id": "SfF_kF2WBSw"
     }
 ]
