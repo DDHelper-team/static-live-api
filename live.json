@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/UwL8L6KjYP8/maxresdefault_live.jpg",
-        "timestamp": 1785182400,
+        "timestamp": null,
         "title": "Running You Over Affectionately! 【Denshattack!】",
         "video_id": "UwL8L6KjYP8"
     },
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iSwYbJ5Ajzc/maxresdefault_live.jpg",
-        "timestamp": 1785186000,
+        "timestamp": null,
         "title": "【hololive Dreams】i tried to resist the siren\u0026#39;s calls but i could not",
         "video_id": "iSwYbJ5Ajzc"
     },
@@ -142,5 +142,14 @@
         "timestamp": 1785222000,
         "title": "【Sons Of The Forest】we\u0026#39;ve been waiting for this collab for 10.000 years【PIZZATIMESMITH】",
         "video_id": "CWCRroEiwZo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/l-6MH204aH8/maxresdefault_live.jpg",
+        "timestamp": 1785243600,
+        "title": "本気の罰ゲームってなんだろう ────",
+        "video_id": "l-6MH204aH8"
     }
 ]
