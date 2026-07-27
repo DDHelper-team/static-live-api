@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F1lQpx7qz0M/maxresdefault_live.jpg",
-        "timestamp": 1785124800,
+        "timestamp": null,
         "title": "【FF10】初見で挑む『FINAL FANTASY X』 2日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "F1lQpx7qz0M"
     },
@@ -25,15 +25,6 @@
         "timestamp": 1785163200,
         "title": "『 #夏の思い出 』 #アキちょこナイパレ 第44回 ～ホロライブ深夜ラジオ～",
         "video_id": "JqHpSqQpR00"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qMszNHwYFDE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HOLOLIVE DREAMS】I JUST WANNA BE BIBOO!!!!!!!!",
-        "video_id": "qMszNHwYFDE"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -63,24 +54,6 @@
         "video_id": "oBKitqNkTcE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xks2-BQAWhc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Euro Truck Simulator 2】おはよ！よし運転するぞ🚚【緋月ゆい/ネオポルテ】",
-        "video_id": "xks2-BQAWhc"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xks2-BQAWhc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Euro Truck Simulator 2】おはよ！よし運転するぞ🚚【緋月ゆい/ネオポルテ】",
-        "video_id": "xks2-BQAWhc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +70,41 @@
         "timestamp": null,
         "title": "【hololive Dreams】GIVE ME SONGS I DONT HAVE NOWWWW",
         "video_id": "aPHkSYTkRwY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vw5wMc8JdRE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "Monday MORNING Malassssssss = M.M.M",
+        "video_id": "vw5wMc8JdRE"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1KK0N_qymto/maxresdefault_live.jpg",
+        "timestamp": 1785157200,
+        "title": "暑中お見舞い申し上げます。なのら！！！【姫森ルーナ/ホロライブ】",
+        "video_id": "1KK0N_qymto"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RCTQ_xSa5r4/maxresdefault_live.jpg",
+        "timestamp": 1785150000,
+        "title": "【告知】重大告知するにぇ！！！！【ホロライブ/さくらみこ】",
+        "video_id": "RCTQ_xSa5r4"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoshimachiSuisei",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bDGR8wWkkfI/maxresdefault_live.jpg",
+        "timestamp": 1785146400,
+        "title": "○○さん限定凸待ち（始まるまでわからない🎶）【星街すいせい / #ほしまちすたじお】",
+        "video_id": "bDGR8wWkkfI"
     }
 ]
