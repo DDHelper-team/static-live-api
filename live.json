@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jdiIbkCJK1Q/maxresdefault_live.jpg",
-        "timestamp": 1785211200,
+        "timestamp": null,
         "title": "【崩壊：スターレイル】Ver4.4　開拓クエスト『汽笛は轟く、帰寂のさなかに』をやる男【夕刻ロベル/ホロスターズ】",
         "video_id": "jdiIbkCJK1Q"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UwL8L6KjYP8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Running You Over Affectionately! 【Denshattack!】",
-        "video_id": "UwL8L6KjYP8"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -63,15 +54,6 @@
         "video_id": "fDblSFY7fo4"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iSwYbJ5Ajzc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams】i tried to resist the siren\u0026#39;s calls but i could not",
-        "video_id": "iSwYbJ5Ajzc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -110,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wAe8-VxzQpY/maxresdefault_live.jpg",
-        "timestamp": 1785204000,
+        "timestamp": null,
         "title": "【HOLOLIVE DREAMS】Swimsuit gacha goodbye my money",
         "video_id": "wAe8-VxzQpY"
     },
@@ -169,5 +151,14 @@
         "timestamp": 1785243600,
         "title": "【 バイオハザード5 】フレわたでバイオ！バイオが終わったら何が始まると思う？#DLC【角巻わため/ホロライブ４期生】※ネタバレあり",
         "video_id": "Hia2oiiKtQc"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_5sG2ltUZ_I/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ホロライブ ドリームス】ホロドリ初のイベント！夏ガチャも引くぜっ！【不知火フレア/ホロライブ】",
+        "video_id": "_5sG2ltUZ_I"
     }
 ]
