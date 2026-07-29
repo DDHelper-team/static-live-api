@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/vhJlRuYCD98/maxresdefault_live.jpg",
-        "timestamp": 1785283200,
+        "timestamp": null,
         "title": "mori calliope returns from summer vacation! #calliolive",
         "video_id": "vhJlRuYCD98"
     },
@@ -137,10 +137,28 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PpJ0iqFkWmQ/maxresdefault_live.jpg",
-        "timestamp": 1785283200,
+        "timestamp": null,
         "title": "【Clair Obscur: Expedition 33】Oui!【#1】",
         "video_id": "PpJ0iqFkWmQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HAGJ50Zpzy0/maxresdefault_live.jpg",
+        "timestamp": 1785355200,
+        "title": "I Have No Thumbs and I Must Scream 【hololive Dreams】",
+        "video_id": "HAGJ50Zpzy0"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/H-00TwX9R0c/maxresdefault_live.jpg",
+        "timestamp": 1785333600,
+        "title": "【hololive Dreams】I AM READY. I WOULD DO ANYTHING!!!!!!!!!!",
+        "video_id": "H-00TwX9R0c"
     }
 ]
