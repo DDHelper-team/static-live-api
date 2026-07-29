@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jlfLTbepO74/maxresdefault_live.jpg",
-        "timestamp": 1785297600,
+        "timestamp": null,
         "title": "【勝利の女神:NIKKE】気になっていたNIKKEを初めてやってみるぞ！！！【夕刻ロベル/ホロスターズ】",
         "video_id": "jlfLTbepO74"
     },
@@ -45,15 +45,6 @@
         "video_id": "muHxz2-hYa0"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ECpmH_qY8Lk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams】PLEASEEE PLEASE JUST ONE MORE STREAM FOR THE NEXT FEW DAYS PLEASEEE",
-        "video_id": "ECpmH_qY8Lk"
-    },
-    {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -74,11 +65,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nr93sv64T-E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RESIDENT EVIL 4】women",
-        "video_id": "nr93sv64T-E"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1xV8zKmL4wc/maxresdefault_live.jpg",
+        "timestamp": 1785373200,
+        "title": "【ANNIVERSARY STREAM】BIBOO IS 3",
+        "video_id": "1xV8zKmL4wc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
@@ -101,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2ih1V4JUGCk/maxresdefault_live.jpg",
-        "timestamp": 1785290400,
+        "timestamp": null,
         "title": "【PRATFALL】 POV: EEPY ZOMBIE DIGS A HOLE IN A BIG COLLAB 【Kureiji Ollie】",
         "video_id": "2ih1V4JUGCk"
     },
@@ -160,5 +151,41 @@
         "timestamp": 1785333600,
         "title": "【hololive Dreams】I AM READY. I WOULD DO ANYTHING!!!!!!!!!!",
         "video_id": "H-00TwX9R0c"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hLoONLJRW7k/maxresdefault_live.jpg",
+        "timestamp": 1785322800,
+        "title": "【 にゃんこ郵便局 】バカタレ郵便局はじめました💌【角巻わため/ホロライブ４期生】",
+        "video_id": "hLoONLJRW7k"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoushouMarine",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iBwdA4RWQUM/maxresdefault_live.jpg",
+        "timestamp": 1785333600,
+        "title": "【誕生日カウントダウン！】【ホロライブ/宝鐘マリン】",
+        "video_id": "iBwdA4RWQUM"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7xpXWMRE4r4/maxresdefault_live.jpg",
+        "timestamp": 1785322800,
+        "title": "【 ASMR/KU100 】メン限おためしASMR 【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "7xpXWMRE4r4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O2MwNSUe0S8/maxresdefault_live.jpg",
+        "timestamp": 1785322800,
+        "title": "【Cat Mail Co.】バカタレ郵便局、開業。　＃バカタレ共【ホロライブ/白上フブキ】",
+        "video_id": "O2MwNSUe0S8"
     }
 ]
