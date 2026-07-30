@@ -74,11 +74,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tKVo6rotrWY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FUWAMOCO 3rd ANNIVERSARY｜３周年凸待ちカウントダウン】CALL-IN COUNTDOWN, together with our dearests 🐾✨️ #FWMC3rd",
-        "video_id": "tKVo6rotrWY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/z1vE21rZEv8/maxresdefault_live.jpg",
+        "timestamp": 1785466800,
+        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】all routes lead to your smile 🐾【VISUAL NOVEL SONGS｜美少女ゲームソング縛り】#FWMC3rd",
+        "video_id": "z1vE21rZEv8"
     },
     {
         "channel": "https://www.youtube.com/@AZKi",
@@ -126,15 +126,6 @@
         "video_id": "lhELE09P530"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fHj47rziifo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【視聴者参加型!?】全人類が（色んな意味で）ドキドキする無人島生活 テニプリを愛する女による実況 part1※ネタバレあり【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "fHj47rziifo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,15 +160,6 @@
         "timestamp": null,
         "title": "【鳴潮】#8 | 完全初見！初めて連星任務をやってみる！【緋月ゆい/ネオポルテ】",
         "video_id": "8j9VlOGH7DQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@TokinoSora",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bKoVhWfiiAY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams】続き進めて強くなる！！【ホロライブ/ときのそら】",
-        "video_id": "bKoVhWfiiAY"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -225,11 +207,12 @@
         "video_id": "HuSpy_RX1YI"
     },
     {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afa9076-00a3-404c-b1b9-c9b422c542f3-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/kotonoha_yukino_",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1785428047.7185166,
+        "timestamp": 1785433602.5720448,
         "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/心音/梵天/耳はむ】 | Streaming asmr."
     },
     {
