@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1xV8zKmL4wc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET\u0026#39;S OPEN A BUSINESS! #CLUB81800",
-        "video_id": "1xV8zKmL4wc"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -20,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BzZuNPNvRVw/maxresdefault_live.jpg",
-        "timestamp": 1785384000,
+        "timestamp": null,
         "title": "【ドキサバ】夏だしサバイバルもしようと思います　1日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "BzZuNPNvRVw"
     },
@@ -92,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LH9DzC2gaM0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【定期配信＃39】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
-        "video_id": "LH9DzC2gaM0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TmzVzJ5noWc/maxresdefault_live.jpg",
+        "timestamp": 1785402000,
+        "title": "【 パワプロ2026 】２年目春甲子園✨ついにホロメンオンリーチーム！栄冠ナイン３年モードを初見プレイ⚾✨【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "TmzVzJ5noWc"
     },
     {
         "channel": "https://www.youtube.com/@holoen_erbloodflame",
@@ -128,10 +119,55 @@
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6DwCbNT90b8/maxresdefault_live.jpg",
-        "timestamp": 1785381300,
+        "timestamp": null,
         "title": "【hololive Dreams ホロライブドリームス】GOOD HOLODORI MORNING ホロドリやるよ〜【hololive ID | Anya】",
         "video_id": "6DwCbNT90b8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7EoBQWYGnXM/maxresdefault_live.jpg",
+        "timestamp": 1785456000,
+        "title": "【RACCOIN: COIN PUSHER ROGUELIKE】gambling for kids【Dokibird】",
+        "video_id": "7EoBQWYGnXM"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7EoBQWYGnXM/maxresdefault_live.jpg",
+        "timestamp": 1785456000,
+        "title": "【RACCOIN: COIN PUSHER ROGUELIKE】gambling for kids【Dokibird】",
+        "video_id": "7EoBQWYGnXM"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/31JQFp4hhvY/maxresdefault_live.jpg",
+        "timestamp": 1785471000,
+        "title": "【受注生産】8周年グッズ！受注予約受付中【7/30まで】",
+        "video_id": "31JQFp4hhvY"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/DCW0CvsJAnw/maxresdefault_live.jpg",
+        "timestamp": 1785400200,
+        "title": "【ホロライブ ドリームス】水着きちゃ！音ゲー初心者！hololive Dreamsやってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "DCW0CvsJAnw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E98jW5bc0qg/maxresdefault_live.jpg",
+        "timestamp": 1785412800,
+        "title": "#3【初見】『コードギアス 反逆のルルーシュR2』同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "E98jW5bc0qg"
     }
 ]
