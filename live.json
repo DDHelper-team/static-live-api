@@ -2,10 +2,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1xV8zKmL4wc/maxresdefault_live.jpg",
-        "timestamp": 1785373200,
-        "title": "【ANNIVERSARY STREAM】BIBOO IS 3",
+        "timestamp": null,
+        "title": "【ANNIVERSARY STREAM】BIBOO IS 3, LET\u0026#39;S OPEN A BUSINESS! #CLUB81800",
         "video_id": "1xV8zKmL4wc"
     },
     {
@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LH9DzC2gaM0/maxresdefault_live.jpg",
-        "timestamp": 1785380400,
+        "timestamp": null,
         "title": "【定期配信＃39】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
         "video_id": "LH9DzC2gaM0"
     },
@@ -115,5 +115,23 @@
         "timestamp": 1785445200,
         "title": "Novelites, Get Into the Time Capsule! 【3rd Anniversary】",
         "video_id": "CkkWwUj6pH0"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoushouMarine",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QixQ-byabOc/maxresdefault_live.jpg",
+        "timestamp": 1785409200,
+        "title": "【#宝鐘マリン生誕祭2026】【ホロライブ/宝鐘マリン】",
+        "video_id": "QixQ-byabOc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6DwCbNT90b8/maxresdefault_live.jpg",
+        "timestamp": 1785381300,
+        "title": "【hololive Dreams ホロライブドリームス】GOOD HOLODORI MORNING ホロドリやるよ〜【hololive ID | Anya】",
+        "video_id": "6DwCbNT90b8"
     }
 ]
