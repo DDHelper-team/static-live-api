@@ -117,15 +117,6 @@
         "video_id": "QixQ-byabOc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6DwCbNT90b8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams ホロライブドリームス】GOOD HOLODORI MORNING ホロドリやるよ〜【hololive ID | Anya】",
-        "video_id": "6DwCbNT90b8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -155,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DCW0CvsJAnw/maxresdefault_live.jpg",
-        "timestamp": 1785400200,
+        "timestamp": null,
         "title": "【ホロライブ ドリームス】水着きちゃ！音ゲー初心者！hololive Dreamsやってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "DCW0CvsJAnw"
     },
@@ -169,5 +160,41 @@
         "timestamp": 1785412800,
         "title": "#3【初見】『コードギアス 反逆のルルーシュR2』同時視聴【ホロライブ/兎田ぺこら】",
         "video_id": "E98jW5bc0qg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tKVo6rotrWY/maxresdefault_live.jpg",
+        "timestamp": 1785420000,
+        "title": "【FUWAMOCO 3rd ANNIVERSARY｜３周年凸待ちカウントダウン】CALL-IN COUNTDOWN, together with our dearests 🐾✨️ #FWMC3rd",
+        "video_id": "tKVo6rotrWY"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/G8IVNgQLlTw/maxresdefault_live.jpg",
+        "timestamp": 1785416400,
+        "title": "【ホロライブ ドリームス】ホロドリの世界へ！今日から始める hololive Dreams #3【ホロライブ / AZKi】",
+        "video_id": "G8IVNgQLlTw"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoshimachiSuisei",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/w5K09LcvPVY/maxresdefault_live.jpg",
+        "timestamp": 1785405600,
+        "title": "なにする【星街すいせい / #ほしまちすたじお】",
+        "video_id": "w5K09LcvPVY"
+    },
+    {
+        "channel": "https://www.youtube.com/@KoganeiNiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yHPEcWeOKRk/maxresdefault_live.jpg",
+        "timestamp": 1785405600,
+        "title": "【NELLマットレス】新しいマットレスの寝心地をレビュー！皆担とニコたんとのアンケート企画もやるぞ～！【虎金妃笑虎】",
+        "video_id": "yHPEcWeOKRk"
     }
 ]
