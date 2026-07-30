@@ -18,15 +18,6 @@
         "video_id": "HIgp_OHYQtc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HAGJ50Zpzy0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "I Have No Thumbs and I Must Scream 【hololive Dreams】",
-        "video_id": "HAGJ50Zpzy0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +97,23 @@
         "timestamp": 1785380400,
         "title": "【定期配信＃39】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
         "video_id": "LH9DzC2gaM0"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_erbloodflame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RNROdqy1XDM/maxresdefault_live.jpg",
+        "timestamp": 1785438000,
+        "title": "Gold Saucer ???🌱【FINAL FANTASY XIV Online】#ad 💄👧",
+        "video_id": "RNROdqy1XDM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CkkWwUj6pH0/maxresdefault_live.jpg",
+        "timestamp": 1785445200,
+        "title": "Novelites, Get Into the Time Capsule! 【3rd Anniversary】",
+        "video_id": "CkkWwUj6pH0"
     }
 ]
