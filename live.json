@@ -27,15 +27,6 @@
         "video_id": "Gzk1f44KTAw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CkkWwUj6pH0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Novelites, Get Into the Time Capsule! 【3rd Anniversary】",
-        "video_id": "CkkWwUj6pH0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -133,5 +124,14 @@
         "timestamp": 1785495600,
         "title": "【ほの暮らしの庭】村の秘密って何ですか？のんびり田舎暮らしが何か怖い？！【周防パトラ】",
         "video_id": "LdZYyJJXosc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k1z3QomTZYk/maxresdefault_live.jpg",
+        "timestamp": 1785456000,
+        "title": "【Clair Obscur: Expedition 33】Oui! Parry!【#2】",
+        "video_id": "k1z3QomTZYk"
     }
 ]
