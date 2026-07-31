@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7EoBQWYGnXM/maxresdefault_live.jpg",
-        "timestamp": 1785456000,
+        "timestamp": null,
         "title": "【RACCOIN: COIN PUSHER ROGUELIKE】gambling for kids【Dokibird】",
         "video_id": "7EoBQWYGnXM"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7EoBQWYGnXM/maxresdefault_live.jpg",
-        "timestamp": 1785456000,
+        "timestamp": null,
         "title": "【RACCOIN: COIN PUSHER ROGUELIKE】gambling for kids【Dokibird】",
         "video_id": "7EoBQWYGnXM"
     },
@@ -101,11 +101,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HuSpy_RX1YI/maxresdefault_live.jpg",
-        "timestamp": 1785459600,
-        "title": "【member\u0026#39;s only】july concert is very freestyle w #calliolive",
-        "video_id": "HuSpy_RX1YI"
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/d0ce8qQxEhU/maxresdefault_live.jpg",
+        "timestamp": 1785549600,
+        "title": "【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive",
+        "video_id": "d0ce8qQxEhU"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k1z3QomTZYk/maxresdefault_live.jpg",
-        "timestamp": 1785456000,
+        "timestamp": null,
         "title": "【Clair Obscur: Expedition 33】Oui! Parry!【#2】",
         "video_id": "k1z3QomTZYk"
     }
