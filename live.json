@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/z1vE21rZEv8/maxresdefault_live.jpg",
-        "timestamp": 1785466800,
+        "timestamp": null,
         "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】all routes lead to your smile 🐾【VISUAL NOVEL SONGS｜美少女ゲームソング縛り】#FWMC3rd",
         "video_id": "z1vE21rZEv8"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CGRZDTmlxLw/maxresdefault_live.jpg",
-        "timestamp": 1785470400,
+        "timestamp": null,
         "title": "【FF10】初見で挑む『FINAL FANTASY X』 3日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "CGRZDTmlxLw"
     },
@@ -99,15 +99,6 @@
         "video_id": "wZTVdKbkvRI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": null,
-        "thumbnail": "https://i.ytimg.com/vi/d0ce8qQxEhU/maxresdefault_live.jpg",
-        "timestamp": 1785549600,
-        "title": "【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive",
-        "video_id": "d0ce8qQxEhU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -122,7 +113,7 @@
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LdZYyJJXosc/maxresdefault_live.jpg",
         "timestamp": 1785495600,
-        "title": "【ほの暮らしの庭】村の秘密って何ですか？のんびり田舎暮らしが何か怖い？！【周防パトラ】",
+        "title": "【ほの暮しの庭】村の秘密って何ですか？のんびり田舎暮らしが何か怖い？！【周防パトラ】",
         "video_id": "LdZYyJJXosc"
     },
     {
@@ -133,5 +124,50 @@
         "timestamp": null,
         "title": "【Clair Obscur: Expedition 33】Oui! Parry!【#2】",
         "video_id": "k1z3QomTZYk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d0ce8qQxEhU/maxresdefault_live.jpg",
+        "timestamp": 1785549600,
+        "title": "【hololive Dreams】is that virtual rockstar mori calliope...?!?! #calliolive",
+        "video_id": "d0ce8qQxEhU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rzIC4P-XLak/maxresdefault_live.jpg",
+        "timestamp": 1785549600,
+        "title": "🎉ADVENT\u0026#39;S 3RD ANNIVERSARY + BIG ANNOUNCEMENT🎉",
+        "video_id": "rzIC4P-XLak"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YzSIyY3gaoQ/maxresdefault_live.jpg",
+        "timestamp": 1785488400,
+        "title": "【ホロライブ ドリームス】ノエル先輩の水着ガチャ引く！音ゲー初心者！hololive Dreamsやってみる！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "YzSIyY3gaoQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HTTp3EVJBkc/maxresdefault_live.jpg",
+        "timestamp": 1785475800,
+        "title": "【hololive Dreams】this is a POKAJAN stream, unless world distracts me hard enough",
+        "video_id": "HTTp3EVJBkc"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/J0WwJaYsgxc/maxresdefault_live.jpg",
+        "timestamp": 1785549600,
+        "title": "【ファイアーエムブレム 風花雪月】完全初見！クラシックでいく金鹿ルート！後編4月出撃から！ #11 【博衣こより/ホロライブ】",
+        "video_id": "J0WwJaYsgxc"
     }
 ]
