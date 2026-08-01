@@ -81,15 +81,6 @@
         "video_id": "pcyDnKZzIFQ"
     },
     {
-        "channel": "https://www.youtube.com/@AZKi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lDGKhxAncEw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロライブ ドリームス】ホロドリの世界へ！今日から始める hololive Dreams #4【ホロライブ / AZKi】",
-        "video_id": "lDGKhxAncEw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
         "platform": "youtube",
         "status": "LIVE",
@@ -106,15 +97,6 @@
         "timestamp": 1785618000,
         "title": "【hololive Dreams】just one more song.....",
         "video_id": "k78QzbKx9yE"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_raorapanthera",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/63XO5GzHeVs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams】GAMBA GAMBA \u0026amp; GACHA GACHA",
-        "video_id": "63XO5GzHeVs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -205,5 +187,14 @@
         "timestamp": 1785661200,
         "title": "【 鳴潮 】エイメスガチャ✨ストーリーも進めていくのら！！！第4章第2幕 Ver.3.5 ＃25【姫森ルーナ/ホロライブ】",
         "video_id": "88SRyvDisQo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zwLbl7YcKuU/maxresdefault_live.jpg",
+        "timestamp": 1785636000,
+        "title": "【ELSWORD】Grinding and chilling",
+        "video_id": "zwLbl7YcKuU"
     }
 ]
