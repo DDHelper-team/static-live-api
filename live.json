@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/k78QzbKx9yE/maxresdefault_live.jpg",
-        "timestamp": 1785618000,
+        "timestamp": null,
         "title": "【hololive Dreams】just one more song.....",
         "video_id": "k78QzbKx9yE"
     },
@@ -187,5 +187,14 @@
         "timestamp": 1785636000,
         "title": "【ELSWORD】Grinding and chilling",
         "video_id": "zwLbl7YcKuU"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Lj0IAiINbEw/maxresdefault_live.jpg",
+        "timestamp": 1785675600,
+        "title": "【 ホロライブドリームス 】ガチャでわため開花させたいし、EPも進めたいし、イベントもやりたい！！【角巻わため/ホロライブ４期生】",
+        "video_id": "Lj0IAiINbEw"
     }
 ]
