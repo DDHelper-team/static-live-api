@@ -108,15 +108,6 @@
         "video_id": "pcyDnKZzIFQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wf5IV4Uo7_o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PUBGM X SPIDER-MAN】yes im that spiderman that use a helmet",
-        "video_id": "wf5IV4Uo7_o"
-    },
-    {
         "channel": "https://www.youtube.com/@AZKi",
         "platform": "youtube",
         "status": "LIVE",
@@ -223,5 +214,14 @@
         "timestamp": 1785631800,
         "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 4【荒咬オウガ /ホロスターズ】",
         "video_id": "DRx9VfCH-D4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Tb0VDntrQJ4/maxresdefault_live.jpg",
+        "timestamp": 1785625200,
+        "title": "【HOLOLIVE DREAMS】PLAYING MY FILL",
+        "video_id": "Tb0VDntrQJ4"
     }
 ]
