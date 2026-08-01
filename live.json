@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/wmBV_fyuyqk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#holoSerendipity CONCERT WATCHALONG】it\u0026#39;s wondrous, somehow we met along the way 🐾 【FUWAMOCO｜同時視聴】",
-        "video_id": "wmBV_fyuyqk"
-    },
-    {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
         "status": "LIVE",
@@ -20,18 +11,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WebpnZwOjUE/maxresdefault_live.jpg",
-        "timestamp": 1785574800,
+        "timestamp": null,
         "title": "【#活俠傳  】2周目！耐久！！！【#TanZ 】",
         "video_id": "WebpnZwOjUE"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WebpnZwOjUE/maxresdefault_live.jpg",
-        "timestamp": 1785574800,
+        "timestamp": null,
         "title": "【#活俠傳  】2周目！耐久！！！【#TanZ 】",
         "video_id": "WebpnZwOjUE"
     },
@@ -137,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/@Robocosan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2SAE_pqldQg/maxresdefault_live.jpg",
-        "timestamp": 1785574800,
+        "timestamp": null,
         "title": "【 #漢義リーグ 第8節】1着で上がるPONをみよ！！！！！！ #秋麗宝燈  w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
         "video_id": "2SAE_pqldQg"
     },
@@ -164,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6DwQNBZwIGk/maxresdefault_live.jpg",
-        "timestamp": 1785574800,
+        "timestamp": null,
         "title": "【ホロドリ雑談】こんなに清楚なのに・・・【白銀ノエル/ホロライブ】",
         "video_id": "6DwQNBZwIGk"
     },
@@ -178,15 +169,6 @@
         "timestamp": null,
         "title": "【Scritchy Scratchy】スクラッチに命をかけるのは危険です【ホロライブ/大神ミオ】",
         "video_id": "iYya3WqRjxM"
-    },
-    {
-        "channel": "https://www.youtube.com/@TokinoSora",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/n7wcHbgBjYQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ゼルダの伝説 夢をみる島 】夢をみてるのは誰なのか＃６【ホロライブ/ときのそら】",
-        "video_id": "n7wcHbgBjYQ"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -205,5 +187,59 @@
         "timestamp": 1785589200,
         "title": "【PUBGM X SPIDER-MAN】yes im that spiderman that use a helmet",
         "video_id": "wf5IV4Uo7_o"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bHrTpZTj7RE/maxresdefault_live.jpg",
+        "timestamp": 1785582000,
+        "title": "【ホロドリ】新鮮な水着だああああああああ！！！全部引くぞ！！！！【獅白ぼたん/ホロライブ】",
+        "video_id": "bHrTpZTj7RE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pGj7BuMIysI/maxresdefault_live.jpg",
+        "timestamp": 1785578400,
+        "title": "【パワプロ2026】3年目最後の夏！兎☆ダイナマイト高校 いくぞおおおおおおおおおおお！ぺこ！【ホロライブ/兎田ぺこら】＃パワプロケモミミリーグ",
+        "video_id": "pGj7BuMIysI"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lDGKhxAncEw/maxresdefault_live.jpg",
+        "timestamp": 1785589200,
+        "title": "【ホロライブ ドリームス】ホロドリの世界へ！今日から始める hololive Dreams #4【ホロライブ / AZKi】",
+        "video_id": "lDGKhxAncEw"
+    },
+    {
+        "channel": "https://www.youtube.com/@AkiRosenthal",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NzOG237Jrms/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 #漢義リーグ 】第8節！今日の命運は？応援は #秋麗宝燈 で！w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
+        "video_id": "NzOG237Jrms"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/i6CyazZzF14/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "VCR RUST 超叉兵団 あと4日!?!? ボス制覇間に合うの...か...  / アステル",
+        "video_id": "i6CyazZzF14"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k78QzbKx9yE/maxresdefault_live.jpg",
+        "timestamp": 1785618000,
+        "title": "【hololive Dreams】just one more song.....",
+        "video_id": "k78QzbKx9yE"
     }
 ]
