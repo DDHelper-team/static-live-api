@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VbJcErxLlFI/maxresdefault_live.jpg",
-        "timestamp": 1785709800,
+        "timestamp": null,
         "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
         "video_id": "VbJcErxLlFI"
     },
@@ -101,19 +101,28 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/b5i2Z9KEQws/maxresdefault_live.jpg",
-        "timestamp": 1785708922,
+        "timestamp": null,
         "title": "【雑談】おはよ！8月もよろしくね🌊【緋月ゆい/ネオポルテ】",
         "video_id": "b5i2Z9KEQws"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/b5i2Z9KEQws/maxresdefault_live.jpg",
-        "timestamp": 1785708922,
+        "timestamp": null,
         "title": "【雑談】おはよ！8月もよろしくね🌊【緋月ゆい/ネオポルテ】",
         "video_id": "b5i2Z9KEQws"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Pp1GjYyHa8U/maxresdefault_live.jpg",
+        "timestamp": 1785751200,
+        "title": "【 NEXTGEAR 】現実世界に帰れない！？案件中なのに大ピンチ電脳世界から脱出せよ！【角巻わため/常闇トワ/ホロライブ４期生】",
+        "video_id": "Pp1GjYyHa8U"
     }
 ]
