@@ -38,18 +38,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ftGnFcTMdSE/maxresdefault_live.jpg",
-        "timestamp": 1785643200,
+        "timestamp": null,
         "title": "【パワプロ2026】王立天狐学園２年目春🌽春の甲子園一回戦!!   #パワプロケモミミリーグ【ホロライブ/白上フブキ】",
         "video_id": "ftGnFcTMdSE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cUa4N6zurbw/maxresdefault_live.jpg",
-        "timestamp": 1785643200,
+        "timestamp": null,
         "title": "【#5】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "cUa4N6zurbw"
     },
@@ -63,15 +63,6 @@
         "video_id": "pcyDnKZzIFQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZSLfgSfL2Ik/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【PHOGS】3 years straight of our yearly tradition 🐾  #FWMC3rd",
-        "video_id": "ZSLfgSfL2Ik"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -83,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wllGPle-8yQ/maxresdefault_live.jpg",
-        "timestamp": 1785646800,
+        "timestamp": null,
         "title": "【 アイビスサマーダッシュ＆クイーンS 】直1000きた‼絶対的中するぞおおおお【鷹嶺ルイ/ホロライブ】",
         "video_id": "wllGPle-8yQ"
     },
@@ -153,30 +144,48 @@
         "video_id": "mkRMphI5oJM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PXPHVIb3smA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARMORED CORE 6】gonna try to get first ending !!【Dokibird】",
-        "video_id": "PXPHVIb3smA"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PXPHVIb3smA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARMORED CORE 6】gonna try to get first ending !!【Dokibird】",
-        "video_id": "PXPHVIb3smA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BW4ZFKfVmYM/maxresdefault_live.jpg",
-        "timestamp": 1785646800,
+        "timestamp": null,
         "title": "【FF14】#フブキの宿題 ﾜｽﾚﾃﾅｲﾖ･･･#黄金やれござる ※配信内容にネタバレあり【風真いろは/ホロライブ】",
         "video_id": "BW4ZFKfVmYM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_iFIf-XjLRM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 GeoGuessr 】リスナーの『集合知』で住所特定お散歩♡【 領国つかさ / すぺしゃりて 】",
+        "video_id": "_iFIf-XjLRM"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_iFIf-XjLRM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 GeoGuessr 】リスナーの『集合知』で住所特定お散歩♡【 領国つかさ / すぺしゃりて 】",
+        "video_id": "_iFIf-XjLRM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n6ZkZ6nspKo/maxresdefault_live.jpg",
+        "timestamp": 1785657600,
+        "title": "【ホロドリ】大神ミオのガチャ運や如何に？！水着・・引くか！【ホロライブ/大神ミオ】",
+        "video_id": "n6ZkZ6nspKo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zwLbl7YcKuU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ELSWORD】Grinding and chilling",
+        "video_id": "zwLbl7YcKuU"
     }
 ]
