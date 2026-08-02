@@ -38,20 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ftGnFcTMdSE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パワプロ2026】王立天狐学園２年目春🌽春の甲子園一回戦!!   #パワプロケモミミリーグ【ホロライブ/白上フブキ】",
-        "video_id": "ftGnFcTMdSE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cUa4N6zurbw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#5】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "cUa4N6zurbw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FF7CxNDMxU4/maxresdefault_live.jpg",
+        "timestamp": 1785672000,
+        "title": "【ホロドリ】#ホロポカジャン廃　今宵集まりし…ポカジャンに狂ったホロメン【ホロライブ/白上フブキ】",
+        "video_id": "FF7CxNDMxU4"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -74,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/88SRyvDisQo/maxresdefault_live.jpg",
-        "timestamp": 1785661200,
+        "timestamp": null,
         "title": "【 鳴潮 】エイメスガチャ✨ストーリーも進めていくのら！！！第4章第2幕 Ver.3.5 ＃25【姫森ルーナ/ホロライブ】",
         "video_id": "88SRyvDisQo"
     },
@@ -135,21 +126,12 @@
         "video_id": "BW4ZFKfVmYM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/n6ZkZ6nspKo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロドリ】大神ミオのガチャ運や如何に？！水着・・引くか！【ホロライブ/大神ミオ】",
-        "video_id": "n6ZkZ6nspKo"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
         "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zwLbl7YcKuU/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【ELSWORD】Grinding and chilling",
+        "title": "【ELSWORD】GRINDING TITLE NATURAL FLOW",
         "video_id": "zwLbl7YcKuU"
     },
     {
@@ -169,15 +151,6 @@
         "timestamp": null,
         "title": "BERDINKUM with @sammybollivienn \u0026amp; @sayaayaaulya",
         "video_id": "YW40JCfp6Lo"
-    },
-    {
-        "channel": "https://www.youtube.com/@TokoyamiTowa",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_g_xW03yfqg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 hololive Dreams 】夏イベのふーたんGETしたい‼️こい‼️【常闇トワ / ホロライブ】",
-        "video_id": "_g_xW03yfqg"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -214,5 +187,14 @@
         "timestamp": 1785675600,
         "title": "【メン限】月イチみんなとまったり雑談！8月ここだけの話！【ホロライブ / AZKi】",
         "video_id": "wiXuqWgajqY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/N4zsXxYMNvU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "VCR RUST 超叉兵団 Dの意思を引き継ぐエレン  / アステル",
+        "video_id": "N4zsXxYMNvU"
     }
 ]
