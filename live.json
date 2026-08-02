@@ -36,15 +36,6 @@
         "video_id": "BKRFouYnTgY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/N4zsXxYMNvU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "VCR RUST 超叉兵団 Dの意思を引き継ぐエレン  / アステル",
-        "video_id": "N4zsXxYMNvU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
         "platform": "youtube",
         "status": "LIVE",
@@ -124,5 +115,14 @@
         "timestamp": 1785751200,
         "title": "【オフコラボ3D】#KoZMy 1周年記念！そうめん最強薬味決定戦！！！【ホロライブ / AZKi / 博衣こより / 雪花ラミィ】",
         "video_id": "KArLrSHxlfI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/V1CpHfFWA04/maxresdefault_live.jpg",
+        "timestamp": 1785758400,
+        "title": "エンジン全開レッツゴー  ～ ぶるんぶるん編 ～",
+        "video_id": "V1CpHfFWA04"
     }
 ]
