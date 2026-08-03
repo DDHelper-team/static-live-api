@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/70st9GAzTsU/maxresdefault_live.jpg",
-        "timestamp": 1785729600,
+        "timestamp": null,
         "title": "【勝利の女神:NIKKE】ストーリーを進めさせていただく男【夕刻ロベル/ホロスターズ】",
         "video_id": "70st9GAzTsU"
     },
@@ -45,24 +45,6 @@
         "video_id": "88WcglQIKkI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2Qoc1B-Sqog/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Toilet 8】i just wanna be part of your skibidi",
-        "video_id": "2Qoc1B-Sqog"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EDJtY-cNgtA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【らでん自習室】8月3日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-        "video_id": "EDJtY-cNgtA"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -90,24 +72,6 @@
         "video_id": "V1CpHfFWA04"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/b5i2Z9KEQws/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！8月もよろしくね🌊【緋月ゆい/ネオポルテ】",
-        "video_id": "b5i2Z9KEQws"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/b5i2Z9KEQws/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！8月もよろしくね🌊【緋月ゆい/ネオポルテ】",
-        "video_id": "b5i2Z9KEQws"
-    },
-    {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +79,41 @@
         "timestamp": 1785751200,
         "title": "【 NEXTGEAR 】現実世界に帰れない！？案件中なのに大ピンチ電脳世界から脱出せよ！【角巻わため/常闇トワ/ホロライブ４期生】",
         "video_id": "Pp1GjYyHa8U"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Fsutl8YppqM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "Monday + Malas = MMM #MMMalas",
+        "video_id": "Fsutl8YppqM"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mHOabgRDHuo/maxresdefault_live.jpg",
+        "timestamp": 1785794400,
+        "title": "【 #朝こよ 】8月最初の火曜日の朝も！朝こよ！☀ #292 【博衣こより/hololive】",
+        "video_id": "mHOabgRDHuo"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gokwtyh4G_8/maxresdefault_live.jpg",
+        "timestamp": 1785744000,
+        "title": "【 NARUTO ナルティメットストーム２】完全初見！チーム蛇いけるんかあ！？【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+        "video_id": "gokwtyh4G_8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/b8_j8m0nPYk/maxresdefault_live.jpg",
+        "timestamp": 1785787200,
+        "title": "❗Shueisha Games SURPRISE❗ #PR",
+        "video_id": "b8_j8m0nPYk"
     }
 ]
