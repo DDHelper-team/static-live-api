@@ -20,20 +20,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mHOabgRDHuo/maxresdefault_live.jpg",
-        "timestamp": 1785794400,
+        "timestamp": null,
         "title": "【 #朝こよ 】8月最初の火曜日の朝も！朝こよ！☀ #292 【博衣こより/hololive】",
         "video_id": "mHOabgRDHuo"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/b8_j8m0nPYk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "❗Shueisha Games SURPRISE❗ #PR",
-        "video_id": "b8_j8m0nPYk"
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
@@ -106,5 +97,14 @@
         "timestamp": 1785837600,
         "title": "【 パワプロ2026 】初めての栄冠ナイン!! 3年目最後の甲子園!!【 猫又おかゆ/ホロライブ 】#パワプロケモミミリーグ",
         "video_id": "QEaVIry_L3w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/46L0IrN63v0/maxresdefault_live.jpg",
+        "timestamp": 1785873600,
+        "title": "The Moon is Falling Or Is It You? 【Schrödinger\u0026#39;s Call】 ❗SPOILERS❗",
+        "video_id": "46L0IrN63v0"
     }
 ]
