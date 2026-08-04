@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qnaiwq7M6Ss/maxresdefault_live.jpg",
-        "timestamp": 1785816000,
+        "timestamp": null,
         "title": "【FF10】初見で挑む『FINAL FANTASY X』 4日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "qnaiwq7M6Ss"
     },
@@ -25,15 +25,6 @@
         "timestamp": 1785837600,
         "title": "【はいしんよていち】こよーーーーーーーーーーッ！！！！！！【博衣こより/ホロライブ】",
         "video_id": "CPrKbRc3mos"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/M8XGagAzSWM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【らでん自習室】8月4日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-        "video_id": "M8XGagAzSWM"
     },
     {
         "channel": "https://www.youtube.com/@SakuraMiko",
@@ -124,5 +115,41 @@
         "timestamp": null,
         "title": "【Clair Obscur: Expedition 33】Okay, Hear Me Out...【#3】",
         "video_id": "0DkC5Z4ncMA"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dw7mGZA7bC0/maxresdefault_live.jpg",
+        "timestamp": 1785848400,
+        "title": "【 シニガミ姫と異書館ノ怪物 】オオカミ姫役のわため、初プレイ！！【角巻わため/ホロライブ４期生】",
+        "video_id": "dw7mGZA7bC0"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gQ_nUUdiDwo/maxresdefault_live.jpg",
+        "timestamp": 1785835800,
+        "title": "【 NARUTO ナルティメットストーム２】完全初見！ペイン・・許すまじ・・【ホロライブ DEV_IS 響咲リオナ】※ネタバレあり",
+        "video_id": "gQ_nUUdiDwo"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fIYQDsU5st8/maxresdefault_live.jpg",
+        "timestamp": 1785844800,
+        "title": "【 AmongUsコラボ 】【姫森ルーナ/ホロライブ】",
+        "video_id": "fIYQDsU5st8"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kw1TzX8ZYZs/maxresdefault_live.jpg",
+        "timestamp": 1785834000,
+        "title": "【 ヨッシーアイランド 】完全初見！人生初のヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "kw1TzX8ZYZs"
     }
 ]
