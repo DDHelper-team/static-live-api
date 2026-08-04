@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/46L0IrN63v0/maxresdefault_live.jpg",
-        "timestamp": 1785873600,
+        "timestamp": null,
         "title": "The Moon is Falling Or Is It You? 【Schrödinger\u0026#39;s Call】 ❗SPOILERS❗",
         "video_id": "46L0IrN63v0"
     },
@@ -25,15 +25,6 @@
         "timestamp": 1785927600,
         "title": "【パワプロ2026】王立天狐学園３年目夏🌽夏の県大会二回戦!!   #パワプロケモミミリーグ【ホロライブ/白上フブキ】",
         "video_id": "5YJX-sZqFuo"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6hQOhIy_0qI/maxresdefault_live.jpg",
-        "timestamp": 1785877200,
-        "title": "【AMERICAN TRUCK SIMULATOR】i don\u0026#39;t even know what an america is",
-        "video_id": "6hQOhIy_0qI"
     },
     {
         "channel": "https://www.youtube.com/@AIChannel",
@@ -106,5 +97,14 @@
         "timestamp": 1785934800,
         "title": "【 シニガミ姫と異書館ノ怪物 】オオカミ姫役のわため、初プレイ！！#2【角巻わため/ホロライブ４期生】※ネタバレあり",
         "video_id": "ts_djN8fLAY"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6hQOhIy_0qI/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【AMERICAN TRUCK SIMULATOR】i don\u0026#39;t even know what an america is",
+        "video_id": "6hQOhIy_0qI"
     }
 ]
