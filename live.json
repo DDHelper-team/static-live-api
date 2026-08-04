@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/M8XGagAzSWM/maxresdefault_live.jpg",
-        "timestamp": 1785805200,
+        "timestamp": null,
         "title": "【らでん自習室】8月4日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
         "video_id": "M8XGagAzSWM"
     },
@@ -106,5 +106,23 @@
         "timestamp": 1785873600,
         "title": "The Moon is Falling Or Is It You? 【Schrödinger\u0026#39;s Call】 ❗SPOILERS❗",
         "video_id": "46L0IrN63v0"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YVc5seLdkdY/maxresdefault_live.jpg",
+        "timestamp": 1785852000,
+        "title": "【ASK ME ANYTHING】I answer 100 Questions!!!",
+        "video_id": "YVc5seLdkdY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0DkC5Z4ncMA/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Clair Obscur: Expedition 33】Okay, Hear Me Out...【#3】",
+        "video_id": "0DkC5Z4ncMA"
     }
 ]
