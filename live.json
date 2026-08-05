@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/__5wzG3g-es/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MECCHA CHAMELEON】practice with Kaeluarga for tomorrow collab【#PemaloeMonth2026】",
-        "video_id": "__5wzG3g-es"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/npr2NKqfwnY/maxresdefault_live.jpg",
+        "timestamp": 1786023000,
+        "title": "【MECCHA CHAMELEON】i got invited to a big collab and i need to camouflage【ID VTUBERS】",
+        "video_id": "npr2NKqfwnY"
     },
     {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
@@ -90,24 +90,6 @@
         "video_id": "YBO8AbDdBKc"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SY-UNVtexyY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "VCR RUST 超叉兵団 成果は得られる  / アステル",
-        "video_id": "SY-UNVtexyY"
-    },
-    {
-        "channel": "https://www.youtube.com/@MizumiyaSu",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Yx2i-vsFQlA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【同時視聴】ウマ娘シンデレラグレイ14話～　#3【水宮枢／ホロライブDEV_IS】",
-        "video_id": "Yx2i-vsFQlA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,24 +106,6 @@
         "timestamp": null,
         "title": "【雑談】最近あったこととかホロドリの話とか【不知火フレア/ホロライブ】",
         "video_id": "adr2JWRLlvM"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vg0bWBDtmm8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 DARK SOULS Ⅱ 】完全初見！脳筋中学生、ダクソ２を始める。#11【 領国つかさ / すぺしゃりて 】",
-        "video_id": "vg0bWBDtmm8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vg0bWBDtmm8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 DARK SOULS Ⅱ 】完全初見！脳筋中学生、ダクソ２を始める。#11【 領国つかさ / すぺしゃりて 】",
-        "video_id": "vg0bWBDtmm8"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -178,5 +142,50 @@
         "timestamp": 1785978000,
         "title": "【らでん自習室】8月6日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
         "video_id": "aiPtAB66Eb4"
+    },
+    {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afa9076-00a3-404c-b1b9-c9b422c542f3-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/kotonoha_yukino_",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
+        "timestamp": 1785952158.3449018,
+        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr for 244 viewers."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/H4hXDkWP5p0/maxresdefault_live.jpg",
+        "timestamp": 1786028400,
+        "title": "台灣ASMR｜兩人距離接近到能聽到心跳♡ 心音・耳語・安撫按摩【無中插廣告｜No Ads】",
+        "video_id": "H4hXDkWP5p0"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/H4hXDkWP5p0/maxresdefault_live.jpg",
+        "timestamp": 1786028400,
+        "title": "台灣ASMR｜兩人距離接近到能聽到心跳♡ 心音・耳語・安撫按摩【無中插廣告｜No Ads】",
+        "video_id": "H4hXDkWP5p0"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PjSNkxKVv90/maxresdefault_live.jpg",
+        "timestamp": 1785985200,
+        "title": "【定期配信＃40】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+        "video_id": "PjSNkxKVv90"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/koFXxIaC2R4/maxresdefault_live.jpg",
+        "timestamp": 1786021200,
+        "title": "【 🟣Fields of Mistria 】睡眠導入◎ のんびり牧場暮らし🐄✦ 【 猫又おかゆ/ホロライブ 】",
+        "video_id": "koFXxIaC2R4"
     }
 ]
