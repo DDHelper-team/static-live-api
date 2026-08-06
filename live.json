@@ -54,15 +54,6 @@
         "video_id": "EzIsO0XwP9s"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7ehCTasU1sU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【勝利の女神:NIKKE】ストーリー6章から進めていく男【夕刻ロベル/ホロスターズ】",
-        "video_id": "7ehCTasU1sU"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -101,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-TT2aKZThyk/maxresdefault_live.jpg",
-        "timestamp": 1786006800,
+        "timestamp": null,
         "title": "【雑談】雑談と会議しよう、、【水宮枢／ホロライブDEV_IS】",
         "video_id": "-TT2aKZThyk"
     },
@@ -173,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NZD6r0F6wFk/maxresdefault_live.jpg",
-        "timestamp": 1786006800,
+        "timestamp": null,
         "title": "【 ヨッシーアイランド 】完全初見！人生初のヨッシーアイランドに挑戦！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "NZD6r0F6wFk"
     },
@@ -187,5 +178,68 @@
         "timestamp": 1786017600,
         "title": "#4【初見】『コードギアス 反逆のルルーシュR2』同時視聴【ホロライブ/兎田ぺこら】",
         "video_id": "J8SWR9hq1TU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dz7lffgGd5c/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【OW / #激闘遊戯 】女子チームいくぞーーー！！！【 奏手イヅル 】",
+        "video_id": "dz7lffgGd5c"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YU05ZltlR-E/maxresdefault_live.jpg",
+        "timestamp": 1786050000,
+        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】i\u0026#39;ve been talking about playing this for months and here we are",
+        "video_id": "YU05ZltlR-E"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qu9J9nvqARw/maxresdefault_live.jpg",
+        "timestamp": 1786014000,
+        "title": "【ほの暮しの庭】秋から！急展開ストーリー？！のんびり田舎暮らしが何か怖い？！【周防パトラ】",
+        "video_id": "qu9J9nvqARw"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-Kn4_NE1F3E/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 STREET FIGHTER 6 】招集【常闇トワ/ホロライブ】",
+        "video_id": "-Kn4_NE1F3E"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3hrmpHUJcxQ/maxresdefault_live.jpg",
+        "timestamp": 1786024800,
+        "title": "【Rhythm Heaven Groove】RHYTHM HEAVEN OR RHYTHM HELL?!",
+        "video_id": "3hrmpHUJcxQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jbu_zJtuMU0/maxresdefault_live.jpg",
+        "timestamp": 1786008600,
+        "title": "【歌枠】夏っぽい歌を聞いてください【ホロライブ/大神ミオ】",
+        "video_id": "jbu_zJtuMU0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fhc67kDKU94/maxresdefault_live.jpg",
+        "timestamp": 1786010400,
+        "title": "【漢字でGOGO】信じられないかもですがサムネの子はかなり賢い子です。【風真いろは/ホロライブ】",
+        "video_id": "fhc67kDKU94"
     }
 ]
