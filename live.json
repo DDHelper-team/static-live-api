@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/whjZZ4ZMnBk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "May I Master the Sword of Arts Online? 【Echoes of Aincrad】 ❗SPOILERS",
-        "video_id": "whjZZ4ZMnBk"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -20,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/otOyCJ3awWE/maxresdefault_live.jpg",
-        "timestamp": 1785981600,
+        "timestamp": null,
         "title": "【Scritchy Scratchy】 IM GONNA BE RICH 【Kureiji Ollie】",
         "video_id": "otOyCJ3awWE"
     },
@@ -63,15 +54,6 @@
         "video_id": "EzIsO0XwP9s"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YBO8AbDdBKc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LEAGUE OF LEGENDS】RISEEEEEEEEEEEEEEE RISEEEEEEEEEEEEEEEEE",
-        "video_id": "YBO8AbDdBKc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -88,15 +70,6 @@
         "timestamp": 1786014000,
         "title": "【3Dバトル】らではじリオニコ、ガチバトル開幕 MCのりりーか【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "VmKCcGnOv2c"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/aiPtAB66Eb4/maxresdefault_live.jpg",
-        "timestamp": 1785978000,
-        "title": "【らでん自習室】8月6日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-        "video_id": "aiPtAB66Eb4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
@@ -119,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PjSNkxKVv90/maxresdefault_live.jpg",
-        "timestamp": 1785985200,
+        "timestamp": null,
         "title": "【定期配信＃40】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
         "video_id": "PjSNkxKVv90"
     },
@@ -146,19 +119,64 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0YIqUWm4DMw/maxresdefault_live.jpg",
-        "timestamp": 1785978026,
-        "title": "雷避け200回しながら、雑談するだけWWWW【FF10】【緋月ゆい/ネオポルテ】※ネタバレあり",
+        "timestamp": null,
+        "title": "雷避け200回しながら雑談するだけだったが、思ったよりさっくりいけてしまったので、エンドコンテンツをやってみた。【FF10】【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "0YIqUWm4DMw"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0YIqUWm4DMw/maxresdefault_live.jpg",
-        "timestamp": 1785978026,
-        "title": "雷避け200回しながら、雑談するだけWWWW【FF10】【緋月ゆい/ネオポルテ】※ネタバレあり",
+        "timestamp": null,
+        "title": "雷避け200回しながら雑談するだけだったが、思ったよりさっくりいけてしまったので、エンドコンテンツをやってみた。【FF10】【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "0YIqUWm4DMw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v20tKX4gLIg/maxresdefault_live.jpg",
+        "timestamp": 1786046400,
+        "title": "Playing with a -20ms Debuff 【hololive Dreams】",
+        "video_id": "v20tKX4gLIg"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ny8JVNSYMs4/maxresdefault_live.jpg",
+        "timestamp": 1786021200,
+        "title": "#14【ドラゴンクエストVII Reimagined】DQ7完全初見！ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
+        "video_id": "ny8JVNSYMs4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Robocosan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0W9v3sE22rY/maxresdefault_live.jpg",
+        "timestamp": 1785988800,
+        "title": "【MGMG EAT】最近はせいろ料理にはまってるよん！！一緒にごはんたべよ～　【ホロライブ/ロボ子さん】",
+        "video_id": "0W9v3sE22rY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7mfg53AMLXw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雑談 】アツい夏休みは僕と楽しもう🎐【 領国つかさ / すぺしゃりて 】",
+        "video_id": "7mfg53AMLXw"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7mfg53AMLXw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雑談 】アツい夏休みは僕と楽しもう🎐【 領国つかさ / すぺしゃりて 】",
+        "video_id": "7mfg53AMLXw"
     }
 ]
