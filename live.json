@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VUad6DmWeXg/maxresdefault_live.jpg",
-        "timestamp": 1786089600,
+        "timestamp": null,
         "title": "【 ホロドリ 】今全キャラ解放してるからmiCometも解放しないと…(使命感)【鷹嶺ルイ/ホロライブ】",
         "video_id": "VUad6DmWeXg"
     },
@@ -110,10 +110,10 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Yyl9sBUvVc0/maxresdefault_live.jpg",
-        "timestamp": 1786091400,
-        "title": "【 夜勤事件 】新エンディング！？深夜のコンビニで働きます！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "timestamp": null,
+        "title": "【日本事故物件監視協会3】新作！実在する事故物件を監視します！たすけて！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "Yyl9sBUvVc0"
     },
     {
@@ -178,5 +178,50 @@
         "timestamp": 1786105800,
         "title": "【Post-Talk💬】LOVE MISSION♡",
         "video_id": "U83ZaZwuPgY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rVFmMr06_DI/maxresdefault_live.jpg",
+        "timestamp": 1786104000,
+        "title": "【日本事故物件監視協会３】今年イチやばい…実在する事故物件を監視する仕事をします…！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "rVFmMr06_DI"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uG9c_4e_T7Y/maxresdefault_live.jpg",
+        "timestamp": 1786104000,
+        "title": "【#ff14  】今天來跑6版主線劇情囉!!!!【#ゲーム個人勢 / Fingla】",
+        "video_id": "uG9c_4e_T7Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uG9c_4e_T7Y/maxresdefault_live.jpg",
+        "timestamp": 1786104000,
+        "title": "【#ff14  】今天來跑6版主線劇情囉!!!!【#ゲーム個人勢 / Fingla】",
+        "video_id": "uG9c_4e_T7Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MKgiMDWp_Wc/maxresdefault_live.jpg",
+        "timestamp": 1786093200,
+        "title": "【Minecraft / #ストリヌ 】異世界転生マイクラ！【 #奏手イヅル 】",
+        "video_id": "MKgiMDWp_Wc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FN-UmxThva0/maxresdefault_live.jpg",
+        "timestamp": 1786093200,
+        "title": "【歌枠 / karaoke】風流ですなぁ～ / アステル",
+        "video_id": "FN-UmxThva0"
     }
 ]
