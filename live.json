@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F_Lg4nGV1XM/maxresdefault_live.jpg",
-        "timestamp": 1786068000,
+        "timestamp": null,
         "title": "【Restore YOUR Island】 SAVE THE OCTOPUS 【Kureiji Ollie】",
         "video_id": "F_Lg4nGV1XM"
     },
@@ -63,20 +63,11 @@
         "video_id": "Z9FwBFOLIwc"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YU05ZltlR-E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】i\u0026#39;ve been talking about playing this for months and here we are",
-        "video_id": "YU05ZltlR-E"
-    },
-    {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CnYYXV46B8A/maxresdefault_live.jpg",
-        "timestamp": 1786071600,
+        "timestamp": null,
         "title": "【ホロドリ】え！？もう新水着⁉水着が来るなら、引かねば無作法というもの・・・無課金で揃えっぞ！！！【博衣こより/ホロライブ】",
         "video_id": "CnYYXV46B8A"
     },
@@ -108,15 +99,6 @@
         "video_id": "x8D5QvYw5bI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LNAXHC_psU0/maxresdefault_live.jpg",
-        "timestamp": 1786064400,
-        "title": "【#holoAdvent Q\u0026amp;A COLLAB】answering your BURNING questions for our 3rd anniversary 🐾 【FUWAMOCO】",
-        "video_id": "LNAXHC_psU0"
-    },
-    {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -135,15 +117,6 @@
         "video_id": "oqyD7IXqlfs"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_erbloodflame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SlcmjzBIkDM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Kingdom Co-Working】Focus with me 💄",
-        "video_id": "SlcmjzBIkDM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
         "status": "LIVE",
@@ -160,5 +133,41 @@
         "timestamp": 1786100400,
         "title": "【ほの暮しの庭】冬から！隠された村の秘密？！のんびり田舎暮らしが何か怖い？！【周防パトラ】",
         "video_id": "4ybzHL-Bq1Y"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YG14cnOcF2w/maxresdefault_live.jpg",
+        "timestamp": 1786100400,
+        "title": "【メニコン】3人でアクティブな毎日を、クリアな瞳で。【轟はじめ／ホロライブDEV_IS】",
+        "video_id": "YG14cnOcF2w"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Yyl9sBUvVc0/maxresdefault_live.jpg",
+        "timestamp": 1786091400,
+        "title": "【 夜勤事件 】新エンディング！？深夜のコンビニで働きます！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "Yyl9sBUvVc0"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokinoSora",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5IpdYy91D-Y/maxresdefault_live.jpg",
+        "timestamp": 1786098600,
+        "title": "【新〇〇公開！？ 】そらぱ最新情報＆本日から2次先行開始です！！【ホロライブ/ときのそら】",
+        "video_id": "5IpdYy91D-Y"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/K0fJZ32s6RI/maxresdefault_live.jpg",
+        "timestamp": 1786096800,
+        "title": "【 ホットペッパーグルメの席押さえ】みこラミィでホロ飲みオフコラボするにぇ～～！✨【さくらみこ/雪花ラミィ/ホロライブ】",
+        "video_id": "K0fJZ32s6RI"
     }
 ]
