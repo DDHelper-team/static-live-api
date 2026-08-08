@@ -36,15 +36,6 @@
         "video_id": "lsbDcd9AJdY"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_raorapanthera",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/z9MZH1pbukc/maxresdefault_live.jpg",
-        "timestamp": 1786197600,
-        "title": "【hololive Dreams】PLEASE GACHA GODS BLESS ME ONE MORE TIME",
-        "video_id": "z9MZH1pbukc"
-    },
-    {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
         "platform": "youtube",
         "status": "LIVE",
@@ -162,24 +153,6 @@
         "video_id": "d3p2MKLaVlI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ElfZT3OkVpw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 日本事故物件監視協会3 】日本に実在する事故物件を監視します。【 領国つかさ / すぺしゃりて 】",
-        "video_id": "ElfZT3OkVpw"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ElfZT3OkVpw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 日本事故物件監視協会3 】日本に実在する事故物件を監視します。【 領国つかさ / すぺしゃりて 】",
-        "video_id": "ElfZT3OkVpw"
-    },
-    {
         "channel": "https://www.youtube.com/@ShiranuiFlare",
         "platform": "youtube",
         "status": "LIVE",
@@ -205,5 +178,14 @@
         "timestamp": 1786248000,
         "title": "【バハムートラグーン】23章から最終回まで！スクウェアの名作！バハムートラグーンを初見プレイ！Bahamut Lagoon【周防パトラ】",
         "video_id": "uA_rICedyuc"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/z9MZH1pbukc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive Dreams】PLEASE GACHA GODS BLESS ME ONE MORE TIME",
+        "video_id": "z9MZH1pbukc"
     }
 ]
