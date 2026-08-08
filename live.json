@@ -2,7 +2,7 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/B5xCTjUjxwQ/maxresdefault_live.jpg",
         "timestamp": null,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #07 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
@@ -169,5 +169,32 @@
         "timestamp": null,
         "title": "【hololive Dreams】PLEASE GACHA GODS BLESS ME ONE MORE TIME",
         "video_id": "z9MZH1pbukc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Q_mHlyrKGtw/maxresdefault_live.jpg",
+        "timestamp": 1786287600,
+        "title": "【KU100/ASMR】し～～っ！声だしたらダメだよ…？♡アイドルとナイショの密会…！？3D新衣装お披露目×TalkingASMR♡【新衣装お披露目/囁き雑談】#けもりふ3D新衣装",
+        "video_id": "Q_mHlyrKGtw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/t-a5mlTMBtQ/maxresdefault_live.jpg",
+        "timestamp": 1786236600,
+        "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 5【荒咬オウガ /ホロスターズ】",
+        "video_id": "t-a5mlTMBtQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/e8nrouHntp4/maxresdefault_live.jpg",
+        "timestamp": 1786251600,
+        "title": "#7【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "e8nrouHntp4"
     }
 ]
