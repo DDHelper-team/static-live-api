@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/q8MU2PSEGA0/maxresdefault_live.jpg",
-        "timestamp": 1786161600,
+        "timestamp": null,
         "title": "【#6】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "q8MU2PSEGA0"
     },
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3GYXdabivHk/maxresdefault_live.jpg",
-        "timestamp": 1786161600,
+        "timestamp": null,
         "title": "【バハムートラグーン】18章から！スクウェアの名作！バハムートラグーンを初見プレイ！Bahamut Lagoon【周防パトラ】",
         "video_id": "3GYXdabivHk"
     },
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/L7aq0NFAt9A/maxresdefault_live.jpg",
-        "timestamp": 1786161600,
+        "timestamp": null,
         "title": "【FF10】初見で挑む『FINAL FANTASY X』 5日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "L7aq0NFAt9A"
     },
@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/g533TG_MqkQ/maxresdefault_live.jpg",
-        "timestamp": 1786161600,
+        "timestamp": null,
         "title": "【 Detroit: Become Human 】完全初見、人生は選択の連続__【ホロライブ DEV_IS 響咲リオナ】",
         "video_id": "g533TG_MqkQ"
     },
@@ -133,5 +133,50 @@
         "timestamp": 1786190400,
         "title": "【#白銀ノエル7周年】約5年ぶりにホロメン通話凸待ち【白銀ノエル/ホロライブ】",
         "video_id": "S0MmPlFXUqE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1_F7mRHYz1k/maxresdefault_live.jpg",
+        "timestamp": 1786190400,
+        "title": "【Esports World Cup 2026】KWC2026 (Honor of Kings) GRAND FINALS【WATCH PARTY】",
+        "video_id": "1_F7mRHYz1k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/U-sxAbesTEU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ほの暮しの庭 】まったりスローライフと聞いていたのですが・・・【 領国つかさ / すぺしゃりて 】",
+        "video_id": "U-sxAbesTEU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WxKT1tfrMr8/maxresdefault_live.jpg",
+        "timestamp": 1786233600,
+        "title": "【PERO\u0026#39;S BIRTHDAY PARTY】i want a birthday wake-up kiss from the rufferans 🐾✨ 【FUWAMOCO】",
+        "video_id": "WxKT1tfrMr8"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/U-sxAbesTEU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ほの暮しの庭 】まったりスローライフと聞いていたのですが・・・【 領国つかさ / すぺしゃりて 】",
+        "video_id": "U-sxAbesTEU"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/j_OXQBc1vKY/maxresdefault_live.jpg",
+        "timestamp": 1786168800,
+        "title": "#6【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "j_OXQBc1vKY"
     }
 ]
