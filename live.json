@@ -72,15 +72,6 @@
         "video_id": "L7aq0NFAt9A"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VybvJDejY3k/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【RESIDENT EVIL 4】YOU CAN\u0026#39;T KEEP ME AWAY FROM ADA WONG",
-        "video_id": "VybvJDejY3k"
-    },
-    {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
         "status": "LIVE",
@@ -173,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/j_OXQBc1vKY/maxresdefault_live.jpg",
-        "timestamp": 1786168800,
+        "timestamp": null,
         "title": "#6【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "j_OXQBc1vKY"
     },
@@ -205,5 +196,14 @@
         "timestamp": 1786183200,
         "title": "【ド★初見】「ドレミファンタジー ～ミロンのドキドキ大冒険～」遊ぶ！！【スーファミ】",
         "video_id": "1IuOKoNqWug"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EylR8tDIzMM/maxresdefault_live.jpg",
+        "timestamp": 1786174200,
+        "title": "DINKUM DI SIANG HARI w/ @UC3v12OEx1xq36lWzw6k2ArQ \u0026amp; @UC5_ygk4jcNx-QSkpaBbrhAA",
+        "video_id": "EylR8tDIzMM"
     }
 ]
