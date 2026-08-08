@@ -47,11 +47,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SnOI7E9PWYs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ファイアーエムブレム 風花雪月】最終回！完全初見！クラシックでいく金鹿ルート！後編8/31へ！ #13 【博衣こより/ホロライブ】",
-        "video_id": "SnOI7E9PWYs"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3j_Vk9KgDD4/maxresdefault_live.jpg",
+        "timestamp": 1786179600,
+        "title": "【はいしんよていち】こよーーーーー！【博衣こより/ホロライブ】",
+        "video_id": "3j_Vk9KgDD4"
     },
     {
         "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
@@ -182,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/@AIChannel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Gln3j1INKmA/maxresdefault_live.jpg",
-        "timestamp": 1786170600,
+        "timestamp": null,
         "title": "【#ニコニコ老人会RUST】本番２日目！！！加藤純一チーム絶対優勝するぞおおお！！！【キズナアイ / うんちちゃん / お布団ちゃん / 恭ちゃん 】",
         "video_id": "Gln3j1INKmA"
     },
@@ -205,5 +205,23 @@
         "timestamp": 1786174200,
         "title": "DINKUM DI SIANG HARI w/ @UC3v12OEx1xq36lWzw6k2ArQ \u0026amp; @UC5_ygk4jcNx-QSkpaBbrhAA",
         "video_id": "EylR8tDIzMM"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gNui7mRucYA/maxresdefault_live.jpg",
+        "timestamp": 1786194000,
+        "title": "【歌枠】アニソン縛り！歌うよ～～～！ Singing Stream【ホロライブ / AZKi】",
+        "video_id": "gNui7mRucYA"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sDXwaagq_jU/maxresdefault_live.jpg",
+        "timestamp": 1786194000,
+        "title": "【 はいしんよてち！ 】【ホロライブ/さくらみこ】",
+        "video_id": "sDXwaagq_jU"
     }
 ]
