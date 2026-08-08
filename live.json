@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/D--q3378QzY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ガンダム同時視聴】「機動戦士ガンダムSEED」同時視聴！Ep17ペイバックから！ #こよりとガンダム 【博衣こより/ホロライブ】",
-        "video_id": "D--q3378QzY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6iLsF2YsUXU/maxresdefault_live.jpg",
+        "timestamp": 1786240800,
+        "title": "【Scritchy Scratchy】ミオ先輩おすすめ！命がけのスクラッチ！？ストーリークリアを目指して！【博衣こより/ホロライブ】",
+        "video_id": "6iLsF2YsUXU"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -52,15 +52,6 @@
         "timestamp": 1786237200,
         "title": "【朝活雑談】8周年目がはじまったね...♡【白銀ノエル/ホロライブ】",
         "video_id": "pxD2WEoI9DI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1_F7mRHYz1k/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Esports World Cup 2026】KWC2026 (Honor of Kings) GRAND FINALS【WATCH PARTY】",
-        "video_id": "1_F7mRHYz1k"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -126,15 +117,6 @@
         "video_id": "d3p2MKLaVlI"
     },
     {
-        "channel": "https://www.youtube.com/@ShiranuiFlare",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/D-je1MXXK-8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロライブ ドリームス】音ゲーいろいろ遊んでみよっ！【不知火フレア/ホロライブ】",
-        "video_id": "D-je1MXXK-8"
-    },
-    {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -178,5 +160,23 @@
         "timestamp": 1786251600,
         "title": "#7【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "e8nrouHntp4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/b4wHbIf1cvw/maxresdefault_live.jpg",
+        "timestamp": 1786237200,
+        "title": "【Stream】This Is A Stream Reservation",
+        "video_id": "b4wHbIf1cvw"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TQZ2cjb5w_g/maxresdefault_live.jpg",
+        "timestamp": 1786267800,
+        "title": "【 Detroit: Become Human 】完全初見、人生は選択の連続__【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "TQZ2cjb5w_g"
     }
 ]
