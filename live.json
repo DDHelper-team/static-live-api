@@ -47,10 +47,10 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3j_Vk9KgDD4/maxresdefault_live.jpg",
-        "timestamp": 1786179600,
-        "title": "【はいしんよていち】こよーーーーー！【博衣こより/ホロライブ】",
+        "timestamp": null,
+        "title": "【急募】おすすめSteamゲーム～ゲーム発掘！ホロメンからのオススメも！～【博衣こより/ホロライブ】",
         "video_id": "3j_Vk9KgDD4"
     },
     {
@@ -126,15 +126,6 @@
         "video_id": "1_F7mRHYz1k"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U-sxAbesTEU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】まったりスローライフと聞いていたのですが・・・【 領国つかさ / すぺしゃりて 】",
-        "video_id": "U-sxAbesTEU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,15 +133,6 @@
         "timestamp": 1786233600,
         "title": "【PERO\u0026#39;S BIRTHDAY PARTY】i want a birthday wake-up kiss from the rufferans 🐾✨ 【FUWAMOCO】",
         "video_id": "WxKT1tfrMr8"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/U-sxAbesTEU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】まったりスローライフと聞いていたのですが・・・【 領国つかさ / すぺしゃりて 】",
-        "video_id": "U-sxAbesTEU"
     },
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
@@ -236,10 +218,28 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WLFS6ah-D60/maxresdefault_live.jpg",
-        "timestamp": 1786179600,
+        "timestamp": null,
         "title": "【Fast Food Simulator】落ち着いてやってるとお客様は帰ります【ホロライブ/大神ミオ】",
         "video_id": "WLFS6ah-D60"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kTSDH_CE-uc/maxresdefault_live.jpg",
+        "timestamp": 1786266000,
+        "title": "【 日本事故物件監視協会3 】夏だ！水着だ！ホラゲだああああああああ？！？！Japan Stigmatized Property【姫森ルーナ/ホロライブ】",
+        "video_id": "kTSDH_CE-uc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ekdo8Qt1CMI/maxresdefault_live.jpg",
+        "timestamp": 1786194000,
+        "title": "【メンバー限定】同時視聴作品探して見るやつ【荒咬オウガ /ホロスターズ】",
+        "video_id": "ekdo8Qt1CMI"
     }
 ]
