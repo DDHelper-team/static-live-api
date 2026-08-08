@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/q8MU2PSEGA0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#6】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "q8MU2PSEGA0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oMWLmp2VoBY/maxresdefault_live.jpg",
+        "timestamp": 1786248000,
+        "title": "【#7】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "oMWLmp2VoBY"
     },
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
@@ -223,5 +223,23 @@
         "timestamp": 1786194000,
         "title": "【 #らでんと美術鑑賞 】第二回うちのやきものはこちらでん！視聴者投稿を見よう！【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "xKvAt5YkBw4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZrLW39XjYYE/maxresdefault_live.jpg",
+        "timestamp": 1786183200,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "ZrLW39XjYYE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WLFS6ah-D60/maxresdefault_live.jpg",
+        "timestamp": 1786179600,
+        "title": "【Fast Food Simulator】落ち着いてやってるとお客様は帰ります【ホロライブ/大神ミオ】",
+        "video_id": "WLFS6ah-D60"
     }
 ]
