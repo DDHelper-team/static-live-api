@@ -216,15 +216,6 @@
         "video_id": "ZrLW39XjYYE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WLFS6ah-D60/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Fast Food Simulator】落ち着いてやってるとお客様は帰ります【ホロライブ/大神ミオ】",
-        "video_id": "WLFS6ah-D60"
-    },
-    {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -241,5 +232,14 @@
         "timestamp": 1786194000,
         "title": "【メンバー限定】同時視聴作品探して見るやつ【荒咬オウガ /ホロスターズ】",
         "video_id": "ekdo8Qt1CMI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ThyfEJ-h9Gs/maxresdefault_live.jpg",
+        "timestamp": 1786190400,
+        "title": "【member\u0026#39;s only】continuing to not look outside in Look Outside #calliolive",
+        "video_id": "ThyfEJ-h9Gs"
     }
 ]
