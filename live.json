@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Z3jD62ToMeM/maxresdefault_live.jpg",
-        "timestamp": null,
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lsbDcd9AJdY/maxresdefault_live.jpg",
+        "timestamp": 1786255200,
         "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢／ホロライブDEV_IS】",
-        "video_id": "Z3jD62ToMeM"
+        "video_id": "lsbDcd9AJdY"
     },
     {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
@@ -56,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/S0MmPlFXUqE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#白銀ノエル7周年】約5年ぶりにホロメン通話凸待ち【白銀ノエル/ホロライブ】",
-        "video_id": "S0MmPlFXUqE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pxD2WEoI9DI/maxresdefault_live.jpg",
+        "timestamp": 1786237200,
+        "title": "【朝活雑談】8周年目がはじまったね...♡【白銀ノエル/ホロライブ】",
+        "video_id": "pxD2WEoI9DI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
@@ -83,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yRP_4tvVPww/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #しゅぴなで 】初代マリオ！1時間並走！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
-        "video_id": "yRP_4tvVPww"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6qcM1XVVzKg/maxresdefault_live.jpg",
+        "timestamp": 1786255200,
+        "title": "【 #しゅぴなで 】リベンジ！！！！初代マリオ！1時間並走！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "6qcM1XVVzKg"
     },
     {
         "channel": "https://www.youtube.com/@AIChannel",
@@ -191,10 +191,19 @@
     {
         "channel": "https://www.youtube.com/@TokinoSora",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CE8tEuYh3Vw/maxresdefault_live.jpg",
-        "timestamp": 1786195800,
+        "timestamp": null,
         "title": "【hololive Dreams】新イベントだ！ガチャして走ってみよう♪【ホロライブ/ときのそら】",
         "video_id": "CE8tEuYh3Vw"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uA_rICedyuc/maxresdefault_live.jpg",
+        "timestamp": 1786248000,
+        "title": "【バハムートラグーン】23章から最終回まで！スクウェアの名作！バハムートラグーンを初見プレイ！Bahamut Lagoon【周防パトラ】",
+        "video_id": "uA_rICedyuc"
     }
 ]
