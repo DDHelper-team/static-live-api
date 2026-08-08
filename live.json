@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jbqPWVmScGw/maxresdefault_live.jpg",
-        "timestamp": 1786150800,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "jbqPWVmScGw"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SnOI7E9PWYs/maxresdefault_live.jpg",
-        "timestamp": 1786154400,
+        "timestamp": null,
         "title": "【ファイアーエムブレム 風花雪月】最終回！完全初見！クラシックでいく金鹿ルート！後編8/31へ！ #13 【博衣こより/ホロライブ】",
         "video_id": "SnOI7E9PWYs"
     },
@@ -72,15 +72,6 @@
         "video_id": "L7aq0NFAt9A"
     },
     {
-        "channel": "https://www.youtube.com/@KoganeiNiko",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7NOhe2tKZLA/maxresdefault_live.jpg",
-        "timestamp": 1786147200,
-        "title": "【 ＃朝ガオ 】厄払いにいってきたんです......【虎金妃笑虎】",
-        "video_id": "7NOhe2tKZLA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "LIVE",
@@ -101,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/HJB0-Xf_Vto/maxresdefault_live.jpg",
-        "timestamp": 1786150800,
+        "timestamp": null,
         "title": "【らでん自習室】8月8日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
         "video_id": "HJB0-Xf_Vto"
     },
@@ -133,5 +124,14 @@
         "timestamp": 1786197600,
         "title": "【hololive Dreams】PLEASE GACHA GODS BLESS ME ONE MORE TIME",
         "video_id": "z9MZH1pbukc"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/093fOeOl188/maxresdefault_live.jpg",
+        "timestamp": 1786194000,
+        "title": "【 シニガミ姫と異書館ノ怪物 】オオカミ姫役のわため、初プレイ！！#最終回 【角巻わため/ホロライブ４期生】※ネタバレあり",
+        "video_id": "093fOeOl188"
     }
 ]
