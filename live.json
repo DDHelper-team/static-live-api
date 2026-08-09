@@ -29,18 +29,18 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lsbDcd9AJdY/maxresdefault_live.jpg",
-        "timestamp": 1786255200,
+        "timestamp": null,
         "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢／ホロライブDEV_IS】",
         "video_id": "lsbDcd9AJdY"
     },
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6qcM1XVVzKg/maxresdefault_live.jpg",
-        "timestamp": 1786255200,
+        "timestamp": null,
         "title": "【 #しゅぴなで 】リベンジ！！！！初代マリオ！1時間並走！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "6qcM1XVVzKg"
     },
@@ -117,20 +117,11 @@
         "video_id": "01GZRTTyQr4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0_TjVBjfRB0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【APEX Legends】Kuroha x INZONE Invitational / アステル dtto. あれる",
-        "video_id": "0_TjVBjfRB0"
-    },
-    {
         "channel": "https://www.youtube.com/@AIChannel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6MXQvJ7LPQI/maxresdefault_live.jpg",
-        "timestamp": 1786257000,
+        "timestamp": null,
         "title": "【#ニコニコ老人会RUST】本番最終日！！！加藤純一チーム絶対優勝するぞおおお！！！【キズナアイ / うんちちゃん / お布団ちゃん / 恭ちゃん 】",
         "video_id": "6MXQvJ7LPQI"
     },
@@ -180,15 +171,6 @@
         "video_id": "z5eUHEjv45I"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/5c7ryPk7miM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Dinkum sebentar saja ya kawan kawan w/ @sammybollivienn \u0026amp; @sayaayaaulya",
-        "video_id": "5c7ryPk7miM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +205,32 @@
         "timestamp": null,
         "title": "【 ほの暮しの庭 】このスローライフ、なんか怖いぞ・・・【 領国つかさ / すぺしゃりて 】",
         "video_id": "fWkARQaNG_A"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7Sc3-SQRvaw/maxresdefault_live.jpg",
+        "timestamp": 1786260600,
+        "title": "【#ff14  】6版主線劇情ing【#ゲーム個人勢 / Fingla】",
+        "video_id": "7Sc3-SQRvaw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/s41pLR0ZKOI/maxresdefault_live.jpg",
+        "timestamp": 1786280400,
+        "title": "【Home Sweet Home Ep 2】WAKTUNYA ADU MEKANIK SLEDING HANTU PENARI PART 2",
+        "video_id": "s41pLR0ZKOI"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7Sc3-SQRvaw/maxresdefault_live.jpg",
+        "timestamp": 1786260600,
+        "title": "【#ff14  】6版主線劇情ing【#ゲーム個人勢 / Fingla】",
+        "video_id": "7Sc3-SQRvaw"
     }
 ]
