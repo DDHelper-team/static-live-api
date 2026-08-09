@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/vrnsDry3DNY/maxresdefault_live.jpg",
-        "timestamp": 1786273200,
+        "timestamp": null,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #08 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "vrnsDry3DNY"
     },
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d-ItKe6sSsM/maxresdefault_live.jpg",
-        "timestamp": 1786273200,
+        "timestamp": null,
         "title": "【ガンダム同時視聴】「機動戦士ガンダムSEED」同時視聴！Ep26キラ～Ep33舞い降りる剣まで！ #こよりとガンダム 【博衣こより/ホロライブ】",
         "video_id": "d-ItKe6sSsM"
     },
@@ -43,24 +43,6 @@
         "timestamp": 1786287600,
         "title": "【KU100/ASMR】し～～っ！声だしたらダメだよ…？♡アイドルとナイショの密会…！？3D新衣装お披露目×TalkingASMR♡【新衣装お披露目/囁き雑談】#けもりふ3D新衣装",
         "video_id": "Q_mHlyrKGtw"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/e8nrouHntp4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#7【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "e8nrouHntp4"
-    },
-    {
-        "channel": "https://www.youtube.com/@IsakiRiona",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TQZ2cjb5w_g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 Detroit: Become Human 】完全初見、人生は選択の連続__【ホロライブ DEV_IS 響咲リオナ】",
-        "video_id": "TQZ2cjb5w_g"
     },
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
@@ -234,15 +216,6 @@
         "video_id": "u5El_v0Op10"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/LmybP56Sq0w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロドリ】きゅんみこの同時押しと単発の交互が苦手すぎる。【ホロライブ/白上フブキ】",
-        "video_id": "LmybP56Sq0w"
-    },
-    {
         "channel": "https://www.youtube.com/@SakuraMiko",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -268,5 +241,41 @@
         "timestamp": 1786314600,
         "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
         "video_id": "jVY3JfQ7XcU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Bj8O0WMda40/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Minecraft / #ストリヌ 】異世界転生マイクラ！ 2日目 【 #奏手イヅル 】",
+        "video_id": "Bj8O0WMda40"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2Rd2m-HEnrw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ストリヌ / STRN】おい！！シェフになれるってよ！！  / アステル",
+        "video_id": "2Rd2m-HEnrw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bnA6f5pX3uc/maxresdefault_live.jpg",
+        "timestamp": 1786280400,
+        "title": "【歌枠/Singing】日曜の夜に、のんびり歌う。【 獅子神レオナ/Re:AcT】",
+        "video_id": "bnA6f5pX3uc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bnA6f5pX3uc/maxresdefault_live.jpg",
+        "timestamp": 1786280400,
+        "title": "【歌枠/Singing】日曜の夜に、のんびり歌う。【 獅子神レオナ/Re:AcT】",
+        "video_id": "bnA6f5pX3uc"
     }
 ]
