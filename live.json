@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6iLsF2YsUXU/maxresdefault_live.jpg",
-        "timestamp": 1786240800,
+        "timestamp": null,
         "title": "【Scritchy Scratchy】ミオ先輩おすすめ！命がけのスクラッチ！？ストーリークリアを目指して！【博衣こより/ホロライブ】",
         "video_id": "6iLsF2YsUXU"
     },
@@ -38,10 +38,10 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pxD2WEoI9DI/maxresdefault_live.jpg",
-        "timestamp": 1786237200,
-        "title": "【朝活雑談】8周年目がはじまったね...♡【白銀ノエル/ホロライブ】",
+        "timestamp": null,
+        "title": "【朝活雑談】8年目がはじまったね...♡【白銀ノエル/ホロライブ】",
         "video_id": "pxD2WEoI9DI"
     },
     {
@@ -81,15 +81,6 @@
         "video_id": "Q_mHlyrKGtw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/t-a5mlTMBtQ/maxresdefault_live.jpg",
-        "timestamp": 1786236600,
-        "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 5【荒咬オウガ /ホロスターズ】",
-        "video_id": "t-a5mlTMBtQ"
-    },
-    {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -101,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/b4wHbIf1cvw/maxresdefault_live.jpg",
-        "timestamp": 1786237200,
+        "timestamp": null,
         "title": "【Stream】This Is A Stream Reservation",
         "video_id": "b4wHbIf1cvw"
     },
@@ -142,5 +133,23 @@
         "timestamp": 1786280400,
         "title": "【メンバー限定配信】開設6年5ヶ月目！「水曜どうでしょう マレーシアジャングル探検 プレミア版」同時視聴！【角巻わため/ホロライブ４期生】",
         "video_id": "01GZRTTyQr4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0_TjVBjfRB0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【APEX Legends】Kuroha x INZONE Invitational / アステル dtto. あれる",
+        "video_id": "0_TjVBjfRB0"
+    },
+    {
+        "channel": "https://www.youtube.com/@AIChannel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6MXQvJ7LPQI/maxresdefault_live.jpg",
+        "timestamp": 1786257000,
+        "title": "【#ニコニコ老人会RUST】本番最終日！！！加藤純一チーム絶対優勝するぞおおお！！！【キズナアイ / うんちちゃん / お布団ちゃん / 恭ちゃん 】",
+        "video_id": "6MXQvJ7LPQI"
     }
 ]
