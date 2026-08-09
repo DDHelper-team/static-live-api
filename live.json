@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "platform": "youtube",
-        "status": null,
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/q8KmpC_6lNI/maxresdefault_live.jpg",
-        "timestamp": 1786304100,
+        "timestamp": null,
         "title": "【GUERILLA】fixing family dynamics",
         "video_id": "q8KmpC_6lNI"
     },
@@ -106,5 +106,14 @@
         "timestamp": 1786374000,
         "title": "‪〖 ASMR⌇KU100 〗 これスゴ…♡1度味わったら、もう…戻れない…♡即堕ち体質に開発…♡ 〖 耳塞ぎ / タッピング / 音圧 /睡眠導入 / Japanese/Vtuber〗",
         "video_id": "fsIth1q-glI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1_pnOSzYEow/maxresdefault_live.jpg",
+        "timestamp": 1786330800,
+        "title": "【ぽこあ】海きたあああああ！？！？！？",
+        "video_id": "1_pnOSzYEow"
     }
 ]
