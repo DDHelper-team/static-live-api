@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oMWLmp2VoBY/maxresdefault_live.jpg",
-        "timestamp": 1786248000,
+        "timestamp": null,
         "title": "【#7】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "oMWLmp2VoBY"
     },
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uA_rICedyuc/maxresdefault_live.jpg",
-        "timestamp": 1786248000,
+        "timestamp": null,
         "title": "【バハムートラグーン】23章から最終回まで！スクウェアの名作！バハムートラグーンを初見プレイ！Bahamut Lagoon【周防パトラ】",
         "video_id": "uA_rICedyuc"
     },
@@ -88,15 +88,6 @@
         "timestamp": 1786251600,
         "title": "#7【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "e8nrouHntp4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/b4wHbIf1cvw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Stream】This Is A Stream Reservation",
-        "video_id": "b4wHbIf1cvw"
     },
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
@@ -151,5 +142,59 @@
         "timestamp": 1786257000,
         "title": "【#ニコニコ老人会RUST】本番最終日！！！加藤純一チーム絶対優勝するぞおおお！！！【キズナアイ / うんちちゃん / お布団ちゃん / 恭ちゃん 】",
         "video_id": "6MXQvJ7LPQI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/msm5IuITVeA/maxresdefault_live.jpg",
+        "timestamp": 1786269600,
+        "title": "【ARKNIGHTS: ENDFIELD】GETTING STUFF DONE BEFORE LIINO✨ #kfp",
+        "video_id": "msm5IuITVeA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ufbZgdek7XU/maxresdefault_live.jpg",
+        "timestamp": 1786251600,
+        "title": "【ELDENRING】ラスボス目の前にして数か月ぶりだが大丈夫だろうか【風真いろは/ホロライブ】※本配信はゲームのネタバレを含みます",
+        "video_id": "ufbZgdek7XU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kbd0tKchViM/maxresdefault_live.jpg",
+        "timestamp": 1786316400,
+        "title": "【ZELDA: A LINK TO THE PAST】zelda on a hot summer day #calliolive",
+        "video_id": "kbd0tKchViM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/z5eUHEjv45I/maxresdefault_live.jpg",
+        "timestamp": 1786275000,
+        "title": "塔羅占卜#147｜今天的好兇地又要去占呢?🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "z5eUHEjv45I"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/z5eUHEjv45I/maxresdefault_live.jpg",
+        "timestamp": 1786275000,
+        "title": "塔羅占卜#147｜今天的好兇地又要去占呢?🔮✨🦊【Healing希靈/VTuber】",
+        "video_id": "z5eUHEjv45I"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5c7ryPk7miM/maxresdefault_live.jpg",
+        "timestamp": 1786248900,
+        "title": "Dinkum sebentar saja ya kawan kawan w/ @sammybollivienn \u0026amp; @sayaayaaulya",
+        "video_id": "5c7ryPk7miM"
     }
 ]
