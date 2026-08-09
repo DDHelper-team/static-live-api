@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vrnsDry3DNY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リバース 】みんなと冒険だああ!! #08 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "vrnsDry3DNY"
-    },
-    {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
         "status": "LIVE",
@@ -36,15 +27,6 @@
         "video_id": "6eX4BLtVxeg"
     },
     {
-        "channel": "https://www.youtube.com/@AIChannel",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6MXQvJ7LPQI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ニコニコ老人会RUST】本番最終日！！！加藤純一チーム絶対優勝するぞおおお！！！【キズナアイ / うんちちゃん / お布団ちゃん / 恭ちゃん 】",
-        "video_id": "6MXQvJ7LPQI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "LIVE",
@@ -56,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0WEZ2cVcyNU/maxresdefault_live.jpg",
-        "timestamp": 1786289400,
+        "timestamp": null,
         "title": "風真いろはの #ねるまえらじお 📻❣ #20",
         "video_id": "0WEZ2cVcyNU"
     },
@@ -70,15 +52,6 @@
         "timestamp": 1786316400,
         "title": "【ZELDA: A LINK TO THE PAST】zelda on a hot summer day #calliolive",
         "video_id": "kbd0tKchViM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s41pLR0ZKOI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Home Sweet Home Ep 2】WAKTUNYA ADU MEKANIK SLEDING HANTU PENARI PART 2",
-        "video_id": "s41pLR0ZKOI"
     },
     {
         "channel": "https://www.youtube.com/@toritori1122",
@@ -135,33 +108,6 @@
         "video_id": "2Rd2m-HEnrw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bnA6f5pX3uc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】日曜の夜に、のんびり歌う。【 獅子神レオナ/Re:AcT】",
-        "video_id": "bnA6f5pX3uc"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bnA6f5pX3uc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】日曜の夜に、のんびり歌う。【 獅子神レオナ/Re:AcT】",
-        "video_id": "bnA6f5pX3uc"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShiranuiFlare",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bljB5iGpD9Y/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#06【Outbound 】最後のエリアにきたわね！ダーリン！【不知火フレア/ホロライブ】",
-        "video_id": "bljB5iGpD9Y"
-    },
-    {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
         "status": "LIVE",
@@ -187,14 +133,5 @@
         "timestamp": 1786372800,
         "title": "『 #花火の音に紛れて伝えたいこと 』 #アキちょこナイパレ 第46回 ～ホロライブ深夜ラジオ～",
         "video_id": "DgUB0-Eqero"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afa9076-00a3-404c-b1b9-c9b422c542f3-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/kotonoha_yukino_",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1786288708.7312422,
-        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr."
     }
 ]
