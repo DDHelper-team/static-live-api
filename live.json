@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6iLsF2YsUXU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Scritchy Scratchy】ミオ先輩おすすめ！命がけのスクラッチ！？ストーリークリアを目指して！【博衣こより/ホロライブ】",
-        "video_id": "6iLsF2YsUXU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/d-ItKe6sSsM/maxresdefault_live.jpg",
+        "timestamp": 1786273200,
+        "title": "【ガンダム同時視聴】「機動戦士ガンダムSEED」同時視聴！Ep26キラ～Ep33舞い降りる剣まで！ #こよりとガンダム 【博衣こより/ホロライブ】",
+        "video_id": "d-ItKe6sSsM"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -101,20 +101,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/msm5IuITVeA/maxresdefault_live.jpg",
-        "timestamp": 1786272300,
+        "timestamp": null,
         "title": "【ARKNIGHTS: ENDFIELD】GETTING STUFF DONE BEFORE LIINO✨ #kfp",
         "video_id": "msm5IuITVeA"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ufbZgdek7XU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ELDENRING】ラスボス目の前にして数か月ぶりだが大丈夫だろうか【風真いろは/ホロライブ】※本配信はゲームのネタバレを含みます",
-        "video_id": "ufbZgdek7XU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0WEZ2cVcyNU/maxresdefault_live.jpg",
+        "timestamp": 1786289400,
+        "title": "風真いろはの #ねるまえらじお 📻❣ #20",
+        "video_id": "0WEZ2cVcyNU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -225,15 +225,6 @@
         "video_id": "2GsZMyzsAO4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nDMjhAzNXcc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【らーめんシミュレーター】美味しそうなラーメンを作って食べた気になりたい【ホロライブ/大神ミオ】",
-        "video_id": "nDMjhAzNXcc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -268,5 +259,14 @@
         "timestamp": 1786276800,
         "title": "プールアルバイトこらぼよていち！",
         "video_id": "upVZ6IIq1yo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jVY3JfQ7XcU/maxresdefault_live.jpg",
+        "timestamp": 1786314600,
+        "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
+        "video_id": "jVY3JfQ7XcU"
     }
 ]
