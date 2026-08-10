@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6eX4BLtVxeg/maxresdefault_live.jpg",
-        "timestamp": 1786330800,
+        "timestamp": null,
         "title": "【 BIOHAZARD RE:3 】完全初見！お盆はバイオでやばいお！#ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
         "video_id": "6eX4BLtVxeg"
     },
@@ -30,10 +30,10 @@
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ibc6kPllbHo/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/u5El_v0Op10/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【雑談】早起き男【夕刻ロベル/ホロスターズ】",
-        "video_id": "ibc6kPllbHo"
+        "title": "【FF10】初見で挑む『FINAL FANTASY X』 6日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
+        "video_id": "u5El_v0Op10"
     },
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1_pnOSzYEow/maxresdefault_live.jpg",
-        "timestamp": 1786330800,
+        "timestamp": null,
         "title": "【ぽこあ】海きたあああああ！？！？！？",
         "video_id": "1_pnOSzYEow"
     },
@@ -97,5 +97,14 @@
         "timestamp": 1786356000,
         "title": "【日本事故物件監視協会3】リベンジ！実在する事故物件を監視します！たすけて！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "2gP2efJQhrQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sd2WAWoxGes/maxresdefault_live.jpg",
+        "timestamp": 1786399200,
+        "title": "【 #朝こよ 】山の日な火曜日の朝も～！朝こよ！☀ #293 【博衣こより/hololive】",
+        "video_id": "sd2WAWoxGes"
     }
 ]
