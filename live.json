@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6eX4BLtVxeg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 BIOHAZARD RE:3 】完全初見！お盆はバイオでやばいお！#ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
-        "video_id": "6eX4BLtVxeg"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rnZk50rASOg/maxresdefault_live.jpg",
+        "timestamp": 1786352400,
+        "title": "【 日本事故物件監視協会3 】ホラゲウィーク第壱夜／遂に…今年も始まる👻 #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
+        "video_id": "rnZk50rASOg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -142,5 +142,14 @@
         "timestamp": 1786368600,
         "title": "【バイオハザードRE:4】完全初見❕ホラー苦手が行く #6 【水宮枢／ホロライブDEV_IS】",
         "video_id": "1oy5DSY2je4"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OkmBK0spXPw/maxresdefault_live.jpg",
+        "timestamp": 1786366800,
+        "title": "【MemberOnly ASMR】魔王AZKi VS 小悪魔AZKi ～あなたはどっちに囁かれたい？～【ホロライブ / AZKi】",
+        "video_id": "OkmBK0spXPw"
     }
 ]
