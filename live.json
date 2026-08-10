@@ -20,29 +20,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/kbd0tKchViM/maxresdefault_live.jpg",
-        "timestamp": 1786316400,
-        "title": "【ZELDA: A LINK TO THE PAST】zelda on a hot summer day #calliolive",
+        "timestamp": null,
+        "title": "【ZELDA: A LINK TO THE PAST】zelda on a hot summer day (part 2) #calliolive",
         "video_id": "kbd0tKchViM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/u5El_v0Op10/maxresdefault_live.jpg",
-        "timestamp": 1786334400,
-        "title": "【FF10】初見で挑む『FINAL FANTASY X』 6日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
-        "video_id": "u5El_v0Op10"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jVY3JfQ7XcU/maxresdefault_live.jpg",
-        "timestamp": 1786314600,
-        "title": "【#朝ミオ 】月曜日だよ～！おはみぉーん！",
-        "video_id": "jVY3JfQ7XcU"
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ibc6kPllbHo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】早起き男【夕刻ロベル/ホロスターズ】",
+        "video_id": "ibc6kPllbHo"
     },
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
@@ -52,33 +43,6 @@
         "timestamp": 1786372800,
         "title": "『 #花火の音に紛れて伝えたいこと 』 #アキちょこナイパレ 第46回 ～ホロライブ深夜ラジオ～",
         "video_id": "DgUB0-Eqero"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RlmGdl54LDw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【APEX LEGENDS】Gingy $15k Creator Tournament【Dokibird】",
-        "video_id": "RlmGdl54LDw"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/RlmGdl54LDw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【APEX LEGENDS】Gingy $15k Creator Tournament【Dokibird】",
-        "video_id": "RlmGdl54LDw"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/q8KmpC_6lNI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GUERILLA】fixing family dynamics",
-        "video_id": "q8KmpC_6lNI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
@@ -106,5 +70,32 @@
         "timestamp": 1786359600,
         "title": "【＃パワプロケモミミリーグ】決戦【ホロライブ/兎田ぺこら/白上フブキ/猫又おかゆ】",
         "video_id": "PP1jChfH-kw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u9qiyujBW-8/maxresdefault_live.jpg",
+        "timestamp": 1786392000,
+        "title": "Historically Accurate Apartment Trauma 【The Berlin Apartment】❗ Spoilers",
+        "video_id": "u9qiyujBW-8"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Bm23AUdcIiY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】おはよ！エモい女になった(?)【緋月ゆい/ネオポルテ】",
+        "video_id": "Bm23AUdcIiY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Bm23AUdcIiY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】おはよ！エモい女になった(?)【緋月ゆい/ネオポルテ】",
+        "video_id": "Bm23AUdcIiY"
     }
 ]
