@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7lEzmDUvhWE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 BIOHAZARD RE:3 】完全初見！後半戦も絶対ヤバイお！！！ #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
-        "video_id": "7lEzmDUvhWE"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ywVg0UH8bjE/maxresdefault_live.jpg",
+        "timestamp": 1786456800,
+        "title": "【 夜勤清掃 】ホラゲウィーク第弐夜／さぁ深夜のお仕事のお時間です。👻 #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
+        "video_id": "ywVg0UH8bjE"
     },
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
@@ -74,29 +74,11 @@
     {
         "channel": "https://www.youtube.com/@Robocosan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NWoAORKImGg/maxresdefault_live.jpg",
-        "timestamp": 1786433400,
+        "timestamp": null,
         "title": "【 #漢義リーグ 最終節】泣いても笑っても今日で最後、全力で👊  #秋麗宝燈  w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
         "video_id": "NWoAORKImGg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s-cgte9rloE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BIOHAZARD RE:2】#1 | 完全初見！ゾンビとの戦闘は近距離を避けるべきだ。【緋月ゆい/ネオポルテ】",
-        "video_id": "s-cgte9rloE"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/s-cgte9rloE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BIOHAZARD RE:2】#1 | 完全初見！ゾンビとの戦闘は近距離を避けるべきだ。【緋月ゆい/ネオポルテ】",
-        "video_id": "s-cgte9rloE"
     },
     {
         "channel": "https://www.youtube.com/@AZKi",
@@ -124,5 +106,14 @@
         "timestamp": 1786447800,
         "title": "生死深潛：雨之子民｜紅紅之後是陵園聽起來有點毛啊【Healing希靈/VTuber】DIVE or DIE - Children of Rain",
         "video_id": "6K0wW7aPHgw"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LFHLGp2KWOw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 縦型歌枠 】70万人耐久歌枠！【 #綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "LFHLGp2KWOw"
     }
 ]
