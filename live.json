@@ -45,15 +45,6 @@
         "video_id": "JLxsBLW-8oM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/70hSM_8vb5w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARKNIGHTS: ENDFIELD】WELCOME TO IDOLFIELD!!! LIINO!!!✨ #kfp",
-        "video_id": "70hSM_8vb5w"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,23 @@
         "timestamp": 1786442400,
         "title": "【GeoGuessr】日本の山ゲス【ホロライブ / AZKi】",
         "video_id": "NJXScv8V0ls"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6K0wW7aPHgw/maxresdefault_live.jpg",
+        "timestamp": 1786447800,
+        "title": "生死深潛：雨之子民｜紅紅之後是陵園聽起來有點毛啊【Healing希靈/VTuber】DIVE or DIE - Children of Rain",
+        "video_id": "6K0wW7aPHgw"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6K0wW7aPHgw/maxresdefault_live.jpg",
+        "timestamp": 1786447800,
+        "title": "生死深潛：雨之子民｜紅紅之後是陵園聽起來有點毛啊【Healing希靈/VTuber】DIVE or DIE - Children of Rain",
+        "video_id": "6K0wW7aPHgw"
     }
 ]
