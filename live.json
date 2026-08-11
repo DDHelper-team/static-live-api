@@ -18,15 +18,6 @@
         "video_id": "p9r8MqkLLps"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iY_CcwePejc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Super Mario Party Jamboree 凸待ち！！】Waiting For Holomem to Join Lonely Calliope... #calliolive",
-        "video_id": "iY_CcwePejc"
-    },
-    {
         "channel": "https://www.youtube.com/@HoushouMarine",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -115,5 +106,14 @@
         "timestamp": null,
         "title": "【BIOHAZARD RE:2】#1 | 完全初見！ゾンビとの戦闘は近距離を避けるべきだ。【緋月ゆい/ネオポルテ】",
         "video_id": "s-cgte9rloE"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NJXScv8V0ls/maxresdefault_live.jpg",
+        "timestamp": 1786442400,
+        "title": "【GeoGuessr】日本の山ゲス【ホロライブ / AZKi】",
+        "video_id": "NJXScv8V0ls"
     }
 ]
