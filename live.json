@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F9gUWJmNbao/maxresdefault_live.jpg",
-        "timestamp": 1786446000,
+        "timestamp": null,
         "title": "ヴィヴィの野郎とちいかわパーク行ってきた話【ホロライブ/兎田ぺこら】",
         "video_id": "F9gUWJmNbao"
     },
@@ -124,5 +124,41 @@
         "timestamp": null,
         "title": "【ストリヌ / STRN】グランメゾンストリヌ  / アステル",
         "video_id": "CAW2QGzU3BU"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ff-wBqeRj5Q/maxresdefault_live.jpg",
+        "timestamp": 1786528800,
+        "title": "【歌枠】特大告知をして、みんなと乾杯する配信！！！ Singing Stream🎤🎶【角巻わため/ホロライブ４期生】",
+        "video_id": "ff-wBqeRj5Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NEZRDnuqoiw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 重大発表あり!!! 】#領国つかさ生誕3DLIVE 『 夏、欲望に溺れる─── 』【 領国つかさ/すぺしゃりて 】",
+        "video_id": "NEZRDnuqoiw"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NEZRDnuqoiw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 重大発表あり!!! 】#領国つかさ生誕3DLIVE 『 夏、欲望に溺れる─── 』【 領国つかさ/すぺしゃりて 】",
+        "video_id": "NEZRDnuqoiw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eVfQ-4ShMJ8/maxresdefault_live.jpg",
+        "timestamp": 1786449600,
+        "title": "【ぽこ あ ポケモン】ブクブクうみぞこの街編　＃2【荒咬オウガ /ホロスターズ】",
+        "video_id": "eVfQ-4ShMJ8"
     }
 ]
