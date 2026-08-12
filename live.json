@@ -56,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8-a0nzm2xwY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【スーパーマリオサンシャイン】夏だ！完全初見でいく神ゲー🌻常夏マリオサンシャインだ！！！【博衣こより/ホロライブ】",
-        "video_id": "8-a0nzm2xwY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tfpq1SmNJxY/maxresdefault_live.jpg",
+        "timestamp": 1786590000,
+        "title": "【どこでもいっしょ】トロにホロライブのことを教えて過ごす夏───。1日目。【博衣こより/ホロライブ】",
+        "video_id": "tfpq1SmNJxY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
@@ -153,15 +153,6 @@
         "video_id": "JsT57dm4D3Y"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/hnZcDxON31g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Freetalk】深夜にまったり悪魔のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "hnZcDxON31g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +196,14 @@
         "timestamp": 1786633200,
         "title": "台灣ASMR｜都累成這樣了，今晚就把耳朵交給我♡ 入侵大腦・強制當機｜舔耳・吐息・耳按摩【KU100】",
         "video_id": "LvAUXl5IRq8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uGpcDlNHgIA/maxresdefault_live.jpg",
+        "timestamp": 1786624200,
+        "title": "【#ホロタワーバトルアフター】優勝賞品ヒレ肉 おいしくいただきます！【ホロライブ/癒月ちょこ/ロボ子さん/尾丸ポルカ/博衣こより】",
+        "video_id": "uGpcDlNHgIA"
     }
 ]
