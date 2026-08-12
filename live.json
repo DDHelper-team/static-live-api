@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/i4D9CYcVIJQ/maxresdefault_live.jpg",
-        "timestamp": 1786496400,
+        "timestamp": null,
         "title": "【Arknights: Endfield】My greed sickens me. LIINO+1.4 STORY!",
         "video_id": "i4D9CYcVIJQ"
     },
@@ -72,21 +72,21 @@
         "video_id": "af62XX7MjHg"
     },
     {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/v-wUINXT4rc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活/FreeTalk】ぺこヴィヴィでちいかわパーク行ってきた！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "v-wUINXT4rc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zv7MWHVx6Go/maxresdefault_live.jpg",
-        "timestamp": 1786492800,
+        "timestamp": null,
         "title": "【OHAPOL】#202 8/12水曜日！ねぽらぼの周年はじまるぅ！ #ポルカ公演中 【尾丸ポルカ/ホロライブ】",
         "video_id": "zv7MWHVx6Go"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dP8UpLts7DE/maxresdefault_live.jpg",
+        "timestamp": 1786582800,
+        "title": "Crossing Your Gardens to Steal Your Underpants 【Burglin\u0026#39; Gnomes】",
+        "video_id": "dP8UpLts7DE"
     }
 ]
