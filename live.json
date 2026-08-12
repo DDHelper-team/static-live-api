@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gLvderBFq8s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 バイオハザード RE:4 】初プレイ！ども、レオン・L・タカネィです。 #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
-        "video_id": "gLvderBFq8s"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jED6mXsIzVU/maxresdefault_live.jpg",
+        "timestamp": 1786543200,
+        "title": "【 ORDER 13 】ホラゲウィーク第参夜／何かがいる倉庫で猫とお仕事するぞ 👻 #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
+        "video_id": "jED6mXsIzVU"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -54,20 +54,11 @@
         "video_id": "uwALV_Huef4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/i4D9CYcVIJQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Arknights: Endfield】My greed sickens me. LIINO+1.4 STORY!",
-        "video_id": "i4D9CYcVIJQ"
-    },
-    {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/af62XX7MjHg/maxresdefault_live.jpg",
-        "timestamp": 1786525200,
+        "timestamp": null,
         "title": "【 夜勤清掃 】深夜のバイトは時給がいいのらよ✌(・o・🍬)【姫森ルーナ/ホロライブ】",
         "video_id": "af62XX7MjHg"
     },
@@ -124,5 +115,23 @@
         "timestamp": 1786539600,
         "title": "【#雪花ラミィ6周年】告知あり！みんなのお陰で6周年迎えました！！晩酌するぞ！！【雪花ラミィ /ホロライブ】",
         "video_id": "NPIxxZxXIxc"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8-a0nzm2xwY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【スーパーマリオサンシャイン】夏だ！完全初見でいく神ゲー🌻常夏マリオサンシャインだ！！！【博衣こより/ホロライブ】",
+        "video_id": "8-a0nzm2xwY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5s2MTi_7DBA/maxresdefault_live.jpg",
+        "timestamp": 1786532400,
+        "title": "青鬼２やる",
+        "video_id": "5s2MTi_7DBA"
     }
 ]
