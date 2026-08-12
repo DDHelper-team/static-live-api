@@ -54,15 +54,6 @@
         "video_id": "uwALV_Huef4"
     },
     {
-        "channel": "https://www.youtube.com/@HimemoriLuna",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/af62XX7MjHg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 夜勤清掃 】深夜のバイトは時給がいいのらよ✌(・o・🍬)【姫森ルーナ/ホロライブ】",
-        "video_id": "af62XX7MjHg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -128,10 +119,10 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5s2MTi_7DBA/maxresdefault_live.jpg",
-        "timestamp": 1786532400,
-        "title": "青鬼２やる",
+        "timestamp": null,
+        "title": "【ド★初見】ロープくんアドベンチャー遊ぶ",
         "video_id": "5s2MTi_7DBA"
     },
     {
@@ -191,10 +182,28 @@
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zMU_tFPjMKM/maxresdefault_live.jpg",
-        "timestamp": 1786530600,
+        "timestamp": null,
         "title": "【FF6】#12 初めてのFF！みんなを探し出すぞ！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "zMU_tFPjMKM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/PfZzYrOK8Aw/maxresdefault_live.jpg",
+        "timestamp": 1786537800,
+        "title": "弾き語りをする漢【#奏手イヅル】",
+        "video_id": "PfZzYrOK8Aw"
+    },
+    {
+        "channel": "https://www.youtube.com/@AkiRosenthal",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QQl5LuSzIvo/maxresdefault_live.jpg",
+        "timestamp": 1786618800,
+        "title": "【 #アキロゼ新衣装  】シルエットから予測できた人はいるのか？！【アキロゼ/ホロライブ】",
+        "video_id": "QQl5LuSzIvo"
     }
 ]
