@@ -99,24 +99,6 @@
         "video_id": "OY8JgIu_5uc"
     },
     {
-        "channel": "https://www.youtube.com/@SakuraMiko",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6ipiYsirbRg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【動画鑑賞】懐かしきホロライブ公式動画をみるにぇえええええええええええ‼【ホロライブ/さくらみこ】",
-        "video_id": "6ipiYsirbRg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/PfZzYrOK8Aw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "弾き語りをする漢【#奏手イヅル】",
-        "video_id": "PfZzYrOK8Aw"
-    },
-    {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -173,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hnZcDxON31g/maxresdefault_live.jpg",
-        "timestamp": 1786546800,
+        "timestamp": null,
         "title": "【Freetalk】深夜にまったり悪魔のゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
         "video_id": "hnZcDxON31g"
     },
@@ -187,5 +169,41 @@
         "timestamp": 1786582800,
         "title": "【Burglin\u0026#39; Gnomes】gnome【Advent Collab】",
         "video_id": "rWVv5hizTNU"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9lZHdgifCFU/maxresdefault_live.jpg",
+        "timestamp": 1786590000,
+        "title": "【定期配信＃41】木曜のお昼の１２時はリオナとランチ❤【ホロライブ DEV_IS 響咲リオナ】#リオナとランチ",
+        "video_id": "9lZHdgifCFU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LvAUXl5IRq8/maxresdefault_live.jpg",
+        "timestamp": 1786633200,
+        "title": "台灣ASMR｜都累成這樣了，今晚就把耳朵交給我♡ 入侵大腦・強制當機｜舔耳・吐息・耳按摩【KU100】",
+        "video_id": "LvAUXl5IRq8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/glvpySalt-Q/maxresdefault_live.jpg",
+        "timestamp": 1786618800,
+        "title": "【#ホロボドゲ部】第２回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
+        "video_id": "glvpySalt-Q"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LvAUXl5IRq8/maxresdefault_live.jpg",
+        "timestamp": 1786633200,
+        "title": "台灣ASMR｜都累成這樣了，今晚就把耳朵交給我♡ 入侵大腦・強制當機｜舔耳・吐息・耳按摩【KU100】",
+        "video_id": "LvAUXl5IRq8"
     }
 ]
