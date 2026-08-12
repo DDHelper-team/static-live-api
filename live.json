@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uwALV_Huef4/maxresdefault_live.jpg",
-        "timestamp": 1786507200,
+        "timestamp": null,
         "title": "【ほの暮しの庭】冬から！村の真相に迫る！のんびり田舎暮らしが何か怖い？！【周防パトラ】",
         "video_id": "uwALV_Huef4"
     },
@@ -101,19 +101,46 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8EZRe_Jbo3E/maxresdefault_live.jpg",
-        "timestamp": 1786507241,
+        "timestamp": null,
         "title": "【BIOHAZARD RE:2】#2 | 完全初見！ゾンビとの戦闘は単独では行うべきではない。【緋月ゆい/ネオポルテ】",
         "video_id": "8EZRe_Jbo3E"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8EZRe_Jbo3E/maxresdefault_live.jpg",
-        "timestamp": 1786507241,
+        "timestamp": null,
         "title": "【BIOHAZARD RE:2】#2 | 完全初見！ゾンビとの戦闘は単独では行うべきではない。【緋月ゆい/ネオポルテ】",
         "video_id": "8EZRe_Jbo3E"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/M7bso7Vh1jg/maxresdefault_live.jpg",
+        "timestamp": 1786579200,
+        "title": "【BACK FROM BAHAMAS】my brain is still there on the cruise【Dokibird】",
+        "video_id": "M7bso7Vh1jg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/M7bso7Vh1jg/maxresdefault_live.jpg",
+        "timestamp": 1786579200,
+        "title": "【BACK FROM BAHAMAS】my brain is still there on the cruise【Dokibird】",
+        "video_id": "M7bso7Vh1jg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NPIxxZxXIxc/maxresdefault_live.jpg",
+        "timestamp": 1786539600,
+        "title": "【#雪花ラミィ6周年】告知あり！みんなのお陰で6周年迎えました！！晩酌するぞ！！【雪花ラミィ /ホロライブ】",
+        "video_id": "NPIxxZxXIxc"
     }
 ]
