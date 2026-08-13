@@ -126,15 +126,6 @@
         "video_id": "PJcXvz_MpwM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZcXV12nS4JU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】デイリー終わり男【夕刻ロベル/ホロスターズ】",
-        "video_id": "ZcXV12nS4JU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
         "platform": "youtube",
         "status": "LIVE",
@@ -169,5 +160,23 @@
         "timestamp": 1786676400,
         "title": "【どこでもいっしょ】トロにホロライブのことを教えて過ごす夏───。2日目。 #こよ夏どこいつ 【博衣こより/ホロライブ】",
         "video_id": "mnwMod6c7IY"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JpGeRUEC-RY/maxresdefault_live.jpg",
+        "timestamp": 1786622400,
+        "title": "【ほの暮しの庭】不穏な村でのスローライフ生活⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
+        "video_id": "JpGeRUEC-RY"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dJHeHywWvnA/maxresdefault_live.jpg",
+        "timestamp": 1786629600,
+        "title": "yea i stream!",
+        "video_id": "dJHeHywWvnA"
     }
 ]
