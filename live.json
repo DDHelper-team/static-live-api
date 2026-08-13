@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@TsunomakiWatame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EO3TiOBS6Ec/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談＆お礼】10月が楽しみすぎるひつじによる雑談【角巻わため/ホロライブ４期生】",
-        "video_id": "EO3TiOBS6Ec"
-    },
-    {
-        "channel": "https://www.youtube.com/@Patra_Suou",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JGy2u4TznwU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【古伝降霊術 百物語〜ほんとにあった怖い話〜】稲川淳二耐久！遊び半分でこのゲームをプレイしないでください？！【周防パトラ】",
-        "video_id": "JGy2u4TznwU"
-    },
-    {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -34,15 +16,6 @@
         "timestamp": 1786701600,
         "title": "【告知あり】ししろんの社会科見学🏢1日CCOで内部調査だ！ #獅白ぼたん6周年【獅白ぼたん/ホロライブ】",
         "video_id": "Ptg8fJ5Kbyw"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_raorapanthera",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dJHeHywWvnA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "yea art stream!!!",
-        "video_id": "dJHeHywWvnA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
@@ -70,15 +43,6 @@
         "timestamp": 1786698000,
         "title": "【 バイオハザード5 】初見ソロで「BIOHAZARD 5」に挑戦するのら！！！RESIDENT EVIL 5【姫森ルーナ/ホロライブ】ネタバレあり",
         "video_id": "TTglolfRiHU"
-    },
-    {
-        "channel": "https://www.youtube.com/@MizumiyaSu",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ua9qdaAZhYc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザードRE:4】エイダ編＃1　完全初見❕ホラー苦手が行く 【水宮枢／ホロライブDEV_IS】",
-        "video_id": "Ua9qdaAZhYc"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
@@ -113,7 +77,8 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1786642264.76324
+        "timestamp": 1786645972.8168755,
+        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/心音/梵天/耳はむ】 | Streaming asmr for 857 viewers."
     },
     {
         "channel": "https://www.youtube.com/@TakaneLui",
@@ -168,5 +133,14 @@
         "timestamp": 1786665600,
         "title": "【RESTORY: CHILL ELECTRONICS REPAIRS】have you tried turning it on and off again【Dokibird】",
         "video_id": "u8vSjz5Wwh4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yauceJCbeyc/maxresdefault_live.jpg",
+        "timestamp": 1786705200,
+        "title": "【パワプロ2026】王立天狐学園VS河川敷土佐   兄弟交流戦!!　#ホロ野球交流戦【ホロライブ/白上フブキ】",
+        "video_id": "yauceJCbeyc"
     }
 ]
