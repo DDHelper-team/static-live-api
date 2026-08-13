@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hHohoT8mN3w/maxresdefault_live.jpg",
-        "timestamp": 1786622400,
+        "timestamp": null,
         "title": "#最終回【初見】『コードギアス 反逆のルルーシュR2』同時視聴【ホロライブ/兎田ぺこら】",
         "video_id": "hHohoT8mN3w"
     },
@@ -110,10 +110,10 @@
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IOhP95fYPTw/maxresdefault_live.jpg",
-        "timestamp": 1786622400,
-        "title": "【】よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "timestamp": null,
+        "title": "【日本事故物件監視協会 -JSP-】3が出たので1からやります…【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "IOhP95fYPTw"
     },
     {
@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/@ShishiroBotan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JpGeRUEC-RY/maxresdefault_live.jpg",
-        "timestamp": 1786622400,
+        "timestamp": null,
         "title": "【ほの暮しの庭】不穏な村でのスローライフ生活⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
         "video_id": "JpGeRUEC-RY"
     },
@@ -164,11 +164,11 @@
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-VVfuIFg53A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "お盆の雑談♩",
-        "video_id": "-VVfuIFg53A"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wVNKRvzJWL0/maxresdefault_live.jpg",
+        "timestamp": 1786626000,
+        "title": "【ホラゲー】#ルイころ で「みつめ」やるでな👻＜ ｺﾜｲ",
+        "video_id": "wVNKRvzJWL0"
     },
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
@@ -196,5 +196,23 @@
         "timestamp": null,
         "title": "【Minecraft / #ストリヌ 】異世界転生マイクラ！ ５日目 【 #奏手イヅル 】",
         "video_id": "A2ljBNawvpE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lyAcHZIRmK0/maxresdefault_live.jpg",
+        "timestamp": 1786633200,
+        "title": "【Home Sweet Home Ep 2】MENGATASI TEKA-TEKI DI CHAPTER 4 !!!!",
+        "video_id": "lyAcHZIRmK0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7fk0CB07ly8oSl0aqKkqFg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4eKNREDzt1o/maxresdefault_live.jpg",
+        "timestamp": 1786626000,
+        "title": "【JSP3】マルチで事故物件を監視・・・？【百鬼あやめ/ホロライブ】",
+        "video_id": "4eKNREDzt1o"
     }
 ]
