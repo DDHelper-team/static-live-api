@@ -45,24 +45,6 @@
         "video_id": "TTglolfRiHU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pIEAAUINFDA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【麥塊 EP07】跟觀衆一起玩麥塊！【鴆咲 ToriTori】",
-        "video_id": "pIEAAUINFDA"
-    },
-    {
-        "channel": "https://www.youtube.com/@toritori1122",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pIEAAUINFDA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【麥塊 EP07】跟觀衆一起玩麥塊！【鴆咲 ToriTori】",
-        "video_id": "pIEAAUINFDA"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -70,15 +52,6 @@
         "timestamp": 1786685400,
         "title": "【Coca-Cola STAGE:0 公認ウォッチパーティー】#グランツーリスモ エキシビションマッチを一緒に見よう～～！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
         "video_id": "zvfm_X8W8wQ"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afa9076-00a3-404c-b1b9-c9b422c542f3-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/kotonoha_yukino_",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1786645972.8168755,
-        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/心音/梵天/耳はむ】 | Streaming asmr for 857 viewers."
     },
     {
         "channel": "https://www.youtube.com/@TakaneLui",
@@ -101,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/THkht21IjV4/maxresdefault_live.jpg",
-        "timestamp": 1786647600,
+        "timestamp": null,
         "title": "Updates and doodling otomos~【STREAM】",
         "video_id": "THkht21IjV4"
     },
@@ -142,5 +115,32 @@
         "timestamp": 1786705200,
         "title": "【パワプロ2026】王立天狐学園VS河川敷土佐   兄弟交流戦!!　#ホロ野球交流戦【ホロライブ/白上フブキ】",
         "video_id": "yauceJCbeyc"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ng1wcY3zOhE/maxresdefault_live.jpg",
+        "timestamp": 1786698000,
+        "title": "【いえのあじ】3Dで苦手なホラゲリベンジ #お子様バッテリー【水宮枢／ホロライブDEV_IS】",
+        "video_id": "Ng1wcY3zOhE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MpMD-n6dJhU/maxresdefault_live.jpg",
+        "timestamp": 1786712400,
+        "title": "【 🔴ほの暮しの庭 】スローライフ⁉️ 暮らし､ときどき ──────【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "MpMD-n6dJhU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/b6qH2m7eQVM/maxresdefault_live.jpg",
+        "timestamp": 1786712400,
+        "title": "【#4】ひぐらしのなく頃に　同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "b6qH2m7eQVM"
     }
 ]
