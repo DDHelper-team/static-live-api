@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QQl5LuSzIvo/maxresdefault_live.jpg",
-        "timestamp": 1786618800,
+        "timestamp": null,
         "title": "【 #アキロゼ新衣装  】シルエットから予測できた人はいるのか？！【アキロゼ/ホロライブ】",
         "video_id": "QQl5LuSzIvo"
     },
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/glvpySalt-Q/maxresdefault_live.jpg",
-        "timestamp": 1786618800,
+        "timestamp": null,
         "title": "【#ホロボドゲ部】第２回!!エトコトバトルホロメン対決【ホロライブ/白上フブキ】",
         "video_id": "glvpySalt-Q"
     },
@@ -173,9 +173,9 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TC4LkBXSX8Y/maxresdefault_live.jpg",
-        "timestamp": 1786618800,
+        "timestamp": null,
         "title": "【帰宅！！】ただいま雑談～～❤【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "TC4LkBXSX8Y"
     },
@@ -187,5 +187,14 @@
         "timestamp": null,
         "title": "【 Detroit: Become Human 】#1 | 完全初見　わたしは、【常闇トワ/ホロライブ】",
         "video_id": "HZxoJiCZPVs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/A2ljBNawvpE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【Minecraft / #ストリヌ 】異世界転生マイクラ！ ５日目 【 #奏手イヅル 】",
+        "video_id": "A2ljBNawvpE"
     }
 ]
