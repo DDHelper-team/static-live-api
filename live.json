@@ -45,24 +45,6 @@
         "video_id": "dJHeHywWvnA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/A2ljBNawvpE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Minecraft / #ストリヌ 】異世界転生マイクラ！ ５日目 【 #奏手イヅル 】",
-        "video_id": "A2ljBNawvpE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lyAcHZIRmK0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Home Sweet Home Ep 2】MENGATASI TEKA-TEKI DI CHAPTER 4 !!!!",
-        "video_id": "lyAcHZIRmK0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -81,15 +63,6 @@
         "video_id": "Cx8op8LNem0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jnlVlrJ0QwM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ほの暮しの庭】ちょっとだけ村へ、暗くなる前に帰りたい。#3【獅子神レオナ┆Re:AcT】",
-        "video_id": "jnlVlrJ0QwM"
-    },
-    {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,15 +70,6 @@
         "timestamp": 1786698000,
         "title": "【 バイオハザード5 】初見ソロで「BIOHAZARD 5」に挑戦するのら！！！RESIDENT EVIL 5【姫森ルーナ/ホロライブ】ネタバレあり",
         "video_id": "TTglolfRiHU"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jnlVlrJ0QwM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ほの暮しの庭】ちょっとだけ村へ、暗くなる前に帰りたい。#3【獅子神レオナ┆Re:AcT】",
-        "video_id": "jnlVlrJ0QwM"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -149,8 +113,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1786638555.0327086,
-        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/心音/梵天/耳はむ】 | Streaming asmr for 857 viewers."
+        "timestamp": 1786642264.76324
     },
     {
         "channel": "https://www.youtube.com/@TakaneLui",
@@ -187,5 +150,23 @@
         "timestamp": 1786669200,
         "title": "【Resident Evil RE:4】IT\u0026#39;S NOT OVER YET (It\u0026#39;s actually just beginning)",
         "video_id": "p01AHtGCZAA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u8vSjz5Wwh4/maxresdefault_live.jpg",
+        "timestamp": 1786665600,
+        "title": "【RESTORY: CHILL ELECTRONICS REPAIRS】have you tried turning it on and off again【Dokibird】",
+        "video_id": "u8vSjz5Wwh4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u8vSjz5Wwh4/maxresdefault_live.jpg",
+        "timestamp": 1786665600,
+        "title": "【RESTORY: CHILL ELECTRONICS REPAIRS】have you tried turning it on and off again【Dokibird】",
+        "video_id": "u8vSjz5Wwh4"
     }
 ]
