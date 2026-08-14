@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ebfh3bcgH1g/maxresdefault_live.jpg",
-        "timestamp": 1786701600,
+        "timestamp": null,
         "title": "【スーパーマリオサンシャイン】夏だ！完全初見でいく神ゲー🌻常夏マリオサンシャインだ！！！【博衣こより/ホロライブ】",
         "video_id": "Ebfh3bcgH1g"
     },
     {
         "channel": "https://www.youtube.com/@ShishiroBotan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ptg8fJ5Kbyw/maxresdefault_live.jpg",
-        "timestamp": 1786701600,
+        "timestamp": null,
         "title": "【告知あり】ししろんの社会科見学🏢1日CCOで内部調査だ！ #獅白ぼたん6周年【獅白ぼたん/ホロライブ】",
         "video_id": "Ptg8fJ5Kbyw"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ia2dFm-y7h8/maxresdefault_live.jpg",
-        "timestamp": 1786701600,
+        "timestamp": null,
         "title": "【 だる絡み背後霊 】ホラゲウィーク第伍夜／すみませんSAN値足りてないのでコメディホラーいいですか👻 #ホラゲウィーク2026【#ルイころ/ホロライブ】",
         "video_id": "Ia2dFm-y7h8"
     },
@@ -153,15 +153,6 @@
         "video_id": "4NUg2gTeEn0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/c7E72KsylSg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Super Shout Showdown】im an anime protagonist and im gonna save the world",
-        "video_id": "c7E72KsylSg"
-    },
-    {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +205,50 @@
         "timestamp": 1786705200,
         "title": "【日本事故物件監視協会２ -JSP-】心拍センサーでビビリじゃないことの証明【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "v2AgNSsqnMw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cCH4IMojxwg/maxresdefault_live.jpg",
+        "timestamp": 1786710600,
+        "title": "【歌枠/Singing】お知らせもあるそんな歌の枠。【 獅子神レオナ/Re:AcT】",
+        "video_id": "cCH4IMojxwg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cCH4IMojxwg/maxresdefault_live.jpg",
+        "timestamp": 1786710600,
+        "title": "【歌枠/Singing】お知らせもあるそんな歌の枠。【 獅子神レオナ/Re:AcT】",
+        "video_id": "cCH4IMojxwg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ND7Uw8sW5Qk/maxresdefault_live.jpg",
+        "timestamp": 1786705200,
+        "title": "【ほの暮しの庭】#01｜夏の夜の田舎暮らし…？※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
+        "video_id": "ND7Uw8sW5Qk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WT80XL8oxnI/maxresdefault_live.jpg",
+        "timestamp": 1786708800,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "WT80XL8oxnI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TgXh5pU1NRA/maxresdefault_live.jpg",
+        "timestamp": 1786708800,
+        "title": "【FREETALK】 FINALLY BACK FROM WORK I MISS YOU GUYS 【Kureiji Ollie】",
+        "video_id": "TgXh5pU1NRA"
     }
 ]
