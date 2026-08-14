@@ -38,20 +38,20 @@
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TTglolfRiHU/maxresdefault_live.jpg",
-        "timestamp": 1786698000,
-        "title": "【 バイオハザード5 】初見ソロで「BIOHAZARD 5」に挑戦するのら！！！RESIDENT EVIL 5【姫森ルーナ/ホロライブ】ネタバレあり",
+        "timestamp": null,
+        "title": "【 バイオハザード5 】初見ソロで『BIOHAZARD 5』に挑戦するのら！！！RESIDENT EVIL 5【姫森ルーナ/ホロライブ】ネタバレあり",
         "video_id": "TTglolfRiHU"
     },
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bxP_KFxnwuU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 バイオハザード RE:4 】初プレイ！アシュリーたんどこにいったの!? #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
-        "video_id": "bxP_KFxnwuU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ia2dFm-y7h8/maxresdefault_live.jpg",
+        "timestamp": 1786701600,
+        "title": "【 だる絡み背後霊 】ホラゲウィーク第伍夜／すみませんSAN値足りてないのでコメディホラーいいですか👻 #ホラゲウィーク2026【#ルイころ/ホロライブ】",
+        "video_id": "Ia2dFm-y7h8"
     },
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ng1wcY3zOhE/maxresdefault_live.jpg",
-        "timestamp": 1786698000,
+        "timestamp": null,
         "title": "【いえのあじ】3Dで苦手なホラゲリベンジ #お子様バッテリー【水宮枢／ホロライブDEV_IS】",
         "video_id": "Ng1wcY3zOhE"
     },
@@ -191,10 +191,28 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Am8LfnyyHO0/maxresdefault_live.jpg",
-        "timestamp": 1786698000,
+        "timestamp": null,
         "title": "【SPAGHET】フブキ先輩にいただいたのですがこれはなんですか？【風真いろは/ホロライブ】",
         "video_id": "Am8LfnyyHO0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sJW28uTPwv8/maxresdefault_live.jpg",
+        "timestamp": 1786716000,
+        "title": "【MECCHA CHAMELEON】WITH IOFORIA 【 iofi / hololiveID 】",
+        "video_id": "sJW28uTPwv8"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/v2AgNSsqnMw/maxresdefault_live.jpg",
+        "timestamp": 1786705200,
+        "title": "【日本事故物件監視協会２ -JSP-】心拍センサーでビビリじゃないことの証明【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "v2AgNSsqnMw"
     }
 ]
