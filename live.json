@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MpMD-n6dJhU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 🔴ほの暮しの庭 】スローライフ⁉️ 暮らし､ときどき ──────【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "MpMD-n6dJhU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mrAPmCLR3ps/maxresdefault_live.jpg",
+        "timestamp": 1786791600,
+        "title": "【 FF7リバース 】みんなと冒険だああ!! #09 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "mrAPmCLR3ps"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -88,15 +88,6 @@
         "timestamp": 1786791600,
         "title": "【 #あざとい王選手権 】重大告知あり！！ホロライブで最もあざといのは誰だ！？【雪花ラミィ /ホロライブ】",
         "video_id": "qOPXXhRDMow"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/2INE2JRJn0A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【KU100/ASMR】ぐっぽり包まれる至高の耳はむ♡ず～っと気持ちいい快眠サポートで絶頂睡眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
-        "video_id": "2INE2JRJn0A"
     },
     {
         "channel": "https://www.youtube.com/@AIChannel",
@@ -187,5 +178,23 @@
         "timestamp": 1786784400,
         "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
         "video_id": "N3Ll6s2xWt8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jcti8pZymmE/maxresdefault_live.jpg",
+        "timestamp": 1786748400,
+        "title": "【Resident Evil RE:4】Surely hardcore wasnt a mistake :D",
+        "video_id": "jcti8pZymmE"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pIufAN3Emcc/maxresdefault_live.jpg",
+        "timestamp": 1786784100,
+        "title": "【グランツーリスモ7】全国高校 e-Motorsports選手権 アオハルGP ミラー配信！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
+        "video_id": "pIufAN3Emcc"
     }
 ]
