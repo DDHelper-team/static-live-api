@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WVhijZnCHN0/maxresdefault_live.jpg",
-        "timestamp": 1786719600,
+        "timestamp": null,
         "title": "【Plug\u0026amp;Play】uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuhmmmmmmmmmmmmmmmmmmmmmmmmmm",
         "video_id": "WVhijZnCHN0"
     },
@@ -117,31 +117,13 @@
         "video_id": "trGJQS-eeEY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cCH4IMojxwg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】お知らせもあるそんな歌の枠。【 獅子神レオナ/Re:AcT】",
-        "video_id": "cCH4IMojxwg"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cCH4IMojxwg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠/Singing】お知らせもあるそんな歌の枠。【 獅子神レオナ/Re:AcT】",
-        "video_id": "cCH4IMojxwg"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ND7Uw8sW5Qk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ほの暮しの庭】#01｜夏の夜の田舎暮らし…？※配信内容にネタバレあり【雪花ラミィ /ホロライブ】",
-        "video_id": "ND7Uw8sW5Qk"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qOPXXhRDMow/maxresdefault_live.jpg",
+        "timestamp": 1786791600,
+        "title": "【 #あざとい王選手権 】重大告知あり！！ホロライブで最もあざといのは誰だ！？【雪花ラミィ /ホロライブ】",
+        "video_id": "qOPXXhRDMow"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -151,15 +133,6 @@
         "timestamp": null,
         "title": "【セミたちはどう生きるか】夏、セミとして全力で生きる。ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "WT80XL8oxnI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TgXh5pU1NRA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FREETALK】 FINALLY BACK FROM WORK I MISS YOU GUYS 【Kureiji Ollie】",
-        "video_id": "TgXh5pU1NRA"
     },
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
@@ -232,5 +205,14 @@
         "timestamp": 1786802400,
         "title": "【MECCHA CHAMELEON】WITH IOFORIA 【 iofi / hololiveID 】",
         "video_id": "sJW28uTPwv8"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KMlPB3-zD30/maxresdefault_live.jpg",
+        "timestamp": 1786795200,
+        "title": "【#ノエマリ夏の大掃除】今の家に引っ越して早１年４か月...先生たすけてくだたいTT(最後MV公開＆グッズ販売あり！)【白銀ノエル/ホロライブ】",
+        "video_id": "KMlPB3-zD30"
     }
 ]
