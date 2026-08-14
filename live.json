@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zvfm_X8W8wQ/maxresdefault_live.jpg",
-        "timestamp": 1786685400,
+        "timestamp": null,
         "title": "【Coca-Cola STAGE:0 公認ウォッチパーティー】#グランツーリスモ エキシビションマッチを一緒に見よう～～！！！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
         "video_id": "zvfm_X8W8wQ"
     },
@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gsmfDkWvRDE/maxresdefault_live.jpg",
-        "timestamp": 1786687200,
+        "timestamp": null,
         "title": "【ほの暮しの庭】最終回！謎がすべて解き明かされる？！のんびり田舎暮らしが何か怖い？！【周防パトラ】",
         "video_id": "gsmfDkWvRDE"
     },
@@ -171,15 +171,6 @@
         "video_id": "mu-xpzcbkd0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pgABdjuUoAg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HOLOLIVE DREAMS】FINALLY I SHALL JOIN THE CONVERSATION #kfp #キアライブ",
-        "video_id": "pgABdjuUoAg"
-    },
-    {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -187,5 +178,41 @@
         "timestamp": 1786690800,
         "title": "【ShadowverseWB】第三節、最終章！！Crazy Raccoon Streamer League Shadowverse【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "KbHHkeK_rQk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4NUg2gTeEn0/maxresdefault_live.jpg",
+        "timestamp": 1786735800,
+        "title": "【HORSE MAGNIFIER: THE FULL HORSE】enhance naaaaaaaay【Dokibird】",
+        "video_id": "4NUg2gTeEn0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c7E72KsylSg/maxresdefault_live.jpg",
+        "timestamp": 1786690800,
+        "title": "【Super Shout Showdown】im an anime protagonist and im gonna save the world",
+        "video_id": "c7E72KsylSg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4NUg2gTeEn0/maxresdefault_live.jpg",
+        "timestamp": 1786735800,
+        "title": "【HORSE MAGNIFIER: THE FULL HORSE】enhance naaaaaaaay【Dokibird】",
+        "video_id": "4NUg2gTeEn0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/e6cAa6AA8hE/maxresdefault_live.jpg",
+        "timestamp": 1786766400,
+        "title": "【勝利の女神:NIKKE】ペルソナコラボも来たしストーリー11章もクリアしたい男【夕刻ロベル/ホロスターズ】",
+        "video_id": "e6cAa6AA8hE"
     }
 ]
