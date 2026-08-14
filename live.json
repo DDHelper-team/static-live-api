@@ -45,15 +45,6 @@
         "video_id": "2dJyOdiLRHA"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yauceJCbeyc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パワプロ2026】王立天狐学園VS河川敷土佐   兄弟交流戦!!　#ホロ野球交流戦【ホロライブ/白上フブキ】",
-        "video_id": "yauceJCbeyc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -232,5 +223,32 @@
         "timestamp": 1786791600,
         "title": "【#ニコニコ老人会RUST】伝説の4日目！？壮絶な大会をクリップ鑑賞会で振り返る！【キズナアイ 】",
         "video_id": "7dojTMwQo4o"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qB7ffJDq2-4/maxresdefault_live.jpg",
+        "timestamp": 1786712400,
+        "title": "#01 【バイオハザード6】フレわたのわちゃわちゃ劇場レオン\u0026amp;ヘレナ編【不知火フレア/ホロライブ】",
+        "video_id": "qB7ffJDq2-4"
+    },
+    {
+        "channel": "https://www.youtube.com/@TakaneLui",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SDw5DqWcteI/maxresdefault_live.jpg",
+        "timestamp": 1786762800,
+        "title": "【 バイオハザード RE:4 】初プレイ！またひとりぼっちレオンくん #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
+        "video_id": "SDw5DqWcteI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n6U0oGZKxsE/maxresdefault_live.jpg",
+        "timestamp": 1786708800,
+        "title": "【雑談】深夜雑談【荒咬オウガ /ホロスターズ】",
+        "video_id": "n6U0oGZKxsE"
     }
 ]
