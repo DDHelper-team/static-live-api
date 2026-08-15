@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SO3x5NZnDmI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ガンダム同時視聴】「機動戦士ガンダムSEED」同時視聴！Ep34～Ep40まで！ #こよりとガンダム 【博衣こより/ホロライブ】",
-        "video_id": "SO3x5NZnDmI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mrAPmCLR3ps/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 FF7リバース 】みんなと冒険だああ!! #09 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
-        "video_id": "mrAPmCLR3ps"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4LVAWooGyVI/maxresdefault_live.jpg",
+        "timestamp": 1786845600,
+        "title": "【朝活】5億年ぶり雑談～マシュマロを添えて～【博衣こより/ホロライブ】",
+        "video_id": "4LVAWooGyVI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -216,15 +207,6 @@
         "video_id": "1EK2MB_djgc"
     },
     {
-        "channel": "https://www.youtube.com/@RindoChihaya",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HqkwS_LVac8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【同時視聴/ドールハウス】夏休みはホラー強化週間だ・・・【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "HqkwS_LVac8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
         "status": "LIVE",
@@ -277,5 +259,23 @@
         "timestamp": null,
         "title": "【 ノープラン歌枠 】新衣装で歌うよ～！＆ちいかわにハマった話【アキロゼ/ホロライブ】",
         "video_id": "9T_dbQ8X8F4"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/l5zBrRiz0Nk/maxresdefault_live.jpg",
+        "timestamp": 1786842000,
+        "title": "【朝活雑談】新曲MV＆7周年グッズ発売ちゅ～～～～🎵【白銀ノエル/ホロライブ】",
+        "video_id": "l5zBrRiz0Nk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VD3vn1CUj_8/maxresdefault_live.jpg",
+        "timestamp": 1786878000,
+        "title": "【 FF7リバース 】みんなと冒険だああ!! #10 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
+        "video_id": "VD3vn1CUj_8"
     }
 ]
