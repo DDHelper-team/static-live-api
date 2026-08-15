@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/sJW28uTPwv8/maxresdefault_live.jpg",
-        "timestamp": 1786802400,
+        "timestamp": null,
         "title": "【MECCHA CHAMELEON】WITH IOFORIA 【 iofi / hololiveID 】",
         "video_id": "sJW28uTPwv8"
     },
@@ -295,5 +295,14 @@
         "timestamp": 1786802400,
         "title": "【三角州行動 EP29】今天打烽火，大紅大紅你在哪~~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
         "video_id": "SzR841jqEKU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YiN70FbX79Y/maxresdefault_live.jpg",
+        "timestamp": 1786841400,
+        "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 6【荒咬オウガ /ホロスターズ】",
+        "video_id": "YiN70FbX79Y"
     }
 ]
