@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tFr6VNfevpY/maxresdefault_live.jpg",
-        "timestamp": 1786755600,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "tFr6VNfevpY"
     },
@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XrI6f6Lnr_c/maxresdefault_live.jpg",
-        "timestamp": 1786755600,
+        "timestamp": null,
         "title": "【ANIMAL HOSPITAL】are you here for an appointment?【Dokibird】",
         "video_id": "XrI6f6Lnr_c"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XrI6f6Lnr_c/maxresdefault_live.jpg",
-        "timestamp": 1786755600,
+        "timestamp": null,
         "title": "【ANIMAL HOSPITAL】are you here for an appointment?【Dokibird】",
         "video_id": "XrI6f6Lnr_c"
     },
@@ -187,5 +187,14 @@
         "timestamp": 1786784400,
         "title": "【ほの暮しの庭】不穏な村でのスローライフ生活 2日目⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
         "video_id": "B_1-BaxRyJU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xNlS-8BPLXc/maxresdefault_live.jpg",
+        "timestamp": 1786842000,
+        "title": "The Bigger I Walk The Bigger I Talk Probably 【Big Walk】",
+        "video_id": "xNlS-8BPLXc"
     }
 ]
