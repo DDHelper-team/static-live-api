@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zGr5cfKAeTw/maxresdefault_live.jpg",
-        "timestamp": 1786798800,
+        "timestamp": null,
         "title": "【Machine Party】初コラボで友情破壊ゲー⁉️【すうヴィヴィ×のぞめる】",
         "video_id": "zGr5cfKAeTw"
     },
@@ -52,15 +52,6 @@
         "timestamp": 1786802400,
         "title": "【MECCHA CHAMELEON】WITH IOFORIA 【 iofi / hololiveID 】",
         "video_id": "sJW28uTPwv8"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShiroganeNoel",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KMlPB3-zD30/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ノエマリ夏の大掃除】今の家に引っ越して早１年４か月...先生たすけてくだたいTT(最後MV公開＆グッズ販売あり！)【白銀ノエル/ホロライブ】",
-        "video_id": "KMlPB3-zD30"
     },
     {
         "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
@@ -79,15 +70,6 @@
         "timestamp": null,
         "title": "【ほの暮しの庭】不穏な村でのほのぼのスローライフ...？※ネタバレあり【轟はじめ/ReGLOSS】",
         "video_id": "6WEptN7F2Qw"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShishiroBotan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/B_1-BaxRyJU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ほの暮しの庭】不穏な村でのスローライフ生活 2日目⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
-        "video_id": "B_1-BaxRyJU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
@@ -209,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/@ShiranuiFlare",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SBXZ3YUMcFg/maxresdefault_live.jpg",
-        "timestamp": 1786798800,
+        "timestamp": null,
         "title": "#01【ほの暮しの庭】Hi！ダーリン！のどかなスローライフを送るわよ❤【不知火フレア/ホロライブ】※ネタバレあり",
         "video_id": "SBXZ3YUMcFg"
     },
@@ -281,19 +263,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DeglaBZLLD8/maxresdefault_live.jpg",
-        "timestamp": 1786800634,
+        "timestamp": null,
         "title": "【メタファー：リファンタジオ】#4 | 完全初見！国民から信託を得よ！【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "DeglaBZLLD8"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DeglaBZLLD8/maxresdefault_live.jpg",
-        "timestamp": 1786800634,
+        "timestamp": null,
         "title": "【メタファー：リファンタジオ】#4 | 完全初見！国民から信託を得よ！【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "DeglaBZLLD8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SzR841jqEKU/maxresdefault_live.jpg",
+        "timestamp": 1786802400,
+        "title": "【三角州行動 EP29】今天打烽火，大紅大紅你在哪~~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "SzR841jqEKU"
+    },
+    {
+        "channel": "https://www.youtube.com/@toritori1122",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SzR841jqEKU/maxresdefault_live.jpg",
+        "timestamp": 1786802400,
+        "title": "【三角州行動 EP29】今天打烽火，大紅大紅你在哪~~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "SzR841jqEKU"
     }
 ]
