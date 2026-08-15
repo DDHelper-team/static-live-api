@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tFr6VNfevpY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
-        "video_id": "tFr6VNfevpY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kht81W2E_SI/maxresdefault_live.jpg",
+        "timestamp": 1786766400,
+        "title": "【#8】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "kht81W2E_SI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
@@ -38,10 +38,10 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mu-xpzcbkd0/maxresdefault_live.jpg",
-        "timestamp": 1786762800,
-        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】summer anison + BIG ANNOUNCEMENTS?! 🐾【FUWAMOCO】",
+        "timestamp": null,
+        "title": "【FUWAMOCO ROCK N\u0026#39; RAWR PARTY】summer anison + BIG ANNOUNCEMENTS?! 🐾【FUWAMOCO｜重大発表あり】",
         "video_id": "mu-xpzcbkd0"
     },
     {
@@ -92,9 +92,9 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SDw5DqWcteI/maxresdefault_live.jpg",
-        "timestamp": 1786762800,
+        "timestamp": null,
         "title": "【 バイオハザード RE:4 】初プレイ！またひとりぼっちレオンくん #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
         "video_id": "SDw5DqWcteI"
     },
@@ -162,15 +162,6 @@
         "video_id": "N3Ll6s2xWt8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jcti8pZymmE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Resident Evil RE:4】Surely hardcore wasnt a mistake :D",
-        "video_id": "jcti8pZymmE"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -200,10 +191,37 @@
     {
         "channel": "https://www.youtube.com/@TokoyamiTowa",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/DHCo3rOJvzo/maxresdefault_live.jpg",
-        "timestamp": 1786761000,
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6 】じすたげCUP 3on3 〜女性限定トーナメント〜【常闇トワ/ホロライブ】",
         "video_id": "DHCo3rOJvzo"
+    },
+    {
+        "channel": "https://www.youtube.com/@Robocosan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xeh85q8Do8k/maxresdefault_live.jpg",
+        "timestamp": 1786763700,
+        "title": "【MGMG EAT】ゲリラごはん！最近女子力あげってにゃいか～？？　【ホロライブ/ロボ子さん】",
+        "video_id": "xeh85q8Do8k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ed5OLL25Gps/maxresdefault_live.jpg",
+        "timestamp": 1786766454,
+        "title": "【BIOHAZARD RE:2】#4 | 完全初見！最後まで徹底的に掃討せよ。【緋月ゆい/ネオポルテ】",
+        "video_id": "ed5OLL25Gps"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ed5OLL25Gps/maxresdefault_live.jpg",
+        "timestamp": 1786766454,
+        "title": "【BIOHAZARD RE:2】#4 | 完全初見！最後まで徹底的に掃討せよ。【緋月ゆい/ネオポルテ】",
+        "video_id": "ed5OLL25Gps"
     }
 ]
