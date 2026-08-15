@@ -155,9 +155,9 @@
     {
         "channel": "https://www.youtube.com/@TokoyamiTowa",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lXRROlu_sL0/maxresdefault_live.jpg",
-        "timestamp": 1786777200,
+        "timestamp": null,
         "title": "【 STREET FIGHTER 6 】じすたげCUP 3on3 〜女性限定トーナメント〜　決勝🔥【常闇トワ/ホロライブ】",
         "video_id": "lXRROlu_sL0"
     },
@@ -182,9 +182,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pII5pf-EZMM/maxresdefault_live.jpg",
-        "timestamp": 1786777200,
+        "timestamp": null,
         "title": "#8【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "pII5pf-EZMM"
     },
@@ -200,18 +200,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LudRXUW-qVE/maxresdefault_live.jpg",
-        "timestamp": 1786777200,
+        "timestamp": null,
         "title": "【#ff14  】繼續跑6版劇情~【#ゲーム個人勢 / Fingla】",
         "video_id": "LudRXUW-qVE"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/LudRXUW-qVE/maxresdefault_live.jpg",
-        "timestamp": 1786777200,
+        "timestamp": null,
         "title": "【#ff14  】繼續跑6版劇情~【#ゲーム個人勢 / Fingla】",
         "video_id": "LudRXUW-qVE"
     },
@@ -223,5 +223,14 @@
         "timestamp": 1786842000,
         "title": "【Big Walk Collab】walking my kouhai today #calliolive",
         "video_id": "3ZdEw-ePZJ4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NU_51wh_1jw/maxresdefault_live.jpg",
+        "timestamp": 1786782600,
+        "title": "はなそ～ぜ",
+        "video_id": "NU_51wh_1jw"
     }
 ]
