@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kht81W2E_SI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#8】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "kht81W2E_SI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3AbxUNRo5q8/maxresdefault_live.jpg",
+        "timestamp": 1786852800,
+        "title": "【#9】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "3AbxUNRo5q8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCFKOVgVbGmX65RxO3EtH3iw",
@@ -47,11 +47,11 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SDw5DqWcteI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 バイオハザード RE:4 】初プレイ！またひとりぼっちレオンくん #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
-        "video_id": "SDw5DqWcteI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mbeegoeBjx0/maxresdefault_live.jpg",
+        "timestamp": 1786802400,
+        "title": "【 青鬼2 】ホラゲウィーク最終夜／ブルーベリー色のアイツがくる👻 #ホラゲウィーク2026【鷹嶺ルイ/ホロライブ】",
+        "video_id": "mbeegoeBjx0"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -153,24 +153,6 @@
         "video_id": "lXRROlu_sL0"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jAriL4EB0tM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】因習村ってこんなに楽しいんだ！！！【 領国つかさ / すぺしゃりて 】",
-        "video_id": "jAriL4EB0tM"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jAriL4EB0tM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】因習村ってこんなに楽しいんだ！！！【 領国つかさ / すぺしゃりて 】",
-        "video_id": "jAriL4EB0tM"
-    },
-    {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
         "status": "LIVE",
@@ -250,5 +232,14 @@
         "timestamp": 1786838400,
         "title": "【 ＃朝ガオ 】もってくれよォ俺の回線・・・・‼【虎金妃笑虎】",
         "video_id": "Ihwugvpw1aY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bhuP-KY1D7Y/maxresdefault_live.jpg",
+        "timestamp": 1786798800,
+        "title": "【パワプロ】兎☆ダイナマイト高校 VS 限界条高校 交流戦！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "bhuP-KY1D7Y"
     }
 ]
