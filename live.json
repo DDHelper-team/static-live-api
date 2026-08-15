@@ -92,11 +92,11 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/N3Ll6s2xWt8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【あつまれどうぶつの森】きてくれぇぇぇ！！現在200連中【轟はじめ/ReGLOSS】",
-        "video_id": "N3Ll6s2xWt8"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6WEptN7F2Qw/maxresdefault_live.jpg",
+        "timestamp": 1786795200,
+        "title": "【ほの暮しの庭】不穏な村でのほのぼのスローライフ...？【轟はじめ/ReGLOSS】",
+        "video_id": "6WEptN7F2Qw"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -133,15 +133,6 @@
         "timestamp": 1786795200,
         "title": "【パワプロ2026】王立天狐学園VSわんわん高校   フブミオ交流戦!!　#ホロ野球交流戦【ホロライブ/白上フブキ】",
         "video_id": "2niycFr-VTI"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pII5pf-EZMM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#8【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "pII5pf-EZMM"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -268,5 +259,23 @@
         "timestamp": 1786798800,
         "title": "【hololive Dreams】Ms. Worldwide Pokajan",
         "video_id": "pFGhfBgLoSU"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SBXZ3YUMcFg/maxresdefault_live.jpg",
+        "timestamp": 1786798800,
+        "title": "#01【ほの暮しの庭】Hi！ダーリン！のどかなスローライフを送るわよ❤【不知火フレア/ホロライブ】※ネタバレあり",
+        "video_id": "SBXZ3YUMcFg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yOeJk50qVtI/maxresdefault_live.jpg",
+        "timestamp": 1786852800,
+        "title": "【ライブアライブ】功夫から！伝説のRPG、今ここに！初見でやってみる【周防パトラ】",
+        "video_id": "yOeJk50qVtI"
     }
 ]
