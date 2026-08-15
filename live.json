@@ -227,9 +227,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/NU_51wh_1jw/maxresdefault_live.jpg",
-        "timestamp": 1786782600,
+        "timestamp": null,
         "title": "はなそ～ぜ",
         "video_id": "NU_51wh_1jw"
     },
@@ -241,5 +241,14 @@
         "timestamp": 1786842000,
         "title": "【BIG WALK】i big steppa",
         "video_id": "kMKr0O8El88"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/n4ExqiRPnmo/maxresdefault_live.jpg",
+        "timestamp": 1786795200,
+        "title": "【PEAK】 THIS GAME HAS AN ENDING NOW??? 【Kureiji Ollie】",
+        "video_id": "n4ExqiRPnmo"
     }
 ]
