@@ -101,27 +101,27 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/N3Ll6s2xWt8/maxresdefault_live.jpg",
-        "timestamp": 1786784400,
-        "title": "【】はいしんよてい【轟はじめ/ReGLOSS】",
+        "timestamp": null,
+        "title": "【あつまれどうぶつの森】きてくれぇぇぇ！！現在200連中【轟はじめ/ReGLOSS】",
         "video_id": "N3Ll6s2xWt8"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pIufAN3Emcc/maxresdefault_live.jpg",
-        "timestamp": 1786784100,
+        "timestamp": null,
         "title": "【グランツーリスモ7】全国高校 e-Motorsports選手権 アオハルGP ミラー配信！【#輪堂千速 / #hololivedev_is #FLOWGLOW 】",
         "video_id": "pIufAN3Emcc"
     },
     {
         "channel": "https://www.youtube.com/@ShishiroBotan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/B_1-BaxRyJU/maxresdefault_live.jpg",
-        "timestamp": 1786784400,
+        "timestamp": null,
         "title": "【ほの暮しの庭】不穏な村でのスローライフ生活 2日目⚠️ネタバレ注意【獅白ぼたん/ホロライブ】",
         "video_id": "B_1-BaxRyJU"
     },
@@ -137,10 +137,10 @@
     {
         "channel": "https://www.youtube.com/@TokinoSora",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/RTRfu3Lioho/maxresdefault_live.jpg",
-        "timestamp": 1786784400,
-        "title": "【教えてフワモコ先生】英語が少しわかるようになりたいんです！！【ホロライブ/ときのそら/FUWAMOCO】",
+        "timestamp": null,
+        "title": "【#教えてフワモコ先生】英語が少しわかるようになりたいんです！！【ホロライブ/ときのそら/FUWAMOCO】",
         "video_id": "RTRfu3Lioho"
     },
     {
@@ -250,5 +250,14 @@
         "timestamp": 1786795200,
         "title": "【PEAK】 THIS GAME HAS AN ENDING NOW??? 【Kureiji Ollie】",
         "video_id": "n4ExqiRPnmo"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/U9gHt2fP0bw/maxresdefault_live.jpg",
+        "timestamp": 1786870800,
+        "title": "【 バイオハザード5 】初見ソロで『BIOHAZARD 5』に挑戦するのら！！！RESIDENT EVIL 5 ＃２ 最終回【姫森ルーナ/ホロライブ】ネタバレあり",
+        "video_id": "U9gHt2fP0bw"
     }
 ]
