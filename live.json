@@ -29,19 +29,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0FazK9Mh06U/maxresdefault_live.jpg",
-        "timestamp": 1786878000,
-        "title": "【 #獅子神レオナ生誕祭2026 】本日の主役はこちらです！【 獅子神レオナ/Re:AcT】",
+        "timestamp": null,
+        "title": "【 #獅子神レオナ生誕祭2026 】お祝いしてね🎂アニソンでみんなで盛り上がろう🧡告知あり【 獅子神レオナ/Re:AcT】",
         "video_id": "0FazK9Mh06U"
     },
     {
         "channel": "https://www.youtube.com/@Leona_Shishigami",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0FazK9Mh06U/maxresdefault_live.jpg",
-        "timestamp": 1786878000,
-        "title": "【 #獅子神レオナ生誕祭2026 】本日の主役はこちらです！【 獅子神レオナ/Re:AcT】",
+        "timestamp": null,
+        "title": "【 #獅子神レオナ生誕祭2026 】お祝いしてね🎂アニソンでみんなで盛り上がろう🧡告知あり【 獅子神レオナ/Re:AcT】",
         "video_id": "0FazK9Mh06U"
     },
     {
@@ -70,15 +70,6 @@
         "timestamp": 1786878000,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #10 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "VD3vn1CUj_8"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KDKH8_X6ay8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#9【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "KDKH8_X6ay8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -180,24 +171,6 @@
         "video_id": "KIf5vVa5XNQ"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/v2IFau6lpXU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【鳴潮】#11 | 完全初見！遂に2章突入じゃ！【緋月ゆい/ネオポルテ】",
-        "video_id": "v2IFau6lpXU"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/v2IFau6lpXU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【鳴潮】#11 | 完全初見！遂に2章突入じゃ！【緋月ゆい/ネオポルテ】",
-        "video_id": "v2IFau6lpXU"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,15 +196,6 @@
         "timestamp": 1786885200,
         "title": "【 DAY1 】#ホロ7大豆劇場 みんなでアプデ要素を楽しむ‼️【常闇トワ/ホロライブ】",
         "video_id": "T99BA9aR1lw"
-    },
-    {
-        "channel": "https://www.youtube.com/@RindoChihaya",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/H2rqfEBphSg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FF6】#13 初めてのFF！みんなを探し出すぞ！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "H2rqfEBphSg"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
@@ -286,5 +250,14 @@
         "timestamp": 1786879800,
         "title": "ホロドリ ! FULL COMBO!【 iofi / hololiveID 】",
         "video_id": "IVI6wjmXWuI"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sVaYfnfH_gA/maxresdefault_live.jpg",
+        "timestamp": 1786885200,
+        "title": "【7 Days to Die】#ホロ7大豆劇場 DAY1 🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "sVaYfnfH_gA"
     }
 ]
