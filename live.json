@@ -18,24 +18,6 @@
         "video_id": "dnAcI-ITkzI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_e0g6j89-mY/maxresdefault_live.jpg",
-        "timestamp": 1786892340,
-        "title": "【 Free chat 】すきま。【獅子神レオナ/Re:AcT】",
-        "video_id": "_e0g6j89-mY"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_e0g6j89-mY/maxresdefault_live.jpg",
-        "timestamp": 1786892340,
-        "title": "【 Free chat 】すきま。【獅子神レオナ/Re:AcT】",
-        "video_id": "_e0g6j89-mY"
-    },
-    {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
         "status": "LIVE",
@@ -61,24 +43,6 @@
         "timestamp": 1786919400,
         "title": "【#朝ミオ 】月曜日だよ～！お盆！！おはみぉーん！",
         "video_id": "tfXtXOODdKM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gK2ASQ6Czro/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Singing / Karaoke】リクエストを歌う回！！！【#TanZ 】",
-        "video_id": "gK2ASQ6Czro"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7oI6U_G-hdc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ほの暮しの庭】#02 不穏な村でのほのぼのスローライフ...？※ネタバレ含みます【轟はじめ/ReGLOSS】",
-        "video_id": "7oI6U_G-hdc"
     },
     {
         "channel": "https://www.youtube.com/@SakuraMiko",
@@ -216,15 +180,6 @@
         "video_id": "aJRRBLpyO9I"
     },
     {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gK2ASQ6Czro/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Singing / Karaoke】リクエストを歌う回！！！【#TanZ 】",
-        "video_id": "gK2ASQ6Czro"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
         "status": "LIVE",
@@ -286,5 +241,41 @@
         "timestamp": 1786977600,
         "title": "『 #今年の夏やり残していること 』 #アキちょこナイパレ 第47回 ～ホロライブ深夜ラジオ～",
         "video_id": "xKhRXOqeFG4"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/S6Lz5NbEFY8/maxresdefault_live.jpg",
+        "timestamp": 1786964400,
+        "title": "【#しゅぴなで】初代マリオブラザーズ💪1時間並走バトル【水宮枢／ホロライブDEV_IS】",
+        "video_id": "S6Lz5NbEFY8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/m76z2oPciDo/maxresdefault_live.jpg",
+        "timestamp": 1786978800,
+        "title": "‪〖 ASMR⌇KU100 〗 超スッキリ♡凄技お姉さんが色んなモノをイキ抜きケア…♡ 〖 耳かき / マッサージ / 音圧 /睡眠導入 / Japanese/Vtuber〗",
+        "video_id": "m76z2oPciDo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/_e0g6j89-mY/maxresdefault_live.jpg",
+        "timestamp": 1786892340,
+        "title": "【 Free chat 】すきま。【獅子神レオナ/Re:AcT】",
+        "video_id": "_e0g6j89-mY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": null,
+        "thumbnail": "https://i.ytimg.com/vi/_e0g6j89-mY/maxresdefault_live.jpg",
+        "timestamp": 1786892340,
+        "title": "【 Free chat 】すきま。【獅子神レオナ/Re:AcT】",
+        "video_id": "_e0g6j89-mY"
     }
 ]
