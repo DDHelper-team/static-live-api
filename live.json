@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@HakuiKoyori",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4LVAWooGyVI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活】5億年ぶり雑談～マシュマロを添えて～【博衣こより/ホロライブ】",
-        "video_id": "4LVAWooGyVI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -135,33 +126,6 @@
         "video_id": "uF82nBeiGbQ"
     },
     {
-        "channel": "https://www.youtube.com/@MizumiyaSu",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9rFKqrB02dc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPAGHET】莉々華先輩から貰ったゲームやるぞ❕🙌【水宮枢／ホロライブDEV_IS】",
-        "video_id": "9rFKqrB02dc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Kuc3o4dESMA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【THE CHOICER VOICER】My voiceacting demo reel【Dokibird】",
-        "video_id": "Kuc3o4dESMA"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Kuc3o4dESMA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【THE CHOICER VOICER】My voiceacting demo reel【Dokibird】",
-        "video_id": "Kuc3o4dESMA"
-    },
-    {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
         "status": "LIVE",
@@ -178,5 +142,41 @@
         "timestamp": 1786856400,
         "title": "#9【 FF7 】完全初見！ファイナルファンタジー７オリジナル！※ネタバレあります【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "KDKH8_X6ay8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tfXtXOODdKM/maxresdefault_live.jpg",
+        "timestamp": 1786919400,
+        "title": "【#朝ミオ 】月曜日だよ～！お盆！！おはみぉーん！",
+        "video_id": "tfXtXOODdKM"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gK2ASQ6Czro/maxresdefault_live.jpg",
+        "timestamp": 1786881600,
+        "title": "【Singing / Karaoke】リクエストを歌う回！！！【#TanZ 】",
+        "video_id": "gK2ASQ6Czro"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gK2ASQ6Czro/maxresdefault_live.jpg",
+        "timestamp": 1786881600,
+        "title": "【Singing / Karaoke】リクエストを歌う回！！！【#TanZ 】",
+        "video_id": "gK2ASQ6Czro"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7oI6U_G-hdc/maxresdefault_live.jpg",
+        "timestamp": 1786874400,
+        "title": "【ほの暮しの庭】#02 不穏な村でのほのぼのスローライフ...？※ネタバレ含みます【轟はじめ/ReGLOSS】",
+        "video_id": "7oI6U_G-hdc"
     }
 ]
