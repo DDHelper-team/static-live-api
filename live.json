@@ -83,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BEgpBNm8wyY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 バイオハザード RE:4 】初プレイ！レオン編最終回！！！ 【鷹嶺ルイ/ホロライブ】",
-        "video_id": "BEgpBNm8wyY"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/m15ViMDzlpA/maxresdefault_live.jpg",
+        "timestamp": 1786856400,
+        "title": "【 中京記念＆札幌記念 】久々のG2もｷﾀー‼的中させるぞ～！【鷹嶺ルイ/ホロライブ】",
+        "video_id": "m15ViMDzlpA"
     },
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
@@ -142,5 +142,41 @@
         "timestamp": 1786885200,
         "title": "【7Days to Die】あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
         "video_id": "iPvbyvgv18g"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoushouMarine",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-2UUTkv9qvk/maxresdefault_live.jpg",
+        "timestamp": 1786874400,
+        "title": "【】【ホロライブ/宝鐘マリン】",
+        "video_id": "-2UUTkv9qvk"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oNBW796tNxM/maxresdefault_live.jpg",
+        "timestamp": 1786856400,
+        "title": "【 初代マリオ 】我々に与えられた時間は３時間・・・【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "oNBW796tNxM"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bRuLlzYFdmE/maxresdefault_live.jpg",
+        "timestamp": 1786885200,
+        "title": "【 7Days to Die 】#ホロ７DAYSTODIE 初参戦！ゾンビ倒す！【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "bRuLlzYFdmE"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/S0P47C9N7hg/maxresdefault_live.jpg",
+        "timestamp": 1786885200,
+        "title": "【DAY1】ゾンビだらけの世界で暴れ散らすぞ！！ #ホロ7DaystoDie【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "S0P47C9N7hg"
     }
 ]
