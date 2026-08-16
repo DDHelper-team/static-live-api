@@ -72,15 +72,6 @@
         "video_id": "VD3vn1CUj_8"
     },
     {
-        "channel": "https://www.youtube.com/@TakaneLui",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/m15ViMDzlpA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 中京記念＆札幌記念 】久々のG2もｷﾀー‼的中させるぞ～！【鷹嶺ルイ/ホロライブ】",
-        "video_id": "m15ViMDzlpA"
-    },
-    {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
         "status": "LIVE",
@@ -200,10 +191,10 @@
     {
         "channel": "https://www.youtube.com/@TokinoSora",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/F7DqVKK1G7g/maxresdefault_live.jpg",
-        "timestamp": 1786863600,
-        "title": "【SPAGHET】お中元にいただきました【ホロライブ/ときのそら】",
+        "timestamp": null,
+        "title": "【SPAGHET】あずきちからお中元にいただきました！【ホロライブ/ときのそら】",
         "video_id": "F7DqVKK1G7g"
     },
     {
@@ -241,5 +232,41 @@
         "timestamp": 1786865407,
         "title": "【鳴潮】#11 | 完全初見！遂に2章突入じゃ！【緋月ゆい/ネオポルテ】",
         "video_id": "v2IFau6lpXU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xEDrcLtx-lI/maxresdefault_live.jpg",
+        "timestamp": 1786879800,
+        "title": "塔羅占卜#148｜大家順起來！🔮✨🦊【Healing希靈/VTuber】#torat",
+        "video_id": "xEDrcLtx-lI"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xEDrcLtx-lI/maxresdefault_live.jpg",
+        "timestamp": 1786879800,
+        "title": "塔羅占卜#148｜大家順起來！🔮✨🦊【Healing希靈/VTuber】#torat",
+        "video_id": "xEDrcLtx-lI"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/T99BA9aR1lw/maxresdefault_live.jpg",
+        "timestamp": 1786885200,
+        "title": "【 DAY1 】#ホロ7大豆劇場 みんなでアプデ要素を楽しむ‼️【常闇トワ/ホロライブ】",
+        "video_id": "T99BA9aR1lw"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/H2rqfEBphSg/maxresdefault_live.jpg",
+        "timestamp": 1786867200,
+        "title": "【FF6】#13 初めてのFF！みんなを探し出すぞ！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "H2rqfEBphSg"
     }
 ]
