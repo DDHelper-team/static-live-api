@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/3AbxUNRo5q8/maxresdefault_live.jpg",
-        "timestamp": 1786852800,
+        "timestamp": null,
         "title": "【#9】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "3AbxUNRo5q8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xNlS-8BPLXc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "The Bigger I Walk The Bigger I Talk Probably 【Big Walk】",
-        "video_id": "xNlS-8BPLXc"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -27,24 +18,6 @@
         "video_id": "NeAx7gIaKtk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3ZdEw-ePZJ4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Big Walk Collab】walking my kouhai today #calliolive",
-        "video_id": "3ZdEw-ePZJ4"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kMKr0O8El88/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BIG WALK】i big steppa",
-        "video_id": "kMKr0O8El88"
-    },
-    {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -52,15 +25,6 @@
         "timestamp": 1786870800,
         "title": "【 バイオハザード5 】初見ソロで『BIOHAZARD 5』に挑戦するのら！！！RESIDENT EVIL 5 ＃２ 最終回【姫森ルーナ/ホロライブ】ネタバレあり",
         "video_id": "U9gHt2fP0bw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-9HYhyLYMrk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#holoEN BIG WALK COLLAB】walk \u0026amp; puzzle time with friends?! sign us up 🐾 【FUWAMOCO POV】",
-        "video_id": "-9HYhyLYMrk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
@@ -83,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yOeJk50qVtI/maxresdefault_live.jpg",
-        "timestamp": 1786852800,
+        "timestamp": null,
         "title": "【ライブアライブ】功夫から！伝説のRPG、今ここに！初見でやってみる【周防パトラ】",
         "video_id": "yOeJk50qVtI"
     },
@@ -115,15 +79,6 @@
         "timestamp": 1786878000,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #10 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "VD3vn1CUj_8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/uF82nBeiGbQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Big Walk COLLAB】ey im walkin here",
-        "video_id": "uF82nBeiGbQ"
     },
     {
         "channel": "https://www.youtube.com/@TakaneLui",
@@ -178,5 +133,14 @@
         "timestamp": 1786874400,
         "title": "【ほの暮しの庭】#02 不穏な村でのほのぼのスローライフ...？※ネタバレ含みます【轟はじめ/ReGLOSS】",
         "video_id": "7oI6U_G-hdc"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iPvbyvgv18g/maxresdefault_live.jpg",
+        "timestamp": 1786885200,
+        "title": "【7Days to Die】あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
+        "video_id": "iPvbyvgv18g"
     }
 ]
