@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7oI6U_G-hdc/maxresdefault_live.jpg",
-        "timestamp": 1786874400,
+        "timestamp": null,
         "title": "【ほの暮しの庭】#02 不穏な村でのほのぼのスローライフ...？※ネタバレ含みます【轟はじめ/ReGLOSS】",
         "video_id": "7oI6U_G-hdc"
     },
@@ -128,10 +128,10 @@
     {
         "channel": "https://www.youtube.com/@HoushouMarine",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-2UUTkv9qvk/maxresdefault_live.jpg",
-        "timestamp": 1786874400,
-        "title": "【】【ホロライブ/宝鐘マリン】",
+        "timestamp": null,
+        "title": "【JSP3】真夏の恐怖のホラーバイト…事故物件の監視をします【ホロライブ/宝鐘マリン】",
         "video_id": "-2UUTkv9qvk"
     },
     {
@@ -151,24 +151,6 @@
         "timestamp": 1786885200,
         "title": "【DAY1】ゾンビだらけの世界で暴れ散らすぞ！！ #ホロ7DaystoDie【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "S0P47C9N7hg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8vjOOB799W0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】あなたも因習村で過ごしませんか？【 領国つかさ / すぺしゃりて 】",
-        "video_id": "8vjOOB799W0"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/8vjOOB799W0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】あなたも因習村で過ごしませんか？【 領国つかさ / すぺしゃりて 】",
-        "video_id": "8vjOOB799W0"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -250,5 +232,50 @@
         "timestamp": null,
         "title": "【FF6】#13 初めてのFF！みんなを探し出すぞ！！！！！！※配信内容にネタバレあり【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "H2rqfEBphSg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L_Sz-P3aVjk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【三角州行動 EP30】今天打烽火，繼續找藏寶圖的限定紅！ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "L_Sz-P3aVjk"
+    },
+    {
+        "channel": "https://www.youtube.com/@toritori1122",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L_Sz-P3aVjk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【三角州行動 EP30】今天打烽火，繼續找藏寶圖的限定紅！ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "L_Sz-P3aVjk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IYsfr5u8aCo/maxresdefault_live.jpg",
+        "timestamp": 1786883400,
+        "title": "#6 Terdinkum dinkum w/ @sammybollivienn \u0026amp; @sayaayaaulya",
+        "video_id": "IYsfr5u8aCo"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_rJyvKM7NBk/maxresdefault_live.jpg",
+        "timestamp": 1786914000,
+        "title": "【FAR FAR WEST】YEEHAW!!!!!!!!!!! GIDDY UP!!!",
+        "video_id": "_rJyvKM7NBk"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/osrKnQvbFM0/maxresdefault_live.jpg",
+        "timestamp": 1786881600,
+        "title": "【チラズアート新作】今年イチやばいと噂の「雪葬」ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "osrKnQvbFM0"
     }
 ]
