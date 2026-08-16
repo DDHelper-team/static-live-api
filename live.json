@@ -54,24 +54,6 @@
         "video_id": "EjGOsLXOVDg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/L_Sz-P3aVjk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP30】今天打烽火，繼續找藏寶圖的限定紅！ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "L_Sz-P3aVjk"
-    },
-    {
-        "channel": "https://www.youtube.com/@toritori1122",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/L_Sz-P3aVjk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【三角州行動 EP30】今天打烽火，繼續找藏寶圖的限定紅！ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
-        "video_id": "L_Sz-P3aVjk"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -149,7 +131,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1786903914.9310496,
+        "timestamp": 1786906378.3450146,
         "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr for 1211 viewers."
     },
     {
@@ -214,5 +196,32 @@
         "timestamp": 1786971600,
         "title": "【 バイオハザード６ 】フレわたバイオ６の夏！はじまた！がんばいお！！！#2【角巻わため/ホロライブ４期生】※ネタバレあり",
         "video_id": "zXKP6fC8lPM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BCjHWEdFm6c/maxresdefault_live.jpg",
+        "timestamp": 1786977000,
+        "title": "【絕地潛兵2 EP06】今天再次爲了自由而戰！【鴆咲 ToriTori】",
+        "video_id": "BCjHWEdFm6c"
+    },
+    {
+        "channel": "https://www.youtube.com/@toritori1122",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BCjHWEdFm6c/maxresdefault_live.jpg",
+        "timestamp": 1786977000,
+        "title": "【絕地潛兵2 EP06】今天再次爲了自由而戰！【鴆咲 ToriTori】",
+        "video_id": "BCjHWEdFm6c"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/7uSfpiJOLb0/maxresdefault_live.jpg",
+        "timestamp": 1786971600,
+        "title": "【 7Days to Die 】 #ホロ7大豆劇場 初参戦！電気柱二俺はなる！【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "7uSfpiJOLb0"
     }
 ]
