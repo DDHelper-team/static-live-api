@@ -99,15 +99,6 @@
         "video_id": "iPvbyvgv18g"
     },
     {
-        "channel": "https://www.youtube.com/@HoushouMarine",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/-2UUTkv9qvk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【JSP3】真夏の恐怖のホラーバイト…事故物件の監視をします【ホロライブ/宝鐘マリン】",
-        "video_id": "-2UUTkv9qvk"
-    },
-    {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
         "status": "LIVE",
@@ -146,20 +137,20 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xEDrcLtx-lI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "塔羅占卜#148｜大家順起來！🔮✨🦊【Healing希靈/VTuber】#torat",
-        "video_id": "xEDrcLtx-lI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EjGOsLXOVDg/maxresdefault_live.jpg",
+        "timestamp": 1786964400,
+        "title": "雜談｜我們八萬了！這比預想的還快，過程有努力有苟住更重要是有你們的支持！我們今年終於走到目標！！✨✨✨【Healing希靈/VTuber】",
+        "video_id": "EjGOsLXOVDg"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xEDrcLtx-lI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "塔羅占卜#148｜大家順起來！🔮✨🦊【Healing希靈/VTuber】#torat",
-        "video_id": "xEDrcLtx-lI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EjGOsLXOVDg/maxresdefault_live.jpg",
+        "timestamp": 1786964400,
+        "title": "雜談｜我們八萬了！這比預想的還快，過程有努力有苟住更重要是有你們的支持！我們今年終於走到目標！！✨✨✨【Healing希靈/VTuber】",
+        "video_id": "EjGOsLXOVDg"
     },
     {
         "channel": "https://www.youtube.com/@TokoyamiTowa",
@@ -209,9 +200,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xJ6wQD5d1Gs/maxresdefault_live.jpg",
-        "timestamp": 1786887000,
+        "timestamp": null,
         "title": "Original Song Behind The Scenes Talk 【 iofi / hololiveID 】",
         "video_id": "xJ6wQD5d1Gs"
     },
@@ -295,5 +286,23 @@
         "timestamp": null,
         "title": "POKAJANNNNNN #ホロドリ",
         "video_id": "KIf5vVa5XNQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/z9hTYWxP8Wk/maxresdefault_live.jpg",
+        "timestamp": 1786964400,
+        "title": "【 #しゅぴなで 】リリリベンジ！！！！特訓後の初代マリオ！1時間並走！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "z9hTYWxP8Wk"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ZfPjjyYL6ws/maxresdefault_live.jpg",
+        "timestamp": 1786957200,
+        "title": "【SPAGHET】いろはちゃんから謎のスパゲッティが届きました【博衣こより/ホロライブ】",
+        "video_id": "ZfPjjyYL6ws"
     }
 ]
