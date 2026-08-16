@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NeAx7gIaKtk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ORDER13】ねこゲーってルイさんに聞いたんですが？【風真いろは/ホロライブ】",
-        "video_id": "NeAx7gIaKtk"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dnAcI-ITkzI/maxresdefault_live.jpg",
+        "timestamp": 1786894200,
+        "title": "風真いろはの #ねるまえらじお 📻inメン限",
+        "video_id": "dnAcI-ITkzI"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -277,5 +277,14 @@
         "timestamp": 1786881600,
         "title": "【チラズアート新作】今年イチやばいと噂の「雪葬」ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "osrKnQvbFM0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IVI6wjmXWuI/maxresdefault_live.jpg",
+        "timestamp": 1786879800,
+        "title": "ホロドリ ! FULL COMBO!【 iofi / hololiveID 】",
+        "video_id": "IVI6wjmXWuI"
     }
 ]
