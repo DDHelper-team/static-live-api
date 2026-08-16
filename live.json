@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/m15ViMDzlpA/maxresdefault_live.jpg",
-        "timestamp": 1786857300,
+        "timestamp": null,
         "title": "【 中京記念＆札幌記念 】久々のG2もｷﾀー‼的中させるぞ～！【鷹嶺ルイ/ホロライブ】",
         "video_id": "m15ViMDzlpA"
     },
@@ -178,5 +178,23 @@
         "timestamp": 1786885200,
         "title": "【DAY1】ゾンビだらけの世界で暴れ散らすぞ！！ #ホロ7DaystoDie【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "S0P47C9N7hg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8vjOOB799W0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ほの暮しの庭 】あなたも因習村で過ごしませんか？【 領国つかさ / すぺしゃりて 】",
+        "video_id": "8vjOOB799W0"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8vjOOB799W0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ほの暮しの庭 】あなたも因習村で過ごしませんか？【 領国つかさ / すぺしゃりて 】",
+        "video_id": "8vjOOB799W0"
     }
 ]
