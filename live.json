@@ -90,15 +90,6 @@
         "video_id": "aJRRBLpyO9I"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lmOt3GS0UnI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【HOLOLIVE DREAMS】I HAVE GACHA MONEY NOW #kfp #キアライブ",
-        "video_id": "lmOt3GS0UnI"
-    },
-    {
         "channel": "https://www.youtube.com/@AZKi",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -158,7 +149,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1786901448.5956814,
+        "timestamp": 1786902682.2352722,
         "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr for 1211 viewers."
     },
     {
@@ -196,5 +187,23 @@
         "timestamp": 1786971600,
         "title": "【DAY2】拳で全てをなぎ倒す！！！ｵﾗｱｱｱ！ #ホロ7大豆劇場【一条莉々華/hololive DEV_IS ReGLOSS】",
         "video_id": "eWhcYiB1wIA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u9CFMRSxtxs/maxresdefault_live.jpg",
+        "timestamp": 1786971600,
+        "title": "【FORTNITE COLLAB】ROCKU WAWA...AND PERLICA?",
+        "video_id": "u9CFMRSxtxs"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/GZ5O2oEQyR0/maxresdefault_live.jpg",
+        "timestamp": 1786962600,
+        "title": "【緊急コラボ】Calliope先輩Ina先輩と初コラボ！日本語禁止…なわけないだろ！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
+        "video_id": "GZ5O2oEQyR0"
     }
 ]
