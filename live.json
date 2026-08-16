@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lmOt3GS0UnI/maxresdefault_live.jpg",
-        "timestamp": 1786897800,
+        "timestamp": null,
         "title": "【HOLOLIVE DREAMS】I HAVE GACHA MONEY NOW #kfp #キアライブ",
         "video_id": "lmOt3GS0UnI"
     },
@@ -185,7 +185,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1786897128.4436905,
+        "timestamp": 1786898362.5135584,
         "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/心音/梵天/耳はむ】 | Streaming asmr."
     },
     {
@@ -214,5 +214,14 @@
         "timestamp": 1786971600,
         "title": "【7 Days to Die】#ホロ7大豆劇場 DAY2 🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "Okb7AiRs1Ug"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eWhcYiB1wIA/maxresdefault_live.jpg",
+        "timestamp": 1786971600,
+        "title": "【DAY2】拳で全てをなぎ倒す！！！ｵﾗｱｱｱ！ #ホロ7大豆劇場【一条莉々華/hololive DEV_IS ReGLOSS】",
+        "video_id": "eWhcYiB1wIA"
     }
 ]
