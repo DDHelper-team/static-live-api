@@ -225,15 +225,6 @@
         "video_id": "INn1QkGjiI8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ekt023tSDSM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ぽこ あ ポケモン】ブクブクうみぞこの街編　＃3【荒咬オウガ /ホロスターズ】",
-        "video_id": "Ekt023tSDSM"
-    },
-    {
         "channel": "https://www.youtube.com/@ShiranuiFlare",
         "platform": "youtube",
         "status": "LIVE",
@@ -304,5 +295,14 @@
         "timestamp": 1786957200,
         "title": "【SPAGHET】いろはちゃんから謎のスパゲッティが届きました【博衣こより/ホロライブ】",
         "video_id": "ZfPjjyYL6ws"
+    },
+    {
+        "channel": "https://www.youtube.com/@AkiRosenthal",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8ANpR5GMvg4/maxresdefault_live.jpg",
+        "timestamp": 1786890600,
+        "title": "【メンバー限定/Member】歌の練習するよ～【ホロライブ/アキロゼ】",
+        "video_id": "8ANpR5GMvg4"
     }
 ]
