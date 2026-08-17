@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZfPjjyYL6ws/maxresdefault_live.jpg",
-        "timestamp": 1786957200,
+        "timestamp": null,
         "title": "【SPAGHET】いろはちゃんから謎のスパゲッティが届きました【博衣こより/ホロライブ】",
         "video_id": "ZfPjjyYL6ws"
     },
@@ -200,9 +200,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/gyCc-VXW1uI/maxresdefault_live.jpg",
-        "timestamp": 1786957200,
+        "timestamp": null,
         "title": "【SPAGHET】??????????【 iofi / hololiveID 】",
         "video_id": "gyCc-VXW1uI"
     },
@@ -286,5 +286,14 @@
         "timestamp": 1786973451,
         "title": "【メタファー：リファンタジオ】#5 | 完全初見！デカい手柄を立てるぞ！【緋月ゆい/ネオポルテ】※ネタバレあり",
         "video_id": "JGzpsptbK0Y"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoshimachiSuisei",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xz2aErgeW1c/maxresdefault_live.jpg",
+        "timestamp": 1786964400,
+        "title": "【】【星街すいせい / #ほしまちすたじお】",
+        "video_id": "xz2aErgeW1c"
     }
 ]
