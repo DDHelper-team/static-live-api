@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xKhRXOqeFG4/maxresdefault_live.jpg",
-        "timestamp": 1786977600,
+        "timestamp": null,
         "title": "『 #今年の夏やり残していること 』 #アキちょこナイパレ 第47回 ～ホロライブ深夜ラジオ～",
         "video_id": "xKhRXOqeFG4"
     },
@@ -83,18 +83,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BCjHWEdFm6c/maxresdefault_live.jpg",
-        "timestamp": 1786977000,
+        "timestamp": null,
         "title": "【絕地潛兵2 EP06】今天再次爲了自由而戰！【鴆咲 ToriTori】",
         "video_id": "BCjHWEdFm6c"
     },
     {
         "channel": "https://www.youtube.com/@toritori1122",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BCjHWEdFm6c/maxresdefault_live.jpg",
-        "timestamp": 1786977000,
+        "timestamp": null,
         "title": "【絕地潛兵2 EP06】今天再次爲了自由而戰！【鴆咲 ToriTori】",
         "video_id": "BCjHWEdFm6c"
     },
@@ -259,5 +259,14 @@
         "timestamp": null,
         "title": "【DAY2】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
         "video_id": "-9FyhF5waUw"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2XYlTI1zrpI/maxresdefault_live.jpg",
+        "timestamp": 1787059800,
+        "title": "【バイオハザードRE:4】エイダ編#2　完全初見❕ホラー苦手が行く 【水宮枢／ホロライブDEV_IS】",
+        "video_id": "2XYlTI1zrpI"
     }
 ]
