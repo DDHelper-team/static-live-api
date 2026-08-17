@@ -198,24 +198,6 @@
         "video_id": "NbTtcr_1WAs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/o3ty2tyslzQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BIOHAZARD RE:2】#5-クレア編 | 完全初見！探索には軽装での移動が必須だ。【緋月ゆい/ネオポルテ】",
-        "video_id": "o3ty2tyslzQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/o3ty2tyslzQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【BIOHAZARD RE:2】#5-クレア編 | 完全初見！探索には軽装での移動が必須だ。【緋月ゆい/ネオポルテ】",
-        "video_id": "o3ty2tyslzQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -272,10 +254,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CzEw-z-3eYE/maxresdefault_live.jpg",
-        "timestamp": 1786945500,
+        "timestamp": null,
         "title": "【hololive Dreams】MANIFESTING",
         "video_id": "CzEw-z-3eYE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5xy1_s3emDM/maxresdefault_live.jpg",
+        "timestamp": 1786960800,
+        "title": "【アークナイツ：エンドフィールド】久々に帰ってきたらすごい進んでるしガチャに可愛い子がいた【尾丸ポルカ/ホロライブ】",
+        "video_id": "5xy1_s3emDM"
+    },
+    {
+        "channel": "https://www.youtube.com/@MoonaHoshinova",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SJ-cEYhJKSs/maxresdefault_live.jpg",
+        "timestamp": 1786950000,
+        "title": "【Hololive Dreams】More More Chapters!【hololive | moona】",
+        "video_id": "SJ-cEYhJKSs"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/waihO4ruu4U/maxresdefault_live.jpg",
+        "timestamp": 1786971600,
+        "title": "【 DAY2 】#ホロ7大豆劇場 自転車🚲️をゲットしたいッ‼️【常闇トワ/ホロライブ】",
+        "video_id": "waihO4ruu4U"
     }
 ]
