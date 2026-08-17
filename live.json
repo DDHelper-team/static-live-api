@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@Patra_Suou",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Z8vAqsoeRfY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ASMR/2時間】もの凄く眠くなる綿棒耳かき。そこそこ～！という場所に届く極楽快楽。赤ちゃん綿棒・太綿棒・吐息・囁きDeep Sleep Ear Cleaning \u0026amp; Tingles【周防パトラ】",
-        "video_id": "Z8vAqsoeRfY"
-    },
-    {
         "channel": "https://www.youtube.com/@SakuraMiko",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -43,15 +34,6 @@
         "timestamp": 1787007600,
         "title": "【HOLOLIVE DREAMS】SURELY IT WILL GO BETTER THIS TIME. RIGHT?",
         "video_id": "Z16OMEw5FK8"
-    },
-    {
-        "channel": "https://www.youtube.com/@TsunomakiWatame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zXKP6fC8lPM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 バイオハザード６ 】フレわたバイオ６の夏！はじまた！がんばいお！！！#2【角巻わため/ホロライブ４期生】※ネタバレあり",
-        "video_id": "zXKP6fC8lPM"
     },
     {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
@@ -126,15 +108,6 @@
         "video_id": "EcUQz42XVWg"
     },
     {
-        "channel": "https://www.youtube.com/@ShiranuiFlare",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zbWI7KeGM8g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "#02 【バイオハザード6】フレわたのわちゃわちゃ劇場レオン\u0026amp;ヘレナ編【不知火フレア/ホロライブ】",
-        "video_id": "zbWI7KeGM8g"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,5 +142,14 @@
         "timestamp": 1787058000,
         "title": "【7 Days to Die】#ホロ7大豆劇場 DAY3 🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "mAx1_2KUgBE"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qN0qOU0zFAk/maxresdefault_live.jpg",
+        "timestamp": 1787058000,
+        "title": "【 7Days to Die 】ついに７日目到来じゃああ🔥 #ホロ7大豆劇場 【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "qN0qOU0zFAk"
     }
 ]
