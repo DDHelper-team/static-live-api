@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/GZ5O2oEQyR0/maxresdefault_live.jpg",
-        "timestamp": 1786962600,
+        "timestamp": null,
         "title": "【緊急コラボ】Calliope先輩Ina先輩と初コラボ！日本語禁止…なわけないだろ！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
         "video_id": "GZ5O2oEQyR0"
     },
@@ -196,24 +196,6 @@
         "timestamp": 1786975200,
         "title": "【HOLO vs ROBO】Chattini u haven’t built any jetpacks, right?",
         "video_id": "NbTtcr_1WAs"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/gyCc-VXW1uI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPAGHET】??????????【 iofi / hololiveID 】",
-        "video_id": "gyCc-VXW1uI"
-    },
-    {
-        "channel": "https://www.youtube.com/@TodorokiHajime",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fhUbk3T4AM4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【パイナップルの日】圧倒的高評価の謎ゲー！Pineapple on pizza！【轟はじめ/ReGLOSS】",
-        "video_id": "fhUbk3T4AM4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
@@ -304,5 +286,14 @@
         "timestamp": 1786971600,
         "title": "#15【ドラゴンクエストVII Reimagined】DQ7完全初見！ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
         "video_id": "O68E4JD4fgE"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EcUQz42XVWg/maxresdefault_live.jpg",
+        "timestamp": 1786975200,
+        "title": "【Senin Produktif】アキ・ローゼンタール 【 iofi / hololiveID 】",
+        "video_id": "EcUQz42XVWg"
     }
 ]
