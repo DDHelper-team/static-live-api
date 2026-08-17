@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/yG1OqK1r9xQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #朝こよ 】お盆明けな火曜日の朝も～！朝こよ！☀ #294 【博衣こより/hololive】",
-        "video_id": "yG1OqK1r9xQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XtwnRKd7944/maxresdefault_live.jpg",
+        "timestamp": 1787013000,
+        "title": "【 MLBxhololive 】ドジャース（大谷翔平、山本由伸、佐々木朗希所属）vs ロッキーズ（菅野智之所属）の試合をGamedayを使って一緒に応援しよう！【博衣こより/ホロライブ】",
+        "video_id": "XtwnRKd7944"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Z16OMEw5FK8/maxresdefault_live.jpg",
-        "timestamp": 1787007600,
+        "timestamp": null,
         "title": "【HOLOLIVE DREAMS】SURELY IT WILL GO BETTER THIS TIME. RIGHT?",
         "video_id": "Z16OMEw5FK8"
     },
@@ -124,5 +124,32 @@
         "timestamp": null,
         "title": "おは言え雑談 8月猛暑 【 #奏手イヅル 】",
         "video_id": "5GbtDEieWJs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XvB8svQ8ffg/maxresdefault_live.jpg",
+        "timestamp": 1787083200,
+        "title": "Helping a Homie Out with His Bloodline 【Metaphor: ReFantazio】 SPOILERS",
+        "video_id": "XvB8svQ8ffg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z4Y1vRW4vr0/maxresdefault_live.jpg",
+        "timestamp": 1787023800,
+        "title": "【LET\u0026#39;S WORK TOGETHER】We will be productive REAL【Dokibird】",
+        "video_id": "Z4Y1vRW4vr0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z4Y1vRW4vr0/maxresdefault_live.jpg",
+        "timestamp": 1787023800,
+        "title": "【LET\u0026#39;S WORK TOGETHER】We will be productive REAL【Dokibird】",
+        "video_id": "Z4Y1vRW4vr0"
     }
 ]
