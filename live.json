@@ -11,7 +11,7 @@
     {
         "channel": "https://www.youtube.com/@SakuraMiko",
         "platform": "youtube",
-        "status": "LIVE",
+        "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nBFggpbY-OA/maxresdefault_live.jpg",
         "timestamp": null,
         "title": "【7Days to Die】#ホロ7大豆劇場  DAY2🔥あらたな７大豆のはじまりだにぇえええええええええ‼【ホロライブ/さくらみこ】",
@@ -153,15 +153,6 @@
         "video_id": "zbWI7KeGM8g"
     },
     {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/knT5aQ-Ua_4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 スーパーマリオサンシャイン 】完全初見！神ゲーで夏🏝を楽しむぞ！！！【 領国つかさ / すぺしゃりて 】",
-        "video_id": "knT5aQ-Ua_4"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,15 +160,6 @@
         "timestamp": 1787054400,
         "title": "【ほの暮しの庭】#03 掟を破ったらどうなる...？ほのぼのスローライフ※ネタバレ含みます【轟はじめ/ReGLOSS】",
         "video_id": "0Wh6SWKPnPU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/knT5aQ-Ua_4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 スーパーマリオサンシャイン 】完全初見！神ゲーで夏🏝を楽しむぞ！！！【 領国つかさ / すぺしゃりて 】",
-        "video_id": "knT5aQ-Ua_4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -196,5 +178,14 @@
         "timestamp": 1787059800,
         "title": "【バイオハザードRE:4】エイダ編#2　完全初見❕ホラー苦手が行く 【水宮枢／ホロライブDEV_IS】",
         "video_id": "2XYlTI1zrpI"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/mAx1_2KUgBE/maxresdefault_live.jpg",
+        "timestamp": 1787058000,
+        "title": "【7 Days to Die】#ホロ7大豆劇場 DAY3 🧟‍♀️ 夏はゾンビだ！７DTDだ！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "mAx1_2KUgBE"
     }
 ]
