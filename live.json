@@ -200,19 +200,64 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/o3ty2tyslzQ/maxresdefault_live.jpg",
-        "timestamp": 1786939242,
+        "timestamp": null,
         "title": "【BIOHAZARD RE:2】#5-クレア編 | 完全初見！探索には軽装での移動が必須だ。【緋月ゆい/ネオポルテ】",
         "video_id": "o3ty2tyslzQ"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/o3ty2tyslzQ/maxresdefault_live.jpg",
-        "timestamp": 1786939242,
+        "timestamp": null,
         "title": "【BIOHAZARD RE:2】#5-クレア編 | 完全初見！探索には軽装での移動が必須だ。【緋月ゆい/ネオポルテ】",
         "video_id": "o3ty2tyslzQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gyCc-VXW1uI/maxresdefault_live.jpg",
+        "timestamp": 1786957200,
+        "title": "【SPAGHET】??????????【 iofi / hololiveID 】",
+        "video_id": "gyCc-VXW1uI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LhG8uA9DeIE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ほの暮しの庭 】因習村での楽しいスローライフ！家賃(実質)０円！🎶【 領国つかさ / すぺしゃりて 】",
+        "video_id": "LhG8uA9DeIE"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/LhG8uA9DeIE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ほの暮しの庭 】因習村での楽しいスローライフ！家賃(実質)０円！🎶【 領国つかさ / すぺしゃりて 】",
+        "video_id": "LhG8uA9DeIE"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fhUbk3T4AM4/maxresdefault_live.jpg",
+        "timestamp": 1786959000,
+        "title": "【パイナップルの日】Pineapple on pizza！圧倒的高評価の謎ゲー【轟はじめ/ReGLOSS】",
+        "video_id": "fhUbk3T4AM4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ruIeUswQjRY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【雑談】午前中に全てのことを終わらせた男【夕刻ロベル/ホロスターズ】",
+        "video_id": "ruIeUswQjRY"
     }
 ]
