@@ -45,15 +45,6 @@
         "video_id": "EjGOsLXOVDg"
     },
     {
-        "channel": "https://www.youtube.com/@AZKi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lssZJbZ7bFw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【オフコラボ】#あずいろ食堂 愛情たっぷり♡あずいろ弁当作る！【ホロライブ / AZKi / 風真いろは】",
-        "video_id": "lssZJbZ7bFw"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
         "status": "LIVE",
@@ -65,11 +56,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZfPjjyYL6ws/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SPAGHET】いろはちゃんから謎のスパゲッティが届きました【博衣こより/ホロライブ】",
-        "video_id": "ZfPjjyYL6ws"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yG1OqK1r9xQ/maxresdefault_live.jpg",
+        "timestamp": 1787004000,
+        "title": "【 #朝こよ 】お盆明けな火曜日の朝も～！朝こよ！☀ #294 【博衣こより/hololive】",
+        "video_id": "yG1OqK1r9xQ"
     },
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
@@ -124,15 +115,6 @@
         "timestamp": 1786971600,
         "title": "【FORTNITE COLLAB】ROCKU WAWA...AND PERLICA?",
         "video_id": "u9CFMRSxtxs"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/GZ5O2oEQyR0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【緊急コラボ】Calliope先輩Ina先輩と初コラボ！日本語禁止…なわけないだろ！！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "GZ5O2oEQyR0"
     },
     {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
@@ -205,15 +187,6 @@
         "timestamp": null,
         "title": "【アークナイツ：エンドフィールド】久々に帰ってきたらすごい進んでるしガチャに可愛い子がいた【尾丸ポルカ/ホロライブ】",
         "video_id": "5xy1_s3emDM"
-    },
-    {
-        "channel": "https://www.youtube.com/@MoonaHoshinova",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SJ-cEYhJKSs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Hololive Dreams】More More Chapters!【hololive | moona】",
-        "video_id": "SJ-cEYhJKSs"
     },
     {
         "channel": "https://www.youtube.com/@TokoyamiTowa",
@@ -295,5 +268,23 @@
         "timestamp": 1786975200,
         "title": "【Senin Produktif】アキ・ローゼンタール 【 iofi / hololiveID 】",
         "video_id": "EcUQz42XVWg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jwNSmOteWRM/maxresdefault_live.jpg",
+        "timestamp": 1786967100,
+        "title": "【hololive Dreams】I hope I get a new cut board!",
+        "video_id": "jwNSmOteWRM"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zbWI7KeGM8g/maxresdefault_live.jpg",
+        "timestamp": 1786971600,
+        "title": "#02 【バイオハザード6】フレわたのわちゃわちゃ劇場レオン\u0026amp;ヘレナ編【不知火フレア/ホロライブ】",
+        "video_id": "zbWI7KeGM8g"
     }
 ]
