@@ -209,20 +209,11 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/fhUbk3T4AM4/maxresdefault_live.jpg",
-        "timestamp": 1786959000,
-        "title": "【パイナップルの日】Pineapple on pizza！圧倒的高評価の謎ゲー【轟はじめ/ReGLOSS】",
-        "video_id": "fhUbk3T4AM4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
         "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CzEw-z-3eYE/maxresdefault_live.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/fhUbk3T4AM4/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": "【hololive Dreams】MANIFESTING",
-        "video_id": "CzEw-z-3eYE"
+        "title": "【パイナップルの日】圧倒的高評価の謎ゲー！Pineapple on pizza！【轟はじめ/ReGLOSS】",
+        "video_id": "fhUbk3T4AM4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
@@ -295,5 +286,14 @@
         "timestamp": 1786964400,
         "title": "【】【星街すいせい / #ほしまちすたじお】",
         "video_id": "xz2aErgeW1c"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ybx9uImTJpY/maxresdefault_live.jpg",
+        "timestamp": 1787000400,
+        "title": "【hololive Dreams】mori calliope",
+        "video_id": "Ybx9uImTJpY"
     }
 ]
