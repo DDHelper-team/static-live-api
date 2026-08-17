@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Ybx9uImTJpY/maxresdefault_live.jpg",
-        "timestamp": 1787000400,
+        "timestamp": null,
         "title": "【hololive Dreams】mori calliope",
         "video_id": "Ybx9uImTJpY"
     },
@@ -115,5 +115,23 @@
         "timestamp": 1787054400,
         "title": "【 🔵青鬼2 】クリア耐久⁉️ 青鬼2初見で遊びます🍇【 猫又おかゆ/ホロライブ 】",
         "video_id": "QNIcJMO2m4c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_rE5YQ98M48/maxresdefault_live.jpg",
+        "timestamp": 1787058000,
+        "title": "【#めっちゃカメレオン 】カメレ王になってやる！！！！【#Joinus0913  】",
+        "video_id": "_rE5YQ98M48"
+    },
+    {
+        "channel": "https://www.youtube.com/@TanZ1001",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_rE5YQ98M48/maxresdefault_live.jpg",
+        "timestamp": 1787058000,
+        "title": "【#めっちゃカメレオン 】カメレ王になってやる！！！！【#Joinus0913  】",
+        "video_id": "_rE5YQ98M48"
     }
 ]
