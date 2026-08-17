@@ -108,24 +108,6 @@
         "video_id": "m76z2oPciDo"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rwdfC2wtQ8U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！もしかしてお盆終わった❔️【緋月ゆい/ネオポルテ】",
-        "video_id": "rwdfC2wtQ8U"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rwdfC2wtQ8U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】おはよ！もしかしてお盆終わった❔️【緋月ゆい/ネオポルテ】",
-        "video_id": "rwdfC2wtQ8U"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -214,5 +196,14 @@
         "timestamp": 1786996800,
         "title": "Do NOT Be Tempted By Hot Evil Anime Men 【Metaphor: ReFantazio】 SPOILERS",
         "video_id": "uGzQrJw0fJc"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NbTtcr_1WAs/maxresdefault_live.jpg",
+        "timestamp": 1786975200,
+        "title": "【HOLO vs ROBO】Chattini u haven’t built any jetpacks, right?",
+        "video_id": "NbTtcr_1WAs"
     }
 ]
