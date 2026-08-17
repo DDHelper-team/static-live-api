@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@AZKi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lssZJbZ7bFw/maxresdefault_live.jpg",
-        "timestamp": 1786960800,
+        "timestamp": null,
         "title": "【オフコラボ】#あずいろ食堂 愛情たっぷり♡あずいろ弁当作る！【ホロライブ / AZKi / 風真いろは】",
         "video_id": "lssZJbZ7bFw"
     },
@@ -218,9 +218,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCK9V2B22uJYu3N7eR_BT9QA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/5xy1_s3emDM/maxresdefault_live.jpg",
-        "timestamp": 1786960800,
+        "timestamp": null,
         "title": "【アークナイツ：エンドフィールド】久々に帰ってきたらすごい進んでるしガチャに可愛い子がいた【尾丸ポルカ/ホロライブ】",
         "video_id": "5xy1_s3emDM"
     },
@@ -254,10 +254,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/H8YMwSzVTTw/maxresdefault_live.jpg",
-        "timestamp": 1786960800,
-        "title": "【ホロドリ】水着ガチャきｔらああああああああああああああああああぺこ！【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "【ホロドリ】水着ガチャきｔら！コンプ目指して挑む！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "H8YMwSzVTTw"
     },
     {
@@ -295,5 +295,14 @@
         "timestamp": 1787000400,
         "title": "【hololive Dreams】mori calliope",
         "video_id": "Ybx9uImTJpY"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/O68E4JD4fgE/maxresdefault_live.jpg",
+        "timestamp": 1786971600,
+        "title": "#15【ドラゴンクエストVII Reimagined】DQ7完全初見！ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
+        "video_id": "O68E4JD4fgE"
     }
 ]
