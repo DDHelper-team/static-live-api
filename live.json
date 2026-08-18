@@ -162,22 +162,13 @@
         "video_id": "XiHZ6Fi0KjM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iVngZpV5_v0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "次にやるゲーム決める配信【ホロライブ/兎田ぺこら】",
-        "video_id": "iVngZpV5_v0"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/nMXf3tZpSUI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】ロケからただいま！重大発表がありました！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "nMXf3tZpSUI"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/rEU515ZQS4U/maxresdefault_live.jpg",
+        "timestamp": 1787133600,
+        "title": "【#クランド】コラボ日本酒「宵噺」発売決定！【儒烏風亭らでん #ReGLOSS 】",
+        "video_id": "rEU515ZQS4U"
     },
     {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
@@ -214,5 +205,14 @@
         "timestamp": null,
         "title": "#03【ほの暮しの庭】キスケの好感度イベントを！見せろ下さい！！【不知火フレア/ホロライブ】※ネタバレあり",
         "video_id": "VPOLjPJiRrY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC7XCjKxBEct0uAukpQXNFPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YyVhZy0v9n4/maxresdefault_live.jpg",
+        "timestamp": 1787065200,
+        "title": "【NieR:Automata】真相に迫りかけている ＃５【HACHI】",
+        "video_id": "YyVhZy0v9n4"
     }
 ]
