@@ -2,20 +2,20 @@
     {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/0Wh6SWKPnPU/maxresdefault_live.jpg",
-        "timestamp": 1787054400,
+        "timestamp": null,
         "title": "【ほの暮しの庭】#03 掟を破ったらどうなる...？ほのぼのスローライフ※ネタバレ含みます【轟はじめ/ReGLOSS】",
         "video_id": "0Wh6SWKPnPU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Q-PiKYUiFJo/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロライブ夏祭り】スタジオ凸待ち？！？ホロライブ夏祭り！！！やるしゅばああああああああああああああああああああああああああ！！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "Q-PiKYUiFJo"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/k8lfcYUSpPc/maxresdefault_live.jpg",
+        "timestamp": 1787058000,
+        "title": "【DAY3】ゾンビの世界を生き抜くしゅばああああああああああああああああああああああああああああああ！！！！！！：7Days to Die【ホロライブ/大空スバル】",
+        "video_id": "k8lfcYUSpPc"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/QNIcJMO2m4c/maxresdefault_live.jpg",
-        "timestamp": 1787054400,
+        "timestamp": null,
         "title": "【 🔵青鬼2 】クリア耐久⁉️ 青鬼2初見で遊びます🍇【 猫又おかゆ/ホロライブ 】",
         "video_id": "QNIcJMO2m4c"
     },
@@ -173,10 +173,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iVngZpV5_v0/maxresdefault_live.jpg",
-        "timestamp": 1787054400,
-        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "次にやるゲーム決める配信【ホロライブ/兎田ぺこら】",
         "video_id": "iVngZpV5_v0"
     },
     {
@@ -189,15 +189,6 @@
         "video_id": "nMXf3tZpSUI"
     },
     {
-        "channel": "https://www.youtube.com/@ShiranuiFlare",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vc2XsTG_i5c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロライブ ドリームス】イナのためだから…緩めるね、財布のひも【不知火フレア/ホロライブ】",
-        "video_id": "vc2XsTG_i5c"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +196,14 @@
         "timestamp": 1787076000,
         "title": "【REVEAL】I GOT VENEERS (jk, holoemotion reveal!) #kfp #キアライブ",
         "video_id": "3Oxi1ZixKzA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/CG1QjTqmUZU/maxresdefault_live.jpg",
+        "timestamp": 1787112000,
+        "title": "【崩壊：スターレイル】Fateコラボ　開拓クエスト・幕間『幻造：聖杯戦争』をやる男【夕刻ロベル/ホロスターズ】",
+        "video_id": "CG1QjTqmUZU"
     }
 ]
