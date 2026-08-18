@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2XYlTI1zrpI/maxresdefault_live.jpg",
-        "timestamp": 1787059800,
+        "timestamp": null,
         "title": "【バイオハザードRE:4】エイダ編#2　完全初見❕ホラー苦手が行く 【水宮枢／ホロライブDEV_IS】",
         "video_id": "2XYlTI1zrpI"
     },
@@ -205,5 +205,14 @@
         "timestamp": null,
         "title": "【7Days to Die】エイムで７日目を乗り越える～！#ホロ7大豆劇場 【ホロライブ/夏色まつり】",
         "video_id": "yncG6v5Bu0E"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VPOLjPJiRrY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "#03【ほの暮しの庭】キスケの好感度イベントを！見せろ下さい！！【不知火フレア/ホロライブ】※ネタバレあり",
+        "video_id": "VPOLjPJiRrY"
     }
 ]
