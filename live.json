@@ -209,19 +209,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OrxrCCgCdk4/maxresdefault_live.jpg",
-        "timestamp": 1787040000,
+        "timestamp": null,
         "title": "【Windrose】AHOOOYYYYYYY【 iofi / hololiveID 】",
         "video_id": "OrxrCCgCdk4"
     },
     {
         "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xb9k6XwMnKk/maxresdefault_live.jpg",
-        "timestamp": 1787040000,
+        "timestamp": null,
         "title": "WINDROSE again with Area15",
         "video_id": "xb9k6XwMnKk"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XiHZ6Fi0KjM/maxresdefault_live.jpg",
+        "timestamp": 1787086800,
+        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】10 hours in and we\u0026#39;re starting chapter 1",
+        "video_id": "XiHZ6Fi0KjM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/iVngZpV5_v0/maxresdefault_live.jpg",
+        "timestamp": 1787054400,
+        "title": "【配信予定】ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "iVngZpV5_v0"
     }
 ]
