@@ -45,24 +45,6 @@
         "video_id": "qN0qOU0zFAk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCYADafT8oPKTdD7E9SrsuwA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_rE5YQ98M48/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#めっちゃカメレオン 】カメレ王になってやる！！！！【#Joinus0913  】",
-        "video_id": "_rE5YQ98M48"
-    },
-    {
-        "channel": "https://www.youtube.com/@TanZ1001",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/_rE5YQ98M48/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#めっちゃカメレオン 】カメレ王になってやる！！！！【#Joinus0913  】",
-        "video_id": "_rE5YQ98M48"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -185,7 +167,16 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1787066723.914104,
+        "timestamp": 1787068582.9489074,
         "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YK5lg8gCn6c/maxresdefault_live.jpg",
+        "timestamp": 1787137200,
+        "title": "【 雪葬 | Snowed Under 】雪かきホラーゲーム⁉️雪を掘りまくる🔥⛄【 猫又おかゆ/ホロライブ 】",
+        "video_id": "YK5lg8gCn6c"
     }
 ]
