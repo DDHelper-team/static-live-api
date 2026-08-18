@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XvB8svQ8ffg/maxresdefault_live.jpg",
-        "timestamp": 1787083200,
+        "timestamp": null,
         "title": "Helping a Homie Out with His Bloodline 【Metaphor: ReFantazio】 SPOILERS",
         "video_id": "XvB8svQ8ffg"
     },
@@ -34,15 +34,6 @@
         "timestamp": 1787133600,
         "title": "【#クランド】コラボ日本酒「宵噺」発売決定！【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "rEU515ZQS4U"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3Oxi1ZixKzA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【REVEAL】I GOT VENEERS (jk, holoemotion reveal!) #kfp #キアライブ",
-        "video_id": "3Oxi1ZixKzA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
@@ -79,5 +70,14 @@
         "timestamp": 1787146200,
         "title": "【枠】なにやるか未定【水宮枢／ホロライブDEV_IS】",
         "video_id": "TVxUH0RHhOA"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_erbloodflame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/t8chcZWHYHs/maxresdefault_live.jpg",
+        "timestamp": 1787169600,
+        "title": "【UNARCHIVED KARAOKE】Singing, melting \u0026amp; good vibes ~! 💄",
+        "video_id": "t8chcZWHYHs"
     }
 ]
