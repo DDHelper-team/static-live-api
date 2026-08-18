@@ -1,23 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SVeV_5_ebp8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ネオポルテサマフェス歌枠リレー】夏といえば、歌枠リレー🎐【緋月ゆい/ネオポルテ】",
-        "video_id": "SVeV_5_ebp8"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SVeV_5_ebp8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ネオポルテサマフェス歌枠リレー】夏といえば、歌枠リレー🎐【緋月ゆい/ネオポルテ】",
-        "video_id": "SVeV_5_ebp8"
-    },
-    {
         "channel": "https://www.youtube.com/@TodorokiHajime",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -119,18 +101,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/csTp5Y8MlUo/maxresdefault_live.jpg",
-        "timestamp": 1787052600,
+        "timestamp": null,
         "title": "生死深潛：雨之子民｜墓園有怪怪的東西搞得我一直發毛啦【Healing希靈/VTuber】DIVE or DIE - Children of Rain",
         "video_id": "csTp5Y8MlUo"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/csTp5Y8MlUo/maxresdefault_live.jpg",
-        "timestamp": 1787052600,
+        "timestamp": null,
         "title": "生死深潛：雨之子民｜墓園有怪怪的東西搞得我一直發毛啦【Healing希靈/VTuber】DIVE or DIE - Children of Rain",
         "video_id": "csTp5Y8MlUo"
     },
@@ -180,24 +162,6 @@
         "video_id": "9D_v8sD1D8I"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OrxrCCgCdk4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Windrose】AHOOOYYYYYYY【 iofi / hololiveID 】",
-        "video_id": "OrxrCCgCdk4"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/xb9k6XwMnKk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "WINDROSE again with Area15",
-        "video_id": "xb9k6XwMnKk"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -216,15 +180,6 @@
         "video_id": "iVngZpV5_v0"
     },
     {
-        "channel": "https://www.youtube.com/@MoonaHoshinova",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HEDOtn3oqZE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Windrose】THE NEXT ADVENTURE BEGINS!【hololive | moona】",
-        "video_id": "HEDOtn3oqZE"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -241,5 +196,14 @@
         "timestamp": null,
         "title": "【ホロライブ ドリームス】イナのためだから…緩めるね、財布のひも【不知火フレア/ホロライブ】",
         "video_id": "vc2XsTG_i5c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3Oxi1ZixKzA/maxresdefault_live.jpg",
+        "timestamp": 1787076000,
+        "title": "【REVEAL】I GOT VENEERS (jk, holoemotion reveal!) #kfp #キアライブ",
+        "video_id": "3Oxi1ZixKzA"
     }
 ]
