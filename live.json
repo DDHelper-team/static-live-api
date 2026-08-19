@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YK5lg8gCn6c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 雪葬 | Snowed Under 】雪かきホラーゲーム⁉️雪を掘りまくる🔥⛄【 猫又おかゆ/ホロライブ 】",
-        "video_id": "YK5lg8gCn6c"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
         "status": "LIVE",
@@ -214,5 +205,50 @@
         "timestamp": null,
         "title": "【LOL】深夜ロルカス w/ ありけん 岡野やうじ ごっちゃん あかりん ゆふな 天帝フォルテ U者 よいち 天月 【 奏手イヅル 】",
         "video_id": "fqPQRyEVNO4"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/TwCgQXxNehw/maxresdefault_live.jpg",
+        "timestamp": 1787220000,
+        "title": "【 ホロドリ 】んな水着が実装されたならばガチャするしかねえのら！！！hololive Dreams【姫森ルーナ/ホロライブ】",
+        "video_id": "TwCgQXxNehw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ln0CJTxpZxs/maxresdefault_live.jpg",
+        "timestamp": 1787187600,
+        "title": "【Waterpark Simulator】Makin a splash【Advent Collab】",
+        "video_id": "Ln0CJTxpZxs"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/VeI3s6C2Hss/maxresdefault_live.jpg",
+        "timestamp": 1787187600,
+        "title": "【らでん自習室】8月20日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+        "video_id": "VeI3s6C2Hss"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xCBc8Ff7j2U/maxresdefault_live.jpg",
+        "timestamp": 1787238000,
+        "title": "台灣ASMR｜今晚由溫柔姐姐陪你放心睡著♡ 全套耳朵清潔・掏耳・按摩・耳邊吐息【KU100｜中無廣告】",
+        "video_id": "xCBc8Ff7j2U"
+    },
+    {
+        "channel": "https://www.youtube.com/@HealingCh",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/xCBc8Ff7j2U/maxresdefault_live.jpg",
+        "timestamp": 1787238000,
+        "title": "台灣ASMR｜今晚由溫柔姐姐陪你放心睡著♡ 全套耳朵清潔・掏耳・按摩・耳邊吐息【KU100｜中無廣告】",
+        "video_id": "xCBc8Ff7j2U"
     }
 ]
