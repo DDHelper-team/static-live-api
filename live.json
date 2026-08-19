@@ -9,15 +9,6 @@
         "video_id": "9qjb2Z9Yzz8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XvB8svQ8ffg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Helping a Homie Out with His Bloodline 【Metaphor: ReFantazio】 SPOILERS",
-        "video_id": "XvB8svQ8ffg"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
         "status": "LIVE",
@@ -83,19 +74,28 @@
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TFecL_hBL64/maxresdefault_live.jpg",
-        "timestamp": 1787097600,
+        "timestamp": null,
         "title": "【AI2U: WITH YOU \u0026#39;TIL THE END】I can fix her !!【Dokibird】",
         "video_id": "TFecL_hBL64"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TFecL_hBL64/maxresdefault_live.jpg",
-        "timestamp": 1787097600,
+        "timestamp": null,
         "title": "【AI2U: WITH YOU \u0026#39;TIL THE END】I can fix her !!【Dokibird】",
         "video_id": "TFecL_hBL64"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/857DmHSjduM/maxresdefault_live.jpg",
+        "timestamp": 1787187600,
+        "title": "Running an Unlicensed Waterpark For Funnies 【Waterpark Simulator】",
+        "video_id": "857DmHSjduM"
     }
 ]
