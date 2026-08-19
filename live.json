@@ -72,24 +72,6 @@
         "video_id": "t8chcZWHYHs"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TFecL_hBL64/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【AI2U: WITH YOU \u0026#39;TIL THE END】I can fix her !!【Dokibird】",
-        "video_id": "TFecL_hBL64"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TFecL_hBL64/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【AI2U: WITH YOU \u0026#39;TIL THE END】I can fix her !!【Dokibird】",
-        "video_id": "TFecL_hBL64"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +79,14 @@
         "timestamp": 1787187600,
         "title": "Running an Unlicensed Waterpark For Funnies 【Waterpark Simulator】",
         "video_id": "857DmHSjduM"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/J1V_YdGzNT0/maxresdefault_live.jpg",
+        "timestamp": 1787133600,
+        "title": "【SANABI】圧倒的好評の泣ける神アクションゲーやってみる！！！【博衣こより/ホロライブ】",
+        "video_id": "J1V_YdGzNT0"
     }
 ]
