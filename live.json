@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/J1V_YdGzNT0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【SANABI】圧倒的好評の泣ける神アクションゲーやってみる！！！【博衣こより/ホロライブ】",
-        "video_id": "J1V_YdGzNT0"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/W_47x5TL35g/maxresdefault_live.jpg",
+        "timestamp": 1787220000,
+        "title": "【SANABI】圧倒的好評の泣ける神アクションゲーム、クリア目指すぞ！【博衣こより/ホロライブ】",
+        "video_id": "W_47x5TL35g"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
@@ -178,5 +178,14 @@
         "timestamp": 1787216400,
         "title": "【ほの暮しの庭】#04 掟を破ったらどうなる...？ほのぼのスローライフ※ネタバレ含みます【轟はじめ/ReGLOSS】",
         "video_id": "Z6GdKNTnYjw"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ExXEVvj0biY/maxresdefault_live.jpg",
+        "timestamp": 1787218200,
+        "title": "【くろこチーム】はじまりの王者決定戦、勝つぞ！！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "ExXEVvj0biY"
     }
 ]
