@@ -1,30 +1,12 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9qjb2Z9Yzz8/maxresdefault_live.jpg",
-        "timestamp": 1787140800,
-        "title": "【】【ホロライブ/大空スバル】",
-        "video_id": "9qjb2Z9Yzz8"
-    },
-    {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/rEU515ZQS4U/maxresdefault_live.jpg",
-        "timestamp": 1787133600,
+        "timestamp": null,
         "title": "【#クランド】コラボ日本酒「宵噺」発売決定！【儒烏風亭らでん #ReGLOSS 】",
         "video_id": "rEU515ZQS4U"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/CG1QjTqmUZU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【崩壊：スターレイル】Fateコラボ　開拓クエスト・幕間『幻造：聖杯戦争』をやる男【夕刻ロベル/ホロスターズ】",
-        "video_id": "CG1QjTqmUZU"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
@@ -74,18 +56,18 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/J1V_YdGzNT0/maxresdefault_live.jpg",
-        "timestamp": 1787133600,
+        "timestamp": null,
         "title": "【SANABI】圧倒的好評の泣ける神アクションゲーやってみる！！！【博衣こより/ホロライブ】",
         "video_id": "J1V_YdGzNT0"
     },
     {
         "channel": "https://www.youtube.com/@Robocosan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6-C0cFuZ7u0/maxresdefault_live.jpg",
-        "timestamp": 1787133600,
+        "timestamp": null,
         "title": "【 打ち上げ】 #秋麗宝燈  で役満耐久✨本当にでるのおおおお！？　 w.咲乃もこ/空星きらめ/アキロゼ【ホロライブ/ ロボ子さん 】",
         "video_id": "6-C0cFuZ7u0"
     },
@@ -97,15 +79,6 @@
         "timestamp": 1787137200,
         "title": "【パワプロ】兎☆ダイナマイト高校 VS わんわん高校 交流戦！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "Gj7EDWunF2A"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/S-O7Jbybb58/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 告知あり 】突発凸待ち！ひとり来るまで告知できません！？【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW】",
-        "video_id": "S-O7Jbybb58"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -137,19 +110,37 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dvJlDHI3Uu0/maxresdefault_live.jpg",
-        "timestamp": 1787133600,
+        "timestamp": null,
         "title": "【くろこチーム】はじまりの王者決定戦、顔合わせ！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "dvJlDHI3Uu0"
     },
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/IQ6P4YIlV4Y/maxresdefault_live.jpg",
-        "timestamp": 1787133600,
+        "timestamp": null,
         "title": "【 雀魂 】役満上がり耐久やってみる！！w.咲乃もこ/空星きらめ/ロボ子さん【ホロライブ/アキロゼ 】",
         "video_id": "IQ6P4YIlV4Y"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UrKxF_3fVPQ/maxresdefault_live.jpg",
+        "timestamp": 1787220000,
+        "title": "【 第十回 / #ホロステ 】ホロドリに入れてほしい‼️ホロソングステーション【常闇トワ/ホロライブ】",
+        "video_id": "UrKxF_3fVPQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-4FHc5dLpfI/maxresdefault_live.jpg",
+        "timestamp": 1787144400,
+        "title": "【ホロライブ ドリームス】あずきち、ポカジャンがしたい。【ホロライブ / AZKi】",
+        "video_id": "-4FHc5dLpfI"
     }
 ]
