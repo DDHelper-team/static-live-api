@@ -1,19 +1,10 @@
 [
     {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rEU515ZQS4U/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#クランド】コラボ日本酒「宵噺」発売決定！【儒烏風亭らでん #ReGLOSS 】",
-        "video_id": "rEU515ZQS4U"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YK5lg8gCn6c/maxresdefault_live.jpg",
-        "timestamp": 1787137200,
+        "timestamp": null,
         "title": "【 雪葬 | Snowed Under 】雪かきホラーゲーム⁉️雪を掘りまくる🔥⛄【 猫又おかゆ/ホロライブ 】",
         "video_id": "YK5lg8gCn6c"
     },
@@ -74,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Gj7EDWunF2A/maxresdefault_live.jpg",
-        "timestamp": 1787137200,
+        "timestamp": null,
         "title": "【パワプロ】兎☆ダイナマイト高校 VS わんわん高校 交流戦！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "Gj7EDWunF2A"
     },
@@ -151,5 +142,23 @@
         "timestamp": 1787144400,
         "title": "【Finding Polka】愛犬「ポルカ」を探す小さな冒険！寝る前のお供にどうぞ🌟【白銀ノエル/ホロライブ】",
         "video_id": "2xGf11KFcPo"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kCrLRz-K-Nk/maxresdefault_live.jpg",
+        "timestamp": 1787223600,
+        "title": "【鬼武者２】初見で挑むリマスター版鬼武者２！愛と哀しみのバッサリ感【周防パトラ】",
+        "video_id": "kCrLRz-K-Nk"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/In0VKq392O0/maxresdefault_live.jpg",
+        "timestamp": 1787223600,
+        "title": "【 Fast Food Simulator 】しゅぴなででやっていくお店～！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "In0VKq392O0"
     }
 ]
