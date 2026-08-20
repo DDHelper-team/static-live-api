@@ -164,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/@KoganeiNiko",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KQEo7eBXzd4/maxresdefault_live.jpg",
-        "timestamp": 1787216400,
+        "timestamp": null,
         "title": "【手元カメラ】猫壱さんから頂いたキャットタワー組み立てる虎【虎金妃笑虎／猫壱】#PR",
         "video_id": "KQEo7eBXzd4"
     },
@@ -214,5 +214,23 @@
         "timestamp": 1787223600,
         "title": "【Cult of PiN】ピンボールをローグライクで攻略する！戦略と反射神経で勝負だ～！【獅白ぼたん/ホロライブ】",
         "video_id": "_BuCAx97WWA"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0hE6CyxqnC8/maxresdefault_live.jpg",
+        "timestamp": 1787227200,
+        "title": "【歌枠】歌って、告知！！！！！ Singing Stream【ホロライブ / AZKi】",
+        "video_id": "0hE6CyxqnC8"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/APih3gtrDfI/maxresdefault_live.jpg",
+        "timestamp": 1787230800,
+        "title": "【 メンバー限定 】みこちの気まぐれ放送局 #１３【ホロライブ/さくらみこ】",
+        "video_id": "APih3gtrDfI"
     }
 ]
