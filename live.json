@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/@IchijouRirika",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ExXEVvj0biY/maxresdefault_live.jpg",
-        "timestamp": 1787218200,
+        "timestamp": null,
         "title": "【くろこチーム】はじまりの王者決定戦、勝つぞ！！！！！【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "ExXEVvj0biY"
     },
@@ -171,24 +171,6 @@
         "video_id": "KQEo7eBXzd4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eNdrAV6N2lM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】こちら、大地主の中学生です。【 領国つかさ / すぺしゃりて 】",
-        "video_id": "eNdrAV6N2lM"
-    },
-    {
-        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eNdrAV6N2lM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ほの暮しの庭 】こちら、大地主の中学生です。【 領国つかさ / すぺしゃりて 】",
-        "video_id": "eNdrAV6N2lM"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -232,5 +214,14 @@
         "timestamp": 1787230800,
         "title": "【 メンバー限定 】みこちの気まぐれ放送局 #１３【ホロライブ/さくらみこ】",
         "video_id": "APih3gtrDfI"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sA36jXnDXYo/maxresdefault_live.jpg",
+        "timestamp": 1787230800,
+        "title": "#16【ドラゴンクエストVII Reimagined】DQ7完全初見！ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
+        "video_id": "sA36jXnDXYo"
     }
 ]
