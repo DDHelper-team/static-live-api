@@ -20,18 +20,18 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/W_47x5TL35g/maxresdefault_live.jpg",
-        "timestamp": 1787220000,
+        "timestamp": null,
         "title": "【SANABI】圧倒的好評の泣ける神アクションゲーム、クリア目指すぞ！【博衣こより/ホロライブ】",
         "video_id": "W_47x5TL35g"
     },
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qnf8PYhVG80/maxresdefault_live.jpg",
-        "timestamp": 1787220000,
+        "timestamp": null,
         "title": "【オフコラボ】自宅で誕生日会を開いたら、どうなる？【 #大神ミオ生誕2026 】",
         "video_id": "qnf8PYhVG80"
     },
@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/UylpglvnssU/maxresdefault_live.jpg",
-        "timestamp": 1787220000,
+        "timestamp": null,
         "title": "【#ロベルないとめあ】『日本事故物件監視協会3』で監視をする我々【夕刻ロベル/神楽めあ】",
         "video_id": "UylpglvnssU"
     },
@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TwCgQXxNehw/maxresdefault_live.jpg",
-        "timestamp": 1787220000,
+        "timestamp": null,
         "title": "【 ホロドリ 】んな水着が実装されたならばガチャするしかねえのら！！！hololive Dreams【姫森ルーナ/ホロライブ】",
         "video_id": "TwCgQXxNehw"
     },
@@ -162,15 +162,6 @@
         "video_id": "eJNfAUVfsJQ"
     },
     {
-        "channel": "https://www.youtube.com/@KoganeiNiko",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KQEo7eBXzd4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【手元カメラ】猫壱さんから頂いたキャットタワー組み立てる虎【虎金妃笑虎／猫壱】#PR",
-        "video_id": "KQEo7eBXzd4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +214,41 @@
         "timestamp": 1787230800,
         "title": "#16【ドラゴンクエストVII Reimagined】DQ7完全初見！ずっとプレイしてみたかった7の世界へ🔥【白銀ノエル/ホロライブ】※ネタバレあり",
         "video_id": "sA36jXnDXYo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_I7rCnEDJfo/maxresdefault_live.jpg",
+        "timestamp": 1787306400,
+        "title": "【緊急会見】◯◯◯解禁!!今こそReGLOSSに物申す!? 【#ReGLOSS夏の重大告知】",
+        "video_id": "_I7rCnEDJfo"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UrKxF_3fVPQ/maxresdefault_live.jpg",
+        "timestamp": 1787306400,
+        "title": "【 第十回 / #ホロステ 】ホロドリに入れてほしい‼️ホロソングステーション【常闇トワ/ホロライブ】",
+        "video_id": "UrKxF_3fVPQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Bygmt6vk6Jw/maxresdefault_live.jpg",
+        "timestamp": 1787234400,
+        "title": "【Coffee Talk Tokyo】#4 お困りごとなら抹茶はいかが？【儒烏風亭らでん】",
+        "video_id": "Bygmt6vk6Jw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QC_QJ3f6P4c/maxresdefault_live.jpg",
+        "timestamp": 1787227200,
+        "title": "【hololive Dreams】 I\u0026#39;M IN THE BANNER!! (i\u0026#39;m not that flat) 【Kureiji Ollie】",
+        "video_id": "QC_QJ3f6P4c"
     }
 ]
