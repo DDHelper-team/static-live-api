@@ -63,15 +63,6 @@
         "video_id": "xCBc8Ff7j2U"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ozHVzxFvmfM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【雑談】なんかラジオみたいなトーク　第23回【荒咬オウガ  アール/Aru】",
-        "video_id": "ozHVzxFvmfM"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -79,15 +70,6 @@
         "timestamp": 1787259600,
         "title": "【StarSavior】LET\u0026#39;S GO ON A JOURNEY WITH A NEW SAVIOR!! #ad",
         "video_id": "8YdSUYVOQ18"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0Se8toM73sM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ド★初見】青鬼２から逃げるな",
-        "video_id": "0Se8toM73sM"
     },
     {
         "channel": "https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA",
@@ -230,7 +212,7 @@
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1787239671.0708787,
+        "timestamp": 1787241526.8950968,
         "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr."
     },
     {
@@ -241,5 +223,14 @@
         "timestamp": 1787317200,
         "title": "【#4】ひぐらしのなく頃に　同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "OZXUsSdDd3A"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WKZtLyGWymU/maxresdefault_live.jpg",
+        "timestamp": 1787302800,
+        "title": "【ホロカ開封(カメラ)】本日発売！「サマー・ホログラム」12BOX開封！もちろん狙うはSEC！！！【白銀ノエル/ホロライブ】",
+        "video_id": "WKZtLyGWymU"
     }
 ]
