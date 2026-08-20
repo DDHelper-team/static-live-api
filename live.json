@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/XHNUgvbPTnM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "残暑お見舞い申し上げます。なのら！！！【姫森ルーナ/ホロライブ】",
-        "video_id": "XHNUgvbPTnM"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5CjlDdCeQx4/maxresdefault_live.jpg",
+        "timestamp": 1787306400,
+        "title": "【 鳴潮 】新共鳴者「清宵」ガチャ✨ストーリーも進めていくのら！！！第4章第3幕 Ver.3.6 ＃26【姫森ルーナ/ホロライブ】",
+        "video_id": "5CjlDdCeQx4"
     },
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
@@ -135,12 +135,12 @@
         "video_id": "fEA-l2po-Tc"
     },
     {
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afa9076-00a3-404c-b1b9-c9b422c542f3-profile_image-300x300.png",
         "channel": "https://www.twitch.tv/kotonoha_yukino_",
         "platform": "twitch",
         "status": "LIVE",
         "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1787245852.0842252,
-        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr."
+        "timestamp": 1787247703.4861164
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -177,5 +177,14 @@
         "timestamp": 1787302800,
         "title": "【ホロカ開封】本日発売！初のエクストラブースター\u0026quot;サマーホログラム\u0026quot;12BOX開封！今回こそSEC引けるのか！？【博衣こより/ホロライブ】",
         "video_id": "2mYhZjLX9Kc"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/onr3d9ZzrSk/maxresdefault_live.jpg",
+        "timestamp": 1787310000,
+        "title": "【鬼武者２】クリアまで！誰ルートになるか？！初見で挑むリマスター版鬼武者２！愛と哀しみのバッサリ感【周防パトラ】",
+        "video_id": "onr3d9ZzrSk"
     }
 ]
