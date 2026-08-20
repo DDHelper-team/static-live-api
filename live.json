@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xCBc8Ff7j2U/maxresdefault_live.jpg",
-        "timestamp": 1787238000,
+        "timestamp": null,
         "title": "台灣ASMR｜今晚由溫柔姐姐陪你放心睡著♡ 全套耳朵清潔・掏耳・按摩・耳邊吐息【KU100｜中無廣告】",
         "video_id": "xCBc8Ff7j2U"
     },
     {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/xCBc8Ff7j2U/maxresdefault_live.jpg",
-        "timestamp": 1787238000,
+        "timestamp": null,
         "title": "台灣ASMR｜今晚由溫柔姐姐陪你放心睡著♡ 全套耳朵清潔・掏耳・按摩・耳邊吐息【KU100｜中無廣告】",
         "video_id": "xCBc8Ff7j2U"
     },
@@ -115,24 +115,6 @@
         "timestamp": null,
         "title": "【Coffee Talk Tokyo】#4 お困りごとなら抹茶はいかが？【儒烏風亭らでん】",
         "video_id": "Bygmt6vk6Jw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YwvT4AGMdSg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 R.E.P.O. 】久々に会いに行くね、待っててね【獅子神レオナ┆Re:AcT】",
-        "video_id": "YwvT4AGMdSg"
-    },
-    {
-        "channel": "https://www.youtube.com/@Leona_Shishigami",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YwvT4AGMdSg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 R.E.P.O. 】久々に会いに行くね、待っててね【獅子神レオナ┆Re:AcT】",
-        "video_id": "YwvT4AGMdSg"
     },
     {
         "channel": "https://www.youtube.com/@ShiranuiFlare",
@@ -227,28 +209,37 @@
     {
         "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/fEA-l2po-Tc/maxresdefault_live.jpg",
-        "timestamp": 1787238000,
+        "timestamp": null,
         "title": "【三角州行動 EP33】今天快樂三角洲~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
         "video_id": "fEA-l2po-Tc"
     },
     {
         "channel": "https://www.youtube.com/@toritori1122",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/fEA-l2po-Tc/maxresdefault_live.jpg",
-        "timestamp": 1787238000,
+        "timestamp": null,
         "title": "【三角州行動 EP33】今天快樂三角洲~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
         "video_id": "fEA-l2po-Tc"
     },
     {
-        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afa9076-00a3-404c-b1b9-c9b422c542f3-profile_image-300x300.png",
+        "channel": "https://www.twitch.tv/kotonoha_yukino_",
+        "platform": "twitch",
+        "status": "LIVE",
+        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
+        "timestamp": 1787239671.0708787,
+        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr."
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ZRDi5Mo6BV8/maxresdefault_live.jpg",
-        "timestamp": 1787319000,
-        "title": "【ドラゴンボールZ KAKAROT】DAIMA編#2 魔界の大冒険？！完全初見 ※ネタバレ有【水宮枢／ホロライブDEV_IS】",
-        "video_id": "ZRDi5Mo6BV8"
+        "thumbnail": "https://i.ytimg.com/vi/OZXUsSdDd3A/maxresdefault_live.jpg",
+        "timestamp": 1787317200,
+        "title": "【#4】ひぐらしのなく頃に　同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
+        "video_id": "OZXUsSdDd3A"
     }
 ]
