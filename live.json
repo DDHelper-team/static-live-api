@@ -110,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VeI3s6C2Hss/maxresdefault_live.jpg",
-        "timestamp": 1787187600,
+        "timestamp": null,
         "title": "【らでん自習室】8月20日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
         "video_id": "VeI3s6C2Hss"
     },
@@ -178,5 +178,14 @@
         "timestamp": null,
         "title": "【Clair Obscur: Expedition 33】Surely No Rust....?【#4】",
         "video_id": "1279sNKMyxo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ozHVzxFvmfM/maxresdefault_live.jpg",
+        "timestamp": 1787234400,
+        "title": "【雑談】なんかラジオみたいなトーク　第23回【荒咬オウガ  アール/Aru】",
+        "video_id": "ozHVzxFvmfM"
     }
 ]
