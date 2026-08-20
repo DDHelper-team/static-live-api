@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ozHVzxFvmfM/maxresdefault_live.jpg",
-        "timestamp": 1787234400,
+        "timestamp": null,
         "title": "【雑談】なんかラジオみたいなトーク　第23回【荒咬オウガ  アール/Aru】",
         "video_id": "ozHVzxFvmfM"
     },
@@ -117,15 +117,6 @@
         "video_id": "0Se8toM73sM"
     },
     {
-        "channel": "https://www.youtube.com/@AZKi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0hE6CyxqnC8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠】歌って、告知！！！！！ Singing Stream【ホロライブ / AZKi】",
-        "video_id": "0hE6CyxqnC8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC10wVt6hoQiwySRhz7RdOUA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -146,20 +137,11 @@
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Bygmt6vk6Jw/maxresdefault_live.jpg",
-        "timestamp": 1787234400,
+        "timestamp": null,
         "title": "【Coffee Talk Tokyo】#4 お困りごとなら抹茶はいかが？【儒烏風亭らでん】",
         "video_id": "Bygmt6vk6Jw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QC_QJ3f6P4c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【hololive Dreams】 I\u0026#39;M IN THE BANNER!! (i\u0026#39;m not that flat) 【Kureiji Ollie】",
-        "video_id": "QC_QJ3f6P4c"
     },
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
@@ -243,24 +225,6 @@
         "video_id": "4gv6g-3vVug"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WrR1I0kjiFw/maxresdefault_live.jpg",
-        "timestamp": 1787232612,
-        "title": "【鳴潮】#13 | 完全初見！きな臭くなってきましたね。【緋月ゆい/ネオポルテ】",
-        "video_id": "WrR1I0kjiFw"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WrR1I0kjiFw/maxresdefault_live.jpg",
-        "timestamp": 1787232612,
-        "title": "【鳴潮】#13 | 完全初見！きな臭くなってきましたね。【緋月ゆい/ネオポルテ】",
-        "video_id": "WrR1I0kjiFw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -286,5 +250,41 @@
         "timestamp": 1787313600,
         "title": "【#推しナイン発表会】スタレについて語らせてもらう男【夕刻ロベル/ホロスターズ】※ネタバレあり　※PR",
         "video_id": "tXo7ujjVvhg"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WrR1I0kjiFw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【鳴潮】#13 | 完全初見！きな臭くなってきましたね。【緋月ゆい/ネオポルテ】",
+        "video_id": "WrR1I0kjiFw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WrR1I0kjiFw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【鳴潮】#13 | 完全初見！きな臭くなってきましたね。【緋月ゆい/ネオポルテ】",
+        "video_id": "WrR1I0kjiFw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fEA-l2po-Tc/maxresdefault_live.jpg",
+        "timestamp": 1787237100,
+        "title": "【三角州行動 EP33】今天快樂三角洲~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "fEA-l2po-Tc"
+    },
+    {
+        "channel": "https://www.youtube.com/@toritori1122",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fEA-l2po-Tc/maxresdefault_live.jpg",
+        "timestamp": 1787237100,
+        "title": "【三角州行動 EP33】今天快樂三角洲~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
+        "video_id": "fEA-l2po-Tc"
     }
 ]
