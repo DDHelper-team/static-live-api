@@ -47,18 +47,18 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wpmQJLDg-es/maxresdefault_live.jpg",
-        "timestamp": 1787284830,
+        "timestamp": null,
         "title": "【BIOHAZARD RE:2】#7-クレア編 | 完全初見！移動する際の大所帯は避けろ。【緋月ゆい/ネオポルテ】",
         "video_id": "wpmQJLDg-es"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/wpmQJLDg-es/maxresdefault_live.jpg",
-        "timestamp": 1787284830,
+        "timestamp": null,
         "title": "【BIOHAZARD RE:2】#7-クレア編 | 完全初見！移動する際の大所帯は避けろ。【緋月ゆい/ネオポルテ】",
         "video_id": "wpmQJLDg-es"
     },
@@ -151,5 +151,23 @@
         "timestamp": 1787310000,
         "title": "【JSP3】オフコラボ！日本事故物件監視協会3 -Japan Stigmatized Property-【まがまがーず /ホロライブ】",
         "video_id": "TOmBe-7QFJs"
+    },
+    {
+        "channel": "https://www.youtube.com/@AZKi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6CkqiXJsybU/maxresdefault_live.jpg",
+        "timestamp": 1787317200,
+        "title": "【Among Us 3D】#ホロ3Dアモアス インポスター、ゲスします。【ホロライブ / AZKi】",
+        "video_id": "6CkqiXJsybU"
+    },
+    {
+        "channel": "https://www.youtube.com/@Robocosan",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dbary4r2nQs/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【MGMG EAT】作り置きでゲリラごはん！みおしゃBDの雑談も添えて～　【ホロライブ/ロボ子さん】",
+        "video_id": "dbary4r2nQs"
     }
 ]
