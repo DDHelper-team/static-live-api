@@ -162,15 +162,6 @@
         "video_id": "6CkqiXJsybU"
     },
     {
-        "channel": "https://www.youtube.com/@Robocosan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dbary4r2nQs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MGMG EAT】作り置きでゲリラごはん！みおしゃBDの雑談も添えて～　【ホロライブ/ロボ子さん】",
-        "video_id": "dbary4r2nQs"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +196,32 @@
         "timestamp": 1787317200,
         "title": "【 #ホロ3Dアモアス 】3D Among us！みこは人畜無害代表だにぇ！！！！！！！！！【ホロライブ/さくらみこ】",
         "video_id": "PH2sPxe1rnQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/X9qJrOMNsnE/maxresdefault_live.jpg",
+        "timestamp": 1787310000,
+        "title": "【ストリートファイター6】ゲームセンターアルランディス【荒咬オウガ /ホロスターズ】",
+        "video_id": "X9qJrOMNsnE"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/cgWVWJ2KQ3A/maxresdefault_live.jpg",
+        "timestamp": 1787302800,
+        "title": "【 Detroit: Become Human 】#2 | 完全初見　わたしは、アンドロイド❔️【常闇トワ/ホロライブ】",
+        "video_id": "cgWVWJ2KQ3A"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EkD5iZWpdXs/maxresdefault_live.jpg",
+        "timestamp": 1787346000,
+        "title": "【AMERICAN TRUCK SIMULATOR】back on the road to expand my truck empire",
+        "video_id": "EkD5iZWpdXs"
     }
 ]
