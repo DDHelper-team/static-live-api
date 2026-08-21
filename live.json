@@ -29,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OZXUsSdDd3A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#5】ひぐらしのなく頃に　同時視聴会しゅばあああああああああああああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "OZXUsSdDd3A"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/u06bZurBgQc/maxresdefault_live.jpg",
+        "timestamp": 1787360400,
+        "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
+        "video_id": "u06bZurBgQc"
     },
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
@@ -126,15 +126,6 @@
         "video_id": "yaerrEkhEfE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vx7LyA5iCZQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "日本事故物件監視協会3 -Japan Stigmatized Property-【 iofi / hololiveID 】",
-        "video_id": "vx7LyA5iCZQ"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
         "platform": "youtube",
         "status": "LIVE",
@@ -164,11 +155,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JGlewGpa5I4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "敗北した。【緋月ゆい/ネオポルテ】",
-        "video_id": "JGlewGpa5I4"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SXnCITEk8Rk/maxresdefault_live.jpg",
+        "timestamp": 1787396400,
+        "title": "【3D告知 | #緋月ゆい_閃響】ミニライブ＆ソロイベ最新情報をお届け🎤【緋月ゆい/ネオポルテ】",
+        "video_id": "SXnCITEk8Rk"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -182,11 +173,11 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/JGlewGpa5I4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "敗北した。【緋月ゆい/ネオポルテ】",
-        "video_id": "JGlewGpa5I4"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SXnCITEk8Rk/maxresdefault_live.jpg",
+        "timestamp": 1787396400,
+        "title": "【3D告知 | #緋月ゆい_閃響】ミニライブ＆ソロイベ最新情報をお届け🎤【緋月ゆい/ネオポルテ】",
+        "video_id": "SXnCITEk8Rk"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -196,5 +187,14 @@
         "timestamp": 1787346000,
         "title": "【CAPCOM STUDIO】I ❤️ Japan quiz show【Dokibird】",
         "video_id": "AcSq9D3PBX4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hTk5Vp6akAQ/maxresdefault_live.jpg",
+        "timestamp": 1787412600,
+        "title": "【KU100/ASMR】ねっとり気持ちいい耳はむご奉仕でダメになっちゃえ…♡心地よい刺激で快眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "hTk5Vp6akAQ"
     }
 ]
