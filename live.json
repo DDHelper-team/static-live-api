@@ -108,24 +108,6 @@
         "video_id": "u6rNDNjOnDI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCM1nL55m_QImE0ZRqvGmWWQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zSnMnx3QN7A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "主題雜談｜天氣熱就來聽怪談👻看看大家都投稿給狐狐什麼樣讓人發毛的故事吧【Healing希靈/VTuber】",
-        "video_id": "zSnMnx3QN7A"
-    },
-    {
-        "channel": "https://www.youtube.com/@HealingCh",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zSnMnx3QN7A/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "主題雜談｜天氣熱就來聽怪談👻看看大家都投稿給狐狐什麼樣讓人發毛的故事吧【Healing希靈/VTuber】",
-        "video_id": "zSnMnx3QN7A"
-    },
-    {
         "channel": "https://www.youtube.com/@SakuraMiko",
         "platform": "youtube",
         "status": "LIVE",
@@ -227,10 +209,46 @@
     {
         "channel": "https://www.youtube.com/@TokinoSora",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SlmRqzoXk9s/maxresdefault_live.jpg",
-        "timestamp": 1787321400,
+        "timestamp": null,
         "title": "【突発雑談】夏休みっていいね！！【ホロライブ/ときのそら】",
         "video_id": "SlmRqzoXk9s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JGlewGpa5I4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "敗北した。【緋月ゆい/ネオポルテ】",
+        "video_id": "JGlewGpa5I4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AcSq9D3PBX4/maxresdefault_live.jpg",
+        "timestamp": 1787346000,
+        "title": "【CAPCOM STUDIO】I ❤️ Japan quiz show【Dokibird】",
+        "video_id": "AcSq9D3PBX4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/JGlewGpa5I4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "敗北した。【緋月ゆい/ネオポルテ】",
+        "video_id": "JGlewGpa5I4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AcSq9D3PBX4/maxresdefault_live.jpg",
+        "timestamp": 1787346000,
+        "title": "【CAPCOM STUDIO】I ❤️ Japan quiz show【Dokibird】",
+        "video_id": "AcSq9D3PBX4"
     }
 ]
