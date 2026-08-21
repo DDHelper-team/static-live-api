@@ -56,9 +56,9 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WKZtLyGWymU/maxresdefault_live.jpg",
-        "timestamp": 1787302800,
+        "timestamp": null,
         "title": "【ホロカ開封(カメラ)】本日発売！「サマー・ホログラム」12BOX開封！もちろん狙うはSEC！！！【白銀ノエル/ホロライブ】",
         "video_id": "WKZtLyGWymU"
     },
@@ -74,10 +74,10 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/2mYhZjLX9Kc/maxresdefault_live.jpg",
-        "timestamp": 1787302800,
-        "title": "【ホロカ開封】本日発売！初のエクストラブースター\u0026quot;サマーホログラム\u0026quot;12BOX開封！今回こそSEC引けるのか！？【博衣こより/ホロライブ】",
+        "timestamp": null,
+        "title": "【ホロカ開封】本日発売！初のエクストラブースター\u0026quot;サマーホログラム\u0026quot;12BOX開封！ノエル先輩と並走バトル！SEC引くぞ！！【博衣こより/ホロライブ】",
         "video_id": "2mYhZjLX9Kc"
     },
     {
@@ -191,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/@TokoyamiTowa",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/cgWVWJ2KQ3A/maxresdefault_live.jpg",
-        "timestamp": 1787302800,
+        "timestamp": null,
         "title": "【 Detroit: Become Human 】#2 | 完全初見　わたしは、アンドロイド❔️【常闇トワ/ホロライブ】",
         "video_id": "cgWVWJ2KQ3A"
     },
@@ -207,12 +207,30 @@
         "video_id": "EkD5iZWpdXs"
     },
     {
-        "channel": "https://www.youtube.com/@KoganeiNiko",
+        "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/L0IQbmqDQGU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "歌を歌っていきますよ～！",
-        "video_id": "L0IQbmqDQGU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/riG3zEzI9qc/maxresdefault_live.jpg",
+        "timestamp": 1787317200,
+        "title": "【3D Among us】 #ホロ3Dアモアス  はじめての３Dアモアス！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "riG3zEzI9qc"
+    },
+    {
+        "channel": "https://www.youtube.com/@HoushouMarine",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/dn-jJ85xMZo/maxresdefault_live.jpg",
+        "timestamp": 1787310000,
+        "title": "【メンバーシップ限定】ホラー👻きさらぎ駅 Re: を一緒に見よう【ホロライブ/宝鐘マリン】",
+        "video_id": "dn-jJ85xMZo"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/L_sBMZz_hG8/maxresdefault_live.jpg",
+        "timestamp": 1787310000,
+        "title": "【hololive Dreams】 MY EVENT IS HERE!! AND ALSO NEW OLLIE SONG!! 【Kureiji Ollie】",
+        "video_id": "L_sBMZz_hG8"
     }
 ]
