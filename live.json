@@ -20,11 +20,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mfSoM1ldI6E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【空の軌跡 the 1st】完全初見！みんなの圧倒的オススメゲーム、空の軌跡はじめて見る！！！【博衣こより/ホロライブ】※ネタバレを含みます",
-        "video_id": "mfSoM1ldI6E"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ROvRe0I75Bs/maxresdefault_live.jpg",
+        "timestamp": 1787392800,
+        "title": "【 #ホロ甲2026 】ホロライブ甲子園2026開催決定！企画説明会⚾✨【博衣こより/ホロライブ】",
+        "video_id": "ROvRe0I75Bs"
     },
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
@@ -259,5 +259,23 @@
         "timestamp": 1787405400,
         "title": "【Lethal Company】Kaeluarga are the professionals so they carry【#PemaloeMonth2026】",
         "video_id": "sp8oOBs7CK0"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/SIMHtur0V4s/maxresdefault_live.jpg",
+        "timestamp": 1787464800,
+        "title": "【 Scritchy Scratchy 】スクラッチでお金稼ぎ！ウヒョー！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "SIMHtur0V4s"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/1NZmJjzHpCc/maxresdefault_live.jpg",
+        "timestamp": 1787439600,
+        "title": "【Venus Vacation PRISM - Dead or Alive Xtreme】hot girl summer is here (SPOILERS AHEAD) #calliolive",
+        "video_id": "1NZmJjzHpCc"
     }
 ]
