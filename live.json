@@ -18,15 +18,6 @@
         "video_id": "ROvRe0I75Bs"
     },
     {
-        "channel": "https://www.youtube.com/@Patra_Suou",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BvnmXvhi7Z4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ライブアライブ】SF編＆原始編！伝説のRPG、今ここに！初見でやってみる【周防パトラ】",
-        "video_id": "BvnmXvhi7Z4"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -54,29 +45,20 @@
         "video_id": "W98R4zLVz6A"
     },
     {
-        "channel": "https://www.youtube.com/@IchijouRirika",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iIW0EkIlrT4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【相談】ぺこーら先輩用の企画を一緒に考えてほしい【一条莉々華/hololive DEV_IS　ReGLOSS】",
-        "video_id": "iIW0EkIlrT4"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SXnCITEk8Rk/maxresdefault_live.jpg",
-        "timestamp": 1787396400,
+        "timestamp": null,
         "title": "【3D告知 | #緋月ゆい_閃響】ミニライブ＆ソロイベ最新情報をお届け🎤【緋月ゆい/ネオポルテ】",
         "video_id": "SXnCITEk8Rk"
     },
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/SXnCITEk8Rk/maxresdefault_live.jpg",
-        "timestamp": 1787396400,
+        "timestamp": null,
         "title": "【3D告知 | #緋月ゆい_閃響】ミニライブ＆ソロイベ最新情報をお届け🎤【緋月ゆい/ネオポルテ】",
         "video_id": "SXnCITEk8Rk"
     },
@@ -101,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvaTdHTWBGv3MKj3KVqJVCw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OtG2ifBqCZQ/maxresdefault_live.jpg",
-        "timestamp": 1787396400,
+        "timestamp": null,
         "title": "【 FF7リバース 】みんなと冒険だああ!! #11 | FINAL FANTASY VII REBIRTH  【 猫又おかゆ/ホロライブ 】※ネタバレあり",
         "video_id": "OtG2ifBqCZQ"
     },
@@ -119,10 +101,10 @@
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WcM8MurfM9Y/maxresdefault_live.jpg",
-        "timestamp": 1787396400,
-        "title": "【企画告知】ぺこ！【ホロライブ/兎田ぺこら】",
+        "timestamp": null,
+        "title": "【企画告知】とある企画の告知をします！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "WcM8MurfM9Y"
     },
     {
@@ -277,5 +259,23 @@
         "timestamp": 1787457600,
         "title": "【#11】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "oImRLYfOKvs"
+    },
+    {
+        "channel": "https://www.youtube.com/@IsakiRiona",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pWKlB1bQzqY/maxresdefault_live.jpg",
+        "timestamp": 1787403600,
+        "title": "【 SPAGHET】そら先輩・・！？これは一体・・！？【ホロライブ DEV_IS 響咲リオナ】",
+        "video_id": "pWKlB1bQzqY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vBwNbx3l5R0/maxresdefault_live.jpg",
+        "timestamp": 1787482800,
+        "title": "【MECCHA CHAMELEON】 i am dust u don\u0026#39;t see me",
+        "video_id": "vBwNbx3l5R0"
     }
 ]
