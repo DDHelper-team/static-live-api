@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ZRDi5Mo6BV8/maxresdefault_live.jpg",
-        "timestamp": 1787406300,
+        "timestamp": null,
         "title": "【ドラゴンボールZ KAKAROT】DAIMA編#2 魔界の大冒険？！完全初見 ※ネタバレ有【水宮枢／ホロライブDEV_IS】",
         "video_id": "ZRDi5Mo6BV8"
     },
@@ -65,10 +65,10 @@
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oIiPKdvggRI/maxresdefault_live.jpg",
-        "timestamp": 1787407200,
-        "title": "よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "timestamp": null,
+        "title": "【F1同時視聴】後半戦はじまった！！！オランダGP予選！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "oIiPKdvggRI"
     },
     {
@@ -196,5 +196,14 @@
         "timestamp": null,
         "title": "【三角州行動 EP33】今天快樂三角洲~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
         "video_id": "Y56lOYCeauU"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6RJjtRmaNz8/maxresdefault_live.jpg",
+        "timestamp": 1787446800,
+        "title": "【朝活雑談】後半BIG3からチャリティー報告アリ！日曜１０時はさんでーまっする☀【白銀ノエル/ホロライブ】",
+        "video_id": "6RJjtRmaNz8"
     }
 ]
