@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Bd3qbT6kXu8/maxresdefault_live.jpg",
-        "timestamp": 1787371200,
+        "timestamp": null,
         "title": "【#10】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "Bd3qbT6kXu8"
     },
@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BvnmXvhi7Z4/maxresdefault_live.jpg",
-        "timestamp": 1787371200,
+        "timestamp": null,
         "title": "【ライブアライブ】SF編＆原始編！伝説のRPG、今ここに！初見でやってみる【周防パトラ】",
         "video_id": "BvnmXvhi7Z4"
     },
@@ -169,5 +169,14 @@
         "timestamp": 1787401800,
         "title": "【#BtH歌枠リレー】夏の暑さに負けないように！【 獅子神レオナ┆Re:AcT】",
         "video_id": "1iiWXUn-ex8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/vASwtWX-Pyw/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【歌枠 / karaoke】お休み中なんですけど激暇になってしまったのでちょいうた/ アステル",
+        "video_id": "vASwtWX-Pyw"
     }
 ]
