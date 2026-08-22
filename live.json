@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ROvRe0I75Bs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロ甲2026 】ホロライブ甲子園2026開催決定！企画説明会⚾✨【博衣こより/ホロライブ】",
-        "video_id": "ROvRe0I75Bs"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/WQHfsbHAEks/maxresdefault_live.jpg",
+        "timestamp": 1787400000,
+        "title": "【ガンダム同時視聴】最終回「機動戦士ガンダムSEED」同時視聴！Ep41～Ep48まで！ #こよりとガンダム 【博衣こより/ホロライブ】",
+        "video_id": "WQHfsbHAEks"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -97,15 +97,6 @@
         "timestamp": null,
         "title": "【企画告知】とある企画の告知をします！！！！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "WcM8MurfM9Y"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShishiroBotan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ARAJ18o1dVs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【CoD:MW4】MW4ベータやるぞおおおおおお！！－Call of Duty: Modern Warfare 4（BETA）【獅白ぼたん/ホロライブ】",
-        "video_id": "ARAJ18o1dVs"
     },
     {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
@@ -259,5 +250,14 @@
         "timestamp": 1787482800,
         "title": "【MECCHA CHAMELEON】 i am dust u don\u0026#39;t see me",
         "video_id": "vBwNbx3l5R0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/E5L0ZQkfHbI/maxresdefault_live.jpg",
+        "timestamp": 1787457600,
+        "title": "【ライブアライブ】中世編！伝説のRPG、今ここに！初見でやってみる【周防パトラ】",
+        "video_id": "E5L0ZQkfHbI"
     }
 ]
