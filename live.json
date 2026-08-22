@@ -144,15 +144,6 @@
         "video_id": "ARAJ18o1dVs"
     },
     {
-        "channel": "https://www.youtube.com/@Robocosan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/M9FRMuBZjXw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 歌枠】NO34.お昼のえもえもろぼめろでぃ～ RBmelody 🎶夏終盤ってほんとうに？！ 【ホロライブ/ ロボ子さん #ろぼめろでぃ】",
-        "video_id": "M9FRMuBZjXw"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -182,10 +173,46 @@
     {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CKTXdcvy0Qg/maxresdefault_live.jpg",
-        "timestamp": 1787374800,
+        "timestamp": null,
         "title": "【 スマブラSP 】参加型！おまえらに３勝利するまで終われません！！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
         "video_id": "CKTXdcvy0Qg"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oIiPKdvggRI/maxresdefault_live.jpg",
+        "timestamp": 1787407200,
+        "title": "よていち【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "oIiPKdvggRI"
+    },
+    {
+        "channel": "https://www.youtube.com/@MomosuzuNene",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gcLzb7bj60M/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "超開花同時視聴！！ねねのファーストライブを振り返る！【 桃鈴ねね / hololive 】",
+        "video_id": "gcLzb7bj60M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KjScFMY5CmI/maxresdefault_live.jpg",
+        "timestamp": 1787385600,
+        "title": "【#ff14  】那些希望與絕望....(若忙完可能提早開始)【#ゲーム個人勢 / Fingla】",
+        "video_id": "KjScFMY5CmI"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KjScFMY5CmI/maxresdefault_live.jpg",
+        "timestamp": 1787385600,
+        "title": "【#ff14  】那些希望與絕望....(若忙完可能提早開始)【#ゲーム個人勢 / Fingla】",
+        "video_id": "KjScFMY5CmI"
     }
 ]
