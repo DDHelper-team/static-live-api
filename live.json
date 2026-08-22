@@ -162,15 +162,6 @@
         "video_id": "1iiWXUn-ex8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vASwtWX-Pyw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌枠 / karaoke】お休み中なんですけど激暇になってしまったのでちょいうた/ アステル",
-        "video_id": "vASwtWX-Pyw"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
         "status": "LIVE",
@@ -232,5 +223,23 @@
         "timestamp": 1787392800,
         "title": "【 GeoGuessr 】AZKi先輩と初めてのゼロゲッサー！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #AZKi 】",
         "video_id": "dzO2LaVBmMY"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pNnls_HDeTc/maxresdefault_live.jpg",
+        "timestamp": 1787432400,
+        "title": "【LEAGUE OF LEGENDS】LET\u0026#39;S ARAM",
+        "video_id": "pNnls_HDeTc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Vz0XmTQJ31Q/maxresdefault_live.jpg",
+        "timestamp": 1787403600,
+        "title": "【メンバー限定】歌枠【荒咬オウガ /ホロスターズ】",
+        "video_id": "Vz0XmTQJ31Q"
     }
 ]
