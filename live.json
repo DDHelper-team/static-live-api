@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/WQHfsbHAEks/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ガンダム同時視聴】最終回「機動戦士ガンダムSEED」同時視聴！Ep41～Ep48まで！ #こよりとガンダム 【博衣こより/ホロライブ】",
-        "video_id": "WQHfsbHAEks"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ru9b03IMNx8/maxresdefault_live.jpg",
+        "timestamp": 1787439600,
+        "title": "【 MLBxhololive 】ドジャース vs パイレーツ、カブス vs マリナーズ、ジャイアンツ vs レッドソックスの試合をGamedayを使って一緒に応援しよう！【博衣こより/ホロライブ】",
+        "video_id": "Ru9b03IMNx8"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -178,5 +178,14 @@
         "timestamp": null,
         "title": "【雑談/chat】深夜のゆる雑談【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "fJjhRl8WjT4"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/T_b77R925N4/maxresdefault_live.jpg",
+        "timestamp": 1787439600,
+        "title": "【FORTNITE NEW SEASON】Shadow the hedgehog in Fortnite.",
+        "video_id": "T_b77R925N4"
     }
 ]
