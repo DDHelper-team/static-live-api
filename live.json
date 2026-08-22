@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCkul8Q_Dn0m0eZIeLLsuZQw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/VGyjNT7qLx8/maxresdefault_live.jpg",
-        "timestamp": 1787410800,
+        "timestamp": null,
         "title": "‪〖 ASMR⌇whisper 〗 ぷﾆｭ…♡ご褒美？おあずけ？焦らされるの好きでしょ？新モデルお披露目♡ 〖 #めあch2周年記念 / 囁き / Japanese / Vtuber〗",
         "video_id": "VGyjNT7qLx8"
     },
@@ -108,15 +108,6 @@
         "video_id": "1NZmJjzHpCc"
     },
     {
-        "channel": "https://www.youtube.com/@SakuraMiko",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/DM2AuzC_RYA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロドリ】新イベガチャきちゃ‼全員の水着が欲しいンだよォぉおおおおおおお！！！！🔥【ホロライブ/さくらみこ】",
-        "video_id": "DM2AuzC_RYA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -124,15 +115,6 @@
         "timestamp": 1787457600,
         "title": "【#11】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "oImRLYfOKvs"
-    },
-    {
-        "channel": "https://www.youtube.com/@IsakiRiona",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pWKlB1bQzqY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 SPAGHET】そら先輩・・！？これは一体・・！？【ホロライブ DEV_IS 響咲リオナ】",
-        "video_id": "pWKlB1bQzqY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
@@ -187,5 +169,14 @@
         "timestamp": 1787446800,
         "title": "【朝活雑談】後半BIG3からチャリティー報告アリ！日曜１０時はさんでーまっする☀【白銀ノエル/ホロライブ】",
         "video_id": "6RJjtRmaNz8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/qNval7IbVPk/maxresdefault_live.jpg",
+        "timestamp": 1787446200,
+        "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 7【荒咬オウガ /ホロスターズ】",
+        "video_id": "qNval7IbVPk"
     }
 ]
