@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hTk5Vp6akAQ/maxresdefault_live.jpg",
-        "timestamp": 1787412600,
+        "timestamp": null,
         "title": "【KU100/ASMR】ねっとり気持ちいい耳はむご奉仕でダメになっちゃえ…♡心地よい刺激で快眠♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "hTk5Vp6akAQ"
     },
@@ -61,15 +61,6 @@
         "timestamp": null,
         "title": "【 ホロライブドリームス 】目指せ！ポカジャン解放！！！！！！！【角巻わため/ホロライブ４期生】",
         "video_id": "78HPRfhlhHk"
-    },
-    {
-        "channel": "https://www.youtube.com/@RindoChihaya",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oIiPKdvggRI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【F1同時視聴】後半戦はじまった！！！オランダGP予選！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
-        "video_id": "oIiPKdvggRI"
     },
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
@@ -178,5 +169,14 @@
         "timestamp": 1787446200,
         "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 7【荒咬オウガ /ホロスターズ】",
         "video_id": "qNval7IbVPk"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fJjhRl8WjT4/maxresdefault_live.jpg",
+        "timestamp": 1787413200,
+        "title": "【雑談/chat】深夜のゆる雑談【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "video_id": "fJjhRl8WjT4"
     }
 ]
