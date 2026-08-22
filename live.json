@@ -173,18 +173,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KjScFMY5CmI/maxresdefault_live.jpg",
-        "timestamp": 1787385600,
+        "timestamp": null,
         "title": "【#ff14  】那些希望與絕望....(若忙完可能提早開始)【#ゲーム個人勢 / Fingla】",
         "video_id": "KjScFMY5CmI"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/KjScFMY5CmI/maxresdefault_live.jpg",
-        "timestamp": 1787385600,
+        "timestamp": null,
         "title": "【#ff14  】那些希望與絕望....(若忙完可能提早開始)【#ゲーム個人勢 / Fingla】",
         "video_id": "KjScFMY5CmI"
     },
@@ -236,9 +236,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YmY2ux0kvH0/maxresdefault_live.jpg",
-        "timestamp": 1787385600,
+        "timestamp": null,
         "title": "【ご応募ありがとうございます】面接官の大神です。【ネタバレあり】",
         "video_id": "YmY2ux0kvH0"
     },
@@ -250,5 +250,14 @@
         "timestamp": 1787389200,
         "title": "【夜雑談】土曜日だよ！！雪民集合！！【雪花ラミィ /ホロライブ】",
         "video_id": "2IImS3McGq0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sp8oOBs7CK0/maxresdefault_live.jpg",
+        "timestamp": 1787405400,
+        "title": "【Lethal Company】Kaeluarga are the professionals so they carry【#PemaloeMonth2026】",
+        "video_id": "sp8oOBs7CK0"
     }
 ]
