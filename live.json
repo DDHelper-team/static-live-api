@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/PF_Tq_Cd73s/maxresdefault_live.jpg",
-        "timestamp": 1787479200,
+        "timestamp": null,
         "title": "【コラボ】ラミィ先輩とお酒無し(？)でサシ対談！【#綺々羅々ヴィヴィ #hololiveDEV_IS #FLOWGLOW #雪花ラミィ 】",
         "video_id": "PF_Tq_Cd73s"
     },
@@ -94,8 +94,8 @@
         "platform": "youtube",
         "status": "READY_TO_LIVE",
         "thumbnail": "https://i.ytimg.com/vi/lt90QFjVK2U/maxresdefault_live.jpg",
-        "timestamp": 1787479200,
-        "title": "【 告知 】【ホロライブ/さくらみこ】",
+        "timestamp": 1787479800,
+        "title": "【 告知 】告知があるので対戦待ち凸待ちもするにぇええええ！！！【ホロライブ/さくらみこ】",
         "video_id": "lt90QFjVK2U"
     },
     {
@@ -241,5 +241,14 @@
         "timestamp": 1787491800,
         "title": "【三角州行動 EP35】今天快樂三角洲~ | Steam版國際服 | 不是Garena臺服 | 【鴆咲 ToriTori】",
         "video_id": "q2CNDpKCJgM"
+    },
+    {
+        "channel": "https://www.youtube.com/@OtonoseKanade",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/az3yZaivVVw/maxresdefault_live.jpg",
+        "timestamp": 1787565600,
+        "title": "【 Scritchy Scratchy #02 】スクラッチでお金稼ぎ！ウヒョー！！！【音乃瀬奏】#hololiveDEV_IS #ReGLOSS",
+        "video_id": "az3yZaivVVw"
     }
 ]
