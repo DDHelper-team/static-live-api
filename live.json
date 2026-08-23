@@ -36,15 +36,6 @@
         "video_id": "2MMBGfSm5e8"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oImRLYfOKvs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#11】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
-        "video_id": "oImRLYfOKvs"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -200,9 +191,9 @@
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6sas-lcpc6Q/maxresdefault_live.jpg",
-        "timestamp": 1787475600,
+        "timestamp": null,
         "title": "【ぷよぷよテトリス2】#ホロぷよテト大会 どっちの方ができるんだ？！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "6sas-lcpc6Q"
     },
