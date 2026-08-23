@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/t0UVphD6Eho/maxresdefault_live.jpg",
-        "timestamp": 1787457600,
+        "timestamp": null,
         "title": "【空の軌跡 the 1st】完全初見！みんなの圧倒的オススメゲーム、空の軌跡はじめて見る！！！ #2 【博衣こより/ホロライブ】※ネタバレを含みます",
         "video_id": "t0UVphD6Eho"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/oImRLYfOKvs/maxresdefault_live.jpg",
-        "timestamp": 1787457600,
+        "timestamp": null,
         "title": "【#11】ドラゴンボールカカロットやるしゅばあああああああああああああああああああああああああああ！！！！！！【ホロライブ/大空スバル】",
         "video_id": "oImRLYfOKvs"
     },
@@ -65,20 +65,11 @@
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/E5L0ZQkfHbI/maxresdefault_live.jpg",
-        "timestamp": 1787457600,
+        "timestamp": null,
         "title": "【ライブアライブ】中世編！伝説のRPG、今ここに！初見でやってみる【周防パトラ】",
         "video_id": "E5L0ZQkfHbI"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShiroganeNoel",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/6RJjtRmaNz8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【朝活雑談】後半BIG3からチャリティー報告アリ！日曜１０時はさんでーまっする☀【白銀ノエル/ホロライブ】",
-        "video_id": "6RJjtRmaNz8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
@@ -151,5 +142,50 @@
         "timestamp": 1787482800,
         "title": "【オフコラボ】お酒飲みながらやれば怖くないって言ってました。日本事故物件監視協会3 -JSP3-【一条莉々華/hololive DEV_IS　ReGLOSS】",
         "video_id": "KPOqtLmYKZU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCB1s_IdO-r0nUkY2mXeti-A",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5LLI3UsB32w/maxresdefault_live.jpg",
+        "timestamp": 1787484600,
+        "title": "【#無敵アイドル歌枠リレー】無敵らいおん🧡今日は…アイドル！？【 獅子神レオナ/Re:AcT】",
+        "video_id": "5LLI3UsB32w"
+    },
+    {
+        "channel": "https://www.youtube.com/@Leona_Shishigami",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/5LLI3UsB32w/maxresdefault_live.jpg",
+        "timestamp": 1787484600,
+        "title": "【#無敵アイドル歌枠リレー】無敵らいおん🧡今日は…アイドル！？【 獅子神レオナ/Re:AcT】",
+        "video_id": "5LLI3UsB32w"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/42vWtvlk8aw/maxresdefault_live.jpg",
+        "timestamp": 1787499000,
+        "title": "風真いろはの #ねるまえらじお 📻❣ #21",
+        "video_id": "42vWtvlk8aw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwBmSNUOWnowsju5YG7dT6g",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gGCZV-QUMSo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雑談 】優雅な中学生とお昼から喋りましょう☕【 領国つかさ / すぺしゃりて 】",
+        "video_id": "gGCZV-QUMSo"
+    },
+    {
+        "channel": "https://www.youtube.com/@tsukasa_ryogoku",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gGCZV-QUMSo/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 雑談 】優雅な中学生とお昼から喋りましょう☕【 領国つかさ / すぺしゃりて 】",
+        "video_id": "gGCZV-QUMSo"
     }
 ]
