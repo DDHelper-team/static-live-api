@@ -2,11 +2,11 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ru9b03IMNx8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 MLBxhololive 】パイレーツ vs ドジャース 、カブス vs マリナーズ、ジャイアンツ vs レッドソックスの試合をGamedayを使って一緒に応援しよう！【博衣こより/ホロライブ】",
-        "video_id": "Ru9b03IMNx8"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/t0UVphD6Eho/maxresdefault_live.jpg",
+        "timestamp": 1787457600,
+        "title": "【空の軌跡 the 1st】完全初見！みんなの圧倒的オススメゲーム、空の軌跡はじめて見る！！！ #2 【博衣こより/ホロライブ】※ネタバレを含みます",
+        "video_id": "t0UVphD6Eho"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -38,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1NZmJjzHpCc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Venus Vacation PRISM - Dead or Alive Xtreme】hot girl summer is here (SPOILERS AHEAD) #calliolive",
-        "video_id": "1NZmJjzHpCc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2MMBGfSm5e8/maxresdefault_live.jpg",
+        "timestamp": 1787529600,
+        "title": "【DARK SOULS: REMASTERED】we\u0026#39;re back, baby (level one challenge) #calliolive",
+        "video_id": "2MMBGfSm5e8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -88,15 +88,6 @@
         "timestamp": 1787482800,
         "title": "【スマスロ ストリートファイター6】スト6打ちたい格ゲーマー向け　スロット講座【荒咬オウガ /ホロスターズ】",
         "video_id": "FsivyIoLNNQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/T_b77R925N4/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【FORTNITE NEW SEASON】Shadow the hedgehog in Fortnite.",
-        "video_id": "T_b77R925N4"
     },
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
@@ -151,5 +142,14 @@
         "timestamp": 1787511600,
         "title": "【MEMBERSHIP】Torchwood Watch-A-Long 4 ~! 💄",
         "video_id": "3aL5prb1erI"
+    },
+    {
+        "channel": "https://www.youtube.com/@IchijouRirika",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KPOqtLmYKZU/maxresdefault_live.jpg",
+        "timestamp": 1787482800,
+        "title": "【オフコラボ】お酒飲みながらやれば怖くないって言ってました。日本事故物件監視協会3 -JSP3-【一条莉々華/hololive DEV_IS　ReGLOSS】",
+        "video_id": "KPOqtLmYKZU"
     }
 ]
