@@ -27,15 +27,6 @@
         "video_id": "JSw6si-bQ94"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/pNnls_HDeTc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【LEAGUE OF LEGENDS】LET\u0026#39;S ARAM",
-        "video_id": "pNnls_HDeTc"
-    },
-    {
         "channel": "https://www.youtube.com/@OtonoseKanade",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -83,18 +74,18 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6RJjtRmaNz8/maxresdefault_live.jpg",
-        "timestamp": 1787446800,
+        "timestamp": null,
         "title": "【朝活雑談】後半BIG3からチャリティー報告アリ！日曜１０時はさんでーまっする☀【白銀ノエル/ホロライブ】",
         "video_id": "6RJjtRmaNz8"
     },
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qNval7IbVPk/maxresdefault_live.jpg",
-        "timestamp": 1787446200,
+        "timestamp": null,
         "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 7【荒咬オウガ /ホロスターズ】",
         "video_id": "qNval7IbVPk"
     },
@@ -151,5 +142,23 @@
         "timestamp": 1787490000,
         "title": "#06【ほの暮しの庭】秋も半ばですね【不知火フレア/ホロライブ】※ネタバレあり",
         "video_id": "cXht5wte_1s"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_erbloodflame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3aL5prb1erI/maxresdefault_live.jpg",
+        "timestamp": 1787511600,
+        "title": "【MEMBERSHIP】Torchwood Watch-A-Long 4 ~! 💄",
+        "video_id": "3aL5prb1erI"
+    },
+    {
+        "channel": "https://www.youtube.com/@JuufuuteiRaden",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/K3c4uZusY-k/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【らでん自習室】8月23日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
+        "video_id": "K3c4uZusY-k"
     }
 ]
