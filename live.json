@@ -83,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qNval7IbVPk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【同時視聴】静岡発☆福岡着！ドゲンジャーズツーリズム # 7【荒咬オウガ /ホロスターズ】",
-        "video_id": "qNval7IbVPk"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FsivyIoLNNQ/maxresdefault_live.jpg",
+        "timestamp": 1787482800,
+        "title": "【スマスロ ストリートファイター6】スト6打ちたい格ゲーマー向け　スロット講座【荒咬オウガ /ホロスターズ】",
+        "video_id": "FsivyIoLNNQ"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
@@ -151,14 +151,5 @@
         "timestamp": 1787511600,
         "title": "【MEMBERSHIP】Torchwood Watch-A-Long 4 ~! 💄",
         "video_id": "3aL5prb1erI"
-    },
-    {
-        "channel": "https://www.youtube.com/@JuufuuteiRaden",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/K3c4uZusY-k/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【らでん自習室】8月23日10:00~11:00 【儒烏風亭らでん/ReGLOSS】",
-        "video_id": "K3c4uZusY-k"
     }
 ]
