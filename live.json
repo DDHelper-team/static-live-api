@@ -72,20 +72,11 @@
         "video_id": "cg18GJwiv9Q"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KpCdU2wEHYs/maxresdefault_live.jpg",
-        "timestamp": 1790805600,
-        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】CHAPTER THREE START!!!!!",
-        "video_id": "KpCdU2wEHYs"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9qYswB4uHdA/maxresdefault_live.jpg",
-        "timestamp": 1790812800,
+        "timestamp": null,
         "title": "Sorting Out My JUNK 【Handcam Zatsudan】",
         "video_id": "9qYswB4uHdA"
     },
@@ -133,15 +124,6 @@
         "timestamp": 1790859600,
         "title": "10月がやってきたのら(・o・🍬)【姫森ルーナ/ホロライブ】",
         "video_id": "Ilw5E3EE8oM"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Wq4h-Ty4kbM/maxresdefault_live.jpg",
-        "timestamp": 1790805600,
-        "title": "【 朝活/FreeTalk 】奇跡の朝活！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "Wq4h-Ty4kbM"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -196,5 +178,32 @@
         "timestamp": 1790838000,
         "title": "【hololive Dreams】GRAONDSTONE vs VIEWERS til we win or else......... 【#holodori】",
         "video_id": "pPXaqk00utA"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/x38YQN5B9zk/maxresdefault_live.jpg",
+        "timestamp": 1790847000,
+        "title": "【 Minecraft / #マイクラ肝試し2026 】ついに今年のMAP！！いくぞー！【不知火フレア/ホロライブ】",
+        "video_id": "x38YQN5B9zk"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KpCdU2wEHYs/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】CHAPTER THREE START!!!!!",
+        "video_id": "KpCdU2wEHYs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/eFYByyw5AJc/maxresdefault_live.jpg",
+        "timestamp": 1790856000,
+        "title": "【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "eFYByyw5AJc"
     }
 ]
