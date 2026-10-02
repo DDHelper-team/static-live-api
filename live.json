@@ -74,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/iqzlHBQ_o_M/maxresdefault_live.jpg",
-        "timestamp": 1790982000,
+        "timestamp": null,
         "title": "【StarSavior】*TIES YOU UP* #ad",
         "video_id": "iqzlHBQ_o_M"
     },
@@ -128,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/isiBH6e0IWE/maxresdefault_live.jpg",
-        "timestamp": 1790978400,
+        "timestamp": null,
         "title": "【#ホロドリ】図鑑コンプをめざして🎣【風真いろは/ホロライブ】",
         "video_id": "isiBH6e0IWE"
     },
@@ -169,5 +169,32 @@
         "timestamp": 1791032400,
         "title": "【hololive Dreams】 GACHA-BANANZA WITH MOONA!! #holodori #ホロドリ 【Kureiji Ollie】",
         "video_id": "2U64RtX8cwY"
+    },
+    {
+        "channel": "https://www.youtube.com/@Patra_Suou",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sWcuIBPWLPw/maxresdefault_live.jpg",
+        "timestamp": 1791000000,
+        "title": "【ドラクエV】はじめてのドラゴンクエストV 天空の花嫁をやってみる！DragonQuestⅤ【周防パトラ】",
+        "video_id": "sWcuIBPWLPw"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nl7VxDtpbKA/maxresdefault_live.jpg",
+        "timestamp": 1791061200,
+        "title": "【CASUAL OUTFIT DEBUT】Cecilia Immergreen more like Cecilia Immer-",
+        "video_id": "nl7VxDtpbKA"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/En1EljuZYUo/maxresdefault_live.jpg",
+        "timestamp": 1791032400,
+        "title": "【雑談＆お礼】rakuでお喋り🍀ウェスタからお届け⛲【角巻わため/ホロライブ４期生】",
+        "video_id": "En1EljuZYUo"
     }
 ]
