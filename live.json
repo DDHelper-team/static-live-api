@@ -45,24 +45,6 @@
         "video_id": "hSJKa-b1VpM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VrdeGNP4mjU/maxresdefault_live.jpg",
-        "timestamp": 1791153000,
-        "title": "【#朝ミオ 】１０月だよ！月曜日だよ～～！おはみぉーん！",
-        "video_id": "VrdeGNP4mjU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UevNUaXWlXk/maxresdefault_live.jpg",
-        "timestamp": 1791151200,
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY2🎣【風真いろは/ホロライブ】",
-        "video_id": "UevNUaXWlXk"
-    },
-    {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -155,9 +137,9 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/phSJXcO-D-k/maxresdefault_live.jpg",
-        "timestamp": 1791152139,
+        "timestamp": null,
         "title": "【雑談】おはよ！10月になりまして。【緋月ゆい/ネオポルテ】",
         "video_id": "phSJXcO-D-k"
     },
@@ -173,10 +155,19 @@
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/phSJXcO-D-k/maxresdefault_live.jpg",
-        "timestamp": 1791152139,
+        "timestamp": null,
         "title": "【雑談】おはよ！10月になりまして。【緋月ゆい/ネオポルテ】",
         "video_id": "phSJXcO-D-k"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCMwGHR0BTZuLsmjY_NT5Pwg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8IjJlC5iaVo/maxresdefault_live.jpg",
+        "timestamp": 1791160200,
+        "title": "【Clair Obscur: Expedition 33】Time To Check Answers...?【#6】",
+        "video_id": "8IjJlC5iaVo"
     }
 ]
