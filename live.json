@@ -18,15 +18,6 @@
         "video_id": "hSJKa-b1VpM"
     },
     {
-        "channel": "https://www.youtube.com/@TsunomakiWatame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YdWKF9y7hUI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【リスポーン!!先行配信待機枠】お喋りしながら正座待機！！！【角巻わため/ホロライブ４期生】",
-        "video_id": "YdWKF9y7hUI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -56,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yUsPfDw6hEw/maxresdefault_live.jpg",
-        "timestamp": 1791327600,
+        "timestamp": null,
         "title": "【hololive Dreams】dreams of gigi murin #calliolive #holodori",
         "video_id": "yUsPfDw6hEw"
     },
@@ -83,29 +74,11 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/nUYSD8jXufM/maxresdefault_live.jpg",
-        "timestamp": 1791327600,
+        "timestamp": null,
         "title": "【hololive Dreams】PLAYING WITH A CELEBRITY!!! @MoriCalliope #holodori",
         "video_id": "nUYSD8jXufM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/K34u3EQ6ayw/maxresdefault_live.jpg",
-        "timestamp": 1791324000,
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY4🎣【風真いろは/ホロライブ】",
-        "video_id": "K34u3EQ6ayw"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lHyrWRVG-CE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【メタファー：リファンタジオ】#15 | 完全初見！仲間も揃い、終盤が近付く。【緋月ゆい/ネオポルテ】※ネタバレあり",
-        "video_id": "lHyrWRVG-CE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
@@ -115,15 +88,6 @@
         "timestamp": 1791338400,
         "title": "【Dressmaker】 Pt.6: MAKING DRESSES FOR CLIENTS SO THAT WE CAN PROGRESS THE STORY 【Kureiji Ollie】",
         "video_id": "59Pbq66VTBw"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lHyrWRVG-CE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【メタファー：リファンタジオ】#15 | 完全初見！仲間も揃い、終盤が近付く。【緋月ゆい/ネオポルテ】※ネタバレあり",
-        "video_id": "lHyrWRVG-CE"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
@@ -196,5 +160,23 @@
         "timestamp": 1791352800,
         "title": "【hololive Dreams】COMPLETING GOLD CROWN FISH! w/ Raora\u0026#39;s luck🎣👑【#holodori】",
         "video_id": "w8YJY2D608E"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/it7I4rT8pzg/maxresdefault_live.jpg",
+        "timestamp": 1791360000,
+        "title": "【 タンポポは耐える。 】リスポーン!!したらタンポポになっていた件【角巻わため/ホロライブ４期生】",
+        "video_id": "it7I4rT8pzg"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OI3C8844QuU/maxresdefault_live.jpg",
+        "timestamp": 1791342000,
+        "title": "【#ホロドリ 】お昼のホロドリ！！新エリアクリア目指してまったり～！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "OI3C8844QuU"
     }
 ]
