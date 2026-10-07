@@ -117,15 +117,6 @@
         "video_id": "BeV8rpM7ngw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ADkpEXnod50/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ】深夜釣り配信📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "ADkpEXnod50"
-    },
-    {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -164,29 +155,20 @@
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OX1bhEocnPI/maxresdefault_live.jpg",
-        "timestamp": 1791401400,
+        "timestamp": null,
         "title": "【DYNASTY WARRIORS 3 REMASTERED】this is the lubu part【Dokibird】",
         "video_id": "OX1bhEocnPI"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/OX1bhEocnPI/maxresdefault_live.jpg",
-        "timestamp": 1791401400,
+        "timestamp": null,
         "title": "【DYNASTY WARRIORS 3 REMASTERED】this is the lubu part【Dokibird】",
         "video_id": "OX1bhEocnPI"
-    },
-    {
-        "avatar": "https://static-cdn.jtvnw.net/jtv_user_pictures/5afa9076-00a3-404c-b1b9-c9b422c542f3-profile_image-300x300.png",
-        "channel": "https://www.twitch.tv/kotonoha_yukino_",
-        "platform": "twitch",
-        "status": "LIVE",
-        "thumbnail": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kotonoha_yukino_-640x360.jpg",
-        "timestamp": 1791394745.3821192,
-        "title": "【ASMR/黒3Dio】今日も1日おつかれさまなのじゃ。【囁き/タッピング/耳塞ぎ/梵天/耳はむ】 | Streaming asmr."
     },
     {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
@@ -196,5 +178,32 @@
         "timestamp": 1791421200,
         "title": "【hololive Dreams ホロライブドリームス】Fishing? Splash Ball?【hololive holoro | Anya Melfissa】",
         "video_id": "WxEXqVgvrJI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/yVYyxLL9iUs/maxresdefault_live.jpg",
+        "timestamp": 1791421200,
+        "title": "【hololive Dreams】Daily holodori... #holodori #ホロドリ",
+        "video_id": "yVYyxLL9iUs"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_raorapanthera",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/a8oB8nGJRbM/maxresdefault_live.jpg",
+        "timestamp": 1791468000,
+        "title": "【NEVER HAPPENED】PONTHERA STRIKES AGAIN",
+        "video_id": "a8oB8nGJRbM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCwL7dgTxKo8Y4RFIKWaf8gA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/EcpDBWl_kd4/maxresdefault_live.jpg",
+        "timestamp": 1791487800,
+        "title": "【同時視聴】『機動戦士ガンダムSEED FREEDOM ZERO』最新情報番組 同時視聴！【荒咬オウガ /ホロスターズ】",
+        "video_id": "EcpDBWl_kd4"
     }
 ]
