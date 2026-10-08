@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/pvoF6UyXYNI/maxresdefault_live.jpg",
-        "timestamp": 1791417600,
+        "timestamp": null,
         "title": "【ZELDA: OCARINA OF TIME】tater wemple (part 6) #calliolive",
         "video_id": "pvoF6UyXYNI"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/bxPTC-TCHQo/maxresdefault_live.jpg",
-        "timestamp": 1791421200,
+        "timestamp": null,
         "title": "【Five Nights at Freddy\u0026#39;s: Security Breach】Now with monitoring heart rate",
         "video_id": "bxPTC-TCHQo"
     },
@@ -110,18 +110,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/BeV8rpM7ngw/maxresdefault_live.jpg",
-        "timestamp": 1791421200,
+        "timestamp": null,
         "title": "【RISE OF THE RŌNIN】i forge my own way of the sword🐾🩵 【FUWAWA SOLO】",
         "video_id": "BeV8rpM7ngw"
     },
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/8BIknNqUUAY/maxresdefault_live.jpg",
-        "timestamp": 1791421200,
+        "timestamp": null,
         "title": "【朝ドリ#4】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
         "video_id": "8BIknNqUUAY"
     },
@@ -153,38 +153,20 @@
         "video_id": "VcPyujEw_xY"
     },
     {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OX1bhEocnPI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DYNASTY WARRIORS 3 REMASTERED】this is the lubu part【Dokibird】",
-        "video_id": "OX1bhEocnPI"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/OX1bhEocnPI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DYNASTY WARRIORS 3 REMASTERED】this is the lubu part【Dokibird】",
-        "video_id": "OX1bhEocnPI"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/WxEXqVgvrJI/maxresdefault_live.jpg",
-        "timestamp": 1791421200,
+        "timestamp": null,
         "title": "【hololive Dreams ホロライブドリームス】Fishing? Splash Ball?【hololive holoro | Anya Melfissa】",
         "video_id": "WxEXqVgvrJI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/yVYyxLL9iUs/maxresdefault_live.jpg",
-        "timestamp": 1791421200,
+        "timestamp": null,
         "title": "【hololive Dreams】Daily holodori... #holodori #ホロドリ",
         "video_id": "yVYyxLL9iUs"
     },
@@ -205,5 +187,23 @@
         "timestamp": 1791487800,
         "title": "【同時視聴】『機動戦士ガンダムSEED FREEDOM ZERO』最新情報番組 同時視聴！【荒咬オウガ /ホロスターズ】",
         "video_id": "EcpDBWl_kd4"
+    },
+    {
+        "channel": "https://www.youtube.com/@Robocosan",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/hjl8mph5PX8/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【  ＃ホロドリ 】マウスで釣りになれるお時間でし【ホロライブ/ ロボ子さん 】",
+        "video_id": "hjl8mph5PX8"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCTvHWSfBZgtxE4sILOaurIQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/uDLdE8UY6f0/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive Dreams】little bit of trolling #holodori #ホロドリ",
+        "video_id": "uDLdE8UY6f0"
     }
 ]
