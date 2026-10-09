@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iZKj-rHFZIo/maxresdefault_live.jpg",
-        "timestamp": 1791547200,
-        "title": "【hololive Dreams】 DREAMS RIDING ON!! #holodori #ホロドリ 【Kureiji Ollie】",
-        "video_id": "iZKj-rHFZIo"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -16,15 +7,6 @@
         "timestamp": 1791552600,
         "title": "【#1】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有※ネタバレあり【水宮枢／ホロライブ】",
         "video_id": "9FpDYuWXTgQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCENwRMx5Yh42zWpzURebzTw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/sQlSXKR3uKE/maxresdefault_live.jpg",
-        "timestamp": 1791525600,
-        "title": "【duolingo】한국어 공부 방송！２！",
-        "video_id": "sQlSXKR3uKE"
     },
     {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
@@ -47,11 +29,11 @@
     {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SF0o6dmxUBU/maxresdefault_live.jpg",
-        "timestamp": 1791518400,
-        "title": "【妹に運転を教える】ゴールドペーパードライバーの俺が【夕刻ロベル/ホロスターズ】",
-        "video_id": "SF0o6dmxUBU"
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3Yq9HAafSuc/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【デス桃太郎】どういう！？【夕刻ロベル/ホロスターズ】",
+        "video_id": "3Yq9HAafSuc"
     },
     {
         "channel": "https://www.youtube.com/@Robocosan",
@@ -72,15 +54,6 @@
         "video_id": "rYAixab3HZ0"
     },
     {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/cZBUJNRvNBU/maxresdefault_live.jpg",
-        "timestamp": 1791511200,
-        "title": "【#ホロドリ 】オリー先輩とサシ初コラボ！！  【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "cZBUJNRvNBU"
-    },
-    {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -88,33 +61,6 @@
         "timestamp": 1791556200,
         "title": "【 誕生日カウントダウン 】んなたんの誕生日きちゃああああああ！！！🍰【姫森ルーナ/ホロライブ】",
         "video_id": "-hNSc-IiEsI"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tqsVHLKW0dk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ACE COMBAT 8】I won\u0026#39;t crash my plane【Dokibird】",
-        "video_id": "tqsVHLKW0dk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tqsVHLKW0dk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ACE COMBAT 8】I won\u0026#39;t crash my plane【Dokibird】",
-        "video_id": "tqsVHLKW0dk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/rGnmZaFAu-0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Dragon\u0026#39;s Dogma 2: Dark Arisen】The Return of Chadseki #DD2DA #sponsored",
-        "video_id": "rGnmZaFAu-0"
     },
     {
         "channel": "https://www.youtube.com/@AIChannel",
@@ -151,5 +97,122 @@
         "timestamp": 1791549000,
         "title": "【バイオハザード RE:4】完全初見バイオ４！ その２【 #奏手イヅル 】",
         "video_id": "UD56nY5TBCM"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/QTZ4dWHpLy0/maxresdefault_live.jpg",
+        "timestamp": 1791536400,
+        "title": "【SPAGHET】まつりちゃんからスパゲッティの宅配きちゃ🍝✨【白銀ノエル/ホロライブ】",
+        "video_id": "QTZ4dWHpLy0"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6trhkD766WA/maxresdefault_live.jpg",
+        "timestamp": 1791601200,
+        "title": "ソロイベント『閃響』次回販売は10/10～✨️※詳細は概要欄",
+        "video_id": "6trhkD766WA"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6trhkD766WA/maxresdefault_live.jpg",
+        "timestamp": 1791601200,
+        "title": "ソロイベント『閃響』次回販売は10/10～✨️※詳細は概要欄",
+        "video_id": "6trhkD766WA"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Fm6BeAZhWYU/maxresdefault_live.jpg",
+        "timestamp": 1791550800,
+        "title": "【配信予定】なにする？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "Fm6BeAZhWYU"
+    },
+    {
+        "channel": "https://www.youtube.com/@TodorokiHajime",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/10RADClbBWA/maxresdefault_live.jpg",
+        "timestamp": 1791554400,
+        "title": "【】はいしんよてい【轟はじめ/ホロライブReGLOSS】",
+        "video_id": "10RADClbBWA"
+    },
+    {
+        "channel": "https://www.youtube.com/@HakuiKoyori",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tvtpfOGMVJc/maxresdefault_live.jpg",
+        "timestamp": 1791532800,
+        "title": "【 #ホロドリ 】新水着イベント！スコアチャレンジで高得点を出せ！「ラミィズバリバリワークアウト」編【博衣こより/ホロライブ】",
+        "video_id": "tvtpfOGMVJc"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kUf3E7fz8FQ/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 #ホロドリ 】ビンゴ埋めないと…でも釣りも…【常闇トワ/ホロライブ】",
+        "video_id": "kUf3E7fz8FQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jYzFoTmaIHM/maxresdefault_live.jpg",
+        "timestamp": 1791552600,
+        "title": "【hololive Dreams】mantacademic.......【#holodori】",
+        "video_id": "jYzFoTmaIHM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChgTyjG-pdNvxxhdsXfHQ5Q",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/knzIO0N1jTk/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "Theodora More Paralogues \u0026amp; Official Matches in Fire Emblem: Fortune\u0026#39;s Weave【Pavolia Reine/hololive】",
+        "video_id": "knzIO0N1jTk"
+    },
+    {
+        "channel": "https://www.youtube.com/@RindoChihaya",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ry3tUlLc7ro/maxresdefault_live.jpg",
+        "timestamp": 1791552600,
+        "title": "【トップガン同時視聴】よていち【#輪堂千速 / #hololive #FLOWGLOW 】",
+        "video_id": "Ry3tUlLc7ro"
+    },
+    {
+        "channel": "https://www.youtube.com/@FinglaGrowl",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wno0jtHOoB0/maxresdefault_live.jpg",
+        "timestamp": 1791532800,
+        "title": "【#鬼武者wayofthesword  】#05 這週加班的怨氣，就靠鬼武者來化解了!!!!!【#ゲーム個人勢 / Fingla】",
+        "video_id": "wno0jtHOoB0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCyx6GulFetGN9I8gvBsy_Xw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wno0jtHOoB0/maxresdefault_live.jpg",
+        "timestamp": 1791532800,
+        "title": "【#鬼武者wayofthesword  】#05 這週加班的怨氣，就靠鬼武者來化解了!!!!!【#ゲーム個人勢 / Fingla】",
+        "video_id": "wno0jtHOoB0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lPOYqayF38A/maxresdefault_live.jpg",
+        "timestamp": 1791547200,
+        "title": "【 #holoctober 】DAY 9 : Maid【 iofi / hololive】",
+        "video_id": "lPOYqayF38A"
     }
 ]
