@@ -72,24 +72,6 @@
         "video_id": "6trhkD766WA"
     },
     {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Fm6BeAZhWYU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロARK】初めてのホロ鯖ARK！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "Fm6BeAZhWYU"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/tqzLShTKJkk/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "ホロ鯖ARKきｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "tqzLShTKJkk"
-    },
-    {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -128,9 +110,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/4I9tJTc3Ye4/maxresdefault_live.jpg",
-        "timestamp": 1791583200,
+        "timestamp": null,
         "title": "【#ホロドリ】朝活☀いったん餌集めをしようじゃないか【風真いろは/ホロライブ】",
         "video_id": "4I9tJTc3Ye4"
     },
@@ -142,15 +124,6 @@
         "timestamp": 1791637200,
         "title": "【 ＃ホロドリ 】＃ろぼあず でポカジャンがっぽがっぽ～！！ホロメン乱入凸◎【ホロライブ/ ロボ子さん 】",
         "video_id": "Mre0PhrgLcE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/q0wYZa7eEb8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Freetalk】深夜にまったり悪魔のARKゲリラ雑談📣 【ホロライブ/癒月ちょこ】",
-        "video_id": "q0wYZa7eEb8"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
@@ -198,15 +171,6 @@
         "video_id": "owXTLT5H_TI"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jkTMEVknULE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Dragon\u0026#39;s Dogma 2: Dark Arisen】rising like a (dark) phoenix #kfp #キアライブ",
-        "video_id": "jkTMEVknULE"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -223,5 +187,23 @@
         "timestamp": 1791604800,
         "title": "【hololive Dreams】BACK TO POKAJAN! 2 hours before meeting 👊【#holodori】",
         "video_id": "r5dVVEZNP0Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCHsx4Hqa-1ORjQTh9TYDhww",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/XXlcblHYqtU/maxresdefault_live.jpg",
+        "timestamp": 1791651600,
+        "title": "【Dragon\u0026#39;s Dogma 2: Dark Arisen】get yourself a reliable Kiara pawn! #kfp #キアライブ",
+        "video_id": "XXlcblHYqtU"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lAywdxhTGKY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【UNARCHIVED】SMALL LITTLE KARAOKE",
+        "video_id": "lAywdxhTGKY"
     }
 ]
