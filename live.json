@@ -2,20 +2,11 @@
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/AndoHgj3x5s/maxresdefault_live.jpg",
-        "timestamp": 1791756000,
+        "timestamp": null,
         "title": "【#ホロドリ】朝活☀平日に備えよ！やせいのスプラッシュボールござる確率UP【風真いろは/ホロライブ】",
         "video_id": "AndoHgj3x5s"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShiroganeNoel",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ICaqu4k_ZIw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロ鯖ARK】まさかの二枠目太郎！【白銀ノエル/ホロライブ】",
-        "video_id": "ICaqu4k_ZIw"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -34,15 +25,6 @@
         "timestamp": null,
         "title": "【Fire Emblem: Fortune\u0026#39;s Weave】END OF LEDA PART 1 / START OF DIETRICH!? #kfp #キアライブ",
         "video_id": "aqUN0NpH1l0"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7oPO_-SK_CY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】DAY3🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "7oPO_-SK_CY"
     },
     {
         "channel": "https://www.youtube.com/@holoen_erbloodflame",
@@ -155,11 +137,11 @@
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dbMiQqtqP_Y/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロARK 】DAY3│原始生活セット🦖テイム！ドレイクリング冬ちゃんも！【ホロライブ/アキロゼ】",
-        "video_id": "dbMiQqtqP_Y"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/MxpAOjgZX3Y/maxresdefault_live.jpg",
+        "timestamp": 1791816000,
+        "title": "【#アキちょこナイパレ｜第55回】連絡は 電話派📞🆚メッセージ派💬 あなたはどっち？｜ちょこのお悩み相談室～深夜のひとくちラジオ～",
+        "video_id": "MxpAOjgZX3Y"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
@@ -182,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/v49bZ8yH0I0/maxresdefault_live.jpg",
-        "timestamp": 1791757800,
+        "timestamp": null,
         "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
         "video_id": "v49bZ8yH0I0"
     },
@@ -241,5 +223,32 @@
         "timestamp": 1791797400,
         "title": "【 #スポソン歌枠リレー】スポーツの秋！歌の秋！【 獅子神レオナ┆Re:AcT】",
         "video_id": "ZspC9F4T6Lc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC727SQYUvx5pDDGQpTICNWg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/FEhTPVe_VtU/maxresdefault_live.jpg",
+        "timestamp": 1791777600,
+        "title": "【The Dandelion Endures. | タンポポは耐える。】But What Does It Endure?【hololive holoro | Anya Melfissa】",
+        "video_id": "FEhTPVe_VtU"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/f0yybBkE94g/maxresdefault_live.jpg",
+        "timestamp": 1791810000,
+        "title": "【雑談＆お礼】ラジオに出演してきた羊！今日はすーぱーちゃお礼！【角巻わため/ホロライブ４期生】",
+        "video_id": "f0yybBkE94g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-3pJ9S2Xtig/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "LTK League of Legends  始まったね。LTKサムネFakerが / アステル with ねすてぃー",
+        "video_id": "-3pJ9S2Xtig"
     }
 ]
