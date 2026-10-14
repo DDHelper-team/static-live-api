@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/d_RYISTapbo/maxresdefault_live.jpg",
-        "timestamp": 1791936000,
+        "timestamp": null,
         "title": "【ZELDA: OCARINA OF TIME】what a journey!!! (part 8) #calliolive",
         "video_id": "d_RYISTapbo"
     },
@@ -36,15 +36,6 @@
         "video_id": "1pmBfD131AY"
     },
     {
-        "channel": "https://www.youtube.com/@ShiroganeNoel",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/vG_eQdfuIPs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロ鯖ARK】もっと仲間を★増やし隊【白銀ノエル/ホロライブ】",
-        "video_id": "vG_eQdfuIPs"
-    },
-    {
         "channel": "https://www.youtube.com/@HealingCh",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -61,15 +52,6 @@
         "timestamp": 1791975600,
         "title": "靈異直播｜都市傳說與靈異直播！這樣的流量主題不能錯過的吧！#パラノーマル・ストリーミング【Healing希靈/VTuber】",
         "video_id": "bpy4noSfUbE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/voRNgChh-vI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY6🎣【風真いろは/ホロライブ】",
-        "video_id": "voRNgChh-vI"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -162,15 +144,6 @@
         "video_id": "y4TuxUICXIQ"
     },
     {
-        "channel": "https://www.youtube.com/@Robocosan",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/mSy7hgT9MtQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ＃ホロドリ 】朝活！ストーリーしつつも稼がなきゃ！【ホロライブ/ ロボ子さん 】",
-        "video_id": "mSy7hgT9MtQ"
-    },
-    {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -178,5 +151,14 @@
         "timestamp": 1791982800,
         "title": "【 #ホロ鯖ARK 】まったりひつじ参戦！大冒険はじまる？！【角巻わため/ホロライブ４期生】",
         "video_id": "-My48xXxdGI"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/c2YXDh6_NqA/maxresdefault_live.jpg",
+        "timestamp": 1791968400,
+        "title": "【ホロ鯖ARK】もっと仲間を★増やし隊(テリジノ、ワイバーン、スプリング編)【白銀ノエル/ホロライブ】",
+        "video_id": "c2YXDh6_NqA"
     }
 ]
