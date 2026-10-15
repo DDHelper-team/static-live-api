@@ -2,9 +2,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/t4b9y5XGlw8/maxresdefault_live.jpg",
-        "timestamp": 1792026000,
+        "timestamp": null,
         "title": "【hololive Dreams】rocking in with biboo today #calliolive #holodori",
         "video_id": "t4b9y5XGlw8"
     },
@@ -20,27 +20,27 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/w13xqPC1h1g/maxresdefault_live.jpg",
-        "timestamp": 1792026000,
+        "timestamp": null,
         "title": "【LEAGUE OF LEGENDS】WITH MORI CALLIOPE!! (REAL)(NOTCLICKBAIT) + ANNOUNCEMENT",
         "video_id": "w13xqPC1h1g"
     },
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JbVlx_55QRE/maxresdefault_live.jpg",
-        "timestamp": 1792022400,
+        "timestamp": null,
         "title": "【#ホロドリ 】おはよう！お仕事前にホロドリ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
         "video_id": "JbVlx_55QRE"
     },
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/7kDvAsFbW2E/maxresdefault_live.jpg",
-        "timestamp": 1792026000,
+        "timestamp": null,
         "title": "【HOLOLIVE DREAMS】omg mori calliope from holodori #holodori",
         "video_id": "7kDvAsFbW2E"
     },
@@ -56,29 +56,11 @@
     {
         "channel": "https://www.youtube.com/@IsakiRiona",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/uH9AFj1qbyA/maxresdefault_live.jpg",
-        "timestamp": 1792026000,
+        "timestamp": null,
         "title": "【朝ドリ#7】新エリア遊んでいく❤ビンゴも埋めたい・・！【ホロライブ  響咲リオナ】#ホロドリ",
         "video_id": "uH9AFj1qbyA"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lJvTYEQF11c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ANTIVIRUS SURVIVORS 2003 PROFESSIONAL】Did you pay for winrar【Dokibird】",
-        "video_id": "lJvTYEQF11c"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lJvTYEQF11c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ANTIVIRUS SURVIVORS 2003 PROFESSIONAL】Did you pay for winrar【Dokibird】",
-        "video_id": "lJvTYEQF11c"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -106,5 +88,23 @@
         "timestamp": 1792065600,
         "title": "【ARKNIGHTS: ENDFIELD】goodbyefield...going on a breakfield... lastfieldforawhilefield!✨ #kfp",
         "video_id": "l6vV2reCUeE"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/thbiFfyMn3g/maxresdefault_live.jpg",
+        "timestamp": 1792069200,
+        "title": "【 #ホロ鯖ARK 】雪だるまわためが行く！気ままなARK大冒険の旅🦖【角巻わため/ホロライブ４期生】",
+        "video_id": "thbiFfyMn3g"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/8pF4qHcshDc/maxresdefault_live.jpg",
+        "timestamp": 1792065600,
+        "title": "#3【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
+        "video_id": "8pF4qHcshDc"
     }
 ]
