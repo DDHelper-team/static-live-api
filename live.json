@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/tvB4bZerS_8/maxresdefault_live.jpg",
-        "timestamp": 1792112400,
+        "timestamp": null,
         "title": "【Misty Mountain Gaming Collab】WE\u0026#39;RE COOKING UP SOME DICE! #sponsored 【HANDCAM】",
         "video_id": "tvB4bZerS_8"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/TyIpkqjl7mU/maxresdefault_live.jpg",
-        "timestamp": 1792112400,
+        "timestamp": null,
         "title": "【hololive Dreams】bothering her #calliolive #holodori",
         "video_id": "TyIpkqjl7mU"
     },
@@ -117,15 +117,6 @@
         "video_id": "ViboYefrD48"
     },
     {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/9E92-AwEBfQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ 】おはよう！ホロドリみんなで遊ぼ！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "9E92-AwEBfQ"
-    },
-    {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +133,41 @@
         "timestamp": 1792148400,
         "title": "【hololive Dreams #ホロドリ釣り名人】GDAY MATE ITS A FISHING TOURNAMENT!!! LUCK, GIMME GIMME!!【#holodori】",
         "video_id": "pcSdYxScZbo"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/9sjXc6K-R24/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive Dreams】MORI CALLIOPE REAL #holodori",
+        "video_id": "9sjXc6K-R24"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gMNqo-VKOO4/maxresdefault_live.jpg",
+        "timestamp": 1792148400,
+        "title": "iPhone Duo争奪戦【ホロライブ/兎田ぺこら】",
+        "video_id": "gMNqo-VKOO4"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nMl9IXxPhDU/maxresdefault_live.jpg",
+        "timestamp": 1792148100,
+        "title": "【#ホロドリ釣り名人】だからやってみろ、必ず目標を達成できる！【獅白ぼたん/ホロライブ】",
+        "video_id": "nMl9IXxPhDU"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/OKhDdvmQocg/maxresdefault_live.jpg",
+        "timestamp": 1792141200,
+        "title": "【カメラ】11月発売のホロライブウエハースを開封するよ～！ヴィヴィのカード出るかな！？【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "OKhDdvmQocg"
     }
 ]
