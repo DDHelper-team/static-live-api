@@ -38,9 +38,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/mrXHDxX_ylM/maxresdefault_live.jpg",
-        "timestamp": 1792184400,
+        "timestamp": null,
         "title": "【TRAILS IN THE SKY: 1ST CHAPTER】my estelle.........",
         "video_id": "mrXHDxX_ylM"
     },
@@ -52,24 +52,6 @@
         "timestamp": 1792234800,
         "title": "【ACE COMBAT 8: WINGS OF THEVE】#7 はじめて空に出ます！！！！！※ネタバレあり【#輪堂千速 / #hololive  #FLOWGLOW 】",
         "video_id": "-nP_op2vyOY"
-    },
-    {
-        "channel": "https://www.youtube.com/@AkiRosenthal",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1rmBUIj_-ss/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロ鯖ARK 】DAY7│めちゃでか拠点作り！テイムも行きたい【ホロライブ/アキロゼ】",
-        "video_id": "1rmBUIj_-ss"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/AeGUXowhpOE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】DAY7🦖きｔらああああああああああああああああああああ！！！【ホロライブ/兎田ぺこら】",
-        "video_id": "AeGUXowhpOE"
     },
     {
         "channel": "https://www.youtube.com/@FinglaGrowl",
@@ -90,15 +72,6 @@
         "video_id": "1dQVrqfN-7Q"
     },
     {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/X2fz_dxm9OU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌】深夜のピアノ弾き語り🔰【緋月ゆい/ネオポルテ】",
-        "video_id": "X2fz_dxm9OU"
-    },
-    {
         "channel": "https://www.youtube.com/@AZKi",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,15 +79,6 @@
         "timestamp": 1792188000,
         "title": "【#ホロドリ】あずいろの釣り大会後夜祭（朝）🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
         "video_id": "RtulOXOcyUE"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/X2fz_dxm9OU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【歌】深夜のピアノ弾き語り🔰【緋月ゆい/ネオポルテ】",
-        "video_id": "X2fz_dxm9OU"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -189,15 +153,6 @@
         "video_id": "Ang9xA90VFE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/W_CZEX0bmIU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】ARK上陸７日目！ゲリラパイロメイン妊娠なのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "W_CZEX0bmIU"
-    },
-    {
         "channel": "https://www.youtube.com/@Patra_Suou",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -205,5 +160,41 @@
         "timestamp": 1792209600,
         "title": "【セプテントリオン】伝説のパニックゲー？！沈みゆく豪華客船から脱出する！【周防パトラ】",
         "video_id": "CTC9bgdA5OI"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0aO8zxPn6cQ/maxresdefault_live.jpg",
+        "timestamp": 1792191600,
+        "title": "【#ホロドリ 】おはよう！みんなと楽しむホロドリ！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
+        "video_id": "0aO8zxPn6cQ"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiranuiFlare",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/gBUFIQ8G4sg/maxresdefault_live.jpg",
+        "timestamp": 1792195200,
+        "title": "【RATATAN】ローグライクなリズムゲー！ｽﾞﾝﾀｶﾀﾀｯﾀｱｲｱｲｻｰ【不知火フレア/ホロライブ】※ネタバレ注意",
+        "video_id": "gBUFIQ8G4sg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/e9uHL8J6MKE/maxresdefault_live.jpg",
+        "timestamp": 1792195200,
+        "title": "【TENEBRIS SOMNIA】im still eepy【Dokibird】",
+        "video_id": "e9uHL8J6MKE"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/e9uHL8J6MKE/maxresdefault_live.jpg",
+        "timestamp": 1792195200,
+        "title": "【TENEBRIS SOMNIA】im still eepy【Dokibird】",
+        "video_id": "e9uHL8J6MKE"
     }
 ]
