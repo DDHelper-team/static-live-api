@@ -29,20 +29,11 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JXx5vnvdjvQ/maxresdefault_live.jpg",
-        "timestamp": 1792270800,
+        "timestamp": null,
         "title": "【CRIME SCENE CLEANER】im da cleaner",
         "video_id": "JXx5vnvdjvQ"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4dInEAsyoyM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARK / 公民館ARK 】 凄まじい速度で成長 w/ けっつん 卯埜らび 日向まる【 #奏手イヅル 】",
-        "video_id": "4dInEAsyoyM"
     },
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
@@ -79,15 +70,6 @@
         "timestamp": 1792274400,
         "title": "【#ホロドリ】朝活☀#スプボの時間だよ🎣【風真いろは/ホロライブ】",
         "video_id": "dkSBw7TZdPQ"
-    },
-    {
-        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HdEGLyy4y4c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【GUERILLA】CAN WE WIN AND GET LARA TO A HOSPITAL!?!?!?",
-        "video_id": "HdEGLyy4y4c"
     },
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
@@ -133,5 +115,32 @@
         "timestamp": 1792332000,
         "title": "【UNDERTALE】I am really not ready for this【Genocide Run】",
         "video_id": "GTmgp_nFrXM"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z3bJLo46bok/maxresdefault_live.jpg",
+        "timestamp": 1792301400,
+        "title": "【競馬】GI🐴秋華賞2026当てよう！【緋月ゆい/ネオポルテ】",
+        "video_id": "Z3bJLo46bok"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Z3bJLo46bok/maxresdefault_live.jpg",
+        "timestamp": 1792301400,
+        "title": "【競馬】GI🐴秋華賞2026当てよう！【緋月ゆい/ネオポルテ】",
+        "video_id": "Z3bJLo46bok"
+    },
+    {
+        "channel": "https://www.youtube.com/@TakaneLui",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3Czc-bPlFR8/maxresdefault_live.jpg",
+        "timestamp": 1792301400,
+        "title": "【 秋華賞 】牝馬三冠最終戦！！この秋の女王はどの馬に・・・！？【鷹嶺ルイ/ホロライブ】",
+        "video_id": "3Czc-bPlFR8"
     }
 ]
