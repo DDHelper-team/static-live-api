@@ -45,24 +45,6 @@
         "video_id": "gX9AoYgK46A"
     },
     {
-        "channel": "https://www.youtube.com/@toritori1122",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qCVIBDAmj34/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【賽博朋克2077 EP01】突然決定開臺玩這個好玩游戲~ 【鴆咲 ToriTori】",
-        "video_id": "qCVIBDAmj34"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCIgThQA-Zdc-MILMwaJTHPw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/qCVIBDAmj34/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【賽博朋克2077 EP01】突然決定開臺玩這個好玩游戲~ 【鴆咲 ToriTori】",
-        "video_id": "qCVIBDAmj34"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -101,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/@AkiRosenthal",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eXp9OF4YbRw/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロ鯖ARK 】DAY10│ついにめちゃデカ拠点完成！凍土の洞窟へ！【ホロライブ/アキロゼ】",
-        "video_id": "eXp9OF4YbRw"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/C8W03Z6zWFk/maxresdefault_live.jpg",
+        "timestamp": 1792420800,
+        "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
+        "video_id": "C8W03Z6zWFk"
     },
     {
         "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
@@ -115,5 +97,32 @@
         "timestamp": 1792360800,
         "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY8🎣【風真いろは/ホロライブ】",
         "video_id": "QPinYOs0DfE"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ee5Hcmx2oX8/maxresdefault_live.jpg",
+        "timestamp": 1792416600,
+        "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢／ホロライブ】",
+        "video_id": "Ee5Hcmx2oX8"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/4k5k9SkR25c/maxresdefault_live.jpg",
+        "timestamp": 1792422000,
+        "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...！今宵も気ままなARK生活🦕【角巻わため/ホロライブ４期生】",
+        "video_id": "4k5k9SkR25c"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IRtl8s__ptk/maxresdefault_live.jpg",
+        "timestamp": 1792396800,
+        "title": "【ホロ鯖ARK】今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
+        "video_id": "IRtl8s__ptk"
     }
 ]
