@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/JNmLGWG882g/maxresdefault_live.jpg",
-        "timestamp": 1792362600,
+        "timestamp": null,
         "title": "【#朝ミオ 】月曜日だよ～～！おはみぉーん！",
         "video_id": "JNmLGWG882g"
     },
@@ -88,15 +88,6 @@
         "timestamp": 1792420800,
         "title": "【#アキちょこナイパレ｜第56回】タイムマシンで行くなら過去🆚未来 あなたはどっち？｜シスターローズの懺悔室 🌹～深夜のひとくちラジオ～",
         "video_id": "C8W03Z6zWFk"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/QPinYOs0DfE/maxresdefault_live.jpg",
-        "timestamp": 1792360800,
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY8🎣【風真いろは/ホロライブ】",
-        "video_id": "QPinYOs0DfE"
     },
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
@@ -128,19 +119,37 @@
     {
         "channel": "https://www.youtube.com/@Hizuki_Yui_",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jIpqGm1kvYI/maxresdefault_live.jpg",
-        "timestamp": 1792360801,
+        "timestamp": null,
         "title": "【雑談】おはよ！3時起きしちゃった🐣【緋月ゆい/ネオポルテ】",
         "video_id": "jIpqGm1kvYI"
     },
     {
         "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jIpqGm1kvYI/maxresdefault_live.jpg",
-        "timestamp": 1792360801,
+        "timestamp": null,
         "title": "【雑談】おはよ！3時起きしちゃった🐣【緋月ゆい/ネオポルテ】",
         "video_id": "jIpqGm1kvYI"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/T6_IJ4YMW5k/maxresdefault_live.jpg",
+        "timestamp": 1792450800,
+        "title": "【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN\u0026#39;T WAIT TO (finale) #calliolive",
+        "video_id": "T6_IJ4YMW5k"
+    },
+    {
+        "channel": "https://www.youtube.com/@KikiraraVivi",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/zvMJdhNvlMI/maxresdefault_live.jpg",
+        "timestamp": 1792368000,
+        "title": "【#ホロドリ 】おはよう！魚コンプ目指して！！【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW　　】",
+        "video_id": "zvMJdhNvlMI"
     }
 ]
