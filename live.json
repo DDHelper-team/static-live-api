@@ -54,20 +54,11 @@
         "video_id": "7eTWm1dCV7Q"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dkSBw7TZdPQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ】朝活☀#スプボの時間だよ🎣【風真いろは/ホロライブ】",
-        "video_id": "dkSBw7TZdPQ"
-    },
-    {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/O3JHLJzRtGY/maxresdefault_live.jpg",
-        "timestamp": 1792285200,
+        "timestamp": null,
         "title": "【朝活雑談】このあとホロライブ甲子園2026本戦！！ドキドキだけどさんまありまっする💪🔥【白銀ノエル/ホロライブ】",
         "video_id": "O3JHLJzRtGY"
     },
@@ -133,5 +124,14 @@
         "timestamp": 1792301400,
         "title": "【 秋華賞 】牝馬三冠最終戦！！この秋の女王はどの馬に・・・！？【鷹嶺ルイ/ホロライブ】",
         "video_id": "3Czc-bPlFR8"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kDDUFiCKD3M/maxresdefault_live.jpg",
+        "timestamp": 1792288800,
+        "title": "【 #ホロ鯖ARK 】その８｜流石に今日はパイロ‼️【常闇トワ/ホロライブ】",
+        "video_id": "kDDUFiCKD3M"
     }
 ]
