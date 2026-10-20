@@ -146,9 +146,9 @@
     {
         "channel": "https://www.youtube.com/@Robocosan",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/30XsUN-59ys/maxresdefault_live.jpg",
-        "timestamp": 1792486800,
+        "timestamp": null,
         "title": "【 ＃ホロドリ 】釣りの図鑑を埋めるにはどうしたらいいいいい【ホロライブ/ ロボ子さん 】",
         "video_id": "30XsUN-59ys"
     },
@@ -178,5 +178,50 @@
         "timestamp": 1792555200,
         "title": "【魔法少女ノ魔女裁判】初見で挑む『魔法少女ノ魔女裁判』3日目【夕刻ロベル/ホロスターズ】※ネタバレあり",
         "video_id": "ht6jBBQ4n3o"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/kHEdoPQicgM/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【TCG CARD SHOP SIM】I AM RICH【 iofi / hololive】",
+        "video_id": "kHEdoPQicgM"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/jnMODXBj9iE/maxresdefault_live.jpg",
+        "timestamp": 1792526400,
+        "title": "【hololive Dreams】CCGG HOLODORI #holodori",
+        "video_id": "jnMODXBj9iE"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/UlWtKMIFG1g/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【ホロ鯖ARK】本当に今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
+        "video_id": "UlWtKMIFG1g"
+    },
+    {
+        "channel": "https://www.youtube.com/@MomosuzuNene",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/wKIDLO8ZIOs/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 #ホロ鯖ARK 】なんか自慢できることしたい！！！！内容募集中【 桃鈴ねね / hololive 】",
+        "video_id": "wKIDLO8ZIOs"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/alUDRkSYyc8/maxresdefault_live.jpg",
+        "timestamp": 1792497600,
+        "title": "【タンポポは耐える。】ころねのPCも耐えてくれ。",
+        "video_id": "alUDRkSYyc8"
     }
 ]
