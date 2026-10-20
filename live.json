@@ -20,20 +20,11 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/jnMODXBj9iE/maxresdefault_live.jpg",
-        "timestamp": 1792526400,
+        "timestamp": null,
         "title": "【hololive Dreams】CCGG HOLODORI #holodori",
         "video_id": "jnMODXBj9iE"
-    },
-    {
-        "channel": "https://www.youtube.com/@ShiroganeNoel",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/UlWtKMIFG1g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロ鯖ARK】本当に今度こそ拠点を★ひろげ隊【白銀ノエル/ホロライブ】",
-        "video_id": "UlWtKMIFG1g"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
@@ -74,11 +65,11 @@
     {
         "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/f3s7xRhIZmw/maxresdefault_live.jpg",
-        "timestamp": 1792522800,
-        "title": "【REBROADCAST】UNARCHIVED KARAOKE RERUN!!!",
-        "video_id": "f3s7xRhIZmw"
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/pPGahrMUZWY/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【HOLODORI】THE MASTER TAKES ON A NEW STUDENT",
+        "video_id": "pPGahrMUZWY"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -142,5 +133,14 @@
         "timestamp": 1792555200,
         "title": "【hololive Dreams】DAILY HOLODORI #holodori #ホロドリ",
         "video_id": "SKsBzv6XUsQ"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NwXvWnw7QPY/maxresdefault_live.jpg",
+        "timestamp": 1792537200,
+        "title": "【ACE COMBAT 8: WINGS OF THEVE】COPE AND THEVE",
+        "video_id": "NwXvWnw7QPY"
     }
 ]
