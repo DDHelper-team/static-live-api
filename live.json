@@ -18,22 +18,16 @@
         "video_id": "ht6jBBQ4n3o"
     },
     {
-        "channel": "https://www.youtube.com/@TsunomakiWatame",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/4k5k9SkR25c/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロ鯖ARK 】深夜に突如現れる雪ダルマントマン...！今宵も気ままなARK生活🦕【角巻わため/ホロライブ４期生】",
-        "video_id": "4k5k9SkR25c"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/T6_IJ4YMW5k/maxresdefault_live.jpg",
-        "timestamp": 1792450800,
-        "title": "【ZELDA: OCARINA OF TIME】oh boy!!!! I CAN\u0026#39;T WAIT TO (finale) #calliolive",
-        "video_id": "T6_IJ4YMW5k"
+        "status": "LOGIN_REQUIRED",
+        "thumbnail": "https://i.ytimg.com/vi//maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": [
+            "YouTube",
+            "YouTube",
+            "YouTube"
+        ]
     },
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
@@ -48,19 +42,22 @@
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/T99ShFJ2DXA/maxresdefault_live.jpg",
-        "timestamp": 1792447200,
-        "title": "【 #朝こよ 】3週連続告知アリ①周目‼️ホロ甲表彰式も⚾️火曜日の朝は朝こよ～！☀ #303 【博衣こより/hololive】",
-        "video_id": "T99ShFJ2DXA"
+        "thumbnail": "https://i.ytimg.com/vi/D4XfCKw3TOw/maxresdefault_live.jpg",
+        "timestamp": 1792490400,
+        "title": "【 #ホロ甲2026 】ホロ甲切り抜き鑑賞会⚾️打ち上げ！できたらこんこよ高校4年目後日談もやるかも⁉️【博衣こより/ホロライブ】",
+        "video_id": "D4XfCKw3TOw"
     },
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Jb3661juuz4/maxresdefault_live.jpg",
-        "timestamp": 1792450800,
-        "title": "My Cat Got Crushed by a Computer then Isekai\u0026#39;d to be a Typist 【Isekat】",
-        "video_id": "Jb3661juuz4"
+        "status": "LOGIN_REQUIRED",
+        "thumbnail": "https://i.ytimg.com/vi//maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": [
+            "YouTube",
+            "YouTube",
+            "YouTube"
+        ]
     },
     {
         "channel": "https://www.youtube.com/@JuufuuteiRaden",
@@ -126,15 +123,6 @@
         "video_id": "ZCb16LGdEM4"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/jP1u8rfEWJw/maxresdefault_live.jpg",
-        "timestamp": 1792447200,
-        "title": "【#ホロドリ】朝活☀#ござる金冠チャレンジ👑DAY9🎣【風真いろは/ホロライブ】",
-        "video_id": "jP1u8rfEWJw"
-    },
-    {
         "channel": "https://www.youtube.com/@HimemoriLuna",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -153,15 +141,6 @@
         "video_id": "CI5KKwUfKtM"
     },
     {
-        "channel": "https://www.youtube.com/@AkiRosenthal",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NTAafRzR9SE/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロ鯖ARK 】DAY11│設備のお引越し！なんかテイム【ホロライブ/アキロゼ】",
-        "video_id": "NTAafRzR9SE"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -169,5 +148,14 @@
         "timestamp": 1792501200,
         "title": "【インボギア】呪いのボードゲーム⁉️こ、こわくねーし✋【水宮枢／ホロライブ】",
         "video_id": "UTbW5ggmTTU"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/RCrquCVZPtM/maxresdefault_live.jpg",
+        "timestamp": 1792501200,
+        "title": "【 インボキア 】呪いのボードゲームのお時間です..............【角巻わため/ホロライブ４期生】",
+        "video_id": "RCrquCVZPtM"
     }
 ]
