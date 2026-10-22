@@ -1,19 +1,10 @@
 [
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1kPBkAmaHkA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DEADLOCK】green goblin mask calling to me DEADLOCK YOU WILL PLAY DEADLOCK",
-        "video_id": "1kPBkAmaHkA"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/YQu-0jotU0w/maxresdefault_live.jpg",
-        "timestamp": 1792623600,
+        "timestamp": null,
         "title": "Learning Japanese with Doujins【Studying】",
         "video_id": "YQu-0jotU0w"
     },
@@ -97,5 +88,23 @@
         "timestamp": 1792670400,
         "title": "#4【初見】『無職転生~異世界行ったら本気だす~』同時視聴【ホロライブ/兎田ぺこら】",
         "video_id": "t8q3XEmK0aM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/KviedHsy-8M/maxresdefault_live.jpg",
+        "timestamp": 1792641600,
+        "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
+        "video_id": "KviedHsy-8M"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/AqXLFyrg5XM/maxresdefault_live.jpg",
+        "timestamp": 1792663200,
+        "title": "【 #ホロ鯖かくれんぼ 】WHERE ARE MY KOHAI!?",
+        "video_id": "AqXLFyrg5XM"
     }
 ]
