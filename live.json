@@ -1,39 +1,12 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YQu-0jotU0w/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Learning Japanese with Doujins【Studying】",
-        "video_id": "YQu-0jotU0w"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0PrHh7I9NXY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MINECRAFT】added more mods【Dokibird】",
-        "video_id": "0PrHh7I9NXY"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/t06H4kEoFAc/maxresdefault_live.jpg",
-        "timestamp": 1792641600,
+        "timestamp": null,
         "title": "【勝利の女神:NIKKE】23話からストーリーを進めて行きたい男【夕刻ロベル/ホロスターズ】",
         "video_id": "t06H4kEoFAc"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/0PrHh7I9NXY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【MINECRAFT】added more mods【Dokibird】",
-        "video_id": "0PrHh7I9NXY"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
@@ -43,15 +16,6 @@
         "timestamp": 1792670400,
         "title": "【】【ホロライブ/大空スバル】",
         "video_id": "0cflsAhcWZM"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/lVXJOLiUX0c/maxresdefault_live.jpg",
-        "timestamp": 1792638000,
-        "title": "【#ホロドリ】昼活☀#ござる金冠チャレンジ👑DAY10🎣【風真いろは/ホロライブ】",
-        "video_id": "lVXJOLiUX0c"
     },
     {
         "channel": "https://www.youtube.com/@TanZ1001",
@@ -90,15 +54,6 @@
         "video_id": "t8q3XEmK0aM"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCjLEmnpCNeisMxy134KPwWw",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/KviedHsy-8M/maxresdefault_live.jpg",
-        "timestamp": 1792641600,
-        "title": "【hololive Dreams】Daily holodori #holodori #ホロドリ",
-        "video_id": "KviedHsy-8M"
-    },
-    {
         "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +61,32 @@
         "timestamp": 1792663200,
         "title": "【 #ホロ鯖かくれんぼ 】WHERE ARE MY KOHAI!?",
         "video_id": "AqXLFyrg5XM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Ccc3TOS2254/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【#ホロ鯖ARK】ARK上陸12日目！素材王、海賊船つくるのだ！【ホロライブ/癒月ちょこ】",
+        "video_id": "Ccc3TOS2254"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/IbY-7z30iTY/maxresdefault_live.jpg",
+        "timestamp": 1792717200,
+        "title": "Fish fear me but women want me 【GONE Fishing】",
+        "video_id": "IbY-7z30iTY"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/oton7UN0uxE/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【hololive Dreams】 DAILY HOLODORI  #holodori #ホロドリ 【Kureiji Ollie】",
+        "video_id": "oton7UN0uxE"
     }
 ]
