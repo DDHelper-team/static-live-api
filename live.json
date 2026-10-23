@@ -72,24 +72,6 @@
         "video_id": "9vDfgmig87M"
     },
     {
-        "channel": "https://www.youtube.com/@AZKi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3XASCt7gbRg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ】あずいろの釣り物語～完結編～🎣 #あずいろ朝活  hololive Dreams【ホロライブ / AZKi】",
-        "video_id": "3XASCt7gbRg"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC_vMYWcDjmfdpH6r4TTn1MQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/3gRKVX0rdzc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロドリ】#あずいろ で朝活🎣健康な1日のはじまりである【風真いろは/ホロライブ】",
-        "video_id": "3gRKVX0rdzc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCYz_5n-uDuChHtLo7My1HnQ",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -119,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6aCrhJAEPyk/maxresdefault_live.jpg",
-        "timestamp": 1792710000,
+        "timestamp": null,
         "title": "【ACE COMBAT 8: WINGS OF THEVE】BIBOO IMPRESSED",
         "video_id": "6aCrhJAEPyk"
     },
@@ -151,5 +133,23 @@
         "timestamp": 1792717200,
         "title": "【GONE Fishing】We\u0026#39;re Not Gone... Yet【hololive holoro | Anya Melfissa】",
         "video_id": "hfgBp-j5luU"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/S8G_wiWs2s0/maxresdefault_live.jpg",
+        "timestamp": 1792760400,
+        "title": "【RESIDENT EVIL REQUIEM】return to BRATTEA @HakosBaelz  [Spoilers Ahead]",
+        "video_id": "S8G_wiWs2s0"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/V9Evq2RBJ2A/maxresdefault_live.jpg",
+        "timestamp": 1792800000,
+        "title": "【SIGNALIS】remember (part 3) #calliolive",
+        "video_id": "V9Evq2RBJ2A"
     }
 ]
