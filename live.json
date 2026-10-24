@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/eiuX72ejH6g/maxresdefault_live.jpg",
-        "timestamp": 1792872000,
+        "timestamp": null,
         "title": "The Vanishing of Ethan Carter 【Powered by Polish Video Game Days】#PVGD #ad",
         "video_id": "eiuX72ejH6g"
     },
@@ -126,21 +126,21 @@
         "video_id": "6k859f_0dMg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zS6rVs3bpoA/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】ラグナロクで生きるARKその３【ホロライブ/白上フブキ】",
-        "video_id": "zS6rVs3bpoA"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/XMucA0iNX10/maxresdefault_live.jpg",
-        "timestamp": 1792873800,
-        "title": "【F1同時視聴】アメリカgp！早起きして予選！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
+        "timestamp": null,
+        "title": "【F1同時視聴】アメリカgp！早起きして予選！！！！！！！【#輪堂千速 / #FLOWGLOW 】",
         "video_id": "XMucA0iNX10"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShishiroBotan",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tFcJg5DfOpM/maxresdefault_live.jpg",
+        "timestamp": 1792929600,
+        "title": "【悪意 / Dread Neighbor】ししらみはアパートで一人暮らしをするそうです【雪花ラミィ・獅白ぼたん/ホロライブ】",
+        "video_id": "tFcJg5DfOpM"
     }
 ]
