@@ -47,11 +47,11 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/EwxON07swbU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#7】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-        "video_id": "EwxON07swbU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/_gUFvyYj3iE/maxresdefault_live.jpg",
+        "timestamp": 1792926000,
+        "title": "【 #ホロARK 】初心者がいく🔰恐竜捕まえてみたい🦖【水宮枢／ホロライブ】",
+        "video_id": "_gUFvyYj3iE"
     },
     {
         "channel": "https://www.youtube.com/@TsunomakiWatame",
@@ -83,11 +83,11 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/SK5denKc2rU/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ホロ鯖ARK】三度目の正直！拠点たつ？！今日は冒険にも行きたい予感！！【白銀ノエル/ホロライブ】",
-        "video_id": "SK5denKc2rU"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Xbk3-Pw-UXo/maxresdefault_live.jpg",
+        "timestamp": 1792890000,
+        "title": "【朝活雑談】久々にゆったりお喋りだあああ✨【白銀ノエル/ホロライブ】",
+        "video_id": "Xbk3-Pw-UXo"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -126,15 +126,6 @@
         "video_id": "6k859f_0dMg"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCOyYb1c43VlX9rc_lT6NKQw",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/D0GdYYHcoCc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "Memancing. Fishing. with Tim S.A.R. @sammybollivienn @sayaayaaulya",
-        "video_id": "D0GdYYHcoCc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg",
         "platform": "youtube",
         "status": "LIVE",
@@ -151,14 +142,5 @@
         "timestamp": 1792873800,
         "title": "【F1同時視聴】アメリカgp！早起きして予選！！！！！！！【#輪堂千速 / #hololivedev_is  #FLOWGLOW 】",
         "video_id": "XMucA0iNX10"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/iHzmEUgxcm0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】ARK上陸1４日目！線路作成するのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "iHzmEUgxcm0"
     }
 ]
