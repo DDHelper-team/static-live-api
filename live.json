@@ -11,9 +11,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-7351WjdU3M/maxresdefault_live.jpg",
-        "timestamp": 1792890000,
+        "timestamp": null,
         "title": "【BIG COLLAB】just some board games!! #calliolive",
         "video_id": "-7351WjdU3M"
     },
@@ -54,15 +54,6 @@
         "video_id": "_gUFvyYj3iE"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/eiuX72ejH6g/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "The Vanishing of Ethan Carter 【Powered by Polish Video Game Days】#PVGD #ad",
-        "video_id": "eiuX72ejH6g"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -74,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/Xbk3-Pw-UXo/maxresdefault_live.jpg",
-        "timestamp": 1792890000,
+        "timestamp": null,
         "title": "【朝活雑談】久々にゆったりお喋りだあああ✨【白銀ノエル/ホロライブ】",
         "video_id": "Xbk3-Pw-UXo"
     },
@@ -124,5 +115,14 @@
         "timestamp": 1792929600,
         "title": "【悪意 / Dread Neighbor】ししらみはアパートで一人暮らしをするそうです【雪花ラミィ・獅白ぼたん/ホロライブ】",
         "video_id": "tFcJg5DfOpM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/04r1RxO_CpY/maxresdefault_live.jpg",
+        "timestamp": 1792904400,
+        "title": "【菊花賞】2026年菊花賞で大勝する！！！！！！！！！！！ぺこ！【ホロライブ/兎田ぺこら】",
+        "video_id": "04r1RxO_CpY"
     }
 ]
