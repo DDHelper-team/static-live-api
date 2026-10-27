@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ATured4k3Jc/maxresdefault_live.jpg",
-        "timestamp": 1793134800,
+        "timestamp": null,
         "title": "Running For My Life Again 【Poppy Playtime Ch 4】",
         "video_id": "ATured4k3Jc"
     },
@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zLtDKYFdlhE/maxresdefault_live.jpg",
-        "timestamp": 1793134800,
+        "timestamp": null,
         "title": "【SC KETCHUP】chatting time #ad",
         "video_id": "zLtDKYFdlhE"
     },
@@ -97,5 +97,23 @@
         "timestamp": 1793181600,
         "title": "【 #ホロドリ 】ガチャ🌟はじたんなら天井行かない✋【水宮枢／ホロライブ】",
         "video_id": "_u-noAqX_Xk"
+    },
+    {
+        "channel": "https://www.youtube.com/@Hizuki_Yui_",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3C2f-gR1BHw/maxresdefault_live.jpg",
+        "timestamp": 1793160021,
+        "title": "【VALORANT】救世主くろむんきちゃ.ᐟ.ᐟ【緋月ゆい/ネオポルテ】",
+        "video_id": "3C2f-gR1BHw"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/3C2f-gR1BHw/maxresdefault_live.jpg",
+        "timestamp": 1793160021,
+        "title": "【VALORANT】救世主くろむんきちゃ.ᐟ.ᐟ【緋月ゆい/ネオポルテ】",
+        "video_id": "3C2f-gR1BHw"
     }
 ]
