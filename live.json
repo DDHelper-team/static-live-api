@@ -29,9 +29,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/hzxMTBKCHGo/maxresdefault_live.jpg",
-        "timestamp": 1793066400,
+        "timestamp": null,
         "title": "【PEAK】FIRST TIME COLLAB AND IT\u0026#39;S GONNA BE PEAK",
         "video_id": "hzxMTBKCHGo"
     },
@@ -81,15 +81,6 @@
         "video_id": "diZM4xN2vgY"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCZgOv3YDEs-ZnZWDYVwJdmA",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/7jWpj-w2DQ0/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "おは言え雑談 10月も暮れ 【 #奏手イヅル 】",
-        "video_id": "7jWpj-w2DQ0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -97,5 +88,14 @@
         "timestamp": 1793142000,
         "title": "【Five Nights at Freddy\u0026#39;s: Security Breach】I\u0026#39;M SUPERSTAR",
         "video_id": "YlzdFQIPBTM"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ATured4k3Jc/maxresdefault_live.jpg",
+        "timestamp": 1793134800,
+        "title": "Running For My Life Again 【Poppy Playtime Ch 4】",
+        "video_id": "ATured4k3Jc"
     }
 ]
