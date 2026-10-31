@@ -47,9 +47,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6b_lYraAX38/maxresdefault_live.jpg",
-        "timestamp": 1793476800,
+        "timestamp": null,
         "title": "【OKTOBERFEST】IT\u0026#39;S NOT HALLOWEEN OK, IT\u0026#39;S OKTOBERFEST!!!!!!!!!!!!! YAY~",
         "video_id": "6b_lYraAX38"
     },
@@ -101,9 +101,9 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/aOHjykM4YM0/maxresdefault_live.jpg",
-        "timestamp": 1793480400,
+        "timestamp": null,
         "title": "【AMNESIA: THE DARK DESCENT】end stream when im scared",
         "video_id": "aOHjykM4YM0"
     },
@@ -155,27 +155,18 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ml2X5Uk653E/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 ギャリー邸事件 】圧倒的高評価‼夜な夜な現れる名探偵鷹嶺！ー前編ー The Incident at Galley House【鷹嶺ルイ/ホロライブ】",
-        "video_id": "Ml2X5Uk653E"
-    },
-    {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Lf-TPN0wA-I/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】ハッピーハロウィン🎃初めてのホロ鯖ARK！！＃23【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "Lf-TPN0wA-I"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/fGpju71ebCA/maxresdefault_live.jpg",
+        "timestamp": 1793509200,
+        "title": "【 天皇賞(秋)/企画告知あり！ 】新衣装お披露目からの～天皇賞予想からの～企画告知！！！【 #鷹嶺ルイ競馬衣装 /ホロライブ】",
+        "video_id": "fGpju71ebCA"
     },
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/S1Ituq89HVE/maxresdefault_live.jpg",
-        "timestamp": 1793479500,
+        "timestamp": null,
         "title": "【F1同時視聴】メキシコGP！予選！！チャンピオンが決まる！？！？！【#輪堂千速 / #hololive #FLOWGLOW 】",
         "video_id": "S1Ituq89HVE"
     },
@@ -205,5 +196,32 @@
         "timestamp": 1793537100,
         "title": "【Dead by Daylight】人生初DBD✨愛しのアート・ザ・クラウン【ホロライブ  響咲リオナ】",
         "video_id": "Aj_IjmDH-qU"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2oiD9OaA_uU/maxresdefault_live.jpg",
+        "timestamp": 1793527200,
+        "title": "【 宝くじ開封 | メンバー限定 】ハロウィンジャンボ宝くじ40枚！FIREするのら！！！＃１０【姫森ルーナ/ホロライブ】",
+        "video_id": "2oiD9OaA_uU"
+    },
+    {
+        "channel": "https://www.youtube.com/@Dokibird",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YKzQI-_myZg/maxresdefault_live.jpg",
+        "timestamp": 1793491200,
+        "title": "【SPECIAL HALLOWEEN】Spooky special announcement【Dokibird】",
+        "video_id": "YKzQI-_myZg"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YKzQI-_myZg/maxresdefault_live.jpg",
+        "timestamp": 1793491200,
+        "title": "【SPECIAL HALLOWEEN】Spooky special announcement【Dokibird】",
+        "video_id": "YKzQI-_myZg"
     }
 ]
