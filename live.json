@@ -2,18 +2,18 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/9mGH-o1cabk/maxresdefault_live.jpg",
-        "timestamp": 1793412000,
-        "title": "spooky scary skeletons",
+        "timestamp": null,
+        "title": "spooky scary skeletons (no archive)",
         "video_id": "9mGH-o1cabk"
     },
     {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/z3I5yvxdD4w/maxresdefault_live.jpg",
-        "timestamp": 1793408400,
+        "timestamp": null,
         "title": "【#生スバル】おはすば！：FREE TALK【ホロライブ/大空スバル】",
         "video_id": "z3I5yvxdD4w"
     },
@@ -45,15 +45,6 @@
         "video_id": "B8N5bDGQ1EY"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_gigimurin",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/kQHedsQfOHs/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#GBVSR】COACHED BY FUMIKO HOSHI...AGAIN!",
-        "video_id": "kQHedsQfOHs"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCANDOlYTJT7N5jlRC3zfzVA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -61,15 +52,6 @@
         "timestamp": 1793419200,
         "title": "【勝利の女神:NIKKE】4周年で盛り上がる中、「RED ASH」を見ちゃう男【夕刻ロベル/ホロスターズ】",
         "video_id": "9ODAAzO7axU"
-    },
-    {
-        "channel": "https://www.youtube.com/@KoganeiNiko",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/TFWDFZ_RJog/maxresdefault_live.jpg",
-        "timestamp": 1793404800,
-        "title": "【 ＃朝ガオ vol.17 】今日はあまり元気じゃないですが久しぶりに話しましょう【虎金妃笑虎】",
-        "video_id": "TFWDFZ_RJog"
     },
     {
         "channel": "https://www.youtube.com/channel/UCAoy6rzhSf4ydcYjJw3WoVg",
@@ -83,10 +65,10 @@
     {
         "channel": "https://www.youtube.com/@HakuiKoyori",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/MACFr5pXH4U/maxresdefault_live.jpg",
-        "timestamp": 1793412000,
-        "title": "【空の軌跡 the 2nd】完全初見！第4章はじまる！？いざグランセルへ！ #5 【博衣こより/ホロライブ】※ネタバレあり",
+        "timestamp": null,
+        "title": "【空の軌跡 the 2nd】完全初見！第4章はじまる！？いざボースへ！ #5 【博衣こより/ホロライブ】※ネタバレあり",
         "video_id": "MACFr5pXH4U"
     },
     {
@@ -108,15 +90,6 @@
         "video_id": "GB6MNA9grKw"
     },
     {
-        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/VosenI0712s/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "LTK LoL  LRチームの皆さんと練習！！！！！！！！！ / アステル with ねすてぃー",
-        "video_id": "VosenI0712s"
-    },
-    {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -133,5 +106,23 @@
         "timestamp": 1793451600,
         "title": "よていち【#輪堂千速 / #hololive #FLOWGLOW 】",
         "video_id": "m2pekd7ZL6c"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCdYR5Oyz8Q4g0ZmB4PkTD7g",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/x-O0pKl6XV0/maxresdefault_live.jpg",
+        "timestamp": 1793426400,
+        "title": "〖 紅の砂漠 〗#5 DLCもやってみます",
+        "video_id": "x-O0pKl6XV0"
+    },
+    {
+        "channel": "https://www.youtube.com/@HimemoriLuna",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/0nxO9774M1w/maxresdefault_live.jpg",
+        "timestamp": 1793451600,
+        "title": "【 メンバー限定 】ハロウィン特別企画🎃叡智な大人のASMR…なのら(・o・🍬)【姫森ルーナ/ホロライブ】",
+        "video_id": "0nxO9774M1w"
     }
 ]
