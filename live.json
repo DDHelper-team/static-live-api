@@ -20,9 +20,9 @@
     {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/FZ7rqXi-Bvg/maxresdefault_live.jpg",
-        "timestamp": 1793562300,
+        "timestamp": null,
         "title": "【F1同時視聴】メキシコGP！絶対見逃せない決勝！！！！【#輪堂千速 / #hololive #FLOWGLOW 】",
         "video_id": "FZ7rqXi-Bvg"
     },
@@ -36,20 +36,11 @@
         "video_id": "NwX5rfNh3yI"
     },
     {
-        "channel": "https://www.youtube.com/@KikiraraVivi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bnxbPxmpqQc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】ガルガンダーテイム！初めてのホロ鯖ARK！！＃24【#綺々羅々ヴィヴィ #hololive  #FLOWGLOW】",
-        "video_id": "bnxbPxmpqQc"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/-CttcNadrdY/maxresdefault_live.jpg",
-        "timestamp": 1793572200,
+        "timestamp": null,
         "title": "【#朝ミオ 】１１月だ！月曜日だよ～～！おはみぉーん！",
         "video_id": "-CttcNadrdY"
     },
@@ -90,15 +81,6 @@
         "video_id": "s8bcmHJ_4fU"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/Ae0g2ETlea0/maxresdefault_live.jpg",
-        "timestamp": 1793559600,
-        "title": "【not really ASMR】Literally and figuratively reading you a book!",
-        "video_id": "Ae0g2ETlea0"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -106,5 +88,14 @@
         "timestamp": 1793577600,
         "title": "【ONE MILLION CELEBRATION】Featuring Momseki, Debut Watchalong, and A SURPRISE?!",
         "video_id": "i98EfvV4i2Q"
+    },
+    {
+        "channel": "https://www.youtube.com/@MizumiyaSu",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/2czNjeqndOk/maxresdefault_live.jpg",
+        "timestamp": 1793626200,
+        "title": "【#8】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
+        "video_id": "2czNjeqndOk"
     }
 ]
