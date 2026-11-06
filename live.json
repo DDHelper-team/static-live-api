@@ -11,27 +11,27 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6oGdOpLqkws/maxresdefault_live.jpg",
-        "timestamp": 1793923200,
+        "timestamp": null,
         "title": "I\u0026#39;m just a little Alice! 【Withering Rooms】",
         "video_id": "6oGdOpLqkws"
     },
     {
         "channel": "https://www.youtube.com/@Dokibird",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dx4Iy6Q8us4/maxresdefault_live.jpg",
-        "timestamp": 1793923200,
+        "timestamp": null,
         "title": "【DEADLOCK TOURNAMENT】Manhattan Mayhem Day 2【Dokibird】",
         "video_id": "dx4Iy6Q8us4"
     },
     {
         "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/dx4Iy6Q8us4/maxresdefault_live.jpg",
-        "timestamp": 1793923200,
+        "timestamp": null,
         "title": "【DEADLOCK TOURNAMENT】Manhattan Mayhem Day 2【Dokibird】",
         "video_id": "dx4Iy6Q8us4"
     },
@@ -83,9 +83,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/79NZJTU3R-A/maxresdefault_live.jpg",
-        "timestamp": 1793923200,
+        "timestamp": null,
         "title": "【The Legend of Zelda: Ocarina of Time Remake】don\u0026#39;t smack the chickens",
         "video_id": "79NZJTU3R-A"
     },
@@ -124,5 +124,14 @@
         "timestamp": 1793966400,
         "title": "【 ヒツジのいらない枕 】アンバサダーのお仕事です！超豪華なコラボキャンペーン情報を解禁するよ～📢【角巻わため/ホロライブ４期生】",
         "video_id": "-pDfy5uD06Q"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/bY7R4O4Eruk/maxresdefault_live.jpg",
+        "timestamp": 1794013200,
+        "title": "【ZELDA: MAJORA\u0026#39;S MASK】\u0026quot;I Think the Mask Vendor is Hot\u0026quot; (part 3) #calliolive",
+        "video_id": "bY7R4O4Eruk"
     }
 ]
