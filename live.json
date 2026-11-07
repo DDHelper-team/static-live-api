@@ -11,11 +11,11 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/BXafvmQoFZQ/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【 #ホロARK 】初心者がいく🔰列車と冒険すうのArk最終日！【水宮枢／ホロライブ】",
-        "video_id": "BXafvmQoFZQ"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/sm56j6A9qrY/maxresdefault_live.jpg",
+        "timestamp": 1794128400,
+        "title": "【 #ホロ1GP 】狙うのはドパただそれだけ、、✨️【水宮枢／ホロライブ】",
+        "video_id": "sm56j6A9qrY"
     },
     {
         "channel": "https://www.youtube.com/channel/UC1DCedRgGHBdm81E1llLhOQ",
@@ -25,15 +25,6 @@
         "timestamp": 1794128400,
         "title": "【マイクラ】 #ホロ1GP 大勝会場 ぺこ！【ホロライブ/兎田ぺこら】",
         "video_id": "7J5ytqVW5BY"
-    },
-    {
-        "channel": "https://www.youtube.com/@AZKi",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/dLRZ8R9sccM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#ホロ鯖ARK】カワウ荘でお世話になります！2 ARK: Survival Ascended【ホロライブ / AZKi】",
-        "video_id": "dLRZ8R9sccM"
     },
     {
         "channel": "https://www.youtube.com/@KikiraraVivi",
@@ -52,15 +43,6 @@
         "timestamp": 1794128400,
         "title": "【 #ホロ1GP 】神視点！本格実況付き✨マイクラ競馬で一攫千金を狙え！！ 【鷹嶺ルイ/ホロライブ】",
         "video_id": "ShQEwCHd838"
-    },
-    {
-        "channel": "https://www.youtube.com/@RindoChihaya",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/woLxDBfyUBg/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【F1同時視聴】ブラジルGP！予選！！【#輪堂千速 / #hololive #FLOWGLOW 】",
-        "video_id": "woLxDBfyUBg"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -187,5 +169,32 @@
         "timestamp": 1794128400,
         "title": "【#ホロ1GP】5000兆円稼ぐぞ！－ホロ1グランプリ－【獅白ぼたん/ホロライブ】",
         "video_id": "W7meQ6PrDpo"
+    },
+    {
+        "channel": "https://www.youtube.com/@TsunomakiWatame",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/HNsjOXRyBPA/maxresdefault_live.jpg",
+        "timestamp": 1794128400,
+        "title": "【  #ホロ1GP  】ドドドレース経験から予想家を頼まれたひつじは勘性で予想をする！！【角巻わため/ホロライブ４期生】",
+        "video_id": "HNsjOXRyBPA"
+    },
+    {
+        "channel": "https://www.youtube.com/@ShiroganeNoel",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ITPrSx_TY3k/maxresdefault_live.jpg",
+        "timestamp": 1794099600,
+        "title": "【朝活雑談】15時間半ARK配信して起きれるのかだんちょ...？【白銀ノエル/ホロライブ】",
+        "video_id": "ITPrSx_TY3k"
+    },
+    {
+        "channel": "https://www.youtube.com/@SakuraMiko",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ew6vJm5cK8c/maxresdefault_live.jpg",
+        "timestamp": 1794128400,
+        "title": "【Minecraft】#ホロ1GP で大勝するにぇええええええぇえええええええ‼🏇【ホロライブ/さくらみこ】",
+        "video_id": "ew6vJm5cK8c"
     }
 ]
