@@ -38,11 +38,11 @@
     {
         "channel": "https://www.youtube.com/@TakaneLui",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/ShQEwCHd838/maxresdefault_live.jpg",
-        "timestamp": 1794128400,
-        "title": "【 #ホロ1GP 】神視点！本格実況付き✨マイクラ競馬で一攫千金を狙え！！ 【鷹嶺ルイ/ホロライブ】",
-        "video_id": "ShQEwCHd838"
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/YnpgOMIHGsU/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "【 ドラゴンクエスト ビルダーズ2 】完全初見！これはとんでもない神ゲーだ…【鷹嶺ルイ/ホロライブ】ネタバレあり",
+        "video_id": "YnpgOMIHGsU"
     },
     {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
@@ -65,9 +65,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6AQ-ghYOxmc/maxresdefault_live.jpg",
-        "timestamp": 1794099600,
+        "timestamp": null,
         "title": "【ZELDA: MAJORA\u0026#39;S MASK】only game I wanna play right now sorry.... (part 4) #calliolive",
         "video_id": "6AQ-ghYOxmc"
     },
@@ -119,9 +119,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/1lnTcqnqB-o/maxresdefault_live.jpg",
-        "timestamp": 1794096000,
+        "timestamp": null,
         "title": "【The Legend of Zelda: Ocarina of Time Remake】HEY LISTEN (to my ocarina)",
         "video_id": "1lnTcqnqB-o"
     },
@@ -144,24 +144,6 @@
         "video_id": "XloQPhUDsKk"
     },
     {
-        "channel": "https://www.youtube.com/channel/UComInW10MkHJs-_vi4rHQCQ",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YLC5KWcM0YM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DEADLOCK TOURNAMENT】Manhattan Mayhem Day 3【Dokibird】",
-        "video_id": "YLC5KWcM0YM"
-    },
-    {
-        "channel": "https://www.youtube.com/@Dokibird",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/YLC5KWcM0YM/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【DEADLOCK TOURNAMENT】Manhattan Mayhem Day 3【Dokibird】",
-        "video_id": "YLC5KWcM0YM"
-    },
-    {
         "channel": "https://www.youtube.com/@ShishiroBotan",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -182,9 +164,9 @@
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/ITPrSx_TY3k/maxresdefault_live.jpg",
-        "timestamp": 1794099600,
+        "timestamp": null,
         "title": "【朝活雑談】15時間半ARK配信して起きれるのかだんちょ...？【白銀ノエル/ホロライブ】",
         "video_id": "ITPrSx_TY3k"
     },
@@ -196,5 +178,14 @@
         "timestamp": 1794128400,
         "title": "【Minecraft】#ホロ1GP で大勝するにぇええええええぇえええええええ‼🏇【ホロライブ/さくらみこ】",
         "video_id": "ew6vJm5cK8c"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/BL3L8kvAPsw/maxresdefault_live.jpg",
+        "timestamp": 1794106800,
+        "title": "【 #ホロ鯖ARK 】最終回｜常闇ファミリアでBOSS挑戦するぞ！！【常闇トワ/ホロライブ】",
+        "video_id": "BL3L8kvAPsw"
     }
 ]
