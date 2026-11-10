@@ -81,15 +81,6 @@
         "video_id": "pvLYCKVe5co"
     },
     {
-        "channel": "https://www.youtube.com/channel/UC1suqwovbL1kzsoaZgFZLKg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/MwZZ46oXq2o/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【ARK:Survival Ascended】アストレオスで素材王修行するのだ！【ホロライブ/癒月ちょこ】",
-        "video_id": "MwZZ46oXq2o"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -119,10 +110,19 @@
     {
         "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/CMfH_e1UXrY/maxresdefault_live.jpg",
-        "timestamp": 1794341400,
+        "timestamp": null,
         "title": "【BASTION】PLAYING MY FAVOURITE CHILDHOOD GAME AND MAKING YOU WATCH CAUSE IT\u0026#39;S MY BDAY WEEK! #CCWEEK",
         "video_id": "CMfH_e1UXrY"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_gigimurin",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tNpNejI5B0Q/maxresdefault_live.jpg",
+        "timestamp": 1794362400,
+        "title": "【DEADLOCK】MORE DEADLOCK MORE DEADLOCK MORE DEADLOCK @HyakutoKyoko​",
+        "video_id": "tNpNejI5B0Q"
     }
 ]
