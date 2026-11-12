@@ -1,14 +1,5 @@
 [
     {
-        "channel": "https://www.youtube.com/channel/UCZLZ8Jjx_RN2CXloOmgTHVg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/1DgmM6D8jo8/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Farm \u0026amp; Feast】THIS GAME IS FINALLY RELEASED!!! HYPPEEEEEEE",
-        "video_id": "1DgmM6D8jo8"
-    },
-    {
         "channel": "https://www.youtube.com/channel/UCvzGlP9oQwU--Y0r9id_jnA",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -38,11 +29,14 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/NIu4TRnmERk/maxresdefault_live.jpg",
-        "timestamp": 1794520800,
-        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】LETS START TOURNAMENT ARC!!!!",
-        "video_id": "NIu4TRnmERk"
+        "status": "LOGIN_REQUIRED",
+        "thumbnail": "https://i.ytimg.com/vi//maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": [
+            "YouTube",
+            "YouTube",
+            "YouTube"
+        ]
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -108,15 +102,6 @@
         "video_id": "qr77W-ixPIU"
     },
     {
-        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
-        "platform": "youtube",
-        "status": "READY_TO_LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/oBTnjJoVtP0/maxresdefault_live.jpg",
-        "timestamp": 1794513600,
-        "title": "【TIERLIST】Nah, I\u0026#39;d win (against all of them) #CCWEEK",
-        "video_id": "oBTnjJoVtP0"
-    },
-    {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -142,5 +127,23 @@
         "timestamp": 1794574800,
         "title": "【 めっちゃカメレオン 】何気に、わためぇ初めちゃカメです！ﾄﾞｷﾄﾞｷ...！！！【角巻わため/ホロライブ４期生】",
         "video_id": "YZh1vbE9mHU"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/6Y44pwznOBc/maxresdefault_live.jpg",
+        "timestamp": 1794531600,
+        "title": "【SUNSET SUMMIT】ADVENT ON TOP",
+        "video_id": "6Y44pwznOBc"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC2L0MeiLsfJf4rH_xTVteDw",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/ECgmkzl1K2M/maxresdefault_live.jpg",
+        "timestamp": 1794583800,
+        "title": "【KU100/ASMR】愛のある耳キス＆耳はむはいかが？♡お耳のフルコースで徹底的に癒します♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
+        "video_id": "ECgmkzl1K2M"
     }
 ]
