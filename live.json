@@ -11,32 +11,29 @@
     {
         "channel": "https://www.youtube.com/channel/UCgnfPPb9JI3e9A4cXHnWbyg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/zdRBTgdgmKA/maxresdefault_live.jpg",
-        "timestamp": 1794531600,
+        "timestamp": null,
         "title": "You can call me \u0026#39;UNCLE\u0026#39;【Sunset Summit】",
         "video_id": "zdRBTgdgmKA"
     },
     {
         "channel": "https://www.youtube.com/channel/UCL_qhgtOy0dy1Agp8vkySQg",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/EGyR-p-dwc4/maxresdefault_live.jpg",
-        "timestamp": 1794531600,
+        "timestamp": null,
         "title": "【MARVEL Tōkon: Fighting Souls】fighting on my couch!! with  ⁨@NinomaeInanis⁩  !! #calliolive #PR",
         "video_id": "EGyR-p-dwc4"
     },
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "LOGIN_REQUIRED",
-        "thumbnail": "https://i.ytimg.com/vi//maxresdefault_live.jpg",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/NIu4TRnmERk/maxresdefault_live.jpg",
         "timestamp": null,
-        "title": [
-            "YouTube",
-            "YouTube",
-            "YouTube"
-        ]
+        "title": "【TRAILS IN THE SKY: 1ST CHAPTER】LETS START TOURNAMENT ARC!!!!",
+        "video_id": "NIu4TRnmERk"
     },
     {
         "channel": "https://www.youtube.com/@HimemoriLuna",
@@ -77,9 +74,9 @@
     {
         "channel": "https://www.youtube.com/channel/UCt9H_RpQzhxzlyBxFqrdHqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/H6VK2m70bns/maxresdefault_live.jpg",
-        "timestamp": 1794531600,
+        "timestamp": null,
         "title": "【SUNSET SUMMIT COLLAB】what waits for us at the top of the summit? 🐾  #holoAdvent 【FUWAWA SOLO】",
         "video_id": "H6VK2m70bns"
     },
@@ -131,9 +128,9 @@
     {
         "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/6Y44pwznOBc/maxresdefault_live.jpg",
-        "timestamp": 1794531600,
+        "timestamp": null,
         "title": "【SUNSET SUMMIT】ADVENT ON TOP",
         "video_id": "6Y44pwznOBc"
     },
@@ -145,5 +142,32 @@
         "timestamp": 1794583800,
         "title": "【KU100/ASMR】愛のある耳キス＆耳はむはいかが？♡お耳のフルコースで徹底的に癒します♡睡眠導入耳責めASMR♡【高音質】EarCleaning,Whispering,MouthSounds",
         "video_id": "ECgmkzl1K2M"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UCNVEsYbiZjH5QLmGeSgTSzg",
+        "platform": "youtube",
+        "status": "LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/m8LOmTpNUP4/maxresdefault_live.jpg",
+        "timestamp": null,
+        "title": "おはようの森！！！！  / アステル",
+        "video_id": "m8LOmTpNUP4"
+    },
+    {
+        "channel": "https://www.youtube.com/@holoen_ceciliaimmergreen",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/nSbZ7y6C7vk/maxresdefault_live.jpg",
+        "timestamp": 1794589200,
+        "title": "【JOHN WICK】Forcing you to watch my fav action flick with me cause it\u0026#39;s my bday (week) #CCWEEK",
+        "video_id": "nSbZ7y6C7vk"
+    },
+    {
+        "channel": "https://www.youtube.com/@TokoyamiTowa",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/tQU2ejMcXWc/maxresdefault_live.jpg",
+        "timestamp": 1794564000,
+        "title": "【 セルフ3D 】はじめ先生に『Deep Dive』の振付をレッスンしてもらいます！！🕺【常闇トワ/ホロライブ】",
+        "video_id": "tQU2ejMcXWc"
     }
 ]
