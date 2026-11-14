@@ -18,15 +18,6 @@
         "video_id": "Tf2BhcIFgwU"
     },
     {
-        "channel": "https://www.youtube.com/channel/UChAnqc_AY5_I3Px5dig3X1Q",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/49pkUAMPDGY/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【バイオハザード HDリマスター】ジル編、クリアまで突っ走る！！（よゆー）",
-        "video_id": "49pkUAMPDGY"
-    },
-    {
         "channel": "https://www.youtube.com/@RindoChihaya",
         "platform": "youtube",
         "status": "READY_TO_LIVE",
@@ -47,20 +38,20 @@
     {
         "channel": "https://www.youtube.com/@MizumiyaSu",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/zptsMXYZunc/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【#10】LOST JUDGMENT：裁かれざる記憶 ※ネタバレ有【水宮枢／ホロライブ】",
-        "video_id": "zptsMXYZunc"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/Mfa13xlRqYw/maxresdefault_live.jpg",
+        "timestamp": 1794747600,
+        "title": "【 #ころすう 】圧×圧 初マシュマロ対談コラボ🐶🩵【水宮枢／ホロライブ】",
+        "video_id": "Mfa13xlRqYw"
     },
     {
         "channel": "https://www.youtube.com/@holoen_raorapanthera",
         "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/bGVYY8c_0Ek/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【UNDERTALE】this is the end, is it not???【Genocide Run】",
-        "video_id": "bGVYY8c_0Ek"
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/-haVXf58eTs/maxresdefault_live.jpg",
+        "timestamp": 1794715200,
+        "title": "【COOKING STREAM】Kyoko will teach me to cook Omurice!",
+        "video_id": "-haVXf58eTs"
     },
     {
         "channel": "https://www.youtube.com/@ShiroganeNoel",
@@ -101,38 +92,11 @@
     {
         "channel": "https://www.youtube.com/@holoen_gigimurin",
         "platform": "youtube",
-        "status": "READY_TO_LIVE",
+        "status": "LIVE",
         "thumbnail": "https://i.ytimg.com/vi/qhCOQm1N678/maxresdefault_live.jpg",
-        "timestamp": 1794682800,
+        "timestamp": null,
         "title": "【#WORLDS2026】LEGENDS NEVER DIE",
         "video_id": "qhCOQm1N678"
-    },
-    {
-        "channel": "https://www.youtube.com/@Hizuki_Yui_",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HYepas-Ecys/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【メタファー：リファンタジオ】# 最終回 | 完全初見！本当に最後の戦い。【緋月ゆい/ネオポルテ】※ネタバレあり",
-        "video_id": "HYepas-Ecys"
-    },
-    {
-        "channel": "https://www.youtube.com/channel/UCuk7vapXKckSw6yCGGDspDg",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/HYepas-Ecys/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【メタファー：リファンタジオ】# 最終回 | 完全初見！本当に最後の戦い。【緋月ゆい/ネオポルテ】※ネタバレあり",
-        "video_id": "HYepas-Ecys"
-    },
-    {
-        "channel": "https://www.youtube.com/@MoonaHoshinova",
-        "platform": "youtube",
-        "status": "LIVE",
-        "thumbnail": "https://i.ytimg.com/vi/45gTtd9wNgI/maxresdefault_live.jpg",
-        "timestamp": null,
-        "title": "【Graveyard Keeper】still identity crisis【hololive | moona】",
-        "video_id": "45gTtd9wNgI"
     },
     {
         "channel": "https://www.youtube.com/@Patra_Suou",
@@ -169,5 +133,14 @@
         "timestamp": 1794740400,
         "title": "【 🟢時のオカリナリメイク 】ついに遊ぶぞｵｵｵｵｵｵ!!! #02【 猫又おかゆ/ホロライブ 】",
         "video_id": "Q4iThbjrF0Y"
+    },
+    {
+        "channel": "https://www.youtube.com/channel/UC9p_lqQ0FEDz327Vgf5JwqA",
+        "platform": "youtube",
+        "status": "READY_TO_LIVE",
+        "thumbnail": "https://i.ytimg.com/vi/lZUwwHkYW7I/maxresdefault_live.jpg",
+        "timestamp": 1794700800,
+        "title": "【The Legend of Zelda: Ocarina of Time Remake】Janondorf of the Jerudo",
+        "video_id": "lZUwwHkYW7I"
     }
 ]
